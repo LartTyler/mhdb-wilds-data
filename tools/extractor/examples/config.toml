@@ -1,0 +1,29 @@
+[tools]
+msg_extractor = "tools/REMSG_Converter/msg2json.bat"
+data_extractor = "tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe"
+
+[io]
+data_dir = "./data"
+output_dir = "./output"
+
+[extract]
+prefix = "natives/STM/GameDesign/Common"
+files = [
+    "Equip/AccessoryData.user.3",
+    "Equip/AmuletData.user.3",
+    "Equip/AmuletRecipeData.user.3",
+    "Equip/ArmorData.user.3",
+    "Equip/ArmorRecipeData.user.3",
+    "Equip/ArmorSeriesData.user.3",
+    "Equip/Charm.user.3",
+    "Equip/SkillCommonData.user.3",
+    "Equip/SkillData.user.3",
+]
+
+[translations]
+prefix = "natives/STM/GameDesign/Text"
+files = [
+    "Excel_Equip/Accessory.msg.23",
+    "Excel_Equip/Amulet.msg.23",
+    "Excel_Equip/Armor.msg.23"
+]
