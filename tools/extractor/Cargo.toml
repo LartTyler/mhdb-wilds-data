@@ -5,5 +5,7 @@ edition = "2021"
 
 [dependencies]
 clap = { version = "4.5.31", features = ["derive"] }
+console = "0.15.11"
+indicatif = "0.17.11"
 serde = { version = "1.0.218", features = ["derive"] }
 toml = "0.8.20"

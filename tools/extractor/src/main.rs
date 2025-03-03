@@ -1,6 +1,8 @@
 use crate::cli::Cli;
 use crate::config::Config;
 use clap::Parser;
+use console::Style;
+use indicatif::ProgressBar;
 use std::path::{Path, PathBuf};
 use std::{fs, io};
 
@@ -40,11 +42,18 @@ fn setup<P: AsRef<Path>>(
 }
 
 fn run(cli: &Cli, config: &Config) {
+    let style = Style::new().bold().dim();
+
     if !cli.skip_data {
+        let progress = ProgressBar::new(config.extract.files.len() as u64);
+        println!("{} Running data targets...", style.apply_to("[1/2]"));
+
         let (in_dir, out_dir) = setup(config, config.extract.prefix.as_deref(), "data".as_ref())
             .expect("Could not prep in/out dirs");
 
         for item in &config.extract.files {
+            progress.inc(1);
+
             let in_path = in_dir.join(item);
             let out_path = out_dir
                 .join(item.file_name().unwrap())
@@ -57,9 +66,14 @@ fn run(cli: &Cli, config: &Config) {
                 panic!("Failed to execute previous command.");
             }
         }
+
+        progress.finish_and_clear();
     }
 
     if !cli.skip_translations {
+        let progress = ProgressBar::new(config.translations.files.len() as u64);
+        println!("{} Running translation targets...", style.apply_to("[2/2]"));
+
         let (in_dir, out_dir) = setup(
             config,
             config.translations.prefix.as_deref(),
@@ -68,6 +82,8 @@ fn run(cli: &Cli, config: &Config) {
         .expect("Could not prep in/out dirs");
 
         for item in &config.translations.files {
+            progress.inc(1);
+
             let in_path = in_dir.join(item);
             let success = command::exec(
                 &config.tools.msg_extractor,
@@ -89,5 +105,7 @@ fn run(cli: &Cli, config: &Config) {
                 _ => (),
             };
         }
+
+        progress.finish_and_clear();
     }
 }
