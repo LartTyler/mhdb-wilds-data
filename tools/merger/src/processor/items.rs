@@ -81,6 +81,7 @@ pub fn process(config: &Config) -> Result {
 
     progress.finish_and_clear();
 
+    merged.sort_by_key(|v| v.game_id);
     merged.write_file(config.io.output_dir.join(OUTPUT))
 }
 

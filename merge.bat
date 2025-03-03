@@ -1,1 +1,1 @@
-tools\merger\target\debug\merger.exe
+cargo run --manifest-path tools\merger\Cargo.toml
