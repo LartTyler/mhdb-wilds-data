@@ -1,3 +1,4 @@
+use crate::serde::ordered_map;
 use crate::config::Config;
 use crate::processor::{LanguageMap, LevelMap, ReadFile, Result, Translations, WriteFile};
 use indicatif::ProgressBar;
@@ -17,43 +18,32 @@ pub fn process(config: &Config) -> Result {
 
     let mut merged: Vec<Accessory> = Vec::with_capacity(data.len());
 
-    for item in data {
+    for data in data {
         progress.inc(1);
 
-        let mut names = LanguageMap::new();
-        let mut descriptions = LanguageMap::new();
+        let mut accessory = Accessory::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get_value(&item.name_guid, index);
+            let name = translations.get_value(&data.name_guid, index);
 
             if let Some(name) = name {
-                names.insert(*lang, name.to_owned());
+                accessory.names.insert(*lang, name.to_owned());
             }
 
-            let desc = translations.get_value(&item.description_guid, index);
+            let desc = translations.get_value(&data.description_guid, index);
 
             if let Some(desc) = desc {
-                descriptions.insert(*lang, desc.to_owned());
+                accessory.descriptions.insert(*lang, desc.to_owned());
             }
         }
 
-        let mut skills = LevelMap::new();
-
-        for (id, level) in item.skill_ids.iter().zip(item.skill_levels) {
+        for (id, level) in data.skill_ids.iter().zip(data.skill_levels) {
             if *id != 0 {
-                skills.insert(*id, level);
+                accessory.skills.insert(*id, level);
             }
         }
 
-        merged.push(Accessory {
-            game_id: item.id,
-            rarity: item.rarity,
-            price: item.price,
-            level: item.level,
-            names,
-            descriptions,
-            skills,
-        });
+        merged.push(accessory);
     }
 
     progress.finish_and_clear();
@@ -65,12 +55,29 @@ pub fn process(config: &Config) -> Result {
 #[derive(Debug, Serialize)]
 struct Accessory {
     game_id: isize,
+    #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
+    #[serde(serialize_with = "ordered_map")]
     descriptions: LanguageMap,
     rarity: u8,
     price: u16,
     level: u8,
-    skills: HashMap<isize, u8>,
+    #[serde(serialize_with = "ordered_map")]
+    skills: LevelMap,
+}
+
+impl From<&AccessoryData> for Accessory {
+    fn from(value: &AccessoryData) -> Self {
+        Self {
+            game_id: value.id,
+            rarity: value.rarity,
+            price: value.price,
+            level: value.level,
+            names: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
+            skills: LevelMap::new(),
+        }
+    }
 }
 
 #[derive(Debug, Deserialize)]

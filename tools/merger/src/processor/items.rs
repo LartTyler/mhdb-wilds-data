@@ -1,5 +1,6 @@
 use crate::config::Config;
 use crate::processor::{LanguageMap, ReadFile, Result, Translations, WriteFile};
+use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
 
@@ -16,41 +17,31 @@ pub fn process(config: &Config) -> Result {
 
     let mut merged: Vec<Item> = Vec::with_capacity(data.len());
 
-    for item in data {
+    for data in data {
+        progress.inc(1);
+
         // ID 1 appears to be a placeholder item used in recipes with only one ingredient.
-        if item.id == 1 {
+        if data.id == 1 {
             continue;
         }
 
-        progress.inc(1);
-
-        let mut names = LanguageMap::new();
-        let mut descriptions = LanguageMap::new();
+        let mut item = Item::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get_value(&item.name_guid, index);
+            let name = translations.get_value(&data.name_guid, index);
 
             if let Some(name) = name {
-                names.insert(*lang, name.to_owned());
+                item.names.insert(*lang, name.to_owned());
             }
 
-            let desc = translations.get_value(&item.description_guid, index);
+            let desc = translations.get_value(&data.description_guid, index);
 
             if let Some(desc) = desc {
-                descriptions.insert(*lang, desc.to_owned());
+                item.descriptions.insert(*lang, desc.to_owned());
             }
         }
 
-        merged.push(Item {
-            game_id: item.id,
-            rarity: item.rarity,
-            buy_price: item.buy_price,
-            sell_price: item.sell_price,
-            max_count: item.max_count,
-            recipe: None,
-            names,
-            descriptions,
-        });
+        merged.push(item);
     }
 
     progress.finish_and_clear();
@@ -68,15 +59,7 @@ pub fn process(config: &Config) -> Result {
             continue;
         };
 
-        item.recipe = Some(Recipe {
-            amount: recipe.output_amount,
-            inputs: recipe
-                .input_ids
-                .iter()
-                .cloned()
-                .filter(|v| v != &1)
-                .collect(),
-        });
+        item.recipe = Some(recipe.into());
     }
 
     progress.finish_and_clear();
@@ -88,7 +71,9 @@ pub fn process(config: &Config) -> Result {
 #[derive(Debug, Serialize)]
 struct Item {
     game_id: isize,
+    #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
+    #[serde(serialize_with = "ordered_map")]
     descriptions: LanguageMap,
     rarity: u8,
     max_count: u8,
@@ -97,10 +82,37 @@ struct Item {
     recipe: Option<Recipe>,
 }
 
+impl From<&ItemData> for Item {
+    fn from(value: &ItemData) -> Self {
+        Self {
+            game_id: value.id,
+            rarity: value.rarity,
+            max_count: value.max_count,
+            sell_price: value.sell_price,
+            buy_price: value.buy_price,
+            names: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
+            recipe: None,
+        }
+    }
+}
+
 #[derive(Debug, Serialize)]
 struct Recipe {
     amount: u8,
     inputs: Vec<isize>,
+}
+
+impl From<RecipeData> for Recipe {
+    fn from(value: RecipeData) -> Self {
+        let mut inputs: Vec<_> = value.input_ids.into_iter().filter(|v| v != &1).collect();
+        inputs.sort();
+
+        Self {
+            amount: value.output_amount,
+            inputs,
+        }
+    }
 }
 
 #[derive(Debug, Deserialize)]

@@ -52,7 +52,7 @@ pub enum Error {
 }
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
-#[derive(Debug, PartialEq, Eq, Deserialize_repr, Copy, Clone, Serialize, Hash)]
+#[derive(Debug, PartialEq, Eq, Deserialize_repr, Copy, Clone, Serialize, Hash, Ord, PartialOrd)]
 #[repr(isize)]
 enum Language {
     #[serde(rename = "")]

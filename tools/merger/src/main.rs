@@ -5,6 +5,7 @@ use crate::config::Config;
 mod cli;
 mod config;
 mod processor;
+mod serde;
 
 fn main() -> processor::Result {
     let cli = Cli::parse();
