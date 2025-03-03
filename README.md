@@ -17,7 +17,7 @@
 # Tools
 |Tool|Purpose|
 |---|---|
-|[REtool](https://residentevilmodding.boards.net/thread/10567/pak-tex-editing-tool)|Extracking data files from `.pak` (requires dtlnor's [MHWs.list](https://github.com/dtlnor/MonsterHunterWildsModding/blob/main/files/MHWs.list) file)|
+|[REtool](https://residentevilmodding.boards.net/thread/10567/pak-tex-editing-tool)|Extracting data files from `.pak` (requires dtlnor's [MHWs.list](https://github.com/dtlnor/MonsterHunterWildsModding/blob/main/files/MHWs.list) file)|
 |[REMSG_Converter](https://github.com/dtlnor/REMSG_Converter)|Convert `.msg.23` translation files into JSON|
 |[RszTool](https://github.com/czastack/RszTool)|Convenient `.user.3` browsing and searching|
 
