@@ -58,3 +58,25 @@ this file has a `skillId` field which points to the `skillId` field in `SkillCom
 Basically, in order to get all the information on a skill and it's levels, you'll need both files. IMO the best option
 would be to parse `SkillCommonData.user.3` first, index each entry by its `skillId` field, then parse `SkillData.user.3`
 to get the levels and add them to your partial skills last.
+
+
+## Items
+### Data Files
+- `natives/STM/GameDesign/Common/ItemData.user.3`
+- `natives/STM/GameDesign/Common/ItemRecipe.user.3`
+
+### Translation Files
+- `natives/STM/GameDesign/Text/Excel_Data/Item.msg.23`
+
+### Notes
+For recipe data, it looks like every item with a recipe _always_ has two IDs listed as an input. For items with only one
+input, it seems like one of those IDs is always `1`, which points to an item in the files with no name or other
+information. My guess is that this is just an empty item and is ignored by the game when displaying or crafting recipes.
+
+Fields listed below are my best guess, based on which items have the flag set.
+
+|Field|Type|Description|Example|
+|---|---|---|---|
+|`_Infinit`|boolean|Item isn't consumed on use|Capture Net|
+|`_ForMoney`|boolean|Item is a treasure item|Silver Egg|
+|`_Battle`|boolean|Item is a trap or slinger ammo|Screamer pod, drugged meat, shock trap|
