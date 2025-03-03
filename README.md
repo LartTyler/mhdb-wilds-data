@@ -1,3 +1,19 @@
+- [Tools](#tools)
+- [Research](#research)
+  - [Decorations (Accessories)](#decorations-accessories)
+    - [Data Files](#data-files)
+    - [Translation Files](#translation-files)
+    - [Notes](#notes)
+  - [Skills](#skills)
+    - [Data Files](#data-files-1)
+    - [Translation Files](#translation-files-1)
+    - [Notes](#notes-1)
+  - [Items](#items)
+    - [Data Files](#data-files-2)
+    - [Translation Files](#translation-files-2)
+    - [Notes](#notes-2)
+
+
 # Tools
 |Tool|Purpose|
 |---|---|
@@ -6,12 +22,13 @@
 |[RszTool](https://github.com/czastack/RszTool)|Convenient `.user.3` browsing and searching|
 
 # Research
-- Most files that we care about for the database project appear to be located in:
-  - `natives/STM/GameDesign/Common/{Enemy, Equip, Item, Weapon}`
-  - `natives/STM/GameDesign/Text/Excel_*`
-- Every file I've examined so far appears to start with a dummy value as the first object. Maybe a template or base
-  object? Something like that? Regardless, I'm like 99% certain we can ignore the first definition in every `.user.3`
-  file.
+Most files that we care about for the database project appear to be located in:
+- `natives/STM/GameDesign/Common/{Enemy, Equip, Item, Weapon}`
+- `natives/STM/GameDesign/Text/Excel_*`
+
+Every file I've examined so far appears to start with a dummy value as the first object. Maybe a template or base
+object? Something like that? Regardless, I'm like 99% certain we can ignore the first definition in every `.user.3`
+file.
 
 ## Decorations (Accessories)
 ### Data Files
