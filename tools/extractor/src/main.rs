@@ -1,7 +1,8 @@
-use crate::cli::{Cli, Command, RunArgs};
+use crate::cli::Cli;
 use crate::config::Config;
 use clap::Parser;
-use std::fs;
+use std::path::{Path, PathBuf};
+use std::{fs, io};
 
 mod cli;
 mod command;
@@ -10,33 +11,41 @@ mod config;
 fn main() {
     let cli = Cli::parse();
 
-    if let Some(cwd) = cli.cwd {
-        std::env::set_current_dir(&cwd).expect("--cwd option specified an invalid path");
+    if let Some(cwd) = &cli.cwd {
+        std::env::set_current_dir(cwd).expect("--cwd option specified an invalid path");
     }
 
     let config = Config::load(cli.config.as_deref());
-
-    match cli.command {
-        Command::Run(args) => run(args, &config),
-    }
+    run(&cli, &config);
 }
 
-fn run(args: RunArgs, config: &Config) {
-    if !args.skip_data {
-        let out_dir = config.io.output_dir.join("data");
+fn setup<P: AsRef<Path>>(
+    config: &Config,
+    in_prefix: Option<P>,
+    out_suffix: P,
+) -> io::Result<(PathBuf, PathBuf)> {
+    let out_dir = config.io.output_dir.join(out_suffix.as_ref());
 
-        if !fs::exists(&out_dir).expect("Could not read output directory") {
-            fs::create_dir(&out_dir).expect("Could not create output directory");
-        }
+    if !fs::exists(&out_dir)? {
+        fs::create_dir_all(&out_dir)?;
+    }
 
-        let root = if let Some(prefix) = config.extract.prefix.as_deref() {
-            config.io.data_dir.join(prefix)
-        } else {
-            config.io.data_dir.clone()
-        };
+    let in_dir = if let Some(prefix) = in_prefix {
+        config.io.data_dir.join(prefix)
+    } else {
+        config.io.data_dir.to_owned()
+    };
+
+    Ok((in_dir, out_dir))
+}
+
+fn run(cli: &Cli, config: &Config) {
+    if !cli.skip_data {
+        let (in_dir, out_dir) = setup(config, config.extract.prefix.as_deref(), "data".as_ref())
+            .expect("Could not prep in/out dirs");
 
         for item in &config.extract.files {
-            let in_path = root.join(item);
+            let in_path = in_dir.join(item);
             let out_path = out_dir
                 .join(item.file_name().unwrap())
                 .with_extension("")
@@ -50,21 +59,16 @@ fn run(args: RunArgs, config: &Config) {
         }
     }
 
-    if !args.skip_translations {
-        let out_dir = config.io.output_dir.join("translations");
-
-        if !fs::exists(&out_dir).expect("Could not read output directory") {
-            fs::create_dir(&out_dir).expect("Could not create output directory");
-        }
-
-        let root = if let Some(prefix) = config.translations.prefix.as_deref() {
-            config.io.data_dir.join(prefix)
-        } else {
-            config.io.data_dir.clone()
-        };
+    if !cli.skip_translations {
+        let (in_dir, out_dir) = setup(
+            config,
+            config.translations.prefix.as_deref(),
+            "translations".as_ref(),
+        )
+        .expect("Could not prep in/out dirs");
 
         for item in &config.translations.files {
-            let in_path = root.join(item);
+            let in_path = in_dir.join(item);
             let success = command::exec(
                 &config.tools.msg_extractor,
                 ["-i", &in_path.to_string_lossy(), "-m", "json"],

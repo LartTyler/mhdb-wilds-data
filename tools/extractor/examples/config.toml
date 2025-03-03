@@ -18,6 +18,8 @@ files = [
     "Equip/Charm.user.3",
     "Equip/SkillCommonData.user.3",
     "Equip/SkillData.user.3",
+    "Item/itemData.user.3",
+    "Item/ItemRecipe.user.3",
 ]
 
 [translations]
@@ -25,5 +27,9 @@ prefix = "natives/STM/GameDesign/Text"
 files = [
     "Excel_Equip/Accessory.msg.23",
     "Excel_Equip/Amulet.msg.23",
-    "Excel_Equip/Armor.msg.23"
+    "Excel_Equip/Armor.msg.23",
+    "Excel_Equip/ArmorSeries.msg.23",
+    "Excel_Equip/Charm.msg.23",
+    "Excel_Equip/Skill.msg.23",
+    "Excel_Equip/SkillCommon.msg.23",
 ]
