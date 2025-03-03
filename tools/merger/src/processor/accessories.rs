@@ -23,13 +23,17 @@ pub fn process(config: &Config) -> Result {
             let name = translations.get_value(&item.name_guid, index);
 
             if let Some(name) = name {
-                names.insert(*lang, name.to_owned());
+                if !name.is_empty() {
+                    names.insert(*lang, name.to_owned());
+                }
             }
 
             let desc = translations.get_value(&item.description_guid, index);
 
             if let Some(desc) = desc {
-                descriptions.insert(*lang, desc.to_owned());
+                if !desc.is_empty() {
+                    descriptions.insert(*lang, desc.to_owned());
+                }
             }
         }
 
