@@ -1,0 +1,1 @@
+tools\merger\target\debug\merger.exe

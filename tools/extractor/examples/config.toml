@@ -32,4 +32,5 @@ files = [
     "Excel_Equip/Charm.msg.23",
     "Excel_Equip/Skill.msg.23",
     "Excel_Equip/SkillCommon.msg.23",
+    "Excel_Data/Item.msg.23",
 ]

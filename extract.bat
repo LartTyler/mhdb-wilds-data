@@ -1,0 +1,1 @@
+tools\extractor\target\debug\extractor.exe

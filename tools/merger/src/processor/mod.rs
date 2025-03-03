@@ -2,17 +2,40 @@ use std::collections::HashMap;
 use std::fs;
 use crate::config::Config;
 use serde::de::DeserializeOwned;
-use serde::{Deserialize, Serialize, Serializer};
+use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 use serde_with::serde_as;
 use std::fs::File;
-use std::io::Write;
 use std::path::Path;
+use console::Style;
 
 mod accessories;
+mod items;
+
+/// A map of RFC 639 language codes to a string value. Used to hold translations for an object
+/// field.
+type LanguageMap = HashMap<Language, String>;
+
+/// A map of object IDs to a level indicator. Used for things like skill ranks granted by
+/// decorations.
+type LevelMap = HashMap<isize, u8>;
 
 pub fn all(config: &Config) -> Result {
+    let style = Style::new().dim().bold();
+    let mut position = 1;
+
+    let mut header = move |message: &str| {
+        const COUNT: usize = 6;
+        println!("{} {message}", style.apply_to(format!("[{position}/{COUNT}]")));
+
+        position += 1;
+    };
+
+    header("Merging accessory files...");
     accessories::process(config)?;
+
+    header("Merging item files...");
+    items::process(config)?;
 
     Ok(())
 }
@@ -31,7 +54,7 @@ pub enum Error {
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
 #[derive(Debug, PartialEq, Eq, Deserialize_repr, Copy, Clone, Serialize, Hash)]
 #[repr(isize)]
-pub enum Language {
+enum Language {
     #[serde(rename = "")]
     Disabled = -1,
     #[serde(rename = "jp")]
@@ -98,7 +121,7 @@ pub enum Language {
 }
 
 #[derive(Debug, Deserialize)]
-pub struct Translations {
+struct Translations {
     pub languages: Vec<Language>,
     pub entries: Vec<TranslationEntry>,
     #[serde(skip)]
@@ -130,13 +153,19 @@ impl Translations {
     }
 
     pub fn get_value(&self, guid: &str, index: usize) -> Option<&String> {
-        self.find_entry(guid)?.content.get(index)
+        self.find_entry(guid)?.content.get(index).and_then(|v| {
+            if v.is_empty() || v == "---" {
+                None
+            } else {
+                Some(v)
+            }
+        })
     }
 }
 
 #[derive(Debug, Deserialize)]
 #[serde_as]
-pub struct TranslationEntry {
+struct TranslationEntry {
     pub guid: String,
 
     #[serde_as(as = "Vec<NoneAsEmptyString>")]
