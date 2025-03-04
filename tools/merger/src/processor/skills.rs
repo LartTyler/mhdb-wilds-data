@@ -86,13 +86,14 @@ pub fn process(config: &Config) -> Result {
 
         // Set bonus skills encode the number of pieces required for the bonus as the skill level.
         // Once sorted, we can convert that to a "real" level by setting the level to the index + 1.
-        if skill.set_bonus {
+        if skill.kind.is_set_bonus() {
             for (index, rank) in skill.ranks.iter_mut().enumerate() {
                 // At the same time, we want to store the count of the required pieces so that the
                 // armor processor has all everything it needs to build set bonuses correctly.
                 set_bonuses.push(SetBonus {
                     skill_id: skill.game_id,
                     pieces: rank.level,
+                    skill_kind: skill.kind,
                 });
 
                 rank.level = (index as u8) + 1;
@@ -115,7 +116,7 @@ struct Skill {
     #[serde(serialize_with = "ordered_map", skip_serializing_if = "is_map_empty")]
     descriptions: LanguageMap,
     ranks: Vec<Rank>,
-    set_bonus: bool,
+    kind: SkillKind,
 }
 
 impl From<&SkillData> for Skill {
@@ -125,7 +126,7 @@ impl From<&SkillData> for Skill {
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
             ranks: Vec::new(),
-            set_bonus: matches!(value.kind, SkillKind::Set | SkillKind::Group),
+            kind: value.kind,
         }
     }
 }
@@ -173,7 +174,8 @@ struct RankData {
     description_guid: String,
 }
 
-#[derive(Debug, Deserialize_repr)]
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all(serialize = "kebab-case"))]
 #[repr(u8)]
 pub enum SkillKind {
     Armor,
@@ -182,8 +184,15 @@ pub enum SkillKind {
     Weapon,
 }
 
+impl SkillKind {
+    fn is_set_bonus(&self) -> bool {
+        matches!(self, Self::Set | Self::Group)
+    }
+}
+
 #[derive(Debug, Serialize)]
 struct SetBonus {
     skill_id: isize,
+    skill_kind: SkillKind,
     pieces: u8,
 }

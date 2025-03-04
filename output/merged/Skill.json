@@ -92,7 +92,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -2123993856,
@@ -149,7 +149,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -2096489472,
@@ -282,7 +282,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -2041451904,
@@ -339,7 +339,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -2022542848,
@@ -396,7 +396,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1961297152,
@@ -453,7 +453,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1961116288,
@@ -548,13 +548,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1950413440,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1946345856,
@@ -649,7 +649,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1863702144,
@@ -744,7 +744,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1769550080,
@@ -801,7 +801,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -1768553344,
@@ -893,13 +893,13 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -1724907776,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1716324608,
@@ -994,13 +994,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1702725248,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1700743296,
@@ -1095,7 +1095,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1689391744,
@@ -1228,7 +1228,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1684613760,
@@ -1323,7 +1323,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1674114176,
@@ -1418,7 +1418,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1664678272,
@@ -1475,7 +1475,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -1662120192,
@@ -1570,7 +1570,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1648695680,
@@ -1627,7 +1627,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -1642078720,
@@ -1684,7 +1684,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -1629629184,
@@ -1741,7 +1741,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1607763456,
@@ -1874,19 +1874,19 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1577668736,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1540920320,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1507579776,
@@ -1943,13 +1943,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1478544256,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1475134080,
@@ -2044,7 +2044,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1468066176,
@@ -2136,13 +2136,13 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -1437098880,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1432692352,
@@ -2234,7 +2234,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -1305836672,
@@ -2291,7 +2291,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": -1304512512,
@@ -2348,7 +2348,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1237438336,
@@ -2424,7 +2424,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -1235658624,
@@ -2519,19 +2519,19 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1203508096,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1196219264,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1121468544,
@@ -2626,13 +2626,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1110806016,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -1073401280,
@@ -2727,7 +2727,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -964369920,
@@ -2819,7 +2819,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -895828480,
@@ -2914,7 +2914,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -893407296,
@@ -3009,7 +3009,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -857543744,
@@ -3104,7 +3104,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -856322816,
@@ -3237,7 +3237,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -844978880,
@@ -3332,13 +3332,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -812084224,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -776946176,
@@ -3433,13 +3433,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -774473472,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -692636288,
@@ -3496,7 +3496,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -682586176,
@@ -3591,7 +3591,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -676967744,
@@ -3648,7 +3648,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -632440576,
@@ -3705,7 +3705,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -609509888,
@@ -3800,7 +3800,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -596764096,
@@ -3895,7 +3895,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -593005376,
@@ -3990,7 +3990,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -568838336,
@@ -4085,7 +4085,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -562534336,
@@ -4180,7 +4180,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -481419552,
@@ -4275,7 +4275,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -420608864,
@@ -4370,7 +4370,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -418246240,
@@ -4462,7 +4462,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -411441344,
@@ -4538,7 +4538,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -397570464,
@@ -4671,7 +4671,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -315492576,
@@ -4766,7 +4766,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -307644128,
@@ -4861,13 +4861,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -285123456,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -283334048,
@@ -4962,7 +4962,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -257693696,
@@ -5019,7 +5019,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -215826112,
@@ -5111,7 +5111,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -201445760,
@@ -5187,7 +5187,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -193031552,
@@ -5282,7 +5282,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -181774400,
@@ -5339,7 +5339,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -181127504,
@@ -5434,7 +5434,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -171796848,
@@ -5529,7 +5529,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -168922880,
@@ -5624,7 +5624,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -160562336,
@@ -5700,13 +5700,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": -111868368,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": -62248528,
@@ -5798,7 +5798,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": -3666104,
@@ -5890,7 +5890,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 1,
@@ -6023,7 +6023,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 27684744,
@@ -6156,13 +6156,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 56719788,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 78208296,
@@ -6219,7 +6219,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 144660544,
@@ -6352,7 +6352,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 166057120,
@@ -6447,7 +6447,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 169998480,
@@ -6504,7 +6504,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 192746944,
@@ -6599,7 +6599,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 280489184,
@@ -6694,13 +6694,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 309360992,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 313598432,
@@ -6795,7 +6795,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 353114912,
@@ -6852,7 +6852,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 383104832,
@@ -6947,7 +6947,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 397306144,
@@ -7042,7 +7042,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 402237312,
@@ -7099,7 +7099,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 422666624,
@@ -7232,13 +7232,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 424767232,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 424768352,
@@ -7314,7 +7314,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 451472896,
@@ -7371,13 +7371,13 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 457912640,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 469540352,
@@ -7510,19 +7510,19 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 471964960,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 504506560,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 508916704,
@@ -7617,7 +7617,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 522288832,
@@ -7712,7 +7712,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 539707072,
@@ -7804,7 +7804,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 552982656,
@@ -7861,7 +7861,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 565867136,
@@ -7994,7 +7994,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 583598144,
@@ -8051,7 +8051,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 595870656,
@@ -8146,7 +8146,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 632127488,
@@ -8241,7 +8241,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 634068352,
@@ -8336,7 +8336,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 652161472,
@@ -8431,13 +8431,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 654153152,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 673822976,
@@ -8532,7 +8532,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 686533440,
@@ -8627,7 +8627,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 691199232,
@@ -8722,7 +8722,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 705317568,
@@ -8817,7 +8817,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 722735744,
@@ -8909,7 +8909,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 741102208,
@@ -9001,7 +9001,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 742695104,
@@ -9096,7 +9096,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 802725120,
@@ -9172,7 +9172,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 820385792,
@@ -9267,7 +9267,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 850626240,
@@ -9362,7 +9362,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 860517760,
@@ -9476,7 +9476,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 894530496,
@@ -9609,7 +9609,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 898284480,
@@ -9666,7 +9666,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 918165056,
@@ -9758,7 +9758,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 919683456,
@@ -9815,7 +9815,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1050520384,
@@ -9910,7 +9910,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1077686656,
@@ -10081,13 +10081,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1150634496,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1160639488,
@@ -10220,7 +10220,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1174975744,
@@ -10353,7 +10353,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1268070400,
@@ -10448,7 +10448,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1346775424,
@@ -10543,7 +10543,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1359821952,
@@ -10676,7 +10676,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1389859584,
@@ -10733,13 +10733,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1406914944,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1425756032,
@@ -10834,7 +10834,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1444935552,
@@ -10910,7 +10910,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1452140672,
@@ -11005,7 +11005,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1459579264,
@@ -11100,7 +11100,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1470960256,
@@ -11195,7 +11195,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1472632704,
@@ -11290,7 +11290,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1487598336,
@@ -11347,7 +11347,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 1489568384,
@@ -11442,7 +11442,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1500129152,
@@ -11537,7 +11537,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1522518528,
@@ -11632,19 +11632,19 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1522720256,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1582392192,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1594792704,
@@ -11739,7 +11739,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1613139840,
@@ -11834,7 +11834,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1639440000,
@@ -11891,7 +11891,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1685697920,
@@ -11948,7 +11948,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 1711950720,
@@ -12043,7 +12043,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1758661504,
@@ -12138,7 +12138,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "weapon"
   },
   {
     "game_id": 1763191040,
@@ -12271,7 +12271,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1845834112,
@@ -12328,7 +12328,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1865909632,
@@ -12461,13 +12461,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1890580224,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1934955136,
@@ -12600,7 +12600,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1940820864,
@@ -12695,13 +12695,13 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1960395264,
     "names": {},
     "ranks": [],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1966172160,
@@ -12796,7 +12796,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 1968728576,
@@ -12853,7 +12853,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 1980404096,
@@ -12945,7 +12945,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 1998066176,
@@ -13002,7 +13002,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 2045149568,
@@ -13097,7 +13097,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 2083363072,
@@ -13192,7 +13192,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 2104075392,
@@ -13284,7 +13284,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "set"
   },
   {
     "game_id": 2106877312,
@@ -13417,7 +13417,7 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   },
   {
     "game_id": 2107855744,
@@ -13474,7 +13474,7 @@
         }
       }
     ],
-    "set_bonus": true
+    "kind": "group"
   },
   {
     "game_id": 2143068800,
@@ -13569,6 +13569,6 @@
         }
       }
     ],
-    "set_bonus": false
+    "kind": "armor"
   }
 ]

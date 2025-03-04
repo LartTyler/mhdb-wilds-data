@@ -1,166 +1,207 @@
 [
   {
     "skill_id": -2041451904,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -1769550080,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -1768553344,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -1768553344,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -1664678272,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -1648695680,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -1642078720,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -1468066176,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -1468066176,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -1432692352,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -1432692352,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -1305836672,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": -964369920,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -964369920,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -418246240,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -418246240,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -215826112,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -215826112,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -62248528,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -62248528,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": -3666104,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": -3666104,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 451472896,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 539707072,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 539707072,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 583598144,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 722735744,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 722735744,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 741102208,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 741102208,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 918165056,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 918165056,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 1487598336,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 1685697920,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 1968728576,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 1980404096,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 1980404096,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 1998066176,
+    "skill_kind": "group",
     "pieces": 3
   },
   {
     "skill_id": 2104075392,
+    "skill_kind": "set",
     "pieces": 2
   },
   {
     "skill_id": 2104075392,
+    "skill_kind": "set",
     "pieces": 4
   },
   {
     "skill_id": 2107855744,
+    "skill_kind": "group",
     "pieces": 3
   }
 ]
