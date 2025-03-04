@@ -12,3 +12,11 @@ where
         .collect::<BTreeMap<_, _>>()
         .serialize(serializer)
 }
+
+pub fn is_map_empty<K, V>(value: &HashMap<K, V>) -> bool
+where
+    K: Ord + Serialize,
+    V: Serialize,
+{
+    value.is_empty()
+}

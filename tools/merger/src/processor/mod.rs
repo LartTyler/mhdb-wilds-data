@@ -167,7 +167,7 @@ impl Translations {
 
     pub fn get_value(&self, guid: &str, index: usize) -> Option<&String> {
         self.find_entry(guid)?.content.get(index).and_then(|v| {
-            if v.is_empty() || v == "-" || v == "---" {
+            if v.is_empty() || v == "-" || v == "---" || v.contains("#Rejected#") {
                 None
             } else {
                 Some(v)

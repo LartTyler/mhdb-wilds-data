@@ -91,7 +91,8 @@
           "es-419": "Antidraco +20\r\nDefensa +10"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -2123993856,
@@ -147,7 +148,8 @@
           "es-419": "Aumenta ligeramente la potencia\r\nde ciertas municiones y flechas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -2096489472,
@@ -279,7 +281,8 @@
           "es-419": "Afinidad +20 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -2041451904,
@@ -299,25 +302,9 @@
       "ar": "حماية الوحش الحارس",
       "es-419": "Protección del Guardián"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm2041451904"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "竜都の跡形にいると、属性ダメージや\r\n特殊ダメージが軽減される。",
           "en": "Reduces elemental and unique damage\r\nwhile in the Ruins of Wyveria.",
@@ -333,9 +320,26 @@
           "zh-Hans": "位于龙都遗迹时，\r\n减轻受到的属性伤害及特殊伤害",
           "ar": "تقلل الضرر العنصري والفريد أثناء التواجد\r\nفي أطلال وايفيريا.",
           "es-419": "Reduce el daño elemental y único\r\ncuando estás en las Ruinas de Wyveria,"
+        },
+        "names": {
+          "jp": "竜都の護り",
+          "en": "Ward of Wyveria",
+          "fr": "Protection de Wyveria",
+          "it": "Protezione di Wyveria",
+          "de": "Wyverias Wächter",
+          "es": "Guarda de Wyveria",
+          "ru": "Оберег Виверии",
+          "pl": "Straż Wiwerii",
+          "pt-BR": "Proteção de Serperia",
+          "ko": "용도의 가호",
+          "zh-Hant": "龍都的庇護",
+          "zh-Hans": "龙都的庇护",
+          "ar": "حرس وايفيريا",
+          "es-419": "Guarda de Wyveria"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -2022542848,
@@ -391,7 +395,8 @@
           "es-419": "Permite equiparte viales de\r\nnitro."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1961297152,
@@ -447,7 +452,8 @@
           "es-419": "Aumenta ligeramente la potencia\r\nde ciertas municiones y flechas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1961116288,
@@ -541,43 +547,14 @@
           "es-419": "Velocidad +30 %\r\nDaño por mutación +20 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1950413440,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1950413440"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1950413440"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1946345856,
@@ -671,7 +648,8 @@
           "es-419": "Al desenvainar, los ataques tienen\r\nuna gran probabilidad de infligir\r\naturdimiento y obtienen +7 de ataque."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1863702144,
@@ -765,7 +743,8 @@
           "es-419": "Acumulación de parálisis +20 %\r\nBonus: +50"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1769550080,
@@ -785,25 +764,9 @@
       "ar": "فضل السيد",
       "es-419": "Favor de Señor"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1769550080"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "旋律効果など、一定範囲内の仲間に\r\n作用する効果を発動した際、一時攻撃力\r\n上昇効果を追加で付与する",
           "en": "Temporarily increases attack power\r\nwhen using effects like Melody Effects\r\nthat affect companions in range.",
@@ -819,9 +782,26 @@
           "zh-Hans": "发动对一定范围内同伴生效的效果时\r\n（如旋律效果），将附加一定时间内\r\n攻击力上升的效果",
           "ar": "تزيد قوة الهجوم مؤقتًا\r\nعند استخدام تأثيرات مثل تأثيرات اللحن\r\nالتي تؤثر على الرفاق في النطاق.",
           "es-419": "Aumenta temporalmente el ataque cuando\r\nusas efectos como Efectos de melodías\r\nque afectan a los compañeros en el rango."
+        },
+        "names": {
+          "jp": "激励",
+          "en": "Inspiration",
+          "fr": "Inspiration",
+          "it": "Ispirazione",
+          "de": "Inspiration",
+          "es": "Inspiración",
+          "ru": "Вдохновение",
+          "pl": "Inspiracja",
+          "pt-BR": "Inspiração",
+          "ko": "격려",
+          "zh-Hant": "激勵",
+          "zh-Hans": "激励",
+          "ar": "الإلهام",
+          "es-419": "Inspiración"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1768553344,
@@ -841,25 +821,9 @@
       "ar": "إرادة أنجاناث رعدي",
       "es-419": "Voluntad de Anjanath Fulgúreo"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1768553344"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "追加のスタミナゲージを得る",
           "en": "Grants an additional Stamina Gauge.",
@@ -875,10 +839,26 @@
           "zh-Hans": "获得额外耐力槽",
           "ar": "تمنح مقياس قوة تحمل إضافيًا.",
           "es-419": "Otorga una barra de resistencia\r\nadicional."
+        },
+        "names": {
+          "jp": "無尽蔵Ⅰ",
+          "en": "Second Wind I",
+          "fr": "Second souffle I",
+          "it": "Nuova energia I",
+          "de": "Aufschwung I",
+          "es": "Segunda oportunidad I",
+          "ru": "Второе дыхание I",
+          "pl": "Drugi oddech I",
+          "pt-BR": "Fôlego Extra I",
+          "ko": "무진장Ⅰ",
+          "zh-Hant": "無窮盡Ⅰ",
+          "zh-Hans": "无穷尽Ⅰ",
+          "ar": "طاقة متجددة 1",
+          "es-419": "Segunda oportunidad I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "長い追加のスタミナゲージを得る",
           "en": "Grants an additional long Stamina Gauge.",
@@ -894,45 +874,32 @@
           "zh-Hans": "获得更长的额外耐力槽",
           "ar": "تمنح مقياس قوة تحمل طويلًا إضافيًا.",
           "es-419": "Otorga una barra de resistencia\r\nadicional larga."
+        },
+        "names": {
+          "jp": "無尽蔵Ⅱ",
+          "en": "Second Wind II",
+          "fr": "Second souffle II",
+          "it": "Nuova energia II",
+          "de": "Aufschwung II",
+          "es": "Segunda oportunidad II",
+          "ru": "Второе дыхание II",
+          "pl": "Drugi oddech II",
+          "pt-BR": "Fôlego Extra II",
+          "ko": "무진장Ⅱ",
+          "zh-Hant": "無窮盡Ⅱ",
+          "zh-Hans": "无穷尽Ⅱ",
+          "ar": "طاقة متجددة 2",
+          "es-419": "Segunda oportunidad II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1724907776,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1724907776"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1724907776"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1716324608,
@@ -1026,43 +993,14 @@
           "es-419": "Acumulación de veneno +20 %\r\nBonus: +50"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1702725248,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1702725248"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1702725248"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1700743296,
@@ -1156,7 +1094,8 @@
           "es-419": "Mientras está activo, aumenta\r\nmucho el daño elemental\r\ny los efectos de estado."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1689391744,
@@ -1288,7 +1227,8 @@
           "es-419": "Reduce el consumo fijo\r\nde resistencia un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1684613760,
@@ -1382,7 +1322,8 @@
           "es-419": "Duración del efecto de\r\nobjetos +50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1674114176,
@@ -1476,7 +1417,8 @@
           "es-419": "Reduce el daño recibido un\r\n80 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1664678272,
@@ -1496,25 +1438,9 @@
       "ar": "طبقات القشور",
       "es-419": "Capas de escamas"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1664678272"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "体力が４０％以下になった時、\r\n一定時間スタミナの消費量が\r\n減少する",
           "en": "Temporarily reduces stamina depletion\r\nwhen health is at 40% or lower.",
@@ -1530,9 +1456,26 @@
           "zh-Hans": "体力降低至40%或以下时，\r\n减少一定时间内的耐力消耗量",
           "ar": "تقلل استهلاك قوة التحمل مؤقتًا\r\nحين تكون الصحة 40% أو أقل.",
           "es-419": "Reduce temporalmente el gasto\r\nde resistencia cuando la salud\r\nesté al 40 % o menos."
+        },
+        "names": {
+          "jp": "奮起",
+          "en": "Adrenaline",
+          "fr": "Adrénaline",
+          "it": "Adrenalina",
+          "de": "Adrenalin",
+          "es": "Adrenalina",
+          "ru": "Адреналин",
+          "pl": "Adrenalina",
+          "pt-BR": "Adrenalina",
+          "ko": "분발",
+          "zh-Hant": "振奮",
+          "zh-Hans": "振奋",
+          "ar": "أدرينالين",
+          "es-419": "Adrenalina"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1662120192,
@@ -1626,7 +1569,8 @@
           "es-419": "Al contraer la cólera, sube mucho\r\nel consumo de la barra de infección.\r\nAfinidad +15 % al curarse."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1648695680,
@@ -1646,25 +1590,9 @@
       "ar": "مصنوعات جلدية مرنة",
       "es-419": "Cuero flexible"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1648695680"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "採集行動の速度が速くなり、\r\n採集・剥ぎ取り中に攻撃を\r\n受けてものけぞらなくなる",
           "en": "Increases gathering speed, and\r\nprevents knock back when gathering\r\nor carving.",
@@ -1680,9 +1608,26 @@
           "zh-Hans": "采集行动的速度加快，采集和剥取时\r\n即使遭受攻击，也不会后仰",
           "ar": "تزيد سرعة التجميع\r\nوتمنع التعرض للإطاحة\r\nأثناء التجميع أو التصنيع.",
           "es-419": "Aumenta la velocidad de recolección\r\ne impide que te puedan derribar\r\nal recolectar o al cercenar."
+        },
+        "names": {
+          "jp": "採集の達人",
+          "en": "Hunter Gatherer",
+          "fr": "Chasseur cueilleur",
+          "it": "Cacciatore raccoglitore",
+          "de": "Jäger und Sammler",
+          "es": "Recolección de cazador",
+          "ru": "Охотник-собиратель",
+          "pl": "Łowca-zbieracz",
+          "pt-BR": "Caçador Coletor",
+          "ko": "채집의 달인",
+          "zh-Hant": "採集達人",
+          "zh-Hans": "采集达人",
+          "ar": "الجامع الصياد",
+          "es-419": "Cazador recolector"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1642078720,
@@ -1702,25 +1647,9 @@
       "ar": "حكمة متوارثة",
       "es-419": "Sabiduría impartida"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1642078720"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "活性化している採取ポイントの\r\n発生確率が上がる",
           "en": "Increases the chance of finding rare\r\ngathering points.",
@@ -1736,9 +1665,26 @@
           "zh-Hans": "提高活跃化采集点的发生率",
           "ar": "تزيد من احتمالية العثور\r\nعلى نقاط التجميع النادرة.",
           "es-419": "Aumenta la probabilidad de encontrar\r\npuntos de recolección de recursos raros."
+        },
+        "names": {
+          "jp": "探索者の幸運",
+          "en": "Forager's Luck",
+          "fr": "Chance de l'explorateur",
+          "it": "Fortuna del foraggiere",
+          "de": "Wildbeuterglück",
+          "es": "Suerte del mendigo",
+          "ru": "Удача добытчика",
+          "pl": "Fart zbieracza",
+          "pt-BR": "Sorte do Forrageador",
+          "ko": "탐색자의 행운",
+          "zh-Hant": "探索者之幸運",
+          "zh-Hans": "探索者之幸运",
+          "ar": "حظ الباحث عن الطعام",
+          "es-419": "Suerte del mendigo"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1629629184,
@@ -1794,7 +1740,8 @@
           "es-419": "Prolonga la duración de los efectos\r\ndel veneno un 20 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1607763456,
@@ -1926,79 +1873,20 @@
           "es-419": "Aumenta el daño de los\r\nataques críticos en un 40 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1577668736,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1577668736"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1577668736"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1540920320,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1540920320"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1540920320"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1507579776,
@@ -2054,43 +1942,14 @@
           "es-419": "Daño de fuego rápido +5 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1478544256,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1478544256"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1478544256"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1475134080,
@@ -2184,7 +2043,8 @@
           "es-419": "Aumenta mucho el daño\r\nelemental y los efectos de estado\r\npara los ataques cargados."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1468066176,
@@ -2204,25 +2064,9 @@
       "ar": "نشاط شو وو",
       "es-419": "Vigor de Xu Wu"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1468066176"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "こんがり肉などのアイテムを食べた時、\r\n一定時間、基礎攻撃力＋１５",
           "en": "Temporarily grants attack +15 after\r\neating items such as well-done steak.",
@@ -2238,10 +2082,26 @@
           "zh-Hans": "食用烤熟的肉等道具后，\r\n一定时间内基础攻击力+15",
           "ar": "تمنح هجومًا +15 مؤقتًا بعد تناول عناصر،\r\nمثل شرائح اللحم المطهوة جيدًا.",
           "es-419": "Otorga temporalmente +15 de ataque\r\ntras comer objetos como un filete."
+        },
+        "names": {
+          "jp": "蛮勇の食卓Ⅰ",
+          "en": "Protein Fiend I",
+          "fr": "Pro des protéines I",
+          "it": "Fan delle proteine I",
+          "de": "Proteinprotz I",
+          "es": "Demonio proteína I",
+          "ru": "Белковая одержимость I",
+          "pl": "Miłośnik białka I",
+          "pt-BR": "Demônio Proteico I",
+          "ko": "만용의 식탁Ⅰ",
+          "zh-Hant": "蠻勇的餐桌Ⅰ",
+          "zh-Hans": "蛮勇的餐桌Ⅰ",
+          "ar": "المولع بالبروتين 1",
+          "es-419": "Demonio proteína I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "こんがり肉などのアイテムを食べた時、\r\n一定時間、基礎攻撃力＋２５",
           "en": "Temporarily grants attack +25 after\r\neating items such as well-done steak.",
@@ -2257,45 +2117,32 @@
           "zh-Hans": "食用烤熟的肉等道具后，\r\n一定时间内基础攻击力+25",
           "ar": "تمنح هجومًا +25 مؤقتًا بعد تناول عناصر،\r\nمثل شرائح اللحم المطهوة جيدًا.",
           "es-419": "Otorga temporalmente +25 de ataque\r\ntras comer objetos como un filete."
+        },
+        "names": {
+          "jp": "蛮勇の食卓Ⅱ",
+          "en": "Protein Fiend II",
+          "fr": "Pro des protéines II",
+          "it": "Fan delle proteine II",
+          "de": "Proteinprotz II",
+          "es": "Demonio proteína II",
+          "ru": "Белковая одержимость II",
+          "pl": "Miłośnik białka II",
+          "pt-BR": "Demônio Proteico II",
+          "ko": "만용의 식탁Ⅱ",
+          "zh-Hant": "蠻勇的餐桌Ⅱ",
+          "zh-Hans": "蛮勇的餐桌Ⅱ",
+          "ar": "المولع بالبروتين 2",
+          "es-419": "Demonio proteína II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1437098880,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1437098880"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1437098880"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1432692352,
@@ -2315,25 +2162,9 @@
       "ar": "حيوية آركفيلد حارس",
       "es-419": "Vitalidad del Arkveld Guardián"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1432692352"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "大型モンスターの傷口を破壊した時、\r\n体力が少し回復する",
           "en": "Restores a moderate amount of health\r\nwhen destroying a wound on a large\r\nmonster.",
@@ -2349,10 +2180,26 @@
           "zh-Hans": "破坏大型怪物的伤口时，小幅回复体力",
           "ar": "تستعيد قدرًا معتدلًا من الصحة\r\nعند تدمير جرح على وحش كبير.",
           "es-419": "Restablece moderadamente el\r\nnivel de salud cuando destruyes\r\nla herida de un monstruo grande."
+        },
+        "names": {
+          "jp": "破壊衝動Ⅰ",
+          "en": "Decimator I",
+          "fr": "Décimeur I",
+          "it": "Decimatore I",
+          "de": "Dezimierer I",
+          "es": "Diezmador I",
+          "ru": "Иссечение I",
+          "pl": "Pogromca I",
+          "pt-BR": "Dizimador I",
+          "ko": "파괴 충동Ⅰ",
+          "zh-Hant": "破壞衝動Ⅰ",
+          "zh-Hans": "破坏冲动Ⅰ",
+          "ar": "المهلك 1",
+          "es-419": "Diezmador I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "大型モンスターの傷口を破壊した時、\r\n体力が回復する",
           "en": "Restores health when destroying a wound\r\non a large monster.",
@@ -2368,9 +2215,26 @@
           "zh-Hans": "破坏大型怪物的伤口时，回复体力",
           "ar": "تستعيد الصحة عند تدمير جرح\r\nعلى وحش كبير.",
           "es-419": "Restablece salud al destruir\r\nla herida de un monstruo grande."
+        },
+        "names": {
+          "jp": "破壊衝動Ⅱ",
+          "en": "Decimator II",
+          "fr": "Décimeur II",
+          "it": "Decimatore II",
+          "de": "Dezimierer II",
+          "es": "Diezmador II",
+          "ru": "Иссечение II",
+          "pl": "Pogromca II",
+          "pt-BR": "Dizimador II",
+          "ko": "파괴 충동Ⅱ",
+          "zh-Hant": "破壞衝動Ⅱ",
+          "zh-Hans": "破坏冲动Ⅱ",
+          "ar": "المهلك 2",
+          "es-419": "Diezmador II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1305836672,
@@ -2390,25 +2254,9 @@
       "ar": "نبض الوحش الحارس",
       "es-419": "Pulso del Guardián"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1305836672"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "竜乳結晶の近くにいると、赤ゲージと\r\nスタミナの回復速度が上昇する。",
           "en": "Increases recovery speed of stamina\r\nand red gauge when near Wylkrystals.",
@@ -2424,9 +2272,26 @@
           "zh-Hans": "接近龙乳结晶时，提升红色槽及耐力的\r\n回复速度",
           "ar": "تزيد من سرعة استعادة قوة التحمل\r\nوالمقياس الأحمر عند الاقتراب من الـ (وايليبريستال).",
           "es-419": "Aumenta la velocidad de recuperación\r\nde resistencia y la barra roja\r\ncuando estás cerca de wylkrystals."
+        },
+        "names": {
+          "jp": "竜乳活性",
+          "en": "Wylk Burst",
+          "fr": "Afflux de wylait",
+          "it": "Scoppio di wylatte",
+          "de": "Wiol-Salve",
+          "es": "Explosión de wylact",
+          "ru": "Заряд вивлока",
+          "pl": "Wybuch wylku",
+          "pt-BR": "Estouro de Serpil",
+          "ko": "용유 활성",
+          "zh-Hant": "龍乳活性",
+          "zh-Hans": "龙乳活性",
+          "ar": "انفجار وايليب",
+          "es-419": "Ráfaga de wylk"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -1304512512,
@@ -2482,7 +2347,8 @@
           "es-419": "Permite el uso de la habilidad."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1237438336,
@@ -2557,7 +2423,8 @@
           "es-419": "Extiende mucho la duración\r\nde los efectos de las melodías."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1235658624,
@@ -2651,79 +2518,20 @@
           "es-419": "Aumenta mucho la\r\nrecuperación."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1203508096,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1203508096"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1203508096"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1196219264,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1196219264"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1196219264"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1121468544,
@@ -2817,43 +2625,14 @@
           "es-419": "Cuadruplica la velocidad\r\na la que se cura el daño recuperable."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -1110806016,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m1110806016"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm1110806016"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -1073401280,
@@ -2947,7 +2726,8 @@
           "es-419": "Aumenta mucho\r\nla velocidad al envainar."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -964369920,
@@ -2967,25 +2747,9 @@
       "ar": "نهم آركفيلد",
       "es-419": "Hambre de Arkveld"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm964369920"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "継続してモンスターに攻撃を当てると、\r\n体力が少し回復する\r\n（武器種により回復量は変動）",
           "en": "Regenerates a small amount of your health\r\nas you continually attack a monster.\r\nRecovery varies by weapon.",
@@ -3001,10 +2765,26 @@
           "zh-Hans": "攻击不断命中怪物时，小幅回复体力\r\n（回复量依武器种类而异）",
           "ar": "تجدّد مقدار صغير من <LSNR \"صحتكَ\" \"صحتكِ\">\r\nعند <LSNR \"مهاجمتكَ\" \"مهاجمتكِ\"> لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
           "es-419": "Regenera una pequeña cantidad de salud\r\nal atacar continuamente a un monstruo.\r\nLa salud recuperada depende del arma."
+        },
+        "names": {
+          "jp": "加速再生Ⅰ",
+          "en": "Hasten Recovery I",
+          "fr": "Récupération rapide I",
+          "it": "Furia guaritrice I",
+          "de": "Schnelle Erholung I",
+          "es": "Regeneración I",
+          "ru": "Ускоренное заживление I",
+          "pl": "Szybsza regeneracja I",
+          "pt-BR": "Regeneração Veloz I",
+          "ko": "가속 재생Ⅰ",
+          "zh-Hant": "加速再生Ⅰ",
+          "zh-Hans": "加速再生Ⅰ",
+          "ar": "التعافي السريع 1",
+          "es-419": "Regeneración I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "継続してモンスターに攻撃を当てると、\r\n体力が回復する\r\n（武器種により回復量は変動）",
           "en": "Regenerates your health as you continually\r\nattack a monster. Recovery varies by\r\nweapon.",
@@ -3020,9 +2800,26 @@
           "zh-Hans": "攻击不断命中怪物时，回复体力\r\n（回复量依武器种类而异）",
           "ar": "تجدّد صحتك عند <LSNR \"مهاجمتكَ\" \"مهاجمتكِ\"> لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
           "es-419": "Regenera salud mientras atacas\r\ncontinuamente a un monstruo.\r\nLa salud recuperada depende del arma."
+        },
+        "names": {
+          "jp": "加速再生Ⅱ",
+          "en": "Hasten Recovery II",
+          "fr": "Récupération rapide II",
+          "it": "Furia guaritrice II",
+          "de": "Schnelle Erholung II",
+          "es": "Regeneración II",
+          "ru": "Ускоренное заживление II",
+          "pl": "Szybsza regeneracja II",
+          "pt-BR": "Regeneração Veloz II",
+          "ko": "가속 재생Ⅱ",
+          "zh-Hant": "加速再生Ⅱ",
+          "zh-Hans": "加速再生Ⅱ",
+          "ar": "التعافي السريع 2",
+          "es-419": "Regeneración II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -895828480,
@@ -3116,7 +2913,8 @@
           "es-419": "Anula todos los tipos de ráfagas\r\nde viento."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -893407296,
@@ -3210,7 +3008,8 @@
           "es-419": "Posibilidad de aturdir +40 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -857543744,
@@ -3304,7 +3103,8 @@
           "es-419": "Poder explosivo +30 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -856322816,
@@ -3436,7 +3236,8 @@
           "es-419": "Hace que sea aún mucho más fácil\r\ninfligir heridas. También inflige\r\nmucho más daño no elem. adicional."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -844978880,
@@ -3530,43 +3331,14 @@
           "es-419": "Acumulación de nitro +20 %\r\nBonus: +50"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -812084224,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m812084224"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm812084224"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -776946176,
@@ -3660,43 +3432,14 @@
           "es-419": "ATQ de draco +20 %\r\nBonus: +60"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -774473472,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m774473472"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm774473472"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -692636288,
@@ -3752,7 +3495,8 @@
           "es-419": "Reduce el gasto de resistencia\r\nmientras trepas un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -682586176,
@@ -3846,7 +3590,8 @@
           "es-419": "Reduce el consumo continuo\r\nde resistencia un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -676967744,
@@ -3902,7 +3647,8 @@
           "es-419": "Permite equiparte viales de\r\nparalizantes."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -632440576,
@@ -3958,7 +3704,8 @@
           "es-419": "Activa el efecto de la habilidad."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -609509888,
@@ -4052,7 +3799,8 @@
           "es-419": "Anula todos los temblores de tierra."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -596764096,
@@ -4146,7 +3894,8 @@
           "es-419": "Potencia mucho cada ataque y\r\nla velocidad del fuego de\r\nwyvern. ATQ de disparo +90."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -593005376,
@@ -4240,7 +3989,8 @@
           "es-419": "Restablece 100 de salud."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -568838336,
@@ -4334,7 +4084,8 @@
           "es-419": "Anula todas las plagas elementales."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -562534336,
@@ -4428,7 +4179,8 @@
           "es-419": "ATQ de fuego +20 %\r\nBonus: +60"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -481419552,
@@ -4522,7 +4274,8 @@
           "es-419": "Adicionalmente, te permite digerir\r\nmandrágoras, mancha del diablo\r\ny hongos excitantes."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -420608864,
@@ -4616,7 +4369,8 @@
           "es-419": "Aumenta mucho el alcance."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -418246240,
@@ -4636,25 +4390,9 @@
       "ar": "حماية غرافيوس",
       "es-419": "Protección de Gravios"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm418246240"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "体力が最大の時、受けるダメージを\r\n５％軽減する",
           "en": "Reduces the damage you take by 5%\r\nwhen your health is full.",
@@ -4670,10 +4408,26 @@
           "zh-Hans": "体力全满时，所受伤害减少5%",
           "ar": "تقلل الضرر الذي <LSNR \"تتلقاه\" \"تتلقينه\"> بنسبة 5%\r\nعند اكتمال مقياس <LSNR \"صحتكَ\" \"صحتكِ\">.",
           "es-419": "Reduce el daño que recibes un 5 %\r\ncuando la salud está completa."
+        },
+        "names": {
+          "jp": "無傷の重装Ⅰ",
+          "en": "Flawless Armor I",
+          "fr": "Armure sans défaut I",
+          "it": "Armatura ineccepibile I",
+          "de": "Makellose Rüstung I",
+          "es": "Armadura intachable I",
+          "ru": "Безупречная броня I",
+          "pl": "Nieskazitelny pancerz I",
+          "pt-BR": "Armadura Infalível I",
+          "ko": "무결점의 방어Ⅰ",
+          "zh-Hant": "無傷重裝Ⅰ",
+          "zh-Hans": "无伤重装Ⅰ",
+          "ar": "درع مثالي 1",
+          "es-419": "Armadura precisa I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "体力が最大の時、受けるダメージを\r\n１０％軽減する",
           "en": "Reduces the damage you take by 10%\r\nwhen your health is full.",
@@ -4689,9 +4443,26 @@
           "zh-Hans": "体力全满时，所受伤害减少10%",
           "ar": "تقلل الضرر الذي <LSNR \"تتلقاه\" \"تتلقينه\"> بنسبة 10%\r\nعند اكتمال مقياس <LSNR \"صحتكَ\" \"صحتكِ\">.",
           "es-419": "Reduce el daño que recibes un 10 %\r\ncuando la salud está completa."
+        },
+        "names": {
+          "jp": "無傷の重装Ⅱ",
+          "en": "Flawless Armor II",
+          "fr": "Armure sans défaut II",
+          "it": "Armatura ineccepibile II",
+          "de": "Makellose Rüstung II",
+          "es": "Armadura intachable II",
+          "ru": "Безупречная броня II",
+          "pl": "Nieskazitelny pancerz II",
+          "pt-BR": "Armadura Infalível II",
+          "ko": "무결점의 방어Ⅱ",
+          "zh-Hant": "無傷重裝Ⅱ",
+          "zh-Hans": "无伤重装Ⅱ",
+          "ar": "درع مثالي 2",
+          "es-419": "Armadura precisa II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -411441344,
@@ -4766,7 +4537,8 @@
           "es-419": "Previene el hedor."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -397570464,
@@ -4898,7 +4670,8 @@
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +30 %, más\r\nun 20 % adicional sobre heridas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -315492576,
@@ -4992,7 +4765,8 @@
           "es-419": "Velocidad de recuperación\r\nde resistencia +50 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -307644128,
@@ -5086,43 +4860,14 @@
           "es-419": "Reduce mucho el impacto\r\nde los ataques y el gasto\r\nde resistencia un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -285123456,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m285123456"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm285123456"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -283334048,
@@ -5216,7 +4961,8 @@
           "es-419": "Aumenta la tasa de carga de la\r\nbarra y reduce el tiempo de\r\nataques cargados un 15 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -257693696,
@@ -5272,7 +5018,8 @@
           "es-419": "Mejora la efectividad de los ataques\r\ny objetos que provoquen destellos."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -215826112,
@@ -5292,25 +5039,9 @@
       "ar": "انتفاضة جين دهاد",
       "es-419": "Rebelión de Jin Dahaad"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm215826112"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "糸拘束状態、凍結状態の回復時、または\r\n拘束攻撃から解放された時、鍔迫り合い\r\nの後、一定時間、攻撃力が上昇",
           "en": "Increases attack after recovering\r\nfrom webbed status, frostblight,\r\nbeing pinned, or a Power Clash.",
@@ -5326,10 +5057,26 @@
           "zh-Hans": "从丝线束缚状态或冻结状态回复，从\r\n束缚攻击解放，或者在角力后，提升\r\n一定时间内的攻击力",
           "ar": "تزيد قوة الهجوم بعد التعافي\r\nمن حالة التكفّف بالنسيج أو لفحة الصقيع\r\nأو الوقوع في المحاصرة أو صدام القوة.",
           "es-419": "Aumenta el ataque tras recuperarte de\r\nestado enmarañado, plaga de escarcha,\r\ninmovilización o choque de poder."
+        },
+        "names": {
+          "jp": "束縛反攻Ⅰ",
+          "en": "Binding Counter I",
+          "fr": "Contre paralysant I",
+          "it": "Liberazione offensiva I",
+          "de": "Bindekonter I",
+          "es": "Contraataque atrapador I",
+          "ru": "Скованный контрудар I",
+          "pl": "Wiążąca kontra I",
+          "pt-BR": "Contra-ataque Vinculante I",
+          "ko": "속박 반격Ⅰ",
+          "zh-Hant": "束縛反攻Ⅰ",
+          "zh-Hans": "束缚反攻Ⅰ",
+          "ar": "الهجوم المضاد المقيِّد 1",
+          "es-419": "Contraataque atrapador I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "糸拘束状態、凍結状態の回復時、または\r\n拘束攻撃から解放された時、鍔迫り合い\r\nの後、一定時間、攻撃力が大きく上昇",
           "en": "Greatly increases attack after recovering\r\nfrom webbed status, frostblight, being\r\npinned, or a Power Clash.",
@@ -5345,9 +5092,26 @@
           "zh-Hans": "从丝线束缚状态或冻结状态回复，从\r\n束缚攻击解放，或者在角力后，大幅\r\n提升一定时间内的攻击力",
           "ar": "تزيد كثيرًا قوة الهجوم بعد التعافي\r\nمن حالة التكفّف بالنسيج أو لفحة الصقيع\r\nأو الوقوع في المحاصرة أو صدام القوة.",
           "es-419": "Aumenta mucho el ataque tras recuperarte\r\nde estado enmarañado, plaga de escarcha,\r\ninmovilización o choque de poder."
+        },
+        "names": {
+          "jp": "束縛反攻Ⅱ",
+          "en": "Binding Counter II",
+          "fr": "Contre paralysant II",
+          "it": "Liberazione offensiva II",
+          "de": "Bindekonter II",
+          "es": "Contraataque atrapador II",
+          "ru": "Скованный контрудар II",
+          "pl": "Wiążąca kontra II",
+          "pt-BR": "Contra-ataque Vinculante II",
+          "ko": "속박 반격Ⅱ",
+          "zh-Hant": "束縛反攻Ⅱ",
+          "zh-Hans": "束缚反攻Ⅱ",
+          "ar": "الهجوم المضاد المقيِّد 2",
+          "es-419": "Contraataque atrapador II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -201445760,
@@ -5422,7 +5186,8 @@
           "es-419": "También anula los efectos de las olas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -193031552,
@@ -5516,7 +5281,8 @@
           "es-419": "Previene el sueño."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -181774400,
@@ -5572,7 +5338,8 @@
           "es-419": "Permite equiparte viales de fatiga."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -181127504,
@@ -5666,7 +5433,8 @@
           "es-419": "Ataque +15 % mientras esté\r\nactivo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -171796848,
@@ -5760,7 +5528,8 @@
           "es-419": "Ataque +15 % mientras esté\r\nactivo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -168922880,
@@ -5854,7 +5623,8 @@
           "es-419": "Aumenta mucho los efectos\r\nde estados alterados al realizar\r\ngolpes críticos."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -160562336,
@@ -5929,43 +5699,14 @@
           "es-419": "Aumenta la potencia\r\nde ciertas municiones y flechas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": -111868368,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_m111868368"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm111868368"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": -62248528,
@@ -5985,25 +5726,9 @@
       "ar": "قوة دوشاغوما",
       "es-419": "Poder de Doshaguma"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm62248528"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "鍔迫り合い、または相殺が成功した時、\r\n一定時間、基礎攻撃力＋１０",
           "en": "Temporarily grants attack +10\r\nafter a successful Power Clash\r\nor Offset attack",
@@ -6019,10 +5744,26 @@
           "zh-Hans": "角力或抵消成功时，\r\n一定时间内基础攻击力+10",
           "ar": "تمنح هجومًا +10 مؤقتًا\r\nبعد صدام القوة\r\nأو الهجوم المُبطِل",
           "es-419": "Otorga temporalmente ataque +10\r\ndespués de un choque de poder\r\no ataque compensado con éxito."
+        },
+        "names": {
+          "jp": "力自慢Ⅰ",
+          "en": "Powerhouse I",
+          "fr": "Culturiste I",
+          "it": "Concentrazione potenza I",
+          "de": "Kraftmeier I",
+          "es": "¡Qué fuertes! I",
+          "ru": "Могущество I",
+          "pl": "Potęga I",
+          "pt-BR": "Dominância I",
+          "ko": "힘자랑Ⅰ",
+          "zh-Hant": "大力士Ⅰ",
+          "zh-Hans": "大力士Ⅰ",
+          "ar": "شديد القوة 1",
+          "es-419": "¡Qué fuertes! I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "鍔迫り合い、または相殺が成功した時、\r\n一定時間、基礎攻撃力＋２５",
           "en": "Temporarily grants attack +25\r\nafter a successful Power Clash\r\nor Offset attack",
@@ -6038,9 +5779,26 @@
           "zh-Hans": "角力或抵消成功时，\r\n一定时间内基础攻击力+25",
           "ar": "تمنح هجومًا +25 مؤقتًا\r\nبعد صدام القوة\r\nأو الهجوم المُبطِل",
           "es-419": "Otorga temporalmente ataque +25\r\ndespués de un choque de poder\r\no ataque compensado con éxito."
+        },
+        "names": {
+          "jp": "力自慢Ⅱ",
+          "en": "Powerhouse II",
+          "fr": "Culturiste II",
+          "it": "Concentrazione potenza II",
+          "de": "Kraftmeier II",
+          "es": "¡Qué fuertes! II",
+          "ru": "Могущество II",
+          "pl": "Potęga II",
+          "pt-BR": "Dominância II",
+          "ko": "힘자랑Ⅱ",
+          "zh-Hant": "大力士Ⅱ",
+          "zh-Hans": "大力士Ⅱ",
+          "ar": "شديد القوة 2",
+          "es-419": "¡Qué fuertes! II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": -3666104,
@@ -6060,25 +5818,9 @@
       "ar": "وهج راثالوس",
       "es-419": "Bengala de Rathalos"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXPm3666104"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "攻撃を当てた時、確率で\r\n追加の火属性ダメージを与える",
           "en": "Chance to deal additional fire\r\ndamage after landing an attack.",
@@ -6094,10 +5836,26 @@
           "zh-Hans": "攻击命中时，\r\n有一定概率额外造成火属性伤害",
           "ar": "فرصة لإلحاق ضرر ناري إضافي\r\nبعد شن هجوم.",
           "es-419": "La probabilidad de infligir daño\r\nde fuego adicional después de asestar\r\nun golpe."
+        },
+        "names": {
+          "jp": "灼熱化Ⅰ",
+          "en": "Scorcher I",
+          "fr": "Carbonisateur I",
+          "it": "Ardente I",
+          "de": "Versenger I",
+          "es": "Abrasador I",
+          "ru": "Выжигание I",
+          "pl": "Przypalacz I",
+          "pt-BR": "Tostador I",
+          "ko": "작열화Ⅰ",
+          "zh-Hant": "炎熱化Ⅰ",
+          "zh-Hans": "灼热化Ⅰ",
+          "ar": "حارق 1",
+          "es-419": "Abrasador I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "追加で与える火属性ダメージが\r\n上昇する",
           "en": "Increases additional fire damage\r\nafter landing an attack.",
@@ -6113,9 +5871,26 @@
           "zh-Hans": "提升额外造成的火属性伤害",
           "ar": "تزيد الضرر الناري الإضافي بعد تنفيذ هجوم.",
           "es-419": "Aumenta el daño de fuego adicional\r\ndespués de asestar un golpe."
+        },
+        "names": {
+          "jp": "灼熱化Ⅱ",
+          "en": "Scorcher II",
+          "fr": "Carbonisateur II",
+          "it": "Ardente II",
+          "de": "Versenger II",
+          "es": "Abrasador II",
+          "ru": "Выжигание II",
+          "pl": "Przypalacz II",
+          "pt-BR": "Tostador II",
+          "ko": "작열화Ⅱ",
+          "zh-Hant": "炎熱化Ⅱ",
+          "zh-Hans": "灼热化Ⅱ",
+          "ar": "حارق 2",
+          "es-419": "Abrasador II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 1,
@@ -6247,7 +6022,8 @@
           "es-419": "Ataque +4 %\r\nBonus adicional +9"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 27684744,
@@ -6379,43 +6155,14 @@
           "es-419": "Ataque +15 y afinidad +20 %\r\ncontra monstruos grandes\r\nafectados por veneno o parálisis."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 56719788,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_56719788"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP56719788"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 78208296,
@@ -6471,7 +6218,8 @@
           "es-419": "Anula los derribos durante\r\nlos saltos."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 144660544,
@@ -6603,7 +6351,8 @@
           "es-419": "Alarga muchísimo el momento\r\nde invulnerabilidad al hacer\r\nuna evasión."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 166057120,
@@ -6697,7 +6446,8 @@
           "es-419": "Acumulación de sueño +20 %\r\nBonus: +50"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 169998480,
@@ -6753,7 +6503,8 @@
           "es-419": "Permite equiparte viales de\r\nsueño."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 192746944,
@@ -6847,7 +6598,8 @@
           "es-419": "Anula el efecto de los\r\nrugidos débiles y fuertes."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 280489184,
@@ -6941,43 +6693,14 @@
           "es-419": "Ataque +25 mientras esté activo.\r\nExtiende el tiempo de efecto."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 309360992,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_309360992"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP309360992"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 313598432,
@@ -7071,7 +6794,8 @@
           "es-419": "Aumenta mucho el daño\r\nelemental mientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 353114912,
@@ -7127,7 +6851,8 @@
           "es-419": "Activa el efecto de la habilidad."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 383104832,
@@ -7221,7 +6946,8 @@
           "es-419": "Antiagua +20\r\nDefensa +10"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 397306144,
@@ -7315,7 +7041,8 @@
           "es-419": "Poder de ataque +10 % cuando\r\nla barra de afilado es verde\r\no menos."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 402237312,
@@ -7371,7 +7098,8 @@
           "es-419": "Ataque en salto +10 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 422666624,
@@ -7503,43 +7231,14 @@
           "es-419": "Ataque +30 % y se pierden los efectos\r\nde aumento de defensa de los niveles\r\nprevios, mientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 424767232,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_424767232"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP424767232"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 424768352,
@@ -7614,7 +7313,8 @@
           "es-419": "Anula el daño del entorno."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 451472896,
@@ -7634,25 +7334,9 @@
       "ar": "مصنوعات جلدية ناعمة كالزبدة",
       "es-419": "Cuero mantecoso"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP451472896"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "地形を利用したスライディングを\r\n行うと、一定時間会心率が上がる",
           "en": "Increases your affinity temporarily\r\nwhen sliding on terrain.",
@@ -7668,45 +7352,32 @@
           "zh-Hans": "利用地形滑行后，\r\n提升一定时间内的会心率",
           "ar": "تزيد من نسبة الضرر مؤقتًا\r\nعند الانزلاق على التضاريس.",
           "es-419": "Aumenta tu afinidad temporalmente\r\nal deslizarte por el terreno."
+        },
+        "names": {
+          "jp": "滑走強化",
+          "en": "Affinity Sliding",
+          "fr": "Roi de la glisse",
+          "it": "Affinità scivolata",
+          "de": "Affinitätsschlittern",
+          "es": "Afinidad deslizante",
+          "ru": "Мастерское скольжение",
+          "pl": "Wślizg zgodności",
+          "pt-BR": "Deslizada de Afinidade",
+          "ko": "활주 강화",
+          "zh-Hant": "滑走強化",
+          "zh-Hans": "滑行强化",
+          "ar": "انزلاق نسبة الضرر",
+          "es-419": "Afinidad deslizante"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 457912640,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_457912640"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP457912640"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 469540352,
@@ -7838,79 +7509,20 @@
           "es-419": "Reduce el tiempo de recarga\r\nen un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 471964960,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_471964960"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP471964960"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 504506560,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_504506560"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP504506560"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 508916704,
@@ -8004,7 +7616,8 @@
           "es-419": "ATQ de agua +20 %\r\nBonus: +60"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 522288832,
@@ -8098,7 +7711,8 @@
           "es-419": "Previene la parálisis."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 539707072,
@@ -8118,25 +7732,9 @@
       "ar": "جهد راي داو الكهربائي",
       "es-419": "Voltaje de Rey Dau"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP539707072"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "「力の解放」のスキル発動時間を\r\n少し延長する",
           "en": "Moderately extends the activation\r\ntime of the Latent Power skill.",
@@ -8152,10 +7750,26 @@
           "zh-Hans": "小幅延长“力量解放”技能的发动时间",
           "ar": "تطيل وقت تنشيط مهارة القوة\r\nالكامنة بشكل معتدل.",
           "es-419": "Extiende moderadamente el tiempo\r\nde activación de la habilidad poder\r\nlatente."
+        },
+        "names": {
+          "jp": "雷々響鳴Ⅰ",
+          "en": "Thunderous Roar I",
+          "fr": "Rage foudroyante I",
+          "it": "Ruggito di tuono I",
+          "de": "Donnerndes Gebrüll I",
+          "es": "Rugido atronador I",
+          "ru": "Громовой рёв I",
+          "pl": "Ryk pioruna I",
+          "pt-BR": "Rugido Trovejante I",
+          "ko": "천둥소리Ⅰ",
+          "zh-Hant": "雷霆響鳴Ⅰ",
+          "zh-Hans": "万雷轰鸣Ⅰ",
+          "ar": "الهدير الرعدي 1",
+          "es-419": "Rugido atronador I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "「力の解放」のスキル発動時間を\r\n延長する",
           "en": "Extends the activation time of the\r\nLatent Power skill.",
@@ -8171,9 +7785,26 @@
           "zh-Hans": "延长“力量解放”技能的发动时间",
           "ar": "تطيل وقت تنشيط\r\nمهارة القوة الكامنة.",
           "es-419": "Extiende el tiempo de activación\r\nde la habilidad poder latente."
+        },
+        "names": {
+          "jp": "雷々響鳴Ⅱ",
+          "en": "Thunderous Roar II",
+          "fr": "Rage foudroyante II",
+          "it": "Ruggito di tuono II",
+          "de": "Donnerndes Gebrüll II",
+          "es": "Rugido atronador II",
+          "ru": "Громовой рёв II",
+          "pl": "Ryk pioruna II",
+          "pt-BR": "Rugido Trovejante II",
+          "ko": "천둥소리Ⅱ",
+          "zh-Hant": "雷霆響鳴Ⅱ",
+          "zh-Hans": "万雷轰鸣Ⅱ",
+          "ar": "الهدير الرعدي 2",
+          "es-419": "Rugido atronador II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 552982656,
@@ -8229,7 +7860,8 @@
           "es-419": "Aumenta ligeramente la potencia\r\nde ciertas municiones y flechas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 565867136,
@@ -8361,7 +7993,8 @@
           "es-419": "Golpea 5 veces seguidas\r\npara bonus muy elevados."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 583598144,
@@ -8381,25 +8014,9 @@
       "ar": "فرو ساحر",
       "es-419": "Piel cautivadora"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP583598144"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "攻撃を当てた時、モンスターの注意を\r\nより強く引くようになる",
           "en": "Increases the attention drawn to you\r\nwhen attacking a monster.",
@@ -8415,9 +8032,26 @@
           "zh-Hans": "攻击命中时，能更加吸引怪物的注意",
           "ar": "تزيد من الانتباه <LSNR \"إليكَ\" \"إليكِ\">\r\nعند الهجوم على وحش.",
           "es-419": "Llamarás más la atención\r\nal atacar a un monstruo."
+        },
+        "names": {
+          "jp": "陽動",
+          "en": "Diversion",
+          "fr": "Diversion",
+          "it": "Diversione",
+          "de": "Provozierer",
+          "es": "Distracción",
+          "ru": "Отвлечение",
+          "pl": "Dywersja",
+          "pt-BR": "Distração",
+          "ko": "양동",
+          "zh-Hant": "佯攻",
+          "zh-Hans": "佯动",
+          "ar": "التحويل",
+          "es-419": "Distracción"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 595870656,
@@ -8511,7 +8145,8 @@
           "es-419": "Añade un objeto extra al\r\nrecolectar en afloramientos\r\nmineros,"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 632127488,
@@ -8605,7 +8240,8 @@
           "es-419": "Afinidad +30 % mientras esté\r\nactivo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 634068352,
@@ -8699,7 +8335,8 @@
           "es-419": "Aumenta mucho\r\nla velocidad al comer."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 652161472,
@@ -8793,43 +8430,14 @@
           "es-419": "Antihielo +20\r\nDefensa +10"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 654153152,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_654153152"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP654153152"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 673822976,
@@ -8923,7 +8531,8 @@
           "es-419": "Aumenta mucho la distancia\r\na la que evades."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 686533440,
@@ -9017,7 +8626,8 @@
           "es-419": "Afinidad +100 %"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 691199232,
@@ -9111,7 +8721,8 @@
           "es-419": "Aumenta mucho la duración\r\nde las bonificaciones de las\r\narmas."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 705317568,
@@ -9205,7 +8816,8 @@
           "es-419": "Previene el aturdimiento."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 722735744,
@@ -9225,25 +8837,9 @@
       "ar": "طغيان جور ماجالا",
       "es-419": "Tiranía de Gore Magala"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP722735744"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "大型モンスターと対峙した時、\r\n狂竜症に感染する。",
           "en": "Infects you with Frenzy when against\r\nlarge monsters.",
@@ -9259,10 +8855,26 @@
           "zh-Hans": "狩猎大型怪物时会感染狂龙病毒",
           "ar": "<LSNR \"تصيبكَ\" \"تصيبكِ\"> بفيروس الجنون\r\nعند مواجهة الوحوش الكبيرة.",
           "es-419": "Te infecta con cólera cuando luches\r\ncontra monstruos grandes."
+        },
+        "names": {
+          "jp": "黒蝕一体Ⅰ",
+          "en": "Black Eclipse I",
+          "fr": "Éclipse noire I",
+          "it": "Eclissi nera I",
+          "de": "Schwarze Finsternis I",
+          "es": "Eclipse negro I",
+          "ru": "Чёрное затмение I",
+          "pl": "Czarne zaćmienie I",
+          "pt-BR": "Eclipse Sinistro I",
+          "ko": "흑식일체Ⅰ",
+          "zh-Hant": "黑蝕一體Ⅰ",
+          "zh-Hans": "黑蚀一体Ⅰ",
+          "ar": "الكسوف الأسود 1",
+          "es-419": "Eclipse negro I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "大型モンスターと対峙した時、\r\n狂竜症に感染し、攻撃力が上昇する。\r\n克服時、さらに攻撃力が上昇する。",
           "en": "Infects you with Frenzy and raises\r\nattack when against large monsters.\r\nAttack power increases upon recovery.",
@@ -9278,9 +8890,26 @@
           "zh-Hans": "狩猎大型怪物时会感染狂龙病毒，并提\r\n升攻击力；克服狂龙症后，攻击力进一\r\n步提升",
           "ar": "<LSNR \"تصيبكَ\" \"تصيبكِ\"> بفيروس الجنون وتزيد\r\nقوة الهجوم عند مواجهة الوحوش الكبيرة.\r\nتزيد قوة الهجوم عند التعافي.",
           "es-419": "Te infecta con cólera y aumenta el\r\nataque contra monstruos grandes. La\r\npotencia de ataque aumenta al recuperarte."
+        },
+        "names": {
+          "jp": "黒蝕一体Ⅱ",
+          "en": "Black Eclipse II",
+          "fr": "Éclipse noire II",
+          "it": "Eclissi nera II",
+          "de": "Schwarze Finsternis II",
+          "es": "Eclipse negro II",
+          "ru": "Чёрное затмение II",
+          "pl": "Czarne zaćmienie II",
+          "pt-BR": "Eclipse Sinistro II",
+          "ko": "흑식일체Ⅱ",
+          "zh-Hant": "黑蝕一體Ⅱ",
+          "zh-Hans": "黑蚀一体Ⅱ",
+          "ar": "الكسوف الأسود 2",
+          "es-419": "Eclipse negro II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 741102208,
@@ -9300,25 +8929,9 @@
       "ar": "روح بلانجونجا",
       "es-419": "Espíritu de Blangonga"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP741102208"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "ジェスチャー「雄叫び」をした時、一定\r\n時間、周囲の攻撃力が少し上昇。オトモ\r\nとサポートハンターには効果が大きい。",
           "en": "Using the <BOLD>To Victory!</BOLD> gesture moderately \r\nincreases attack temporarily to nearby allies.\r\nGreatly effects Palicoes and Support Hunters.",
@@ -9334,10 +8947,26 @@
           "zh-Hans": "使用肢体动作“咆哮”时，在一定时间\r\n内小幅提升周围成员的攻击力。随从与\r\n支援猎人所受的效果较大。",
           "ar": "استخدام إيماءة <BOLD>نحو النصر!</BOLD> يزيد الهجوم\r\nبشكل معتدل مؤقتًا على الحلفاء القريبين.\r\nتؤثر بشكل كبير على الباليكو وصيادي الدعم.",
           "es-419": "Aumenta moderadamente el ataque de los aliados\r\ntras usar el gesto <BOLD>¡A la victoria!</BOLD>\r\n(sobre todo camaradas y cazadores de apoyo)."
+        },
+        "names": {
+          "jp": "ウォークライⅠ",
+          "en": "War Cry I",
+          "fr": "Cri de guerre I",
+          "it": "Grido di guerra I",
+          "de": "Schlachtruf I",
+          "es": "Grito de guerra I",
+          "ru": "Боевой клич I",
+          "pl": "Wojenny zew I",
+          "pt-BR": "Grito de Guerra I",
+          "ko": "전투의 함성Ⅰ",
+          "zh-Hant": "戰嚎Ⅰ",
+          "zh-Hans": "战吼Ⅰ",
+          "ar": "صيحة الحرب 1",
+          "es-419": "Grito de guerra I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "ジェスチャー「雄叫び」をした時、一定\r\n時間、周囲の攻撃力が上昇。オトモと\r\nサポートハンターには効果が大きい。",
           "en": "Using the <BOLD>To Victory!</BOLD> gesture increases\r\nattack temporarily to nearby allies. Greatly\r\neffects Palicoes and Support Hunters.",
@@ -9353,9 +8982,26 @@
           "zh-Hans": "使用肢体动作“咆哮”时，在一定时间\r\n内提升周围成员的攻击力。随从与支援\r\n猎人所受的效果较大。",
           "ar": "استخدام إيماءة <BOLD>نحو النصر!</BOLD> يزيد الهجوم\r\nمؤقتًا على الحلفاء القريبين. تؤثر بشكل\r\nكبير على الباليكو وصيادي الدعم.",
           "es-419": "Aumenta el ataque de los aliados al\r\nusar el gesto <BOLD>¡A la victoria!</BOLD>\r\n(sobre todo camaradas y cazadores de apoyo)."
+        },
+        "names": {
+          "jp": "ウォークライⅡ",
+          "en": "War Cry II",
+          "fr": "Cri de guerre II",
+          "it": "Grido di guerra II",
+          "de": "Schlachtruf II",
+          "es": "Grito de guerra II",
+          "ru": "Боевой клич II",
+          "pl": "Wojenny zew II",
+          "pt-BR": "Grito de Guerra II",
+          "ko": "전투의 함성Ⅱ",
+          "zh-Hant": "戰嚎Ⅱ",
+          "zh-Hans": "战吼Ⅱ",
+          "ar": "صيحة الحرب 2",
+          "es-419": "Grito de guerra II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 742695104,
@@ -9449,7 +9095,8 @@
           "es-419": "Previene ser derribado\r\no empujado hacia atrás."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 802725120,
@@ -9524,7 +9171,8 @@
           "es-419": "Aumenta más la vel. recarga. mun. y\r\nviales. Cap. de carga l. pistola +1.\r\nCarga hacha c. 5 en barra amarilla."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 820385792,
@@ -9618,7 +9266,8 @@
           "es-419": "Previene la plaga de nitro."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 850626240,
@@ -9712,7 +9361,8 @@
           "es-419": "45 % de probabilidad de activación."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 860517760,
@@ -9825,7 +9475,8 @@
           "es-419": "Cada vez que extraes hongos\r\nconsigues uno extra adicional."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 894530496,
@@ -9957,7 +9608,8 @@
           "es-419": "Los objetos afectan a los aliados\r\nen un radio mucho más amplio\r\ncon total eficacia."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 898284480,
@@ -10013,7 +9665,8 @@
           "es-419": "Activa el efecto de la habilidad."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 918165056,
@@ -10033,25 +9686,9 @@
       "ar": "قوة أودوغارون أسمر",
       "es-419": "Poder de Odogaron Ébano"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP918165056"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "「連撃」スキルの効果発動時、\r\n有効時間を延長し、基礎攻撃力＋３",
           "en": "Extends the duration of the Burst\r\nskill and grants attack +3 while\r\nBurst is active.",
@@ -10067,10 +9704,26 @@
           "zh-Hans": "“连击”技能效果发动时，延长其\r\n有效时间，且基础攻击力+3",
           "ar": "تطيل مدة مهارة الانفجار\r\nوتمنح هجومًا +3\r\nأثناء تنشيط الانفجار.",
           "es-419": "Prolonga la duración de Ráfaga\r\ny otorga +3 de ataque\r\nmientras Ráfaga está activa."
+        },
+        "names": {
+          "jp": "連撃強化Ⅰ",
+          "en": "Burst Boost I",
+          "fr": "Bonus Vendetta I",
+          "it": "Bonus scoppio I",
+          "de": "Salve-Bonus I",
+          "es": "Ráfaga potenciada I",
+          "ru": "Усиление шквала I",
+          "pl": "Wzmocnienie wybuchu I",
+          "pt-BR": "Impulso Explosivo I",
+          "ko": "연격 강화Ⅰ",
+          "zh-Hant": "連擊強化Ⅰ",
+          "zh-Hans": "连击强化Ⅰ",
+          "ar": "معزز الانفجار 1",
+          "es-419": "Bonus de ráfaga I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "「連撃」スキルの効果発動時、\r\n有効時間をさらに延長し、\r\n基礎攻撃力＋１０",
           "en": "Further extends the duration of\r\nthe Burst skill and grants attack +10\r\nwhile Burst is active.",
@@ -10086,9 +9739,26 @@
           "zh-Hans": "“连击”技能效果发动时，进一步延长\r\n其有效时间，且基础攻击力+10",
           "ar": "تطيل مدة مهارة الانفجار أكثر\r\nوتمنح هجومًا +10\r\nأثناء تنشيط الانفجار.",
           "es-419": "Prolonga más la duración de Ráfaga\r\ny otorga +10 de ataque\r\nmientras Ráfaga está activa."
+        },
+        "names": {
+          "jp": "連撃強化Ⅱ",
+          "en": "Burst Boost II",
+          "fr": "Bonus Vendetta II",
+          "it": "Bonus scoppio II",
+          "de": "Salve-Bonus II",
+          "es": "Ráfaga potenciada II",
+          "ru": "Усиление шквала II",
+          "pl": "Wzmocnienie wybuchu II",
+          "pt-BR": "Impulso Explosivo II",
+          "ko": "연격 강화Ⅱ",
+          "zh-Hant": "連擊強化Ⅱ",
+          "zh-Hans": "连击强化Ⅱ",
+          "ar": "معزز الانفجار 2",
+          "es-419": "Bonus de ráfaga II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 919683456,
@@ -10144,7 +9814,8 @@
           "es-419": "Permite equiparte viales de\r\nveneno."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1050520384,
@@ -10238,7 +9909,8 @@
           "es-419": "Probabilidad del 50 %\r\nde no perder afilado."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1077686656,
@@ -10408,43 +10080,14 @@
           "es-419": "Defensa +10 %\r\nBonus: +35\r\nResistencias elementales +5"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1150634496,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1150634496"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1150634496"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1160639488,
@@ -10576,7 +10219,8 @@
           "es-419": "Afilado del arma +50"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1174975744,
@@ -10708,7 +10352,8 @@
           "es-419": "Ataque +30 mientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1268070400,
@@ -10802,7 +10447,8 @@
           "es-419": "ATQ de hielo +20 %\r\nBonus: +60"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1346775424,
@@ -10896,7 +10542,8 @@
           "es-419": "Al activarse, reduce el daño\r\nrecibido un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1359821952,
@@ -11028,7 +10675,8 @@
           "es-419": "Ataque +25 mientras esté\r\nactivo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1389859584,
@@ -11084,43 +10732,14 @@
           "es-419": "Probabilidad del 80 % de no perder\r\nafilado mientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1406914944,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1406914944"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1406914944"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1425756032,
@@ -11214,7 +10833,8 @@
           "es-419": "Antifuego +20\r\nDefensa +10"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1444935552,
@@ -11289,7 +10909,8 @@
           "es-419": "Quita dos ciclos\r\ndel proceso de afilado."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1452140672,
@@ -11383,7 +11004,8 @@
           "es-419": "ATQ de rayo +20 %\r\nBonus: +60"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1459579264,
@@ -11477,7 +11099,8 @@
           "es-419": "Previene el veneno."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1470960256,
@@ -11571,7 +11194,8 @@
           "es-419": "Aumenta el daño en partes y el\r\ndaño infligido cuando se cumplan\r\nlas condiciones en un 30 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1472632704,
@@ -11665,7 +11289,8 @@
           "es-419": "Evita que los monstruos te ataquen,\r\nincluso si te vieron."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1487598336,
@@ -11685,25 +11310,9 @@
       "ar": "تقنية تمديد القشور",
       "es-419": "Maestría con escamas"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1487598336"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "モンスターに乗りやすくなり、\r\n乗り状態で成功しやすくなる",
           "en": "Makes it easier to mount monsters\r\nand to wound them once mounted.",
@@ -11719,9 +11328,26 @@
           "zh-Hans": "更容易骑乘怪物，\r\n且更容易在骑乘状态下成功",
           "ar": "تسهّل من امتطاء الوحوش\r\nوإيذائهم أثناء الترجُّل.",
           "es-419": "Hace más fácil que consigas montar\r\nsobre los monstruos y herirlos\r\nmientras estás sobre ellos."
+        },
+        "names": {
+          "jp": "乗り名人",
+          "en": "Master Mounter",
+          "fr": "Maître-cavalier",
+          "it": "Cavaliere provetto",
+          "de": "Rittmeister",
+          "es": "As de la monta",
+          "ru": "Мастер-наездник",
+          "pl": "Mistrz dosiadania",
+          "pt-BR": "Mestre da Montaria",
+          "ko": "탑승 명인",
+          "zh-Hant": "騎乘名人",
+          "zh-Hans": "骑乘名人",
+          "ar": "سيد الامتطاء",
+          "es-419": "As de la montura"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 1489568384,
@@ -11815,7 +11441,8 @@
           "es-419": "Mientras está activa, aumenta ligeramente\r\nel ATQ elemental y la resistencia al\r\nelemento activador por 8."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1500129152,
@@ -11909,7 +11536,8 @@
           "es-419": "El arma no pierde el filo durante\r\n90 s después de activarse."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1522518528,
@@ -12003,79 +11631,20 @@
           "es-419": "Previene la defensa reducida."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1522720256,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1522720256"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1522720256"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1582392192,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1582392192"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1582392192"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1594792704,
@@ -12169,7 +11738,8 @@
           "es-419": "100 % de probabilidad de evitar\r\nel desvío de ataques,\r\n+30 % de daño a objetivos duros."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1613139840,
@@ -12263,7 +11833,8 @@
           "es-419": "Aumenta la potencia de ataque\r\ny la afinidad de munición si se\r\ncumplen ciertas condiciones."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1639440000,
@@ -12319,7 +11890,8 @@
           "es-419": "Activa el efecto de la habilidad."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1685697920,
@@ -12339,25 +11911,9 @@
       "ar": "تمويه نيوبترون",
       "es-419": "Camuflaje de Neopteron"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1685697920"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "しゃがみ移動速度が上昇し、\r\n大型モンスターに見つかりにくくなる",
           "en": "Increases movement speed while\r\ncrouching, and makes it easier to\r\nescape large monsters' detection.",
@@ -12373,9 +11929,26 @@
           "zh-Hans": "加快蹲下移动的速度，\r\n更难被大型怪物发现",
           "ar": "تزيد من سرعة الحركة\r\nأثناء الجثوم، وتجعل من السهل\r\nتفادي رصد الوحوش الكبيرة <LSNR \"لكَ\" \"لكِ\">.",
           "es-419": "Aumenta la velocidad de movimiento\r\nal agacharte y hace más fácil evitar\r\nque los monstruos grandes te detecten."
+        },
+        "names": {
+          "jp": "忍び歩き",
+          "en": "Fleetfoot",
+          "fr": "Pas de loup",
+          "it": "Piedelesto",
+          "de": "Flinkfüßig",
+          "es": "Pies alados",
+          "ru": "Лёгкая поступь",
+          "pl": "Zwinne stopy",
+          "pt-BR": "Ligeiro",
+          "ko": "슬금슬금",
+          "zh-Hant": "躡足而行",
+          "zh-Hans": "隐藏移动",
+          "ar": "الراكض السريع",
+          "es-419": "Pies alados"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 1711950720,
@@ -12469,7 +12042,8 @@
           "es-419": "Aumenta mucho la velocidad de recarga\r\nde la ballesta y el poder de ataque de\r\nmunición cuando se dan las condiciones."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1758661504,
@@ -12563,7 +12137,8 @@
           "es-419": "Posibilidad de agotar +40 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1763191040,
@@ -12695,7 +12270,8 @@
           "es-419": "Mientras está activo,\r\nafinidad +50 % y reduce el\r\ngasto de resistencia un 50 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1845834112,
@@ -12751,7 +12327,8 @@
           "es-419": "Mejora las habilidades de pesca,\r\nde la parilla barbacoa y de transporte."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1865909632,
@@ -12883,43 +12460,14 @@
           "es-419": "Ataque +20 y afinidad +15 %\r\nmientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1890580224,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1890580224"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1890580224"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1934955136,
@@ -13051,7 +12599,8 @@
           "es-419": "Aumenta la defensa y el ataque\r\ndel camarada un 25 %."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1940820864,
@@ -13145,43 +12694,14 @@
           "es-419": "Previene el sangrado."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1960395264,
-    "names": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_1960395264"
-    },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1960395264"
-    },
-    "ranks": []
+    "names": {},
+    "ranks": [],
+    "set_bonus": false
   },
   {
     "game_id": 1966172160,
@@ -13275,7 +12795,8 @@
           "es-419": "Previene el estado enmarañado\r\ny la plaga de escarcha."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 1968728576,
@@ -13295,25 +12816,9 @@
       "ar": "استنفار نيوبترون",
       "es-419": "Alerta de Neopteron"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1968728576"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "フィールドでハチミツを採取した時の\r\n取得数が増える",
           "en": "Increases the amount of honey\r\nyou gain from gathering points.",
@@ -13329,9 +12834,26 @@
           "zh-Hans": "提升在原野采集蜂蜜时的取得数",
           "ar": "تزيد كمية العسل التي <LSNR \"تحصل\" \"تحصلين\"> عليها\r\nمن جمع النقاط.",
           "es-419": "Aumenta la cantidad de miel que\r\nobtienes de los puntos de recolección."
+        },
+        "names": {
+          "jp": "ハニーハンター",
+          "en": "Honey Hunter",
+          "fr": "Amoureux du miel",
+          "it": "Goloso di miele",
+          "de": "Honigjäger",
+          "es": "Experto en miel",
+          "ru": "Охотник за мёдом",
+          "pl": "Łowca miodu",
+          "pt-BR": "Caçador de Mel",
+          "ko": "허니 헌터",
+          "zh-Hant": "蜂蜜獵人",
+          "zh-Hans": "蜂蜜猎人",
+          "ar": "صياد العسل",
+          "es-419": "Cazamieles"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 1980404096,
@@ -13351,25 +12873,9 @@
       "ar": "تمرد نو أودرا",
       "es-419": "Sublevación de Nu Udra"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1980404096"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "「逆恨み」スキル発動中、追加で\r\n少しダメージを与える",
           "en": "Deals moderate additional damage\r\nwhile the Resentment skill is active.",
@@ -13385,10 +12891,26 @@
           "zh-Hans": "“怨恨”技能发动时，造成少量额外伤害",
           "ar": "تلحق ضررًا إضافيًا معتدلًا\r\nأثناء تنشيط مهارة الاستياء.",
           "es-419": "Inflige moderadamente daño adicional\r\nmientras la habilidad Resentimiento\r\nesté activa."
+        },
+        "names": {
+          "jp": "恨撃Ⅰ",
+          "en": "Bad Blood I",
+          "fr": "Mauvais sang I",
+          "it": "Astio I",
+          "de": "Böses Blut I",
+          "es": "Mala sangre I",
+          "ru": "Вражда I",
+          "pl": "Zła krew I",
+          "pt-BR": "Desavença I",
+          "ko": "한격Ⅰ",
+          "zh-Hant": "恨擊Ⅰ",
+          "zh-Hans": "恨击Ⅰ",
+          "ar": "ضغينة 1",
+          "es-419": "Mala sangre I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "「逆恨み」スキル発動中、追加で\r\nダメージを与える",
           "en": "Deals additional damage while the\r\nResentment skill is active.",
@@ -13404,9 +12926,26 @@
           "zh-Hans": "“怨恨”技能发动时，造成额外伤害",
           "ar": "تلحق ضررًا إضافيًا\r\nأثناء تنشيط مهارة الاستياء.",
           "es-419": "Inflige daño adicional mientras\r\nla habilidad Resentimiento esté activa."
+        },
+        "names": {
+          "jp": "恨撃Ⅱ",
+          "en": "Bad Blood II",
+          "fr": "Mauvais sang II",
+          "it": "Astio II",
+          "de": "Böses Blut II",
+          "es": "Mala sangre II",
+          "ru": "Вражда II",
+          "pl": "Zła krew II",
+          "pt-BR": "Desavença II",
+          "ko": "한격Ⅱ",
+          "zh-Hant": "恨擊Ⅱ",
+          "zh-Hans": "恨击Ⅱ",
+          "ar": "ضغينة 2",
+          "es-419": "Mala sangre II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 1998066176,
@@ -13426,25 +12965,9 @@
       "ar": "فرو محصن",
       "es-419": "Piel fortalecedora"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP1998066176"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "クエスト中、力尽きる度に攻撃力と\r\n防御力が上がる（最大２回まで）",
           "en": "Increases attack and defense after\r\nfainting during a quest. (Can be used\r\ntwice.)",
@@ -13460,9 +12983,26 @@
           "zh-Hans": "任务期间每次力尽倒下后，提升攻击力\r\n与防御力（最多2次）",
           "ar": "تزيد الهجوم والدفاع بعد الإغماء أثناء المَهمة.\r\n(يمكن استخدامها مرتين.)",
           "es-419": "Aumenta el ataque y la defensa después de\r\ndesmayarte durante una misión (se puede usar\r\ndos veces y no aplica a ciertas misiones)."
+        },
+        "names": {
+          "jp": "不屈",
+          "en": "Fortify",
+          "fr": "Jamais vaincu",
+          "it": "Rafforzamento",
+          "de": "Kräftigen",
+          "es": "Revitalización",
+          "ru": "Укрепление",
+          "pl": "Wzmocnienie",
+          "pt-BR": "Fortificar",
+          "ko": "불굴",
+          "zh-Hant": "不屈",
+          "zh-Hans": "不屈",
+          "ar": "التحصّن",
+          "es-419": "Fortalecimiento"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 2045149568,
@@ -13556,7 +13096,8 @@
           "es-419": "Previene que tu barra de\r\nresistencia se reduzca."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 2083363072,
@@ -13650,7 +13191,8 @@
           "es-419": "Aumenta más el daño por draco\r\nadicional y aumenta mucho\r\nel ataque de draco."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 2104075392,
@@ -13670,25 +13212,9 @@
       "ar": "غطاء أوث دونا",
       "es-419": "Cobertura de Uth Duna"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2104075392"
-    },
     "ranks": [
       {
-        "level": 2,
+        "level": 1,
         "descriptions": {
           "jp": "特殊装具を使用した時、一定時間\r\n防御力が上昇する",
           "en": "Increases defense temporarily when\r\nusing a specialized tool.",
@@ -13704,10 +13230,26 @@
           "zh-Hans": "使用特殊装备时，\r\n提升一定时间内的防御力",
           "ar": "تزيد الدفاع مؤقتًا\r\nعند استخدام أداة متخصصة.",
           "es-419": "Aumenta temporalmente la defensa\r\nal usar una herramienta especializada."
+        },
+        "names": {
+          "jp": "守護のヴェールⅠ",
+          "en": "Protective Veil I",
+          "fr": "Voile protecteur I",
+          "it": "Velo protettivo I",
+          "de": "Schutzschleier I",
+          "es": "Velo protector I",
+          "ru": "Защитная вуаль I",
+          "pl": "Ochronny woal I",
+          "pt-BR": "Véu Protetor I",
+          "ko": "수호의 베일Ⅰ",
+          "zh-Hant": "守護的液膜Ⅰ",
+          "zh-Hans": "守护之液纱Ⅰ",
+          "ar": "الوشاح الواقي 1",
+          "es-419": "Velo protector I"
         }
       },
       {
-        "level": 4,
+        "level": 2,
         "descriptions": {
           "jp": "特殊装具を使用した時、一定時間\r\n防御力と耐性値が大きく上昇する",
           "en": "Greatly increases defense and\r\nresistance temporarily when\r\nusing a specialized tool.",
@@ -13723,9 +13265,26 @@
           "zh-Hans": "使用特殊装备时，\r\n大幅提升一定时间内的防御力和耐性值",
           "ar": "تزيد الدفاع والمقاومة\r\nكثيرًا مؤقتًا عند استخدام\r\nأداة متخصصة.",
           "es-419": "Aumenta significativamente la defensa\r\ny la resistencia temporalmente\r\nal usar una herramienta especializada."
+        },
+        "names": {
+          "jp": "守護のヴェールⅡ",
+          "en": "Protective Veil II",
+          "fr": "Voile protecteur II",
+          "it": "Velo protettivo II",
+          "de": "Schutzschleier II",
+          "es": "Velo protector II",
+          "ru": "Защитная вуаль II",
+          "pl": "Ochronny woal II",
+          "pt-BR": "Véu Protetor II",
+          "ko": "수호의 베일Ⅱ",
+          "zh-Hant": "守護的液膜Ⅱ",
+          "zh-Hans": "守护之液纱Ⅱ",
+          "ar": "الوشاح الواقي 2",
+          "es-419": "Velo protector II"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 2106877312,
@@ -13857,7 +13416,8 @@
           "es-419": "Ataque +20 mientras esté activo."
         }
       }
-    ]
+    ],
+    "set_bonus": false
   },
   {
     "game_id": 2107855744,
@@ -13877,25 +13437,9 @@
       "ar": "غضب الوحش المهيمن",
       "es-419": "Ira superior"
     },
-    "descriptions": {
-      "jp": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "en": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "fr": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "it": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "de": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "es": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "ru": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "pl": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "pt-BR": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "ko": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "zh-Hant": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "zh-Hans": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "ar": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744",
-      "es-419": "<COLOR FF0000>#Rejected#</COLOR> SkillCommon_EXP2107855744"
-    },
     "ranks": [
       {
-        "level": 3,
+        "level": 1,
         "descriptions": {
           "jp": "状態異常中、攻撃力が上昇する",
           "en": "Increases attack when inflicted with\r\nailments.",
@@ -13911,9 +13455,26 @@
           "zh-Hans": "陷入状态异常时提升攻击力",
           "ar": "تزيد الهجوم\r\nعند الإصابة باعتلالات.",
           "es-419": "Aumenta el ataque bajo los efectos\r\nde estados alterados."
+        },
+        "names": {
+          "jp": "死中に活",
+          "en": "Resuscitate",
+          "fr": "Esprit indomptable",
+          "it": "Rianimazione",
+          "de": "Wiederbelebung",
+          "es": "Bonus evasión/resist.",
+          "ru": "Возвращение к жизни",
+          "pl": "Ożywienie",
+          "pt-BR": "Ressuscitar",
+          "ko": "돌파구",
+          "zh-Hant": "死裡逃生",
+          "zh-Hans": "死里逃生",
+          "ar": "الإعاشة",
+          "es-419": "Resistencia"
         }
       }
-    ]
+    ],
+    "set_bonus": true
   },
   {
     "game_id": 2143068800,
@@ -14007,6 +13568,7 @@
           "es-419": "Antirrayo +20\r\nDefensa +10"
         }
       }
-    ]
+    ],
+    "set_bonus": false
   }
 ]
