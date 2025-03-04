@@ -1,3 +1,6 @@
+- [About](#about)
+  - [Requirements](#requirements)
+  - [Pipeline](#pipeline)
 - [Tools](#tools)
 - [Research](#research)
   - [Decorations (Accessories)](#decorations-accessories)
@@ -13,6 +16,22 @@
     - [Translation Files](#translation-files-2)
     - [Notes](#notes-2)
 
+# About
+The goal of this project is to "glue" several other tools together in order to get sane JSON files for data objects in Wilds.
+
+## Requirements
+- C# .NET 8.0
+- Rust
+
+The C# project in `/tools/DotUserReader` (for now) needs to be manually compiled before running the project. Everything
+else either has an executable embedded in the project, or will compile on-demand if necessary.
+
+## Pipeline
+1. Extract the `re_chunk_000.pak` file in the root of your Wilds install using `/tools/REtool/Extract-PAK.bat`.
+2. Copy `/tools/extractor/examples/config.toml` to the project root, and adjust the paths in `[io]` to point to the
+   extracted files. If you used the `bat` file as-is, no changes will be necessary.
+3. Run `/extract.bat` to convert the relevant `.user.3` and `.msg.23` files to JSON dumps.
+4. Run `/merge.bat` to convert the raw JSON dumps into a merged JSON format.
 
 # Tools
 |Tool|Purpose|
