@@ -187,3 +187,4 @@ Fields listed below are my best guess, based on which items have the flag set.
 |`_Infinit`|boolean|Item isn't consumed on use|Capture Net|
 |`_ForMoney`|boolean|Item is a treasure item|Silver Egg|
 |`_Battle`|boolean|Item is a trap or slinger ammo|Screamer pod, drugged meat, shock trap|
+|`_Shikyu`|boolean|Supply items|First-aid med|

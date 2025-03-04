@@ -11,6 +11,7 @@ use console::Style;
 
 mod accessories;
 mod items;
+mod skills;
 
 /// A map of RFC 639 language codes to a string value. Used to hold translations for an object
 /// field.
@@ -36,6 +37,9 @@ pub fn all(config: &Config) -> Result {
 
     header("Merging item files...");
     items::process(config)?;
+
+    header("Merging skill files...");
+    skills::process(config)?;
 
     Ok(())
 }

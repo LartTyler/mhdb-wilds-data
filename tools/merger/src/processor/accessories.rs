@@ -1,9 +1,8 @@
-use crate::serde::ordered_map;
 use crate::config::Config;
 use crate::processor::{LanguageMap, LevelMap, ReadFile, Result, Translations, WriteFile};
+use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
-use std::collections::HashMap;
 
 const DATA: &str = "data/AccessoryData.json";
 const TRANSLATIONS: &str = "translations/Accessory.json";
@@ -82,22 +81,14 @@ impl From<&AccessoryData> for Accessory {
 
 #[derive(Debug, Deserialize)]
 struct AccessoryData {
-    #[serde(rename = "_Index")]
-    index: isize,
     #[serde(rename = "_AccessoryId")]
     id: isize,
     #[serde(rename = "_Name")]
     name_guid: String,
     #[serde(rename = "_Explain")]
     description_guid: String,
-    #[serde(rename = "_AccessoryType")]
-    kind_id: isize,
-    #[serde(rename = "_SortId")]
-    sort_id: isize,
     #[serde(rename = "_Rare")]
     rarity: u8,
-    #[serde(rename = "_IconColor")]
-    icon_color: u8,
     #[serde(rename = "_Price")]
     price: u16,
     #[serde(rename = "_SlotLevelAcc")]
