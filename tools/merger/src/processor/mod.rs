@@ -14,6 +14,7 @@ mod items;
 mod skills;
 mod charms;
 mod amulets;
+mod armor;
 
 /// A map of RFC 639 language codes to a string value. Used to hold translations for an object
 /// field.
@@ -166,7 +167,7 @@ impl Translations {
 
     pub fn get_value(&self, guid: &str, index: usize) -> Option<&String> {
         self.find_entry(guid)?.content.get(index).and_then(|v| {
-            if v.is_empty() || v == "---" {
+            if v.is_empty() || v == "-" || v == "---" {
                 None
             } else {
                 Some(v)
@@ -214,7 +215,7 @@ impl<T> WriteFile for T where T: Serialize {
             }
         }
 
-        fs::write(path, serde_json::to_string(self)?)?;
+        fs::write(path, serde_json::to_string_pretty(self)?)?;
         Ok(())
     }
 }
