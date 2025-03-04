@@ -207,7 +207,7 @@ modifier argument. Below is a table of what I believe those category values repr
 
 |Value|Description|Example|
 |---|---|---|
-|0|"Normal" skills|Constitution, Speed Eating|
+|0|"Normal" skills (though maybe armor-only skills?)|Constitution, Speed Eating|
 |1|Armor set bonuses|Thunderous Roar I (Rey Dau's Voltage)|
 |2|Group skills, set bonuses granted by armor pieces belonging to the same category (such as guardian armor)|Fortifying Pelt, Guardian's Pulse|
 |3|Weapon-only skills|Attack Boost, Critical Draw|
