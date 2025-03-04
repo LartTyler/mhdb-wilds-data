@@ -12,6 +12,8 @@ use console::Style;
 mod accessories;
 mod items;
 mod skills;
+mod charms;
+mod amulets;
 
 /// A map of RFC 639 language codes to a string value. Used to hold translations for an object
 /// field.
@@ -40,6 +42,12 @@ pub fn all(config: &Config) -> Result {
 
     header("Merging skill files...");
     skills::process(config)?;
+
+    header("Merging charm files...");
+    charms::process(config)?;
+
+    header("Merging amulet files...");
+    amulets::process(config)?;
 
     Ok(())
 }
@@ -209,4 +217,17 @@ impl<T> WriteFile for T where T: Serialize {
         fs::write(path, serde_json::to_string(self)?)?;
         Ok(())
     }
+}
+
+/// Converts an in-file rarity value to an in-game rarity value. I think.
+///
+/// The `_Rare` (or similar) field in the files seems to have bloated rarity values. An item with
+/// an in-game rarity of 1, for example, is in the files as 18. This seems to be uniform across all
+/// files with rarity values.
+///
+/// I don't have the brain to figure out _why_ this might be, so I'm just going to take the naive
+/// way out and subtract the file value from 19 and hope I'm right that it'll be correct across the
+/// board.
+pub fn to_ingame_rarity(rarity: u8) -> u8 {
+    19 - rarity
 }

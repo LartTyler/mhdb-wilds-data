@@ -1,5 +1,5 @@
 use crate::config::Config;
-use crate::processor::{LanguageMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -86,7 +86,7 @@ impl From<&ItemData> for Item {
     fn from(value: &ItemData) -> Self {
         Self {
             game_id: value.id,
-            rarity: value.rarity,
+            rarity: to_ingame_rarity(value.rarity),
             max_count: value.max_count,
             sell_price: value.sell_price,
             buy_price: value.buy_price,

@@ -49,6 +49,11 @@ Every file I've examined so far appears to start with a dummy value as the first
 object? Something like that? Regardless, I'm like 99% certain we can ignore the first definition in every `.user.3`
 file.
 
+The rarity field (usually `_Rare`) in each file makes _absolultely no sense_. The value in the files seems to be
+counting _down_ from 18, with an in-game rarity value of "1" corresponding to an in-file value of "18". I feel like I
+must be missing something here, but for now I'm just going to "convert" it to the in-game value by subtracting the
+in-file value from 19. This feels so hacky, and like it's going to bite me in the ass at some point.
+
 ## Decorations (Accessories)
 ### Data Files
 - `natives/STM/GameDesign/Common/Equip/AccessoryData.user.3`
