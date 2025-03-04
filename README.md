@@ -11,10 +11,16 @@
     - [Data Files](#data-files-1)
     - [Translation Files](#translation-files-1)
     - [Notes](#notes-1)
+    - [Modifier Values?](#modifier-values)
+    - [Skill Category](#skill-category)
   - [Items](#items)
     - [Data Files](#data-files-2)
     - [Translation Files](#translation-files-2)
     - [Notes](#notes-2)
+  - [Armor](#armor)
+    - [Data Files](#data-files-3)
+    - [Translation Files](#translation-files-3)
+    - [Notes](#notes-3)
 
 # About
 The goal of this project is to "glue" several other tools together in order to get sane JSON files for data objects in Wilds.
@@ -103,6 +109,7 @@ to get the levels and add them to your partial skills last.
 Similar to [Items](#items), it looks like there's two skills whose IDs are `0` and `1` that contain no real information.
 I believe both can ignored can be ignored.
 
+### Modifier Values?
 In `SkillData.user.3`, there's a `_value` field that appears to hold some sort of attribute modifiers for the skill. For
 example, the entry for the "Attack Boost" skill at level 1 is:
 
@@ -188,8 +195,22 @@ to a constructor or initialization function, and maybe perhaps change their mean
 }
 ```
 
+### Skill Category
+The `_skillCategory` field might actually be relevant to the API. It looks like it can be a value between 0 and
+3 (inclusive), and so far I've found a distinction between set bonuses and actual concrete skills. For example,
+the low rank Rey Dau set has a set bonus named "Rey Dau's Voltage", but the entries in `SkillData.user.3` point to name
+and description entries in `Skill.msg.23` with actual values, not the dummy values found in most skill rank entries.
+Additionally, the `_Lv` field of such entries appear to hold the number of set pieces required to activate the bonus.
+
 Unlike the Attack Boost sections, `_value` starts with what looks like the +5 attack modifier, instead of the percent
-modifier argument.
+modifier argument. Below is a table of what I believe those category values represent.
+
+|Value|Description|Example|
+|---|---|---|
+|0|"Normal" skills|Constitution, Speed Eating|
+|1|Armor set bonuses|Thunderous Roar I (Rey Dau's Voltage)|
+|2|Group skills, set bonuses granted by armor pieces belonging to the same category (such as guardian armor)|Fortifying Pelt, Guardian's Pulse|
+|3|Weapon-only skills|Attack Boost, Critical Draw|
 
 ## Items
 ### Data Files
@@ -212,3 +233,15 @@ Fields listed below are my best guess, based on which items have the flag set.
 |`_ForMoney`|boolean|Item is a treasure item|Silver Egg|
 |`_Battle`|boolean|Item is a trap or slinger ammo|Screamer pod, drugged meat, shock trap|
 |`_Shikyu`|boolean|Supply items|First-aid med|
+
+## Armor
+### Data Files
+- `natives/STM/GameDesign/Equip/ArmorData.user.3`
+- `natives/STM/GameDesign/Equip/ArmorRecipeData.user.3`
+- `natives/STM/GameDesign/Equip/ArmorSeriesData.user.3`
+
+### Translation Files
+- `natives/STM/GameDesign/Text/Excel_Equip/Armor.msg.23`
+- `natives/STM/GameDesign/Text/Excel_Equip/ArmorSeries.msg.23`
+
+### Notes
