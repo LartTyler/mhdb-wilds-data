@@ -28,16 +28,16 @@ pub fn process(config: &Config) -> Result {
         let mut item = Item::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get_value(&data.name_guid, index);
+            let name = translations.get(&data.name_guid, index);
 
             if let Some(name) = name {
-                item.names.insert(*lang, name.to_owned());
+                item.names.insert(lang.into(), name.to_owned());
             }
 
-            let desc = translations.get_value(&data.description_guid, index);
+            let desc = translations.get(&data.description_guid, index);
 
             if let Some(desc) = desc {
-                item.descriptions.insert(*lang, desc.to_owned());
+                item.descriptions.insert(lang.into(), desc.to_owned());
             }
         }
 

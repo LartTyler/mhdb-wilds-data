@@ -1,29 +1,30 @@
 use crate::config::Config;
-use crate::processor::{LanguageMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::armor::{Bonus, BonusRank};
+use crate::processor::{
+    armor, LanguageMap, Lookup, LookupMap, ReadFile, Result, Translations, WriteFile,
+};
 use crate::serde::is_map_empty;
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
-use std::collections::HashMap;
 
 const SKILL_DATA: &str = "data/SkillCommonData.json";
 const RANK_DATA: &str = "data/SkillData.json";
 
-const SKILL_TRANSLATIONS: &str = "translations/SkillCommon.json";
-const RANK_TRANSLATIONS: &str = "translations/Skill.json";
+const SKILL_STRINGS: &str = "translations/SkillCommon.json";
+const RANK_STRINGS: &str = "translations/Skill.json";
 
 const OUTPUT: &str = "merged/Skill.json";
-const OUTPUT_SET: &str = "merged/SetBonus.json";
 
 pub fn process(config: &Config) -> Result {
     let data: Vec<SkillData> = Vec::read_file(config.io.output_dir.join(SKILL_DATA))?;
-    let translations = Translations::read_file(config.io.output_dir.join(SKILL_TRANSLATIONS))?;
+    let strings = Translations::read_file(config.io.output_dir.join(SKILL_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
     let mut merged: Vec<Skill> = Vec::with_capacity(data.len());
-    let mut lookup: HashMap<isize, usize> = HashMap::with_capacity(data.len());
+    let mut lookup = LookupMap::with_capacity(data.len());
 
     for data in data {
         if data.id == 0 {
@@ -34,13 +35,13 @@ pub fn process(config: &Config) -> Result {
 
         let mut skill = Skill::from(&data);
 
-        for (index, lang) in translations.languages.iter().enumerate() {
-            if let Some(name) = translations.get_value(&data.name_guid, index) {
-                skill.names.insert(*lang, name.to_owned());
+        for (index, lang) in strings.languages.iter().enumerate() {
+            if let Some(name) = strings.get(&data.name_guid, index) {
+                skill.names.insert(lang.into(), name.to_owned());
             }
 
-            if let Some(desc) = translations.get_value(&data.description_guid, index) {
-                skill.descriptions.insert(*lang, desc.to_owned());
+            if let Some(desc) = strings.get(&data.description_guid, index) {
+                skill.descriptions.insert(lang.into(), desc.to_owned());
             }
         }
 
@@ -51,61 +52,94 @@ pub fn process(config: &Config) -> Result {
     progress.finish_and_clear();
 
     let data: Vec<RankData> = Vec::read_file(config.io.output_dir.join(RANK_DATA))?;
-    let translations = Translations::read_file(config.io.output_dir.join(RANK_TRANSLATIONS))?;
+    let strings = Translations::read_file(config.io.output_dir.join(RANK_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
     for data in data {
         progress.inc(1);
 
-        let Some(skill_index) = lookup.get(&data.skill_id) else {
+        // Dummy ID
+        if data.skill_id == 0 {
             continue;
-        };
+        }
+
+        let skill = lookup
+            .find_in_mut(data.skill_id, &mut merged)
+            .expect(&format!("Could not find skill {}", data.skill_id));
 
         let mut rank = Rank::from(&data);
 
-        for (index, lang) in translations.languages.iter().enumerate() {
-            if let Some(name) = translations.get_value(&data.name_guid, index) {
-                rank.names.insert(*lang, name.to_owned());
+        for (index, lang) in strings.languages.iter().enumerate() {
+            if let Some(name) = strings.get(&data.name_guid, index) {
+                rank.names.insert(lang.into(), name.to_owned());
             }
 
-            if let Some(desc) = translations.get_value(&data.description_guid, index) {
-                rank.descriptions.insert(*lang, desc.to_owned());
+            if let Some(desc) = strings.get(&data.description_guid, index) {
+                rank.descriptions.insert(lang.into(), desc.to_owned());
             }
         }
 
-        merged[*skill_index].ranks.push(rank);
+        skill.ranks.push(rank);
     }
-
-    progress.finish_and_clear();
-
-    let mut set_bonuses: Vec<SetBonus> = Vec::new();
 
     for skill in merged.iter_mut() {
         skill.ranks.sort_by_key(|v| v.level);
 
         // Set bonus skills encode the number of pieces required for the bonus as the skill level.
         // Once sorted, we can convert that to a "real" level by setting the level to the index + 1.
-        if skill.kind.is_set_bonus() {
+        if skill.kind.is_armor_bonus() {
             for (index, rank) in skill.ranks.iter_mut().enumerate() {
-                // At the same time, we want to store the count of the required pieces so that the
-                // armor processor has all everything it needs to build set bonuses correctly.
-                set_bonuses.push(SetBonus {
-                    skill_id: skill.game_id,
-                    pieces: rank.level,
-                    skill_kind: skill.kind,
-                });
-
                 rank.level = (index as u8) + 1;
             }
         }
     }
 
-    merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))?;
+    progress.finish_and_clear();
 
-    set_bonuses.sort_by_key(|v| (v.skill_id, v.pieces));
-    set_bonuses.write_file(config.io.output_dir.join(OUTPUT_SET))
+    let mut data: Vec<armor::Set> = Vec::read_file(config.io.output_dir.join(armor::OUTPUT))?;
+    let progress = ProgressBar::new(data.len() as u64);
+
+    for data in data.iter_mut() {
+        progress.inc(1);
+
+        let Some(armor) = data.pieces.first() else {
+            continue;
+        };
+
+        for id in armor.skills.keys().copied() {
+            let Some(skill) = lookup.find_in(id, &mut merged) else {
+                continue;
+            };
+
+            let bonus = match skill.kind {
+                SkillKind::Group => &mut data.group_bonus,
+                SkillKind::Set => &mut data.set_bonus,
+                _ => continue,
+            };
+
+            let bonus = bonus.get_or_insert_with(|| Bonus {
+                skill_id: id,
+                ranks: Vec::new(),
+            });
+
+            for rank in &skill.ranks {
+                bonus.ranks.push(BonusRank {
+                    pieces: rank.pieces,
+                    skill_level: rank.level,
+                });
+            }
+
+            bonus.ranks.sort_by_key(|v| v.pieces);
+        }
+    }
+
+    data.write_file(config.io.output_dir.join(armor::OUTPUT))?;
+
+    progress.finish_and_clear();
+
+    merged.sort_by_key(|v| v.game_id);
+    merged.write_file(config.io.output_dir.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize)]
@@ -134,6 +168,9 @@ impl From<&SkillData> for Skill {
 #[derive(Debug, Serialize)]
 struct Rank {
     level: u8,
+    // Used for set and group bonuses, not serialized to merged file.
+    #[serde(skip)]
+    pieces: u8,
     #[serde(serialize_with = "ordered_map")]
     descriptions: LanguageMap,
     #[serde(skip_serializing_if = "is_map_empty", serialize_with = "ordered_map")]
@@ -144,6 +181,7 @@ impl From<&RankData> for Rank {
     fn from(value: &RankData) -> Self {
         Self {
             level: value.level,
+            pieces: value.level,
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
         }
@@ -185,14 +223,7 @@ pub enum SkillKind {
 }
 
 impl SkillKind {
-    fn is_set_bonus(&self) -> bool {
+    fn is_armor_bonus(&self) -> bool {
         matches!(self, Self::Set | Self::Group)
     }
-}
-
-#[derive(Debug, Serialize)]
-struct SetBonus {
-    skill_id: isize,
-    skill_kind: SkillKind,
-    pieces: u8,
 }

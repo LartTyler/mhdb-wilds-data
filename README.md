@@ -245,3 +245,13 @@ Fields listed below are my best guess, based on which items have the flag set.
 - `natives/STM/GameDesign/Text/Excel_Equip/ArmorSeries.msg.23`
 
 ### Notes
+In `ArmorData.user.3`, the `_Skill` array appears to give special meaning to the position of a skill in the array. The
+skill at index 0 seems to always be the set bonus, or `0` if there isn't one, followed by the group bonus at index 1
+(again, or `0` if there isn't one), followed by general skills in the remainder of the array.
+
+In `ArmorSeriesData.user.3`, there are two "special" IDs that I've found:
+- `0`, which seems to correspond to an empty / "template" value that several other objects tend to have.
+- `1`, which seems to be for when no armor is equipped.
+
+ID `0` does not appear in `ArmorData.user.3`, but ID `1` does. Neither are relevant to the API, so they will not be
+included in merged files.

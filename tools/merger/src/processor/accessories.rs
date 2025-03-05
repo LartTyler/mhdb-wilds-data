@@ -1,5 +1,5 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, LevelMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{to_ingame_rarity, LanguageMap, IdMap, ReadFile, Result, Translations, WriteFile};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -23,16 +23,16 @@ pub fn process(config: &Config) -> Result {
         let mut accessory = Accessory::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get_value(&data.name_guid, index);
+            let name = translations.get(&data.name_guid, index);
 
             if let Some(name) = name {
-                accessory.names.insert(*lang, name.to_owned());
+                accessory.names.insert(lang.into(), name.to_owned());
             }
 
-            let desc = translations.get_value(&data.description_guid, index);
+            let desc = translations.get(&data.description_guid, index);
 
             if let Some(desc) = desc {
-                accessory.descriptions.insert(*lang, desc.to_owned());
+                accessory.descriptions.insert(lang.into(), desc.to_owned());
             }
         }
 
@@ -62,7 +62,7 @@ struct Accessory {
     price: u16,
     level: u8,
     #[serde(serialize_with = "ordered_map")]
-    skills: LevelMap,
+    skills: IdMap,
 }
 
 impl From<&AccessoryData> for Accessory {
@@ -74,7 +74,7 @@ impl From<&AccessoryData> for Accessory {
             level: value.level,
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
-            skills: LevelMap::new(),
+            skills: IdMap::new(),
         }
     }
 }

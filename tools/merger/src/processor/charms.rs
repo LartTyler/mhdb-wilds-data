@@ -22,8 +22,8 @@ pub fn process(config: &Config) -> Result {
         let mut charm = Charm::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            if let Some(name) = translations.get_value(&data.name_guid, index) {
-                charm.names.insert(*lang, name.to_owned());
+            if let Some(name) = translations.get(&data.name_guid, index) {
+                charm.names.insert(lang.into(), name.to_owned());
             }
         }
 

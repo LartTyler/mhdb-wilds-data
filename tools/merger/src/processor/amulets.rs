@@ -1,5 +1,5 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, LevelMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{to_ingame_rarity, LanguageMap, IdMap, ReadFile, Result, Translations, WriteFile};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -42,18 +42,18 @@ pub fn process(config: &Config) -> Result {
         let mut rank = Rank::from(&data);
 
         for (index, lang) in translations.languages.iter().enumerate() {
-            if let Some(name) = translations.get_value(&data.name_guid, index) {
-                rank.names.insert(*lang, name.to_owned());
+            if let Some(name) = translations.get(&data.name_guid, index) {
+                rank.names.insert(lang.into(), name.to_owned());
             }
 
-            if let Some(desc) = translations.get_value(&data.description_guid, index) {
-                rank.descriptions.insert(*lang, desc.to_owned());
+            if let Some(desc) = translations.get(&data.description_guid, index) {
+                rank.descriptions.insert(lang.into(), desc.to_owned());
             }
         }
 
-        for (id, level) in data.skill_ids.iter().zip(data.skill_levels) {
-            if *id != 0 {
-                rank.skills.insert(*id, level);
+        for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
+            if id != 0 {
+                rank.skills.insert(id, level);
             }
         }
 
@@ -109,7 +109,7 @@ struct Rank {
     level: u8,
     price: usize,
     #[serde(serialize_with = "ordered_map")]
-    skills: LevelMap,
+    skills: IdMap,
     recipe: Recipe,
 }
 
@@ -121,7 +121,7 @@ impl From<&AmuletData> for Rank {
             price: value.price,
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
-            skills: LevelMap::new(),
+            skills: IdMap::new(),
             recipe: Recipe::default(),
         }
     }
@@ -129,7 +129,8 @@ impl From<&AmuletData> for Rank {
 
 #[derive(Debug, Serialize, Default)]
 struct Recipe {
-    inputs: LevelMap,
+    #[serde(serialize_with = "ordered_map")]
+    inputs: IdMap,
 }
 
 #[derive(Debug, Deserialize)]
