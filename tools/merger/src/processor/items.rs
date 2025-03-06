@@ -22,9 +22,11 @@ pub fn process(config: &Config) -> Result {
     for data in data {
         progress.inc(1);
 
-        // ID 1 appears to be a placeholder item used in recipes with only one ingredient.
-        // ID 100 just doesn't have any data.
-        if IGNORED_IDS.contains(&data.id) {
+        // - The OutBox flag is only set on the second entry for certain items, and includes some
+        //   weird values. It will be ignored for now.
+        // - ID 1 appears to be a placeholder item used in recipes with only one ingredient.
+        // - ID 100 just doesn't have any data.
+        if data.out_box || IGNORED_IDS.contains(&data.id) {
             continue;
         }
 
@@ -84,8 +86,6 @@ struct Item {
     sell_price: usize,
     buy_price: usize,
     recipes: Vec<Recipe>,
-    #[serde(rename = "unknown_out_box")]
-    out_box: bool,
 }
 
 impl From<&ItemData> for Item {
@@ -99,7 +99,6 @@ impl From<&ItemData> for Item {
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
             recipes: Vec::new(),
-            out_box: value.out_box,
         }
     }
 }

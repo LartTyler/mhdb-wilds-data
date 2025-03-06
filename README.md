@@ -234,6 +234,11 @@ are:
 - 476
 - 690
 
+Some items appear to be duplicated, with the duplicates having the `_OutBox` flag set. I'm not sure what that flag is
+for, but I'm thinking items tagged this way are used for some weird internal system (it includes things like mantles,
+fishing bait, and some weird ones like "Valuable Material" and "Equipped Mantles"). For now, I'm going to ignore
+anything with that flag set.
+
 Fields listed below are my best guess, based on which items have the flag set.
 
 |Field|Type|Description|Example|
@@ -242,6 +247,7 @@ Fields listed below are my best guess, based on which items have the flag set.
 |`_ForMoney`|boolean|Item is a treasure item|Silver Egg|
 |`_Battle`|boolean|Item is a trap or slinger ammo|Screamer pod, drugged meat, shock trap|
 |`_Shikyu`|boolean|Supply items|First-aid med|
+|`_OutBox`|boolean|Currently unknown|–|
 
 ## Armor
 ### Data Files
