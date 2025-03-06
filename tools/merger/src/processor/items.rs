@@ -1,7 +1,5 @@
 use crate::config::Config;
-use crate::processor::{
-    to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile,
-};
+use crate::processor::{to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -11,6 +9,8 @@ const RECIPES: &str = "data/ItemRecipe.json";
 const TRANSLATIONS: &str = "translations/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
+
+const IGNORED_IDS: &[isize] = &[1, 100, 280, 283, 284, 476, 690];
 
 pub fn process(config: &Config) -> Result {
     let data: Vec<ItemData> = Vec::read_file(config.io.output_dir.join(DATA))?;
@@ -24,7 +24,7 @@ pub fn process(config: &Config) -> Result {
 
         // ID 1 appears to be a placeholder item used in recipes with only one ingredient.
         // ID 100 just doesn't have any data.
-        if data.id == 1 || data.id == 100 {
+        if IGNORED_IDS.contains(&data.id) {
             continue;
         }
 
@@ -109,7 +109,12 @@ struct Recipe {
 
 impl From<RecipeData> for Recipe {
     fn from(value: RecipeData) -> Self {
-        let mut inputs: Vec<_> = value.input_ids.into_iter().filter(|v| *v != 1).collect();
+        let mut inputs: Vec<_> = value
+            .input_ids
+            .into_iter()
+            .filter(|v| !IGNORED_IDS.contains(v))
+            .collect();
+
         inputs.sort();
 
         Self {

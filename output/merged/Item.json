@@ -10321,16 +10321,6 @@
     "recipes": []
   },
   {
-    "game_id": 280,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
-    "recipes": []
-  },
-  {
     "game_id": 281,
     "names": {
       "ja": "クラノコッパー",
@@ -10408,26 +10398,6 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
-  },
-  {
-    "game_id": 283,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
-    "recipes": []
-  },
-  {
-    "game_id": 284,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
     "recipes": []
   },
   {
@@ -17954,16 +17924,6 @@
     },
     "rarity": 2,
     "max_count": 2,
-    "sell_price": 0,
-    "buy_price": 0,
-    "recipes": []
-  },
-  {
-    "game_id": 476,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
     "recipes": []
@@ -25910,16 +25870,6 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
-  },
-  {
-    "game_id": 690,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
     "recipes": []
   },
   {
