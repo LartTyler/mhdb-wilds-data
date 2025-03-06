@@ -224,6 +224,7 @@ modifier argument. Below is a table of what I believe those category values repr
 For recipe data, it looks like every item with a recipe _always_ has two IDs listed as an input. For items with only one
 input, it seems like one of those IDs is always `1`, which points to an item in the files with no name or other
 information. My guess is that this is just an empty item and is ignored by the game when displaying or crafting recipes.
+There is _also_ and ID `100` that has no names or descriptions. Not sure why, but I'm ignoring this one as well.
 
 Fields listed below are my best guess, based on which items have the flag set.
 

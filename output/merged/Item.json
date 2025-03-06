@@ -3845,16 +3845,6 @@
     "recipes": []
   },
   {
-    "game_id": 100,
-    "names": {},
-    "descriptions": {},
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
-    "recipes": []
-  },
-  {
     "game_id": 101,
     "names": {
       "ja": "ころがされたフン",

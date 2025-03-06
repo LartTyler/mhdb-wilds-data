@@ -23,7 +23,8 @@ pub fn process(config: &Config) -> Result {
         progress.inc(1);
 
         // ID 1 appears to be a placeholder item used in recipes with only one ingredient.
-        if data.id == 1 {
+        // ID 100 just doesn't have any data.
+        if data.id == 1 || data.id == 100 {
             continue;
         }
 
