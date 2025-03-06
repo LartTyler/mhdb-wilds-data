@@ -1,5 +1,7 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{
+    to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile,
+};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -59,7 +61,8 @@ pub fn process(config: &Config) -> Result {
             continue;
         };
 
-        item.recipe = Some(recipe.into());
+        item.recipes.push(recipe.into());
+        item.recipes.sort_by_key(|v| v.inputs.iter().sum::<isize>());
     }
 
     progress.finish_and_clear();
@@ -79,7 +82,7 @@ struct Item {
     max_count: u8,
     sell_price: usize,
     buy_price: usize,
-    recipe: Option<Recipe>,
+    recipes: Vec<Recipe>,
 }
 
 impl From<&ItemData> for Item {
@@ -92,7 +95,7 @@ impl From<&ItemData> for Item {
             buy_price: value.buy_price,
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
-            recipe: None,
+            recipes: Vec::new(),
         }
     }
 }
@@ -105,7 +108,7 @@ struct Recipe {
 
 impl From<RecipeData> for Recipe {
     fn from(value: RecipeData) -> Self {
-        let mut inputs: Vec<_> = value.input_ids.into_iter().filter(|v| v != &1).collect();
+        let mut inputs: Vec<_> = value.input_ids.into_iter().filter(|v| *v != 1).collect();
         inputs.sort();
 
         Self {
