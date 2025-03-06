@@ -2,7 +2,7 @@
   {
     "game_id": -2068511872,
     "names": {
-      "jp": "希望のスカーフ・桃",
+      "ja": "希望のスカーフ・桃",
       "en": "Hope Scarf: Peach",
       "fr": "Foulard d'espoir : rose",
       "it": "Speranza: pesca",
@@ -21,7 +21,7 @@
   {
     "game_id": -1948802432,
     "names": {
-      "jp": "希望のスカーフＳ・群青",
+      "ja": "希望のスカーフＳ・群青",
       "en": "Hope Scarf S: Blue",
       "fr": "Foulard d'espoir S : bleu",
       "it": "Speranza S: blu",
@@ -40,7 +40,7 @@
   {
     "game_id": -1671191168,
     "names": {
-      "jp": "希望のスカーフＧ・青赤",
+      "ja": "希望のスカーフＧ・青赤",
       "en": "Hope Scarf G: Blue/Red",
       "fr": "Foulard d'espoir G : bleu/rouge",
       "it": "Speranza G: blu/rossa",
@@ -59,7 +59,7 @@
   {
     "game_id": -1314967296,
     "names": {
-      "jp": "決意の証【鎖刃竜】",
+      "ja": "決意の証【鎖刃竜】",
       "en": "Arkveld: Mark of Resolve",
       "fr": "Arkveld : gage de détermination",
       "it": "Arkveld: Marchio risoluzione",
@@ -78,7 +78,7 @@
   {
     "game_id": -1215490048,
     "names": {
-      "jp": "希望のスカーフＳ・紫",
+      "ja": "希望のスカーフＳ・紫",
       "en": "Hope Scarf S: Purple",
       "fr": "Foulard d'espoir S : violet",
       "it": "Speranza S: viola",
@@ -97,7 +97,7 @@
   {
     "game_id": -1022857536,
     "names": {
-      "jp": "希望のスカーフ・青赤",
+      "ja": "希望のスカーフ・青赤",
       "en": "Hope Scarf: Teal/Orange",
       "fr": "Foulard d'espoir : cyan/orange",
       "it": "Speranza: turchese/arancio",
@@ -116,7 +116,7 @@
   {
     "game_id": -944934144,
     "names": {
-      "jp": "希望のスカーフ・紅",
+      "ja": "希望のスカーフ・紅",
       "en": "Hope Scarf: Crimson",
       "fr": "Foulard d'espoir : pourpre",
       "it": "Speranza: cremisi",
@@ -135,7 +135,7 @@
   {
     "game_id": -700739456,
     "names": {
-      "jp": "希望のスカーフ・茶",
+      "ja": "希望のスカーフ・茶",
       "en": "Hope Scarf: Brown",
       "fr": "Foulard d'espoir : marron",
       "it": "Speranza: marrone",
@@ -154,7 +154,7 @@
   {
     "game_id": -505734624,
     "names": {
-      "jp": "希望のスカーフＳ・萌黄",
+      "ja": "希望のスカーフＳ・萌黄",
       "en": "Hope Scarf S: Green",
       "fr": "Foulard d'espoir S : vert",
       "it": "Speranza S: verde",
@@ -173,7 +173,7 @@
   {
     "game_id": -181392528,
     "names": {
-      "jp": "希望のスカーフＧ・青緑",
+      "ja": "希望のスカーフＧ・青緑",
       "en": "Hope Scarf G: Grape",
       "fr": "Foulard d'espoir G : raisin",
       "it": "Speranza G: uva",
@@ -192,7 +192,7 @@
   {
     "game_id": 981,
     "names": {
-      "jp": "希望のスカーフＧ・青紫",
+      "ja": "希望のスカーフＧ・青紫",
       "en": "Hope Scarf G: Pink/Blue",
       "fr": "Foulard d'espoir G : rose/bleu",
       "it": "Speranza G: rosa/blu",
@@ -211,7 +211,7 @@
   {
     "game_id": 6327,
     "names": {
-      "jp": "希望のスカーフＧ・桜",
+      "ja": "希望のスカーフＧ・桜",
       "en": "Hope Scarf G: Pink/Black",
       "fr": "Foulard d'espoir G : rose/noir",
       "it": "Speranza G: rosa/nera",
@@ -230,7 +230,7 @@
   {
     "game_id": 15071,
     "names": {
-      "jp": "アイルー・チョコレートミント",
+      "ja": "アイルー・チョコレートミント",
       "en": "Felyne Mint Chocolate",
       "fr": "Choco menthe Felyne",
       "it": "Cioccomenta Felyne",
@@ -249,7 +249,7 @@
   {
     "game_id": 23873,
     "names": {
-      "jp": "アイルー・ストロベリー",
+      "ja": "アイルー・ストロベリー",
       "en": "Felyne Strawberry",
       "fr": "Fraise Felyne",
       "it": "Fragola Felyne",
@@ -268,7 +268,7 @@
   {
     "game_id": 25538,
     "names": {
-      "jp": "アイルー・キャラメル",
+      "ja": "アイルー・キャラメル",
       "en": "Felyne Caramel",
       "fr": "Caramel Felyne",
       "it": "Caramello Felyne",
@@ -287,7 +287,7 @@
   {
     "game_id": 110187568,
     "names": {
-      "jp": "希望のスカーフＳ・赤緑",
+      "ja": "希望のスカーフＳ・赤緑",
       "en": "Hope Scarf S: Red/Green",
       "fr": "Foulard d'espoir S : rouge/vert",
       "it": "Speranza S: rossa/verde",
@@ -306,7 +306,7 @@
   {
     "game_id": 169973792,
     "names": {
-      "jp": "感謝の証【アズズ】",
+      "ja": "感謝の証【アズズ】",
       "en": "Azuz: Mark of Gratitude",
       "fr": "Azuz : gage de gratitude",
       "it": "Azuz: Gratitudine",
@@ -325,7 +325,7 @@
   {
     "game_id": 292996192,
     "names": {
-      "jp": "希望のスカーフ・青",
+      "ja": "希望のスカーフ・青",
       "en": "Hope Scarf: Light Blue",
       "fr": "Foulard d'espoir : bleu",
       "it": "Speranza: blu",
@@ -344,7 +344,7 @@
   {
     "game_id": 556851712,
     "names": {
-      "jp": "飛鳥の風鈴",
+      "ja": "飛鳥の風鈴",
       "en": "Avian Wind Chime",
       "fr": "Carillon à vent aviaire",
       "it": "Campanella del volatile",
@@ -363,7 +363,7 @@
   {
     "game_id": 858839744,
     "names": {
-      "jp": "希望のスカーフＳ・白銀",
+      "ja": "希望のスカーフＳ・白銀",
       "en": "Hope Scarf S: Slate",
       "fr": "Foulard d'espoir S : argent",
       "it": "Speranza S: ardesia",
@@ -382,7 +382,7 @@
   {
     "game_id": 970988160,
     "names": {
-      "jp": "希望のスカーフ・緑",
+      "ja": "希望のスカーフ・緑",
       "en": "Hope Scarf: Green",
       "fr": "Foulard d'espoir : vert",
       "it": "Speranza: verde",
@@ -401,7 +401,7 @@
   {
     "game_id": 1462510336,
     "names": {
-      "jp": "希望のスカーフＧ・黒白",
+      "ja": "希望のスカーフＧ・黒白",
       "en": "Hope Scarf G: Monochrome",
       "fr": "Foulard d'espoir G : noir/blanc",
       "it": "Speranza G: tinta unita",
@@ -420,7 +420,7 @@
   {
     "game_id": 1469211008,
     "names": {
-      "jp": "クックのぬいぐるみ",
+      "ja": "クックのぬいぐるみ",
       "en": "Kut-Ku Plushie",
       "fr": "Poupée Kut-Ku",
       "it": "Pupazzo Kut-Ku",
@@ -439,7 +439,7 @@
   {
     "game_id": 1471458176,
     "names": {
-      "jp": "希望のスカーフ・黄",
+      "ja": "希望のスカーフ・黄",
       "en": "Hope Scarf: Saffron",
       "fr": "Foulard d'espoir : safran",
       "it": "Speranza: zafferano",
@@ -458,7 +458,7 @@
   {
     "game_id": 1564614144,
     "names": {
-      "jp": "希望のスカーフＳ・淡彩",
+      "ja": "希望のスカーフＳ・淡彩",
       "en": "Hope Scarf S: Pastel",
       "fr": "Foulard d'espoir S : pastel",
       "it": "Speranza S: pastello",
@@ -477,7 +477,7 @@
   {
     "game_id": 1609458688,
     "names": {
-      "jp": "希望のスカーフＳ・橙",
+      "ja": "希望のスカーフＳ・橙",
       "en": "Hope Scarf S: Marmalade",
       "fr": "Foulard d'espoir S : cuivre",
       "it": "Speranza: S: marmellata",
@@ -496,7 +496,7 @@
   {
     "game_id": 1711301632,
     "names": {
-      "jp": "アイルーテディ",
+      "ja": "アイルーテディ",
       "en": "Stuffed Felyne Teddy",
       "fr": "Peluche Felyne",
       "it": "Orsacchiotto Felyne",
@@ -515,7 +515,7 @@
   {
     "game_id": 1763591424,
     "names": {
-      "jp": "龍灯の翼飾り",
+      "ja": "龍灯の翼飾り",
       "en": "Dragontorch Wings",
       "fr": "Ailes de la Torche draconique",
       "it": "Ali della Fiaccola",
@@ -534,7 +534,7 @@
   {
     "game_id": 1932250880,
     "names": {
-      "jp": "希望のスカーフＧ・黒",
+      "ja": "希望のスカーフＧ・黒",
       "en": "Hope Scarf G: Black",
       "fr": "Foulard d'espoir G : noir",
       "it": "Speranza G: nera",
@@ -553,7 +553,7 @@
   {
     "game_id": 2022104192,
     "names": {
-      "jp": "希望のスカーフＧ・黄黒",
+      "ja": "希望のスカーフＧ・黄黒",
       "en": "Hope Scarf G: Hazard",
       "fr": "Foulard d'espoir G : jaune/noir",
       "it": "Speranza G: pericolo",

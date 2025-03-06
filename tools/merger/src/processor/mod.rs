@@ -130,7 +130,7 @@ enum LanguageCode {
 enum Language {
     #[serde(rename = "")]
     Disabled,
-    #[serde(rename = "jp")]
+    #[serde(rename = "ja")]
     Japanese,
     #[serde(rename = "en")]
     English,

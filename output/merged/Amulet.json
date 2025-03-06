@@ -4,7 +4,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "防風の護石Ⅰ",
+          "ja": "防風の護石Ⅰ",
           "en": "Windproof Charm I",
           "fr": "Talisman de vent",
           "it": "Amuleto paravento I",
@@ -20,7 +20,7 @@
           "es-419": "Amuleto de viento I"
         },
         "descriptions": {
-          "jp": "装備することで風圧耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで風圧耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nWindproof skill.",
           "fr": "Un talisman qui confère\r\nle talent Pare-vent.",
           "it": "Un amuleto che potenzia\r\nl'abilità Paravento.",
@@ -52,7 +52,7 @@
       },
       {
         "names": {
-          "jp": "防風の護石Ⅱ",
+          "ja": "防風の護石Ⅱ",
           "en": "Windproof Charm II",
           "fr": "Talisman de vent II",
           "it": "Amuleto paravento II",
@@ -68,7 +68,7 @@
           "es-419": "Amuleto de viento II"
         },
         "descriptions": {
-          "jp": "装備することで風圧耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで風圧耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nWindproof skill.",
           "fr": "Un talisman qui confère\r\nle talent Pare-vent.",
           "it": "Un amuleto che potenzia\r\nl'abilità Paravento.",
@@ -100,7 +100,7 @@
       },
       {
         "names": {
-          "jp": "防風の護石Ⅲ",
+          "ja": "防風の護石Ⅲ",
           "en": "Windproof Charm III",
           "fr": "Talisman de vent III",
           "it": "Amuleto paravento III",
@@ -116,7 +116,7 @@
           "es-419": "Amuleto de viento III"
         },
         "descriptions": {
-          "jp": "装備することで風圧耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで風圧耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nWindproof skill.",
           "fr": "Un talisman qui confère\r\nle talent Pare-vent.",
           "it": "Un amuleto che potenzia\r\nl'abilità Paravento.",
@@ -153,7 +153,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "整備の護石Ⅰ",
+          "ja": "整備の護石Ⅰ",
           "en": "Maintenance Charm I",
           "fr": "Talisman de ranger",
           "it": "Amuleto dedicato I",
@@ -169,7 +169,7 @@
           "es-419": "Amuleto reparación I"
         },
         "descriptions": {
-          "jp": "装備することで整備スキルが\r\n発動するお守り。",
+          "ja": "装備することで整備スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Tool\r\nSpecialist skill.",
           "fr": "Un talisman qui confère\r\nle talent Expert en survie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Manutenzione.",
@@ -201,7 +201,7 @@
       },
       {
         "names": {
-          "jp": "整備の護石Ⅱ",
+          "ja": "整備の護石Ⅱ",
           "en": "Maintenance Charm II",
           "fr": "Talisman de ranger II",
           "it": "Amuleto dedicato II",
@@ -217,7 +217,7 @@
           "es-419": "Amuleto reparación II"
         },
         "descriptions": {
-          "jp": "装備することで整備スキルが\r\n発動するお守り。",
+          "ja": "装備することで整備スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Tool\r\nSpecialist skill.",
           "fr": "Un talisman qui confère\r\nle talent Expert en survie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Manutenzione.",
@@ -249,7 +249,7 @@
       },
       {
         "names": {
-          "jp": "整備の護石Ⅲ",
+          "ja": "整備の護石Ⅲ",
           "en": "Maintenance Charm III",
           "fr": "Talisman de ranger III",
           "it": "Amuleto dedicato III",
@@ -265,7 +265,7 @@
           "es-419": "Amuleto reparación III"
         },
         "descriptions": {
-          "jp": "装備することで整備スキルが\r\n発動するお守り。",
+          "ja": "装備することで整備スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Tool\r\nSpecialist skill.",
           "fr": "Un talisman qui confère\r\nle talent Expert en survie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Manutenzione.",
@@ -302,7 +302,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐火の護石Ⅰ",
+          "ja": "耐火の護石Ⅰ",
           "en": "Fire Charm I",
           "fr": "Talisman de feu",
           "it": "Amuleto fuoco I",
@@ -318,7 +318,7 @@
           "es-419": "Amuleto de fuego I"
         },
         "descriptions": {
-          "jp": "装備することで火耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで火耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Fire\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Ignifuge.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fuoco.",
@@ -350,7 +350,7 @@
       },
       {
         "names": {
-          "jp": "耐火の護石Ⅱ",
+          "ja": "耐火の護石Ⅱ",
           "en": "Fire Charm II",
           "fr": "Talisman de feu II",
           "it": "Amuleto fuoco II",
@@ -366,7 +366,7 @@
           "es-419": "Amuleto de fuego II"
         },
         "descriptions": {
-          "jp": "装備することで火耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで火耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Fire\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Ignifuge.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fuoco.",
@@ -398,7 +398,7 @@
       },
       {
         "names": {
-          "jp": "耐火の護石Ⅲ",
+          "ja": "耐火の護石Ⅲ",
           "en": "Fire Charm III",
           "fr": "Talisman de feu III",
           "it": "Amuleto fuoco III",
@@ -414,7 +414,7 @@
           "es-419": "Amuleto de fuego III"
         },
         "descriptions": {
-          "jp": "装備することで火耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで火耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Fire\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Ignifuge.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fuoco.",
@@ -451,7 +451,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "無食の護石Ⅰ",
+          "ja": "無食の護石Ⅰ",
           "en": "Hungerless Charm I",
           "fr": "Talisman d'austérité",
           "it": "Amuleto saziato I",
@@ -467,7 +467,7 @@
           "es-419": "Amuleto antihambre I"
         },
         "descriptions": {
-          "jp": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Hunger\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Coupe-faim.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fame.",
@@ -499,7 +499,7 @@
       },
       {
         "names": {
-          "jp": "無食の護石Ⅱ",
+          "ja": "無食の護石Ⅱ",
           "en": "Hungerless Charm II",
           "fr": "Talisman d'austérité II",
           "it": "Amuleto saziato II",
@@ -515,7 +515,7 @@
           "es-419": "Amuleto antihambre II"
         },
         "descriptions": {
-          "jp": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Hunger\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Coupe-faim.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fame.",
@@ -547,7 +547,7 @@
       },
       {
         "names": {
-          "jp": "無食の護石Ⅲ",
+          "ja": "無食の護石Ⅲ",
           "en": "Hungerless Charm III",
           "fr": "Talisman d'austérité III",
           "it": "Amuleto saziato III",
@@ -563,7 +563,7 @@
           "es-419": "Amuleto antihambre III"
         },
         "descriptions": {
-          "jp": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで腹減り耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Hunger\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Coupe-faim.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza fame.",
@@ -600,7 +600,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "底力の護石Ⅰ",
+          "ja": "底力の護石Ⅰ",
           "en": "Grit Charm I",
           "fr": "Talisman de courage",
           "it": "Amuleto grinta I",
@@ -616,7 +616,7 @@
           "es-419": "Amuleto abrasivo I"
         },
         "descriptions": {
-          "jp": "装備することで火事場力スキルが\r\n発動するお守り。",
+          "ja": "装備することで火事場力スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Heroics\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Héroïsme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Eroismo.",
@@ -648,7 +648,7 @@
       },
       {
         "names": {
-          "jp": "底力の護石Ⅱ",
+          "ja": "底力の護石Ⅱ",
           "en": "Grit Charm II",
           "fr": "Talisman de courage II",
           "it": "Amuleto grinta II",
@@ -664,7 +664,7 @@
           "es-419": "Amuleto abrasivo II"
         },
         "descriptions": {
-          "jp": "装備することで火事場力スキルが\r\n発動するお守り。",
+          "ja": "装備することで火事場力スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Heroics\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Héroïsme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Eroismo.",
@@ -696,7 +696,7 @@
       },
       {
         "names": {
-          "jp": "底力の護石Ⅲ",
+          "ja": "底力の護石Ⅲ",
           "en": "Grit Charm III",
           "fr": "Talisman de courage III",
           "it": "Amuleto grinta III",
@@ -712,7 +712,7 @@
           "es-419": "Amuleto abrasivo III"
         },
         "descriptions": {
-          "jp": "装備することで火事場力スキルが\r\n発動するお守り。",
+          "ja": "装備することで火事場力スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Heroics\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Héroïsme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Eroismo.",
@@ -749,7 +749,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "小食の護石Ⅰ",
+          "ja": "小食の護石Ⅰ",
           "en": "Light Eater's Charm I",
           "fr": "Talisman du parasite",
           "it": "Amuleto chef I",
@@ -765,7 +765,7 @@
           "es-419": "Amuleto del hambre I"
         },
         "descriptions": {
-          "jp": "装備することで満足感スキルが\r\n発動するお守り。",
+          "ja": "装備することで満足感スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Free\r\nMeal skill.",
           "fr": "Un talisman qui confère\r\nle talent Pique-assiette.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto gratuito.",
@@ -797,7 +797,7 @@
       },
       {
         "names": {
-          "jp": "小食の護石Ⅱ",
+          "ja": "小食の護石Ⅱ",
           "en": "Light Eater's Charm II",
           "fr": "Talisman du parasite II",
           "it": "Amuleto chef II",
@@ -813,7 +813,7 @@
           "es-419": "Amuleto del hambre II"
         },
         "descriptions": {
-          "jp": "装備することで満足感スキルが\r\n発動するお守り。",
+          "ja": "装備することで満足感スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Free\r\nMeal skill.",
           "fr": "Un talisman qui confère\r\nle talent Pique-assiette.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto gratuito.",
@@ -845,7 +845,7 @@
       },
       {
         "names": {
-          "jp": "小食の護石Ⅲ",
+          "ja": "小食の護石Ⅲ",
           "en": "Light Eater's Charm III",
           "fr": "Talisman du parasite III",
           "it": "Amuleto chef III",
@@ -861,7 +861,7 @@
           "es-419": "Amuleto del hambre III"
         },
         "descriptions": {
-          "jp": "装備することで満足感スキルが\r\n発動するお守り。",
+          "ja": "装備することで満足感スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Free\r\nMeal skill.",
           "fr": "Un talisman qui confère\r\nle talent Pique-assiette.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto gratuito.",
@@ -898,7 +898,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "跳躍の護石Ⅰ",
+          "ja": "跳躍の護石Ⅰ",
           "en": "Leaping Charm I",
           "fr": "Talisman d'agilité",
           "it": "Amuleto tuffo I",
@@ -914,7 +914,7 @@
           "es-419": "Amuleto de salto I"
         },
         "descriptions": {
-          "jp": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Evade\r\nExtender skill.",
           "fr": "Un talisman qui confère\r\nle talent Trompe-la-mort.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata estesa.",
@@ -946,7 +946,7 @@
       },
       {
         "names": {
-          "jp": "跳躍の護石Ⅱ",
+          "ja": "跳躍の護石Ⅱ",
           "en": "Leaping Charm II",
           "fr": "Talisman d'agilité II",
           "it": "Amuleto tuffo II",
@@ -962,7 +962,7 @@
           "es-419": "Amuleto de salto II"
         },
         "descriptions": {
-          "jp": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Evade\r\nExtender skill.",
           "fr": "Un talisman qui confère\r\nle talent Trompe-la-mort.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata estesa.",
@@ -994,7 +994,7 @@
       },
       {
         "names": {
-          "jp": "跳躍の護石Ⅲ",
+          "ja": "跳躍の護石Ⅲ",
           "en": "Leaping Charm III",
           "fr": "Talisman d'agilité III",
           "it": "Amuleto tuffo III",
@@ -1010,7 +1010,7 @@
           "es-419": "Amuleto de salto III"
         },
         "descriptions": {
-          "jp": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで回避距離ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Evade\r\nExtender skill.",
           "fr": "Un talisman qui confère\r\nle talent Trompe-la-mort.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata estesa.",
@@ -1047,7 +1047,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "無傷の護石Ⅰ",
+          "ja": "無傷の護石Ⅰ",
           "en": "Unscathed Charm I",
           "fr": "Talisman de triomphe",
           "it": "Amuleto illeso I",
@@ -1063,7 +1063,7 @@
           "es-419": "Amuleto ileso I"
         },
         "descriptions": {
-          "jp": "装備することでフルチャージ\r\nスキルが発動するお守り。",
+          "ja": "装備することでフルチャージ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Peak\r\nPerformance skill.",
           "fr": "Un talisman qui confère\r\nle talent Performance optimale.",
           "it": "Un amuleto che potenzia\r\nl'abilità Forma perfetta.",
@@ -1095,7 +1095,7 @@
       },
       {
         "names": {
-          "jp": "無傷の護石Ⅱ",
+          "ja": "無傷の護石Ⅱ",
           "en": "Unscathed Charm II",
           "fr": "Talisman de triomphe II",
           "it": "Amuleto illeso II",
@@ -1111,7 +1111,7 @@
           "es-419": "Amuleto ileso ll"
         },
         "descriptions": {
-          "jp": "装備することでフルチャージ\r\nスキルが発動するお守り。",
+          "ja": "装備することでフルチャージ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Peak\r\nPerformance skill.",
           "fr": "Un talisman qui confère\r\nle talent Performance optimale.",
           "it": "Un amuleto che potenzia\r\nl'abilità Forma perfetta.",
@@ -1148,7 +1148,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐眠の護石Ⅰ",
+          "ja": "耐眠の護石Ⅰ",
           "en": "Sleep Charm I",
           "fr": "Talisman antisommeil",
           "it": "Amuleto sonno I",
@@ -1164,7 +1164,7 @@
           "es-419": "Amuleto de sueño I"
         },
         "descriptions": {
-          "jp": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Sleep\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Insomnie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sonno.",
@@ -1196,7 +1196,7 @@
       },
       {
         "names": {
-          "jp": "耐眠の護石Ⅱ",
+          "ja": "耐眠の護石Ⅱ",
           "en": "Sleep Charm II",
           "fr": "Talisman antisommeil II",
           "it": "Amuleto sonno II",
@@ -1212,7 +1212,7 @@
           "es-419": "Amuleto de sueño II"
         },
         "descriptions": {
-          "jp": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Sleep\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Insomnie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sonno.",
@@ -1244,7 +1244,7 @@
       },
       {
         "names": {
-          "jp": "耐眠の護石Ⅲ",
+          "ja": "耐眠の護石Ⅲ",
           "en": "Sleep Charm III",
           "fr": "Talisman antisommeil III",
           "it": "Amuleto sonno III",
@@ -1260,7 +1260,7 @@
           "es-419": "Amuleto de sueño III"
         },
         "descriptions": {
-          "jp": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで睡眠耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Sleep\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Insomnie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sonno.",
@@ -1297,7 +1297,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "早食の護石Ⅰ",
+          "ja": "早食の護石Ⅰ",
           "en": "Glutton's Charm I",
           "fr": "Talisman de gloutonnerie",
           "it": "Amuleto ghiotto I",
@@ -1313,7 +1313,7 @@
           "es-419": "Amuleto de gula I"
         },
         "descriptions": {
-          "jp": "装備することで早食いスキルが\r\n発動するお守り。",
+          "ja": "装備することで早食いスキルが\r\n発動するお守り。",
           "en": "A charm that grants the Speed\r\nEating skill.",
           "fr": "Un talisman qui confère\r\nle talent Carnassier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto veloce.",
@@ -1345,7 +1345,7 @@
       },
       {
         "names": {
-          "jp": "早食の護石Ⅱ",
+          "ja": "早食の護石Ⅱ",
           "en": "Glutton's Charm II",
           "fr": "Talisman de gloutonnerie II",
           "it": "Amuleto ghiotto II",
@@ -1361,7 +1361,7 @@
           "es-419": "Amuleto de gula II"
         },
         "descriptions": {
-          "jp": "装備することで早食いスキルが\r\n発動するお守り。",
+          "ja": "装備することで早食いスキルが\r\n発動するお守り。",
           "en": "A charm that grants the Speed\r\nEating skill.",
           "fr": "Un talisman qui confère\r\nle talent Carnassier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto veloce.",
@@ -1393,7 +1393,7 @@
       },
       {
         "names": {
-          "jp": "早食の護石Ⅲ",
+          "ja": "早食の護石Ⅲ",
           "en": "Glutton's Charm III",
           "fr": "Talisman de gloutonnerie III",
           "it": "Amuleto ghiotto III",
@@ -1409,7 +1409,7 @@
           "es-419": "Amuleto de gula III"
         },
         "descriptions": {
-          "jp": "装備することで早食いスキルが\r\n発動するお守り。",
+          "ja": "装備することで早食いスキルが\r\n発動するお守り。",
           "en": "A charm that grants the Speed\r\nEating skill.",
           "fr": "Un talisman qui confère\r\nle talent Carnassier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pasto veloce.",
@@ -1446,7 +1446,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "挑戦の護石Ⅰ",
+          "ja": "挑戦の護石Ⅰ",
           "en": "Challenger Charm I",
           "fr": "Talisman de témérité",
           "it": "Amuleto sfidante I",
@@ -1462,7 +1462,7 @@
           "es-419": "Amuleto del desafío I"
         },
         "descriptions": {
-          "jp": "装備することで挑戦者スキルが\r\n発動するお守り。",
+          "ja": "装備することで挑戦者スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Agitator\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Témérité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Istigatore.",
@@ -1494,7 +1494,7 @@
       },
       {
         "names": {
-          "jp": "挑戦の護石Ⅱ",
+          "ja": "挑戦の護石Ⅱ",
           "en": "Challenger Charm II",
           "fr": "Talisman de témérité II",
           "it": "Amuleto sfidante II",
@@ -1510,7 +1510,7 @@
           "es-419": "Amuleto del desafío II"
         },
         "descriptions": {
-          "jp": "装備することで挑戦者スキルが\r\n発動するお守り。",
+          "ja": "装備することで挑戦者スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Agitator\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Témérité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Istigatore.",
@@ -1547,7 +1547,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "回避の護石Ⅰ",
+          "ja": "回避の護石Ⅰ",
           "en": "Evasion Charm I",
           "fr": "Talisman d'esquive",
           "it": "Amuleto evasione I",
@@ -1563,7 +1563,7 @@
           "es-419": "Amuleto de evasión I"
         },
         "descriptions": {
-          "jp": "装備することで回避性能スキルが\r\n発動するお守り。",
+          "ja": "装備することで回避性能スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Evade\r\nWindow skill.",
           "fr": "Un talisman qui confère\r\nle talent Fenêtre d'invulnérabilité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata.",
@@ -1595,7 +1595,7 @@
       },
       {
         "names": {
-          "jp": "回避の護石Ⅱ",
+          "ja": "回避の護石Ⅱ",
           "en": "Evasion Charm II",
           "fr": "Talisman d'esquive II",
           "it": "Amuleto evasione II",
@@ -1611,7 +1611,7 @@
           "es-419": "Amuleto de evasión II"
         },
         "descriptions": {
-          "jp": "装備することで回避性能スキルが\r\n発動するお守り。",
+          "ja": "装備することで回避性能スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Evade\r\nWindow skill.",
           "fr": "Un talisman qui confère\r\nle talent Fenêtre d'invulnérabilité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata.",
@@ -1643,7 +1643,7 @@
       },
       {
         "names": {
-          "jp": "回避の護石Ⅲ",
+          "ja": "回避の護石Ⅲ",
           "en": "Evasion Charm III",
           "fr": "Talisman d'esquive III",
           "it": "Amuleto evasione III",
@@ -1659,7 +1659,7 @@
           "es-419": "Amuleto de evasión III"
         },
         "descriptions": {
-          "jp": "装備することで回避性能スキルが\r\n発動するお守り。",
+          "ja": "装備することで回避性能スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Evade\r\nWindow skill.",
           "fr": "Un talisman qui confère\r\nle talent Fenêtre d'invulnérabilité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Schivata.",
@@ -1696,7 +1696,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐爆の護石Ⅰ",
+          "ja": "耐爆の護石Ⅰ",
           "en": "Blast Charm I",
           "fr": "Talisman antiexplosion",
           "it": "Amuleto scoppio I",
@@ -1712,7 +1712,7 @@
           "es-419": "Amuleto nitro I"
         },
         "descriptions": {
-          "jp": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Blast\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiexplosion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza scoppio.",
@@ -1744,7 +1744,7 @@
       },
       {
         "names": {
-          "jp": "耐爆の護石Ⅱ",
+          "ja": "耐爆の護石Ⅱ",
           "en": "Blast Charm II",
           "fr": "Talisman antiexplosion II",
           "it": "Amuleto scoppio II",
@@ -1760,7 +1760,7 @@
           "es-419": "Amuleto nitro II"
         },
         "descriptions": {
-          "jp": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Blast\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiexplosion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza scoppio.",
@@ -1792,7 +1792,7 @@
       },
       {
         "names": {
-          "jp": "耐爆の護石Ⅲ",
+          "ja": "耐爆の護石Ⅲ",
           "en": "Blast Charm III",
           "fr": "Talisman antiexplosion III",
           "it": "Amuleto scoppio III",
@@ -1808,7 +1808,7 @@
           "es-419": "Amuleto nitro III"
         },
         "descriptions": {
-          "jp": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで爆破やられ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Blast\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiexplosion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza scoppio.",
@@ -1845,7 +1845,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "渾身の護石Ⅰ",
+          "ja": "渾身の護石Ⅰ",
           "en": "Mighty Charm I",
           "fr": "Talisman de ténacité",
           "it": "Amuleto possente I",
@@ -1861,7 +1861,7 @@
           "es-419": "Amuleto potente I"
         },
         "descriptions": {
-          "jp": "装備することで渾身スキルが\r\n発動するお守り。",
+          "ja": "装備することで渾身スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Maximum\r\nMight skill.",
           "fr": "Un talisman qui confère\r\nle talent Corps et âme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Massima potenza.",
@@ -1893,7 +1893,7 @@
       },
       {
         "names": {
-          "jp": "渾身の護石Ⅱ",
+          "ja": "渾身の護石Ⅱ",
           "en": "Mighty Charm II",
           "fr": "Talisman de ténacité II",
           "it": "Amuleto possente II",
@@ -1909,7 +1909,7 @@
           "es-419": "Amuleto potente II"
         },
         "descriptions": {
-          "jp": "装備することで渾身スキルが\r\n発動するお守り。",
+          "ja": "装備することで渾身スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Maximum\r\nMight skill.",
           "fr": "Un talisman qui confère\r\nle talent Corps et âme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Massima potenza.",
@@ -1946,7 +1946,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐絶の護石Ⅰ",
+          "ja": "耐絶の護石Ⅰ",
           "en": "Stun Charm I",
           "fr": "Talisman antiétourdissement",
           "it": "Amuleto stordimento I",
@@ -1962,7 +1962,7 @@
           "es-419": "Amuleto aturdidor I"
         },
         "descriptions": {
-          "jp": "装備することで気絶耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで気絶耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Stun\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Crâne d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza stordimento.",
@@ -1994,7 +1994,7 @@
       },
       {
         "names": {
-          "jp": "耐絶の護石Ⅱ",
+          "ja": "耐絶の護石Ⅱ",
           "en": "Stun Charm II",
           "fr": "Talisman antiétourdissement II",
           "it": "Amuleto stordimento II",
@@ -2010,7 +2010,7 @@
           "es-419": "Amuleto aturdidor II"
         },
         "descriptions": {
-          "jp": "装備することで気絶耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで気絶耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Stun\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Crâne d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza stordimento.",
@@ -2042,7 +2042,7 @@
       },
       {
         "names": {
-          "jp": "耐絶の護石Ⅲ",
+          "ja": "耐絶の護石Ⅲ",
           "en": "Stun Charm III",
           "fr": "Talisman antiétourdissement III",
           "it": "Amuleto stordimento III",
@@ -2058,7 +2058,7 @@
           "es-419": "Amuleto aturdidor III"
         },
         "descriptions": {
-          "jp": "装備することで気絶耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで気絶耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Stun\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Crâne d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza stordimento.",
@@ -2095,7 +2095,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "希望の護石",
+          "ja": "希望の護石",
           "en": "Hope Charm",
           "fr": "Talisman d'espoir",
           "it": "Amuleto speranza",
@@ -2111,7 +2111,7 @@
           "es-419": "Amuleto de la esperanza"
         },
         "descriptions": {
-          "jp": "装備することで研鑽スキルと\r\n体力回復量ＵＰスキルが\r\n発動するお守り。",
+          "ja": "装備することで研鑽スキルと\r\n体力回復量ＵＰスキルが\r\n発動するお守り。",
           "en": "A charm that grants the Self-\r\nImprovement and Recovery Up\r\nskills.",
           "fr": "Un talisman qui confère\r\nles talents Auto-amélioration\r\net Cercle de vie.",
           "it": "Un amuleto che potenzia\r\nle abilità Automiglioramento\r\ne Bonus cura.",
@@ -2144,7 +2144,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐麻の護石Ⅰ",
+          "ja": "耐麻の護石Ⅰ",
           "en": "Paralysis Charm I",
           "fr": "Talisman antiparalysie",
           "it": "Amuleto paralisi I",
@@ -2160,7 +2160,7 @@
           "es-419": "Amuleto parálisis I"
         },
         "descriptions": {
-          "jp": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nParalysis Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiparalysie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza paralisi.",
@@ -2192,7 +2192,7 @@
       },
       {
         "names": {
-          "jp": "耐麻の護石Ⅱ",
+          "ja": "耐麻の護石Ⅱ",
           "en": "Paralysis Charm II",
           "fr": "Talisman antiparalysie II",
           "it": "Amuleto paralisi II",
@@ -2208,7 +2208,7 @@
           "es-419": "Amuleto parálisis II"
         },
         "descriptions": {
-          "jp": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nParalysis Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiparalysie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza paralisi.",
@@ -2240,7 +2240,7 @@
       },
       {
         "names": {
-          "jp": "耐麻の護石Ⅲ",
+          "ja": "耐麻の護石Ⅲ",
           "en": "Paralysis Charm III",
           "fr": "Talisman antiparalysie III",
           "it": "Amuleto paralisi III",
@@ -2256,7 +2256,7 @@
           "es-419": "Amuleto parálisis III"
         },
         "descriptions": {
-          "jp": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで麻痺耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nParalysis Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antiparalysie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza paralisi.",
@@ -2293,7 +2293,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "環境の護石Ⅰ",
+          "ja": "環境の護石Ⅰ",
           "en": "Survival Charm I",
           "fr": "Talisman de survie",
           "it": "Amuleto sopravvivenza I",
@@ -2309,7 +2309,7 @@
           "es-419": "Amuleto supervivencia I"
         },
         "descriptions": {
-          "jp": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
+          "ja": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Survival\r\nExpert skill.",
           "fr": "Un talisman qui confère\r\nle talent Ami de la nature.",
           "it": "Un amuleto che potenzia\r\nl'abilità Esperto di\r\nsopravvivenza.",
@@ -2341,7 +2341,7 @@
       },
       {
         "names": {
-          "jp": "環境の護石Ⅱ",
+          "ja": "環境の護石Ⅱ",
           "en": "Survival Charm II",
           "fr": "Talisman de survie II",
           "it": "Amuleto sopravvivenza II",
@@ -2357,7 +2357,7 @@
           "es-419": "Amuleto supervivencia II"
         },
         "descriptions": {
-          "jp": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
+          "ja": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Survival\r\nExpert skill.",
           "fr": "Un talisman qui confère\r\nle talent Ami de la nature.",
           "it": "Un amuleto che potenzia\r\nl'abilità Esperto di\r\nsopravvivenza.",
@@ -2389,7 +2389,7 @@
       },
       {
         "names": {
-          "jp": "環境の護石Ⅲ",
+          "ja": "環境の護石Ⅲ",
           "en": "Survival Charm III",
           "fr": "Talisman de survie III",
           "it": "Amuleto sopravvivenza III",
@@ -2405,7 +2405,7 @@
           "es-419": "Amuleto supervivencia III"
         },
         "descriptions": {
-          "jp": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
+          "ja": "装備することで環境利用の知識\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Survival\r\nExpert skill.",
           "fr": "Un talisman qui confère\r\nle talent Ami de la nature.",
           "it": "Un amuleto che potenzia\r\nl'abilità Esperto di\r\nsopravvivenza.",
@@ -2442,7 +2442,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耳栓の護石Ⅰ",
+          "ja": "耳栓の護石Ⅰ",
           "en": "Earplugs Charm I",
           "fr": "Talisman de banshee",
           "it": "Amuleto udito I",
@@ -2458,7 +2458,7 @@
           "es-419": "Amuleto antirrugidos I"
         },
         "descriptions": {
-          "jp": "装備することで耳栓スキルが\r\n発動するお守り。",
+          "ja": "装備することで耳栓スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Earplugs\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Bouchon d'oreilles.",
           "it": "Un amuleto che potenzia\r\nl'abilità Protezione udito.",
@@ -2495,7 +2495,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐雷の護石Ⅰ",
+          "ja": "耐雷の護石Ⅰ",
           "en": "Thunder Charm I",
           "fr": "Talisman de foudre",
           "it": "Amuleto tuono I",
@@ -2511,7 +2511,7 @@
           "es-419": "Amuleto de rayo I"
         },
         "descriptions": {
-          "jp": "装備することで雷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで雷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Thunder\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Paratonnerre.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza tuono.",
@@ -2543,7 +2543,7 @@
       },
       {
         "names": {
-          "jp": "耐雷の護石Ⅱ",
+          "ja": "耐雷の護石Ⅱ",
           "en": "Thunder Charm II",
           "fr": "Talisman de foudre II",
           "it": "Amuleto tuono II",
@@ -2559,7 +2559,7 @@
           "es-419": "Amuleto de rayo II"
         },
         "descriptions": {
-          "jp": "装備することで雷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで雷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Thunder\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Paratonnerre.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza tuono.",
@@ -2591,7 +2591,7 @@
       },
       {
         "names": {
-          "jp": "耐雷の護石Ⅲ",
+          "ja": "耐雷の護石Ⅲ",
           "en": "Thunder Charm III",
           "fr": "Talisman de foudre III",
           "it": "Amuleto tuono III",
@@ -2607,7 +2607,7 @@
           "es-419": "Amuleto de rayo III"
         },
         "descriptions": {
-          "jp": "装備することで雷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで雷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Thunder\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Paratonnerre.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza tuono.",
@@ -2644,7 +2644,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "早気の護石Ⅰ",
+          "ja": "早気の護石Ⅰ",
           "en": "Surge Charm I",
           "fr": "Talisman de second souffle",
           "it": "Amuleto super I",
@@ -2660,7 +2660,7 @@
           "es-419": "Amuleto de recarga I"
         },
         "descriptions": {
-          "jp": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
+          "ja": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Stamina\r\nSurge skill.",
           "fr": "Un talisman qui confère\r\nle talent Métabolisme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Super resistenza.",
@@ -2692,7 +2692,7 @@
       },
       {
         "names": {
-          "jp": "早気の護石Ⅱ",
+          "ja": "早気の護石Ⅱ",
           "en": "Surge Charm II",
           "fr": "Talisman de second souffle II",
           "it": "Amuleto super II",
@@ -2708,7 +2708,7 @@
           "es-419": "Amuleto de recarga II"
         },
         "descriptions": {
-          "jp": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
+          "ja": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Stamina\r\nSurge skill.",
           "fr": "Un talisman qui confère\r\nle talent Métabolisme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Super resistenza.",
@@ -2740,7 +2740,7 @@
       },
       {
         "names": {
-          "jp": "早気の護石Ⅲ",
+          "ja": "早気の護石Ⅲ",
           "en": "Surge Charm III",
           "fr": "Talisman de second souffle III",
           "it": "Amuleto super III",
@@ -2756,7 +2756,7 @@
           "es-419": "Amuleto de recarga III"
         },
         "descriptions": {
-          "jp": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
+          "ja": "装備することでスタミナ急速回復\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Stamina\r\nSurge skill.",
           "fr": "Un talisman qui confère\r\nle talent Métabolisme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Super resistenza.",
@@ -2793,7 +2793,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "全開の護石Ⅰ",
+          "ja": "全開の護石Ⅰ",
           "en": "Power Charm I",
           "fr": "Talisman de puissance",
           "it": "Amuleto forza I",
@@ -2809,7 +2809,7 @@
           "es-419": "Amuleto de poder I"
         },
         "descriptions": {
-          "jp": "装備することで力の解放スキルが\r\n発動するお守り。",
+          "ja": "装備することで力の解放スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Latent\r\nPower skill.",
           "fr": "Un talisman qui confère\r\nle talent Force latente.",
           "it": "Un amuleto che potenzia\r\nl'abilità Forza latente.",
@@ -2841,7 +2841,7 @@
       },
       {
         "names": {
-          "jp": "全開の護石Ⅱ",
+          "ja": "全開の護石Ⅱ",
           "en": "Power Charm II",
           "fr": "Talisman de puissance II",
           "it": "Amuleto forza II",
@@ -2857,7 +2857,7 @@
           "es-419": "Amuleto de poder II"
         },
         "descriptions": {
-          "jp": "装備することで力の解放スキルが\r\n発動するお守り。",
+          "ja": "装備することで力の解放スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Latent\r\nPower skill.",
           "fr": "Un talisman qui confère\r\nle talent Force latente.",
           "it": "Un amuleto che potenzia\r\nl'abilità Forza latente.",
@@ -2894,7 +2894,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "防御の護石Ⅰ",
+          "ja": "防御の護石Ⅰ",
           "en": "Defense Charm I",
           "fr": "Talisman de défense",
           "it": "Amuleto difesa I",
@@ -2910,7 +2910,7 @@
           "es-419": "Amuleto de defensa I"
         },
         "descriptions": {
-          "jp": "装備することで防御スキルが\r\n発動するお守り。",
+          "ja": "装備することで防御スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Defense\r\nBoost skill.",
           "fr": "Un talisman qui confère\r\nle talent Bastion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus difesa.",
@@ -2942,7 +2942,7 @@
       },
       {
         "names": {
-          "jp": "防御の護石Ⅱ",
+          "ja": "防御の護石Ⅱ",
           "en": "Defense Charm II",
           "fr": "Talisman de défense II",
           "it": "Amuleto difesa II",
@@ -2958,7 +2958,7 @@
           "es-419": "Amuleto de defensa II"
         },
         "descriptions": {
-          "jp": "装備することで防御スキルが\r\n発動するお守り。",
+          "ja": "装備することで防御スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Defense\r\nBoost skill.",
           "fr": "Un talisman qui confère\r\nle talent Bastion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus difesa.",
@@ -2990,7 +2990,7 @@
       },
       {
         "names": {
-          "jp": "防御の護石Ⅲ",
+          "ja": "防御の護石Ⅲ",
           "en": "Defense Charm III",
           "fr": "Talisman de défense III",
           "it": "Amuleto difesa III",
@@ -3006,7 +3006,7 @@
           "es-419": "Amuleto de defensa III"
         },
         "descriptions": {
-          "jp": "装備することで防御スキルが\r\n発動するお守り。",
+          "ja": "装備することで防御スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Defense\r\nBoost skill.",
           "fr": "Un talisman qui confère\r\nle talent Bastion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus difesa.",
@@ -3038,7 +3038,7 @@
       },
       {
         "names": {
-          "jp": "防御の護石Ⅳ",
+          "ja": "防御の護石Ⅳ",
           "en": "Defense Charm IV",
           "fr": "Talisman de défense IV",
           "it": "Amuleto difesa IV",
@@ -3054,7 +3054,7 @@
           "es-419": "Amuleto de defensa IV"
         },
         "descriptions": {
-          "jp": "装備することで防御スキルが\r\n発動するお守り。",
+          "ja": "装備することで防御スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Defense\r\nBoost skill.",
           "fr": "Un talisman qui confère\r\nle talent Bastion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus difesa.",
@@ -3091,7 +3091,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐毒の護石Ⅰ",
+          "ja": "耐毒の護石Ⅰ",
           "en": "Poison Charm I",
           "fr": "Talisman antipoison",
           "it": "Amuleto veleno I",
@@ -3107,7 +3107,7 @@
           "es-419": "Amuleto de veneno I"
         },
         "descriptions": {
-          "jp": "装備することで毒耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで毒耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Poison\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Toxicologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza veleno.",
@@ -3139,7 +3139,7 @@
       },
       {
         "names": {
-          "jp": "耐毒の護石Ⅱ",
+          "ja": "耐毒の護石Ⅱ",
           "en": "Poison Charm II",
           "fr": "Talisman antipoison II",
           "it": "Amuleto veleno II",
@@ -3155,7 +3155,7 @@
           "es-419": "Amuleto de veneno II"
         },
         "descriptions": {
-          "jp": "装備することで毒耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで毒耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Poison\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Toxicologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza veleno.",
@@ -3187,7 +3187,7 @@
       },
       {
         "names": {
-          "jp": "耐毒の護石Ⅲ",
+          "ja": "耐毒の護石Ⅲ",
           "en": "Poison Charm III",
           "fr": "Talisman antipoison III",
           "it": "Amuleto veleno III",
@@ -3203,7 +3203,7 @@
           "es-419": "Amuleto de veneno III"
         },
         "descriptions": {
-          "jp": "装備することで毒耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで毒耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Poison\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Toxicologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza veleno.",
@@ -3240,7 +3240,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "逆襲の護石Ⅰ",
+          "ja": "逆襲の護石Ⅰ",
           "en": "Counter Charm I",
           "fr": "Talisman de contre-attaque",
           "it": "Amuleto contrattacco I",
@@ -3256,7 +3256,7 @@
           "es-419": "Amuleto venganza I"
         },
         "descriptions": {
-          "jp": "装備することで逆襲スキルが\r\n発動するお守り。",
+          "ja": "装備することで逆襲スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nCounterstrike skill.",
           "fr": "Un talisman qui confère\r\nle talent Contre-attaque.",
           "it": "Un amuleto che potenzia\r\nl'abilità Contrattacco.",
@@ -3288,7 +3288,7 @@
       },
       {
         "names": {
-          "jp": "逆襲の護石Ⅱ",
+          "ja": "逆襲の護石Ⅱ",
           "en": "Counter Charm II",
           "fr": "Talisman de contre-attaque II",
           "it": "Amuleto contrattacco II",
@@ -3304,7 +3304,7 @@
           "es-419": "Amuleto venganza II"
         },
         "descriptions": {
-          "jp": "装備することで逆襲スキルが\r\n発動するお守り。",
+          "ja": "装備することで逆襲スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nCounterstrike skill.",
           "fr": "Un talisman qui confère\r\nle talent Contre-attaque.",
           "it": "Un amuleto che potenzia\r\nl'abilità Contrattacco.",
@@ -3336,7 +3336,7 @@
       },
       {
         "names": {
-          "jp": "逆襲の護石Ⅲ",
+          "ja": "逆襲の護石Ⅲ",
           "en": "Counter Charm III",
           "fr": "Talisman de contre-attaque III",
           "it": "Amuleto contrattacco III",
@@ -3352,7 +3352,7 @@
           "es-419": "Amuleto venganza III"
         },
         "descriptions": {
-          "jp": "装備することで逆襲スキルが\r\n発動するお守り。",
+          "ja": "装備することで逆襲スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nCounterstrike skill.",
           "fr": "Un talisman qui confère\r\nle talent Contre-attaque.",
           "it": "Un amuleto che potenzia\r\nl'abilità Contrattacco.",
@@ -3389,7 +3389,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "納刀の護石Ⅰ",
+          "ja": "納刀の護石Ⅰ",
           "en": "Sheathe Charm I",
           "fr": "Talisman de rengainage",
           "it": "Amuleto rinfodero I",
@@ -3405,7 +3405,7 @@
           "es-419": "Amuleto envainado I"
         },
         "descriptions": {
-          "jp": "装備することで納刀術スキルが\r\n発動するお守り。",
+          "ja": "装備することで納刀術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Quick\r\nSheathe skill.",
           "fr": "Un talisman qui confère\r\nle talent Rengainage éclair.",
           "it": "Un amuleto che potenzia\r\nl'abilità Rinfodero veloce.",
@@ -3437,7 +3437,7 @@
       },
       {
         "names": {
-          "jp": "納刀の護石Ⅱ",
+          "ja": "納刀の護石Ⅱ",
           "en": "Sheathe Charm II",
           "fr": "Talisman de rengainage II",
           "it": "Amuleto rinfodero II",
@@ -3453,7 +3453,7 @@
           "es-419": "Amuleto envainado II"
         },
         "descriptions": {
-          "jp": "装備することで納刀術スキルが\r\n発動するお守り。",
+          "ja": "装備することで納刀術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Quick\r\nSheathe skill.",
           "fr": "Un talisman qui confère\r\nle talent Rengainage éclair.",
           "it": "Un amuleto che potenzia\r\nl'abilità Rinfodero veloce.",
@@ -3485,7 +3485,7 @@
       },
       {
         "names": {
-          "jp": "納刀の護石Ⅲ",
+          "ja": "納刀の護石Ⅲ",
           "en": "Sheathe Charm III",
           "fr": "Talisman de rengainage III",
           "it": "Amuleto rinfodero III",
@@ -3501,7 +3501,7 @@
           "es-419": "Amuleto envainado III"
         },
         "descriptions": {
-          "jp": "装備することで納刀術スキルが\r\n発動するお守り。",
+          "ja": "装備することで納刀術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Quick\r\nSheathe skill.",
           "fr": "Un talisman qui confère\r\nle talent Rengainage éclair.",
           "it": "Un amuleto che potenzia\r\nl'abilità Rinfodero veloce.",
@@ -3538,7 +3538,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐水の護石Ⅰ",
+          "ja": "耐水の護石Ⅰ",
           "en": "Water Charm I",
           "fr": "Talisman d'eau",
           "it": "Amuleto acqua I",
@@ -3554,7 +3554,7 @@
           "es-419": "Amuleto de agua I"
         },
         "descriptions": {
-          "jp": "装備することで水耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで水耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Water\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Étanchéité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza acqua.",
@@ -3586,7 +3586,7 @@
       },
       {
         "names": {
-          "jp": "耐水の護石Ⅱ",
+          "ja": "耐水の護石Ⅱ",
           "en": "Water Charm II",
           "fr": "Talisman d'eau II",
           "it": "Amuleto acqua II",
@@ -3602,7 +3602,7 @@
           "es-419": "Amuleto de agua II"
         },
         "descriptions": {
-          "jp": "装備することで水耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで水耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Water\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Étanchéité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza acqua.",
@@ -3634,7 +3634,7 @@
       },
       {
         "names": {
-          "jp": "耐水の護石Ⅲ",
+          "ja": "耐水の護石Ⅲ",
           "en": "Water Charm III",
           "fr": "Talisman d'eau III",
           "it": "Amuleto acqua III",
@@ -3650,7 +3650,7 @@
           "es-419": "Amuleto de agua III"
         },
         "descriptions": {
-          "jp": "装備することで水耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで水耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Water\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Étanchéité.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza acqua.",
@@ -3687,7 +3687,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "友愛の護石Ⅰ",
+          "ja": "友愛の護石Ⅰ",
           "en": "Friendship Charm I",
           "fr": "Talisman d'amitié",
           "it": "Amuleto amicizia I",
@@ -3703,7 +3703,7 @@
           "es-419": "Amuleto de amistad I"
         },
         "descriptions": {
-          "jp": "装備することで広域化スキルが\r\n発動するお守り。",
+          "ja": "装備することで広域化スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Wide-\r\nRange skill.",
           "fr": "Un talisman qui confère\r\nle talent Un pour tous.",
           "it": "Un amuleto che potenzia\r\nl'abilità Ampia area.",
@@ -3735,7 +3735,7 @@
       },
       {
         "names": {
-          "jp": "友愛の護石Ⅱ",
+          "ja": "友愛の護石Ⅱ",
           "en": "Friendship Charm II",
           "fr": "Talisman d'amitié II",
           "it": "Amuleto amicizia II",
@@ -3751,7 +3751,7 @@
           "es-419": "Amuleto de amistad II"
         },
         "descriptions": {
-          "jp": "装備することで広域化スキルが\r\n発動するお守り。",
+          "ja": "装備することで広域化スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Wide-\r\nRange skill.",
           "fr": "Un talisman qui confère\r\nle talent Un pour tous.",
           "it": "Un amuleto che potenzia\r\nl'abilità Ampia area.",
@@ -3783,7 +3783,7 @@
       },
       {
         "names": {
-          "jp": "友愛の護石Ⅲ",
+          "ja": "友愛の護石Ⅲ",
           "en": "Friendship Charm III",
           "fr": "Talisman d'amitié III",
           "it": "Amuleto amicizia III",
@@ -3799,7 +3799,7 @@
           "es-419": "Amuleto de amistad III"
         },
         "descriptions": {
-          "jp": "装備することで広域化スキルが\r\n発動するお守り。",
+          "ja": "装備することで広域化スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Wide-\r\nRange skill.",
           "fr": "Un talisman qui confère\r\nle talent Un pour tous.",
           "it": "Un amuleto che potenzia\r\nl'abilità Ampia area.",
@@ -3831,7 +3831,7 @@
       },
       {
         "names": {
-          "jp": "友愛の護石Ⅳ",
+          "ja": "友愛の護石Ⅳ",
           "en": "Friendship Charm IV",
           "fr": "Talisman d'amitié IV",
           "it": "Amuleto amicizia IV",
@@ -3847,7 +3847,7 @@
           "es-419": "Amuleto de amistad IV"
         },
         "descriptions": {
-          "jp": "装備することで広域化スキルが\r\n発動するお守り。",
+          "ja": "装備することで広域化スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Wide-\r\nRange skill.",
           "fr": "Un talisman qui confère\r\nle talent Un pour tous.",
           "it": "Un amuleto che potenzia\r\nl'abilità Ampia area.",
@@ -3884,7 +3884,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐属の護石Ⅰ",
+          "ja": "耐属の護石Ⅰ",
           "en": "Blight Charm I",
           "fr": "Talisman élémentaire",
           "it": "Amuleto malus I",
@@ -3900,7 +3900,7 @@
           "es-419": "Amuleto de plaga I"
         },
         "descriptions": {
-          "jp": "装備することで属性やられ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで属性やられ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Blight\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Totem élémentaire.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza malus.",
@@ -3932,7 +3932,7 @@
       },
       {
         "names": {
-          "jp": "耐属の護石Ⅱ",
+          "ja": "耐属の護石Ⅱ",
           "en": "Blight Charm II",
           "fr": "Talisman élémentaire II",
           "it": "Amuleto malus II",
@@ -3948,7 +3948,7 @@
           "es-419": "Amuleto de plaga II"
         },
         "descriptions": {
-          "jp": "装備することで属性やられ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで属性やられ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Blight\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Totem élémentaire.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza malus.",
@@ -3985,7 +3985,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "持続の護石Ⅰ",
+          "ja": "持続の護石Ⅰ",
           "en": "Extension Charm I",
           "fr": "Talisman de durabilité",
           "it": "Amuleto estensione I",
@@ -4001,7 +4001,7 @@
           "es-419": "Amuleto extensión I"
         },
         "descriptions": {
-          "jp": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
+          "ja": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Item\r\nProlonger skill.",
           "fr": "Un talisman qui confère\r\nle talent Chimiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Estensione oggetti.",
@@ -4033,7 +4033,7 @@
       },
       {
         "names": {
-          "jp": "持続の護石Ⅱ",
+          "ja": "持続の護石Ⅱ",
           "en": "Extension Charm II",
           "fr": "Talisman de durabilité II",
           "it": "Amuleto estensione II",
@@ -4049,7 +4049,7 @@
           "es-419": "Amuleto extensión II"
         },
         "descriptions": {
-          "jp": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
+          "ja": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Item\r\nProlonger skill.",
           "fr": "Un talisman qui confère\r\nle talent Chimiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Estensione oggetti.",
@@ -4081,7 +4081,7 @@
       },
       {
         "names": {
-          "jp": "持続の護石Ⅲ",
+          "ja": "持続の護石Ⅲ",
           "en": "Extension Charm III",
           "fr": "Talisman de durabilité III",
           "it": "Amuleto estensione III",
@@ -4097,7 +4097,7 @@
           "es-419": "Amuleto extensión III"
         },
         "descriptions": {
-          "jp": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
+          "ja": "装備することでアイテム使用強化\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Item\r\nProlonger skill.",
           "fr": "Un talisman qui confère\r\nle talent Chimiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Estensione oggetti.",
@@ -4134,7 +4134,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐氷の護石Ⅰ",
+          "ja": "耐氷の護石Ⅰ",
           "en": "Ice Charm I",
           "fr": "Talisman de glace",
           "it": "Amuleto ghiaccio I",
@@ -4150,7 +4150,7 @@
           "es-419": "Amuleto de hielo I"
         },
         "descriptions": {
-          "jp": "装備することで氷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで氷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Ice\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antigel.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza ghiaccio.",
@@ -4182,7 +4182,7 @@
       },
       {
         "names": {
-          "jp": "耐氷の護石Ⅱ",
+          "ja": "耐氷の護石Ⅱ",
           "en": "Ice Charm II",
           "fr": "Talisman de glace II",
           "it": "Amuleto ghiaccio II",
@@ -4198,7 +4198,7 @@
           "es-419": "Amuleto de hielo II"
         },
         "descriptions": {
-          "jp": "装備することで氷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで氷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Ice\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antigel.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza ghiaccio.",
@@ -4230,7 +4230,7 @@
       },
       {
         "names": {
-          "jp": "耐氷の護石Ⅲ",
+          "ja": "耐氷の護石Ⅲ",
           "en": "Ice Charm III",
           "fr": "Talisman de glace III",
           "it": "Amuleto ghiaccio III",
@@ -4246,7 +4246,7 @@
           "es-419": "Amuleto de hielo III"
         },
         "descriptions": {
-          "jp": "装備することで氷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで氷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Ice\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antigel.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza ghiaccio.",
@@ -4283,7 +4283,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "重撃の護石Ⅰ",
+          "ja": "重撃の護石Ⅰ",
           "en": "Breaker Charm I",
           "fr": "Talisman de destruction",
           "it": "Amuleto lesione I",
@@ -4299,7 +4299,7 @@
           "es-419": "Amuleto de troceo I"
         },
         "descriptions": {
-          "jp": "装備することで破壊王スキルが\r\n発動するお守り。",
+          "ja": "装備することで破壊王スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nPartbreaker skill.",
           "fr": "Un talisman qui confère\r\nle talent Destructeur.",
           "it": "Un amuleto che potenzia\r\nl'abilità Spaccamostri.",
@@ -4331,7 +4331,7 @@
       },
       {
         "names": {
-          "jp": "重撃の護石Ⅱ",
+          "ja": "重撃の護石Ⅱ",
           "en": "Breaker Charm II",
           "fr": "Talisman de destruction II",
           "it": "Amuleto lesione II",
@@ -4347,7 +4347,7 @@
           "es-419": "Amuleto de troceo II"
         },
         "descriptions": {
-          "jp": "装備することで破壊王スキルが\r\n発動するお守り。",
+          "ja": "装備することで破壊王スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nPartbreaker skill.",
           "fr": "Un talisman qui confère\r\nle talent Destructeur.",
           "it": "Un amuleto che potenzia\r\nl'abilità Spaccamostri.",
@@ -4384,7 +4384,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "抗狂の護石Ⅰ",
+          "ja": "抗狂の護石Ⅰ",
           "en": "Sanity Charm I",
           "fr": "Talisman d'immunisation",
           "it": "Amuleto salute I",
@@ -4400,7 +4400,7 @@
           "es-419": "Amuleto de cordura I"
         },
         "descriptions": {
-          "jp": "装備することで無我の境地スキルが\r\n発動するお守り。",
+          "ja": "装備することで無我の境地スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nAntivirus skill.",
           "fr": "Un talisman qui confère\r\nle talent Antivirus.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antivirus.",
@@ -4432,7 +4432,7 @@
       },
       {
         "names": {
-          "jp": "抗狂の護石Ⅱ",
+          "ja": "抗狂の護石Ⅱ",
           "en": "Sanity Charm II",
           "fr": "Talisman d'immunisation II",
           "it": "Amuleto salute II",
@@ -4448,7 +4448,7 @@
           "es-419": "Amuleto de cordura II"
         },
         "descriptions": {
-          "jp": "装備することで無我の境地スキルが\r\n発動するお守り。",
+          "ja": "装備することで無我の境地スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nAntivirus skill.",
           "fr": "Un talisman qui confère\r\nle talent Antivirus.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antivirus.",
@@ -4480,7 +4480,7 @@
       },
       {
         "names": {
-          "jp": "抗狂の護石Ⅲ",
+          "ja": "抗狂の護石Ⅲ",
           "en": "Sanity Charm III",
           "fr": "Talisman d'immunisation III",
           "it": "Amuleto salute III",
@@ -4496,7 +4496,7 @@
           "es-419": "Amuleto de cordura III"
         },
         "descriptions": {
-          "jp": "装備することで無我の境地スキルが\r\n発動するお守り。",
+          "ja": "装備することで無我の境地スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nAntivirus skill.",
           "fr": "Un talisman qui confère\r\nle talent Antivirus.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antivirus.",
@@ -4533,7 +4533,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "威嚇の護石Ⅰ",
+          "ja": "威嚇の護石Ⅰ",
           "en": "Intimidator Charm I",
           "fr": "Talisman d'intimidation",
           "it": "Amuleto intimidatore I",
@@ -4549,7 +4549,7 @@
           "es-419": "Amuleto intimidante I"
         },
         "descriptions": {
-          "jp": "装備することで威嚇スキルが\r\n発動するお守り。",
+          "ja": "装備することで威嚇スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nIntimidator skill.",
           "fr": "Un talisman qui confère\r\nle talent Intimidation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Intimidatore.",
@@ -4581,7 +4581,7 @@
       },
       {
         "names": {
-          "jp": "威嚇の護石Ⅱ",
+          "ja": "威嚇の護石Ⅱ",
           "en": "Intimidator Charm II",
           "fr": "Talisman d'intimidation II",
           "it": "Amuleto intimidatore II",
@@ -4597,7 +4597,7 @@
           "es-419": "Amuleto intimidante II"
         },
         "descriptions": {
-          "jp": "装備することで威嚇スキルが\r\n発動するお守り。",
+          "ja": "装備することで威嚇スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nIntimidator skill.",
           "fr": "Un talisman qui confère\r\nle talent Intimidation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Intimidatore.",
@@ -4629,7 +4629,7 @@
       },
       {
         "names": {
-          "jp": "威嚇の護石Ⅲ",
+          "ja": "威嚇の護石Ⅲ",
           "en": "Intimidator Charm III",
           "fr": "Talisman d'intimidation III",
           "it": "Amuleto intimidatore III",
@@ -4645,7 +4645,7 @@
           "es-419": "Amuleto intimidante III"
         },
         "descriptions": {
-          "jp": "装備することで威嚇スキルが\r\n発動するお守り。",
+          "ja": "装備することで威嚇スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nIntimidator skill.",
           "fr": "Un talisman qui confère\r\nle talent Intimidation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Intimidatore.",
@@ -4682,7 +4682,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐衝の護石Ⅰ",
+          "ja": "耐衝の護石Ⅰ",
           "en": "Impact Charm I",
           "fr": "Talisman d'acier",
           "it": "Amuleto impatto I",
@@ -4698,7 +4698,7 @@
           "es-419": "Amuleto de impacto I"
         },
         "descriptions": {
-          "jp": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
+          "ja": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Flinch\r\nFree skill.",
           "fr": "Un talisman qui confère\r\nle talent Nerfs d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisussulto.",
@@ -4730,7 +4730,7 @@
       },
       {
         "names": {
-          "jp": "耐衝の護石Ⅱ",
+          "ja": "耐衝の護石Ⅱ",
           "en": "Impact Charm II",
           "fr": "Talisman d'acier II",
           "it": "Amuleto impatto II",
@@ -4746,7 +4746,7 @@
           "es-419": "Amuleto de impacto II"
         },
         "descriptions": {
-          "jp": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
+          "ja": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Flinch\r\nFree skill.",
           "fr": "Un talisman qui confère\r\nle talent Nerfs d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisussulto.",
@@ -4778,7 +4778,7 @@
       },
       {
         "names": {
-          "jp": "耐衝の護石Ⅲ",
+          "ja": "耐衝の護石Ⅲ",
           "en": "Impact Charm III",
           "fr": "Talisman d'acier III",
           "it": "Amuleto impatto III",
@@ -4794,7 +4794,7 @@
           "es-419": "Amuleto de impacto III"
         },
         "descriptions": {
-          "jp": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
+          "ja": "装備することでひるみ軽減スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Flinch\r\nFree skill.",
           "fr": "Un talisman qui confère\r\nle talent Nerfs d'acier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisussulto.",
@@ -4831,7 +4831,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "茸好の護石Ⅰ",
+          "ja": "茸好の護石Ⅰ",
           "en": "Mushroom Charm I",
           "fr": "Talisman de mycologie",
           "it": "Amuleto fungo I",
@@ -4847,7 +4847,7 @@
           "es-419": "Amuleto de hongo I"
         },
         "descriptions": {
-          "jp": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
+          "ja": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
           "en": "A charm that grants the\r\nMushroomancer skill.",
           "fr": "Un talisman qui confère\r\nle talent Mycologue extrême.",
           "it": "Un amuleto che potenzia\r\nl'abilità Fungomante.",
@@ -4879,7 +4879,7 @@
       },
       {
         "names": {
-          "jp": "茸好の護石Ⅱ",
+          "ja": "茸好の護石Ⅱ",
           "en": "Mushroom Charm II",
           "fr": "Talisman de mycologie II",
           "it": "Amuleto fungo II",
@@ -4895,7 +4895,7 @@
           "es-419": "Amuleto de hongo II"
         },
         "descriptions": {
-          "jp": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
+          "ja": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
           "en": "A charm that grants the\r\nMushroomancer skill.",
           "fr": "Un talisman qui confère\r\nle talent Mycologue extrême.",
           "it": "Un amuleto che potenzia\r\nl'abilità Fungomante.",
@@ -4927,7 +4927,7 @@
       },
       {
         "names": {
-          "jp": "茸好の護石Ⅲ",
+          "ja": "茸好の護石Ⅲ",
           "en": "Mushroom Charm III",
           "fr": "Talisman de mycologie III",
           "it": "Amuleto fungo III",
@@ -4943,7 +4943,7 @@
           "es-419": "Amuleto de hongo III"
         },
         "descriptions": {
-          "jp": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
+          "ja": "装備することでキノコ大好き\r\nスキルが発動するお守り。",
           "en": "A charm that grants the\r\nMushroomancer skill.",
           "fr": "Un talisman qui confère\r\nle talent Mycologue extrême.",
           "it": "Un amuleto che potenzia\r\nl'abilità Fungomante.",
@@ -4980,7 +4980,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "反攻の護石Ⅰ",
+          "ja": "反攻の護石Ⅰ",
           "en": "Counterattack Charm I",
           "fr": "Talisman de riposte",
           "it": "Amuleto adrenalina I",
@@ -4996,7 +4996,7 @@
           "es-419": "Amuleto adrenalina I"
         },
         "descriptions": {
-          "jp": "装備することで巧撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで巧撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Adrenaline\r\nRush skill.",
           "fr": "Un talisman qui confère\r\nle talent Poussée d'adrénaline.",
           "it": "Un amuleto che potenzia\r\nl'abilità Flusso di adrenalina.",
@@ -5028,7 +5028,7 @@
       },
       {
         "names": {
-          "jp": "反攻の護石Ⅱ",
+          "ja": "反攻の護石Ⅱ",
           "en": "Counterattack Charm II",
           "fr": "Talisman de riposte II",
           "it": "Amuleto adrenalina II",
@@ -5044,7 +5044,7 @@
           "es-419": "Amuleto adrenalina II"
         },
         "descriptions": {
-          "jp": "装備することで巧撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで巧撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Adrenaline\r\nRush skill.",
           "fr": "Un talisman qui confère\r\nle talent Poussée d'adrénaline.",
           "it": "Un amuleto che potenzia\r\nl'abilità Flusso di adrenalina.",
@@ -5081,7 +5081,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "強走の護石Ⅰ",
+          "ja": "強走の護石Ⅰ",
           "en": "Marathon Charm I",
           "fr": "Talisman d'énergie",
           "it": "Amuleto maratona I",
@@ -5097,7 +5097,7 @@
           "es-419": "Amuleto de maratón I"
         },
         "descriptions": {
-          "jp": "装備することでランナースキルが\r\n発動するお守り。",
+          "ja": "装備することでランナースキルが\r\n発動するお守り。",
           "en": "A charm that grants the Marathon\r\nRunner skill.",
           "fr": "Un talisman qui confère\r\nle talent Marathonien.",
           "it": "Un amuleto che potenzia\r\nl'abilità Maratoneta.",
@@ -5129,7 +5129,7 @@
       },
       {
         "names": {
-          "jp": "強走の護石Ⅱ",
+          "ja": "強走の護石Ⅱ",
           "en": "Marathon Charm II",
           "fr": "Talisman d'énergie II",
           "it": "Amuleto maratona II",
@@ -5145,7 +5145,7 @@
           "es-419": "Amuleto de maratón II"
         },
         "descriptions": {
-          "jp": "装備することでランナースキルが\r\n発動するお守り。",
+          "ja": "装備することでランナースキルが\r\n発動するお守り。",
           "en": "A charm that grants the Marathon\r\nRunner skill.",
           "fr": "Un talisman qui confère\r\nle talent Marathonien.",
           "it": "Un amuleto che potenzia\r\nl'abilità Maratoneta.",
@@ -5177,7 +5177,7 @@
       },
       {
         "names": {
-          "jp": "強走の護石Ⅲ",
+          "ja": "強走の護石Ⅲ",
           "en": "Marathon Charm III",
           "fr": "Talisman d'énergie III",
           "it": "Amuleto maratona III",
@@ -5193,7 +5193,7 @@
           "es-419": "Amuleto de maratón III"
         },
         "descriptions": {
-          "jp": "装備することでランナースキルが\r\n発動するお守り。",
+          "ja": "装備することでランナースキルが\r\n発動するお守り。",
           "en": "A charm that grants the Marathon\r\nRunner skill.",
           "fr": "Un talisman qui confère\r\nle talent Marathonien.",
           "it": "Un amuleto che potenzia\r\nl'abilità Maratoneta.",
@@ -5230,7 +5230,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐震の護石Ⅰ",
+          "ja": "耐震の護石Ⅰ",
           "en": "Tremor Charm I",
           "fr": "Talisman de terre",
           "it": "Amuleto sisma I",
@@ -5246,7 +5246,7 @@
           "es-419": "Amuleto temblores I"
         },
         "descriptions": {
-          "jp": "装備することで耐震スキルが\r\n発動するお守り。",
+          "ja": "装備することで耐震スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nTremor Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Sismologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisismico.",
@@ -5278,7 +5278,7 @@
       },
       {
         "names": {
-          "jp": "耐震の護石Ⅱ",
+          "ja": "耐震の護石Ⅱ",
           "en": "Tremor Charm II",
           "fr": "Talisman de terre II",
           "it": "Amuleto sisma II",
@@ -5294,7 +5294,7 @@
           "es-419": "Amuleto temblores II"
         },
         "descriptions": {
-          "jp": "装備することで耐震スキルが\r\n発動するお守り。",
+          "ja": "装備することで耐震スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nTremor Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Sismologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisismico.",
@@ -5326,7 +5326,7 @@
       },
       {
         "names": {
-          "jp": "耐震の護石Ⅲ",
+          "ja": "耐震の護石Ⅲ",
           "en": "Tremor Charm III",
           "fr": "Talisman de terre III",
           "it": "Amuleto sisma III",
@@ -5342,7 +5342,7 @@
           "es-419": "Amuleto temblores III"
         },
         "descriptions": {
-          "jp": "装備することで耐震スキルが\r\n発動するお守り。",
+          "ja": "装備することで耐震スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nTremor Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Sismologie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Antisismico.",
@@ -5379,7 +5379,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "鎖刃の護石Ⅰ",
+          "ja": "鎖刃の護石Ⅰ",
           "en": "Chainblade Charm I",
           "fr": "Talisman d'incision",
           "it": "Amuleto frusta I",
@@ -5395,7 +5395,7 @@
           "es-419": "Amuleto hoja cadena I"
         },
         "descriptions": {
-          "jp": "装備することで鎖刃刺撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで鎖刃刺撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Flayer\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Écorcheur.",
           "it": "Un amuleto che potenzia\r\nl'abilità Frustata.",
@@ -5427,7 +5427,7 @@
       },
       {
         "names": {
-          "jp": "鎖刃の護石Ⅱ",
+          "ja": "鎖刃の護石Ⅱ",
           "en": "Chainblade Charm II",
           "fr": "Talisman d'incision II",
           "it": "Amuleto frusta II",
@@ -5443,7 +5443,7 @@
           "es-419": "Amuleto hoja cadena II"
         },
         "descriptions": {
-          "jp": "装備することで鎖刃刺撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで鎖刃刺撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Flayer\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Écorcheur.",
           "it": "Un amuleto che potenzia\r\nl'abilità Frustata.",
@@ -5480,7 +5480,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "転福の護石Ⅰ",
+          "ja": "転福の護石Ⅰ",
           "en": "Phoenix Charm I",
           "fr": "Talisman du phénix",
           "it": "Amuleto fenice I",
@@ -5496,7 +5496,7 @@
           "es-419": "Amuleto del fénix I"
         },
         "descriptions": {
-          "jp": "装備することで災禍転福スキルが\r\n発動するお守り。",
+          "ja": "装備することで災禍転福スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nCoalescence skill.",
           "fr": "Un talisman qui confère\r\nle talent Union.",
           "it": "Un amuleto che potenzia\r\nl'abilità Coalescenza.",
@@ -5528,7 +5528,7 @@
       },
       {
         "names": {
-          "jp": "転福の護石Ⅱ",
+          "ja": "転福の護石Ⅱ",
           "en": "Phoenix Charm II",
           "fr": "Talisman du phénix II",
           "it": "Amuleto fenice II",
@@ -5544,7 +5544,7 @@
           "es-419": "Amuleto del fénix II"
         },
         "descriptions": {
-          "jp": "装備することで災禍転福スキルが\r\n発動するお守り。",
+          "ja": "装備することで災禍転福スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nCoalescence skill.",
           "fr": "Un talisman qui confère\r\nle talent Union.",
           "it": "Un amuleto che potenzia\r\nl'abilità Coalescenza.",
@@ -5581,7 +5581,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "爆師の護石Ⅰ",
+          "ja": "爆師の護石Ⅰ",
           "en": "Bombardier Charm I",
           "fr": "Talisman infernal",
           "it": "Amuleto bomba I",
@@ -5597,7 +5597,7 @@
           "es-419": "Amuleto bombardeo I"
         },
         "descriptions": {
-          "jp": "装備することでボマースキルが\r\n発動するお守り。",
+          "ja": "装備することでボマースキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBombardier skill.",
           "fr": "Un talisman qui confère\r\nle talent Bombardier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bombardiere.",
@@ -5629,7 +5629,7 @@
       },
       {
         "names": {
-          "jp": "爆師の護石Ⅱ",
+          "ja": "爆師の護石Ⅱ",
           "en": "Bombardier Charm II",
           "fr": "Talisman infernal II",
           "it": "Amuleto bomba II",
@@ -5645,7 +5645,7 @@
           "es-419": "Amuleto bombardeo II"
         },
         "descriptions": {
-          "jp": "装備することでボマースキルが\r\n発動するお守り。",
+          "ja": "装備することでボマースキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBombardier skill.",
           "fr": "Un talisman qui confère\r\nle talent Bombardier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bombardiere.",
@@ -5677,7 +5677,7 @@
       },
       {
         "names": {
-          "jp": "爆師の護石Ⅲ",
+          "ja": "爆師の護石Ⅲ",
           "en": "Bombardier Charm III",
           "fr": "Talisman infernal III",
           "it": "Amuleto bomba III",
@@ -5693,7 +5693,7 @@
           "es-419": "Amuleto bombardeo III"
         },
         "descriptions": {
-          "jp": "装備することでボマースキルが\r\n発動するお守り。",
+          "ja": "装備することでボマースキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBombardier skill.",
           "fr": "Un talisman qui confère\r\nle talent Bombardier.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bombardiere.",
@@ -5730,7 +5730,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐裂の護石Ⅰ",
+          "ja": "耐裂の護石Ⅰ",
           "en": "Bleed Charm I",
           "fr": "Talisman antihémorragie",
           "it": "Amuleto sangue I",
@@ -5746,7 +5746,7 @@
           "es-419": "Amuleto de sangre I"
         },
         "descriptions": {
-          "jp": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Bleeding\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antihémorragie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sanguinamento.",
@@ -5778,7 +5778,7 @@
       },
       {
         "names": {
-          "jp": "耐裂の護石Ⅱ",
+          "ja": "耐裂の護石Ⅱ",
           "en": "Bleed Charm II",
           "fr": "Talisman antihémorragie II",
           "it": "Amuleto sangue II",
@@ -5794,7 +5794,7 @@
           "es-419": "Amuleto de sangre II"
         },
         "descriptions": {
-          "jp": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Bleeding\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antihémorragie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sanguinamento.",
@@ -5826,7 +5826,7 @@
       },
       {
         "names": {
-          "jp": "耐裂の護石Ⅲ",
+          "ja": "耐裂の護石Ⅲ",
           "en": "Bleed Charm III",
           "fr": "Talisman antihémorragie III",
           "it": "Amuleto sangue III",
@@ -5842,7 +5842,7 @@
           "es-419": "Amuleto de sangre III"
         },
         "descriptions": {
-          "jp": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで裂傷耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Bleeding\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Antihémorragie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza sanguinamento.",
@@ -5879,7 +5879,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "属変の護石Ⅰ",
+          "ja": "属変の護石Ⅰ",
           "en": "Convert Charm I",
           "fr": "Talisman de conversion",
           "it": "Amuleto conversione I",
@@ -5895,7 +5895,7 @@
           "es-419": "Amuleto conversión I"
         },
         "descriptions": {
-          "jp": "装備することで属性変換スキルが\r\n発動するお守り。",
+          "ja": "装備することで属性変換スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Convert\r\nElement skill.",
           "fr": "Un talisman qui confère\r\nle talent Conversion élémentaire.",
           "it": "Un amuleto che potenzia\r\nl'abilità Conversione\r\nelementale.",
@@ -5932,7 +5932,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "加護の護石Ⅰ",
+          "ja": "加護の護石Ⅰ",
           "en": "Blessing Charm I",
           "fr": "Talisman de protection",
           "it": "Amuleto angelo I",
@@ -5948,7 +5948,7 @@
           "es-419": "Amuleto bendición I"
         },
         "descriptions": {
-          "jp": "装備することで精霊の加護スキルが\r\n発動するお守り。",
+          "ja": "装備することで精霊の加護スキルが\r\n発動するお守り。",
           "en": "A charm that grants\r\nthe Divine Blessing skill.",
           "fr": "Un talisman qui confère\r\nle talent Bénédiction.",
           "it": "Un amuleto che potenzia\r\nl'abilità Angelo custode.",
@@ -5980,7 +5980,7 @@
       },
       {
         "names": {
-          "jp": "加護の護石Ⅱ",
+          "ja": "加護の護石Ⅱ",
           "en": "Blessing Charm II",
           "fr": "Talisman de protection II",
           "it": "Amuleto angelo II",
@@ -5996,7 +5996,7 @@
           "es-419": "Amuleto bendición II"
         },
         "descriptions": {
-          "jp": "装備することで精霊の加護スキルが\r\n発動するお守り。",
+          "ja": "装備することで精霊の加護スキルが\r\n発動するお守り。",
           "en": "A charm that grants\r\nthe Divine Blessing skill.",
           "fr": "Un talisman qui confère\r\nle talent Bénédiction.",
           "it": "Un amuleto che potenzia\r\nl'abilità Angelo custode.",
@@ -6028,7 +6028,7 @@
       },
       {
         "names": {
-          "jp": "加護の護石Ⅲ",
+          "ja": "加護の護石Ⅲ",
           "en": "Blessing Charm III",
           "fr": "Talisman de protection III",
           "it": "Amuleto angelo III",
@@ -6044,7 +6044,7 @@
           "es-419": "Amuleto bendición III"
         },
         "descriptions": {
-          "jp": "装備することで精霊の加護スキルが\r\n発動するお守り。",
+          "ja": "装備することで精霊の加護スキルが\r\n発動するお守り。",
           "en": "A charm that grants\r\nthe Divine Blessing skill.",
           "fr": "Un talisman qui confère\r\nle talent Bénédiction.",
           "it": "Un amuleto che potenzia\r\nl'abilità Angelo custode.",
@@ -6081,7 +6081,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐防の護石Ⅰ",
+          "ja": "耐防の護石Ⅰ",
           "en": "Guard Charm I",
           "fr": "Talisman de fer",
           "it": "Amuleto blocco I",
@@ -6097,7 +6097,7 @@
           "es-419": "Amuleto de guarda I"
         },
         "descriptions": {
-          "jp": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Iron\r\nSkin skill.",
           "fr": "Un talisman qui confère\r\nle talent Peau de fer.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pelle di ferro.",
@@ -6129,7 +6129,7 @@
       },
       {
         "names": {
-          "jp": "耐防の護石Ⅱ",
+          "ja": "耐防の護石Ⅱ",
           "en": "Guard Charm II",
           "fr": "Talisman de fer II",
           "it": "Amuleto blocco II",
@@ -6145,7 +6145,7 @@
           "es-419": "Amuleto de guarda II"
         },
         "descriptions": {
-          "jp": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Iron\r\nSkin skill.",
           "fr": "Un talisman qui confère\r\nle talent Peau de fer.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pelle di ferro.",
@@ -6177,7 +6177,7 @@
       },
       {
         "names": {
-          "jp": "耐防の護石Ⅲ",
+          "ja": "耐防の護石Ⅲ",
           "en": "Guard Charm III",
           "fr": "Talisman de fer III",
           "it": "Amuleto blocco III",
@@ -6193,7 +6193,7 @@
           "es-419": "Amuleto de guarda III"
         },
         "descriptions": {
-          "jp": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
+          "ja": "装備することで防御力ＤＯＷＮ耐性\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Iron\r\nSkin skill.",
           "fr": "Un talisman qui confère\r\nle talent Peau de fer.",
           "it": "Un amuleto che potenzia\r\nl'abilità Pelle di ferro.",
@@ -6230,7 +6230,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "急襲の護石Ⅰ",
+          "ja": "急襲の護石Ⅰ",
           "en": "Descent Charm I",
           "fr": "Talisman d'embuscade",
           "it": "Amuleto discesa I",
@@ -6246,7 +6246,7 @@
           "es-419": "Amuleto de descenso I"
         },
         "descriptions": {
-          "jp": "装備することで急襲スキルが\r\n発動するお守り。",
+          "ja": "装備することで急襲スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Ambush\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Embuscade.",
           "it": "Un amuleto che potenzia\r\nl'abilità Agguato.",
@@ -6278,7 +6278,7 @@
       },
       {
         "names": {
-          "jp": "急襲の護石Ⅱ",
+          "ja": "急襲の護石Ⅱ",
           "en": "Descent Charm II",
           "fr": "Talisman d'embuscade II",
           "it": "Amuleto discesa II",
@@ -6294,7 +6294,7 @@
           "es-419": "Amuleto de descenso II"
         },
         "descriptions": {
-          "jp": "装備することで急襲スキルが\r\n発動するお守り。",
+          "ja": "装備することで急襲スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Ambush\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Embuscade.",
           "it": "Un amuleto che potenzia\r\nl'abilità Agguato.",
@@ -6331,7 +6331,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "属吸の護石Ⅰ",
+          "ja": "属吸の護石Ⅰ",
           "en": "Imbibe Charm I",
           "fr": "Talisman d'absorption",
           "it": "Amuleto assorbimento I",
@@ -6347,7 +6347,7 @@
           "es-419": "Amuleto de bebida I"
         },
         "descriptions": {
-          "jp": "装備することで属性吸収スキルが\r\n発動するお守り。",
+          "ja": "装備することで属性吸収スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Elemental\r\nAbsorption skill.",
           "fr": "Un talisman qui confère\r\nle talent Absorption élémentaire.",
           "it": "Un amuleto che potenzia\r\nl'abilità Assorbi elementi.",
@@ -6384,7 +6384,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐拘の護石Ⅰ",
+          "ja": "耐拘の護石Ⅰ",
           "en": "Escape Charm I",
           "fr": "Talisman anti-immobilisation",
           "it": "Amuleto fuga I",
@@ -6400,7 +6400,7 @@
           "es-419": "Amuleto escape I"
         },
         "descriptions": {
-          "jp": "装備することで拘束耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで拘束耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBind Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Anti-immobilisation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza\r\nvincolo.",
@@ -6432,7 +6432,7 @@
       },
       {
         "names": {
-          "jp": "耐拘の護石Ⅱ",
+          "ja": "耐拘の護石Ⅱ",
           "en": "Escape Charm II",
           "fr": "Talisman anti-immobilisation II",
           "it": "Amuleto fuga II",
@@ -6448,7 +6448,7 @@
           "es-419": "Amuleto escape II"
         },
         "descriptions": {
-          "jp": "装備することで拘束耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで拘束耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBind Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Anti-immobilisation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza\r\nvincolo.",
@@ -6480,7 +6480,7 @@
       },
       {
         "names": {
-          "jp": "耐拘の護石Ⅲ",
+          "ja": "耐拘の護石Ⅲ",
           "en": "Escape Charm III",
           "fr": "Talisman anti-immobilisation III",
           "it": "Amuleto fuga III",
@@ -6496,7 +6496,7 @@
           "es-419": "Amuleto escape III"
         },
         "descriptions": {
-          "jp": "装備することで拘束耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで拘束耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBind Resistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Anti-immobilisation.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza\r\nvincolo.",
@@ -6533,7 +6533,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "早復の護石Ⅰ",
+          "ja": "早復の護石Ⅰ",
           "en": "Speed Heal Charm I",
           "fr": "Talisman de guérison",
           "it": "Amuleto guarigione I",
@@ -6549,7 +6549,7 @@
           "es-419": "Amuleto cura veloz I"
         },
         "descriptions": {
-          "jp": "装備することで回復速度スキルが\r\n発動するお守り。",
+          "ja": "装備することで回復速度スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Recovery\r\nSpeed skill.",
           "fr": "Un talisman qui confère\r\nle talent Halo de guérison.",
           "it": "Un amuleto che potenzia\r\nl'abilità Guarigione.",
@@ -6581,7 +6581,7 @@
       },
       {
         "names": {
-          "jp": "早復の護石Ⅱ",
+          "ja": "早復の護石Ⅱ",
           "en": "Speed Heal Charm II",
           "fr": "Talisman de guérison II",
           "it": "Amuleto guarigione II",
@@ -6597,7 +6597,7 @@
           "es-419": "Amuleto cura veloz II"
         },
         "descriptions": {
-          "jp": "装備することで回復速度スキルが\r\n発動するお守り。",
+          "ja": "装備することで回復速度スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Recovery\r\nSpeed skill.",
           "fr": "Un talisman qui confère\r\nle talent Halo de guérison.",
           "it": "Un amuleto che potenzia\r\nl'abilità Guarigione.",
@@ -6629,7 +6629,7 @@
       },
       {
         "names": {
-          "jp": "早復の護石Ⅲ",
+          "ja": "早復の護石Ⅲ",
           "en": "Speed Heal Charm III",
           "fr": "Talisman de guérison III",
           "it": "Amuleto guarigione III",
@@ -6645,7 +6645,7 @@
           "es-419": "Amuleto cura veloz III"
         },
         "descriptions": {
-          "jp": "装備することで回復速度スキルが\r\n発動するお守り。",
+          "ja": "装備することで回復速度スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Recovery\r\nSpeed skill.",
           "fr": "Un talisman qui confère\r\nle talent Halo de guérison.",
           "it": "Un amuleto che potenzia\r\nl'abilità Guarigione.",
@@ -6682,7 +6682,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "治癒の護石Ⅰ",
+          "ja": "治癒の護石Ⅰ",
           "en": "Recovery Charm I",
           "fr": "Talisman de récupération",
           "it": "Amuleto cura I",
@@ -6698,7 +6698,7 @@
           "es-419": "Amuleto recuperación I"
         },
         "descriptions": {
-          "jp": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Recovery\r\nUp skill.",
           "fr": "Un talisman qui confère\r\nle talent Cercle de vie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus cura.",
@@ -6730,7 +6730,7 @@
       },
       {
         "names": {
-          "jp": "治癒の護石Ⅱ",
+          "ja": "治癒の護石Ⅱ",
           "en": "Recovery Charm II",
           "fr": "Talisman de récupération II",
           "it": "Amuleto cura II",
@@ -6746,7 +6746,7 @@
           "es-419": "Amuleto recuperac. II"
         },
         "descriptions": {
-          "jp": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Recovery\r\nUp skill.",
           "fr": "Un talisman qui confère\r\nle talent Cercle de vie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus cura.",
@@ -6778,7 +6778,7 @@
       },
       {
         "names": {
-          "jp": "治癒の護石Ⅲ",
+          "ja": "治癒の護石Ⅲ",
           "en": "Recovery Charm III",
           "fr": "Talisman de récupération III",
           "it": "Amuleto cura III",
@@ -6794,7 +6794,7 @@
           "es-419": "Amuleto recuperac. III"
         },
         "descriptions": {
-          "jp": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
+          "ja": "装備することで体力回復量ＵＰ\r\nスキルが発動するお守り。",
           "en": "A charm that grants the Recovery\r\nUp skill.",
           "fr": "Un talisman qui confère\r\nle talent Cercle de vie.",
           "it": "Un amuleto che potenzia\r\nl'abilità Bonus cura.",
@@ -6831,7 +6831,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "体術の護石Ⅰ",
+          "ja": "体術の護石Ⅰ",
           "en": "Fitness Charm I",
           "fr": "Talisman de vitalité",
           "it": "Amuleto tonico I",
@@ -6847,7 +6847,7 @@
           "es-419": "Amuleto en forma I"
         },
         "descriptions": {
-          "jp": "装備することで体術スキルが\r\n発動するお守り。",
+          "ja": "装備することで体術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nConstitution skill.",
           "fr": "Un talisman qui confère\r\nle talent Athlète.",
           "it": "Un amuleto che potenzia\r\nl'abilità Atleta.",
@@ -6879,7 +6879,7 @@
       },
       {
         "names": {
-          "jp": "体術の護石Ⅱ",
+          "ja": "体術の護石Ⅱ",
           "en": "Fitness Charm II",
           "fr": "Talisman de vitalité II",
           "it": "Amuleto tonico II",
@@ -6895,7 +6895,7 @@
           "es-419": "Amuleto en forma II"
         },
         "descriptions": {
-          "jp": "装備することで体術スキルが\r\n発動するお守り。",
+          "ja": "装備することで体術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nConstitution skill.",
           "fr": "Un talisman qui confère\r\nle talent Athlète.",
           "it": "Un amuleto che potenzia\r\nl'abilità Atleta.",
@@ -6927,7 +6927,7 @@
       },
       {
         "names": {
-          "jp": "体術の護石Ⅲ",
+          "ja": "体術の護石Ⅲ",
           "en": "Fitness Charm III",
           "fr": "Talisman de vitalité III",
           "it": "Amuleto tonico III",
@@ -6943,7 +6943,7 @@
           "es-419": "Amuleto en forma III"
         },
         "descriptions": {
-          "jp": "装備することで体術スキルが\r\n発動するお守り。",
+          "ja": "装備することで体術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nConstitution skill.",
           "fr": "Un talisman qui confère\r\nle talent Athlète.",
           "it": "Un amuleto che potenzia\r\nl'abilità Atleta.",
@@ -6975,7 +6975,7 @@
       },
       {
         "names": {
-          "jp": "体術の護石Ⅳ",
+          "ja": "体術の護石Ⅳ",
           "en": "Fitness Charm IV",
           "fr": "Talisman de vitalité IV",
           "it": "Amuleto tonico IV",
@@ -6991,7 +6991,7 @@
           "es-419": "Amuleto en forma IV"
         },
         "descriptions": {
-          "jp": "装備することで体術スキルが\r\n発動するお守り。",
+          "ja": "装備することで体術スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nConstitution skill.",
           "fr": "Un talisman qui confère\r\nle talent Athlète.",
           "it": "Un amuleto che potenzia\r\nl'abilità Atleta.",
@@ -7028,7 +7028,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "逆上の護石Ⅰ",
+          "ja": "逆上の護石Ⅰ",
           "en": "Fury Charm I",
           "fr": "Talisman de fureur",
           "it": "Amuleto furia I",
@@ -7044,7 +7044,7 @@
           "es-419": "Amuleto de furia I"
         },
         "descriptions": {
-          "jp": "装備することで逆恨みスキルが\r\n発動するお守り。",
+          "ja": "装備することで逆恨みスキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nResentment skill.",
           "fr": "Un talisman qui confère\r\nle talent Vengeance.",
           "it": "Un amuleto che potenzia\r\nl'abilità Risentimento.",
@@ -7076,7 +7076,7 @@
       },
       {
         "names": {
-          "jp": "逆上の護石Ⅱ",
+          "ja": "逆上の護石Ⅱ",
           "en": "Fury Charm II",
           "fr": "Talisman de fureur II",
           "it": "Amuleto furia II",
@@ -7092,7 +7092,7 @@
           "es-419": "Amuleto de furia II"
         },
         "descriptions": {
-          "jp": "装備することで逆恨みスキルが\r\n発動するお守り。",
+          "ja": "装備することで逆恨みスキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nResentment skill.",
           "fr": "Un talisman qui confère\r\nle talent Vengeance.",
           "it": "Un amuleto che potenzia\r\nl'abilità Risentimento.",
@@ -7129,7 +7129,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "地学の護石Ⅰ",
+          "ja": "地学の護石Ⅰ",
           "en": "Geology Charm I",
           "fr": "Talisman de collecte",
           "it": "Amuleto geologia I",
@@ -7145,7 +7145,7 @@
           "es-419": "Amuleto de geología I"
         },
         "descriptions": {
-          "jp": "装備することで地質学スキルが\r\n発動するお守り。",
+          "ja": "装備することで地質学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nGeologist skill.",
           "fr": "Un talisman qui confère\r\nle talent Géologiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Geologo.",
@@ -7177,7 +7177,7 @@
       },
       {
         "names": {
-          "jp": "地学の護石Ⅱ",
+          "ja": "地学の護石Ⅱ",
           "en": "Geology Charm II",
           "fr": "Talisman de collecte II",
           "it": "Amuleto geologia II",
@@ -7193,7 +7193,7 @@
           "es-419": "Amuleto de geología II"
         },
         "descriptions": {
-          "jp": "装備することで地質学スキルが\r\n発動するお守り。",
+          "ja": "装備することで地質学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nGeologist skill.",
           "fr": "Un talisman qui confère\r\nle talent Géologiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Geologo.",
@@ -7225,7 +7225,7 @@
       },
       {
         "names": {
-          "jp": "地学の護石Ⅲ",
+          "ja": "地学の護石Ⅲ",
           "en": "Geology Charm III",
           "fr": "Talisman de collecte III",
           "it": "Amuleto geologia III",
@@ -7241,7 +7241,7 @@
           "es-419": "Amuleto de geología III"
         },
         "descriptions": {
-          "jp": "装備することで地質学スキルが\r\n発動するお守り。",
+          "ja": "装備することで地質学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nGeologist skill.",
           "fr": "Un talisman qui confère\r\nle talent Géologiste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Geologo.",
@@ -7278,7 +7278,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "植学の護石Ⅰ",
+          "ja": "植学の護石Ⅰ",
           "en": "Botany Charm I",
           "fr": "Talisman de botanique",
           "it": "Amuleto botanica I",
@@ -7294,7 +7294,7 @@
           "es-419": "Amuleto botánica I"
         },
         "descriptions": {
-          "jp": "装備することで植生学スキルが\r\n発動するお守り。",
+          "ja": "装備することで植生学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Botanist\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Botaniste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Botanico.",
@@ -7326,7 +7326,7 @@
       },
       {
         "names": {
-          "jp": "植学の護石Ⅱ",
+          "ja": "植学の護石Ⅱ",
           "en": "Botany Charm II",
           "fr": "Talisman de botanique II",
           "it": "Amuleto botanica II",
@@ -7342,7 +7342,7 @@
           "es-419": "Amuleto botánica II"
         },
         "descriptions": {
-          "jp": "装備することで植生学スキルが\r\n発動するお守り。",
+          "ja": "装備することで植生学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Botanist\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Botaniste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Botanico.",
@@ -7374,7 +7374,7 @@
       },
       {
         "names": {
-          "jp": "植学の護石Ⅲ",
+          "ja": "植学の護石Ⅲ",
           "en": "Botany Charm III",
           "fr": "Talisman de botanique III",
           "it": "Amuleto botanica III",
@@ -7390,7 +7390,7 @@
           "es-419": "Amuleto botánica III"
         },
         "descriptions": {
-          "jp": "装備することで植生学スキルが\r\n発動するお守り。",
+          "ja": "装備することで植生学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Botanist\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Botaniste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Botanico.",
@@ -7422,7 +7422,7 @@
       },
       {
         "names": {
-          "jp": "植学の護石Ⅳ",
+          "ja": "植学の護石Ⅳ",
           "en": "Botany Charm IV",
           "fr": "Talisman de botanique IV",
           "it": "Amuleto botanica IV",
@@ -7438,7 +7438,7 @@
           "es-419": "Amuleto botánica IV"
         },
         "descriptions": {
-          "jp": "装備することで植生学スキルが\r\n発動するお守り。",
+          "ja": "装備することで植生学スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Botanist\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Botaniste.",
           "it": "Un amuleto che potenzia\r\nl'abilità Botanico.",
@@ -7475,7 +7475,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "耐龍の護石Ⅰ",
+          "ja": "耐龍の護石Ⅰ",
           "en": "Dragon Charm I",
           "fr": "Talisman draconique",
           "it": "Amuleto drago I",
@@ -7491,7 +7491,7 @@
           "es-419": "Amuleto de draco I"
         },
         "descriptions": {
-          "jp": "装備することで龍耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで龍耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Dragon\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Aura draconique.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza drago.",
@@ -7523,7 +7523,7 @@
       },
       {
         "names": {
-          "jp": "耐龍の護石Ⅱ",
+          "ja": "耐龍の護石Ⅱ",
           "en": "Dragon Charm II",
           "fr": "Talisman draconique II",
           "it": "Amuleto drago II",
@@ -7539,7 +7539,7 @@
           "es-419": "Amuleto de draco II"
         },
         "descriptions": {
-          "jp": "装備することで龍耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで龍耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Dragon\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Aura draconique.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza drago.",
@@ -7571,7 +7571,7 @@
       },
       {
         "names": {
-          "jp": "耐龍の護石Ⅲ",
+          "ja": "耐龍の護石Ⅲ",
           "en": "Dragon Charm III",
           "fr": "Talisman draconique III",
           "it": "Amuleto drago III",
@@ -7587,7 +7587,7 @@
           "es-419": "Amuleto de draco III"
         },
         "descriptions": {
-          "jp": "装備することで龍耐性スキルが\r\n発動するお守り。",
+          "ja": "装備することで龍耐性スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Dragon\r\nResistance skill.",
           "fr": "Un talisman qui confère\r\nle talent Aura draconique.",
           "it": "Un amuleto che potenzia\r\nl'abilità Resistenza drago.",
@@ -7624,7 +7624,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "痛撃の護石Ⅰ",
+          "ja": "痛撃の護石Ⅰ",
           "en": "Exploiter Charm I",
           "fr": "Talisman de cruauté",
           "it": "Amuleto abuso I",
@@ -7640,7 +7640,7 @@
           "es-419": "Amuleto provechoso I"
         },
         "descriptions": {
-          "jp": "装備することで弱点特効スキルが\r\n発動するお守り。",
+          "ja": "装備することで弱点特効スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Weakness\r\nExploit skill.",
           "fr": "Un talisman qui confère\r\nle talent Mise à mort.",
           "it": "Un amuleto che potenzia\r\nl'abilità Punto debole.",
@@ -7672,7 +7672,7 @@
       },
       {
         "names": {
-          "jp": "痛撃の護石Ⅱ",
+          "ja": "痛撃の護石Ⅱ",
           "en": "Exploiter Charm II",
           "fr": "Talisman de cruauté II",
           "it": "Amuleto abuso II",
@@ -7688,7 +7688,7 @@
           "es-419": "Amuleto provechoso II"
         },
         "descriptions": {
-          "jp": "装備することで弱点特効スキルが\r\n発動するお守り。",
+          "ja": "装備することで弱点特効スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Weakness\r\nExploit skill.",
           "fr": "Un talisman qui confère\r\nle talent Mise à mort.",
           "it": "Un amuleto che potenzia\r\nl'abilità Punto debole.",
@@ -7725,7 +7725,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "攻勢の護石Ⅰ",
+          "ja": "攻勢の護石Ⅰ",
           "en": "Foray Charm I",
           "fr": "Talisman de fourberie",
           "it": "Amuleto incursione I",
@@ -7741,7 +7741,7 @@
           "es-419": "Amuleto de irrupción I"
         },
         "descriptions": {
-          "jp": "装備することで攻勢スキルが\r\n発動するお守り。",
+          "ja": "装備することで攻勢スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Foray\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Incursion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Incursione.",
@@ -7773,7 +7773,7 @@
       },
       {
         "names": {
-          "jp": "攻勢の護石Ⅱ",
+          "ja": "攻勢の護石Ⅱ",
           "en": "Foray Charm II",
           "fr": "Talisman de fourberie II",
           "it": "Amuleto incursione II",
@@ -7789,7 +7789,7 @@
           "es-419": "Amuleto de irrupción II"
         },
         "descriptions": {
-          "jp": "装備することで攻勢スキルが\r\n発動するお守り。",
+          "ja": "装備することで攻勢スキルが\r\n発動するお守り。",
           "en": "A charm that grants the Foray\r\nskill.",
           "fr": "Un talisman qui confère\r\nle talent Incursion.",
           "it": "Un amuleto che potenzia\r\nl'abilità Incursione.",
@@ -7826,7 +7826,7 @@
     "ranks": [
       {
         "names": {
-          "jp": "連撃の護石Ⅰ",
+          "ja": "連撃の護石Ⅰ",
           "en": "Chain Charm I",
           "fr": "Talisman d'acharnement",
           "it": "Amuleto catena I",
@@ -7842,7 +7842,7 @@
           "es-419": "Amuleto de cadena I"
         },
         "descriptions": {
-          "jp": "装備することで連撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで連撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBurst skill.",
           "fr": "Un talisman qui confère\r\nle talent Vendetta.",
           "it": "Un amuleto che potenzia\r\nl'abilità Catena.",
@@ -7874,7 +7874,7 @@
       },
       {
         "names": {
-          "jp": "連撃の護石Ⅱ",
+          "ja": "連撃の護石Ⅱ",
           "en": "Chain Charm II",
           "fr": "Talisman d'acharnement II",
           "it": "Amuleto catena II",
@@ -7890,7 +7890,7 @@
           "es-419": "Amuleto de cadena II"
         },
         "descriptions": {
-          "jp": "装備することで連撃スキルが\r\n発動するお守り。",
+          "ja": "装備することで連撃スキルが\r\n発動するお守り。",
           "en": "A charm that grants the\r\nBurst skill.",
           "fr": "Un talisman qui confère\r\nle talent Vendetta.",
           "it": "Un amuleto che potenzia\r\nl'abilità Catena.",
