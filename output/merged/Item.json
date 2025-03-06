@@ -44,7 +44,8 @@
           26
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 3,
@@ -92,7 +93,8 @@
           28
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 4,
@@ -139,7 +141,8 @@
           27
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 5,
@@ -187,7 +190,8 @@
           634
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 6,
@@ -235,7 +239,8 @@
           439
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 7,
@@ -275,7 +280,8 @@
     "max_count": 10,
     "sell_price": 120,
     "buy_price": 1200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 8,
@@ -315,7 +321,8 @@
     "max_count": 10,
     "sell_price": 3,
     "buy_price": 30,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 9,
@@ -355,7 +362,8 @@
     "max_count": 5,
     "sell_price": 48,
     "buy_price": 96,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 10,
@@ -395,7 +403,8 @@
     "max_count": 10,
     "sell_price": 3,
     "buy_price": 30,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 11,
@@ -435,7 +444,8 @@
     "max_count": 10,
     "sell_price": 1,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 12,
@@ -483,7 +493,8 @@
           67
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 13,
@@ -523,7 +534,8 @@
     "max_count": 10,
     "sell_price": 5,
     "buy_price": 50,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 14,
@@ -571,7 +583,8 @@
           636
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 15,
@@ -619,7 +632,8 @@
           637
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 16,
@@ -666,7 +680,8 @@
           30
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 17,
@@ -706,7 +721,8 @@
     "max_count": 20,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 18,
@@ -746,7 +762,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 19,
@@ -794,7 +811,8 @@
           639
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 20,
@@ -842,7 +860,8 @@
           73
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 21,
@@ -882,7 +901,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 23,
@@ -922,7 +942,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 24,
@@ -962,7 +983,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 25,
@@ -1002,7 +1024,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 26,
@@ -1042,7 +1065,8 @@
     "max_count": 10,
     "sell_price": 2,
     "buy_price": 20,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 27,
@@ -1082,7 +1106,8 @@
     "max_count": 10,
     "sell_price": 2,
     "buy_price": 20,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 28,
@@ -1122,7 +1147,8 @@
     "max_count": 10,
     "sell_price": 45,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 29,
@@ -1162,7 +1188,8 @@
     "max_count": 10,
     "sell_price": 2,
     "buy_price": 20,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 30,
@@ -1202,7 +1229,8 @@
     "max_count": 10,
     "sell_price": 48,
     "buy_price": 96,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 31,
@@ -1242,7 +1270,8 @@
     "max_count": 10,
     "sell_price": 120,
     "buy_price": 320,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 32,
@@ -1282,7 +1311,8 @@
     "max_count": 10,
     "sell_price": 80,
     "buy_price": 300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 33,
@@ -1322,7 +1352,8 @@
     "max_count": 99,
     "sell_price": 570,
     "buy_price": 5700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 34,
@@ -1362,7 +1393,8 @@
     "max_count": 99,
     "sell_price": 380,
     "buy_price": 3800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 35,
@@ -1402,7 +1434,8 @@
     "max_count": 99,
     "sell_price": 684,
     "buy_price": 6840,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 36,
@@ -1442,7 +1475,8 @@
     "max_count": 99,
     "sell_price": 836,
     "buy_price": 8360,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 37,
@@ -1482,7 +1516,8 @@
     "max_count": 10,
     "sell_price": 4000,
     "buy_price": 40000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 38,
@@ -1522,7 +1557,8 @@
     "max_count": 99,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 39,
@@ -1562,7 +1598,8 @@
     "max_count": 99,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 40,
@@ -1602,7 +1639,8 @@
     "max_count": 99,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 41,
@@ -1656,7 +1694,8 @@
           642
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 42,
@@ -1703,7 +1742,8 @@
           291
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 43,
@@ -1751,7 +1791,8 @@
           116
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 44,
@@ -1799,7 +1840,8 @@
           117
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 45,
@@ -1847,7 +1889,8 @@
           38
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 46,
@@ -1895,7 +1938,8 @@
           118
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 47,
@@ -1943,7 +1987,8 @@
           119
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 48,
@@ -1991,7 +2036,8 @@
           113
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 49,
@@ -2039,7 +2085,8 @@
           114
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 50,
@@ -2087,7 +2134,8 @@
           115
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 51,
@@ -2141,7 +2189,8 @@
           641
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 52,
@@ -2181,7 +2230,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 53,
@@ -2221,7 +2271,8 @@
     "max_count": 10,
     "sell_price": 60,
     "buy_price": 600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 54,
@@ -2261,7 +2312,8 @@
     "max_count": 10,
     "sell_price": 160,
     "buy_price": 1600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 55,
@@ -2301,7 +2353,8 @@
     "max_count": 10,
     "sell_price": 480,
     "buy_price": 4800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 56,
@@ -2341,7 +2394,8 @@
     "max_count": 10,
     "sell_price": 680,
     "buy_price": 6800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 57,
@@ -2381,7 +2435,8 @@
     "max_count": 99,
     "sell_price": 80,
     "buy_price": 800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 58,
@@ -2421,7 +2476,8 @@
     "max_count": 99,
     "sell_price": 1,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 59,
@@ -2461,7 +2517,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 60,
@@ -2501,7 +2558,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 61,
@@ -2541,7 +2599,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 62,
@@ -2581,7 +2640,8 @@
     "max_count": 99,
     "sell_price": 1600,
     "buy_price": 16000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 66,
@@ -2621,7 +2681,8 @@
     "max_count": 10,
     "sell_price": 40,
     "buy_price": 400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 67,
@@ -2661,7 +2722,8 @@
     "max_count": 10,
     "sell_price": 2,
     "buy_price": 24,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 69,
@@ -2701,7 +2763,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 70,
@@ -2741,7 +2804,8 @@
     "max_count": 3,
     "sell_price": 45,
     "buy_price": 450,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 71,
@@ -2781,7 +2845,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 72,
@@ -2834,7 +2899,8 @@
           101
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 73,
@@ -2874,7 +2940,8 @@
     "max_count": 2,
     "sell_price": 20,
     "buy_price": 200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 74,
@@ -2914,7 +2981,8 @@
     "max_count": 10,
     "sell_price": 18,
     "buy_price": 180,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 75,
@@ -2954,7 +3022,8 @@
     "max_count": 10,
     "sell_price": 4,
     "buy_price": 44,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 76,
@@ -2994,7 +3063,8 @@
     "max_count": 10,
     "sell_price": 8,
     "buy_price": 75,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 77,
@@ -3042,7 +3112,8 @@
           75
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 80,
@@ -3082,7 +3153,8 @@
     "max_count": 99,
     "sell_price": 480,
     "buy_price": 4800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 81,
@@ -3122,7 +3194,8 @@
     "max_count": 99,
     "sell_price": 320,
     "buy_price": 3200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 82,
@@ -3162,7 +3235,8 @@
     "max_count": 99,
     "sell_price": 576,
     "buy_price": 5760,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 83,
@@ -3202,7 +3276,8 @@
     "max_count": 99,
     "sell_price": 640,
     "buy_price": 6400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 84,
@@ -3242,7 +3317,8 @@
     "max_count": 10,
     "sell_price": 360,
     "buy_price": 3600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 85,
@@ -3282,7 +3358,8 @@
     "max_count": 10,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 86,
@@ -3322,7 +3399,8 @@
     "max_count": 10,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 87,
@@ -3362,7 +3440,8 @@
     "max_count": 10,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 88,
@@ -3402,7 +3481,8 @@
     "max_count": 10,
     "sell_price": 220,
     "buy_price": 2200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 89,
@@ -3442,7 +3522,8 @@
     "max_count": 10,
     "sell_price": 330,
     "buy_price": 3300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 90,
@@ -3482,7 +3563,8 @@
     "max_count": 10,
     "sell_price": 484,
     "buy_price": 4840,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 91,
@@ -3522,7 +3604,8 @@
     "max_count": 10,
     "sell_price": 440,
     "buy_price": 4400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 92,
@@ -3562,7 +3645,8 @@
     "max_count": 10,
     "sell_price": 4000,
     "buy_price": 40000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 93,
@@ -3602,7 +3686,8 @@
     "max_count": 10,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 94,
@@ -3642,7 +3727,8 @@
     "max_count": 10,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 95,
@@ -3682,7 +3768,8 @@
     "max_count": 10,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 96,
@@ -3722,7 +3809,8 @@
     "max_count": 10,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 97,
@@ -3762,7 +3850,8 @@
     "max_count": 10,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 98,
@@ -3802,7 +3891,8 @@
     "max_count": 10,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 99,
@@ -3842,7 +3932,8 @@
     "max_count": 10,
     "sell_price": 1,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 101,
@@ -3882,7 +3973,8 @@
     "max_count": 10,
     "sell_price": 10,
     "buy_price": 100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 102,
@@ -3922,7 +4014,8 @@
     "max_count": 10,
     "sell_price": 1200,
     "buy_price": 12000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 103,
@@ -3962,7 +4055,8 @@
     "max_count": 10,
     "sell_price": 1800,
     "buy_price": 18000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 104,
@@ -4002,7 +4096,8 @@
     "max_count": 10,
     "sell_price": 2160,
     "buy_price": 21600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 105,
@@ -4042,7 +4137,8 @@
     "max_count": 10,
     "sell_price": 2400,
     "buy_price": 24000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 106,
@@ -4082,7 +4178,8 @@
     "max_count": 10,
     "sell_price": 7200,
     "buy_price": 72000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 113,
@@ -4122,7 +4219,8 @@
     "max_count": 10,
     "sell_price": 8,
     "buy_price": 75,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 114,
@@ -4162,7 +4260,8 @@
     "max_count": 10,
     "sell_price": 15,
     "buy_price": 150,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 115,
@@ -4202,7 +4301,8 @@
     "max_count": 10,
     "sell_price": 5,
     "buy_price": 50,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 116,
@@ -4242,7 +4342,8 @@
     "max_count": 20,
     "sell_price": 4,
     "buy_price": 44,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 117,
@@ -4282,7 +4383,8 @@
     "max_count": 20,
     "sell_price": 4,
     "buy_price": 44,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 118,
@@ -4322,7 +4424,8 @@
     "max_count": 20,
     "sell_price": 6,
     "buy_price": 64,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 119,
@@ -4362,7 +4465,8 @@
     "max_count": 10,
     "sell_price": 78,
     "buy_price": 780,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 120,
@@ -4402,7 +4506,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 121,
@@ -4442,7 +4547,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 122,
@@ -4482,7 +4588,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 123,
@@ -4522,7 +4629,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 124,
@@ -4562,7 +4670,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 125,
@@ -4602,7 +4711,8 @@
     "max_count": 10,
     "sell_price": 40,
     "buy_price": 400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 126,
@@ -4642,7 +4752,8 @@
     "max_count": 10,
     "sell_price": 140,
     "buy_price": 280,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 127,
@@ -4682,7 +4793,8 @@
     "max_count": 10,
     "sell_price": 110,
     "buy_price": 220,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 128,
@@ -4722,7 +4834,8 @@
     "max_count": 20,
     "sell_price": 6,
     "buy_price": 60,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 129,
@@ -4762,7 +4875,8 @@
     "max_count": 10,
     "sell_price": 60,
     "buy_price": 600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 130,
@@ -4802,7 +4916,8 @@
     "max_count": 30,
     "sell_price": 4,
     "buy_price": 40,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 131,
@@ -4842,7 +4957,8 @@
     "max_count": 30,
     "sell_price": 4,
     "buy_price": 40,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 139,
@@ -4882,7 +4998,8 @@
     "max_count": 99,
     "sell_price": 620,
     "buy_price": 6200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 140,
@@ -4922,7 +5039,8 @@
     "max_count": 99,
     "sell_price": 930,
     "buy_price": 9300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 141,
@@ -4962,7 +5080,8 @@
     "max_count": 99,
     "sell_price": 1364,
     "buy_price": 13640,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 142,
@@ -5002,7 +5121,8 @@
     "max_count": 99,
     "sell_price": 1116,
     "buy_price": 11160,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 143,
@@ -5042,7 +5162,8 @@
     "max_count": 99,
     "sell_price": 1240,
     "buy_price": 12400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 144,
@@ -5082,7 +5203,8 @@
     "max_count": 99,
     "sell_price": 3720,
     "buy_price": 37200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 145,
@@ -5130,7 +5252,8 @@
           182
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 151,
@@ -5178,7 +5301,8 @@
           76
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 152,
@@ -5218,7 +5342,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 153,
@@ -5258,7 +5383,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 154,
@@ -5305,7 +5431,8 @@
           290
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 155,
@@ -5345,7 +5472,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 156,
@@ -5385,7 +5513,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 157,
@@ -5425,7 +5554,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 158,
@@ -5465,7 +5595,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 159,
@@ -5505,7 +5636,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 160,
@@ -5545,7 +5677,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 161,
@@ -5585,7 +5718,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 162,
@@ -5625,7 +5759,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 163,
@@ -5673,7 +5808,8 @@
           128
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 164,
@@ -5721,7 +5857,8 @@
           634
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 165,
@@ -5769,7 +5906,8 @@
           66
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 166,
@@ -5816,7 +5954,8 @@
           477
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 167,
@@ -5863,7 +6002,8 @@
           478
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 168,
@@ -5911,7 +6051,8 @@
           634
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 169,
@@ -5959,7 +6100,8 @@
           165
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 170,
@@ -6007,7 +6149,8 @@
           439
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 171,
@@ -6055,7 +6198,8 @@
           634
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 172,
@@ -6103,7 +6247,8 @@
           165
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 173,
@@ -6151,7 +6296,8 @@
           439
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 174,
@@ -6199,7 +6345,8 @@
           67
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 175,
@@ -6247,7 +6394,8 @@
           174
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 176,
@@ -6295,7 +6443,8 @@
           126
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 177,
@@ -6343,7 +6492,8 @@
           127
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 178,
@@ -6391,7 +6541,8 @@
           125
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 179,
@@ -6439,7 +6590,8 @@
           116
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 180,
@@ -6487,7 +6639,8 @@
           113
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 181,
@@ -6535,7 +6688,8 @@
           115
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 182,
@@ -6575,7 +6729,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 183,
@@ -6615,7 +6770,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 184,
@@ -6655,7 +6811,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 186,
@@ -6703,7 +6860,8 @@
           115
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 188,
@@ -6743,7 +6901,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 189,
@@ -6783,7 +6942,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 190,
@@ -6823,7 +6983,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 191,
@@ -6863,7 +7024,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 192,
@@ -6903,7 +7065,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 195,
@@ -6943,7 +7106,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 196,
@@ -6991,7 +7155,8 @@
           74
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 197,
@@ -7046,7 +7211,8 @@
           640
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 198,
@@ -7094,7 +7260,8 @@
           120
         ]
       }
-    ]
+    ],
+    "unknown_out_box": true
   },
   {
     "game_id": 199,
@@ -7134,7 +7301,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 200,
@@ -7174,7 +7342,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 201,
@@ -7214,7 +7383,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 202,
@@ -7254,7 +7424,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 203,
@@ -7294,7 +7465,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 204,
@@ -7334,7 +7506,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 205,
@@ -7374,7 +7547,8 @@
     "max_count": 8,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 206,
@@ -7414,7 +7588,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 207,
@@ -7454,7 +7629,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 208,
@@ -7502,7 +7678,8 @@
           114
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 209,
@@ -7542,7 +7719,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 210,
@@ -7582,7 +7760,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 211,
@@ -7630,7 +7809,8 @@
           113
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 212,
@@ -7678,7 +7858,8 @@
           75
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 213,
@@ -7718,7 +7899,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 214,
@@ -7758,7 +7940,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 215,
@@ -7798,7 +7981,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 216,
@@ -7838,7 +8022,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 217,
@@ -7878,7 +8063,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 218,
@@ -7918,7 +8104,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 219,
@@ -7958,7 +8145,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 220,
@@ -7998,7 +8186,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 221,
@@ -8038,7 +8227,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 222,
@@ -8078,7 +8268,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 223,
@@ -8118,7 +8309,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 224,
@@ -8158,7 +8350,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 225,
@@ -8198,7 +8391,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 226,
@@ -8238,7 +8432,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 227,
@@ -8278,7 +8473,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 228,
@@ -8318,7 +8514,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 229,
@@ -8358,7 +8555,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 230,
@@ -8398,7 +8596,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 231,
@@ -8438,7 +8637,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 232,
@@ -8478,7 +8678,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 233,
@@ -8518,7 +8719,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 234,
@@ -8558,7 +8760,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 235,
@@ -8598,7 +8801,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 236,
@@ -8638,7 +8842,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 237,
@@ -8678,7 +8883,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 238,
@@ -8718,7 +8924,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 239,
@@ -8758,7 +8965,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 240,
@@ -8798,7 +9006,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 241,
@@ -8838,7 +9047,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 242,
@@ -8878,7 +9088,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 243,
@@ -8918,7 +9129,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 244,
@@ -8958,7 +9170,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 245,
@@ -8998,7 +9211,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 246,
@@ -9038,7 +9252,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 247,
@@ -9078,7 +9293,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 248,
@@ -9118,7 +9334,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 249,
@@ -9158,7 +9375,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 250,
@@ -9198,7 +9416,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 251,
@@ -9238,7 +9457,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 252,
@@ -9278,7 +9498,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 253,
@@ -9318,7 +9539,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 254,
@@ -9358,7 +9580,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 255,
@@ -9398,7 +9621,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 256,
@@ -9438,7 +9662,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 257,
@@ -9478,7 +9703,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 258,
@@ -9518,7 +9744,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 259,
@@ -9558,7 +9785,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 260,
@@ -9598,7 +9826,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 261,
@@ -9638,7 +9867,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 262,
@@ -9678,7 +9908,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 263,
@@ -9718,7 +9949,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 264,
@@ -9758,7 +9990,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 265,
@@ -9798,7 +10031,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 266,
@@ -9838,7 +10072,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 267,
@@ -9878,7 +10113,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 3,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 268,
@@ -9918,7 +10154,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 5,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 269,
@@ -9958,7 +10195,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 270,
@@ -9998,7 +10236,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 271,
@@ -10038,7 +10277,8 @@
     "max_count": 10,
     "sell_price": 45,
     "buy_price": 135,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 272,
@@ -10078,7 +10318,8 @@
     "max_count": 10,
     "sell_price": 45,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 273,
@@ -10118,7 +10359,8 @@
     "max_count": 99,
     "sell_price": 375,
     "buy_price": 3750,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 274,
@@ -10158,7 +10400,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 275,
@@ -10198,7 +10441,8 @@
     "max_count": 99,
     "sell_price": 550,
     "buy_price": 5500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 276,
@@ -10238,7 +10482,8 @@
     "max_count": 99,
     "sell_price": 250,
     "buy_price": 2500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 277,
@@ -10278,7 +10523,8 @@
     "max_count": 99,
     "sell_price": 250,
     "buy_price": 2500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 278,
@@ -10318,7 +10564,8 @@
     "max_count": 6,
     "sell_price": 1,
     "buy_price": 1,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 281,
@@ -10358,7 +10605,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 282,
@@ -10398,7 +10646,8 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 285,
@@ -10438,7 +10687,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 286,
@@ -10478,7 +10728,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 287,
@@ -10518,7 +10769,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 288,
@@ -10558,7 +10810,8 @@
     "max_count": 3,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 289,
@@ -10598,7 +10851,8 @@
     "max_count": 5,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 290,
@@ -10638,7 +10892,8 @@
     "max_count": 5,
     "sell_price": 12,
     "buy_price": 60,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 291,
@@ -10678,7 +10933,8 @@
     "max_count": 10,
     "sell_price": 12,
     "buy_price": 60,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 292,
@@ -10718,7 +10974,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 293,
@@ -10758,7 +11015,8 @@
     "max_count": 99,
     "sell_price": 850,
     "buy_price": 8500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 294,
@@ -10798,7 +11056,8 @@
     "max_count": 99,
     "sell_price": 1530,
     "buy_price": 15300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 295,
@@ -10838,7 +11097,8 @@
     "max_count": 99,
     "sell_price": 1275,
     "buy_price": 12750,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 296,
@@ -10878,7 +11138,8 @@
     "max_count": 99,
     "sell_price": 1700,
     "buy_price": 17000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 297,
@@ -10918,7 +11179,8 @@
     "max_count": 99,
     "sell_price": 850,
     "buy_price": 8500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 298,
@@ -10958,7 +11220,8 @@
     "max_count": 99,
     "sell_price": 1820,
     "buy_price": 18200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 299,
@@ -10998,7 +11261,8 @@
     "max_count": 99,
     "sell_price": 396,
     "buy_price": 3960,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 300,
@@ -11038,7 +11302,8 @@
     "max_count": 99,
     "sell_price": 220,
     "buy_price": 2200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 301,
@@ -11078,7 +11343,8 @@
     "max_count": 99,
     "sell_price": 870,
     "buy_price": 8700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 302,
@@ -11118,7 +11384,8 @@
     "max_count": 99,
     "sell_price": 1305,
     "buy_price": 13050,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 303,
@@ -11158,7 +11425,8 @@
     "max_count": 99,
     "sell_price": 1566,
     "buy_price": 15660,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 304,
@@ -11198,7 +11466,8 @@
     "max_count": 99,
     "sell_price": 1914,
     "buy_price": 19140,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 305,
@@ -11238,7 +11507,8 @@
     "max_count": 99,
     "sell_price": 870,
     "buy_price": 8700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 306,
@@ -11278,7 +11548,8 @@
     "max_count": 99,
     "sell_price": 900,
     "buy_price": 9000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 307,
@@ -11318,7 +11589,8 @@
     "max_count": 99,
     "sell_price": 1350,
     "buy_price": 13500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 308,
@@ -11358,7 +11630,8 @@
     "max_count": 99,
     "sell_price": 1620,
     "buy_price": 16200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 309,
@@ -11398,7 +11671,8 @@
     "max_count": 99,
     "sell_price": 1800,
     "buy_price": 18000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 310,
@@ -11438,7 +11712,8 @@
     "max_count": 99,
     "sell_price": 900,
     "buy_price": 9000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 311,
@@ -11478,7 +11753,8 @@
     "max_count": 99,
     "sell_price": 320,
     "buy_price": 3200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 312,
@@ -11518,7 +11794,8 @@
     "max_count": 99,
     "sell_price": 1020,
     "buy_price": 10200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 313,
@@ -11558,7 +11835,8 @@
     "max_count": 99,
     "sell_price": 1530,
     "buy_price": 15300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 314,
@@ -11598,7 +11876,8 @@
     "max_count": 99,
     "sell_price": 1836,
     "buy_price": 18360,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 315,
@@ -11638,7 +11917,8 @@
     "max_count": 99,
     "sell_price": 1020,
     "buy_price": 10200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 316,
@@ -11678,7 +11958,8 @@
     "max_count": 99,
     "sell_price": 380,
     "buy_price": 3800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 317,
@@ -11718,7 +11999,8 @@
     "max_count": 99,
     "sell_price": 1300,
     "buy_price": 13000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 318,
@@ -11758,7 +12040,8 @@
     "max_count": 99,
     "sell_price": 1950,
     "buy_price": 19500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 319,
@@ -11798,7 +12081,8 @@
     "max_count": 99,
     "sell_price": 2340,
     "buy_price": 23400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 320,
@@ -11838,7 +12122,8 @@
     "max_count": 99,
     "sell_price": 2860,
     "buy_price": 28600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 321,
@@ -11878,7 +12163,8 @@
     "max_count": 99,
     "sell_price": 1300,
     "buy_price": 13000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 322,
@@ -11918,7 +12204,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 323,
@@ -11958,7 +12245,8 @@
     "max_count": 99,
     "sell_price": 900,
     "buy_price": 9000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 324,
@@ -11998,7 +12286,8 @@
     "max_count": 99,
     "sell_price": 1080,
     "buy_price": 10800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 325,
@@ -12038,7 +12327,8 @@
     "max_count": 99,
     "sell_price": 1200,
     "buy_price": 12000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 326,
@@ -12078,7 +12368,8 @@
     "max_count": 99,
     "sell_price": 1200,
     "buy_price": 12000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 327,
@@ -12118,7 +12409,8 @@
     "max_count": 99,
     "sell_price": 3600,
     "buy_price": 36000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 328,
@@ -12158,7 +12450,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 329,
@@ -12198,7 +12491,8 @@
     "max_count": 99,
     "sell_price": 2350,
     "buy_price": 23500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 330,
@@ -12238,7 +12532,8 @@
     "max_count": 99,
     "sell_price": 3525,
     "buy_price": 35250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 331,
@@ -12278,7 +12573,8 @@
     "max_count": 99,
     "sell_price": 4230,
     "buy_price": 42300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 332,
@@ -12318,7 +12614,8 @@
     "max_count": 99,
     "sell_price": 4700,
     "buy_price": 47000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 333,
@@ -12358,7 +12655,8 @@
     "max_count": 99,
     "sell_price": 4700,
     "buy_price": 47000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 334,
@@ -12398,7 +12696,8 @@
     "max_count": 99,
     "sell_price": 14100,
     "buy_price": 141000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 335,
@@ -12438,7 +12737,8 @@
     "max_count": 99,
     "sell_price": 2350,
     "buy_price": 23500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 336,
@@ -12478,7 +12778,8 @@
     "max_count": 99,
     "sell_price": 360,
     "buy_price": 3600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 337,
@@ -12518,7 +12819,8 @@
     "max_count": 99,
     "sell_price": 540,
     "buy_price": 5400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 338,
@@ -12558,7 +12860,8 @@
     "max_count": 99,
     "sell_price": 648,
     "buy_price": 6480,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 339,
@@ -12598,7 +12901,8 @@
     "max_count": 99,
     "sell_price": 792,
     "buy_price": 7920,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 340,
@@ -12638,7 +12942,8 @@
     "max_count": 99,
     "sell_price": 360,
     "buy_price": 3600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 341,
@@ -12678,7 +12983,8 @@
     "max_count": 99,
     "sell_price": 990,
     "buy_price": 9900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 342,
@@ -12718,7 +13024,8 @@
     "max_count": 99,
     "sell_price": 1485,
     "buy_price": 14850,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 343,
@@ -12758,7 +13065,8 @@
     "max_count": 99,
     "sell_price": 1782,
     "buy_price": 17820,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 344,
@@ -12798,7 +13106,8 @@
     "max_count": 99,
     "sell_price": 2178,
     "buy_price": 21780,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 345,
@@ -12838,7 +13147,8 @@
     "max_count": 99,
     "sell_price": 990,
     "buy_price": 9900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 346,
@@ -12878,7 +13188,8 @@
     "max_count": 99,
     "sell_price": 620,
     "buy_price": 6200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 347,
@@ -12918,7 +13229,8 @@
     "max_count": 99,
     "sell_price": 2400,
     "buy_price": 24000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 348,
@@ -12958,7 +13270,8 @@
     "max_count": 99,
     "sell_price": 3600,
     "buy_price": 36000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 349,
@@ -12998,7 +13311,8 @@
     "max_count": 99,
     "sell_price": 5280,
     "buy_price": 52800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 350,
@@ -13038,7 +13352,8 @@
     "max_count": 99,
     "sell_price": 4800,
     "buy_price": 48000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 351,
@@ -13078,7 +13393,8 @@
     "max_count": 99,
     "sell_price": 14400,
     "buy_price": 144000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 352,
@@ -13118,7 +13434,8 @@
     "max_count": 99,
     "sell_price": 2400,
     "buy_price": 24000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 353,
@@ -13158,7 +13475,8 @@
     "max_count": 99,
     "sell_price": 440,
     "buy_price": 4400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 354,
@@ -13198,7 +13516,8 @@
     "max_count": 99,
     "sell_price": 660,
     "buy_price": 6600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 355,
@@ -13238,7 +13557,8 @@
     "max_count": 99,
     "sell_price": 792,
     "buy_price": 7920,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 356,
@@ -13278,7 +13598,8 @@
     "max_count": 99,
     "sell_price": 880,
     "buy_price": 8800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 357,
@@ -13318,7 +13639,8 @@
     "max_count": 99,
     "sell_price": 440,
     "buy_price": 4400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 358,
@@ -13358,7 +13680,8 @@
     "max_count": 99,
     "sell_price": 1140,
     "buy_price": 11400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 359,
@@ -13398,7 +13721,8 @@
     "max_count": 99,
     "sell_price": 1710,
     "buy_price": 17100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 360,
@@ -13438,7 +13762,8 @@
     "max_count": 99,
     "sell_price": 2052,
     "buy_price": 20520,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 361,
@@ -13478,7 +13803,8 @@
     "max_count": 99,
     "sell_price": 2280,
     "buy_price": 22800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 362,
@@ -13518,7 +13844,8 @@
     "max_count": 99,
     "sell_price": 1140,
     "buy_price": 11400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 363,
@@ -13558,7 +13885,8 @@
     "max_count": 99,
     "sell_price": 480,
     "buy_price": 4800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 364,
@@ -13598,7 +13926,8 @@
     "max_count": 99,
     "sell_price": 720,
     "buy_price": 7200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 365,
@@ -13638,7 +13967,8 @@
     "max_count": 99,
     "sell_price": 960,
     "buy_price": 9600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 366,
@@ -13678,7 +14008,8 @@
     "max_count": 99,
     "sell_price": 960,
     "buy_price": 9600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 367,
@@ -13718,7 +14049,8 @@
     "max_count": 99,
     "sell_price": 864,
     "buy_price": 8640,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 368,
@@ -13758,7 +14090,8 @@
     "max_count": 99,
     "sell_price": 2880,
     "buy_price": 28800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 369,
@@ -13798,7 +14131,8 @@
     "max_count": 99,
     "sell_price": 480,
     "buy_price": 4800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 370,
@@ -13838,7 +14172,8 @@
     "max_count": 99,
     "sell_price": 1300,
     "buy_price": 13000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 371,
@@ -13878,7 +14213,8 @@
     "max_count": 99,
     "sell_price": 1950,
     "buy_price": 19500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 372,
@@ -13918,7 +14254,8 @@
     "max_count": 99,
     "sell_price": 2600,
     "buy_price": 26000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 373,
@@ -13958,7 +14295,8 @@
     "max_count": 99,
     "sell_price": 2340,
     "buy_price": 23400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 374,
@@ -13998,7 +14336,8 @@
     "max_count": 99,
     "sell_price": 7800,
     "buy_price": 78000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 375,
@@ -14038,7 +14377,8 @@
     "max_count": 99,
     "sell_price": 1300,
     "buy_price": 13000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 376,
@@ -14078,7 +14418,8 @@
     "max_count": 99,
     "sell_price": 680,
     "buy_price": 6800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 377,
@@ -14118,7 +14459,8 @@
     "max_count": 99,
     "sell_price": 1020,
     "buy_price": 10200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 378,
@@ -14158,7 +14500,8 @@
     "max_count": 99,
     "sell_price": 1496,
     "buy_price": 14960,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 379,
@@ -14198,7 +14541,8 @@
     "max_count": 99,
     "sell_price": 1360,
     "buy_price": 13600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 380,
@@ -14238,7 +14582,8 @@
     "max_count": 99,
     "sell_price": 1224,
     "buy_price": 12240,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 381,
@@ -14278,7 +14623,8 @@
     "max_count": 99,
     "sell_price": 4080,
     "buy_price": 40800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 382,
@@ -14318,7 +14664,8 @@
     "max_count": 99,
     "sell_price": 680,
     "buy_price": 6800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 383,
@@ -14358,7 +14705,8 @@
     "max_count": 99,
     "sell_price": 2480,
     "buy_price": 24800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 384,
@@ -14398,7 +14746,8 @@
     "max_count": 99,
     "sell_price": 3720,
     "buy_price": 37200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 385,
@@ -14438,7 +14787,8 @@
     "max_count": 99,
     "sell_price": 5456,
     "buy_price": 54560,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 386,
@@ -14478,7 +14828,8 @@
     "max_count": 99,
     "sell_price": 4960,
     "buy_price": 49600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 387,
@@ -14518,7 +14869,8 @@
     "max_count": 99,
     "sell_price": 4464,
     "buy_price": 44640,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 388,
@@ -14558,7 +14910,8 @@
     "max_count": 99,
     "sell_price": 14880,
     "buy_price": 148800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 389,
@@ -14598,7 +14951,8 @@
     "max_count": 99,
     "sell_price": 2480,
     "buy_price": 24800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 390,
@@ -14638,7 +14992,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 391,
@@ -14678,7 +15033,8 @@
     "max_count": 99,
     "sell_price": 750,
     "buy_price": 7500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 392,
@@ -14718,7 +15074,8 @@
     "max_count": 99,
     "sell_price": 900,
     "buy_price": 9000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 393,
@@ -14758,7 +15115,8 @@
     "max_count": 99,
     "sell_price": 1100,
     "buy_price": 11000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 394,
@@ -14798,7 +15156,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 395,
@@ -14838,7 +15197,8 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 396,
@@ -14878,7 +15238,8 @@
     "max_count": 99,
     "sell_price": 2250,
     "buy_price": 22500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 397,
@@ -14918,7 +15279,8 @@
     "max_count": 99,
     "sell_price": 2700,
     "buy_price": 27000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 398,
@@ -14958,7 +15320,8 @@
     "max_count": 99,
     "sell_price": 3300,
     "buy_price": 33000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 399,
@@ -14998,7 +15361,8 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 400,
@@ -15038,7 +15402,8 @@
     "max_count": 99,
     "sell_price": 560,
     "buy_price": 5600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 401,
@@ -15078,7 +15443,8 @@
     "max_count": 99,
     "sell_price": 840,
     "buy_price": 8400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 402,
@@ -15118,7 +15484,8 @@
     "max_count": 99,
     "sell_price": 1008,
     "buy_price": 10080,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 403,
@@ -15158,7 +15525,8 @@
     "max_count": 99,
     "sell_price": 1120,
     "buy_price": 11200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 405,
@@ -15198,7 +15566,8 @@
     "max_count": 99,
     "sell_price": 560,
     "buy_price": 5600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 406,
@@ -15238,7 +15607,8 @@
     "max_count": 99,
     "sell_price": 1700,
     "buy_price": 17000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 407,
@@ -15278,7 +15648,8 @@
     "max_count": 99,
     "sell_price": 2550,
     "buy_price": 25500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 408,
@@ -15318,7 +15689,8 @@
     "max_count": 99,
     "sell_price": 3060,
     "buy_price": 30600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 409,
@@ -15358,7 +15730,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 410,
@@ -15398,7 +15771,8 @@
     "max_count": 99,
     "sell_price": 1700,
     "buy_price": 17000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 411,
@@ -15438,7 +15812,8 @@
     "max_count": 99,
     "sell_price": 3036,
     "buy_price": 30360,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 413,
@@ -15486,7 +15861,8 @@
           126
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 414,
@@ -15534,7 +15910,8 @@
           127
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 415,
@@ -15582,7 +15959,8 @@
           67
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 416,
@@ -15630,7 +16008,8 @@
           181
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 417,
@@ -15678,7 +16057,8 @@
           74
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 418,
@@ -15718,7 +16098,8 @@
     "max_count": 99,
     "sell_price": 1000,
     "buy_price": 10000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 419,
@@ -15758,7 +16139,8 @@
     "max_count": 99,
     "sell_price": 2300,
     "buy_price": 23000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 420,
@@ -15798,7 +16180,8 @@
     "max_count": 99,
     "sell_price": 3450,
     "buy_price": 34500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 421,
@@ -15838,7 +16221,8 @@
     "max_count": 99,
     "sell_price": 4140,
     "buy_price": 41400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 422,
@@ -15878,7 +16262,8 @@
     "max_count": 99,
     "sell_price": 4600,
     "buy_price": 46000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 423,
@@ -15918,7 +16303,8 @@
     "max_count": 99,
     "sell_price": 5060,
     "buy_price": 50600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 424,
@@ -15958,7 +16344,8 @@
     "max_count": 99,
     "sell_price": 13800,
     "buy_price": 138000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 425,
@@ -15998,7 +16385,8 @@
     "max_count": 99,
     "sell_price": 2300,
     "buy_price": 23000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 426,
@@ -16038,7 +16426,8 @@
     "max_count": 99,
     "sell_price": 540,
     "buy_price": 5400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 427,
@@ -16078,7 +16467,8 @@
     "max_count": 99,
     "sell_price": 810,
     "buy_price": 8100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 428,
@@ -16118,7 +16508,8 @@
     "max_count": 99,
     "sell_price": 972,
     "buy_price": 9720,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 429,
@@ -16158,7 +16549,8 @@
     "max_count": 99,
     "sell_price": 1188,
     "buy_price": 11880,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 430,
@@ -16198,7 +16590,8 @@
     "max_count": 99,
     "sell_price": 1080,
     "buy_price": 10800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 431,
@@ -16238,7 +16631,8 @@
     "max_count": 99,
     "sell_price": 3240,
     "buy_price": 32400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 432,
@@ -16278,7 +16672,8 @@
     "max_count": 99,
     "sell_price": 540,
     "buy_price": 5400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 433,
@@ -16318,7 +16713,8 @@
     "max_count": 99,
     "sell_price": 1660,
     "buy_price": 16600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 434,
@@ -16358,7 +16754,8 @@
     "max_count": 99,
     "sell_price": 2490,
     "buy_price": 24900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 435,
@@ -16398,7 +16795,8 @@
     "max_count": 99,
     "sell_price": 2988,
     "buy_price": 29880,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 436,
@@ -16438,7 +16836,8 @@
     "max_count": 99,
     "sell_price": 3652,
     "buy_price": 36520,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 437,
@@ -16478,7 +16877,8 @@
     "max_count": 99,
     "sell_price": 9960,
     "buy_price": 99600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 438,
@@ -16518,7 +16918,8 @@
     "max_count": 99,
     "sell_price": 1660,
     "buy_price": 16600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 439,
@@ -16558,7 +16959,8 @@
     "max_count": 20,
     "sell_price": 122,
     "buy_price": 1220,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 440,
@@ -16598,7 +17000,8 @@
     "max_count": 99,
     "sell_price": 580,
     "buy_price": 5800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 441,
@@ -16638,7 +17041,8 @@
     "max_count": 99,
     "sell_price": 870,
     "buy_price": 8700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 442,
@@ -16678,7 +17082,8 @@
     "max_count": 99,
     "sell_price": 1160,
     "buy_price": 11600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 443,
@@ -16718,7 +17123,8 @@
     "max_count": 99,
     "sell_price": 1044,
     "buy_price": 10440,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 444,
@@ -16758,7 +17164,8 @@
     "max_count": 99,
     "sell_price": 1276,
     "buy_price": 12760,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 445,
@@ -16798,7 +17205,8 @@
     "max_count": 99,
     "sell_price": 3480,
     "buy_price": 34800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 446,
@@ -16838,7 +17246,8 @@
     "max_count": 99,
     "sell_price": 580,
     "buy_price": 5800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 447,
@@ -16878,7 +17287,8 @@
     "max_count": 99,
     "sell_price": 1820,
     "buy_price": 18200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 448,
@@ -16918,7 +17328,8 @@
     "max_count": 99,
     "sell_price": 2730,
     "buy_price": 27300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 449,
@@ -16958,7 +17369,8 @@
     "max_count": 99,
     "sell_price": 4004,
     "buy_price": 40040,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 450,
@@ -16998,7 +17410,8 @@
     "max_count": 99,
     "sell_price": 3276,
     "buy_price": 32760,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 451,
@@ -17038,7 +17451,8 @@
     "max_count": 99,
     "sell_price": 3640,
     "buy_price": 36400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 452,
@@ -17078,7 +17492,8 @@
     "max_count": 99,
     "sell_price": 10920,
     "buy_price": 109200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 454,
@@ -17118,7 +17533,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 455,
@@ -17158,7 +17574,8 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 456,
@@ -17198,7 +17615,8 @@
     "max_count": 99,
     "sell_price": 6000,
     "buy_price": 60000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 457,
@@ -17246,7 +17664,8 @@
           128
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 458,
@@ -17286,7 +17705,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 459,
@@ -17326,7 +17746,8 @@
     "max_count": 99,
     "sell_price": 3000,
     "buy_price": 30000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 460,
@@ -17366,7 +17787,8 @@
     "max_count": 99,
     "sell_price": 4500,
     "buy_price": 45000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 462,
@@ -17406,7 +17828,8 @@
     "max_count": 99,
     "sell_price": 5400,
     "buy_price": 54000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 463,
@@ -17446,7 +17869,8 @@
     "max_count": 99,
     "sell_price": 6000,
     "buy_price": 60000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 464,
@@ -17486,7 +17910,8 @@
     "max_count": 99,
     "sell_price": 6600,
     "buy_price": 66000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 465,
@@ -17526,7 +17951,8 @@
     "max_count": 99,
     "sell_price": 18000,
     "buy_price": 180000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 466,
@@ -17566,7 +17992,8 @@
     "max_count": 99,
     "sell_price": 3000,
     "buy_price": 30000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 467,
@@ -17606,7 +18033,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 468,
@@ -17646,7 +18074,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 469,
@@ -17686,7 +18115,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 470,
@@ -17726,7 +18156,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 471,
@@ -17766,7 +18197,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 472,
@@ -17806,7 +18238,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 473,
@@ -17846,7 +18279,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 474,
@@ -17886,7 +18320,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 10,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 475,
@@ -17926,7 +18361,8 @@
     "max_count": 2,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 477,
@@ -17966,7 +18402,8 @@
     "max_count": 10,
     "sell_price": 18,
     "buy_price": 180,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 478,
@@ -18006,7 +18443,8 @@
     "max_count": 10,
     "sell_price": 14,
     "buy_price": 140,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 479,
@@ -18046,7 +18484,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 480,
@@ -18086,7 +18525,8 @@
     "max_count": 99,
     "sell_price": 1980,
     "buy_price": 19800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 481,
@@ -18126,7 +18566,8 @@
     "max_count": 99,
     "sell_price": 1600,
     "buy_price": 16000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 482,
@@ -18166,7 +18607,8 @@
     "max_count": 99,
     "sell_price": 2400,
     "buy_price": 24000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 483,
@@ -18206,7 +18648,8 @@
     "max_count": 99,
     "sell_price": 2800,
     "buy_price": 28000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 484,
@@ -18246,7 +18689,8 @@
     "max_count": 99,
     "sell_price": 3520,
     "buy_price": 35200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 485,
@@ -18286,7 +18730,8 @@
     "max_count": 99,
     "sell_price": 3200,
     "buy_price": 32000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 486,
@@ -18326,7 +18771,8 @@
     "max_count": 99,
     "sell_price": 9600,
     "buy_price": 96000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 487,
@@ -18366,7 +18812,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 488,
@@ -18406,7 +18853,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 489,
@@ -18446,7 +18894,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 490,
@@ -18486,7 +18935,8 @@
     "max_count": 99,
     "sell_price": 850,
     "buy_price": 8500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 491,
@@ -18526,7 +18976,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 492,
@@ -18566,7 +19017,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 493,
@@ -18606,7 +19058,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 494,
@@ -18646,7 +19099,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 496,
@@ -18686,7 +19140,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 497,
@@ -18726,7 +19181,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 498,
@@ -18766,7 +19222,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 499,
@@ -18806,7 +19263,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 502,
@@ -18846,7 +19304,8 @@
     "max_count": 99,
     "sell_price": 250,
     "buy_price": 2500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 503,
@@ -18886,7 +19345,8 @@
     "max_count": 99,
     "sell_price": 650,
     "buy_price": 6500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 504,
@@ -18926,7 +19386,8 @@
     "max_count": 99,
     "sell_price": 280,
     "buy_price": 2800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 505,
@@ -18966,7 +19427,8 @@
     "max_count": 99,
     "sell_price": 420,
     "buy_price": 4200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 506,
@@ -19006,7 +19468,8 @@
     "max_count": 99,
     "sell_price": 504,
     "buy_price": 5040,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 507,
@@ -19046,7 +19509,8 @@
     "max_count": 99,
     "sell_price": 616,
     "buy_price": 6160,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 508,
@@ -19086,7 +19550,8 @@
     "max_count": 99,
     "sell_price": 280,
     "buy_price": 2800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 509,
@@ -19126,7 +19591,8 @@
     "max_count": 99,
     "sell_price": 930,
     "buy_price": 9300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 510,
@@ -19166,7 +19632,8 @@
     "max_count": 99,
     "sell_price": 1395,
     "buy_price": 13950,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 511,
@@ -19206,7 +19673,8 @@
     "max_count": 99,
     "sell_price": 1674,
     "buy_price": 16740,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 512,
@@ -19246,7 +19714,8 @@
     "max_count": 99,
     "sell_price": 2046,
     "buy_price": 20460,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 513,
@@ -19286,7 +19755,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 514,
@@ -19326,7 +19796,8 @@
     "max_count": 99,
     "sell_price": 720,
     "buy_price": 7200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 515,
@@ -19366,7 +19837,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 516,
@@ -19406,7 +19878,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 8000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 517,
@@ -19446,7 +19919,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 518,
@@ -19486,7 +19960,8 @@
     "max_count": 99,
     "sell_price": 1100,
     "buy_price": 11000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 519,
@@ -19526,7 +20001,8 @@
     "max_count": 99,
     "sell_price": 1650,
     "buy_price": 16500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 520,
@@ -19566,7 +20042,8 @@
     "max_count": 99,
     "sell_price": 2200,
     "buy_price": 22000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 521,
@@ -19606,7 +20083,8 @@
     "max_count": 99,
     "sell_price": 1100,
     "buy_price": 11000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 522,
@@ -19646,7 +20124,8 @@
     "max_count": 99,
     "sell_price": 970,
     "buy_price": 9700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 523,
@@ -19686,7 +20165,8 @@
     "max_count": 99,
     "sell_price": 1455,
     "buy_price": 14550,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 524,
@@ -19726,7 +20206,8 @@
     "max_count": 99,
     "sell_price": 2134,
     "buy_price": 21340,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 525,
@@ -19766,7 +20247,8 @@
     "max_count": 99,
     "sell_price": 1940,
     "buy_price": 19400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 526,
@@ -19806,7 +20288,8 @@
     "max_count": 99,
     "sell_price": 1746,
     "buy_price": 17460,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 527,
@@ -19846,7 +20329,8 @@
     "max_count": 99,
     "sell_price": 970,
     "buy_price": 9700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 528,
@@ -19886,7 +20370,8 @@
     "max_count": 99,
     "sell_price": 880,
     "buy_price": 8800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 529,
@@ -19926,7 +20411,8 @@
     "max_count": 99,
     "sell_price": 950,
     "buy_price": 9500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 530,
@@ -19966,7 +20452,8 @@
     "max_count": 99,
     "sell_price": 1450,
     "buy_price": 14500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 531,
@@ -20006,7 +20493,8 @@
     "max_count": 99,
     "sell_price": 2090,
     "buy_price": 20900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 532,
@@ -20046,7 +20534,8 @@
     "max_count": 99,
     "sell_price": 1900,
     "buy_price": 19000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 533,
@@ -20086,7 +20575,8 @@
     "max_count": 99,
     "sell_price": 950,
     "buy_price": 9500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 534,
@@ -20126,7 +20616,8 @@
     "max_count": 99,
     "sell_price": 4000,
     "buy_price": 40000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 535,
@@ -20166,7 +20657,8 @@
     "max_count": 20,
     "sell_price": 56,
     "buy_price": 560,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 536,
@@ -20206,7 +20698,8 @@
     "max_count": 99,
     "sell_price": 1200,
     "buy_price": 12000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 537,
@@ -20246,7 +20739,8 @@
     "max_count": 99,
     "sell_price": 1320,
     "buy_price": 13200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 538,
@@ -20286,7 +20780,8 @@
     "max_count": 99,
     "sell_price": 1980,
     "buy_price": 19800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 539,
@@ -20326,7 +20821,8 @@
     "max_count": 99,
     "sell_price": 2904,
     "buy_price": 29040,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 540,
@@ -20366,7 +20862,8 @@
     "max_count": 99,
     "sell_price": 2640,
     "buy_price": 26400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 541,
@@ -20406,7 +20903,8 @@
     "max_count": 99,
     "sell_price": 1320,
     "buy_price": 13200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 542,
@@ -20446,7 +20944,8 @@
     "max_count": 99,
     "sell_price": 1460,
     "buy_price": 14600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 543,
@@ -20486,7 +20985,8 @@
     "max_count": 99,
     "sell_price": 3212,
     "buy_price": 32120,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 544,
@@ -20526,7 +21026,8 @@
     "max_count": 99,
     "sell_price": 2920,
     "buy_price": 29200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 545,
@@ -20566,7 +21067,8 @@
     "max_count": 99,
     "sell_price": 8760,
     "buy_price": 87600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 546,
@@ -20606,7 +21108,8 @@
     "max_count": 99,
     "sell_price": 2190,
     "buy_price": 21900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 547,
@@ -20646,7 +21149,8 @@
     "max_count": 99,
     "sell_price": 1460,
     "buy_price": 14600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 556,
@@ -20686,7 +21190,8 @@
     "max_count": 99,
     "sell_price": 1380,
     "buy_price": 13800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 557,
@@ -20726,7 +21231,8 @@
     "max_count": 99,
     "sell_price": 2070,
     "buy_price": 20700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 558,
@@ -20766,7 +21272,8 @@
     "max_count": 99,
     "sell_price": 2484,
     "buy_price": 24840,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 559,
@@ -20806,7 +21313,8 @@
     "max_count": 99,
     "sell_price": 2760,
     "buy_price": 27600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 560,
@@ -20846,7 +21354,8 @@
     "max_count": 99,
     "sell_price": 8280,
     "buy_price": 82800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 561,
@@ -20886,7 +21395,8 @@
     "max_count": 99,
     "sell_price": 1380,
     "buy_price": 13800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 562,
@@ -20926,7 +21436,8 @@
     "max_count": 99,
     "sell_price": 2300,
     "buy_price": 23000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 563,
@@ -20966,7 +21477,8 @@
     "max_count": 99,
     "sell_price": 3450,
     "buy_price": 34500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 564,
@@ -21006,7 +21518,8 @@
     "max_count": 99,
     "sell_price": 4140,
     "buy_price": 41400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 565,
@@ -21046,7 +21559,8 @@
     "max_count": 99,
     "sell_price": 4140,
     "buy_price": 41400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 566,
@@ -21086,7 +21600,8 @@
     "max_count": 99,
     "sell_price": 4600,
     "buy_price": 46000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 567,
@@ -21126,7 +21641,8 @@
     "max_count": 99,
     "sell_price": 5060,
     "buy_price": 50600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 568,
@@ -21166,7 +21682,8 @@
     "max_count": 99,
     "sell_price": 13800,
     "buy_price": 138000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 569,
@@ -21206,7 +21723,8 @@
     "max_count": 99,
     "sell_price": 2300,
     "buy_price": 23000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 570,
@@ -21246,7 +21764,8 @@
     "max_count": 99,
     "sell_price": 2000,
     "buy_price": 20000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 571,
@@ -21286,7 +21805,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 572,
@@ -21326,7 +21846,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 573,
@@ -21366,7 +21887,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 574,
@@ -21406,7 +21928,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 575,
@@ -21446,7 +21969,8 @@
     "max_count": 99,
     "sell_price": 150,
     "buy_price": 1500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 576,
@@ -21486,7 +22010,8 @@
     "max_count": 99,
     "sell_price": 637,
     "buy_price": 6370,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 577,
@@ -21526,7 +22051,8 @@
     "max_count": 99,
     "sell_price": 425,
     "buy_price": 4250,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 578,
@@ -21566,7 +22092,8 @@
     "max_count": 99,
     "sell_price": 1150,
     "buy_price": 11500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 579,
@@ -21606,7 +22133,8 @@
     "max_count": 99,
     "sell_price": 2440,
     "buy_price": 24400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 580,
@@ -21646,7 +22174,8 @@
     "max_count": 99,
     "sell_price": 860,
     "buy_price": 8600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 581,
@@ -21686,7 +22215,8 @@
     "max_count": 99,
     "sell_price": 1720,
     "buy_price": 17200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 582,
@@ -21726,7 +22256,8 @@
     "max_count": 99,
     "sell_price": 1020,
     "buy_price": 10200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 583,
@@ -21766,7 +22297,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 584,
@@ -21806,7 +22338,8 @@
     "max_count": 99,
     "sell_price": 1600,
     "buy_price": 16000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 585,
@@ -21846,7 +22379,8 @@
     "max_count": 99,
     "sell_price": 930,
     "buy_price": 9300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 586,
@@ -21886,7 +22420,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 587,
@@ -21926,7 +22461,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 588,
@@ -21966,7 +22502,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 589,
@@ -22006,7 +22543,8 @@
     "max_count": 99,
     "sell_price": 750,
     "buy_price": 7500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 590,
@@ -22046,7 +22584,8 @@
     "max_count": 99,
     "sell_price": 30,
     "buy_price": 300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 591,
@@ -22086,7 +22625,8 @@
     "max_count": 99,
     "sell_price": 50,
     "buy_price": 500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 592,
@@ -22126,7 +22666,8 @@
     "max_count": 99,
     "sell_price": 70,
     "buy_price": 700,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 593,
@@ -22166,7 +22707,8 @@
     "max_count": 99,
     "sell_price": 840,
     "buy_price": 8400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 594,
@@ -22206,7 +22748,8 @@
     "max_count": 99,
     "sell_price": 1455,
     "buy_price": 14550,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 595,
@@ -22246,7 +22789,8 @@
     "max_count": 99,
     "sell_price": 480,
     "buy_price": 4800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 596,
@@ -22286,7 +22830,8 @@
     "max_count": 99,
     "sell_price": 1530,
     "buy_price": 15300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 598,
@@ -22326,7 +22871,8 @@
     "max_count": 99,
     "sell_price": 2400,
     "buy_price": 24000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 599,
@@ -22366,7 +22912,8 @@
     "max_count": 99,
     "sell_price": 660,
     "buy_price": 6600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 600,
@@ -22406,7 +22953,8 @@
     "max_count": 99,
     "sell_price": 1710,
     "buy_price": 17100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 601,
@@ -22446,7 +22994,8 @@
     "max_count": 99,
     "sell_price": 540,
     "buy_price": 5400,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 602,
@@ -22486,7 +23035,8 @@
     "max_count": 99,
     "sell_price": 1485,
     "buy_price": 14850,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 603,
@@ -22526,7 +23076,8 @@
     "max_count": 99,
     "sell_price": 450,
     "buy_price": 4500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 604,
@@ -22566,7 +23117,8 @@
     "max_count": 99,
     "sell_price": 1350,
     "buy_price": 13500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 605,
@@ -22606,7 +23158,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 606,
@@ -22646,7 +23199,8 @@
     "max_count": 99,
     "sell_price": 1650,
     "buy_price": 16500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 607,
@@ -22686,7 +23240,8 @@
     "max_count": 99,
     "sell_price": 1100,
     "buy_price": 11000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 608,
@@ -22726,7 +23281,8 @@
     "max_count": 99,
     "sell_price": 3300,
     "buy_price": 33000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 609,
@@ -22766,7 +23322,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 610,
@@ -22806,7 +23363,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 611,
@@ -22846,7 +23404,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 612,
@@ -22886,7 +23445,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 613,
@@ -22926,7 +23486,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 614,
@@ -22966,7 +23527,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 615,
@@ -23006,7 +23568,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 616,
@@ -23046,7 +23609,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 618,
@@ -23086,7 +23650,8 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 619,
@@ -23126,7 +23691,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 620,
@@ -23166,7 +23732,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 621,
@@ -23206,7 +23773,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 622,
@@ -23246,7 +23814,8 @@
     "max_count": 99,
     "sell_price": 80,
     "buy_price": 800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 623,
@@ -23286,7 +23855,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 624,
@@ -23326,7 +23896,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 625,
@@ -23366,7 +23937,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 626,
@@ -23406,7 +23978,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 627,
@@ -23446,7 +24019,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 628,
@@ -23486,7 +24060,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 629,
@@ -23526,7 +24101,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 630,
@@ -23566,7 +24142,8 @@
     "max_count": 1,
     "sell_price": 250,
     "buy_price": 2500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 631,
@@ -23606,7 +24183,8 @@
     "max_count": 10,
     "sell_price": 80,
     "buy_price": 800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 632,
@@ -23646,7 +24224,8 @@
     "max_count": 5,
     "sell_price": 10,
     "buy_price": 98,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 634,
@@ -23694,7 +24273,8 @@
           29
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 635,
@@ -23742,7 +24322,8 @@
           128
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 636,
@@ -23782,7 +24363,8 @@
     "max_count": 10,
     "sell_price": 8,
     "buy_price": 80,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 637,
@@ -23822,7 +24404,8 @@
     "max_count": 5,
     "sell_price": 21,
     "buy_price": 210,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 638,
@@ -23862,7 +24445,8 @@
     "max_count": 10,
     "sell_price": 6,
     "buy_price": 60,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 639,
@@ -23910,7 +24494,8 @@
           638
         ]
       }
-    ]
+    ],
+    "unknown_out_box": false
   },
   {
     "game_id": 640,
@@ -23950,7 +24535,8 @@
     "max_count": 5,
     "sell_price": 150,
     "buy_price": 300,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 641,
@@ -23990,7 +24576,8 @@
     "max_count": 5,
     "sell_price": 45,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 642,
@@ -24030,7 +24617,8 @@
     "max_count": 5,
     "sell_price": 135,
     "buy_price": 270,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 643,
@@ -24070,7 +24658,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 644,
@@ -24110,7 +24699,8 @@
     "max_count": 99,
     "sell_price": 1000,
     "buy_price": 10000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 645,
@@ -24150,7 +24740,8 @@
     "max_count": 99,
     "sell_price": 2000,
     "buy_price": 20000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 647,
@@ -24190,7 +24781,8 @@
     "max_count": 99,
     "sell_price": 10,
     "buy_price": 100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 648,
@@ -24230,7 +24822,8 @@
     "max_count": 99,
     "sell_price": 50,
     "buy_price": 500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 649,
@@ -24270,7 +24863,8 @@
     "max_count": 99,
     "sell_price": 10,
     "buy_price": 100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 650,
@@ -24310,7 +24904,8 @@
     "max_count": 99,
     "sell_price": 50,
     "buy_price": 500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 651,
@@ -24350,7 +24945,8 @@
     "max_count": 99,
     "sell_price": 1000,
     "buy_price": 10000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 652,
@@ -24390,7 +24986,8 @@
     "max_count": 99,
     "sell_price": 10000,
     "buy_price": 100000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 653,
@@ -24430,7 +25027,8 @@
     "max_count": 99,
     "sell_price": 20000,
     "buy_price": 200000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 654,
@@ -24470,7 +25068,8 @@
     "max_count": 99,
     "sell_price": 600,
     "buy_price": 6000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 655,
@@ -24510,7 +25109,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 8000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 656,
@@ -24550,7 +25150,8 @@
     "max_count": 99,
     "sell_price": 1200,
     "buy_price": 12000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 657,
@@ -24590,7 +25191,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 8000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 658,
@@ -24630,7 +25232,8 @@
     "max_count": 99,
     "sell_price": 1300,
     "buy_price": 13000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 659,
@@ -24670,7 +25273,8 @@
     "max_count": 99,
     "sell_price": 1000,
     "buy_price": 10000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 660,
@@ -24710,7 +25314,8 @@
     "max_count": 99,
     "sell_price": 2000,
     "buy_price": 20000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 661,
@@ -24750,7 +25355,8 @@
     "max_count": 99,
     "sell_price": 3000,
     "buy_price": 30000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 662,
@@ -24790,7 +25396,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 663,
@@ -24830,7 +25437,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 664,
@@ -24870,7 +25478,8 @@
     "max_count": 99,
     "sell_price": 500,
     "buy_price": 5000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 665,
@@ -24910,7 +25519,8 @@
     "max_count": 99,
     "sell_price": 1500,
     "buy_price": 15000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 666,
@@ -24950,7 +25560,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 667,
@@ -24990,7 +25601,8 @@
     "max_count": 99,
     "sell_price": 200,
     "buy_price": 2000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 668,
@@ -25030,7 +25642,8 @@
     "max_count": 99,
     "sell_price": 300,
     "buy_price": 3000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 669,
@@ -25070,7 +25683,8 @@
     "max_count": 99,
     "sell_price": 400,
     "buy_price": 4000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 670,
@@ -25110,7 +25724,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 671,
@@ -25150,7 +25765,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 672,
@@ -25190,7 +25806,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 673,
@@ -25230,7 +25847,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 674,
@@ -25270,7 +25888,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 675,
@@ -25310,7 +25929,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 676,
@@ -25350,7 +25970,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 677,
@@ -25390,7 +26011,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 678,
@@ -25430,7 +26052,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 679,
@@ -25470,7 +26093,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 680,
@@ -25510,7 +26134,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 681,
@@ -25550,7 +26175,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 682,
@@ -25590,7 +26216,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 683,
@@ -25630,7 +26257,8 @@
     "max_count": 1,
     "sell_price": 0,
     "buy_price": 0,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 684,
@@ -25670,7 +26298,8 @@
     "max_count": 5,
     "sell_price": 45,
     "buy_price": 135,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 685,
@@ -25710,7 +26339,8 @@
     "max_count": 5,
     "sell_price": 45,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 686,
@@ -25750,7 +26380,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 687,
@@ -25790,7 +26421,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 688,
@@ -25830,7 +26462,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 689,
@@ -25870,7 +26503,8 @@
     "max_count": 10,
     "sell_price": 0,
     "buy_price": 90,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": true
   },
   {
     "game_id": 698,
@@ -25910,7 +26544,8 @@
     "max_count": 99,
     "sell_price": 800,
     "buy_price": 8000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 699,
@@ -25950,7 +26585,8 @@
     "max_count": 99,
     "sell_price": 80,
     "buy_price": 800,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 700,
@@ -25990,7 +26626,8 @@
     "max_count": 99,
     "sell_price": 90,
     "buy_price": 900,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 701,
@@ -26030,7 +26667,8 @@
     "max_count": 99,
     "sell_price": 100,
     "buy_price": 1000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 702,
@@ -26070,7 +26708,8 @@
     "max_count": 99,
     "sell_price": 110,
     "buy_price": 1100,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 703,
@@ -26110,7 +26749,8 @@
     "max_count": 99,
     "sell_price": 120,
     "buy_price": 1200,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 704,
@@ -26150,7 +26790,8 @@
     "max_count": 99,
     "sell_price": 3000,
     "buy_price": 30000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 705,
@@ -26190,7 +26831,8 @@
     "max_count": 99,
     "sell_price": 10200,
     "buy_price": 102000,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 706,
@@ -26230,7 +26872,8 @@
     "max_count": 99,
     "sell_price": 3360,
     "buy_price": 33600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 707,
@@ -26270,7 +26913,8 @@
     "max_count": 99,
     "sell_price": 5060,
     "buy_price": 50600,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   },
   {
     "game_id": 708,
@@ -26310,6 +26954,7 @@
     "max_count": 99,
     "sell_price": 350,
     "buy_price": 3500,
-    "recipes": []
+    "recipes": [],
+    "unknown_out_box": false
   }
 ]

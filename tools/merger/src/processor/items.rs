@@ -84,6 +84,8 @@ struct Item {
     sell_price: usize,
     buy_price: usize,
     recipes: Vec<Recipe>,
+    #[serde(rename = "unknown_out_box")]
+    out_box: bool,
 }
 
 impl From<&ItemData> for Item {
@@ -97,6 +99,7 @@ impl From<&ItemData> for Item {
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
             recipes: Vec::new(),
+            out_box: value.out_box,
         }
     }
 }
@@ -140,6 +143,8 @@ struct ItemData {
     sell_price: usize,
     #[serde(rename = "_BuyPrice")]
     buy_price: usize,
+    #[serde(rename = "_OutBox")]
+    out_box: bool,
 }
 
 #[derive(Debug, Deserialize)]
