@@ -551,12 +551,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": -1950413440,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -1946345856,
     "names": {
       "ja": "抜刀術【力】",
@@ -896,12 +890,6 @@
     "kind": "set"
   },
   {
-    "game_id": -1724907776,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -1716324608,
     "names": {
       "ja": "毒属性強化",
@@ -995,12 +983,6 @@
       }
     ],
     "kind": "weapon"
-  },
-  {
-    "game_id": -1702725248,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": -1700743296,
@@ -1877,18 +1859,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": -1577668736,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
-    "game_id": -1540920320,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -1507579776,
     "names": {
       "ja": "速射強化",
@@ -1944,12 +1914,6 @@
       }
     ],
     "kind": "weapon"
-  },
-  {
-    "game_id": -1478544256,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": -1475134080,
@@ -2137,12 +2101,6 @@
       }
     ],
     "kind": "set"
-  },
-  {
-    "game_id": -1437098880,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": -1432692352,
@@ -2522,18 +2480,6 @@
     "kind": "armor"
   },
   {
-    "game_id": -1203508096,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
-    "game_id": -1196219264,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -1121468544,
     "names": {
       "ja": "回復速度",
@@ -2626,12 +2572,6 @@
         }
       }
     ],
-    "kind": "armor"
-  },
-  {
-    "game_id": -1110806016,
-    "names": {},
-    "ranks": [],
     "kind": "armor"
   },
   {
@@ -3335,12 +3275,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": -812084224,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -776946176,
     "names": {
       "ja": "龍属性攻撃強化",
@@ -3434,12 +3368,6 @@
       }
     ],
     "kind": "weapon"
-  },
-  {
-    "game_id": -774473472,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": -692636288,
@@ -4864,12 +4792,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": -285123456,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -283334048,
     "names": {
       "ja": "集中",
@@ -5703,12 +5625,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": -111868368,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -62248528,
     "names": {
       "ja": "闢獣の力",
@@ -6156,12 +6072,6 @@
         }
       }
     ],
-    "kind": "armor"
-  },
-  {
-    "game_id": 56719788,
-    "names": {},
-    "ranks": [],
     "kind": "armor"
   },
   {
@@ -6697,12 +6607,6 @@
     "kind": "armor"
   },
   {
-    "game_id": 309360992,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 313598432,
     "names": {
       "ja": "会心撃【属性】",
@@ -7235,12 +7139,6 @@
     "kind": "armor"
   },
   {
-    "game_id": 424767232,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 424768352,
     "names": {
       "ja": "環境適応",
@@ -7374,12 +7272,6 @@
     "kind": "group"
   },
   {
-    "game_id": 457912640,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 469540352,
     "names": {
       "ja": "整備",
@@ -7510,18 +7402,6 @@
         }
       }
     ],
-    "kind": "armor"
-  },
-  {
-    "game_id": 471964960,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
-    "game_id": 504506560,
-    "names": {},
-    "ranks": [],
     "kind": "armor"
   },
   {
@@ -8431,12 +8311,6 @@
         }
       }
     ],
-    "kind": "armor"
-  },
-  {
-    "game_id": 654153152,
-    "names": {},
-    "ranks": [],
     "kind": "armor"
   },
   {
@@ -10084,12 +9958,6 @@
     "kind": "armor"
   },
   {
-    "game_id": 1150634496,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 1160639488,
     "names": {
       "ja": "匠",
@@ -10734,12 +10602,6 @@
       }
     ],
     "kind": "weapon"
-  },
-  {
-    "game_id": 1406914944,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": 1425756032,
@@ -11635,18 +11497,6 @@
     "kind": "armor"
   },
   {
-    "game_id": 1522720256,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
-    "game_id": 1582392192,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 1594792704,
     "names": {
       "ja": "心眼",
@@ -12464,12 +12314,6 @@
     "kind": "armor"
   },
   {
-    "game_id": 1890580224,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 1934955136,
     "names": {
       "ja": "オトモへの采配",
@@ -12695,12 +12539,6 @@
         }
       }
     ],
-    "kind": "armor"
-  },
-  {
-    "game_id": 1960395264,
-    "names": {},
-    "ranks": [],
     "kind": "armor"
   },
   {

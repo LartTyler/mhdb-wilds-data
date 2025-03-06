@@ -109,6 +109,18 @@ to get the levels and add them to your partial skills last.
 Similar to [Items](#items), it looks like there's two skills whose IDs are `0` and `1` that contain no real information.
 I believe both can ignored can be ignored.
 
+Additionally, there are _a whopping twenty-seven_ entries in `SkillCommonData.user.3` that do not have any strings
+attached to them. They're going to be exluded from merged data for now. The list is below.
+
+||||||
+|-|-|-|-|-|
+|-1950413440|-1724907776|-1702725248|-1577668736|-1540920320|
+|-1478544256|-1437098880|-1203508096|-1196219264|-1110806016|
+|-812084224|-774473472|-285123456|-111868368|56719788|
+|309360992|424767232|457912640|471964960|504506560|
+|654153152|1150634496|1406914944|1522720256|1582392192|
+|1890580224|1960395264||||
+
 ### Modifier Values?
 In `SkillData.user.3`, there's a `_value` field that appears to hold some sort of attribute modifiers for the skill. For
 example, the entry for the "Attack Boost" skill at level 1 is:

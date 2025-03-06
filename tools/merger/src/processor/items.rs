@@ -22,10 +22,8 @@ pub fn process(config: &Config) -> Result {
     for data in data {
         progress.inc(1);
 
-        // - The OutBox flag is only set on the second entry for certain items, and includes some
-        //   weird values. It will be ignored for now.
-        // - ID 1 appears to be a placeholder item used in recipes with only one ingredient.
-        // - ID 100 just doesn't have any data.
+        // The OutBox flag is only set on the second entry for certain items, and includes some
+        // weird values. It will be ignored for now.
         if data.out_box || IGNORED_IDS.contains(&data.id) {
             continue;
         }

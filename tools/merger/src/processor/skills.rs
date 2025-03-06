@@ -17,6 +17,37 @@ const RANK_STRINGS: &str = "translations/Skill.json";
 
 const OUTPUT: &str = "merged/Skill.json";
 
+const IGNORED_IDS: &[isize] = &[
+    0,
+    -1950413440,
+    -1724907776,
+    -1702725248,
+    -1577668736,
+    -1540920320,
+    -1478544256,
+    -1437098880,
+    -1203508096,
+    -1196219264,
+    -1110806016,
+    -812084224,
+    -774473472,
+    -285123456,
+    -111868368,
+    56719788,
+    309360992,
+    424767232,
+    457912640,
+    471964960,
+    504506560,
+    654153152,
+    1150634496,
+    1406914944,
+    1522720256,
+    1582392192,
+    1890580224,
+    1960395264,
+];
+
 pub fn process(config: &Config) -> Result {
     let data: Vec<SkillData> = Vec::read_file(config.io.output_dir.join(SKILL_DATA))?;
     let strings = Translations::read_file(config.io.output_dir.join(SKILL_STRINGS))?;
@@ -27,7 +58,7 @@ pub fn process(config: &Config) -> Result {
     let mut lookup = LookupMap::with_capacity(data.len());
 
     for data in data {
-        if data.id == 0 {
+        if IGNORED_IDS.contains(&data.id) {
             continue;
         }
 
@@ -59,8 +90,7 @@ pub fn process(config: &Config) -> Result {
     for data in data {
         progress.inc(1);
 
-        // Dummy ID
-        if data.skill_id == 0 {
+        if IGNORED_IDS.contains(&data.skill_id) {
             continue;
         }
 
