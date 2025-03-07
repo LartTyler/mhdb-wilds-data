@@ -24,7 +24,7 @@ pub fn process(config: &Config) -> Result {
 
         // The OutBox flag is only set on the second entry for certain items, and includes some
         // weird values. It will be ignored for now.
-        if data.out_box || IGNORED_IDS.contains(&data.id) {
+        if IGNORED_IDS.contains(&data.id) {
             continue;
         }
 
