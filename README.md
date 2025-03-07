@@ -246,10 +246,20 @@ are:
 - 476
 - 690
 
-Some items appear to be duplicated, with the duplicates having the `_OutBox` flag set. I'm not sure what that flag is
+~~Some items appear to be duplicated, with the duplicates having the `_OutBox` flag set. I'm not sure what that flag is
 for, but I'm thinking items tagged this way are used for some weird internal system (it includes things like mantles,
 fishing bait, and some weird ones like "Valuable Material" and "Equipped Mantles"). For now, I'm going to ignore
-anything with that flag set.
+anything with that flag set.~~
+
+`_OutBox` is definitely a weird flag. Some things like "Equipped Mantles" doesn't make sense as an item, and I'm going
+to manually build that exclusion list. However, there doesn't seem to be as much duplication as I originally thought,
+and some items are actually referenced in recipes for non-`_OutBox` items. I'm going to add them back, with the
+exception of a handful which I'll list below.
+
+|ID|Name (English)|Exclude Reason|
+|---|---|---|
+|278|Screamer Pod|This looks like a dupe; original is ID 70. It also has the wrong stack size and item value.|
+|409|Equipped Mantles|This isn't even an item, it looks like a placeholder (maybe on the loadout screen?).|
 
 Fields listed below are my best guess, based on which items have the flag set.
 

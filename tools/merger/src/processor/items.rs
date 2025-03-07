@@ -10,7 +10,11 @@ const TRANSLATIONS: &str = "translations/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 
-const IGNORED_IDS: &[isize] = &[1, 100, 280, 283, 284, 476, 690];
+const IGNORED_IDS: &[isize] = &[
+    1, 100, 280, 283, 284, 476, 690,
+    // Special exclusions; see https://github.com/LartTyler/mhdb-wilds-data?tab=readme-ov-file#notes-2
+    278, 409,
+];
 
 pub fn process(config: &Config) -> Result {
     let data: Vec<ItemData> = Vec::read_file(config.io.output_dir.join(DATA))?;
@@ -22,8 +26,6 @@ pub fn process(config: &Config) -> Result {
     for data in data {
         progress.inc(1);
 
-        // The OutBox flag is only set on the second entry for certain items, and includes some
-        // weird values. It will be ignored for now.
         if IGNORED_IDS.contains(&data.id) {
             continue;
         }

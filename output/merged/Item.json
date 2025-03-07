@@ -10527,47 +10527,6 @@
     "out_box": false
   },
   {
-    "game_id": 278,
-    "names": {
-      "ja": "スリンガー音爆弾",
-      "en": "Screamer Pod",
-      "fr": "Capsule sonore",
-      "it": "Baccello sonico",
-      "de": "Schreikapsel",
-      "es": "Cápsula chillona",
-      "ru": "Визжащий снаряд",
-      "pl": "Krzyczący strąk",
-      "pt-BR": "Cápsula de Grito",
-      "ko": "슬링어 음폭탄",
-      "zh-Hant": "投射器音爆彈",
-      "zh-Hans": "投射器音爆弹",
-      "ar": "كبسولة الصراخ",
-      "es-419": "Cápsula chillona"
-    },
-    "descriptions": {
-      "ja": "スリンガーで発射し、高い周波数の\r\n不快な音を発する。聴覚が鋭敏な\r\nモンスターの動きを制限する。",
-      "en": "Used as ammo for your Slinger. Emits\r\na harsh, high-frequency sound that\r\ncan disrupt sensitive monsters.",
-      "fr": "Munition pour fronde. Émet un son\r\nà haute fréquence qui déstabilise\r\nles monstres à l'ouïe sensible.",
-      "it": "Munizioni per la fionda. Emette un\r\nsuono stridulo ad alta frequenza in\r\ngrado di confondere i mostri più sensibili.",
-      "de": "Schleudermunition, die einen\r\nschrillen Ton von sich gibt, der\r\nempfindliche Monster einschränkt.",
-      "es": "Munición de eslinga. Emite un\r\náspero sonido de alta frecuencia\r\nque afecta a monstruos sensibles.",
-      "ru": "Снаряд для самострела. Издаёт резкий\r\nвысокочастотный звук, который\r\nдезориентирует некоторых монстров.",
-      "pl": "Amunicja do procy. Wydaje ostry,\r\nwysokiej częstotliwości dźwięk, który\r\nprzeszkadza wrażliwym potworom.",
-      "pt-BR": "Munição de Atiradeira. Emite\r\num som em alta frequência,\r\nperturbando monstros sensíveis.",
-      "ko": "슬링어로 발사하면 높은 주파수의\r\n불쾌한 소리를 낸다. 청각이 예민\r\n한 몬스터의 움직임을 제한한다.",
-      "zh-Hant": "投射器彈藥，會發出高頻率的刺耳\r\n噪音。可對聽覺敏銳的魔物造成\r\n行動限制。",
-      "zh-Hans": "以投射器发射，会发出高频的刺耳\r\n噪音。对听觉敏锐的怪物造成行动\r\n限制。",
-      "ar": "تستخدم كذخيرة نبلة المعصم. وتصدر\r\nصوتًا قويًا عالي التردد، يمكنه\r\nزعزعة الوحوش سريعي التأثر.",
-      "es-419": "Munición de eslinga que emite\r\nun áspero sonido de alta frecuencia\r\ny detiene a monstruos sensibles."
-    },
-    "rarity": 2,
-    "max_count": 6,
-    "sell_price": 1,
-    "buy_price": 1,
-    "recipes": [],
-    "out_box": true
-  },
-  {
     "game_id": 281,
     "names": {
       "ja": "クラノコッパー",
@@ -15691,47 +15650,6 @@
     "buy_price": 30600,
     "recipes": [],
     "out_box": false
-  },
-  {
-    "game_id": 409,
-    "names": {
-      "ja": "装備中の装衣",
-      "en": "Equipped Mantles",
-      "fr": "Capes équipées",
-      "it": "Mantelli equipaggiati",
-      "de": "Ausgerüstete Mäntel",
-      "es": "Mantos equipados",
-      "ru": "Используемые накидки",
-      "pl": "Wyposażona opończa",
-      "pt-BR": "Mantos Equipados",
-      "ko": "장비 중인 복장",
-      "zh-Hant": "裝備中的衣裝",
-      "zh-Hans": "装备中的衣装",
-      "ar": "العباءات المزودة",
-      "es-419": "Mantos equipados"
-    },
-    "descriptions": {
-      "ja": "装備変更で選択した装衣が、\r\nショートカット/マイセットにて\r\n反映される枠。",
-      "en": "The selected mantle in Change\r\nEquipment will be reflected in\r\nyour Radial Menu/Loadouts.",
-      "fr": "Les capes sélectionnées dans\r\nChanger d'équipement sont visibles\r\ndans le menu radial/les sets.",
-      "it": "Il mantello selezionato in Cambia\r\nequipaggiamento verrà visualizzato\r\nnei set del menu di scelta rapida.",
-      "de": "Der in „Ausrüstung ändern“ ge-\r\nwählte Mantel wird im Tortenmenü\r\nund in deinen Sets angezeigt.",
-      "es": "El manto seleccionado en Cambiar\r\nequipamiento se reflejará en tu\r\nmenú radial/sets.",
-      "ru": "Накидка, выбранная на экране\r\nсмены снаряжения, появится\r\nв круговом меню / в наборах.",
-      "pl": "Opończa wybrana w opcji Zmień\r\nwyposażenie będzie wyświetlana\r\nw menu kołowym/zestawach.",
-      "pt-BR": "O manto que você escolher em\r\n\"Mudar Equipamento\" aparecerá no\r\nseu Menu Radial/Configurações.",
-      "ko": "장비 변경에서 선택한 복장이\r\n숏컷/마이 세트에서\r\n반영되는 칸.",
-      "zh-Hant": "在「變更裝備」選擇的衣裝會在\r\n捷徑/個人組合的欄位顯示。",
-      "zh-Hans": "“变更装备”中选择的衣装会在快\r\n捷方式／个人组合的栏位中显示。",
-      "ar": "العباءة المحددة في قائمة تغيير المعدات\r\nستنعكس في القائمة الدائرية/التجهيزات.",
-      "es-419": "El manto seleccionado\r\nen Cambiar equipo aparecerá\r\nen tu menú radial/sets."
-    },
-    "rarity": 4,
-    "max_count": 1,
-    "sell_price": 0,
-    "buy_price": 0,
-    "recipes": [],
-    "out_box": true
   },
   {
     "game_id": 410,
