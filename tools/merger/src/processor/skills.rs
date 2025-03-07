@@ -130,12 +130,14 @@ pub fn process(config: &Config) -> Result {
     let mut data: Vec<armor::Set> = Vec::read_file(config.io.output_dir.join(armor::OUTPUT))?;
     let progress = ProgressBar::new(data.len() as u64);
 
-    for data in data.iter_mut() {
+    for data in &mut data {
         progress.inc(1);
 
-        let Some(armor) = data.pieces.first() else {
+        let Some(armor) = data.pieces.first_mut() else {
             continue;
         };
+
+        let mut to_remove: Vec<isize> = Vec::new();
 
         for id in armor.skills.keys().copied() {
             let Some(skill) = lookup.find_in(id, &mut merged) else {
@@ -161,6 +163,13 @@ pub fn process(config: &Config) -> Result {
             }
 
             bonus.ranks.sort_by_key(|v| v.pieces);
+            to_remove.push(id);
+        }
+
+        for armor in &mut data.pieces {
+            for id in &to_remove {
+                armor.skills.remove(&id);
+            }
         }
     }
 
