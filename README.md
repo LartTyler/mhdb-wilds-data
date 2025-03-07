@@ -82,8 +82,18 @@ This one seems to be pretty straightforward. The data file contains all the deco
 contains all the relevant strings. The `_Skill` array in the data file contains the skill IDs the decoration grants,
 and the `_SkillLevel` array contains each skill's level at the matching index.
 
-The one field I'm not sure about is `_AccessoryType`. I have no idea what that value corresponds to, or if we even care
-about it for the purpose of the database project.
+~~The one field I'm not sure about is `_AccessoryType`. I have no idea what that value corresponds to, or if we even
+care about it for the purpose of the database project.~~
+
+`_AccessoryType` encodes what "group" the decoration is part of: armor decorations or weapon decorations. The table
+below contains those type values and what the correspond to.
+
+|Value|Group|
+|---|---|
+|1842954880|Armor decorations|
+|-1638455296|Weapon decorations|
+
+Why in Gore Magala's unholy name they chose those two values, I have absolutely no idea.
 
 ## Skills
 ### Data Files

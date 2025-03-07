@@ -1,8 +1,11 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, IdMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{
+    to_ingame_rarity, IdMap, LanguageMap, ReadFile, Result, Translations, WriteFile,
+};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
+use serde_repr::Deserialize_repr;
 
 const DATA: &str = "data/AccessoryData.json";
 const TRANSLATIONS: &str = "translations/Accessory.json";
@@ -63,6 +66,7 @@ struct Accessory {
     level: u8,
     #[serde(serialize_with = "ordered_map")]
     skills: IdMap,
+    allowed_on: AllowedOn,
 }
 
 impl From<&AccessoryData> for Accessory {
@@ -75,6 +79,7 @@ impl From<&AccessoryData> for Accessory {
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
             skills: IdMap::new(),
+            allowed_on: value.allowed_on.into(),
         }
     }
 }
@@ -97,4 +102,29 @@ struct AccessoryData {
     skill_ids: Vec<isize>,
     #[serde(rename = "_SkillLevel")]
     skill_levels: Vec<u8>,
+    #[serde(rename = "_AccessoryType")]
+    allowed_on: AllowedOnCode,
+}
+
+#[derive(Debug, Deserialize_repr, Copy, Clone)]
+#[repr(isize)]
+enum AllowedOnCode {
+    Armor = 1842954880,
+    Weapon = -1638455296,
+}
+
+#[derive(Debug, Serialize, Copy, Clone)]
+#[serde(rename_all = "kebab-case")]
+enum AllowedOn {
+    Armor,
+    Weapon,
+}
+
+impl From<AllowedOnCode> for AllowedOn {
+    fn from(value: AllowedOnCode) -> Self {
+        match value {
+            AllowedOnCode::Armor => Self::Armor,
+            AllowedOnCode::Weapon => Self::Weapon,
+        }
+    }
 }
