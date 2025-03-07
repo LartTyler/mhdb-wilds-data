@@ -7,15 +7,18 @@ use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::collections::HashMap;
 
 const SERIES_DATA: &str = "data/ArmorSeriesData.json";
 const ARMOR_DATA: &str = "data/ArmorData.json";
 const RECIPE_DATA: &str = "data/ArmorRecipeData.json";
+const UPGRADE_DATA: &str = "data/ArmorUpgradeData.json";
 
 const SERIES_STRINGS: &str = "translations/ArmorSeries.json";
 const ARMOR_STRINGS: &str = "translations/Armor.json";
 
 pub const OUTPUT: &str = "merged/Armor.json";
+pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";
 
 /// Armor set and group bonuses are added by the [skills::process()] function.
 pub fn process(config: &Config) -> Result {
@@ -45,6 +48,33 @@ pub fn process(config: &Config) -> Result {
 
         set_lookup.insert(data.id, merged.len());
         merged.push(set);
+    }
+
+    progress.finish_and_clear();
+
+    let data: Vec<UpgradeData> = Vec::read_file(config.io.output_dir.join(UPGRADE_DATA))?;
+    let progress = ProgressBar::new(data.len() as u64);
+
+    // A map of rarities to the matching upgrade info.
+    let mut upgrades: HashMap<u8, Upgrade> = HashMap::new();
+
+    for data in data {
+        progress.inc(1);
+
+        let rarity = to_ingame_rarity(data.rarity);
+        let upgrade = upgrades.entry(rarity).or_insert(Upgrade {
+            rarity,
+            steps: Vec::new(),
+        });
+
+        upgrade.steps.push(UpgradeStep {
+            level: data.max_level,
+            extra_defense: data.extra_defense,
+            point_cost: data.point_cost,
+            zenny_cost: data.zenny_cost,
+        });
+
+        upgrade.steps.sort_by_key(|v| v.level);
     }
 
     progress.finish_and_clear();
@@ -85,6 +115,14 @@ pub fn process(config: &Config) -> Result {
             .expect(&format!("Could not find set by ID: {}", data.series_id));
 
         armor.crafting.price = set.price;
+
+        let upgrade = upgrades.get(&set.rarity).expect(&format!(
+            "Could not find upgrade data for rarity {}",
+            set.rarity
+        ));
+
+        armor.defense.max = armor.defense.base + upgrade.get_total_defense_bonus();
+
         set.pieces.push(armor);
     }
 
@@ -117,6 +155,11 @@ pub fn process(config: &Config) -> Result {
     }
 
     progress.finish_and_clear();
+
+    let mut upgrades: Vec<_> = upgrades.values().collect();
+    upgrades.sort_by_key(|v| v.rarity);
+
+    upgrades.write_file(config.io.output_dir.join(UPGRADE_OUTPUT))?;
 
     for set in merged.iter_mut() {
         set.pieces.sort_by_key(|v| v.kind);
@@ -197,8 +240,8 @@ impl From<&ArmorData> for Armor {
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Defense {
-    base: u8,
-    max: u8,
+    base: u16,
+    max: u16,
 }
 
 impl From<&ArmorData> for Defense {
@@ -261,7 +304,7 @@ struct ArmorData {
     #[serde(rename = "_Explain")]
     description_guid: String,
     #[serde(rename = "_Defense")]
-    base_defense: u8,
+    base_defense: u16,
     #[serde(rename = "_Resistance")]
     resistances: ResistanceData,
     #[serde(rename = "_SlotLevel")]
@@ -357,4 +400,38 @@ impl PartialEq<PartKindCode> for PartKind {
     fn eq(&self, other: &PartKindCode) -> bool {
         (*self as u8) == (*other as u8)
     }
+}
+
+#[derive(Debug, Deserialize)]
+struct UpgradeData {
+    #[serde(rename = "_Rare")]
+    rarity: u8,
+    #[serde(rename = "_MaxLevel")]
+    max_level: u8,
+    #[serde(rename = "_DefUpValue")]
+    extra_defense: u16,
+    #[serde(rename = "_Point")]
+    point_cost: usize,
+    #[serde(rename = "_Price")]
+    zenny_cost: usize,
+}
+
+#[derive(Debug, Serialize)]
+struct Upgrade {
+    rarity: u8,
+    steps: Vec<UpgradeStep>,
+}
+
+impl Upgrade {
+    fn get_total_defense_bonus(&self) -> u16 {
+        self.steps.iter().fold(0, |sum, v| sum + v.extra_defense)
+    }
+}
+
+#[derive(Debug, Serialize)]
+struct UpgradeStep {
+    level: u8,
+    extra_defense: u16,
+    point_cost: usize,
+    zenny_cost: usize,
 }

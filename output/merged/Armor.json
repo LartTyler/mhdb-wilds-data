@@ -65,7 +65,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -127,7 +127,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -188,7 +188,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -248,7 +248,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -310,7 +310,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -403,7 +403,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 2,
@@ -463,7 +463,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 2,
@@ -522,7 +522,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 2,
@@ -580,7 +580,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 2,
@@ -638,7 +638,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 2,
@@ -741,7 +741,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -805,7 +805,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -869,7 +869,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -934,7 +934,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -999,7 +999,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -1108,7 +1108,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -1173,7 +1173,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -1235,7 +1235,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -1299,7 +1299,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -1363,7 +1363,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -1451,7 +1451,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -1513,7 +1513,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -1575,7 +1575,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -1637,7 +1637,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -1699,7 +1699,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -1793,7 +1793,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -1852,7 +1852,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -1913,7 +1913,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -1972,7 +1972,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2033,7 +2033,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2127,7 +2127,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 38
         },
         "resistances": {
           "fire": -3,
@@ -2187,7 +2187,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 38
         },
         "resistances": {
           "fire": -3,
@@ -2246,7 +2246,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 38
         },
         "resistances": {
           "fire": -3,
@@ -2305,7 +2305,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 38
         },
         "resistances": {
           "fire": -3,
@@ -2365,7 +2365,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 38
         },
         "resistances": {
           "fire": -3,
@@ -2450,7 +2450,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2510,7 +2510,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2569,7 +2569,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2629,7 +2629,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2689,7 +2689,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -2793,7 +2793,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -2857,7 +2857,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -2921,7 +2921,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -2986,7 +2986,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -3049,7 +3049,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -3146,7 +3146,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -3208,7 +3208,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -3268,7 +3268,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -3331,7 +3331,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -3393,7 +3393,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -3478,7 +3478,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 2,
@@ -3538,7 +3538,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 2,
@@ -3598,7 +3598,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 2,
@@ -3658,7 +3658,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 2,
@@ -3718,7 +3718,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 2,
@@ -3810,7 +3810,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -2,
@@ -3868,7 +3868,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -2,
@@ -3926,7 +3926,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -2,
@@ -3984,7 +3984,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -2,
@@ -4042,7 +4042,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -2,
@@ -4144,7 +4144,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 36
         },
         "resistances": {
           "fire": -3,
@@ -4205,7 +4205,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 36
         },
         "resistances": {
           "fire": -3,
@@ -4264,7 +4264,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 36
         },
         "resistances": {
           "fire": -3,
@@ -4323,7 +4323,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 36
         },
         "resistances": {
           "fire": -3,
@@ -4383,7 +4383,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 36
         },
         "resistances": {
           "fire": -3,
@@ -4488,7 +4488,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -4552,7 +4552,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -4615,7 +4615,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -4680,7 +4680,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -4745,7 +4745,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -4841,7 +4841,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -4902,7 +4902,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -4963,7 +4963,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -5024,7 +5024,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -5117,7 +5117,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -5179,7 +5179,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -5242,7 +5242,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -5305,7 +5305,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -5366,7 +5366,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -5461,7 +5461,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -5,
@@ -5553,7 +5553,7 @@
         },
         "defense": {
           "base": 22,
-          "max": 22
+          "max": 36
         },
         "resistances": {
           "fire": 0,
@@ -5645,7 +5645,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -5706,7 +5706,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -5770,7 +5770,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -5832,7 +5832,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -5895,7 +5895,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -5990,7 +5990,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -6052,7 +6052,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -6144,7 +6144,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -6205,7 +6205,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -6269,7 +6269,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -6330,7 +6330,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -6391,7 +6391,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -6477,7 +6477,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": -2,
@@ -6538,7 +6538,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": -2,
@@ -6600,7 +6600,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": -2,
@@ -6662,7 +6662,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": -2,
@@ -6725,7 +6725,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": -2,
@@ -6820,7 +6820,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -6882,7 +6882,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -6945,7 +6945,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -7005,7 +7005,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -7068,7 +7068,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -7160,7 +7160,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -7222,7 +7222,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -7281,7 +7281,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -7342,7 +7342,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -7402,7 +7402,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -7507,7 +7507,7 @@
         },
         "defense": {
           "base": 30,
-          "max": 30
+          "max": 44
         },
         "resistances": {
           "fire": 2,
@@ -7569,7 +7569,7 @@
         },
         "defense": {
           "base": 30,
-          "max": 30
+          "max": 44
         },
         "resistances": {
           "fire": 2,
@@ -7630,7 +7630,7 @@
         },
         "defense": {
           "base": 30,
-          "max": 30
+          "max": 44
         },
         "resistances": {
           "fire": 2,
@@ -7692,7 +7692,7 @@
         },
         "defense": {
           "base": 30,
-          "max": 30
+          "max": 44
         },
         "resistances": {
           "fire": 2,
@@ -7755,7 +7755,7 @@
         },
         "defense": {
           "base": 30,
-          "max": 30
+          "max": 44
         },
         "resistances": {
           "fire": 2,
@@ -7860,7 +7860,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -7924,7 +7924,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -7989,7 +7989,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -8051,7 +8051,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -8116,7 +8116,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -8224,7 +8224,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -8289,7 +8289,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -8353,7 +8353,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -8418,7 +8418,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -8483,7 +8483,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -8591,7 +8591,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -8653,7 +8653,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -8718,7 +8718,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -8782,7 +8782,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -8846,7 +8846,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -8954,7 +8954,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -9019,7 +9019,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -9082,7 +9082,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -9147,7 +9147,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -9212,7 +9212,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -9308,7 +9308,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 4,
@@ -9399,7 +9399,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -9462,7 +9462,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -9525,7 +9525,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -9588,7 +9588,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -9651,7 +9651,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -9746,7 +9746,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": 4,
@@ -9848,7 +9848,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -3,
@@ -9910,7 +9910,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -3,
@@ -9970,7 +9970,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -3,
@@ -10031,7 +10031,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -3,
@@ -10093,7 +10093,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -3,
@@ -10186,7 +10186,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 4,
@@ -10277,7 +10277,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -10337,7 +10337,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -10399,7 +10399,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -10460,7 +10460,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -10519,7 +10519,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -10626,7 +10626,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -10691,7 +10691,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -10755,7 +10755,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -10821,7 +10821,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -10885,7 +10885,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -1,
@@ -10974,7 +10974,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -11035,7 +11035,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -11097,7 +11097,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -11158,7 +11158,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -11221,7 +11221,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -11326,7 +11326,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 0,
@@ -11386,7 +11386,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 0,
@@ -11445,7 +11445,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 0,
@@ -11508,7 +11508,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 0,
@@ -11571,7 +11571,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 0,
@@ -11665,7 +11665,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -11727,7 +11727,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -11789,7 +11789,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -11850,7 +11850,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -11910,7 +11910,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -12006,7 +12006,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 0,
@@ -12095,7 +12095,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -12157,7 +12157,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -12218,7 +12218,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -12280,7 +12280,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -12342,7 +12342,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -12435,7 +12435,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -12497,7 +12497,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -12559,7 +12559,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -12620,7 +12620,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -12683,7 +12683,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -4,
@@ -12789,7 +12789,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -12853,7 +12853,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -12915,7 +12915,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -12979,7 +12979,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -13042,7 +13042,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -13139,7 +13139,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -13233,7 +13233,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -13295,7 +13295,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -13357,7 +13357,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -13420,7 +13420,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -13481,7 +13481,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -13576,7 +13576,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -13638,7 +13638,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -13701,7 +13701,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -13763,7 +13763,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -13824,7 +13824,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -13919,7 +13919,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -13980,7 +13980,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -14043,7 +14043,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -14106,7 +14106,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -14168,7 +14168,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -14276,7 +14276,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -14338,7 +14338,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -14402,7 +14402,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -14467,7 +14467,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -14531,7 +14531,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -14628,7 +14628,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 1,
@@ -14690,7 +14690,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 1,
@@ -14750,7 +14750,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 1,
@@ -14810,7 +14810,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 1,
@@ -14871,7 +14871,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 1,
@@ -14976,7 +14976,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15039,7 +15039,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15104,7 +15104,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15167,7 +15167,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15232,7 +15232,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15329,7 +15329,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -15423,7 +15423,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -15529,7 +15529,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -15591,7 +15591,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -15652,7 +15652,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -15714,7 +15714,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -15775,7 +15775,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -15881,7 +15881,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -15945,7 +15945,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -16010,7 +16010,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -16074,7 +16074,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -16138,7 +16138,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 52
+          "max": 70
         },
         "resistances": {
           "fire": 4,
@@ -16247,7 +16247,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -1,
@@ -16309,7 +16309,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -1,
@@ -16372,7 +16372,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -1,
@@ -16434,7 +16434,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -1,
@@ -16494,7 +16494,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -1,
@@ -16586,7 +16586,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -16693,7 +16693,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -16757,7 +16757,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -16822,7 +16822,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -16886,7 +16886,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -16952,7 +16952,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -17047,7 +17047,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -17105,7 +17105,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -17164,7 +17164,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -17222,7 +17222,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -17281,7 +17281,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -17365,7 +17365,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 1,
@@ -17419,7 +17419,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 1,
@@ -17473,7 +17473,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 1,
@@ -17527,7 +17527,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 1,
@@ -17581,7 +17581,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 1,
@@ -17659,7 +17659,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 2,
@@ -17713,7 +17713,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 2,
@@ -17767,7 +17767,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 2,
@@ -17821,7 +17821,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 2,
@@ -17875,7 +17875,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 2,
@@ -17953,7 +17953,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 0,
@@ -18007,7 +18007,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 0,
@@ -18061,7 +18061,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 0,
@@ -18115,7 +18115,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 0,
@@ -18169,7 +18169,7 @@
         },
         "defense": {
           "base": 2,
-          "max": 2
+          "max": 22
         },
         "resistances": {
           "fire": 0,
@@ -18247,7 +18247,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 2,
@@ -18303,7 +18303,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 2,
@@ -18359,7 +18359,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 2,
@@ -18415,7 +18415,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 2,
@@ -18471,7 +18471,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 2,
@@ -18551,7 +18551,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": -2,
@@ -18608,7 +18608,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": -2,
@@ -18665,7 +18665,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": -2,
@@ -18722,7 +18722,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": -2,
@@ -18779,7 +18779,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": -2,
@@ -18860,7 +18860,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -2,
@@ -18917,7 +18917,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -2,
@@ -18974,7 +18974,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -2,
@@ -19031,7 +19031,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -2,
@@ -19088,7 +19088,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -2,
@@ -19177,7 +19177,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": 4,
@@ -19267,7 +19267,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -4,
@@ -19463,7 +19463,7 @@
         },
         "defense": {
           "base": 40,
-          "max": 40
+          "max": 64
         },
         "resistances": {
           "fire": 1,
@@ -19557,7 +19557,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -19617,7 +19617,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -19678,7 +19678,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -19739,7 +19739,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -19800,7 +19800,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": -3,
@@ -19893,7 +19893,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -19954,7 +19954,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -20017,7 +20017,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -20079,7 +20079,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -20141,7 +20141,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -20249,7 +20249,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -20314,7 +20314,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -20377,7 +20377,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -20442,7 +20442,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -20506,7 +20506,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -20615,7 +20615,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -20678,7 +20678,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -20741,7 +20741,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -20806,7 +20806,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -20870,7 +20870,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -20979,7 +20979,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -21044,7 +21044,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -21109,7 +21109,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -21174,7 +21174,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -21238,7 +21238,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -21336,7 +21336,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -3,
@@ -21440,7 +21440,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -21505,7 +21505,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -21567,7 +21567,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -21631,7 +21631,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -21693,7 +21693,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -21787,7 +21787,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -21880,7 +21880,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -21941,7 +21941,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -22004,7 +22004,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -22066,7 +22066,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -22128,7 +22128,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 1,
@@ -22222,7 +22222,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -3,
@@ -22313,7 +22313,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -22376,7 +22376,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -22437,7 +22437,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -22501,7 +22501,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -22561,7 +22561,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 2,
@@ -22647,7 +22647,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -22708,7 +22708,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -22769,7 +22769,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -22830,7 +22830,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -22891,7 +22891,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -22996,7 +22996,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -23061,7 +23061,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -23126,7 +23126,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -23191,7 +23191,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -23254,7 +23254,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -23351,7 +23351,7 @@
         },
         "defense": {
           "base": 16,
-          "max": 16
+          "max": 32
         },
         "resistances": {
           "fire": -5,
@@ -23452,7 +23452,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -23517,7 +23517,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -23578,7 +23578,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -23642,7 +23642,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -23706,7 +23706,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -4,
@@ -23803,7 +23803,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -23865,7 +23865,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -23927,7 +23927,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -23990,7 +23990,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -24053,7 +24053,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 3,
@@ -24161,7 +24161,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -24226,7 +24226,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -24290,7 +24290,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -24356,7 +24356,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -24420,7 +24420,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -24528,7 +24528,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -24592,7 +24592,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -24658,7 +24658,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -24721,7 +24721,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -24786,7 +24786,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -24895,7 +24895,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -2,
@@ -24957,7 +24957,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -2,
@@ -25018,7 +25018,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -2,
@@ -25080,7 +25080,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -2,
@@ -25142,7 +25142,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": -2,
@@ -25235,7 +25235,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -25297,7 +25297,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -25359,7 +25359,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -25421,7 +25421,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -25483,7 +25483,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 0,
@@ -25569,7 +25569,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 1,
@@ -25628,7 +25628,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 1,
@@ -25688,7 +25688,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 1,
@@ -25748,7 +25748,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 1,
@@ -25808,7 +25808,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 1,
@@ -25898,7 +25898,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -25956,7 +25956,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -26015,7 +26015,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -26074,7 +26074,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -26132,7 +26132,7 @@
         },
         "defense": {
           "base": 8,
-          "max": 8
+          "max": 28
         },
         "resistances": {
           "fire": -3,
@@ -26224,7 +26224,7 @@
         },
         "defense": {
           "base": 20,
-          "max": 20
+          "max": 36
         },
         "resistances": {
           "fire": -2,
@@ -26284,7 +26284,7 @@
         },
         "defense": {
           "base": 20,
-          "max": 20
+          "max": 36
         },
         "resistances": {
           "fire": -2,
@@ -26343,7 +26343,7 @@
         },
         "defense": {
           "base": 20,
-          "max": 20
+          "max": 36
         },
         "resistances": {
           "fire": -2,
@@ -26402,7 +26402,7 @@
         },
         "defense": {
           "base": 20,
-          "max": 20
+          "max": 36
         },
         "resistances": {
           "fire": -2,
@@ -26462,7 +26462,7 @@
         },
         "defense": {
           "base": 20,
-          "max": 20
+          "max": 36
         },
         "resistances": {
           "fire": -2,
@@ -26552,7 +26552,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -26612,7 +26612,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -26674,7 +26674,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -26734,7 +26734,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -26796,7 +26796,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -2,
@@ -26889,7 +26889,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -4,
@@ -26981,7 +26981,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 3,
@@ -27043,7 +27043,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 3,
@@ -27105,7 +27105,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 3,
@@ -27167,7 +27167,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 3,
@@ -27230,7 +27230,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 3,
@@ -27337,7 +27337,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -27401,7 +27401,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -27465,7 +27465,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -27529,7 +27529,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -27592,7 +27592,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -3,
@@ -27689,7 +27689,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -27750,7 +27750,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -27812,7 +27812,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -27873,7 +27873,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -27935,7 +27935,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 2,
@@ -28029,7 +28029,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -28092,7 +28092,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -28155,7 +28155,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -28218,7 +28218,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -28281,7 +28281,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": -1,
@@ -28376,7 +28376,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -28438,7 +28438,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -28500,7 +28500,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -28563,7 +28563,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -28624,7 +28624,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -3,
@@ -28730,7 +28730,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -28795,7 +28795,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -28859,7 +28859,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -28924,7 +28924,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -28988,7 +28988,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -29097,7 +29097,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 5,
@@ -29159,7 +29159,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 5,
@@ -29221,7 +29221,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 5,
@@ -29282,7 +29282,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 5,
@@ -29345,7 +29345,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 40
         },
         "resistances": {
           "fire": 5,
@@ -29440,7 +29440,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -29502,7 +29502,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -29563,7 +29563,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -29625,7 +29625,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -29687,7 +29687,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -29780,7 +29780,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -29840,7 +29840,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -29901,7 +29901,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -29964,7 +29964,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -30025,7 +30025,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 38
+          "max": 62
         },
         "resistances": {
           "fire": -2,
@@ -30120,7 +30120,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 4,
@@ -30225,7 +30225,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -30290,7 +30290,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -30355,7 +30355,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -30419,7 +30419,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -30483,7 +30483,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 5,
@@ -30579,7 +30579,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 1,
@@ -30637,7 +30637,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 1,
@@ -30696,7 +30696,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 1,
@@ -30754,7 +30754,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 1,
@@ -30814,7 +30814,7 @@
         },
         "defense": {
           "base": 6,
-          "max": 6
+          "max": 26
         },
         "resistances": {
           "fire": 1,
@@ -30905,7 +30905,7 @@
         },
         "defense": {
           "base": 24,
-          "max": 24
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -30966,7 +30966,7 @@
         },
         "defense": {
           "base": 24,
-          "max": 24
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -31024,7 +31024,7 @@
         },
         "defense": {
           "base": 24,
-          "max": 24
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -31084,7 +31084,7 @@
         },
         "defense": {
           "base": 24,
-          "max": 24
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -31143,7 +31143,7 @@
         },
         "defense": {
           "base": 24,
-          "max": 24
+          "max": 40
         },
         "resistances": {
           "fire": 3,
@@ -31235,7 +31235,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": 4,
@@ -31327,7 +31327,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -31391,7 +31391,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -31452,7 +31452,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -31516,7 +31516,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -31579,7 +31579,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -31686,7 +31686,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -31748,7 +31748,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -31812,7 +31812,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -31875,7 +31875,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -31940,7 +31940,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -32048,7 +32048,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -32110,7 +32110,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -32173,7 +32173,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -32235,7 +32235,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -32299,7 +32299,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -2,
@@ -32395,7 +32395,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -32458,7 +32458,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -32522,7 +32522,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -32584,7 +32584,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -32646,7 +32646,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 1,
@@ -32752,7 +32752,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -32817,7 +32817,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -32881,7 +32881,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -32946,7 +32946,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -33011,7 +33011,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 66
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -33108,7 +33108,7 @@
         },
         "defense": {
           "base": 12,
-          "max": 12
+          "max": 32
         },
         "resistances": {
           "fire": -1,
@@ -33166,7 +33166,7 @@
         },
         "defense": {
           "base": 12,
-          "max": 12
+          "max": 32
         },
         "resistances": {
           "fire": -1,
@@ -33225,7 +33225,7 @@
         },
         "defense": {
           "base": 12,
-          "max": 12
+          "max": 32
         },
         "resistances": {
           "fire": -1,
@@ -33284,7 +33284,7 @@
         },
         "defense": {
           "base": 12,
-          "max": 12
+          "max": 32
         },
         "resistances": {
           "fire": -1,
@@ -33344,7 +33344,7 @@
         },
         "defense": {
           "base": 12,
-          "max": 12
+          "max": 32
         },
         "resistances": {
           "fire": -1,
@@ -33434,7 +33434,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -4,
@@ -33536,7 +33536,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -33599,7 +33599,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -33664,7 +33664,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -33727,7 +33727,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -33791,7 +33791,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": -1,
@@ -33888,7 +33888,7 @@
         },
         "defense": {
           "base": 4,
-          "max": 4
+          "max": 24
         },
         "resistances": {
           "fire": -3,
@@ -33990,7 +33990,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -34054,7 +34054,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -34118,7 +34118,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -34183,7 +34183,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -34245,7 +34245,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -34353,7 +34353,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34417,7 +34417,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34481,7 +34481,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34546,7 +34546,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34611,7 +34611,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34700,7 +34700,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 2,
@@ -34758,7 +34758,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 2,
@@ -34818,7 +34818,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 2,
@@ -34878,7 +34878,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 2,
@@ -34937,7 +34937,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 2,
@@ -35029,7 +35029,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 4,
@@ -35089,7 +35089,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 4,
@@ -35150,7 +35150,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 44
+          "max": 62
         },
         "resistances": {
           "fire": 4,
@@ -35236,7 +35236,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": 4,
@@ -35299,7 +35299,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": 4,
@@ -35362,7 +35362,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": 4,
@@ -35425,7 +35425,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": 4,
@@ -35487,7 +35487,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 56
+          "max": 68
         },
         "resistances": {
           "fire": 4,
@@ -35580,7 +35580,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -35643,7 +35643,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -35705,7 +35705,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -35768,7 +35768,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -35831,7 +35831,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 48
+          "max": 66
         },
         "resistances": {
           "fire": 3,
@@ -35936,7 +35936,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -36001,7 +36001,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -36065,7 +36065,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -36130,7 +36130,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -36194,7 +36194,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -36284,7 +36284,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 0,
@@ -36344,7 +36344,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 0,
@@ -36403,7 +36403,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 0,
@@ -36463,7 +36463,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 0,
@@ -36522,7 +36522,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 26
+          "max": 50
         },
         "resistances": {
           "fire": 0,
@@ -36614,7 +36614,7 @@
         },
         "defense": {
           "base": 18,
-          "max": 18
+          "max": 34
         },
         "resistances": {
           "fire": 0,
@@ -36673,7 +36673,7 @@
         },
         "defense": {
           "base": 18,
-          "max": 18
+          "max": 34
         },
         "resistances": {
           "fire": 0,
@@ -36731,7 +36731,7 @@
         },
         "defense": {
           "base": 18,
-          "max": 18
+          "max": 34
         },
         "resistances": {
           "fire": 0,
@@ -36791,7 +36791,7 @@
         },
         "defense": {
           "base": 18,
-          "max": 18
+          "max": 34
         },
         "resistances": {
           "fire": 0,
@@ -36852,7 +36852,7 @@
         },
         "defense": {
           "base": 18,
-          "max": 18
+          "max": 34
         },
         "resistances": {
           "fire": 0,
@@ -36942,7 +36942,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 32
+          "max": 56
         },
         "resistances": {
           "fire": -5,
@@ -37024,7 +37024,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 60
+          "max": 72
         },
         "resistances": {
           "fire": 0,
@@ -37114,7 +37114,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -37176,7 +37176,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -37238,7 +37238,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -37301,7 +37301,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,
@@ -37362,7 +37362,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 36
+          "max": 60
         },
         "resistances": {
           "fire": 0,

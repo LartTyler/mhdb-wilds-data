@@ -1,0 +1,450 @@
+[
+  {
+    "rarity": 1,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 40
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 200
+      },
+      {
+        "level": 10,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 200
+      },
+      {
+        "level": 11,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 200
+      }
+    ]
+  },
+  {
+    "rarity": 2,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 60
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 300
+      },
+      {
+        "level": 10,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 300
+      },
+      {
+        "level": 11,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 300
+      }
+    ]
+  },
+  {
+    "rarity": 3,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 80
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 80
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 10,
+        "zenny_cost": 80
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 80
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 20,
+        "zenny_cost": 80
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 400
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 400
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 400
+      }
+    ]
+  },
+  {
+    "rarity": 4,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 100
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 100
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 100
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 100
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 30,
+        "zenny_cost": 100
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 200,
+        "zenny_cost": 500
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 200,
+        "zenny_cost": 500
+      }
+    ]
+  },
+  {
+    "rarity": 5,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 200,
+        "zenny_cost": 800
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 200,
+        "zenny_cost": 800
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 200,
+        "zenny_cost": 800
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 1600
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 1600
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 1600
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 3200
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 3200
+      },
+      {
+        "level": 10,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 4800
+      },
+      {
+        "level": 11,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 4800
+      },
+      {
+        "level": 12,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      },
+      {
+        "level": 13,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      }
+    ]
+  },
+  {
+    "rarity": 6,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 2400
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 2400
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 400,
+        "zenny_cost": 2400
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 4800
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 4800
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 7200
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 7200
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 10,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      }
+    ]
+  },
+  {
+    "rarity": 7,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 6400
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 6400
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 6400
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 9600
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 16000
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 16000
+      }
+    ]
+  },
+  {
+    "rarity": 8,
+    "steps": [
+      {
+        "level": 2,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 3,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 4,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 5,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 20000
+      },
+      {
+        "level": 6,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 20000
+      },
+      {
+        "level": 7,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 20000
+      }
+    ]
+  }
+]
