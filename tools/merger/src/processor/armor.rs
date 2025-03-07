@@ -362,7 +362,7 @@ struct CraftingData {
 enum PartKindCode {
     Head,
     Chest,
-    Hands,
+    Arms,
     Waist,
     Legs,
 }
@@ -373,7 +373,7 @@ enum PartKindCode {
 enum PartKind {
     Head,
     Chest,
-    Hands,
+    Arms,
     Waist,
     Legs,
 }
@@ -389,7 +389,7 @@ impl From<PartKindCode> for PartKind {
         match value {
             PartKindCode::Head => Self::Head,
             PartKindCode::Chest => Self::Chest,
-            PartKindCode::Hands => Self::Hands,
+            PartKindCode::Arms => Self::Arms,
             PartKindCode::Waist => Self::Waist,
             PartKindCode::Legs => Self::Legs,
         }

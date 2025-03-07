@@ -153,7 +153,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "コンガアームα",
           "en": "Conga Vambraces α",
@@ -487,7 +487,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トリスアーム",
           "en": "Quematrice Braces",
@@ -834,7 +834,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ゴアアームα",
           "en": "Gore Vambraces α",
@@ -1200,7 +1200,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ブランゴアームβ",
           "en": "Blango Vambraces β",
@@ -1540,7 +1540,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ギルドエースアームα",
           "en": "Guild Ace Vambraces α",
@@ -1878,7 +1878,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ランゴアームα",
           "en": "Vespoid Vambraces α",
@@ -2211,7 +2211,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ヒラバミアーム",
           "en": "Hirabami Vambraces",
@@ -2534,7 +2534,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アロイアームα",
           "en": "Alloy Vambraces α",
@@ -2886,7 +2886,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レウスアームβ",
           "en": "Rathalos Vambraces β",
@@ -3233,7 +3233,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "チャタアームα",
           "en": "Chatacabra Vambraces α",
@@ -3563,7 +3563,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ボーンアームα",
           "en": "Bone Vambraces α",
@@ -3891,7 +3891,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ランゴアーム",
           "en": "Vespoid Vambraces",
@@ -4229,7 +4229,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ドシャグマアーム",
           "en": "Doshaguma Braces",
@@ -4580,7 +4580,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護火竜アームβ",
           "en": "G. Rathalos Vambraces β",
@@ -5207,7 +5207,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レイアアームβ",
           "en": "Rathian Vambraces β",
@@ -5735,7 +5735,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "スキュラアームβ",
           "en": "Nerscylla Vambraces β",
@@ -6234,7 +6234,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "コンガアームβ",
           "en": "Conga Vambraces β",
@@ -6565,7 +6565,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ドーベルアームα",
           "en": "Dober Vambraces α",
@@ -6910,7 +6910,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ゲリョスアームα",
           "en": "Gypceros Vambraces α",
@@ -7246,7 +7246,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レイアアームα",
           "en": "Rathian Vambraces α",
@@ -7595,7 +7595,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護鎖刃竜アーム",
           "en": "G. Arkveld Vambraces",
@@ -7954,7 +7954,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ダハディラアームα",
           "en": "Dahaad Shardbraces α",
@@ -8318,7 +8318,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トゥナムルアームα",
           "en": "Duna Wildbraces α",
@@ -8683,7 +8683,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レダゼルトアームα",
           "en": "Rey Sandbraces α",
@@ -9047,7 +9047,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護火竜アームα",
           "en": "G. Rathalos Vambraces α",
@@ -9490,7 +9490,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "パピメルマーノα",
           "en": "Butterfly Brachia α",
@@ -9935,7 +9935,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護闢獣アーム",
           "en": "G. Doshaguma Braces",
@@ -10151,7 +10151,7 @@
     },
     "pieces": [
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "タリオスアームα",
           "en": "Talioth Vambraces α",
@@ -10364,7 +10364,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ヒラバミアームα",
           "en": "Hirabami Vambraces α",
@@ -10720,7 +10720,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トゥナムルアームβ",
           "en": "Duna Wildbraces β",
@@ -11062,7 +11062,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "インゴットアームα",
           "en": "Ingot Vambraces α",
@@ -11410,7 +11410,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レダゼルトアーム",
           "en": "Rey Sandbraces",
@@ -11754,7 +11754,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "バーラアームα",
           "en": "Balahara Vambraces α",
@@ -12183,7 +12183,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "メルホアラーマα",
           "en": "Melahoa Branch α",
@@ -12524,7 +12524,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ゲリョスアームβ",
           "en": "Gypceros Vambraces β",
@@ -12880,7 +12880,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "シーウーアームα",
           "en": "Xu Wu Vambraces α",
@@ -13322,7 +13322,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トリスアームβ",
           "en": "Quematrice Braces β",
@@ -13666,7 +13666,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "クックアームα",
           "en": "Kut-Ku Vambraces α",
@@ -14008,7 +14008,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ラバラアームβ",
           "en": "Barina Vambraces β",
@@ -14367,7 +14367,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "シュバルカアームα",
           "en": "Arkvulcan Vambraces α",
@@ -14715,7 +14715,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "シーウーアーム",
           "en": "Xu Wu Vambraces",
@@ -15069,7 +15069,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "グラビドアームβ",
           "en": "Gravios Vambraces β",
@@ -15617,7 +15617,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護火竜アーム",
           "en": "G. Rathalos Vambraces",
@@ -15975,7 +15975,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "グラビドアームα",
           "en": "Gravios Vambraces α",
@@ -16337,7 +16337,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トゥナムルアーム",
           "en": "Duna Vambraces",
@@ -16787,7 +16787,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ダハディラアームβ",
           "en": "Dahaad Shardbraces β",
@@ -17129,7 +17129,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ラバラアーム",
           "en": "Barina Vambraces",
@@ -17438,7 +17438,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ホープアーム",
           "en": "Hope Vambraces",
@@ -17732,7 +17732,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レザーグラブ",
           "en": "Leather Gloves",
@@ -18026,7 +18026,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "チェーングラブ",
           "en": "Chainmail Gloves",
@@ -18324,7 +18324,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ボーンアーム",
           "en": "Bone Vambraces",
@@ -18630,7 +18630,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アロイアーム",
           "en": "Alloy Vambraces",
@@ -18939,7 +18939,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "インゴットアーム",
           "en": "Ingot Vambraces",
@@ -19142,7 +19142,7 @@
     },
     "pieces": [
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "タリオスアーム",
           "en": "Talioth Vambraces",
@@ -19643,7 +19643,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ラバラアームα",
           "en": "Barina Vambraces α",
@@ -19982,7 +19982,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "バーラアームβ",
           "en": "Balahara Vambraces β",
@@ -20342,7 +20342,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護闢獣アームβ",
           "en": "G. Doshaguma Braces β",
@@ -20706,7 +20706,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護兇爪竜アームβ",
           "en": "G. Ebony Braces β",
@@ -21074,7 +21074,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ドシャグマアームβ",
           "en": "Doshaguma Braces β",
@@ -21532,7 +21532,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護鎖刃竜アームα",
           "en": "G. Arkveld Vambraces α",
@@ -21969,7 +21969,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "チャタアームβ",
           "en": "Chatacabra Vambraces β",
@@ -22402,7 +22402,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "トリスアームα",
           "en": "Quematrice Braces α",
@@ -22734,7 +22734,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "調査団アームα",
           "en": "Commission Vambraces α",
@@ -23091,7 +23091,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "エグゾルスアームβ",
           "en": "Udra Mirebraces β",
@@ -23543,7 +23543,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ブランゴアームα",
           "en": "Blango Vambraces α",
@@ -23892,7 +23892,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "クックアームβ",
           "en": "Kut-Ku Vambraces β",
@@ -24255,7 +24255,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護闢獣アームα",
           "en": "G. Doshaguma Braces α",
@@ -24623,7 +24623,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レダゼルトアームβ",
           "en": "Rey Sandbraces β",
@@ -24983,7 +24983,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護兇爪竜アーム",
           "en": "G. Ebony Braces",
@@ -25324,7 +25324,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ハイメタアームα",
           "en": "High Metal Braces α",
@@ -25653,7 +25653,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ホープアームα",
           "en": "Hope Vambraces α",
@@ -25980,7 +25980,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "コンガアーム",
           "en": "Conga Vambraces",
@@ -26308,7 +26308,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "スキュラアーム",
           "en": "Nerscylla Vambraces",
@@ -26639,7 +26639,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ランゴアームβ",
           "en": "Vespoid Vambraces β",
@@ -27070,7 +27070,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "デスギアファオストα",
           "en": "Death Stench Grip α",
@@ -27430,7 +27430,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ドシャグマアームα",
           "en": "Doshaguma Braces α",
@@ -27777,7 +27777,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "バトルアームα",
           "en": "Battle Vambraces α",
@@ -28120,7 +28120,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "オウビートマーノα",
           "en": "King Beetle Brachia α",
@@ -28465,7 +28465,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ヒラバミアームβ",
           "en": "Hirabami Vambraces β",
@@ -28824,7 +28824,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護鎖刃竜アームβ",
           "en": "G. Arkveld Vambraces β",
@@ -29186,7 +29186,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "エグゾルスアーム",
           "en": "Udra Mirebraces",
@@ -29528,7 +29528,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "プポルアームβ",
           "en": "Rompopolo Vambraces β",
@@ -29866,7 +29866,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "スキュラアームα",
           "en": "Nerscylla Vambraces α",
@@ -30085,7 +30085,7 @@
     },
     "pieces": [
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "タリオスアームβ",
           "en": "Talioth Vambraces β",
@@ -30320,7 +30320,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "エグゾルスアームα",
           "en": "Udra Mirebraces α",
@@ -30661,7 +30661,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "チャタアーム",
           "en": "Chatacabra Vambraces",
@@ -30989,7 +30989,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アジャラアーム",
           "en": "Ajarakan Vambraces",
@@ -31417,7 +31417,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アジャラアームβ",
           "en": "Ajarakan Vambraces β",
@@ -31777,7 +31777,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護雷顎竜アームα",
           "en": "G. Fulgur Vambraces α",
@@ -32138,7 +32138,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護兇爪竜アームα",
           "en": "G. Ebony Braces α",
@@ -32487,7 +32487,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アーティアアームα",
           "en": "Artian Vambraces α",
@@ -32846,7 +32846,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "シュバルカアームβ",
           "en": "Arkvulcan Vambraces β",
@@ -33190,7 +33190,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "バーラアーム",
           "en": "Balahara Vambraces",
@@ -33629,7 +33629,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "護雷顎竜アームβ",
           "en": "G. Fulgur Vambraces β",
@@ -34083,7 +34083,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レウスアームα",
           "en": "Rathalos Vambraces α",
@@ -34446,7 +34446,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "シーウーアームβ",
           "en": "Xu Wu Vambraces β",
@@ -34783,7 +34783,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "レザーグラブα",
           "en": "Leather Gloves α",
@@ -35327,7 +35327,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ダマスクアームα",
           "en": "Damascus Vambraces α",
@@ -35670,7 +35670,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "アジャラアームα",
           "en": "Ajarakan Vambraces α",
@@ -36030,7 +36030,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "ゴアアームβ",
           "en": "Gore Vambraces β",
@@ -36368,7 +36368,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "チェーングラブα",
           "en": "Chainmail Gloves α",
@@ -36696,7 +36696,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "プポルアーム",
           "en": "Rompopolo Vambraces",
@@ -37203,7 +37203,7 @@
         }
       },
       {
-        "kind": "hands",
+        "kind": "arms",
         "names": {
           "ja": "プポルアームα",
           "en": "Rompopolo Vambraces α",
