@@ -1,1 +1,1 @@
-tools\extractor\target\debug\extractor.exe
+cargo run --manifest-path tools\extractor\Cargo.toml

@@ -15,6 +15,7 @@ files = [
     "Equip/ArmorData.user.3",
     "Equip/ArmorRecipeData.user.3",
     "Equip/ArmorSeriesData.user.3",
+    "Equip/ArmorUpgradeData.user.3",
     "Equip/Charm.user.3",
     "Equip/SkillCommonData.user.3",
     "Equip/SkillData.user.3",
