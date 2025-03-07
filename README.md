@@ -24,8 +24,7 @@
 
 # About
 The goal of this project is to "glue" several other tools together in order to get sane JSON files for data objects in
-Wilds. This repo is used by the [MHDB Wilds Project](https://github.com/LartTyler/mhdb-wilds) as it's primary data
-source.
+Wilds. This repo is used by the [MHDB Wilds Project](https://docs.wilds.mhdb.io) as it's primary data source.
 
 **If you're just looking for game data**, you don't need to build the merged files yourself. The most recent version of
 all the merged data files are available in
