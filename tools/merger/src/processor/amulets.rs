@@ -1,5 +1,7 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, IdMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{
+    to_ingame_rarity, IdMap, LanguageMap, ReadFile, Result, Translations, WriteFile,
+};
 use crate::serde::ordered_map;
 use indicatif::ProgressBar;
 use serde::{Deserialize, Serialize};
@@ -80,7 +82,15 @@ pub fn process(config: &Config) -> Result {
             continue;
         };
 
-        rank.recipe.inputs = data.input_ids.into_iter().zip(data.input_amounts).collect();
+        rank.recipe.inputs = data
+            .input_ids
+            .into_iter()
+            .zip(data.input_amounts)
+            // Some crafting info contains inputs with zero quantity, which should be fine to
+            // ignore. I'm guessing charms must always have a certain number of inputs in the game
+            // files, even if they don't use them all.
+            .filter(|(_id, amount)| *amount > 0)
+            .collect();
     }
 
     progress.finish_and_clear();
