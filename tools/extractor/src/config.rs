@@ -1,7 +1,9 @@
+use std::collections::HashMap;
 use serde::Deserialize;
 use std::fs::File;
 use std::io;
 use std::path::{Path, PathBuf};
+use regex::Regex;
 
 #[derive(Debug, Deserialize, Default)]
 pub struct Config {
@@ -35,7 +37,16 @@ pub struct IoSection {
 #[derive(Debug, Deserialize, Default)]
 pub struct FilesSection {
     pub prefix: Option<PathBuf>,
-    pub files: Vec<PathBuf>,
+    pub files: Vec<String>,
+    #[serde(default)]
+    pub rules: HashMap<String, ExtractorRule>,
+}
+
+#[derive(Debug, Deserialize)]
+pub struct ExtractorRule {
+    #[serde(with = "serde_regex", rename = "match")]
+    pub match_regex: Option<Regex>,
+    pub rsz_indexes: Option<Vec<u8>>,
 }
 
 impl Default for IoSection {

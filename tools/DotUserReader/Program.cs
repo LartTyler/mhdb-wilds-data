@@ -10,6 +10,19 @@ class Program
         var path = args[0];
         var outPath = args.ElementAtOrDefault(1) ?? "output.json";
 
+        var valueIndex = 0;
+
+        if (args.Length >= 2)
+        {
+            var indexParsed = int.TryParse(args.ElementAtOrDefault(2), out valueIndex);
+
+            if (!indexParsed)
+            {
+                Console.Error.WriteLine("Could not parse index");
+                return;
+            }
+        }
+
         if (path == null || path.Length == 0)
         {
             Console.Error.WriteLine("Missing <path> argument");
@@ -28,9 +41,7 @@ class Program
 
         List<Dictionary<string, object>> output = [];
 
-        // For some reason, the object list (which contains the actual instance objects we care about) holds all the objects
-        // in the first element, inside the first element in its `Values` field.
-        var instances = (List<object>)file.RSZ.ObjectList[0].Values[0];
+        var instances = (List<object>)file.RSZ.ObjectList[0].Values[valueIndex];
 
         foreach (var instance in instances)
         {

@@ -5,6 +5,7 @@ use console::Style;
 use indicatif::ProgressBar;
 use std::path::{Path, PathBuf};
 use std::{fs, io};
+use wax::Glob;
 
 mod cli;
 mod command;
@@ -54,16 +55,52 @@ fn run(cli: &Cli, config: &Config) {
         for item in &config.extract.files {
             progress.inc(1);
 
-            let in_path = in_dir.join(item);
-            let out_path = out_dir
-                .join(item.file_name().unwrap())
-                .with_extension("")
-                .with_extension("json");
+            let glob = Glob::new(item).expect(&format!("Invalid glob of file path {}", item));
 
-            let success = command::exec(&config.tools.data_extractor, [&in_path, &out_path]);
+            for entry in glob.walk(&in_dir) {
+                let entry = entry.expect("Invalid entry");
 
-            if !success {
-                panic!("Failed to execute previous command.");
+                let in_path = entry.path();
+                let out_path = out_dir
+                    .join(in_path.file_name().unwrap())
+                    .with_extension("")
+                    .with_extension("json");
+
+                let mut data_indexes: Vec<u8> = vec![0];
+
+                if let Some(rules) = config.extract.rules.get(item) {
+                    if let Some(regex) = &rules.match_regex {
+                        if regex.is_match(in_path.to_str().unwrap()) {
+                            if let Some(indexes) = &rules.rsz_indexes {
+                                data_indexes = indexes.to_vec();
+                            }
+                        }
+                    }
+                }
+
+                for index in &data_indexes {
+                    let out_path = if data_indexes.len() > 1 && *index > 0 {
+                        let mut name = out_path.file_stem().unwrap().to_str().unwrap().to_string();
+                        name.push('_');
+                        name.push_str(&index.to_string());
+
+                        out_path.with_file_name(name).with_extension("json")
+                    } else {
+                        out_path.to_owned()
+                    };
+
+                    let args = [
+                        in_path.to_str().unwrap(),
+                        out_path.to_str().unwrap(),
+                        &index.to_string(),
+                    ];
+
+                    let success = command::exec(&config.tools.data_extractor, args);
+
+                    if !success {
+                        panic!("Failed to execute previous command.");
+                    }
+                }
             }
         }
 
