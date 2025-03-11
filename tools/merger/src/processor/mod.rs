@@ -1,6 +1,6 @@
-use crate::config::Config;
 use clap::ValueEnum;
 use console::Style;
+use rslib::config::Config;
 use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};

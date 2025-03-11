@@ -1,8 +1,8 @@
-use crate::config::Config;
 use crate::processor::{LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile};
 use crate::serde::ordered_map;
 use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 

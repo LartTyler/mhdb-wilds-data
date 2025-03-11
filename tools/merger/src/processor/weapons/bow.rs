@@ -1,10 +1,10 @@
-use crate::config::Config;
 use crate::processor::weapons::{AttributeKind, Crafting, CraftingTreeData, Special};
 use crate::processor::{
     to_ingame_rarity, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
     WriteFile,
 };
 use crate::{should_run, weapon_data_struct, weapon_recipe_data, weapon_struct};
+use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::Serialize;
 use std::collections::HashMap;

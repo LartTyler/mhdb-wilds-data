@@ -1,9 +1,8 @@
 use crate::cli::Cli;
-use crate::config::Config;
 use clap::Parser;
+use rslib::config::Config;
 
 mod cli;
-mod config;
 mod processor;
 mod serde;
 

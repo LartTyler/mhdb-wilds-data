@@ -1,12 +1,14 @@
-use crate::config::Config;
 use crate::processor::{IdMap, Processor, Result};
+use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
 mod bow;
+mod charge_blade;
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     bow::process(config, filters)?;
+    charge_blade::process(config, filters)?;
 
     Ok(())
 }
