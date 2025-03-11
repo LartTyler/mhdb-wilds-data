@@ -1,7 +1,7 @@
-use crate::processor::weapons::{AttributeKind, Crafting, CraftingTreeData, Special};
+use crate::processor::weapons::{set_crafting_data, Crafting, CraftingTreeData, Special};
 use crate::processor::{
-    to_ingame_rarity, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
-    WriteFile,
+    create_id_map, exclude_zeroes, to_ingame_rarity, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
+    ReadFile, Result, WriteFile,
 };
 use crate::{should_run, weapon_data_struct, weapon_recipe_data, weapon_struct};
 use rslib::config::Config;
@@ -31,7 +31,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         strings.populate(&data.name_guid, &mut bow.names);
         strings.populate(&data.description_guid, &mut bow.descriptions);
 
-        if data.attribute != AttributeKind::None {
+        if data.attribute.is_present() {
             bow.specials.push(Special {
                 kind: data.attribute.into(),
                 raw_damage: data.attribute_value_raw,
@@ -39,7 +39,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
             });
         }
 
-        if data.hidden_attribute != AttributeKind::None {
+        if data.hidden_attribute.is_present() {
             bow.specials.push(Special {
                 kind: data.hidden_attribute.into(),
                 raw_damage: data.hidden_attribute_value_raw,
@@ -59,12 +59,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
             .unwrap_or_else(|| panic!("Could not find bow by ID: {}", data.weapon_id));
 
         bow.crafting.is_shortcut = data.is_shortcut;
-        bow.crafting.inputs = data
-            .item_ids
-            .into_iter()
-            .zip(data.item_amounts)
-            .filter(|(id, _)| *id != 0)
-            .collect();
+        bow.crafting.inputs = create_id_map(&data.item_ids, &data.item_amounts);
     }
 
     let data: Vec<CraftingTreeData> = Vec::read_file(config.io.output_dir.join(TREE))?;
@@ -76,21 +71,10 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
             .find_in_mut(data.weapon_id, &mut merged)
             .unwrap_or_else(|| panic!("Could not find bow by ID: {}", data.weapon_id));
 
-        bow.crafting.column = data.column;
-        bow.crafting.row = data.row;
-
-        if !data.previous_guid.is_empty() {
-            bow.crafting.previous_id = Some(*tree_guids.get(&data.previous_guid[0]).unwrap());
-        }
-
-        for guid in data.branch_guids {
-            let branch_id = tree_guids.get(&guid).cloned();
-            bow.crafting.branches.push(branch_id.unwrap());
-        }
-
-        bow.crafting.branches.sort();
+        set_crafting_data(&mut bow.crafting, data, &tree_guids);
     }
 
+    merged.sort_by_key(|v| v.game_id);
     merged.write_file(config.io.output_dir.join(OUTPUT))
 }
 
@@ -129,14 +113,9 @@ impl From<&BowData> for Bow {
                 zenny_cost: value.price,
                 ..Default::default()
             },
-            slots: value.slots.into_iter().filter(|v| *v > 0).collect(),
+            slots: exclude_zeroes(&value.slots),
             coatings: Coating::from_data(value.coatings),
-            skills: value
-                .skill_ids
-                .into_iter()
-                .zip(value.skill_levels)
-                .filter(|(id, _level)| *id != 0)
-                .collect(),
+            skills: create_id_map(&value.skill_ids, &value.skill_levels),
             specials: Vec::new(),
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),

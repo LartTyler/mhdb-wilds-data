@@ -333,3 +333,22 @@ where
         }
     }
 }
+
+fn exclude_zeroes<T>(values: &[T]) -> Vec<T>
+where
+    T: Default + PartialOrd + Copy,
+{
+    values
+        .into_iter()
+        .copied()
+        .filter(|v| *v != T::default())
+        .collect()
+}
+
+fn create_id_map(ids: &[isize], values: &[u8]) -> IdMap {
+    ids.into_iter()
+        .copied()
+        .zip(values.iter().copied())
+        .filter(|(id, _)| *id != 0)
+        .collect()
+}

@@ -2,6 +2,7 @@ use crate::processor::{IdMap, Processor, Result};
 use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::collections::HashMap;
 
 mod bow;
 mod charge_blade;
@@ -102,6 +103,12 @@ enum AttributeKind {
     Paralysis,
     Sleep,
     Blast,
+}
+
+impl AttributeKind {
+    fn is_present(&self) -> bool {
+        !matches!(self, Self::None)
+    }
 }
 
 #[macro_export]
@@ -224,6 +231,10 @@ enum StatusKind {
     Blastblight,
 }
 
+type SharpnessData = [u8; 7];
+type HandicraftData = [u8; 4];
+type HandicraftBreakpoints = Vec<u8>;
+
 #[derive(Debug, Serialize)]
 struct Sharpness {
     red: u8,
@@ -236,7 +247,7 @@ struct Sharpness {
 }
 
 impl Sharpness {
-    fn from_data(values: &[u8; 7]) -> Self {
+    fn from_data(values: &SharpnessData) -> Self {
         Self {
             red: values[0],
             orange: values[1],
@@ -274,4 +285,24 @@ struct CraftingTreeData {
     column: u8,
     #[serde(rename = "_RowDataLevel")]
     row: u8,
+}
+
+fn set_crafting_data(
+    crafting: &mut Crafting,
+    data: CraftingTreeData,
+    guid_lookup: &HashMap<String, u32>,
+) {
+    crafting.column = data.column;
+    crafting.row = data.row;
+
+    if !data.previous_guid.is_empty() {
+        crafting.previous_id = Some(*guid_lookup.get(&data.previous_guid[0]).unwrap());
+    }
+
+    for guid in data.branch_guids {
+        let branch_id = guid_lookup.get(&guid).cloned();
+        crafting.branches.push(branch_id.unwrap());
+    }
+
+    crafting.branches.sort();
 }
