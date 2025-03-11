@@ -1,0 +1,4919 @@
+[
+  {
+    "game_id": 1,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ホープアームズⅠ",
+      "en": "Hope Strongarm I",
+      "fr": "Décapiteur d'espoir",
+      "it": "Dominatore speranza I",
+      "de": "Hoffnungsschläger I",
+      "es": "Segur de esperanza I",
+      "ru": "Оплот надежды I",
+      "pl": "Siłówka nadziei I",
+      "pt-BR": "Braço da Esperança I",
+      "ko": "호프암즈Ⅰ",
+      "zh-Hant": "希望兵裝Ⅰ",
+      "zh-Hans": "希望兵装Ⅰ",
+      "ar": "نصل الأمل القوي 1",
+      "es-419": "Aspa esperanza I"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた盾斧。盾は防御だけにあるの\r\nではない。力を込めて解き放て！",
+      "en": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+      "fr": "Volto-hache conçue spécialement\r\npour l'expédition. Un bouclier\r\nne sert pas qu'à se défendre.\r\nDonnez tout ce que vous avez !",
+      "it": "Una lama caricata creata\r\nappositamente per la spedizione.\r\nUno scudo non serve solo per la\r\ndifesa. Scatena il tuo potere!",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Energieklinge. Ein\r\nSchild dient nicht nur der Ver-\r\nteidigung. Entfessle deine Kraft!",
+      "es": "Hacha cargada fabricada para\r\nla expedición. Un escudo\r\nno es solo para defenderse.\r\n¡Libera tu poder!",
+      "ru": "Силовой клинок, изготовленный\r\nдля экспедиции. Его щит даёт\r\nвозможность мгновенно перейти\r\nот обороны к нападению!",
+      "pl": "Ładowane ostrze wykonane\r\nspecjalnie na tę ekspedycję.\r\nTarcza to nie tylko obrona.\r\nUwolnij swoją moc!",
+      "pt-BR": "Lâmina dínamo feita para\r\na expedição. Um escudo\r\nnão se resume a defesa.\r\nLiberte o seu poder!",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 차지액스.\r\n방패는 방어만 하지 않는다.\r\n힘을 실어 날려라!",
+      "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
+      "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
+      "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\n<LSNR \"أطلق العنان لقوتكَ\" \"أطلقي العنان لقوتكِ\">!",
+      "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
+    },
+    "rarity": 1,
+    "attack_raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 2,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ホープアームズⅡ",
+      "en": "Hope Strongarm II",
+      "fr": "Décapiteur d'espoir II",
+      "it": "Dominatore speranza II",
+      "de": "Hoffnungsschläger II",
+      "es": "Segur de esperanza II",
+      "ru": "Оплот надежды II",
+      "pl": "Siłówka nadziei II",
+      "pt-BR": "Braço da Esperança II",
+      "ko": "호프암즈Ⅱ",
+      "zh-Hant": "希望兵裝Ⅱ",
+      "zh-Hans": "希望兵装Ⅱ",
+      "ar": "نصل الأمل القوي 2",
+      "es-419": "Aspa esperanza II"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた盾斧。盾は防御だけにあるの\r\nではない。力を込めて解き放て！",
+      "en": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+      "fr": "Volto-hache conçue spécialement\r\npour l'expédition. Un bouclier\r\nne sert pas qu'à se défendre.\r\nDonnez tout ce que vous avez !",
+      "it": "Una lama caricata creata\r\nappositamente per la spedizione.\r\nUno scudo non serve solo per la\r\ndifesa. Scatena il tuo potere!",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Energieklinge. Ein\r\nSchild dient nicht nur der Ver-\r\nteidigung. Entfessle deine Kraft!",
+      "es": "Hacha cargada fabricada para\r\nla expedición. Un escudo\r\nno es solo para defenderse.\r\n¡Libera tu poder!",
+      "ru": "Силовой клинок, изготовленный\r\nдля экспедиции. Его щит даёт\r\nвозможность мгновенно перейти\r\nот обороны к нападению!",
+      "pl": "Ładowane ostrze wykonane\r\nspecjalnie na tę ekspedycję.\r\nTarcza to nie tylko obrona.\r\nUwolnij swoją moc!",
+      "pt-BR": "Lâmina dínamo feita para\r\na expedição. Um escudo\r\nnão se resume a defesa.\r\nLiberte o seu poder!",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 차지액스.\r\n방패는 방어만 하지 않는다.\r\n힘을 실어 날려라!",
+      "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
+      "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
+      "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\n<LSNR \"أطلق العنان لقوتكَ\" \"أطلقي العنان لقوتكِ\">!",
+      "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 0
+    },
+    "skills": {
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 3,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ホープアームズⅢ",
+      "en": "Hope Strongarm III",
+      "fr": "Décapiteur d'espoir III",
+      "it": "Dominatore speranza III",
+      "de": "Hoffnungsschläger III",
+      "es": "Segur de esperanza III",
+      "ru": "Оплот надежды III",
+      "pl": "Siłówka nadziei III",
+      "pt-BR": "Braço da Esperança III",
+      "ko": "호프암즈Ⅲ",
+      "zh-Hant": "希望兵裝Ⅲ",
+      "zh-Hans": "希望兵装Ⅲ",
+      "ar": "نصل الأمل القوي 3",
+      "es-419": "Aspa esperanza III"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた盾斧。盾は防御だけにあるの\r\nではない。力を込めて解き放て！",
+      "en": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+      "fr": "Volto-hache conçue spécialement\r\npour l'expédition. Un bouclier\r\nne sert pas qu'à se défendre.\r\nDonnez tout ce que vous avez !",
+      "it": "Una lama caricata creata\r\nappositamente per la spedizione.\r\nUno scudo non serve solo per la\r\ndifesa. Scatena il tuo potere!",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Energieklinge. Ein\r\nSchild dient nicht nur der Ver-\r\nteidigung. Entfessle deine Kraft!",
+      "es": "Hacha cargada fabricada para\r\nla expedición. Un escudo\r\nno es solo para defenderse.\r\n¡Libera tu poder!",
+      "ru": "Силовой клинок, изготовленный\r\nдля экспедиции. Его щит даёт\r\nвозможность мгновенно перейти\r\nот обороны к нападению!",
+      "pl": "Ładowane ostrze wykonane\r\nspecjalnie na tę ekspedycję.\r\nTarcza to nie tylko obrona.\r\nUwolnij swoją moc!",
+      "pt-BR": "Lâmina dínamo feita para\r\na expedição. Um escudo\r\nnão se resume a defesa.\r\nLiberte o seu poder!",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 차지액스.\r\n방패는 방어만 하지 않는다.\r\n힘을 실어 날려라!",
+      "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
+      "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
+      "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\n<LSNR \"أطلق العنان لقوتكَ\" \"أطلقي العنان لقوتكِ\">!",
+      "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        47
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 4,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ホープアームズⅣ",
+      "en": "Hope Strongarm IV",
+      "fr": "Décapiteur d'espoir IV",
+      "it": "Dominatore speranza IV",
+      "de": "Hoffnungsschläger IV",
+      "es": "Segur de esperanza IV",
+      "ru": "Оплот надежды IV",
+      "pl": "Siłówka nadziei IV",
+      "pt-BR": "Braço da Esperança IV",
+      "ko": "호프암즈Ⅳ",
+      "zh-Hant": "希望兵裝Ⅳ",
+      "zh-Hans": "希望兵装Ⅳ",
+      "ar": "نصل الأمل القوي 4",
+      "es-419": "Aspa esperanza IV"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた盾斧。盾は防御だけにあるの\r\nではない。力を込めて解き放て！",
+      "en": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+      "fr": "Volto-hache conçue spécialement\r\npour l'expédition. Un bouclier\r\nne sert pas qu'à se défendre.\r\nDonnez tout ce que vous avez !",
+      "it": "Una lama caricata creata\r\nappositamente per la spedizione.\r\nUno scudo non serve solo per\r\ndifendersi. Scatena il tuo potere!",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Energieklinge. Ein\r\nSchild dient nicht nur der Ver-\r\nteidigung. Entfessle deine Kraft!",
+      "es": "Hacha cargada fabricada para\r\nla expedición. Un escudo\r\nno es solo para defenderse.\r\n¡Libera tu poder!",
+      "ru": "Силовой клинок, изготовленный\r\nдля экспедиции. Его щит даёт\r\nвозможность мгновенно перейти\r\nот обороны к нападению!",
+      "pl": "Ładowane ostrze wykonane\r\nspecjalnie na tę ekspedycję.\r\nTarcza to nie tylko obrona.\r\nUwolnij swoją moc!",
+      "pt-BR": "Lâmina dínamo feita para\r\na expedição. Um escudo\r\nnão se resume a defesa.\r\nLiberte o seu poder!",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 차지액스.\r\n방패는 방어만 하지 않는다.\r\n힘을 실어 날려라!",
+      "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
+      "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
+      "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\n<LSNR \"أطلق العنان لقوتكَ\" \"أطلقي العنان لقوتكِ\">!",
+      "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 5,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ホープアームズⅤ",
+      "en": "Hope Strongarm V",
+      "fr": "Décapiteur d'espoir V",
+      "it": "Dominatore speranza V",
+      "de": "Hoffnungsschläger V",
+      "es": "Segur de esperanza V",
+      "ru": "Оплот надежды V",
+      "pl": "Siłówka nadziei V",
+      "pt-BR": "Braço da Esperança V",
+      "ko": "호프암즈Ⅴ",
+      "zh-Hant": "希望兵裝Ⅴ",
+      "zh-Hans": "希望兵装Ⅴ",
+      "ar": "نصل الأمل القوي 5",
+      "es-419": "Aspa esperanza V"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた盾斧。盾は防御だけにあるの\r\nではない。力を込めて解き放て！",
+      "en": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+      "fr": "Volto-hache conçue spécialement\r\npour l'expédition. Un bouclier\r\nne sert pas qu'à se défendre.\r\nDonnez tout ce que vous avez !",
+      "it": "Una lama caricata creata\r\nappositamente per la spedizione.\r\nUno scudo non serve solo per la\r\ndifesa. Scatena il tuo potere!",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Energieklinge. Ein\r\nSchild dient nicht nur der Ver-\r\nteidigung. Entfessle deine Kraft!",
+      "es": "Hacha cargada fabricada para\r\nla expedición. Un escudo\r\nno es solo para defenderse.\r\n¡Libera tu poder!",
+      "ru": "Силовой клинок, изготовленный\r\nдля экспедиции. Его щит даёт\r\nвозможность мгновенно перейти\r\nот обороны к нападению!",
+      "pl": "Ładowane ostrze wykonane\r\nspecjalnie na tę ekspedycję.\r\nTarcza to nie tylko obrona.\r\nUwolnij swoją moc!",
+      "pt-BR": "Lâmina dínamo feita para\r\na expedição. Um escudo\r\nnão se resume a defesa.\r\nLiberte o seu poder!",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 차지액스.\r\n방패는 방어만 하지 않는다.\r\n힘을 실어 날려라!",
+      "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
+      "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
+      "ar": "نصل مشحون مصنوع خصيصًا للبعثة. \r\nالترس ليس للدفاع فقط. \r\n<LSNR \"أطلق العنان لقوتكَ\" \"أطلقي العنان لقوتكِ\">!",
+      "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        72
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 6,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ボーンアームズⅠ",
+      "en": "Bone Strongarm I",
+      "fr": "Décapiteur en os",
+      "it": "Dominatore d'osso I",
+      "de": "Knochen-Schläger I",
+      "es": "Aspa ósea I",
+      "ru": "Костяной штык-нож I",
+      "pl": "Kościana siłówka I",
+      "pt-BR": "Braço Ósseo I",
+      "ko": "본암즈Ⅰ",
+      "zh-Hant": "骨製兵裝Ⅰ",
+      "zh-Hans": "骨制兵装Ⅰ",
+      "ar": "نصل العظام القوي 1",
+      "es-419": "Aspa ósea I"
+    },
+    "descriptions": {
+      "ja": "骨を加工した盾斧。素材の\r\n強靭さを活かすため、あえて\r\n緻密な仕組みを避けている。",
+      "en": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+      "fr": "Volto-hache en os dont\r\nla conception reste aussi\r\nsimple que possible pour\r\nun maximum de solidité.",
+      "it": "Lama caricata realizzata in\r\nosso. Rinuncia a qualsiasi\r\nmeccanismo elaborato a favore\r\ndi una costruzione robusta.",
+      "de": "Eine aus Knochen hergestellte\r\nEnergieklinge. Sie verzichtet auf\r\nausgeklügelte Mechanismen und\r\nist stattdessen sehr stabil gebaut.",
+      "es": "Hacha cargada hecha de hueso.\r\nRehúye cualquier mecanismo\r\ncomplejo, empleando en su lugar\r\nuna estructura bien sólida.",
+      "ru": "Силовой клинок, изготовленный\r\nиз кости. В его конструкции нет\r\nсложных механизмов, но это лишь\r\nповысило надёжность оружия.",
+      "pl": "Ładowane ostrze wykonane\r\nz kości. Unika skomplikowanych\r\nmechanizmów na rzecz solidnej\r\nkonstrukcji.",
+      "pt-BR": "Lâmina dínamo feita de osso.\r\nEla evita qualquer mecanismo\r\nelaborado em favor de uma\r\nconstrução robusta.",
+      "ko": "뼈를 가공한 차지액스.\r\n소재의 강도를 살리기 위해\r\n간단한 구조로 만들었다.",
+      "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
+      "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
+      "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
+    },
+    "rarity": 1,
+    "attack_raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        19
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 9
+    },
+    "skills": {
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 7,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ボーンアームズⅡ",
+      "en": "Bone Strongarm II",
+      "fr": "Décapiteur en os II",
+      "it": "Dominatore d'osso II",
+      "de": "Knochen-Schläger II",
+      "es": "Aspa ósea II",
+      "ru": "Костяной штык-нож II",
+      "pl": "Kościana siłówka II",
+      "pt-BR": "Braço Ósseo II",
+      "ko": "본암즈Ⅱ",
+      "zh-Hant": "骨製兵裝Ⅱ",
+      "zh-Hans": "骨制兵装Ⅱ",
+      "ar": "نصل العظام القوي 2",
+      "es-419": "Aspa ósea II"
+    },
+    "descriptions": {
+      "ja": "骨を加工した盾斧。素材の\r\n強靭さを活かすため、あえて\r\n緻密な仕組みを避けている。",
+      "en": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+      "fr": "Volto-hache en os dont\r\nla conception reste aussi\r\nsimple que possible pour\r\nun maximum de solidité.",
+      "it": "Lama caricata realizzata in\r\nosso. Rinuncia a qualsiasi\r\nmeccanismo elaborato a favore\r\ndi una costruzione robusta.",
+      "de": "Eine aus Knochen hergestellte\r\nEnergieklinge. Sie verzichtet auf\r\nausgeklügelte Mechanismen und\r\nist stattdessen sehr stabil gebaut.",
+      "es": "Hacha cargada hecha de hueso.\r\nRehúye cualquier mecanismo\r\ncomplejo, empleando en su lugar\r\nuna estructura bien sólida.",
+      "ru": "Силовой клинок, изготовленный\r\nиз кости. В его конструкции нет\r\nсложных механизмов, но это лишь\r\nповысило надёжность оружия.",
+      "pl": "Ładowane ostrze wykonane\r\nz kości. Unika skomplikowanych\r\nmechanizmów na rzecz solidnej\r\nkonstrukcji.",
+      "pt-BR": "Lâmina dínamo feita de osso.\r\nEla evita qualquer mecanismo\r\nelaborado em favor de uma\r\nconstrução robusta.",
+      "ko": "뼈를 가공한 차지액스.\r\n소재의 강도를 살리기 위해\r\n간단한 구조로 만들었다.",
+      "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
+      "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
+      "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
+    },
+    "rarity": 2,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        24,
+        40
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 9
+    },
+    "skills": {
+      "1": 1,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 8,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ボーンアームズⅢ",
+      "en": "Bone Strongarm III",
+      "fr": "Décapiteur en os III",
+      "it": "Dominatore d'osso III",
+      "de": "Knochen-Schläger III",
+      "es": "Aspa ósea III",
+      "ru": "Костяной штык-нож III",
+      "pl": "Kościana siłówka III",
+      "pt-BR": "Braço Ósseo III",
+      "ko": "본암즈Ⅲ",
+      "zh-Hant": "骨製兵裝Ⅲ",
+      "zh-Hans": "骨制兵装Ⅲ",
+      "ar": "نصل العظام القوي 3",
+      "es-419": "Aspa ósea III"
+    },
+    "descriptions": {
+      "ja": "骨を加工した盾斧。素材の\r\n強靭さを活かすため、あえて\r\n緻密な仕組みを避けている。",
+      "en": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+      "fr": "Volto-hache en os dont\r\nla conception reste aussi\r\nsimple que possible pour\r\nun maximum de solidité.",
+      "it": "Lama caricata realizzata in\r\nosso. Rinuncia a qualsiasi\r\nmeccanismo elaborato a favore\r\ndi una costruzione robusta.",
+      "de": "Eine aus Knochen hergestellte\r\nEnergieklinge. Sie verzichtet auf\r\nausgeklügelte Mechanismen und\r\nist stattdessen sehr stabil gebaut.",
+      "es": "Hacha cargada hecha de hueso.\r\nRehúye cualquier mecanismo\r\ncomplejo, empleando en su lugar\r\nuna estructura bien sólida.",
+      "ru": "Силовой клинок, изготовленный\r\nиз кости. В его конструкции нет\r\nсложных механизмов, но это лишь\r\nповысило надёжность оружия.",
+      "pl": "Ładowane ostrze wykonane\r\nz kości. Unika skomplikowanych\r\nmechanizmów na rzecz solidnej\r\nkonstrukcji.",
+      "pt-BR": "Lâmina dínamo feita de osso.\r\nEla evita qualquer mecanismo\r\nelaborado em favor de uma\r\nconstrução robusta.",
+      "ko": "뼈를 가공한 차지액스.\r\n소재의 강도를 살리기 위해\r\n간단한 구조로 만들었다.",
+      "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
+      "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
+      "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 9
+    },
+    "skills": {
+      "1": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "game_id": 9,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ボーンアームズⅣ",
+      "en": "Bone Strongarm IV",
+      "fr": "Décapiteur en os IV",
+      "it": "Dominatore d'osso IV",
+      "de": "Knochen-Schläger IV",
+      "es": "Aspa ósea IV",
+      "ru": "Костяной штык-нож IV",
+      "pl": "Kościana siłówka IV",
+      "pt-BR": "Braço Ósseo IV",
+      "ko": "본암즈Ⅳ",
+      "zh-Hant": "骨製兵裝Ⅳ",
+      "zh-Hans": "骨制兵装Ⅳ",
+      "ar": "نصل العظام القوي 4",
+      "es-419": "Aspa ósea IV"
+    },
+    "descriptions": {
+      "ja": "骨を加工した盾斧。素材の\r\n強靭さを活かすため、あえて\r\n緻密な仕組みを避けている。",
+      "en": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+      "fr": "Volto-hache en os dont\r\nla conception reste aussi\r\nsimple que possible pour\r\nun maximum de solidité.",
+      "it": "Lama caricata realizzata in\r\nosso. Rinuncia a qualsiasi\r\nmeccanismo elaborato a favore\r\ndi una costruzione robusta.",
+      "de": "Eine aus Knochen hergestellte\r\nEnergieklinge. Sie verzichtet auf\r\nausgeklügelte Mechanismen und\r\nist stattdessen sehr stabil gebaut.",
+      "es": "Hacha cargada hecha de hueso.\r\nRehúye cualquier mecanismo\r\ncomplejo, empleando en su lugar\r\nuna estructura bien sólida.",
+      "ru": "Силовой клинок, изготовленный\r\nиз кости. В его конструкции нет\r\nсложных механизмов, но это лишь\r\nповысило надёжность оружия.",
+      "pl": "Ładowane ostrze wykonane\r\nz kości. Unika skomplikowanych\r\nmechanizmów na rzecz solidnej\r\nkonstrukcji.",
+      "pt-BR": "Lâmina dínamo feita de osso.\r\nEla evita qualquer mecanismo\r\nelaborado em favor de uma\r\nconstrução robusta.",
+      "ko": "뼈를 가공한 차지액스.\r\n소재의 강도를 살리기 위해\r\n간단한 구조로 만들었다.",
+      "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
+      "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
+      "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 9
+    },
+    "skills": {
+      "1": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "game_id": 10,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ハードボーンアームズ",
+      "en": "Hard Bone Strongarm",
+      "fr": "Décapiteur barbare",
+      "it": "Dominatore ossoduro",
+      "de": "Hartknochen-Schläger",
+      "es": "Aspa ósea dura",
+      "ru": "Крепкий кост. ш.-нож",
+      "pl": "Twarda kośc. siłówka",
+      "pt-BR": "Braço Ósseo Duro",
+      "ko": "하드본암즈",
+      "zh-Hant": "硬骨兵裝",
+      "zh-Hans": "硬骨兵装",
+      "ar": "نصل العظام الصلب",
+      "es-419": "Aspa de hueso pétreo"
+    },
+    "descriptions": {
+      "ja": "硬質な骨を選りすぐり、補強した\r\nボーンアームズ。使い勝手は\r\nそのままに威力を上げている。",
+      "en": "Refitted with stronger materials,\r\nthis advanced Bone Strongarm\r\npacks the extra power a hunter\r\ncraves.",
+      "fr": "Avec ses matériaux renforcés,\r\nce Décapiteur en os évolué\r\npossède la puissance que\r\nrecherchent les chasseurs.",
+      "it": "Questo Dominatore d'osso\r\nrinforzato con materiali più\r\nresistenti offre la potenza extra\r\nche ogni cacciatore desidera.",
+      "de": "Dieser verbesserte Knochen-\r\nSchläger besteht aus stärkeren\r\nMaterialien und bietet Jägern\r\nzusätzliche Kraft.",
+      "es": "Aspa ósea reparada con materiales\r\nmás fuertes. Ofrece esa potencia\r\nadicional que todo buen cazador\r\nansía.",
+      "ru": "Укреплённый вариант «Костяного\r\nштык-ножа». Ни один охотник не\r\nоткажется от более эффективного\r\nоружия.",
+      "pl": "Ta ulepszona kościana siłówka\r\nwyposażona w mocniejsze materiały\r\nzapewnia dodatkową moc,\r\nktórej pragną łowcy.",
+      "pt-BR": "Usando materiais mais fortes, este\r\nBraço Ósseo tem o poder ofensivo\r\nextra que os caçadores procuram.",
+      "ko": "단단한 뼈를 엄선해 보강한\r\n본암즈. 사용감은 유지하고\r\n위력을 올렸다.",
+      "zh-Hant": "精選堅硬的骨頭，補強了各個部位的\r\n骨製兵裝。保留良好手感，並提升了\r\n威力。",
+      "zh-Hans": "精选硬质的骨进行强化后的骨制兵\r\n装。保留良好手感，进一步提升了\r\n威力。",
+      "ar": "نصل عظام قوي متطور\r\nمُعاد تصنيعه من مواد أقوى\r\nيحوز القوة الإضافية\r\nالتي يتوق إليها الصياد.",
+      "es-419": "Creada con materiales más\r\nresistentes, esta aspa avanzada\r\nofrece esa potencia adicional\r\nque todo buen cazador ansía."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 9
+    },
+    "skills": {
+      "1": 2,
+      "802725120": 2
+    }
+  },
+  {
+    "game_id": 11,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ロートスピーダⅠ",
+      "en": "Hyperguard I",
+      "fr": "Hyper-garde",
+      "it": "Iperguardia I",
+      "de": "Hyperschutz I",
+      "es": "Hiperguarda I",
+      "ru": "Гиперстраж I",
+      "pl": "Hiperstrażnik I",
+      "pt-BR": "Hiperguarda I",
+      "ko": "로트스피더Ⅰ",
+      "zh-Hant": "鍛鐵充能斧Ⅰ",
+      "zh-Hans": "混铅盾斧Ⅰ",
+      "ar": "الواقي الفائق 1",
+      "es-419": "Hiperguardia I"
+    },
+    "descriptions": {
+      "ja": "広く流通している初心者向けの\r\n盾斧。量産型のためやや粗さが\r\n残るが、丈夫で扱いやすい。",
+      "en": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+      "fr": "Un modèle de volto-hache\r\ntrès courant. S'il n'est pas\r\nélégant, il est robuste et\r\nparfait pour les novices.",
+      "it": "Una lama caricata di larga\r\ndiffusione. Grezza, ma difficile\r\nda rompere. Ha il giusto peso\r\nper un principiante.",
+      "de": "Eine weit verbreitete Energie-\r\nklinge. Sie ist primitiv, aber\r\nsolide – und hat genau das\r\nrichtige Gewicht für Neulinge.",
+      "es": "Modelo de hacha cargada fabricado\r\nen masa. Es tosca, pero difícil\r\nde romper e ideal para las\r\nnecesidades de principiantes.",
+      "ru": "Такие силовые клинки популярны\r\nу охотников. Грубое, но прочное\r\nоружие. Благодаря удачному весу\r\nхорошо подходит новичкам.",
+      "pl": "Masowo produkowane ładowane\r\nostrze. Prymitywne, ale trudne\r\ndo złamania i idealnie wyważone\r\ndla nowicjuszy.",
+      "pt-BR": "Lâmina dínamo muito popular.\r\nRústica, mas difícil de quebrar\r\ne tem o peso certo para novatos.",
+      "ko": "널리 유통되는 초심자용\r\n차지액스. 양산형이라 조잡해\r\n보이지만 튼튼하고 편리하다.",
+      "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
+      "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
+      "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        28,
+        32
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 1
+    }
+  },
+  {
+    "game_id": 12,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ロートスピーダⅡ",
+      "en": "Hyperguard II",
+      "fr": "Hyper-garde II",
+      "it": "Iperguardia II",
+      "de": "Hyperschutz II",
+      "es": "Hiperguarda II",
+      "ru": "Гиперстраж II",
+      "pl": "Hiperstrażnik II",
+      "pt-BR": "Hiperguarda II",
+      "ko": "로트스피더Ⅱ",
+      "zh-Hant": "鍛鐵充能斧Ⅱ",
+      "zh-Hans": "混铅盾斧Ⅱ",
+      "ar": "الواقي الفائق 2",
+      "es-419": "Hiperguardia II"
+    },
+    "descriptions": {
+      "ja": "広く流通している初心者向けの\r\n盾斧。量産型のためやや粗さが\r\n残るが、丈夫で扱いやすい。",
+      "en": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+      "fr": "Un modèle de volto-hache\r\ntrès courant. S'il n'est pas\r\nélégant, il est robuste et\r\nparfait pour les novices.",
+      "it": "Una lama caricata di larga\r\ndiffusione. Grezza, ma difficile\r\nda rompere. Ha il giusto peso\r\nper un principiante.",
+      "de": "Eine weit verbreitete Energie-\r\nklinge. Sie ist primitiv, aber\r\nsolide – und hat genau das\r\nrichtige Gewicht für Neulinge.",
+      "es": "Modelo de hacha cargada fabricado\r\nen masa. Es tosca, pero difícil\r\nde romper e ideal para las\r\nnecesidades de principiantes.",
+      "ru": "Такие силовые клинки популярны\r\nу охотников. Грубое, но прочное\r\nоружие. Благодаря удачному весу\r\nхорошо подходит новичкам.",
+      "pl": "Masowo produkowane ładowane\r\nostrze. Prymitywne, ale trudne\r\ndo złamania i idealnie wyważone\r\ndla nowicjuszy.",
+      "pt-BR": "Lâmina dínamo muito popular.\r\nRústica, mas difícil de quebrar\r\ne tem o peso certo para novatos.",
+      "ko": "널리 유통되는 초심자용\r\n차지액스. 양산형이라 조잡해\r\n보이지만 튼튼하고 편리하다.",
+      "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
+      "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
+      "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 2
+    }
+  },
+  {
+    "game_id": 13,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ロートスピーダⅢ",
+      "en": "Hyperguard III",
+      "fr": "Hyper-garde III",
+      "it": "Iperguardia III",
+      "de": "Hyperschutz III",
+      "es": "Hiperguarda III",
+      "ru": "Гиперстраж III",
+      "pl": "Hiperstrażnik III",
+      "pt-BR": "Hiperguarda III",
+      "ko": "로트스피더Ⅲ",
+      "zh-Hant": "鍛鐵充能斧Ⅲ",
+      "zh-Hans": "混铅盾斧Ⅲ",
+      "ar": "الواقي الفائق 3",
+      "es-419": "Hiperguardia III"
+    },
+    "descriptions": {
+      "ja": "広く流通している初心者向けの\r\n盾斧。量産型のためやや粗さが\r\n残るが、丈夫で扱いやすい。",
+      "en": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+      "fr": "Un modèle de volto-hache\r\ntrès courant. S'il n'est pas\r\nélégant, il est robuste et\r\nparfait pour les novices.",
+      "it": "Una lama caricata di larga\r\ndiffusione. Grezza, ma difficile\r\nda rompere. Ha il giusto peso\r\nper un principiante.",
+      "de": "Eine weit verbreitete Energie-\r\nklinge. Sie ist primitiv, aber\r\nsolide – und hat genau das\r\nrichtige Gewicht für Neulinge.",
+      "es": "Modelo de hacha cargada fabricado\r\nen masa. Es tosca, pero difícil\r\nde romper e ideal para las\r\nnecesidades de principiantes.",
+      "ru": "Такие силовые клинки популярны\r\nу охотников. Грубое, но прочное\r\nоружие. Благодаря удачному весу\r\nхорошо подходит новичкам.",
+      "pl": "Masowo produkowane ładowane\r\nostrze. Prymitywne, ale trudne\r\ndo złamania i idealnie wyważone\r\ndla nowicjuszy.",
+      "pt-BR": "Lâmina dínamo muito popular.\r\nRústica, mas difícil de quebrar\r\ne tem o peso certo para novatos.",
+      "ko": "널리 유통되는 초심자용\r\n차지액스. 양산형이라 조잡해\r\n보이지만 튼튼하고 편리하다.",
+      "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
+      "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
+      "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 14,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "レーガスピーダ",
+      "en": "Regas Hyper",
+      "fr": "Ultra-garde",
+      "it": "Regas iper",
+      "de": "Hyper-Regas",
+      "es": "Hiperregas",
+      "ru": "Гипер-Регас",
+      "pl": "Hiper Regas",
+      "pt-BR": "Regas Hiper",
+      "ko": "레가스피더",
+      "zh-Hant": "合金充能斧",
+      "zh-Hans": "合金盾斧",
+      "ar": "ريجاس الفائق",
+      "es-419": "Hiperregas"
+    },
+    "descriptions": {
+      "ja": "複数の金属を掛け合わせ、ロート\r\nスピーダを強化。使用感は\r\nそのままに破壊力が向上している。",
+      "en": "Better metals allow this\r\nadvanced Hyperguard to dish\r\nout extra hurt without\r\nsacrificing any handling.",
+      "fr": "L'utilisation de meilleurs métaux\r\npermet à cette Hyper-garde\r\naméliorée de gagner en dégâts\r\nsans perdre en maniabilité.",
+      "it": "I metalli migliori consentono a\r\nquesta Iperguardia potenziata\r\ndi infliggere più danni senza\r\nsacrificare la maneggevolezza.",
+      "de": "Ein verbesserter Hyperschutz,\r\nder dank besserer Metalle noch\r\nmehr Schaden anrichten kann,\r\nohne dass die Handhabung leidet.",
+      "es": "Hiperguarda mejorada. Emplea una\r\naleación que conserva el mismo\r\nmanejo, pero con daño aumentado.",
+      "ru": "Улучшенный вариант «Гиперстража».\r\nБлагодаря особому сплаву так же\r\nхорошо ложится в руку, но более\r\nэффективен в бою.",
+      "pl": "Ulepszony Hiperstrażnik. Metale\r\nwyższej jakości pozwalają mu\r\nzadawać dodatkowe obrażenia\r\nbez utraty manewrowości.",
+      "pt-BR": "Metais melhores permitem que\r\nessa Hiperguarda avançada cause\r\nmais estragos sem prejuízos no\r\nmanuseio.",
+      "ko": "많은 금속을 덧대어 강화한\r\n로트스피더. 사용감은\r\n유지하고 파괴력이 향상됐다.",
+      "zh-Hant": "混合多種金屬的強化版鍛鐵充能斧。\r\n保留了容易操作的優點，且大幅提升\r\n破壞力。",
+      "zh-Hans": "以多种金属互相配合，提高了使用\r\n性能。保留原本的手感，进一步加\r\n强了破坏力。",
+      "ar": "تسمح المعادن الأفضل لهذا الواقي\r\nالفائق المتطور بإلحاق المزيد من\r\nالأذى دون التضحية بأي قدرة على\r\nالتحكم.",
+      "es-419": "El uso de mejores metales\r\npermite a esta Hiperguardia\r\navanzada infligir más daño sin\r\nsacrificar su maniobrabilidad."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 15,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "チャタアームズⅠ",
+      "en": "Chata Strongarm I",
+      "fr": "Décapiteur Chata",
+      "it": "Dominatore Chata I",
+      "de": "Chata-Schläger I",
+      "es": "Segur Chata I",
+      "ru": "Чатакабровый оплот I",
+      "pl": "Siłówka Chaty I",
+      "pt-BR": "Braço Chata I",
+      "ko": "차타암즈Ⅰ",
+      "zh-Hant": "纏蛙兵裝Ⅰ",
+      "zh-Hans": "缠蛙兵装Ⅰ",
+      "ar": "نصل تشاتا القوي 1",
+      "es-419": "Aspa de Chata I"
+    },
+    "descriptions": {
+      "ja": "チャタカブラの素材と骨で構成した\r\n盾斧。変形の要となる部品を覆う\r\nことで、安定性が高められている。",
+      "en": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+      "fr": "Faite à base de Chatacabra.\r\nProtégé, le mécanisme de\r\nmorphose bénéficie d'une\r\ndurabilité renforcée.",
+      "it": "Una lama caricata ricavata con \r\nparti di Chatacabra. Coprire il\r\nmeccanismo di mutazione ne\r\nha migliorato la resistenza.",
+      "de": "Eine Energieklinge aus Chata-\r\ncabra-Teilen. Der geschützte\r\nMorphmechanismus erhöht\r\ndie Haltbarkeit.",
+      "es": "Hacha cargada hecha con partes de\r\nChatacabra. Cubrir el mecanismo\r\nde mutación ha aumentado su\r\nestabilidad.",
+      "ru": "Силовой клинок из чатакабры.\r\nОбладает повышенной надёжностью\r\nблагодаря дополнительной защите\r\nтрансформирующего механизма.",
+      "pl": "Ładowane ostrze wykonane\r\nz części Chatacabry. Osłona\r\nmechanizmu przekształcającego\r\nzapewnia większą stabilność.",
+      "pt-BR": "Lâmina dínamo de Chatacabra.\r\nSeu mecanismo de alternância\r\nprotegido confere durabilidade\r\nextra.",
+      "ko": "차타카브라의 소재와 뼈로\r\n구성된 차지액스.\r\n변형의 핵심이 되는\r\n부품을 덮어 안정성을 높였다.",
+      "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
+      "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
+      "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
+    },
+    "rarity": 1,
+    "attack_raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 6
+    },
+    "skills": {
+      "-307644128": 1
+    }
+  },
+  {
+    "game_id": 16,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "チャタアームズⅡ",
+      "en": "Chata Strongarm II",
+      "fr": "Décapiteur Chata II",
+      "it": "Dominatore Chata II",
+      "de": "Chata-Schläger II",
+      "es": "Segur Chata II",
+      "ru": "Чатакабровый оплот II",
+      "pl": "Siłówka Chaty II",
+      "pt-BR": "Braço Chata II",
+      "ko": "차타암즈Ⅱ",
+      "zh-Hant": "纏蛙兵裝Ⅱ",
+      "zh-Hans": "缠蛙兵装Ⅱ",
+      "ar": "نصل تشاتا القوي 2",
+      "es-419": "Aspa de Chata II"
+    },
+    "descriptions": {
+      "ja": "チャタカブラの素材と骨で構成した\r\n盾斧。変形の要となる部品を覆う\r\nことで、安定性が高められている。",
+      "en": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+      "fr": "Faite à base de Chatacabra.\r\nProtégé, le mécanisme de\r\nmorphose bénéficie d'une\r\ndurabilité renforcée.",
+      "it": "Una lama caricata ricavata con \r\nparti di Chatacabra. Coprire il\r\nmeccanismo di mutazione ne\r\nha migliorato la resistenza.",
+      "de": "Eine Energieklinge aus Chata-\r\ncabra-Teilen. Der geschützte\r\nMorphmechanismus erhöht\r\ndie Haltbarkeit.",
+      "es": "Hacha cargada hecha con partes de\r\nChatacabra. Cubrir el mecanismo\r\nde mutación ha aumentado su\r\nestabilidad.",
+      "ru": "Силовой клинок из чатакабры.\r\nОбладает повышенной надёжностью\r\nблагодаря дополнительной защите\r\nтрансформирующего механизма.",
+      "pl": "Ładowane ostrze wykonane\r\nz części Chatacabry. Osłona\r\nmechanizmu przekształcającego\r\nzapewnia większą stabilność.",
+      "pt-BR": "Lâmina dínamo de Chatacabra.\r\nSeu mecanismo de alternância\r\nprotegido confere durabilidade\r\nextra.",
+      "ko": "차타카브라의 소재와 뼈로\r\n구성된 차지액스.\r\n변형의 핵심이 되는\r\n부품을 덮어 안정성을 높였다.",
+      "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
+      "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
+      "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
+    },
+    "rarity": 3,
+    "attack_raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17,
+        53
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 6
+    },
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 1
+    }
+  },
+  {
+    "game_id": 17,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "チャタアームズⅢ",
+      "en": "Chata Strongarm III",
+      "fr": "Décapiteur Chata III",
+      "it": "Dominatore Chata III",
+      "de": "Chata-Schläger III",
+      "es": "Segur Chata III",
+      "ru": "Чатакабровый оплот III",
+      "pl": "Siłówka Chaty III",
+      "pt-BR": "Braço Chata III",
+      "ko": "차타암즈Ⅲ",
+      "zh-Hant": "纏蛙兵裝Ⅲ",
+      "zh-Hans": "缠蛙兵装Ⅲ",
+      "ar": "نصل تشاتا القوي 3",
+      "es-419": "Aspa de Chata III"
+    },
+    "descriptions": {
+      "ja": "チャタカブラの素材と骨で構成した\r\n盾斧。変形の要となる部品を覆う\r\nことで、安定性が高められている。",
+      "en": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+      "fr": "Faite à base de Chatacabra.\r\nProtégé, le mécanisme de\r\nmorphose bénéficie d'une\r\ndurabilité renforcée.",
+      "it": "Una lama caricata ricavata con \r\nparti di Chatacabra. Coprire il\r\nmeccanismo di mutazione ne\r\nha migliorato la resistenza.",
+      "de": "Eine Energieklinge aus Chata-\r\ncabra-Teilen. Der geschützte\r\nMorphmechanismus erhöht\r\ndie Haltbarkeit.",
+      "es": "Hacha cargada hecha con partes de\r\nChatacabra. Cubrir el mecanismo\r\nde mutación ha aumentado su\r\nestabilidad.",
+      "ru": "Силовой клинок из чатакабры.\r\nОбладает повышенной надёжностью\r\nблагодаря дополнительной защите\r\nтрансформирующего механизма.",
+      "pl": "Ładowane ostrze wykonane\r\nz części Chatacabry. Osłona\r\nmechanizmu przekształcającego\r\nzapewnia większą stabilność.",
+      "pt-BR": "Lâmina dínamo de Chatacabra.\r\nSeu mecanismo de alternância\r\nprotegido confere durabilidade\r\nextra.",
+      "ko": "차타카브라의 소재와 뼈로\r\n구성된 차지액스.\r\n변형의 핵심이 되는\r\n부품을 덮어 안정성을 높였다.",
+      "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
+      "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
+      "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
+    },
+    "rarity": 5,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 6
+    },
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 18,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "チャタアームズⅣ",
+      "en": "Chata Strongarm IV",
+      "fr": "Décapiteur Chata IV",
+      "it": "Dominatore Chata IV",
+      "de": "Chata-Schläger IV",
+      "es": "Segur Chata IV",
+      "ru": "Чатакабровый оплот IV",
+      "pl": "Siłówka Chaty IV",
+      "pt-BR": "Braço Chata IV",
+      "ko": "차타암즈Ⅳ",
+      "zh-Hant": "纏蛙兵裝Ⅳ",
+      "zh-Hans": "缠蛙兵装Ⅳ",
+      "ar": "نصل تشاتا القوي 4",
+      "es-419": "Aspa de Chata IV"
+    },
+    "descriptions": {
+      "ja": "チャタカブラの素材と骨で構成した\r\n盾斧。変形の要となる部品を覆う\r\nことで、安定性が高められている。",
+      "en": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+      "fr": "Faite à base de Chatacabra.\r\nProtégé, le mécanisme de\r\nmorphose bénéficie d'une\r\ndurabilité renforcée.",
+      "it": "Una lama caricata ricavata con \r\nparti di Chatacabra. Coprire il\r\nmeccanismo di mutazione ne\r\nha migliorato la resistenza.",
+      "de": "Eine Energieklinge aus Chata-\r\ncabra-Teilen. Der geschützte\r\nMorphmechanismus erhöht\r\ndie Haltbarkeit.",
+      "es": "Hacha cargada hecha con partes de\r\nChatacabra. Cubrir el mecanismo\r\nde mutación ha aumentado su\r\nestabilidad.",
+      "ru": "Силовой клинок из чатакабры.\r\nОбладает повышенной надёжностью\r\nблагодаря дополнительной защите\r\nтрансформирующего механизма.",
+      "pl": "Ładowane ostrze wykonane\r\nz części Chatacabry. Osłona\r\nmechanizmu przekształcającego\r\nzapewnia większą stabilność.",
+      "pt-BR": "Lâmina dínamo de Chatacabra.\r\nSeu mecanismo de alternância\r\nprotegido confere durabilidade\r\nextra.",
+      "ko": "차타카브라의 소재와 뼈로\r\n구성된 차지액스.\r\n변형의 핵심이 되는\r\n부품을 덮어 안정성을 높였다.",
+      "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
+      "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
+      "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 6
+    },
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 19,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ラバラ・ブキリエⅠ",
+      "en": "Barina Bouclier I",
+      "fr": "Pavois Barina",
+      "it": "Bouclier Barina I",
+      "de": "Barina-Bouclier I",
+      "es": "Escudo Barina I",
+      "ru": "Бариновый баклер I",
+      "pl": "Puklerz z Bariny I",
+      "pt-BR": "Bouclier Barina I",
+      "ko": "라바라 부클리에Ⅰ",
+      "zh-Hant": "刺花盾Ⅰ",
+      "zh-Hans": "刺花盾斧Ⅰ",
+      "ar": "بوكليير بارينا 1",
+      "es-419": "Bouclier de Barina I"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの繊維を張り巡らせ\r\nた盾斧。斬撃には麻痺属性が付き、\r\n捉えた獲物を決して逃がさない。",
+      "en": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+      "fr": "Volto-hache composée de\r\nfibres de Lala Barina. Ses\r\nattaques tranchantes sont\r\ncapables de paralyser la proie.",
+      "it": "Una lama caricata Lala Barina\r\nequipaggiata con le sue fibre.\r\nIl suo attacco con fendente\r\nparalizza e sottomette le prede.",
+      "de": "Eine mit Lala Barinas Fasern\r\nbestückte Energieklinge. Ihre\r\nHiebe können Beute lähmen und\r\ndadurch gefügig machen.",
+      "es": "Hacha cargada de Lala Barina\r\nequipada con sus tejidos.\r\nSus ataques cortantes paralizan\r\ny subyugan a sus presas.",
+      "ru": "Силовой клинок, сплетённый из\r\nволокон лалы барины. Обладает\r\nпарализующим эффектом, поэтому\r\nжертве не удастся ускользнуть.",
+      "pl": "Ładowane ostrze z Lala Bariny\r\nuzbrojone we włókna.\r\nJego cięcia paraliżują\r\ni obezwładniają ofiarę.",
+      "pt-BR": "Lâmina dínamo de Lala Barina\r\nmontado com suas fibras. Seus\r\nataques cortantes paralisam e\r\nsubjugam a presa.",
+      "ko": "라바라 바리나의 섬유로 만든\r\n차지액스. 마비속성 참격으로\r\n사냥감을 절대 놓치지 않는다.",
+      "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
+      "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
+      "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 10,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        20,
+        36
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 13
+    },
+    "skills": {
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 20,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ラバラ・ブキリエⅡ",
+      "en": "Barina Bouclier II",
+      "fr": "Pavois Barina II",
+      "it": "Bouclier Barina II",
+      "de": "Barina-Bouclier II",
+      "es": "Escudo Barina II",
+      "ru": "Бариновый баклер II",
+      "pl": "Puklerz z Bariny II",
+      "pt-BR": "Bouclier Barina II",
+      "ko": "라바라 부클리에Ⅱ",
+      "zh-Hant": "刺花盾Ⅱ",
+      "zh-Hans": "刺花盾斧Ⅱ",
+      "ar": "بوكليير بارينا 2",
+      "es-419": "Bouclier de Barina II"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの繊維を張り巡らせ\r\nた盾斧。斬撃には麻痺属性が付き、\r\n捉えた獲物を決して逃がさない。",
+      "en": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+      "fr": "Volto-hache composée de\r\nfibres de Lala Barina. Ses\r\nattaques tranchantes sont\r\ncapables de paralyser la proie.",
+      "it": "Una lama caricata Lala Barina\r\nequipaggiata con le sue fibre.\r\nIl suo attacco con fendente\r\nparalizza e sottomette le prede.",
+      "de": "Eine mit Lala Barinas Fasern\r\nbestückte Energieklinge. Ihre\r\nHiebe können Beute lähmen und\r\ndadurch gefügig machen.",
+      "es": "Hacha cargada de Lala Barina\r\nequipada con sus tejidos.\r\nSus ataques cortantes paralizan\r\ny subyugan a sus presas.",
+      "ru": "Силовой клинок, сплетённый из\r\nволокон лалы барины. Обладает\r\nпарализующим эффектом, поэтому\r\nжертве не удастся ускользнуть.",
+      "pl": "Ładowane ostrze z Lala Bariny\r\nuzbrojone we włókna.\r\nJego cięcia paraliżują\r\ni obezwładniają ofiarę.",
+      "pt-BR": "Lâmina dínamo de Lala Barina\r\nmontado com suas fibras. Seus\r\nataques cortantes paralisam e\r\nsubjugam a presa.",
+      "ko": "라바라 바리나의 섬유로 만든\r\n차지액스. 마비속성 참격으로\r\n사냥감을 절대 놓치지 않는다.",
+      "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
+      "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
+      "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
+    },
+    "rarity": 3,
+    "attack_raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 21,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ラバラ・ブキリエⅢ",
+      "en": "Barina Bouclier III",
+      "fr": "Pavois Barina III",
+      "it": "Bouclier Barina III",
+      "de": "Barina-Bouclier III",
+      "es": "Escudo Barina III",
+      "ru": "Бариновый баклер III",
+      "pl": "Puklerz z Bariny III",
+      "pt-BR": "Bouclier Barina III",
+      "ko": "라바라 부클리에Ⅲ",
+      "zh-Hant": "刺花盾Ⅲ",
+      "zh-Hans": "刺花盾斧Ⅲ",
+      "ar": "بوكليير بارينا 3",
+      "es-419": "Bouclier de Barina III"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの繊維を張り巡らせ\r\nた盾斧。斬撃には麻痺属性が付き、\r\n捉えた獲物を決して逃がさない。",
+      "en": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+      "fr": "Volto-hache composée de\r\nfibres de Lala Barina. Ses\r\nattaques tranchantes sont\r\ncapables de paralyser la proie.",
+      "it": "Una lama caricata Lala Barina\r\nequipaggiata con le sue fibre.\r\nIl suo attacco con fendente\r\nparalizza e sottomette le prede.",
+      "de": "Eine mit Lala Barinas Fasern\r\nbestückte Energieklinge. Ihre\r\nHiebe können Beute lähmen und\r\ndadurch gefügig machen.",
+      "es": "Hacha cargada de Lala Barina\r\nequipada con sus tejidos.\r\nSus ataques cortantes paralizan\r\ny subyugan a sus presas.",
+      "ru": "Силовой клинок, сплетённый из\r\nволокон лалы барины. Обладает\r\nпарализующим эффектом, поэтому\r\nжертве не удастся ускользнуть.",
+      "pl": "Ładowane ostrze z Lala Bariny\r\nuzbrojone we włókna.\r\nJego cięcia paraliżują\r\ni obezwładniają ofiarę.",
+      "pt-BR": "Lâmina dínamo de Lala Barina\r\nmontado com suas fibras. Seus\r\nataques cortantes paralisam e\r\nsubjugam a presa.",
+      "ko": "라바라 바리나의 섬유로 만든\r\n차지액스. 마비속성 참격으로\r\n사냥감을 절대 놓치지 않는다.",
+      "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
+      "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
+      "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
+    },
+    "rarity": 5,
+    "attack_raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 22,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ラバラ・ブキリエⅣ",
+      "en": "Barina Bouclier IV",
+      "fr": "Pavois Barina IV",
+      "it": "Bouclier Barina IV",
+      "de": "Barina-Bouclier IV",
+      "es": "Escudo Barina IV",
+      "ru": "Бариновый баклер IV",
+      "pl": "Puklerz z Bariny IV",
+      "pt-BR": "Bouclier Barina IV",
+      "ko": "라바라 부클리에Ⅳ",
+      "zh-Hant": "刺花盾Ⅳ",
+      "zh-Hans": "刺花盾斧Ⅳ",
+      "ar": "بوكليير بارينا 4",
+      "es-419": "Bouclier de Barina IV"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの繊維を張り巡らせ\r\nた盾斧。斬撃には麻痺属性が付き、\r\n捉えた獲物を決して逃がさない。",
+      "en": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+      "fr": "Volto-hache composée de\r\nfibres de Lala Barina. Ses\r\nattaques tranchantes sont\r\ncapables de paralyser la proie.",
+      "it": "Una lama caricata Lala Barina\r\nequipaggiata con le sue fibre.\r\nIl suo attacco con fendente\r\nparalizza e sottomette le prede.",
+      "de": "Eine mit Lala Barinas Fasern\r\nbestückte Energieklinge. Ihre\r\nHiebe können Beute lähmen und\r\ndadurch gefügig machen.",
+      "es": "Hacha cargada de Lala Barina\r\nequipada con sus tejidos.\r\nSus ataques cortantes paralizan\r\ny subyugan a sus presas.",
+      "ru": "Силовой клинок, сплетённый из\r\nволокон лалы барины. Обладает\r\nпарализующим эффектом, поэтому\r\nжертве не удастся ускользнуть.",
+      "pl": "Ładowane ostrze z Lala Bariny\r\nuzbrojone we włókna.\r\nJego cięcia paraliżują\r\ni obezwładniają ofiarę.",
+      "pt-BR": "Lâmina dínamo de Lala Barina\r\nmontado com suas fibras. Seus\r\nataques cortantes paralisam e\r\nsubjugam a presa.",
+      "ko": "라바라 바리나의 섬유로 만든\r\n차지액스. 마비속성 참격으로\r\n사냥감을 절대 놓치지 않는다.",
+      "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
+      "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
+      "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 23,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "刺花盾斧エウメノス",
+      "en": "Lala Eumenophor",
+      "fr": "Lala Eumenophor",
+      "it": "Lala Eumenophor",
+      "de": "Lala-Eumenophor",
+      "es": "Lalarácnida",
+      "ru": "Жалящий цветок",
+      "pl": "Eumenofor Lali",
+      "pt-BR": "Lala Eumenophor",
+      "ko": "자화순부 유메노스",
+      "zh-Hant": "捕鳥蛛刺花盾斧",
+      "zh-Hans": "毒蛛刺花盾斧",
+      "ar": "يومينوفور لالا",
+      "es-419": "Eumenofor de Lala"
+    },
+    "descriptions": {
+      "ja": "より強靭な繊維で各部を繋げたラバ\r\nラ・ブキリエの強化版。しなやかな\r\n連動で繰り出される一撃は強烈。",
+      "en": "An upgraded Barina Bouclier.\r\nThe network of tough fibers\r\nenables even fiercer blows.",
+      "fr": "Pavois Barina amélioré. Son\r\nréseau de fibres plus dures\r\npermet d'infliger des coups\r\nencore plus meurtriers.",
+      "it": "Una Bouclier Barina potenziata\r\nequipaggiata con una serie di\r\nfibre più resistenti per\r\nsferrare colpi più micidiali.",
+      "de": "Eine verbesserte Barina-\r\nBouclier. Das Netzwerk aus\r\nrobusten Fasern ermöglicht\r\nnoch härtere Schläge.",
+      "es": "Escudo Barina mejorado con fibras\r\nmás resistentes, lo que permite\r\ninfligir golpes aún más letales.",
+      "ru": "Улучшенный вариант «Баринового\r\nбаклера». Уплотнённая сеть\r\nволокон позволяет наносить\r\nещё более свирепые удары.",
+      "pl": "Ulepszona wersja puklerza\r\nz Bariny. Sieć wytrzymałych\r\nwłókien umożliwia zadawanie\r\njeszcze silniejszych ciosów.",
+      "pt-BR": "Bouclier Barina melhorado.\r\nA rede de fibras mais fortes\r\npermitem golpes ainda mais\r\npoderosos.",
+      "ko": "더 강인한 섬유로 각 부위를\r\n연결한 라바라 부클리에의\r\n강화판. 유연한 연동으로\r\n펼치는 일격은 강렬하다.",
+      "zh-Hant": "以更加強韌的纖維連接各部位的\r\n強化版刺花盾。行雲流水的攻擊\r\n破壞力十分驚人。",
+      "zh-Hans": "刺花盾斧的强化版，用更加柔韧的\r\n纤维连接了各个部位。在灵活的联\r\n动下，每一次攻击都异常强劲。",
+      "ar": "(بوكليير بارينا) مطوَّر.\r\nتتيح شبكة الألياف الصلبة\r\nضربات أكثر شراسة.",
+      "es-419": "Una versión mejorada de\r\nBouclier de Barina con una\r\nred de fibras resistentes\r\npara impactos más feroces."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 24,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "ウズ・ヴァレロヤⅠ",
+      "en": "Uth Valeroje I",
+      "fr": "Uth Valeroje",
+      "it": "Uth Valeroje I",
+      "de": "Uth Valeroje I",
+      "es": "Uth Valeroje I",
+      "ru": "Утдуновый щит волн I",
+      "pl": "Falująca tarcza Utha I",
+      "pt-BR": "Uth Valeroje I",
+      "ko": "우드 발레로야Ⅰ",
+      "zh-Hant": "波衣盾Ⅰ",
+      "zh-Hans": "波涛盾斧Ⅰ",
+      "ar": "فاليروخي أوث 1",
+      "es-419": "Valeroje de Uth I"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた盾斧。\r\n美しき盾は主を守り、水を纏った\r\n斧は、重撃で対象を押しつぶす。",
+      "en": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+      "fr": "Volto-hache Uth Duna. Son\r\nbouclier élégant vous protège,\r\ntandis que la hache aux motifs\r\nd'eau fend tout sur son passage.",
+      "it": "Una lama caricata Uth Duna con\r\nuno splendido scudo e un bordo\r\nimpregnato d'acqua per sferrare\r\ncolpi devastanti alla preda.",
+      "de": "Eine Uth-Duna-Energieklinge,\r\nderen schöner Schild mit einer\r\nwassergefüllten Schneide gepaart\r\nist, um Beute zu zerschlagen.",
+      "es": "Hacha cargada de Uth Duna.\r\nUn precioso escudo a juego\r\ncon un filo de agua capaz\r\nde partir rocas.",
+      "ru": "Утдуновый силовой клинок\r\nс великолепным щитом и усиленным\r\nводой лезвием, которое позволяет\r\nнаносить удары чудовищной силы.",
+      "pl": "Ładowane ostrze z Uth Duny.\r\nPiękna tarcza połączona\r\nz pokrytym wodą ostrzem,\r\nsłużą do miażdżenia celów.",
+      "pt-BR": "Lâmina dínamo de Uth Duna\r\ncom um escudo adorável e lâmina\r\nimbuída de água para desferir\r\nataques esmagadores.",
+      "ko": "우드 투나의 소재를 사용한\r\n차지액스. 아름다운 방패는\r\n주인을 지키고, 물을 두른\r\n도끼는 중격으로 짓뭉갠다.",
+      "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
+      "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
+      "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
+    },
+    "rarity": 3,
+    "attack_raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 12
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 25,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "ウズ・ヴァレロヤⅡ",
+      "en": "Uth Valeroje II",
+      "fr": "Uth Valeroje II",
+      "it": "Uth Valeroje II",
+      "de": "Uth Valeroje II",
+      "es": "Uth Valeroje II",
+      "ru": "Утдуновый щит волн I",
+      "pl": "Falująca tarcza Utha II",
+      "pt-BR": "Uth Valeroje II",
+      "ko": "우드 발레로야Ⅱ",
+      "zh-Hant": "波衣盾Ⅱ",
+      "zh-Hans": "波涛盾斧Ⅱ",
+      "ar": "فاليروخي أوث 2",
+      "es-419": "Valeroje de Uth II"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた盾斧。\r\n美しき盾は主を守り、水を纏った\r\n斧は、重撃で対象を押しつぶす。",
+      "en": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+      "fr": "Volto-hache Uth Duna. Son\r\nbouclier élégant vous protège,\r\ntandis que la hache aux motifs\r\nd'eau fend tout sur son passage.",
+      "it": "Una lama caricata Uth Duna con\r\nuno splendido scudo e un bordo\r\nimpregnato d'acqua per sferrare\r\ncolpi devastanti alla preda.",
+      "de": "Eine Uth-Duna-Energieklinge,\r\nderen schöner Schild mit einer\r\nwassergefüllten Schneide gepaart\r\nist, um Beute zu zerschlagen.",
+      "es": "Hacha cargada de Uth Duna.\r\nUn precioso escudo a juego\r\ncon un filo de agua capaz\r\nde partir rocas.",
+      "ru": "Утдуновый силовой клинок\r\nс великолепным щитом и усиленным\r\nводой лезвием, которое позволяет\r\nнаносить удары чудовищной силы.",
+      "pl": "Ładowane ostrze z Uth Duny.\r\nPiękna tarcza połączona\r\nz pokrytym wodą ostrzem,\r\nsłużą do miażdżenia celów.",
+      "pt-BR": "Lâmina dínamo de Uth Duna\r\ncom um escudo adorável e lâmina\r\nimbuída de água para desferir\r\nataques esmagadores.",
+      "ko": "우드 투나의 소재를 사용한\r\n차지액스. 아름다운 방패는\r\n주인을 지키고, 물을 두른\r\n도끼는 중격으로 짓뭉갠다.",
+      "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
+      "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
+      "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
+    },
+    "rarity": 5,
+    "attack_raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 26,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 12
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 26,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "ウズ・ヴァレロヤⅢ",
+      "en": "Uth Valeroje III",
+      "fr": "Uth Valeroje III",
+      "it": "Uth Valeroje III",
+      "de": "Uth Valeroje III",
+      "es": "Uth Valeroje III",
+      "ru": "Утдуновый щит волн III",
+      "pl": "Falująca tarcza Utha III",
+      "pt-BR": "Uth Valeroje III",
+      "ko": "우드 발레로야Ⅲ",
+      "zh-Hant": "波衣盾Ⅲ",
+      "zh-Hans": "波涛盾斧Ⅲ",
+      "ar": "فاليروخي أوث 3",
+      "es-419": "Valeroje de Uth III"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた盾斧。\r\n美しき盾は主を守り、水を纏った\r\n斧は、重撃で対象を押しつぶす。",
+      "en": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+      "fr": "Volto-hache Uth Duna. Son\r\nbouclier élégant vous protège,\r\ntandis que la hache aux motifs\r\nd'eau fend tout sur son passage.",
+      "it": "Una lama caricata Uth Duna con\r\nuno splendido scudo e un bordo\r\nimpregnato d'acqua per sferrare\r\ncolpi devastanti alla preda.",
+      "de": "Eine Uth-Duna-Energieklinge,\r\nderen schöner Schild mit einer\r\nwassergefüllten Schneide gepaart\r\nist, um Beute zu zerschlagen.",
+      "es": "Hacha cargada de Uth Duna.\r\nUn precioso escudo a juego\r\ncon un filo de agua capaz\r\nde partir rocas.",
+      "ru": "Утдуновый силовой клинок\r\nс великолепным щитом и усиленным\r\nводой лезвием, которое позволяет\r\nнаносить удары чудовищной силы.",
+      "pl": "Ładowane ostrze z Uth Duny.\r\nPiękna tarcza połączona\r\nz pokrytym wodą ostrzem,\r\nsłużą do miażdżenia celów.",
+      "pt-BR": "Lâmina dínamo de Uth Duna\r\ncom um escudo adorável e lâmina\r\nimbuída de água para desferir\r\nataques esmagadores.",
+      "ko": "우드 투나의 소재를 사용한\r\n차지액스. 아름다운 방패는\r\n주인을 지키고, 물을 두른\r\n도끼는 중격으로 짓뭉갠다.",
+      "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
+      "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
+      "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
+    },
+    "rarity": 7,
+    "attack_raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 32,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 12
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 27,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "波濤盾斧ヴァレロヤ",
+      "en": "Valeroje-of-the-Waves",
+      "fr": "Valeroje-des-vagues",
+      "it": "Valeroje delle onde",
+      "de": "Valeroje der Wellen",
+      "es": "Valeroje de las mareas",
+      "ru": "Щит могучих волн",
+      "pl": "Falująca tarcza fal",
+      "pt-BR": "Valeroje das Ondas",
+      "ko": "파도순부 발레로야",
+      "zh-Hant": "狂瀾波濤盾斧",
+      "zh-Hans": "狂澜波涛盾斧",
+      "ar": "فاليروخي الأمواج",
+      "es-419": "Valeroje de las olas"
+    },
+    "descriptions": {
+      "ja": "妖美に輝くウズ・ヴァレロヤの\r\n強化版。重撃が生む膨大な水量は\r\n獲物の害意までも押し流す。",
+      "en": "An upgraded Uth Valeroje\r\nwith an alluring gleam.\r\nIt slams into foes like\r\na flood, purging ill intent.",
+      "fr": "Uth Valeroje améliorée. Brille\r\nd'une lueur séduisante et\r\ns'abat sur ses proies en un\r\nraz-de-marée pacificateur.",
+      "it": "Una Uth Valeroje potenziata con\r\nun luccichio ammaliante. Sui\r\nnemici è come un fiume in piena\r\ned elimina i cattivi propositi.",
+      "de": "Eine verbesserte Uth Valeroje\r\nmit einem verführerischen\r\nSchimmer. Stürzt sich auf\r\nFeinde wie reißende Fluten.",
+      "es": "Uth Valeroje mejorada con un\r\nfulgor irresistible. Aplasta a\r\nlos enemigos como un alud,\r\nanulando cualquier opción.",
+      "ru": "Улучшенный вариант «Утдунового\r\nщита волн» манит своим блеском\r\nи очищает от дурных намерений\r\nподобно бушующему потоку воды.",
+      "pl": "Ulepszona wersja falującej\r\ntarczy Utha o nęcącym blasku.\r\nUderza we wrogów niczym powódź,\r\nusuwając złe zamiary.",
+      "pt-BR": "Uth Valeroje melhorado com um\r\nbrilho encantador. Esmaga os\r\ninimigos como uma enchente,\r\npurificando más intenções.",
+      "ko": "요염하게 빛나는 우드 발레로야\r\n강화판. 중격이 자아내는\r\n방대한 물줄기는 사냥감의\r\n악의마저도 휩쓸어버린다.",
+      "zh-Hant": "閃耀妖異光輝的強化版波衣盾。沉重\r\n攻擊產生的龐大水量足以將獵物連同\r\n惡意一併沖走。",
+      "zh-Hans": "闪耀着妖艳光芒的波涛盾斧强化版。\r\n重击产生的庞大水量会将猎物连同\r\n它的恶意一道卷走。",
+      "ar": "(فاليروخي أوث) مطوَّر مع بريق جذاب.\r\nيضرب الأعداء مثل الطوفان\r\nويطهر النوايا السيئة.",
+      "es-419": "Un Uth Valeroje mejorado con un\r\nbrillo atractivo. Golpea a los\r\nenemigos como un aluvión,\r\npurgando toda mala intención."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 12
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 28,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ププロガーダーⅠ",
+      "en": "Rompo Shielder I",
+      "fr": "Protecteur Rompo",
+      "it": "Difensore Rompo I",
+      "de": "Rompo-Beschützer I",
+      "es": "Romposcudo I",
+      "ru": "Ромпополовый защитник I",
+      "pl": "Romprotego I",
+      "pt-BR": "Escudeiro Rompo I",
+      "ko": "푸푸로가더Ⅰ",
+      "zh-Hant": "沼噴防衛斧Ⅰ",
+      "zh-Hans": "沼喷盾斧Ⅰ",
+      "ar": "حامل ترس رومبو 1",
+      "es-419": "Rompoescudo I"
+    },
+    "descriptions": {
+      "ja": "ププロポルの素材を用いた盾斧。\r\n機構展開時に収められた毒が放出、\r\n刃に触れた相手に苦痛をもたらす。",
+      "en": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+      "fr": "Hache à base de Rompopolo.\r\nLibère un poison causant\r\nune douleur atroce.",
+      "it": "Forgiata con parti di Rompopolo,\r\nquest'ascia rilascia un veleno \r\nche infligge un dolore \r\nstraziante.",
+      "de": "Diese aus Rompopolo-Teilen\r\ngefertigte Axt setzt ein qual-\r\nvolles Gas frei.",
+      "es": "Hacha fabricada con partes de\r\nRompopolo. Puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable.",
+      "ru": "Топор из трофеев с ромпополо.\r\nИсточает ядовитый газ, который\r\nвызывает невыносимую боль.",
+      "pl": "Topór z części Rompopola\r\nuwalnia truciznę, która\r\nwywołuje rozdzierający ból.",
+      "pt-BR": "Feito de partes de Rompopolo, este\r\nmachado é capaz de liberar um\r\nveneno que causa dor excruciante.",
+      "ko": "푸푸로포루의 소재를 사용한\r\n차지액스. 기구 전개 시\r\n독이 방출되어 칼날에 닿은\r\n상대에게 고통을 선사한다.",
+      "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
+      "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
+      "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        29,
+        50
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 3
+    },
+    "skills": {
+      "-1674114176": 2
+    }
+  },
+  {
+    "game_id": 29,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ププロガーダーⅡ",
+      "en": "Rompo Shielder II",
+      "fr": "Protecteur Rompo II",
+      "it": "Difensore Rompo II",
+      "de": "Rompo-Beschützer II",
+      "es": "Romposcudo II",
+      "ru": "Ромпополовый защитник II",
+      "pl": "Romprotego II",
+      "pt-BR": "Escudeiro Rompo II",
+      "ko": "푸푸로가더Ⅱ",
+      "zh-Hant": "沼噴防衛斧Ⅱ",
+      "zh-Hans": "沼喷盾斧Ⅱ",
+      "ar": "حامل ترس رومبو 2",
+      "es-419": "Rompoescudo II"
+    },
+    "descriptions": {
+      "ja": "ププロポルの素材を用いた盾斧。\r\n機構展開時に収められた毒が放出、\r\n刃に触れた相手に苦痛をもたらす。",
+      "en": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+      "fr": "Hache à base de Rompopolo.\r\nLibère un poison causant\r\nune douleur atroce.",
+      "it": "Forgiata con parti di Rompopolo,\r\nquest'ascia rilascia un veleno\r\nche infligge un\r\ndolore straziante.",
+      "de": "Diese aus Rompopolo-Teilen\r\ngefertigte Axt setzt ein qual-\r\nvolles Gas frei.",
+      "es": "Hacha fabricada con partes de\r\nRompopolo. Puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable.",
+      "ru": "Топор из трофеев с ромпополо.\r\nИсточает ядовитый газ, который\r\nвызывает невыносимую боль.",
+      "pl": "Topór z części Rompopola\r\nuwalnia truciznę, która\r\nwywołuje rozdzierający ból.",
+      "pt-BR": "Feito de partes de Rompopolo, este\r\nmachado é capaz de liberar um\r\nveneno que causa dor excruciante.",
+      "ko": "푸푸로포루의 소재를 사용한\r\n차지액스. 기구 전개 시\r\n독이 방출되어 칼날에 닿은\r\n상대에게 고통을 선사한다.",
+      "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
+      "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
+      "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 3
+    },
+    "skills": {
+      "-1674114176": 2
+    }
+  },
+  {
+    "game_id": 30,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ププロガーダーⅢ",
+      "en": "Rompo Shielder III",
+      "fr": "Protecteur Rompo III",
+      "it": "Difensore Rompo III",
+      "de": "Rompo-Beschützer III",
+      "es": "Romposcudo III",
+      "ru": "Ромпополовый защитник III",
+      "pl": "Romprotego III",
+      "pt-BR": "Escudeiro Rompo III",
+      "ko": "푸푸로가더Ⅲ",
+      "zh-Hant": "沼噴防衛斧Ⅲ",
+      "zh-Hans": "沼喷盾斧Ⅲ",
+      "ar": "حامل ترس رومبو 3",
+      "es-419": "Rompoescudo III"
+    },
+    "descriptions": {
+      "ja": "ププロポルの素材を用いた盾斧。\r\n機構展開時に収められた毒が放出、\r\n刃に触れた相手に苦痛をもたらす。",
+      "en": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+      "fr": "Hache à base de Rompopolo.\r\nLibère un poison causant\r\nune douleur atroce.",
+      "it": "Forgiata con parti di Rompopolo,\r\nquest'ascia rilascia un veleno\r\nche infligge un\r\ndolore straziante.",
+      "de": "Diese aus Rompopolo-Teilen\r\ngefertigte Axt setzt ein qual-\r\nvolles Gas frei.",
+      "es": "Hacha fabricada con partes de\r\nRompopolo. Puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable.",
+      "ru": "Топор из трофеев с ромпополо.\r\nИсточает ядовитый газ, который\r\nвызывает невыносимую боль.",
+      "pl": "Topór z części Rompopola\r\nuwalnia truciznę, która\r\nwywołuje rozdzierający ból.",
+      "pt-BR": "Feito de partes de Rompopolo, este\r\nmachado é capaz de liberar um\r\nveneno que causa dor excruciante.",
+      "ko": "푸푸로포루의 소재를 사용한\r\n차지액스. 기구 전개 시\r\n독이 방출되어 칼날에 닿은\r\n상대에게 고통을 선사한다.",
+      "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
+      "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
+      "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 3
+    },
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "game_id": 31,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ププロ盾斧デンドーラ",
+      "en": "Rompo Dendrotox",
+      "fr": "Rompo Dendrotox",
+      "it": "Dendrotox Rompo",
+      "de": "Rompo-Dendrotox",
+      "es": "Dendrotoxina Rompo",
+      "ru": "Ромпополовая Мамба",
+      "pl": "Rompo Dendrotoks",
+      "pt-BR": "Dendrotoxina Rompo",
+      "ko": "푸푸로순부 덴드라",
+      "zh-Hant": "曼巴蛇毒沼噴盾斧",
+      "zh-Hans": "沼喷蛇毒盾斧",
+      "ar": "ديندروتوكس رومبو",
+      "es-419": "Dendrotoxina de Rompo"
+    },
+    "descriptions": {
+      "ja": "ププロガーダー強化型は告げる。\r\n剣には次なる投与量。盾には毒の\r\n発症時間。良き知見を我は欲す。",
+      "en": "The Rompo Shielder speaks: My\r\nsword boasts greater doses,\r\nand my shield, more time.\r\nI seek a wielder clever of mind.",
+      "fr": "Le Protecteur Rompo dit :\r\nMa lame est plus puissante et\r\nmon bouclier plus durable. Mon\r\nporteur se doit d'être clairvoyant.",
+      "it": "Parla il Difensore Rompo: la mia\r\nspada vanta dosi maggiori e il\r\nmio scudo, più tempo. Cerco un\r\npadrone dalla mente sagace.",
+      "de": "Der Rompo-Beschützer spricht:\r\nMein Schwert hat mehr Gift,\r\nmein Schild hat mehr Zeit. Mein\r\nTräger braucht Verschlagenheit.",
+      "es": "La Romposcudo habla: \"Mi hoja\r\npresume de sus grandes dosis, y\r\nmi escudo, de su duración. Busco\r\na alguien astuto que me empuñe\".",
+      "ru": "Улучшенный «Ромпополовый защитник»\r\nмолвит: мой клинок насыщеннее,\r\nа щит долговечнее. Я ищу для\r\nсебя мудрого обладателя.",
+      "pl": "Romprotego zwiastuje:\r\nMiecz niesie silniejszą truciznę.\r\na tarcza spowalnia jej moc.\r\nPoszukuję mądrego posiadacza.",
+      "pt-BR": "O Escudeiro Rompo fala: Minha\r\nespada possui doses maiores, e\r\nmeu escudo possui mais tempo.\r\nBusco um mestre de mente afiada.",
+      "ko": "푸푸로가더의 강화형은 고한다.\r\n검에겐 다음 투여량. 방패에겐\r\n독의 발병 시간.\r\n현명한 식견을 우리는 원한다.",
+      "zh-Hant": "強化版沼噴防衛斧如此說道：劍上\r\n刻有下次用毒的劑量，盾上則提示\r\n毒發時間。知識乃吾之所欲。",
+      "zh-Hans": "强化版的沼喷盾斧如是说：剑上刻\r\n有下次用毒剂量，盾上则提示毒发\r\n时间。知识乃吾之所欲。",
+      "ar": "يتكلم (حامل ترس رومبو):\r\nيتمتع سيفي بجرعات أكبر\r\nوترسي بوقت أطول.\r\nأبحث عن حامل ذكي.",
+      "es-419": "El Rompoescudo dice:\r\nmi espada ostenta grandeza\r\ny mi escudo, tiempo.\r\nBusco a un portador atento."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 3
+    },
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "game_id": 32,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "レ・アストラペⅠ",
+      "en": "Rey Astrapi I",
+      "fr": "Rey Astrapi",
+      "it": "Astrapi Rey I",
+      "de": "Rey-Astrapi I",
+      "es": "Rey Astrapi I",
+      "ru": "Рейдаловая молния I",
+      "pl": "Astrapi Rey I",
+      "pt-BR": "Rey Astrapi I",
+      "ko": "레 아스트라페Ⅰ",
+      "zh-Hant": "煌雷盾Ⅰ",
+      "zh-Hans": "煌雷盾斧Ⅰ",
+      "ar": "راي أسترابي 1",
+      "es-419": "Ástrape de Rey I"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし盾斧。\r\n回転刃に取り付けた鋭利な雷晶爪で\r\nどんなに硬い鱗でも斬り裂く。",
+      "en": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+      "fr": "Volto-hache imprégnée\r\nde la foudre du Rey Dau.\r\nNulle écaille ne résiste\r\nà ses serres acérées.",
+      "it": "Una lama caricata infusa\r\ndel tuono di Rey Dau. I suoi\r\nartigli affilati trafiggono\r\nqualsiasi scaglia.",
+      "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
+      "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
+      "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
+      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
+      "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
+      "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
+      "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
+      "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 1,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 33,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "レ・アストラペⅡ",
+      "en": "Rey Astrapi II",
+      "fr": "Rey Astrapi II",
+      "it": "Astrapi Rey II",
+      "de": "Rey-Astrapi II",
+      "es": "Rey Astrapi II",
+      "ru": "Рейдаловая молния II",
+      "pl": "Astrapi Rey II",
+      "pt-BR": "Rey Astrapi II",
+      "ko": "레 아스트라페Ⅱ",
+      "zh-Hant": "煌雷盾Ⅱ",
+      "zh-Hans": "煌雷盾斧Ⅱ",
+      "ar": "راي أسترابي 2",
+      "es-419": "Ástrape de Rey II"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし盾斧。\r\n回転刃に取り付けた鋭利な雷晶爪で\r\nどんなに硬い鱗でも斬り裂く。",
+      "en": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+      "fr": "Volto-hache imprégnée\r\nde la foudre du Rey Dau.\r\nNulle écaille ne résiste\r\nà ses serres acérées.",
+      "it": "Una lama caricata infusa\r\ndel tuono di Rey Dau. I suoi\r\nartigli affilati trafiggono\r\nqualsiasi scaglia.",
+      "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
+      "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
+      "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
+      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
+      "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
+      "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
+      "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
+      "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 32,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 1,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 34,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "レ・アストラペⅢ",
+      "en": "Rey Astrapi III",
+      "fr": "Rey Astrapi III",
+      "it": "Astrapi Rey III",
+      "de": "Rey-Astrapi III",
+      "es": "Rey Astrapi III",
+      "ru": "Рейдаловая молния III",
+      "pl": "Astrapi Rey III",
+      "pt-BR": "Rey Astrapi III",
+      "ko": "레 아스트라페Ⅲ",
+      "zh-Hant": "煌雷盾Ⅲ",
+      "zh-Hans": "煌雷盾斧Ⅲ",
+      "ar": "راي أسترابي 3",
+      "es-419": "Ástrape de Rey III"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし盾斧。\r\n回転刃に取り付けた鋭利な雷晶爪で\r\nどんなに硬い鱗でも斬り裂く。",
+      "en": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+      "fr": "Volto-hache imprégnée\r\nde la foudre du Rey Dau.\r\nNulle écaille ne résiste\r\nà ses serres acérées.",
+      "it": "Una lama caricata infusa\r\ndel tuono di Rey Dau. I suoi\r\nartigli affilati trafiggono\r\nqualsiasi scaglia.",
+      "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
+      "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
+      "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
+      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
+      "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
+      "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
+      "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
+      "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 2,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 35,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "煌雷盾斧アストラペ",
+      "en": "Astrapi Clairaxe",
+      "fr": "Luminhache Astrapi",
+      "it": "Ascia Astrapi",
+      "de": "Astrapi-Klaraxt",
+      "es": "Clarhacha Astrapi",
+      "ru": "Изящный топор молний",
+      "pl": "Jasnotopór Astrapi",
+      "pt-BR": "Clarimachado Astrapi",
+      "ko": "황뢰순부 아스트라페",
+      "zh-Hant": "煌雷閃電盾斧",
+      "zh-Hans": "煌雷霹雳盾斧",
+      "ar": "فأس أسترابي البراق",
+      "es-419": "Hachaclara de Ástrape"
+    },
+    "descriptions": {
+      "ja": "強化されたレ・アストラペ。\r\n雷よ解き放て。抗う者すら\r\n支配する、天地鳴動の一撃を。",
+      "en": "An upgraded Rey Astrapi.\r\nMay its thunder echo free,\r\nshaking heaven and earth\r\nand prostrating all foes.",
+      "fr": "Rey Astrapi améliorée. Puisse\r\nsa foudre ébranler terre et ciel\r\net soumettre tous ses ennemis.",
+      "it": "Una Astrapi Ray potenziata.\r\nPossa il suo tuono riecheggiare\r\nlibero, scuotendo cielo e terra\r\ne prostrando tutti i nemici.",
+      "de": "Eine verbesserte Rey-Astrapi.\r\nMöge ihr Donner widerhallen,\r\nHimmel und Erde erschüttern\r\nsowie Feinde niederwerfen.",
+      "es": "Rey Astrapi mejorada. Su eco\r\natronador resonará con libertad,\r\nestremeciendo cielo y tierra y\r\nsubyugando al enemigo.",
+      "ru": "Улучшенный вариант «Рейдаловой\r\nмолнии». Пусть раскаты грома\r\nсотрясают небеса и землю,\r\nа враги замирают в ужасе.",
+      "pl": "Ulepszona wersja Astrapi Rey.\r\nNiech jego grom odbija się\r\nechem, wstrząsa niebem\r\ni ziemią i powala wrogów.",
+      "pt-BR": "Rey Astrapi melhorado. Que seu\r\ntrovão ecoe livremente, abalando\r\na terra e os céus subjugando\r\ntodos os inimigos.",
+      "ko": "강화된 레 아스트라페.\r\n벼락이여 해방하라. 저항하는\r\n자조차 지배할, 천지를\r\n뒤흔드는 일격을.",
+      "zh-Hant": "強化版煌雷盾。雷電啊，解放自身\r\n力量，打出轟動天地的一擊，連\r\n反抗者也一併支配吧。",
+      "zh-Hans": "强化版的煌雷盾斧。释放雷电的宏\r\n伟之力，以天地鸣动之一击，使反\r\n抗者臣服于脚下。",
+      "ar": "(راي أسترابي) مطوَّر. ليتردد\r\nصدى رعده بحرية فيهز السماء\r\nوالأرض ويقهر كل الأعداء.",
+      "es-419": "Una versión mejorada de Ástrape\r\nde Rey. Que su rayo resuene y\r\nretumbe en los cielos y la tierra\r\npara postrar a sus enemigos."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 2,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 36,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アラクネスケイルⅠ",
+      "en": "Arachnoscale I",
+      "fr": "Arachnécaille",
+      "it": "Aracnosquama I",
+      "de": "Arachnoschuppe I",
+      "es": "Aracnoscala I",
+      "ru": "Арахночешуя I",
+      "pl": "Arachnołuska I",
+      "pt-BR": "Aracnoescama I",
+      "ko": "아라크네스케일Ⅰ",
+      "zh-Hant": "阿剌克涅之鱗Ⅰ",
+      "zh-Hans": "阿剌克涅之鳞Ⅰ",
+      "ar": "نصل العنكبوت 1",
+      "es-419": "Aracnoscala I"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの素材形状を活かして\r\n組み上げた盾斧。斬撃時の摩擦熱を\r\n逃す特殊機構を搭載。",
+      "en": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+      "fr": "Une volto-hache Nerscylla\r\nqui génère de la chaleur par\r\nfriction grâce aux pièces qui\r\nla composent.",
+      "it": "Una lama caricata che sfrutta\r\nle parti di Nerscylla dalla\r\nforma unica per rilasciare\r\nun calore di attrito.",
+      "de": "Eine Nerscylla-Energieklinge,\r\ndie ihre einzigartig geformten\r\nTeile nutzt, um Reibungshitze\r\nvon Hieben freizusetzen.",
+      "es": "Hacha cargada de Nerscylla que\r\naprovecha la forma de sus\r\nmateriales para liberar el calor\r\nde la fricción al cortar.",
+      "ru": "Силовой клинок, в котором особая\r\nформа частей тела нерскиллы\r\nиспользуется для высвобождения\r\nтепла от трения при ударах.",
+      "pl": "Ładowane ostrze z Nerscylli.\r\nUwalnia ciepło tarcia podczas\r\nciosów dzięki unikalnie\r\nukształtowanym elementom.",
+      "pt-BR": "Lâmina dínamo de Nerscylla que\r\nse aproveita de suas partes com\r\nformato único para liberar calor\r\ndo atrito de seus golpes.",
+      "ko": "네르스큐라의 소재를 살려 만든\r\n차지액스. 공격 시 마찰열을\r\n방출하는 특수 장치가 달렸다.",
+      "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
+      "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
+      "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
+    },
+    "rarity": 3,
+    "attack_raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 14
+    },
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    }
+  },
+  {
+    "game_id": 37,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アラクネスケイルⅡ",
+      "en": "Arachnoscale II",
+      "fr": "Arachnécaille II",
+      "it": "Aracnosquama II",
+      "de": "Arachnoschuppe II",
+      "es": "Aracnoscala II",
+      "ru": "Арахночешуя II",
+      "pl": "Arachnołuska II",
+      "pt-BR": "Aracnoescama II",
+      "ko": "아라크네스케일Ⅱ",
+      "zh-Hant": "阿剌克涅之鱗Ⅱ",
+      "zh-Hans": "阿剌克涅之鳞Ⅱ",
+      "ar": "نصل العنكبوت 2",
+      "es-419": "Aracnoscala II"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの素材形状を活かして\r\n組み上げた盾斧。斬撃時の摩擦熱を\r\n逃す特殊機構を搭載。",
+      "en": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+      "fr": "Une volto-hache Nerscylla\r\nqui génère de la chaleur par\r\nfriction grâce aux pièces qui\r\nla composent.",
+      "it": "Una lama caricata che sfrutta\r\nle parti di Nerscylla dalla\r\nforma unica per rilasciare\r\nun calore di attrito.",
+      "de": "Eine Nerscylla-Energieklinge,\r\ndie ihre einzigartig geformten\r\nTeile nutzt, um Reibungshitze\r\nvon Hieben freizusetzen.",
+      "es": "Hacha cargada de Nerscylla que\r\naprovecha la forma de sus\r\nmateriales para liberar el calor\r\nde la fricción al cortar.",
+      "ru": "Силовой клинок, в котором особая\r\nформа частей тела нерскиллы\r\nиспользуется для высвобождения\r\nтепла от трения при ударах.",
+      "pl": "Ładowane ostrze z Nerscylli.\r\nUwalnia ciepło tarcia podczas\r\nciosów dzięki unikalnie\r\nukształtowanym elementom.",
+      "pt-BR": "Lâmina dínamo de Nerscylla que\r\nse aproveita de suas partes com\r\nformato único para liberar calor\r\ndo atrito de seus golpes.",
+      "ko": "네르스큐라의 소재를 살려 만든\r\n차지액스. 공격 시 마찰열을\r\n방출하는 특수 장치가 달렸다.",
+      "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
+      "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
+      "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
+    },
+    "rarity": 5,
+    "attack_raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 14
+    },
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    }
+  },
+  {
+    "game_id": 38,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アラクネスケイルⅢ",
+      "en": "Arachnoscale III",
+      "fr": "Arachnécaille III",
+      "it": "Aracnosquama III",
+      "de": "Arachnoschuppe III",
+      "es": "Aracnoscala III",
+      "ru": "Арахночешуя III",
+      "pl": "Arachnołuska III",
+      "pt-BR": "Aracnoescama III",
+      "ko": "아라크네스케일Ⅲ",
+      "zh-Hant": "阿剌克涅之鱗Ⅲ",
+      "zh-Hans": "阿剌克涅之鳞Ⅲ",
+      "ar": "نصل العنكبوت 3",
+      "es-419": "Aracnoscala III"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの素材形状を活かして\r\n組み上げた盾斧。斬撃時の摩擦熱を\r\n逃す特殊機構を搭載。",
+      "en": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+      "fr": "Une volto-hache Nerscylla\r\nqui génère de la chaleur par\r\nfriction grâce aux pièces qui\r\nla composent.",
+      "it": "Una lama caricata che sfrutta\r\nle parti di Nerscylla dalla\r\nforma unica per rilasciare\r\nun calore di attrito.",
+      "de": "Eine Nerscylla-Energieklinge,\r\ndie ihre einzigartig geformten\r\nTeile nutzt, um Reibungshitze\r\nvon Hieben freizusetzen.",
+      "es": "Hacha cargada de Nerscylla que\r\naprovecha la forma de sus\r\nmateriales para liberar el calor\r\nde la fricción al cortar.",
+      "ru": "Силовой клинок, в котором особая\r\nформа частей тела нерскиллы\r\nиспользуется для высвобождения\r\nтепла от трения при ударах.",
+      "pl": "Ładowane ostrze z Nerscylli.\r\nUwalnia ciepło tarcia podczas\r\nciosów dzięki unikalnie\r\nukształtowanym elementom.",
+      "pt-BR": "Lâmina dínamo de Nerscylla que\r\nse aproveita de suas partes com\r\nformato único para liberar calor\r\ndo atrito de seus golpes.",
+      "ko": "네르스큐라의 소재를 살려 만든\r\n차지액스. 공격 시 마찰열을\r\n방출하는 특수 장치가 달렸다.",
+      "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
+      "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
+      "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 14
+    },
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 39,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アラクネサイズ",
+      "en": "Arachnoscythe",
+      "fr": "Arachnofaux",
+      "it": "Aracnofalce",
+      "de": "Arachnosense",
+      "es": "Aracnoguadaña",
+      "ru": "Арахнокоса",
+      "pl": "Arachnokosa",
+      "pt-BR": "Aracnofoice",
+      "ko": "아라크네사이드",
+      "zh-Hant": "阿剌克涅之鐮",
+      "zh-Hans": "阿剌克涅之镰",
+      "ar": "منجل العنكبوت",
+      "es-419": "Aracnoguadaña"
+    },
+    "descriptions": {
+      "ja": "アラクネスケイルの摩擦低減の\r\n機構が強化された姿。硬い甲殻も\r\nまるでバターのように両断。",
+      "en": "An upgraded Arachnoscale. The\r\nimproved heat releaser can cut\r\nthrough thick plating like butter.",
+      "fr": "Arachnécaille améliorée. Le\r\ngénérateur de chaleur permet\r\nde fendre n'importe quelle\r\ncarapace sans difficulté.",
+      "it": "Potenziamento dell'Aracnosquama.\r\nPenetra nelle corazze più dure\r\ncome se fossero burro grazie\r\nal rilascio di calore.",
+      "de": "Eine verbesserte Arachnoschuppe.\r\nDer verbesserte Wärmeableiter\r\nkann dicke Platten wie Butter\r\ndurchschneiden.",
+      "es": "Aracnoscala mejorada.\r\nPuede cercenar cualquier coraza\r\ncomo si fuera mantequilla.",
+      "ru": "Улучшенный вариант «Арахночешуи».\r\nРассекает даже самые твёрдые\r\nпанцири, словно масло.",
+      "pl": "Ulepszona Arachnołuska.\r\nUdoskonalone odprowadzanie\r\nciepła pozwala przecinać grube\r\npancerze jak masło",
+      "pt-BR": "Aracnoescama melhorada. Seu\r\nexaustor de calor aprimorado\r\npermite cortar proteções espessas\r\ncomo se fossem manteiga.",
+      "ko": "아라크네스케일의 마찰 경감\r\n장치가 강화된 모습.\r\n단단한 갑각도 버터처럼 가른다.",
+      "zh-Hant": "強化版阿剌克涅之鱗，特殊機關能\r\n進一步降低摩擦。面對堅硬甲殼也是\r\n削鐵如泥。",
+      "zh-Hans": "强化后的阿剌克涅之鳞，进一步降\r\n低了摩擦。坚硬的甲壳也能像切黄\r\n油般被一刀两断。",
+      "ar": "نصل العنكبوت مطوَّر.\r\nيمكن لمزيل الحرارة المحسّن أن\r\nيقطع الصفائح السميكة مثل الزبدة.",
+      "es-419": "Aracnoscala mejorada. El\r\nliberador de calor mejorado\r\npuede cortar corazas gruesas\r\ncomo si fuera mantequilla."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 14
+    },
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 40,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "風爪盾斧Ⅰ",
+      "en": "Windthrash Charger I",
+      "fr": "Chargeur fouettevent",
+      "it": "Carica vento furioso I",
+      "de": "Windstoß-Lader I",
+      "es": "Garra vendaval I",
+      "ru": "Терзающий ветер I",
+      "pl": "Wiatrołomot Szarży I",
+      "pt-BR": "Dínamo Rasgavento I",
+      "ko": "풍조순부Ⅰ",
+      "zh-Hant": "風爪盾斧Ⅰ",
+      "zh-Hans": "风爪盾斧Ⅰ",
+      "ar": "شاحن الرياح العاتية 1",
+      "es-419": "Cargador azotavento I"
+    },
+    "descriptions": {
+      "ja": "ヒラバミ素材の特性を生かした\r\n盾斧。合体によって展開する爪は\r\n触れた獲物を逃さない。",
+      "en": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+      "fr": "Hache à base de Hirabami.\r\nAucune proie ne peut\r\néchapper à ses griffes.",
+      "it": "Un'ascia forgiata con componenti\r\ndi Hirabami. Nessuna preda può\r\nsfuggire alle sue grinfie.",
+      "de": "Eine Axt aus Hirabami-\r\nMaterial. Keine Beute ent-\r\nkommt ihrem Griff.",
+      "es": "Hacha fabricada con materiales de\r\nHirabami. No hay presa capaz de\r\nhuir de sus garras.",
+      "ru": "Топор из трофеев с хирабами.\r\nНикому не под силу избежать\r\nего когтей.",
+      "pl": "Topór z materiałów z Hirabami.\r\nŻadna ofiara nie umknie jego\r\nszponom.",
+      "pt-BR": "Um machado feito de materiais de\r\nHirabami. Nenhuma presa é capaz\r\nde escapar de suas garras.",
+      "ko": "히라바미 소재의 특성을 살린\r\n차지액스. 합체하면 펼쳐지는\r\n발톱은 닿은 사냥감을 놓치지\r\n않는다.",
+      "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
+      "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
+      "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        41,
+        44
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 41,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "風爪盾斧Ⅱ",
+      "en": "Windthrash Charger II",
+      "fr": "Chargeur fouettevent II",
+      "it": "Carica vento furioso II",
+      "de": "Windstoß-Lader II",
+      "es": "Garra vendaval II",
+      "ru": "Терзающий ветер II",
+      "pl": "Wiatrołomot Szarży II",
+      "pt-BR": "Dínamo Rasgavento II",
+      "ko": "풍조순부Ⅱ",
+      "zh-Hant": "風爪盾斧Ⅱ",
+      "zh-Hans": "风爪盾斧Ⅱ",
+      "ar": "شاحن الرياح العاتية 2",
+      "es-419": "Cargador azotavento II"
+    },
+    "descriptions": {
+      "ja": "ヒラバミ素材の特性を生かした\r\n盾斧。合体によって展開する爪は\r\n触れた獲物を逃さない。",
+      "en": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+      "fr": "Hache à base de Hirabami.\r\nAucune proie ne peut\r\néchapper à ses griffes.",
+      "it": "Un'ascia forgiata con componenti\r\ndi Hirabami. Nessuna preda può\r\nsfuggire alle sue grinfie.",
+      "de": "Eine Axt aus Hirabami-\r\nMaterial. Keine Beute ent-\r\nkommt ihrem Griff.",
+      "es": "Hacha fabricada con materiales de\r\nHirabami. No hay presa capaz de\r\nhuir de sus garras.",
+      "ru": "Топор из трофеев с хирабами.\r\nНикому не под силу избежать\r\nего когтей.",
+      "pl": "Topór z materiałów z Hirabami.\r\nŻadna ofiara nie umknie jego\r\nszponom.",
+      "pt-BR": "Um machado feito de materiais de\r\nHirabami. Nenhuma presa é capaz\r\nde escapar de suas garras.",
+      "ko": "히라바미 소재의 특성을 살린\r\n차지액스. 합체하면 펼쳐지는\r\n발톱은 닿은 사냥감을 놓치지\r\n않는다.",
+      "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
+      "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
+      "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 42,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "風爪盾斧Ⅲ",
+      "en": "Windthrash Charger III",
+      "fr": "Chargeur fouettevent III",
+      "it": "Carica vento furioso III",
+      "de": "Windstoß-Lader III",
+      "es": "Garra vendaval III",
+      "ru": "Терзающий ветер III",
+      "pl": "Wiatrołomot Szarży III",
+      "pt-BR": "Dínamo Rasgavento III",
+      "ko": "풍조순부Ⅲ",
+      "zh-Hant": "風爪盾斧Ⅲ",
+      "zh-Hans": "风爪盾斧Ⅲ",
+      "ar": "شاحن الرياح العاتية 3",
+      "es-419": "Cargador azotavento III"
+    },
+    "descriptions": {
+      "ja": "ヒラバミ素材の特性を生かした\r\n盾斧。合体によって展開する爪は\r\n触れた獲物を逃さない。",
+      "en": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+      "fr": "Hache à base de Hirabami.\r\nAucune proie ne peut\r\néchapper à ses griffes.",
+      "it": "Un'ascia forgiata con componenti\r\ndi Hirabami. Nessuna preda può\r\nsfuggire alle sue grinfie.",
+      "de": "Eine Axt aus Hirabami-\r\nMaterial. Keine Beute ent-\r\nkommt ihrem Griff.",
+      "es": "Hacha fabricada con materiales de\r\nHirabami. No hay presa capaz de\r\nhuir de sus garras.",
+      "ru": "Топор из материалов с хирабами.\r\nНикому не под силу избежать\r\nего когтей.",
+      "pl": "Topór z materiałów z Hirabami.\r\nŻadna ofiara nie umknie jego\r\nszponom.",
+      "pt-BR": "Um machado feito de materiais de\r\nHirabami. Nenhuma presa é capaz\r\nde escapar de suas garras.",
+      "ko": "히라바미 소재의 특성을 살린\r\n차지액스. 합체하면 펼쳐지는\r\n발톱은 닿은 사냥감을 놓치지\r\n않는다.",
+      "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
+      "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
+      "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 43,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "風爪盾斧タメバミ",
+      "en": "Windthrash Tamebami",
+      "fr": "Fouettevent Tamebami",
+      "it": "Tamebami car. vento fur.",
+      "de": "Windstoß-Tamebami",
+      "es": "Tamebami vendaval",
+      "ru": "Терзающий ветер Тамебами",
+      "pl": "Wiatrołomot Tamebami",
+      "pt-BR": "Tamebami Rasgavento",
+      "ko": "풍조순부 타메바미",
+      "zh-Hant": "風爪蓄蝕盾斧",
+      "zh-Hans": "蓄蚀风爪盾斧",
+      "ar": "تامبامي الرياح العاتية",
+      "es-419": "Tamebami azotavento"
+    },
+    "descriptions": {
+      "ja": "風爪盾斧の強化形態。\r\n剣と盾の連携は武生演舞の如く、\r\n逆巻く突風と共に敵を討つ。",
+      "en": "An upgraded Windthrash Charger.\r\nCapable of striking down any\r\nfoe caught in the fierce gusts\r\nof its dance-like synergy.",
+      "fr": "Chargeur fouettevent amélioré.\r\nAucun adversaire ne résiste aux\r\nrafales féroces de sa danse\r\nharmonieuse.",
+      "it": "Una versione potenziata del\r\nCarica vento furioso. Abbatte i\r\nnemici catturati dalle raffiche\r\ndella sua sinergia danzante.",
+      "de": "Eine verbesserte Windstoß-\r\nLader. Kann jeden Gegner\r\nbezwingen, der in die heftigen\r\nBöen ihrer Windtänze gerät.",
+      "es": "Garra vendaval mejorada. Capaz\r\nde derribar a cualquier oponente\r\natrapado entre las violentas\r\nráfagas de su sinergia danzante.",
+      "ru": "Улучшенный вариант «Терзающего\r\nветра». Свирепый вихрь танца\r\nлезвия и щита обещает победу\r\nнад любым противником.",
+      "pl": "Ulepszony Wiatrołomot Szarży,\r\nzdolny powalić przeciwnika\r\nzłapanego w gwałtowne podmuchy\r\ntanecznej synergii.",
+      "pt-BR": "Dínamo Rasgavento melhorado.\r\nCapaz de derrubar qualquer\r\noponente com as rajadas ferozes\r\nde sua sinergia graciosa.",
+      "ko": "풍조순부의 강화형.\r\n검과 방패의 연계는\r\n무생연무처럼 소용돌이치는\r\n돌풍과 함께 적을 친다.",
+      "zh-Hant": "強化版風爪盾斧。劍與盾的配合有如\r\n武生的劍舞，與逆流的突風一同討伐\r\n敵人。",
+      "zh-Hans": "风爪盾斧的强化形态。剑盾联动有\r\n如华丽的剑舞，携逆流的烈风一道\r\n消灭敌人。",
+      "ar": "شاحن الرياح العاتية مطوَّر.\r\nقادر على الإطاحة بأي خصم\r\nيقع في خضم تآزر عواصفه الهوجاء\r\nالتي تشبه الرقص.",
+      "es-419": "Un cargador azotavento mejorado.\r\nDerriba a todo enemigo\r\natrapado en las feroces ráfagas\r\nde su sinergia danzante."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 44,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "ヌ・プウェザⅠ",
+      "en": "Nu Pweza I",
+      "fr": "Nu Pweza",
+      "it": "Pweza Nu I",
+      "de": "Nu Pweza I",
+      "es": "Nu Pweza I",
+      "ru": "Удровый спрут I",
+      "pl": "Pweza Nu I",
+      "pt-BR": "Nu Pweza I",
+      "ko": "누 푸에자Ⅰ",
+      "zh-Hant": "獄鱆斧Ⅰ",
+      "zh-Hans": "狱焰盾斧Ⅰ",
+      "ar": "بويزا نو 1",
+      "es-419": "Pweza de Nu I"
+    },
+    "descriptions": {
+      "ja": "煉獄の象徴たるヌ・エグドラの素材\r\nを用いた盾斧。その斬撃は現世に\r\n囚われた呪いを纏い、不幸を招く。",
+      "en": "A Nu Udra charge blade. It traps\r\nthe living world in a maelstrom\r\nof damnation.",
+      "fr": "Volto-hache Nu Udra. Sa lame\r\ninfernale plonge le monde entier\r\ndans un maelström maudit.",
+      "it": "Una lama caricata Nu Udra.\r\nIntrappola il mondo dei vivi\r\nin un vortice di dannazione.",
+      "de": "Eine Nu-Udra-Energieklinge.\r\nSie hält die Welt der Lebenden\r\nin einem Strudel der\r\nVerdammnis gefangen.",
+      "es": "Hacha cargada de Nu Udra.\r\nAtrapa al mundo de los vivos\r\nen un torbellino de condenación.",
+      "ru": "Удровый силовой клинок, который\r\nстремится затянуть всё живое\r\nв водоворот проклятия.",
+      "pl": "Ładowane ostrze z Nu Udry.\r\nWięzi żywy świat w odmętach\r\npotępienia.",
+      "pt-BR": "Lâmina dínamo de Nu Udra.\r\nEm nome do inferno, ela\r\nprende o mundo dos vivos\r\nem um redemoinho maldito.",
+      "ko": "연옥의 상징인 누 이그드라의\r\n소재를 사용한 차지액스.\r\n그 참격은 현세의 저주를\r\n휘감고 불행을 불러들인다.",
+      "zh-Hant": "以象徵煉獄的獄焰鱆素材製作的\r\n充能斧。其斬擊帶有困於此世的\r\n詛咒，將帶來不幸。",
+      "zh-Hans": "以象征炼狱的狱焰蛸素材制成的盾\r\n斧。其斩击带有困于现世的诅咒，\r\n会给对手招致不幸。",
+      "ar": "نصل (نو أودرا) مشحون.\r\nيحبس العالم الحي\r\nفي دوامة من اللعنات.",
+      "es-419": "Un hacha cargada de Nu Udra.\r\nSume el mundo de los vivos en\r\nuna vorágine de perdición."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 11
+    },
+    "skills": {
+      "-1961116288": 2
+    }
+  },
+  {
+    "game_id": 45,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "ヌ・プウェザⅡ",
+      "en": "Nu Pweza II",
+      "fr": "Nu Pweza II",
+      "it": "Pweza Nu II",
+      "de": "Nu Pweza II",
+      "es": "Nu Pweza II",
+      "ru": "Удровый спрут II",
+      "pl": "Pweza Nu II",
+      "pt-BR": "Nu Pweza II",
+      "ko": "누 푸에자Ⅱ",
+      "zh-Hant": "獄鱆斧Ⅱ",
+      "zh-Hans": "狱焰盾斧Ⅱ",
+      "ar": "بويزا نو 2",
+      "es-419": "Pweza de Nu II"
+    },
+    "descriptions": {
+      "ja": "煉獄の象徴たるヌ・エグドラの素材\r\nを用いた盾斧。その斬撃は現世に\r\n囚われた呪いを纏い、不幸を招く。",
+      "en": "A Nu Udra charge blade. It traps\r\nthe living world in a maelstrom\r\nof damnation.",
+      "fr": "Volto-hache Nu Udra. Sa lame\r\ninfernale plonge le monde entier\r\ndans un maelström maudit.",
+      "it": "Una lama caricata Nu Udra.\r\nIntrappola il mondo dei vivi\r\nin un vortice di dannazione.",
+      "de": "Eine Nu-Udra-Energieklinge.\r\nSie hält die Welt der Lebenden\r\nin einem Strudel der\r\nVerdammnis gefangen.",
+      "es": "Hacha cargada de Nu Udra.\r\nAtrapa al mundo de los vivos\r\nen un torbellino de condenación.",
+      "ru": "Удровый силовой клинок, который\r\nстремится затянуть всё живое\r\nв водоворот проклятия.",
+      "pl": "Ładowane ostrze z Nu Udry.\r\nWięzi żywy świat w odmętach\r\npotępienia.",
+      "pt-BR": "Lâmina dínamo de Nu Udra.\r\nEm nome do inferno, ela\r\nprende o mundo dos vivos\r\nem um redemoinho maldito.",
+      "ko": "연옥의 상징인 누 이그드라의\r\n소재를 사용한 차지액스.\r\n그 참격은 현세의 저주를\r\n휘감고 불행을 불러들인다.",
+      "zh-Hant": "以象徵煉獄的獄焰鱆素材製作的\r\n充能斧。其斬擊帶有困於此世的\r\n詛咒，將帶來不幸。",
+      "zh-Hans": "以象征炼狱的狱焰蛸素材制成的盾\r\n斧。其斩击带有困于现世的诅咒，\r\n会给对手招致不幸。",
+      "ar": "نصل (نو أودرا) مشحون.\r\nيربط العالم الحي باسم الجحيم\r\nفي دوامة من اللعنات.",
+      "es-419": "Un hacha cargada de Nu Udra.\r\nSume el mundo de los vivos en\r\nuna vorágine de perdición."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 11
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 46,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "獄焔盾斧プウェザ",
+      "en": "Abaddonian Pweza",
+      "fr": "Pweza apocalyptique",
+      "it": "Pweza dell'Abaddon",
+      "de": "Abaddons Pweza",
+      "es": "Pweza de Abaddon",
+      "ru": "Спрут преисподней",
+      "pl": "Abaddońska pweza",
+      "pt-BR": "Pweza Abaddoniana",
+      "ko": "옥염순부 푸에자",
+      "zh-Hant": "獄焰惡鱆盾斧",
+      "zh-Hans": "恶蛸狱焰盾斧",
+      "ar": "بويزا أبادوني",
+      "es-419": "Pweza de Abadón"
+    },
+    "descriptions": {
+      "ja": "深奥から世界を覗くヌ・プウェザの\r\n強化形。冥府の底に燃える焔を解き\r\n放ち、遍く希望を焼き祓う。",
+      "en": "An upgraded Nu Pweza. From\r\nthe nethermost reaches, it is\r\npoised to immolate all hope\r\nin infernal fire.",
+      "fr": "Nu Pweza améliorée. Surgie\r\ndes entrailles de la terre, elle\r\nest prête à immoler tout espoir\r\ndans un feu infernal.",
+      "it": "Una Pweza Nu potenziata. Dalle\r\nregioni più remote, è pronta a\r\nimmolare ogni speranza nel\r\nfuoco infernale.",
+      "de": "Verbesserte Nu Pweza aus den\r\ntiefsten Tiefen der Unterwelt.\r\nSie ist bereit, alle Hoffnung\r\nim Höllenfeuer zu verbrennen.",
+      "es": "Nu Pweza mejorada. Desde los\r\nconfines más recónditos, siempre\r\npresta a inmolar toda esperanza\r\ncon su fuego infernal.",
+      "ru": "Улучшенный вариант «Удрового\r\nспрута». Тянется к жертве из\r\nбездны, стремясь испепелить\r\nлюбую надежду.",
+      "pl": "Ulepszona wersja pwezy Nu.\r\nZ najdalszych krańców jest gotowa spalić\r\nwszelką nadzieję w piekielnym ogniu.",
+      "pt-BR": "Nu Pweza melhorado.\r\nDas profundezas subterrâneas,\r\nse prepara para incendiar toda\r\na esperança em fogo infernal.",
+      "ko": "깊숙한 곳에서 세계를\r\n들여다보는 누 푸에자 강화형.\r\n저승의 밑바닥에 불타는 불꽃이\r\n희망을 모조리 불태워버린다.",
+      "zh-Hant": "從深淵窺看世界的強化版獄鱆斧。\r\n此斧將解放冥府深處燃燒的火焰，\r\n燒盡世間一切希望。",
+      "zh-Hans": "狱焰盾斧的强化型，从炼狱深处窥\r\n探世界。它会释放冥府之底燃烧的\r\n烈焰，将所有希望全数焚尽。",
+      "ar": "(بويزا نو) مطوَّر.\r\nمن أقصى الأعماق، على استعداد\r\nلحرق كل أمل في نار جهنمية.",
+      "es-419": "Una versión mejorada de Pweza\r\nde Nu. Desde las profundidades,\r\npretende inmolar toda esperanza\r\nen el fuego infernal."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 11
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 47,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "白炎斧アルリオスⅠ",
+      "en": "Albirath Blade I",
+      "fr": "Lame Albirath",
+      "it": "Lama Albirath I",
+      "de": "Albirath-Klinge I",
+      "es": "Hoja de Albirath I",
+      "ru": "Лезвие Альбирата I",
+      "pl": "Ostrze Albirath I",
+      "pt-BR": "Lâmina Alvirath I",
+      "ko": "백염부 알리오스Ⅰ",
+      "zh-Hant": "白炎火龍斧Ⅰ",
+      "zh-Hans": "白炎盾斧Ⅰ",
+      "ar": "نصل ألبيراث 1",
+      "es-419": "Hoja de Albirath I"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n盾斧。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos charge\r\nblade. Like a blazing fire, its\r\nwielder's spirit never abates.",
+      "fr": "Volto-hache Rathalos Gardien.\r\nTel un feu ardent, l'esprit de\r\nson porteur jamais ne s'éteint.",
+      "it": "Una lama caricata\r\ndi Rathalos guardiano. \r\nLo spirito di chi la impugna\r\nnon si placherà mai.",
+      "de": "Eine Energieklinge aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Hacha cargada de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Силовой клинок из раталоса-\r\nстража. Решимость его владельца\r\nподобна бушующему пламени\r\nи никогда не угаснет.",
+      "pl": "Ładowane ostrze z Rathalosa\r\nStrażnika. Niczym płonący ogień,\r\nduch jego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Lâmina dínamo de Rathalos\r\nGuardião. Como um fogo ardente,\r\no espírito de quem a porta nunca\r\nse esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n차지액스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的充能斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙素材制作的盾斧。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
+      "ar": "نصل (راثالوس) حارس مشحون. روح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un hacha cargada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 48,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "白炎斧アルリオスⅡ",
+      "en": "Albirath Blade II",
+      "fr": "Lame Albirath II",
+      "it": "Lama Albirath II",
+      "de": "Albirath-Klinge II",
+      "es": "Hoja de Albirath II",
+      "ru": "Лезвие Альбирата II",
+      "pl": "Ostrze Albirath II",
+      "pt-BR": "Lâmina Alvirath II",
+      "ko": "백염부 알리오스Ⅱ",
+      "zh-Hant": "白炎火龍斧Ⅱ",
+      "zh-Hans": "白炎盾斧Ⅱ",
+      "ar": "نصل ألبيراث 2",
+      "es-419": "Hoja de Albirath II"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n盾斧。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos charge\r\nblade. Like a blazing fire, its\r\nwielder's spirit never abates.",
+      "fr": "Volto-hache Rathalos Gardien.\r\nTel un feu ardent, l'esprit de\r\nson porteur jamais ne s'éteint.",
+      "it": "Una lama caricata\r\ndi Rathalos guardiano. \r\nLo spirito di chi la impugna\r\nnon si placherà mai.",
+      "de": "Eine Energieklinge aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Hacha cargada de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Силовой клинок из раталоса-\r\nстража. Решимость его владельца\r\nподобна бушующему пламени\r\nи никогда не угаснет.",
+      "pl": "Ładowane ostrze z Rathalosa\r\nStrażnika. Niczym płonący ogień,\r\nduch jego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Lâmina dínamo de Rathalos\r\nGuardião. Como um fogo ardente,\r\no espírito de quem a porta nunca\r\nse esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n차지액스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的充能斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙素材制作的盾斧。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
+      "ar": "نصل (راثالوس) حارس مشحون. روح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un hacha cargada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 49,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "灰滅斧ガルデリオス",
+      "en": "Guardian Albathos",
+      "fr": "Albathos Gardien",
+      "it": "Albathos guardiano",
+      "de": "Wächter-Albathos",
+      "es": "Albathos Guardián",
+      "ru": "Стражевый бердыш",
+      "pl": "Albathos Strażnik",
+      "pt-BR": "Alvathos Guardião",
+      "ko": "회멸부 가르데리오스",
+      "zh-Hant": "灰滅火龍斧",
+      "zh-Hans": "湮灭护火盾斧",
+      "ar": "ألباثوس حارس",
+      "es-419": "Albathos Guardián"
+    },
+    "descriptions": {
+      "ja": "強化されし白炎斧アルリオス。\r\n白き力の奔流の中に、王たる誇りと\r\n気高き魂を感じることができる。",
+      "en": "An upgraded Albirath Blade.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+      "fr": "Lame Albirath améliorée.\r\nUne âme royale repose au\r\nsein de son flot immaculé\r\nde puissance.",
+      "it": "Una lama Albirath potenziata. \r\nDietro il suo grande potere,\r\nse ne percepisce l'anima regale.",
+      "de": "Eine verbesserte Albirath-\r\nKlinge. Eine königliche Seele\r\nruht in ihrer makellosen Flut\r\naus Macht.",
+      "es": "Hoja de Albirath mejorado.\r\nUn alma regia descansa en\r\nsu marea de poder inmaculado.",
+      "ru": "Улучшенное «Лезвие Альбирата».\r\nВ потоке чистейшей мощи, который\r\nпронизывает это оружие, нашла\r\nпристанище благородная душа.",
+      "pl": "Ulepszone ostrze Albirath.\r\nW jego nieskazitelnej fali mocy\r\nspoczywa królewska dusza.",
+      "pt-BR": "Lâmina Alvirath melhorada.\r\nUma alma régia repousa dentro\r\nde seu imaculado poder afluente.",
+      "ko": "강화된 백염부 알리오스.\r\n하얀 힘의 흐름 속에서\r\n왕의 자부심과 고귀한 혼을\r\n느낄 수 있다.",
+      "zh-Hant": "強化版白炎火龍斧。在皓白之力的\r\n奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
+      "zh-Hans": "强化后的白炎盾斧。在皓白之力形\r\n成的涌流中，可以感受到高贵的王\r\n者之魂。",
+      "ar": "سيف (ألبيراث) مطوَّر. تقبع روح راقية وسط\r\nفيض قوته الخالصة.",
+      "es-419": "Una Hoja de Albirath mejorada. Hay\r\nun alma digna de la realeza en su\r\ninmaculado flujo de potencia."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 50,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "異界の炎Ⅰ",
+      "en": "Chthonian Flame I",
+      "fr": "Flamme chthonienne",
+      "it": "Fiamma Chthonian I",
+      "de": "Chthonische Flamme I",
+      "es": "Llama chthonia I",
+      "ru": "Хтоническое пламя I",
+      "pl": "Chtoniczny Płomień I",
+      "pt-BR": "Chama Ctoniana I",
+      "ko": "이계의 불꽃Ⅰ",
+      "zh-Hant": "異界之炎Ⅰ",
+      "zh-Hans": "异界之炎Ⅰ",
+      "ar": "اللهب الكاثوني 1",
+      "es-419": "Llama chthoniana I"
+    },
+    "descriptions": {
+      "ja": "護竜オドガロン亜種の素材で作成\r\nされた盾斧。渇望に身をゆだねる\r\n獣の本能が具現化した武器。",
+      "en": "A Guardian Ebony Odogaron\r\ncharge blade. Beholden to\r\nbeastly cravings, its thirst\r\nfor blood never wanes.",
+      "fr": "Volto-hache Odogaron\r\ndésastre Gardien. Tributaire\r\nde son appétit bestial, elle a\r\ntoujours soif de sang.",
+      "it": "Una lama caricata di Odogaron\r\nd'ebano guardiano. Assetata di\r\nsangue e legata ai suoi\r\nimpulsi bestiali.",
+      "de": "Eine Wächter-Vulkan-Odogaron-\r\nEnergieklinge. Getrieben von\r\nbestialischem Verlangen giert\r\nsie unentwegt nach Blut.",
+      "es": "Hacha cargada de Odogaron\r\nÉbano Guardián. Atrapada\r\npor sus antojos crueles,\r\nansía la sangre.",
+      "ru": "Силовой клинок из эбенового\r\nодогарона-стража. Это оружие\r\nокружает аура дикого зверя,\r\nкоторый всё ещё жаждет крови.",
+      "pl": "Ładowane ostrze z Hebanowego\r\nOdogarona Strażnika. Uległe\r\nbestialskim pragnieniom, ich\r\nżądza krwi nigdy nie słabnie.",
+      "pt-BR": "Lâmina dínamo de Odogaron Negro\r\nGuardião. Refém de seus desejos\r\nbestiais, sua sede de sangue é\r\ninsaciável.",
+      "ko": "수호룡 오도가론 아종 소재로\r\n만든 차지액스. 갈망에\r\n몸을 맡기는 짐승의 본능을\r\n구현한 무기.",
+      "zh-Hant": "以護兇爪龍素材製作的充能斧。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
+      "zh-Hans": "使用护凶爪龙素材制作的盾斧。是\r\n将屈服于渴望的野兽本能化为实体\r\n的武器。",
+      "ar": "نصل (أودوغارون) أسمر حارس\r\nمشحون. بسبب خضوعه لرغباته\r\nالوحشية، لا يرتوي عطشه للدماء أبدًا.",
+      "es-419": "Un hacha cargada de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su sed\r\nde sangre es inagotable."
+    },
+    "rarity": 4,
+    "attack_raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 26,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 51,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "異界の炎Ⅱ",
+      "en": "Chthonian Flame II",
+      "fr": "Flamme chthonienne II",
+      "it": "Fiamma Chthonian II",
+      "de": "Chthonische Flamme II",
+      "es": "Llama chthonia II",
+      "ru": "Хтоническое пламя II",
+      "pl": "Chtoniczny Płomień II",
+      "pt-BR": "Chama Ctoniana II",
+      "ko": "이계의 불꽃Ⅱ",
+      "zh-Hant": "異界之炎Ⅱ",
+      "zh-Hans": "异界之炎Ⅱ",
+      "ar": "اللهب الكاثوني 2",
+      "es-419": "Llama chthoniana II"
+    },
+    "descriptions": {
+      "ja": "護竜オドガロン亜種の素材で作成\r\nされた盾斧。渇望に身をゆだねる\r\n獣の本能が具現化した武器。",
+      "en": "A Guardian Ebony Odogaron\r\ncharge blade. Beholden to\r\nbeastly cravings, its thirst\r\nfor blood never wanes.",
+      "fr": "Volto-hache Odogaron\r\ndésastre Gardien. Tributaire\r\nde son appétit bestial, elle a\r\ntoujours soif de sang.",
+      "it": "Una lama caricata di Odogaron\r\nd'ebano guardiano. Assetata di\r\nsangue e legata ai suoi\r\nimpulsi bestiali.",
+      "de": "Eine Wächter-Vulkan-Odogaron-\r\nEnergieklinge. Getrieben von\r\nbestialischem Verlangen giert\r\nsie unentwegt nach Blut.",
+      "es": "Hacha cargada de Odogaron\r\nÉbano Guardián. Atrapada\r\npor sus antojos crueles,\r\nansía la sangre.",
+      "ru": "Силовой клинок из эбенового\r\nодогарона-стража. Это оружие\r\nокружает аура дикого зверя,\r\nкоторый всё ещё жаждет крови.",
+      "pl": "Ładowane ostrze z Hebanowego\r\nOdogarona Strażnika. Uległe\r\nbestialskim pragnieniom, ich\r\nżądza krwi nigdy nie słabnie.",
+      "pt-BR": "Lâmina dínamo de Odogaron Negro\r\nGuardião. Refém de seus desejos\r\nbestiais, sua sede de sangue é\r\ninsaciável.",
+      "ko": "수호룡 오도가론 아종 소재로\r\n만든 차지액스. 갈망에\r\n몸을 맡기는 짐승의 본능을\r\n구현한 무기.",
+      "zh-Hant": "以護兇爪龍素材製作的充能斧。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
+      "zh-Hans": "使用护凶爪龙素材制作的盾斧。是\r\n将屈服于渴望的野兽本能化为实体\r\n的武器。",
+      "ar": "نصل (أودوغارون) أسمر حارس\r\nمشحون. بسبب خضوعه لرغباته\r\nالوحشية، لا يرتوي عطشه للدماء أبدًا.",
+      "es-419": "Un hacha cargada de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su sed\r\nde sangre es inagotable."
+    },
+    "rarity": 6,
+    "attack_raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 31,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": true,
+      "column": 6,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 52,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "遺恨【エンミティ】",
+      "en": "Bequeathed Enmity",
+      "fr": "Volto-hache de rancune",
+      "it": "Ostilità ereditaria",
+      "de": "Vererbte Feindschaft",
+      "es": "Enemistad legada",
+      "ru": "Завещанная вражда",
+      "pl": "Przekazana Wrogość",
+      "pt-BR": "Inimizade Herdada",
+      "ko": "원한【엔머티】",
+      "zh-Hant": "遺恨",
+      "zh-Hans": "遗恨",
+      "ar": "عداء موروث",
+      "es-419": "Enemistad legada"
+    },
+    "descriptions": {
+      "ja": "強化されし異界の炎。\r\n飢えた獣が輪廻を引き裂き現世に\r\n遺した、満たされる事のない器。",
+      "en": "An upgraded Chthonian Flame.\r\nDespite chewing free of its\r\ncycle of hunger, the beast\r\nremains unsated.",
+      "fr": "Flamme chthonienne améliorée.\r\nBien qu'elle se soit libérée du\r\ncycle de la faim, la bête n'est\r\npas rassasiée.",
+      "it": "Una fiamma Chthonian potenziata.\r\nNonostante si sia liberata\r\ndal ciclo della fame,\r\nnon è ancora sazia.",
+      "de": "Eine verbesserte Chthonische\r\nFlamme. Der Kreislauf des\r\nHungers ist durchbrochen,\r\ndoch die Bestie bleibt gierig.",
+      "es": "Llama chthonia mejorada.\r\nA pesar de liberarse a mordiscos\r\ndel ciclo de ansia, la bestia\r\nnunca está saciada.",
+      "ru": "Улучшенное «Хтоническое пламя».\r\nХотя дух зверя не нуждается\r\nв пище, он так и не избавился\r\nот неутолимого голода.",
+      "pl": "Ulepszony Chtoniczny Płomień.\r\nChoć bestia wyswobodziła się\r\nz cyklu głodu, pozostaje\r\nnienasycona.",
+      "pt-BR": "Chama Ctoniana melhorada. Mesmo\r\nescapando às mordidas do seu ciclo\r\nde fome, a fera continua insaciada.",
+      "ko": "강화된 이계의 불꽃.\r\n굶주린 짐승이 윤회를 찢어발겨\r\n현세에 남긴, 채워지지 않을\r\n그릇이다.",
+      "zh-Hant": "強化版異界之炎。飢渴的野獸撕裂\r\n輪迴，將此永不滿足的空殼遺留在\r\n現世。",
+      "zh-Hans": "强化后的异界之炎。饥渴的凶兽撕\r\n裂轮回，将此永不满足的器物残留\r\n在人间。",
+      "ar": "اللهب الكاثوني مطوَّر.\r\nرغم عدم انتظاره دورة الجوع\r\nليلتهم الفرائس، إلا أنه لا يشبع.",
+      "es-419": "Una versión mejorada de la\r\nLlama chthoniana. Si bien ya no\r\nnecesita alimentarse, la bestia\r\nsigue ávida."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 53,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ガルシュブラドラⅠ",
+      "en": "G. Veldian Labrys I",
+      "fr": "Labrys Arkveld Gardien",
+      "it": "Labrys Veldian G. I",
+      "de": "W.-Arkveld-Labrys I",
+      "es": "Labrys veldiana G. I",
+      "ru": "Вельдстражевый лабрис I",
+      "pl": "Wiweriań. Labrys S. I",
+      "pt-BR": "Lábris Veldiano G. I",
+      "ko": "갈슈블래드라Ⅰ",
+      "zh-Hant": "護鎖刃充能斧Ⅰ",
+      "zh-Hans": "护锁刃盾斧Ⅰ",
+      "ar": "لابريس فيلديان حارس 1",
+      "es-419": "Labrys veldian G. I"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた盾斧。\r\n強靭な精神を持つ者が扱わないと\r\n力に溺れ、苦境を招くという。",
+      "en": "A charge blade made from\r\nGuardian spoils. When wielded\r\nby those with weak spirit, its\r\npower corrupts, inviting ruin.",
+      "fr": "À base de Gardien. Son pouvoir\r\ncorrompt les esprits inférieurs,\r\ncausant leur perte.",
+      "it": "Una lama caricata ricavata da\r\nresti di un guardiano.\r\nIl suo potere potrebbe condurre\r\nuno spirito debole alla rovina.",
+      "de": "Eine Energieklinge aus Wächter-\r\nMaterial. Wenn von geistig\r\nSchwachen geführt, verdirbt ihre\r\nMacht und führt zu Vernichtung.",
+      "es": "Hacha cargada de restos de\r\nGuardián. Cuando la empuñan\r\nlos de espíritu débil, su poder\r\ntrae desolación y corrupción.",
+      "ru": "Силовой клинок из материалов\r\nсо стража. Его мощь развращает\r\nслабых духом, пробуждая в них\r\nжажду уничтожения.",
+      "pl": "Ładowane ostrze wykonane\r\nz pozostałości Strażnika.\r\nW rękach słabszego ducha\r\nupadla go i zwiastuje zagładę.",
+      "pt-BR": "Lâmina dínamo feita de materiais\r\nde Guardião. Quando usada por\r\nalguém de espírito fraco, seu\r\npoder corrompe e leva à ruína.",
+      "ko": "수호룡 소재로 만든 차지액스.\r\n강인한 정신의 소유자가 아니면\r\n힘에 취해 곤경에 처할 수도\r\n있다고 한다.",
+      "zh-Hant": "以護龍素材製作的充能斧。據說如非\r\n精神強韌之人，使用此武器必被力量\r\n吞噬，陷入苦境。",
+      "zh-Hans": "以护龙素材制作的盾斧。传说若非\r\n精神坚韧之人，使用此武器必会沉\r\n溺于力量，陷入苦境。",
+      "ar": "نصل مشحون مصنوع من غنائم وحش حارس.\r\nإذا استخدمته روح أقل شأنًا،\r\nفإن قوته تفسد وتجلب الدمار.",
+      "es-419": "Hacha cargada hecha con restos\r\nde Guardián. Su poder convoca\r\nun estado de ruina y se corrompe\r\nsi la porta un espíritu débil."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 54,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ガルシュブラドラⅡ",
+      "en": "G. Veldian Labrys II",
+      "fr": "Labrys Arkveld Gardien II",
+      "it": "Labrys Veldian G. II",
+      "de": "W.-Arkveld-Labrys II",
+      "es": "Labrys veldiana G. II",
+      "ru": "Вельдстражевый лабрис II",
+      "pl": "Wiweriań. Labrys S. II",
+      "pt-BR": "Lábris Veldiano G. II",
+      "ko": "갈슈블래드라Ⅱ",
+      "zh-Hant": "護鎖刃充能斧Ⅱ",
+      "zh-Hans": "护锁刃盾斧Ⅱ",
+      "ar": "لابريس فيلديان حارس 2",
+      "es-419": "Labrys veldian G. II"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた盾斧。\r\n強靭な精神を持つ者が扱わないと\r\n力に溺れ、苦境を招くという。",
+      "en": "A charge blade made from\r\nGuardian spoils. When wielded\r\nby those with weak spirit, its\r\npower corrupts, inviting ruin.",
+      "fr": "À base de Gardien. Son pouvoir\r\ncorrompt les esprits inférieurs,\r\ncausant leur perte.",
+      "it": "Una lama caricata ricavata da\r\nresti di un guardiano.\r\nIl suo potere potrebbe condurre\r\nuno spirito debole alla rovina.",
+      "de": "Eine Energieklinge aus Wächter-\r\nMaterial. Wenn von geistig\r\nSchwachen geführt, verdirbt ihre\r\nMacht und führt zu Vernichtung.",
+      "es": "Hacha cargada de restos de\r\nGuardián. Cuando la empuñan\r\nlos de espíritu débil, su poder\r\ntrae desolación y corrupción.",
+      "ru": "Силовой клинок из материалов\r\nсо стража. Его мощь развращает\r\nслабых духом, пробуждая в них\r\nжажду уничтожения.",
+      "pl": "Ładowane ostrze wykonane\r\nz pozostałości Strażnika.\r\nW rękach słabszego ducha\r\nupadla go i zwiastuje zagładę.",
+      "pt-BR": "Lâmina dínamo feita de materiais\r\nde Guardião. Quando usada por\r\nalguém de espírito fraco, seu\r\npoder corrompe e leva à ruína.",
+      "ko": "수호룡 소재로 만든 차지액스.\r\n강인한 정신의 소유자가 아니면\r\n힘에 취해 곤경에 처할 수도\r\n있다고 한다.",
+      "zh-Hant": "以護龍素材製作的充能斧。據說如非\r\n精神強韌之人，使用此武器必被力量\r\n吞噬，陷入苦境。",
+      "zh-Hans": "以护龙素材制作的盾斧。传说若非\r\n精神坚韧之人，使用此武器必会沉\r\n溺于力量，陷入苦境。",
+      "ar": "نصل مشحون مصنوع من غنائم وحش حارس.\r\nإذا استخدمته روح أقل شأنًا،\r\nفإن قوته تفسد وتجلب الدمار.",
+      "es-419": "Hacha cargada hecha con restos\r\nde Guardián. Su poder convoca\r\nun estado de ruina y se corrompe\r\nsi la porta un espíritu débil."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 53,
+      "branches": [
+        55,
+        68
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 55,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "護鎖刃盾斧ガルヴァン",
+      "en": "G. Abiding Gawain",
+      "fr": "Caradoc Gardien",
+      "it": "Gawain durevole G.",
+      "de": "Harrender W. Gawain",
+      "es": "Galván permanente G.",
+      "ru": "Страж смирения Гавейна",
+      "pl": "Trwały Gawain S.",
+      "pt-BR": "Gawain Eterno G.",
+      "ko": "호쇄인순부 가웨인",
+      "zh-Hant": "護鎖刃充能斧高文",
+      "zh-Hans": "护锁刃盾斧·高文",
+      "ar": "جاوين أبدي حارس",
+      "es-419": "Gawain Perdurable G."
+    },
+    "descriptions": {
+      "ja": "強化されしガルシュブラドラ。\r\nこの武器を持ち竜を倒した戦士は\r\n大地に無数の鎖跡を残したという。",
+      "en": "An upgraded G. Veldian Labrys.\r\nThe earth still bears the marks\r\nof its mighty clash with a wyvern.",
+      "fr": "Labrys Arkveld Gardien amélioré.\r\nLa terre porte encore les marques\r\nde son combat épique contre\r\nune wyverne.",
+      "it": "Una labrys Veldian G. potenziata.\r\nLa terra reca ancora\r\ni segni del suo terribile\r\nscontro con un wyvern.",
+      "de": "Verbesserte Wächter-Arkveld-\r\nLabrys. Die Erde trägt noch\r\ndie Spuren eines erbitterten\r\nKampfes gegen einen Wyvern.",
+      "es": "Labrys veldiana G. mejorada.\r\nLa tierra sigue mostrando\r\nlas marcas del enfrentamiento\r\nde su portador con un wyvern.",
+      "ru": "Улучшенный «Вельдстражевый\r\nлабрис». Земля ещё хранит следы\r\nцепей, оставшиеся после сражения\r\nего прежнего хозяина с виверной.",
+      "pl": "Ulepszony Wiweriański Labrys S..\r\nZiemia wciąż nosi ślady\r\njego potężnego starcia\r\nz wiwerną.",
+      "pt-BR": "Lábris Veldiano G. melhorado.\r\nA terra ainda tem cicatrizes\r\nde seu intenso combate\r\ncontra uma serpe.",
+      "ko": "강화된 갈슈블래드라.\r\n이 무기로 용을 쓰러뜨린\r\n전사는 지상에 무수한 사슬\r\n자국을 남겼다고 한다.",
+      "zh-Hant": "強化版護鎖刃充能斧。據說用此\r\n武器打倒龍的戰士在大地留下了\r\n無數的鎖鏈痕跡。",
+      "zh-Hans": "强化后的护锁刃盾斧。传说手持此\r\n武器屠龙的战士，曾在大地上留下\r\n无数锁链的痕迹。",
+      "ar": "(لابريس فيلديان) حارس مطوَّر.\r\nلا تزال الأرض تحمل آثار صراعه\r\nالعظيم مع وايفرن.",
+      "es-419": "Una Labrys veldian G. mejorada.\r\nLa tierra aún conserva las\r\nmarcas de un gran choque con un\r\nwyvern."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 56,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ポイジングティアⅠ",
+      "en": "Poison Blade I",
+      "fr": "Lame venimeuse",
+      "it": "Lama avvelenata I",
+      "de": "Toxische Klinge I",
+      "es": "Filo venenoso I",
+      "ru": "Отравленный клинок I",
+      "pl": "Ostrze Trucizny I",
+      "pt-BR": "Lâmina Venenosa I",
+      "ko": "포이징티어Ⅰ",
+      "zh-Hant": "毒液之淚Ⅰ",
+      "zh-Hans": "剧毒之泪Ⅰ",
+      "ar": "نصل السم 1",
+      "es-419": "Hoja venenosa I"
+    },
+    "descriptions": {
+      "ja": "中にゲリョスの毒袋を仕込んだ\r\n恐ろしい機構を持つ盾斧。毒の\r\n刃は滑らかに獲物へ食い込む。",
+      "en": "A horrific charge blade rigged\r\nwith Gypceros poison. Its\r\nvenomous edge cuts through\r\nprey like butter.",
+      "fr": "Volto-hache terrifiante imprégnée\r\nde poison de Gypceros. Son\r\ntranchant venimeux traverse\r\nles proies comme du beurre.",
+      "it": "Un'orribile lama caricata,\r\nequipaggiata con veleno\r\ndi Gypceros.\r\nTaglia le prede come burro.",
+      "de": "Eine schreckliche Energieklinge\r\nvoll Gypceros-Gift, deren\r\nSchneide jede Beute wie Butter\r\ndurchdringt.",
+      "es": "Hacha cargada horrible imbuida\r\ncon veneno de Gypceros. Su filo\r\nponzoñoso corta a sus presas como\r\nla mantequilla.",
+      "ru": "Жуткий силовой клинок, смазанный\r\nядом гипцероса. Его отравленное\r\nлезвие рассекает плоть словно\r\nмасло.",
+      "pl": "Przerażające ładowane ostrze\r\nnasączone trucizną Gypcerosa.\r\nTo jadowite ostrze wchodzi\r\nw ofiarę jak w masło.",
+      "pt-BR": "Lâmina dínamo horrenda, equipada\r\ncom veneno de Gypceros. Seu fio\r\nvenenoso corta presas como\r\nmanteiga.",
+      "ko": "안에 게리오스의 독주머니를\r\n넣은 무시무시한 구조의\r\n차지액스. 독 칼날은 사냥감을\r\n부드럽게 파고든다.",
+      "zh-Hant": "內部裝有毒怪鳥毒袋的恐怖充能斧。\r\n帶毒的利刃會順滑地刺入獵物體內\r\n深處。",
+      "zh-Hans": "内部设有毒怪鸟毒囊的恐怖盾斧。\r\n毒刃能顺利地刺入猎物体内。",
+      "ar": "نصل مشحون مروع مزود بسم (جيبسيروس).\r\nشفرته السامة تقطع الفريسة\r\nكأنها قطعة زبدة.",
+      "es-419": "Una terrible hacha cargada con\r\nveneno de Gypceros. Su filo\r\nvenenoso rebana a las presas\r\ncomo mantequilla."
+    },
+    "rarity": 5,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 26,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 18
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 57,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ポイジングティアⅡ",
+      "en": "Poison Blade II",
+      "fr": "Lame venimeuse II",
+      "it": "Lama avvelenata III",
+      "de": "Toxische Klinge II",
+      "es": "Filo venenoso II",
+      "ru": "Отравленный клинок II",
+      "pl": "Ostrze Trucizny II",
+      "pt-BR": "Lâmina Venenosa II",
+      "ko": "포이징티어Ⅱ",
+      "zh-Hant": "毒液之淚Ⅱ",
+      "zh-Hans": "剧毒之泪Ⅱ",
+      "ar": "نصل السم 2",
+      "es-419": "Hoja venenosa II"
+    },
+    "descriptions": {
+      "ja": "中にゲリョスの毒袋を仕込んだ\r\n恐ろしい機構を持つ盾斧。毒の\r\n刃は滑らかに獲物へ食い込む。",
+      "en": "A horrific charge blade rigged\r\nwith Gypceros poison. Its\r\nvenomous edge cuts through\r\nprey like butter.",
+      "fr": "Volto-hache terrifiante imprégnée\r\nde poison de Gypceros. Son\r\ntranchant venimeux traverse\r\nles proies comme du beurre.",
+      "it": "Un'orribile lama caricata,\r\nequipaggiata con veleno\r\ndi Gypceros.\r\nTaglia le prede come burro.",
+      "de": "Eine schreckliche Energieklinge\r\nvoll Gypceros-Gift, deren\r\nSchneide jede Beute wie Butter\r\ndurchdringt.",
+      "es": "Hacha cargada horrible imbuida\r\ncon veneno de Gypceros. Su filo\r\nponzoñoso corta a sus presas como\r\nla mantequilla.",
+      "ru": "Жуткий силовой клинок, смазанный\r\nядом гипцероса. Его отравленное\r\nлезвие рассекает плоть словно\r\nмасло.",
+      "pl": "Przerażające ładowane ostrze\r\nnasączone trucizną Gypcerosa.\r\nTo jadowite ostrze wchodzi\r\nw ofiarę jak w masło.",
+      "pt-BR": "Lâmina dínamo horrenda, equipada\r\ncom veneno de Gypceros. Seu fio\r\nvenenoso corta presas como\r\nmanteiga.",
+      "ko": "안에 게리오스의 독주머니를\r\n넣은 무시무시한 구조의\r\n차지액스. 독 칼날은 사냥감을\r\n부드럽게 파고든다.",
+      "zh-Hant": "內部裝有毒怪鳥毒袋的恐怖充能斧。\r\n帶毒的利刃會順滑地刺入獵物體內\r\n深處。",
+      "zh-Hans": "内部设有毒怪鸟毒囊的恐怖盾斧。\r\n毒刃能顺利地刺入猎物体内。",
+      "ar": "نصل مشحون مروع مزود بسم (جيبسيروس).\r\nشفرته السامة تقطع الفريسة\r\nكأنها قطعة زبدة.",
+      "es-419": "Una terrible hacha cargada con\r\nveneno de Gypceros. Su filo\r\nvenenoso rebana a las presas\r\ncomo mantequilla."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 29,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 56,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 18
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 58,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ヴェノムシルベルテ",
+      "en": "Venom's Kiss",
+      "fr": "Baiser de la mort",
+      "it": "Bacio al veleno",
+      "de": "Giftkuss",
+      "es": "Beso venenoso",
+      "ru": "Ядовитый поцелуй",
+      "pl": "Pocałunek Jadu",
+      "pt-BR": "Beijo Peçonhento",
+      "ko": "베놈실베르테",
+      "zh-Hant": "劇毒盾斧",
+      "zh-Hans": "剧毒盾斧",
+      "ar": "قبلة السم",
+      "es-419": "Beso envenenado"
+    },
+    "descriptions": {
+      "ja": "猛毒が伝いし刃が牙を剥く、\r\nポイジングティアの強化型。\r\n屠りし者を悪夢で苛み続ける。",
+      "en": "An upgraded Poison Blade that\r\ndrips with deadly toxin and\r\nplunges prey into a slow,\r\ntormenting nightmare.",
+      "fr": "Lame venimeuse améliorée\r\nrecouverte d'une toxine\r\nmortelle et qui entraîne sa\r\nproie dans un long cauchemar.",
+      "it": "Una lama avvelenata potenziata,\r\nricoperta di una tossina mortale\r\nfatta per far soffrire\r\nlentamente i nemici.",
+      "de": "Eine verbesserte Toxische\r\nKlinge, die vor tödlichem\r\nGift trieft und Beute in einen\r\nquälenden Albtraum stürzt.",
+      "es": "Filo venenoso mejorado rebosante\r\nde toxinas letales que se hunde\r\nen sus presas como una pesadilla\r\nlenta y tormentosa.",
+      "ru": "Улучшенный «Отравленный клинок»,\r\nпокрытый смертельным ядом,\r\nмедленно погружающим жертву\r\nв мучительный кошмар.",
+      "pl": "Ulepszone Ostrze Trucizny.\r\nOcieka śmiertelną toksyną,\r\ni wpędza ofiarę w powolny,\r\ndręczący koszmar.",
+      "pt-BR": "Lâmina Venenosa melhorada.\r\nGoteja toxinas mortais e\r\nmergulha a presa num\r\npesadelo lento e torturante.",
+      "ko": "맹독이 흐르고 칼날이 위협적인\r\n포이징티어 강화형. 도살자를\r\n악몽에 시달리게 한다.",
+      "zh-Hant": "強化版毒液之淚。其劇毒如蛆附骨，\r\n利刃如尖牙利爪。受其斬殺者將終生\r\n受惡夢折磨。",
+      "zh-Hans": "剧毒之泪强化版，遍布猛毒的刀刃\r\n终于露出了獠牙。为其所伤者将永\r\n受噩梦之苦。",
+      "ar": "نصل السم مطوَّر.\r\nيقطر سمومًا قاتلة ويدفع الفريسة\r\nإلى كابوس بطيء ومؤلم.",
+      "es-419": "Una versión mejorada de la Hoja\r\nvenenosa con una toxina mortal\r\nque sume a la presa en una\r\npesadilla larga y tormentosa."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 18
+    },
+    "skills": {
+      "-1946345856": 3,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 59,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ディア＝ルテミスⅠ",
+      "en": "Dear Lutemis I",
+      "fr": "Chère Lutémis",
+      "it": "Lutemis sincera I",
+      "de": "Redlicher Lutemis I",
+      "es": "Caro Lutemis I",
+      "ru": "Благородный Лютемис I",
+      "pl": "Droga Lutemis I",
+      "pt-BR": "Querida Lutemis I",
+      "ko": "디아루테미스Ⅰ",
+      "zh-Hant": "阿提米絲盾斧Ⅰ",
+      "zh-Hans": "焰火盾斧Ⅰ",
+      "ar": "دير لوتيميس 1",
+      "es-419": "Querido Lutermis I"
+    },
+    "descriptions": {
+      "ja": "気品の中にも禍々しさがやどる\r\nリオレイアの盾斧。持ち手にあしら\r\nわれた茨に女王の風格を残す。",
+      "en": "A Rathian charge blade as\r\nominous as it is elegant. Her\r\nregal air lives on in the thorns\r\nlining the handle.",
+      "fr": "Volto-hache Rathian qui est\r\naussi maléfique qu'élégante.\r\nSa poignée épineuse évoque\r\nson caractère royal.",
+      "it": "Lama caricata di Rathian,\r\nmisteriosa ed elegante. Gli\r\naculei rappresentano una\r\npersonalità regale.",
+      "de": "Eine Rathian-Energieklinge, die\r\nebenso bedrohlich wie elegant\r\nist. Ihre königliche Aura lebt in\r\nden Dornen des Griffs weiter.",
+      "es": "Hacha cargada de Rathian tan\r\nsiniestra como elegante. Las\r\nespinas del mango conservan el\r\naire majestuoso del monstruo.",
+      "ru": "В равной степени зловещий\r\nи элегантный силовой клинок из\r\nратианы. О величии этого монстра\r\nнапоминают шипы на рукояти.",
+      "pl": "Ładowane ostrze z Rathiany.\r\nTak złowieszcze, jak eleganckie.\r\nJej królewska aura żyje\r\nw kolcach przy rękojeści.",
+      "pt-BR": "Lâmina dínamo de Rathian, tão\r\nelegante quanto sinistra. Seu ar\r\nmajestoso segue vivo nos espinhos\r\nque revestem o cabo.",
+      "ko": "기품과 불길함이 공존하는\r\n리오레이아의 차지액스. 가시에서\r\n여왕의 품격이 느껴진다.",
+      "zh-Hant": "高貴中暗藏著不祥的雌火龍充能斧。\r\n握把上的尖棘保留了女王的風格。",
+      "zh-Hans": "于高贵中暗藏不祥的雌火龙之盾斧。\r\n荆棘把手保留了女王的风格。",
+      "ar": "نصل (راثيان) مشحون،\r\nمشؤوم بقدر ما هو أنيق. يعيش\r\nهواءها الملكي في الأشواك\r\nالمبطنة للمقبض.",
+      "es-419": "Hacha cargada de Rathian tan\r\nominosa como elegante. Su aire\r\nregio perdura en las espinas\r\nque recubren el mango."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        60,
+        64
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    }
+  },
+  {
+    "game_id": 60,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ディア＝ルテミスⅡ",
+      "en": "Dear Lutemis II",
+      "fr": "Chère Lutémis II",
+      "it": "Lutemis sincera II",
+      "de": "Redlicher Lutemis II",
+      "es": "Caro Lutemis II",
+      "ru": "Благородный Лютемис II",
+      "pl": "Droga Lutemis II",
+      "pt-BR": "Querida Lutemis II",
+      "ko": "디아루테미스Ⅱ",
+      "zh-Hant": "阿提米絲盾斧Ⅱ",
+      "zh-Hans": "焰火盾斧Ⅱ",
+      "ar": "دير لوتيميس 2",
+      "es-419": "Querido Lutermis II"
+    },
+    "descriptions": {
+      "ja": "気品の中にも禍々しさがやどる\r\nリオレイアの盾斧。持ち手にあしら\r\nわれた茨に女王の風格を残す。",
+      "en": "A Rathian charge blade as\r\nominous as it is elegant. Her\r\nregal air lives on in the thorns\r\nlining the handle.",
+      "fr": "Volto-hache Rathian qui est\r\naussi maléfique qu'élégante.\r\nSa poignée épineuse évoque\r\nson caractère royal.",
+      "it": "Lama caricata di Rathian,\r\nmisteriosa ed elegante. Gli\r\naculei rappresentano una\r\npersonalità regale.",
+      "de": "Eine Rathian-Energieklinge, die\r\nebenso bedrohlich wie elegant\r\nist. Ihre königliche Aura lebt in\r\nden Dornen des Griffs weiter.",
+      "es": "Hacha cargada de Rathian tan\r\nsiniestra como elegante. Las\r\nespinas del mango conservan el\r\naire majestuoso del monstruo.",
+      "ru": "В равной степени зловещий\r\nи элегантный силовой клинок из\r\nратианы. О величии этого монстра\r\nнапоминают шипы на рукояти.",
+      "pl": "Ładowane ostrze z Rathiany.\r\nTak złowieszcze, jak eleganckie.\r\nJej królewska aura żyje\r\nw kolcach przy rękojeści.",
+      "pt-BR": "Lâmina dínamo de Rathian, tão\r\nelegante quanto sinistra. Seu ar\r\nmajestoso segue vivo nos espinhos\r\nque revestem o cabo.",
+      "ko": "기품과 불길함이 공존하는\r\n리오레이아의 차지액스. 가시에서\r\n여왕의 품격이 느껴진다.",
+      "zh-Hant": "高貴中暗藏著不祥的雌火龍充能斧。\r\n握把上的尖棘保留了女王的風格。",
+      "zh-Hans": "于高贵中暗藏不祥的雌火龙之盾斧。\r\n荆棘把手保留了女王的风格。",
+      "ar": "نصل (راثيان) مشحون،\r\nمشؤوم بقدر ما هو أنيق. يعيش\r\nهواءها الملكي في الأشواك\r\nالمبطنة للمقبض.",
+      "es-419": "Hacha cargada de Rathian tan\r\nominosa como elegante. Su aire\r\nregio perdura en las espinas\r\nque recubren el mango."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 61,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "ディア＝ルテミア",
+      "en": "Dear Lutemia",
+      "fr": "Chère Lutémia",
+      "it": "Lutemia sincera",
+      "de": "Redliche Lutemia",
+      "es": "Cara Lutemia",
+      "ru": "Благородная Лютемия",
+      "pl": "Droga Lutemia",
+      "pt-BR": "Querida Lutemia",
+      "ko": "디아루테미아",
+      "zh-Hant": "雌火盾斧",
+      "zh-Hans": "雌火盾斧",
+      "ar": "دير لوتيميا",
+      "es-419": "Querida Lutemia"
+    },
+    "descriptions": {
+      "ja": "女王の盾斧、ディア＝ルテミスを\r\n強化。美しき佇まいは、崇高さと\r\n厳酷さに満ちている。",
+      "en": "An upgraded Dear Lutemis.\r\nIts beauty is somehow sublime\r\nand severe at the same time.",
+      "fr": "Chère Lutemis améliorée.\r\nSa beauté est à la fois\r\nsublime et cruelle.",
+      "it": "Lutemis sincera potenziata.\r\nLa sua bellezza è al contempo\r\naustera e sublime.",
+      "de": "Eine verbesserte Redliche\r\nLutemis. Ihre Schönheit ist\r\nirgendwie erhaben und streng\r\nzugleich.",
+      "es": "Caro Lutemis mejorada.\r\nA pesar de su sublime\r\nbelleza, resulta mortífera.",
+      "ru": "Улучшенный вариант\r\n«Благородного Лютемиса».\r\nЕго красота величественна\r\nи в то же время сурова.",
+      "pl": "Ulepszona Droga Lutemis.\r\nJej piękno jest zachwycające\r\ni jednocześnie zawiera nutę\r\nsurowości.",
+      "pt-BR": "Querida Lutemis melhorada.\r\nSua beleza é de algum modo\r\nsublime e severa ao mesmo\r\ntempo.",
+      "ko": "디아루테미스를 강화한 차지액스.\r\n아름다움 속에 숭고함과\r\n가혹함이 넘쳐흐른다.",
+      "zh-Hant": "強化版阿提米絲盾斧，是女王之\r\n充能斧。美麗的姿態彰顯著高貴\r\n及冷酷。",
+      "zh-Hans": "女王之盾斧，焰火盾斧的强化。\r\n其美丽姿态满溢高贵与残酷。",
+      "ar": "نصل دير لوتيميس مطوَّر.\r\nيتمتع بجمال راقٍ لكنه عنيف\r\nفي الوقت ذاته.",
+      "es-419": "Querido Lutermis mejorado.\r\nSu belleza es sublime y\r\nmortífera a la vez."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 64,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "炎斧アクセリオンⅠ",
+      "en": "Axelion Blade I",
+      "fr": "Lame d'Axelion",
+      "it": "Lama Axelion I",
+      "de": "Axelion-Klinge I",
+      "es": "Filo Hachelion I",
+      "ru": "Клинок Ахелоя I",
+      "pl": "Ostrze Axeliona I",
+      "pt-BR": "Lâmina de Axelion I",
+      "ko": "염부 액셀리온Ⅰ",
+      "zh-Hant": "炎斧俄里翁Ⅰ",
+      "zh-Hans": "炎斧俄里翁Ⅰ",
+      "ar": "نصل أكزيليون 1",
+      "es-419": "Filo Hachelion I"
+    },
+    "descriptions": {
+      "ja": "リオレウスの素材を使って作られた\r\n盾斧。発火性能を生かした\r\n攻撃が可能。",
+      "en": "This charge blade made\r\nfrom Rathalos spoils adds\r\na combustion mechanism\r\nto attacks.",
+      "fr": "Cette volto-hache faite à\r\nbase de Rathalos enflamme\r\nles attaques grâce à son\r\nmécanisme de combustion.",
+      "it": "Lama caricata di Rathalos.\r\nFavorisce gli attacchi\r\nincendiari con un meccanismo\r\ndi combustione.",
+      "de": "Diese aus Rathalos-Teilen herge-\r\nstellte Energieklinge fügt den\r\nAngriffen einen Verbrennungs-\r\nmechanismus hinzu.",
+      "es": "Hacha cargada hecha con\r\nelementos de Rathalos.\r\nPermite ataques ígneos.",
+      "ru": "Силовой клинок, изготовленный\r\nиз материалов с раталоса.\r\nЕго удары воспламеняют цель.",
+      "pl": "Ładowane ostrze wykonane\r\nz pozostałości Rathalosa.\r\nDodaje do ataków mechanizm\r\nspalania.",
+      "pt-BR": "Esta lâmina dínamo feita de\r\nmateriais de Rathalos adiciona\r\num mecanismo de combustão aos\r\nataques.",
+      "ko": "리오레우스의 소재로 만든\r\n차지액스. 발화 능력을\r\n지닌 공격이 가능.",
+      "zh-Hant": "使用火龍素材作成的充能斧。能夠\r\n活用素材起火的特性來攻擊。",
+      "zh-Hans": "用火龙素材制成的盾斧。\r\n可活用点火性能进行攻击。",
+      "ar": "نصل مشحون مصنوع\r\nمن مواد (راثالوس).\r\nيُعزز الهجمات المشتعلة.",
+      "es-419": "Esta hoja cargada hecha\r\ncon materiales de Rathalos\r\nañade un mecanismo de\r\ncombustión a los ataques."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 29,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 59,
+      "branches": [
+        65,
+        66
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 16
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 65,
+    "kind": "charge-blade",
+    "phial": "element",
+    "names": {
+      "ja": "紅蓮斧ユニオリオン",
+      "en": "Bardichion Blade",
+      "fr": "Bardichion",
+      "it": "Lama Bardichion",
+      "de": "Bardichion-Klinge",
+      "es": "Filo de Bardichion",
+      "ru": "Клинок Бардихиона",
+      "pl": "Ostrze Bardichiona",
+      "pt-BR": "Lâmina de Bardichion",
+      "ko": "홍련부 유니오리온",
+      "zh-Hant": "紅蓮斧俄里翁",
+      "zh-Hans": "红莲斧俄里翁",
+      "ar": "نصل بارديشيون",
+      "es-419": "Filo de Bardichion"
+    },
+    "descriptions": {
+      "ja": "盾に刻まれた顔貌は火竜の憤激の\r\n顕れ。紅蓮の炎で獲物を滅却する\r\n炎斧アクセリオン強化型。",
+      "en": "An upgraded Axelion Blade.\r\nThat snarling wyvern on the\r\nshield looks eager to\r\nincinerate prey.",
+      "fr": "Lame d'Axelion améliorée. La\r\nwyverne enragée gravée sur\r\nle bouclier semble vouloir\r\nincinérer sa proie.",
+      "it": "Lama Axelion potenziata.\r\nIl volto minaccioso sullo scudo\r\nsembra ansioso di incenerire\r\nla preda.",
+      "de": "Eine verbesserte Axelion-Klinge.\r\nDer knurrende Wyvern auf dem\r\nSchild sieht aus, als ob er seine\r\nBeute verbrennen will.",
+      "es": "Filo Hachelion mejorado.\r\nTiene en el escudo una cara\r\nque representa la más pura ira.",
+      "ru": "Улучшенный вариант «Клинка\r\nАхелоя». Изображение на щите\r\nсимволизирует испепеляющую\r\nярость виверны.",
+      "pl": "Ulepszone Ostrze Axeliona.\r\nWarcząca wiwerna na tarczy\r\nz chęcią spali swoją ofiarę.",
+      "pt-BR": "Lâmina de Axelion melhorada.\r\nA serpe rosnando no escudo\r\nparece ansiosa para incinerar\r\numa presa.",
+      "ko": "방패에 새긴 화룡의 현현.\r\n홍련의 불로 사냥감을 태우는\r\n염부 액셀리온의 강화형.",
+      "zh-Hant": "強化版炎斧俄里翁。刻於盾上的容貌\r\n表現出了火龍的憤怒，會以紅蓮烈焰\r\n來抹殺獵物。",
+      "zh-Hans": "刻于盾上的容貌现出火龙之怒。利\r\n用红莲烈焰抹杀猎物的炎斧俄里翁\r\n强化型。",
+      "ar": "نصل أكزيليون مطوَّر.\r\nيبدو ذلك الوايفرن المزمجل\r\nوالمنحوت على الدرع متحمسًا\r\nلحرق الفريسة.",
+      "es-419": "Filo Hachelion mejorado. El\r\nwyvern grabado en el escudo\r\nparece ansioso por incinerar a\r\nsu presa."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 16
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 66,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "フォースofフォールⅠ",
+      "en": "Elendskraft I",
+      "fr": "Force sépulcrale",
+      "it": "Elendskraft I",
+      "de": "Elendskraft I",
+      "es": "Pena I",
+      "ru": "Элендскрафт I",
+      "pl": "Elendskraft I",
+      "pt-BR": "Elendskraft I",
+      "ko": "포스of폴Ⅰ",
+      "zh-Hant": "力量of墮落Ⅰ",
+      "zh-Hans": "力量of堕落Ⅰ",
+      "ar": "فأس إليندسكرافت",
+      "es-419": "Pena I"
+    },
+    "descriptions": {
+      "ja": "象られた髑髏に極限まで力が\r\n蓄えられたゴア・マガラの盾斧。\r\n相対する者を闇へと吹き飛ばす。",
+      "en": "A Gore Magala charge blade\r\nadorned with a skull bursting\r\nwith power. It hungers to\r\ncast foes into darkness.",
+      "fr": "Volto-hache Gore Magala\r\nornée d'un crâne débordant\r\nde puissance. Sa seule envie est\r\nd'envoyer ses proies dans l'oubli.",
+      "it": "Lama caricata di Gore Magala,\r\ndecorata con un potente teschio.\r\nBrama di gettare in nemici\r\nnell'oscurità.",
+      "de": "Eine Gore-Magala-Energieklinge,\r\ndie mit einem Schädel verziert\r\nist, der vor Kraft strotzt. Sie will\r\nFeinde in Dunkelheit stürzen.",
+      "es": "Hacha cargada de Gore Magala\r\nrebosante de poder y adornada con\r\nuna calavera. Tiene hambre por\r\nlanzar a sus enemigos al abismo.",
+      "ru": "Силовой клинок из кровавой\r\nмагалы, украшенный источающим\r\nмощь черепом. Это оружие жаждет\r\nнизвергнуть врагов во тьму.",
+      "pl": "Ładowane ostrze z Gore\r\nMagali, ozdobione czaszką\r\nepatującą mocą. Pragnie\r\nzesłać wrogów w ciemność.",
+      "pt-BR": "Lâmina dínamo de Gore Magala\r\nadornada com um crânio explodindo\r\nde poder. Está ávida para lançar\r\nseus inimigos na escuridão.",
+      "ko": "본뜬 해골에 힘이 극한까지\r\n쌓인 고어 마가라의 차지액스.\r\n상대를 어둠으로 날려 버린다.",
+      "zh-Hant": "黑蝕龍的充能斧。骷髏裝飾累積了\r\n極限的力量，會將敵人打落黑暗的\r\n深淵。",
+      "zh-Hans": "黑蚀龙之盾斧，骷髅印记中蕴含着\r\n已积累至极限的力量。能将对抗者\r\n击向黑暗的深渊。",
+      "ar": "نصل (جور ماجالا) مشحون مزين\r\nبجمجمة تفيض بالقوة. يتعطش لإلقاء\r\nالأعداء في الظلام.",
+      "es-419": "Un hacha cargada de Gore Magala\r\ncon una calavera rebosante de\r\npoder. Tiene hambre de arrojar\r\na los enemigos a la oscuridad."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 64,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 17
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 67,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "フォースofルイン",
+      "en": "Leidenskraft",
+      "fr": "Force tragique",
+      "it": "Leidenskraft",
+      "de": "Leidenskraft",
+      "es": "Miseria",
+      "ru": "Ляйденскрафт",
+      "pl": "Leidenskraft",
+      "pt-BR": "Leidenskraft",
+      "ko": "포스of루인",
+      "zh-Hant": "力量of破壞",
+      "zh-Hans": "力量of破灭",
+      "ar": "فأس ليدنسكرافت",
+      "es-419": "Miseria"
+    },
+    "descriptions": {
+      "ja": "破滅を司りし盾斧、強化形態\r\nフォースofフォール。誘う先は\r\n悲嘆に満ちた冥府の深奥。",
+      "en": "An upgraded Elendskraft.\r\nIt invites its victims to journey\r\nto dark and hellish depths.",
+      "fr": "Force sépulcrale améliorée.\r\nEntraîne ses victimes dans\r\ndes ténèbres sans fin.",
+      "it": "Elendskraft potenziato.\r\nAttira le sue vittime in un\r\nviaggio negli abissi più oscuri\r\ne infernali.",
+      "de": "Eine verbesserte Elendskraft.\r\nSie lädt ihr Opfer auf eine\r\nReise durch finstere und\r\nhöllische Tiefen ein.",
+      "es": "Pena mejorada. Invita a sus\r\nvíctimas a una travesía por las\r\nmás oscuras e infernales\r\nprofundidades.",
+      "ru": "Улучшенный вариант\r\n«Элендскрафта». Отправляет\r\nжертв в тёмные глубины ада.",
+      "pl": "Ulepszony Elendskraft. Zaprasza\r\nofiary do odbycia podróży\r\nw ciemną, piekielną otchłań.",
+      "pt-BR": "Elendskraft melhorado. Ele\r\nconvida suas vítimas a uma\r\njornada até profundezas\r\nsombrias e infernais.",
+      "ko": "파멸을 관장하는 차지액스,\r\n강화형 포스of폴.\r\n비탄에 찬 저승으로 유혹한다.",
+      "zh-Hant": "強化版力量of墮落，是主宰破滅的\r\n充能斧。等待著獵物的是哀聲四起\r\n的冥府深處。",
+      "zh-Hans": "主宰破灭的盾斧，强化形态的力量\r\nof堕落。引领猎物前往哀声四起的\r\n冥府深处。",
+      "ar": "فأس إليندسكرافت مطوَّر.\r\nإنه يدعو ضحاياه لزيارة\r\nأعماق الجحيم المظلمة.",
+      "es-419": "Pena mejorada. Invita a sus\r\nvíctimas a una travesía por las\r\nprofundidades oscuras e\r\ninfernales."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 66,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 17
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 68,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アルシュブラドラⅠ",
+      "en": "Veldian Labrys I",
+      "fr": "Labrys Arkveld",
+      "it": "Labrys Veldian I",
+      "de": "Arkveld-Labrys I",
+      "es": "Labrys veldiana I",
+      "ru": "Вельдовый лабрис I",
+      "pl": "Wiweriański Labrys I",
+      "pt-BR": "Lábris Veldiano I",
+      "ko": "알슈블래드라Ⅰ",
+      "zh-Hant": "鎖刃充能斧Ⅰ",
+      "zh-Hans": "锁刃盾斧Ⅰ",
+      "ar": "لابريس فيلديان 1",
+      "es-419": "Labrys veldian I"
+    },
+    "descriptions": {
+      "ja": "アルシュベルドの素材で作られた\r\n盾斧。民が恐れる竜を退け、未来を\r\n照らした騎士が用いた古代の盾斧。",
+      "en": "An Arkveld charge blade. Used by\r\na knight to expel wyverns and\r\nlight the way to tomorrow.",
+      "fr": "Volto-hache antique Arkveld.\r\nUtilisée par un chevalier pour\r\nchasser les wyvernes et éclairer\r\nla voie de l'avenir.",
+      "it": "Una lama caricata di Arkveld\r\ndei tempi antichi. I cavalieri\r\nla usavano per scacciare i wyvern\r\ne aprire la strada per il futuro.",
+      "de": "Eine Arkveld-Energieklinge\r\nmit der Ritter Wyvern zurück-\r\nschlugen und so den Weg in\r\ndie Zukunft erleuchteten.",
+      "es": "Hacha cargada de Arkveld.\r\nCierto caballero la empuñó\r\npara expulsar a los wyverns\r\ne iluminar la senda del mañana.",
+      "ru": "Древний силовой клинок из\r\nарквельда. С таким оружием\r\nрыцари прошлого прогнали виверн\r\nи проложили дорогу в будущее.",
+      "pl": "Ładowane ostrze z Arkvelda.\r\nUżywana przez rycerza do\r\nwypędzania wiwern i oświetlania\r\ndrogi ku przyszłości.",
+      "pt-BR": "Lâmina dínamo de Arkveld.\r\nUsada por um cavaleiro para\r\nrepelir serpes e iluminar\r\no amanhã.",
+      "ko": "알슈베르도 소재로 만든\r\n차지액스. 사람들이 두려워하는\r\n용을 물리치고 미래를 밝혀준\r\n기사가 쓰던 고대 차지액스.",
+      "zh-Hant": "以鎖刃龍素材製作的充能斧。過去曾\r\n有騎士用此古代充能斧，擊退人們畏\r\n懼的龍，照亮未來。",
+      "zh-Hans": "使用锁刃龙素材制作的盾斧。据说\r\n此盾斧曾为古代骑士所用，骑士击\r\n退人们畏惧的龙，照亮未来的路。",
+      "ar": "نصل (آركفيلد) مشحون .\r\nاستخدمه الفرسان لطرد الوايفرن\r\nوإضاءة الطريق نحو المستقبل.",
+      "es-419": "Un hacha cargada de Arkveld.\r\nLos caballeros la usaban para\r\nexpulsar a los wyverns y\r\navanzar al mañana."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 32,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 54,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 8
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 69,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アーティアガードⅠ",
+      "en": "Artian Defender I",
+      "fr": "Défenseur Artian",
+      "it": "Difensore Artian I",
+      "de": "Artian-Verteidiger I",
+      "es": "Defensora artiana I",
+      "ru": "Артианский защитник I",
+      "pl": "Artiański Obrońca I",
+      "pt-BR": "Defensor Artiano I",
+      "ko": "아티어가드Ⅰ",
+      "zh-Hant": "機械兵裝Ⅰ",
+      "zh-Hans": "机械防御者Ⅰ",
+      "ar": "مدافع أرتيان 1",
+      "es-419": "Defensor artiano I"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の盾斧。複雑に噛み合う歯車は\r\n何かの終わりの時を刻むと伝わる。",
+      "en": "A weapon made from unearthed\r\nfragments. The complex gears\r\nare said to tick toward an\r\nunknown end.",
+      "fr": "À base de fragments exhumés.\r\nSes engrenages complexes\r\ns'activeraient dans un but\r\ninconnu.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Si dice che\r\ni suoi ingranaggi ticchettino\r\nverso una fine ignota.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Die komplexen\r\nZahnräder ticken angeblich\r\nauf ein unbekanntes Ende zu.",
+      "es": "Arma hecha con fragmentos\r\ndesenterrados. Dicen que sus\r\ncomplicados engranajes señalan\r\nuna especie de final.",
+      "ru": "Оружие, сделанное из найденных\r\nфрагментов. Говорят, сложный\r\nмеханизм отсчитывает время\r\nдо неизвестного события.",
+      "pl": "Broń wykonana z odkopanych\r\nfragmentów. Skomplikowane\r\nprzekładnie ponoć tykają,\r\nzwiastując nieznany koniec.",
+      "pt-BR": "Feita a partir de fragmentos\r\ndesenterrados. Suas engrenagens\r\ncomplexas giram por um propósito\r\ndesconhecido.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 차지액스. 복잡하게 얽힌\r\n톱니바퀴는 알 수 없는 종말의\r\n날을 향해 돌아간다고 한다.",
+      "zh-Hant": "以發現的武器碎片組成的古代充能\r\n斧。據說環環相扣的複雜齒輪會記\r\n錄某種終結的時刻。",
+      "zh-Hans": "由发现的武器碎片组成的古代盾斧。\r\n据说那些复杂地咬合在一起的齿轮\r\n中，暗含着某种终焉的时刻。",
+      "ar": "سلاح مصنوع من شظايا مُكتشفة.\r\nيُقال إن التروس المعقدة فيه تعمل\r\nعلى تحقيق هدف غير معروف.",
+      "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Dicen que los\r\nengranajes complejos marchan\r\ncon un fin desconocido."
+    },
+    "rarity": 6,
+    "attack_raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 70,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "アーティアガードⅡ",
+      "en": "Artian Defender II",
+      "fr": "Défenseur Artian II",
+      "it": "Difensore Artian II",
+      "de": "Artian-Verteidiger II",
+      "es": "Defensora artiana II",
+      "ru": "Артианский защитник II",
+      "pl": "Artiański Obrońca II",
+      "pt-BR": "Defensor Artiano II",
+      "ko": "아티어가드Ⅱ",
+      "zh-Hant": "機械兵裝Ⅱ",
+      "zh-Hans": "机械防御者Ⅱ",
+      "ar": "مدافع أرتيان 2",
+      "es-419": "Defensor artiano II"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の盾斧。複雑に噛み合う歯車は\r\n何かの終わりの時を刻むと伝わる。",
+      "en": "A weapon made from unearthed\r\nfragments. The complex gears\r\nare said to tick toward an\r\nunknown end.",
+      "fr": "À base de fragments exhumés.\r\nSes engrenages complexes\r\ns'activeraient dans un but\r\ninconnu.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Si dice che\r\ni suoi ingranaggi ticchettino\r\nverso una fine ignota.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Die komplexen\r\nZahnräder ticken angeblich\r\nauf ein unbekanntes Ende zu.",
+      "es": "Arma hecha con fragmentos\r\ndesenterrados. Dicen que sus\r\ncomplicados engranajes señalan\r\nuna especie de final.",
+      "ru": "Оружие, сделанное из найденных\r\nфрагментов. Говорят, сложный\r\nмеханизм отсчитывает время\r\nдо неизвестного события.",
+      "pl": "Broń wykonana z odkopanych\r\nfragmentów. Skomplikowane\r\nprzekładnie ponoć tykają,\r\nzwiastując nieznany koniec.",
+      "pt-BR": "Feita a partir de fragmentos\r\ndesenterrados. Suas engrenagens\r\ncomplexas giram por um propósito\r\ndesconhecido.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 차지액스. 복잡하게 얽힌\r\n톱니바퀴는 알 수 없는 종말의\r\n날을 향해 돌아간다고 한다.",
+      "zh-Hant": "以發現的武器碎片組成的古代充能\r\n斧。據說環環相扣的複雜齒輪會記\r\n錄某種終結的時刻。",
+      "zh-Hans": "由发现的武器碎片组成的古代盾斧。\r\n据说那些复杂地咬合在一起的齿轮\r\n中，暗含着某种终焉的时刻。",
+      "ar": "سلاح مصنوع من شظايا مُكتشفة.\r\nيُقال إن التروس المعقدة فيه تعمل\r\nعلى تحقيق هدف غير معروف.",
+      "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Dicen que los\r\nengranajes complejos marchan\r\ncon un fin desconocido."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 71,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "テンプス・ギア",
+      "en": "Chrono Gear",
+      "fr": "Volto-hache chrono",
+      "it": "Cronogladio",
+      "de": "Chrono-Kit",
+      "es": "Dispositivo temporal",
+      "ru": "Хрономеханизм",
+      "pl": "Chronosprzęt",
+      "pt-BR": "Crono Engrenagem",
+      "ko": "템푸스 기어",
+      "zh-Hant": "時間齒輪",
+      "zh-Hans": "时间齿轮",
+      "ar": "تروس الزمن",
+      "es-419": "Engranaje de Cronos"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を持ち得る太古の\r\n盾斧。修復によって動き出した針は\r\n秒読みを始め、最早止められぬ。",
+      "en": "An ancient weapon with latent\r\npotential. Now repaired, its\r\nclock hands cannot be stopped.",
+      "fr": "Arme ancienne à la puissance\r\nlatente. Désormais réparée,\r\ncette horloge ne peut plus être\r\narrêtée.",
+      "it": "Un'antica arma con un\r\npotenziale latente. Le sue\r\nlancette sono state riparate,\r\ne non possono essere fermate.",
+      "de": "Eine alte Waffe mit verborgenem\r\nPotenzial. Nach ihrer Reparatur\r\nlassen sich die Uhrzeiger nicht\r\nmehr aufhalten.",
+      "es": "Arma ancestral poseedora\r\nde un gran potencial latente.\r\nTras haberla reforzado, sus\r\nmanecillas son imparables.",
+      "ru": "Древнее оружие со скрытым\r\nпотенциалом. Теперь оно\r\nвосстановлено, и стрелки часов\r\nне остановить.",
+      "pl": "Starożytna broń o uśpionym\r\npotencjale. Teraz, gdy jest już\r\nnaprawiona, jej wskazówek\r\nzegara nie da się zatrzymać.",
+      "pt-BR": "Arma antiga com potencial\r\nlatente. Agora restaurados,\r\nseus ponteiros de relógio\r\nnão podem ser parados.",
+      "ko": "잠재력을 지닌 태고의\r\n차지액스. 복원을 통해 움직인\r\n바늘은 끝을 향해 나아가며,\r\n그 움직임을 멈출 수는 없다.",
+      "zh-Hant": "擁有潛藏性能的太古充能斧。修復後\r\n重新走動的時針開始計時，再也無人\r\n可阻止。",
+      "zh-Hans": "有着潜藏性能的太古的盾斧。自修\r\n复之时起，它的指针就开始计时，\r\n没有人可以阻止。",
+      "ar": "سلاح قديم ذو قدرات كامنة.\r\nبعد إصلاحه، لا يمكن إيقاف\r\nعقارب ساعته.",
+      "es-419": "Un arma antigua con potencial\r\nlatente. Ahora que están\r\nreparadas, sus manillas de\r\nreloj son imparables."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 72,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "エスペラアームズ",
+      "en": "Esperanza Strongarm",
+      "fr": "Décapiteur Esperanza",
+      "it": "Dominatore Esperanza",
+      "de": "Esperanza-Schläger",
+      "es": "Segur esperanzador",
+      "ru": "Оплот упования",
+      "pl": "Siłówka Esperanzy",
+      "pt-BR": "Braço Esperanza",
+      "ko": "에스페라암즈",
+      "zh-Hant": "祈望兵裝",
+      "zh-Hans": "期冀兵装",
+      "ar": "نصل إسبيرانزا القوي",
+      "es-419": "Aspa esperanzadora"
+    },
+    "descriptions": {
+      "ja": "実地での調査を踏まえて改良された\r\nホープアームズ。その盾は威力だけ\r\nでなく希望も溜めることができる。",
+      "en": "A fully field-tested Hope\r\nStrongarm. With each charge,\r\ndespair becomes a distant\r\nmemory.",
+      "fr": "Décapiteur d'espoir éprouvé sur\r\nle terrain. À chaque charge, le\r\ndésespoir s'éloigne un peu plus.",
+      "it": "Un Dominatore speranza\r\ncollaudato.  Con ogni carica,\r\nla disperazione diventa\r\nun ricordo lontano.",
+      "de": "Ein praxiserprobter Hoffnungs-\r\nschläger. Mit jeder Aufladung\r\nrückt die Erinnerung an Ver-\r\nzweiflung weiter in die Ferne.",
+      "es": "Segur de esperanza de eficacia\r\nprobada. Con cada carga, la\r\ndesesperación se va disipando.",
+      "ru": "Испытанный в деле и улучшенный\r\n«Оплот надежды». Каждый взмах\r\nэтого оружия отгоняет отчаяние\r\nпрочь.",
+      "pl": "Przetestowana w boju siłówka\r\nnadziei. Z każdym naładowaniem,\r\nrozpacz staje się odległym\r\nwspomnieniem.",
+      "pt-BR": "Braço da Esperança testado\r\nem campo. Em cada ataque,\r\no desespero se torna uma\r\nmemória distante.",
+      "ko": "현지 조사를 바탕으로 개량한\r\n호프암즈. 그 방패엔 위력뿐\r\n아니라 희망도 모을 수 있다.",
+      "zh-Hant": "經實地調查後改良而成的希望兵裝。\r\n盾牌積蓄的不只是力量，還有希望。",
+      "zh-Hans": "通过实地调查而改良的希望兵装。\r\n其盾牌积蓄的不只力量，还有希望。",
+      "ar": "نصل الأمل القوي مُختبر بالكامل\r\nفي الساحة. مع كل شحنة، يصبح اليأس\r\nذكرى بعيدة.",
+      "es-419": "Un aspa de esperanza probada en\r\ncampo. Con cada carga, la\r\ndesesperación se vuelve un\r\nrecuerdo más lejano."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 73,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "纏盾斧ジャマカクタル",
+      "en": "Shrouded Kutharja",
+      "fr": "Kutharja voilé",
+      "it": "Kutharja offuscato",
+      "de": "Getarnte Kutharja",
+      "es": "Kutharja mortaja",
+      "ru": "Туманный Кутаржа",
+      "pl": "Cienisty Kutharja",
+      "pt-BR": "Kutharja Velado",
+      "ko": "전순부 자마카쿠타르",
+      "zh-Hant": "纏蛙強蓄盾斧",
+      "zh-Hans": "缠蛙强蓄盾斧",
+      "ar": "كوثارجا مُغلف",
+      "es-419": "Kutharja amortajada"
+    },
+    "descriptions": {
+      "ja": "チャタアームズ強化版。増強された\r\n盾は迫る攻撃の一切を遮断し、\r\n剣が纏うエネルギーは合切を砕く。",
+      "en": "A stronger version of the Chata\r\nStrongarm. Capable of both\r\ndeflecting attacks and crushing\r\nfoes with its shroud of energy.",
+      "fr": "Décapiteur Chata amélioré.\r\nCapable de dévier les coups\r\ncomme d'écraser ses ennemis\r\navec son voile d'énergie.",
+      "it": "Una versione più forte del\r\nDominatore Chata. Devia attacchi\r\ne schiaccia nemici con il suo\r\nscudo di energia.",
+      "de": "Eine verbesserte Version des\r\nChata-Schlägers. Wehrt wahl-\r\nweise Angriffe ab oder schlägt\r\nFeinde in Stücke.",
+      "es": "Versión potenciada del Segur\r\nChata. Capaz de desviar ataques\r\ny de aplastar a sus enemigos\r\ncon su aura de energía.",
+      "ru": "Усиленное чатакабровое лезвие,\r\nокружённое потоком энергии,\r\nпозволяет как отражать атаки,\r\nтак и наносить ответные удары.",
+      "pl": "Mocniejsza wersja siłówki\r\nz Chaty. Odbija ataki oraz\r\nmiażdży wrogów swoją\r\nosłoną energetyczną.",
+      "pt-BR": "Braço Chata melhorado.\r\nCapaz de defletir ataques e\r\nesmagar adversários com\r\nseu manto de energia.",
+      "ko": "차타암즈의 강화판.\r\n증강된 방패는 공격을 전부\r\n차단하고, 검이 두른 에너지는\r\n모든 것을 산산조각 낸다.",
+      "zh-Hant": "強化版纏蛙兵裝。變強的盾可阻擋\r\n一切攻擊，劍上的能量可斬斷所有\r\n事物。",
+      "zh-Hans": "缠蛙兵装的强化版。变强的盾可以\r\n阻挡袭来的一切攻击，萦绕在剑上\r\n的能量能砍断一切事物。",
+      "ar": "نسخة أقوى من نصل (تشاتا) القوي.\r\nقادرة على صد الهجمات\r\nوسحق الأعداء\r\nبفضل غطائه من الطاقة.",
+      "es-419": "Versión más poderosa de aspa de\r\nChata. Capaz de desviar ataques\r\ny aplastar a los enemigos con\r\nsu envoltura de energía."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 6
+    },
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 74,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "names": {
+      "ja": "鎖刃盾斧ゴーヴァン",
+      "en": "Abiding Gawain",
+      "fr": "Caradoc l'Irréductible",
+      "it": "Gawain durevole",
+      "de": "Harrender Gawain",
+      "es": "Galván permanente",
+      "ru": "Смирение Гавейна",
+      "pl": "Trwały Gawain",
+      "pt-BR": "Gawain Eterno",
+      "ko": "쇄인순부 고뱅",
+      "zh-Hant": "鎖刃充能斧高文",
+      "zh-Hans": "锁刃盾斧·高文",
+      "ar": "جاوين أبدي",
+      "es-419": "Gawain Perdurable"
+    },
+    "descriptions": {
+      "ja": "アルシュブラドラの強化形。\r\n太陽に愛されたその騎士は、烈日の\r\nごとく勝利をもたらしたという。",
+      "en": "An upgraded Veldian Labrys.\r\nBeloved by the sun, its\r\nknightly wielder scorched\r\na path to victory.",
+      "fr": "Labrys Arkveld améliorée.\r\nAdoré par le soleil, le chevalier\r\nqui la maniait a tracé sa route\r\nvers la victoire.",
+      "it": "Una labrys Veldian potenziata.\r\nAmato dal sole, il suo cavaliere\r\nha tracciato la strada\r\nverso la vittoria.",
+      "de": "Eine verbesserte Arkveld-\r\nLabrys. Von der Sonne geliebt,\r\nbahnte der Ritter einen\r\nlodernden Pfad zum Sieg.",
+      "es": "Labrys veldiana mejorada.\r\nAdorada por el mismísimo sol,\r\nel caballero que la empuñó\r\nabrasó la senda de la victoria.",
+      "ru": "Улучшенный «Вельдовый лабрис».\r\nВладевший таким оружием рыцарь\r\nбыл любим солнцем и проложил\r\nсебе путь к победе его пламенем.",
+      "pl": "Ulepszony Wiweriański Labrys.\r\nUkochany przez słońce, pozwalał\r\ndzierżącemu go rycerzowi wypalić\r\nsobie drogę do zwycięstwa.",
+      "pt-BR": "Lábris Veldiano melhorado.\r\nAmado pelo sol, seu cavaleiro\r\nportador abriu um caminho\r\nabrasador rumo à vitória.",
+      "ko": "알슈블래드라의 강화형.\r\n태양에게 사랑받은 그 기사는\r\n뜨거운 햇살처럼 승리를\r\n이루었다고 한다.",
+      "zh-Hant": "強化版鎖刃充能斧。據說受太陽眷顧\r\n的騎士帶來了烈日般的勝利。",
+      "zh-Hans": "锁刃盾斧的强化版。据说那位受太\r\n阳眷顾的骑士带来了灼灼烈日般的\r\n胜利。",
+      "ar": "(لابريس فيلديان) مطوَّر.\r\nمحبوب من الشمس، وحامله فارس\r\nأشعل طريق النصر.",
+      "es-419": "Una Labrys veldian mejorada. El\r\ncaballero que portaba este\r\nobjeto de devoción trazó con\r\nfuego su camino a la victoria."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 8
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  }
+]

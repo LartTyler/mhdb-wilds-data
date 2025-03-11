@@ -1,0 +1,4732 @@
+[
+  {
+    "game_id": 1,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "ホープガンランスⅠ",
+      "en": "Hope Gunlance I",
+      "fr": "Lancecanon d'espoir",
+      "it": "Lancia-fucile speranza I",
+      "de": "Hoffngsgewehrlanze I",
+      "es": "Lzapist. esperanza I",
+      "ru": "Копьепушка надежды I",
+      "pl": "Lancopał nadziei I",
+      "pt-BR": "Lançarma da Esperança I",
+      "ko": "호프건랜스Ⅰ",
+      "zh-Hant": "希望銃槍Ⅰ",
+      "zh-Hans": "希望铳枪Ⅰ",
+      "ar": "بندقية رماح الأمل 1",
+      "es-419": "Lanza pist. esperanza I"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられたガンランス。様々な砲撃や\r\n竜杭砲で高火力の攻撃を繰り出す。",
+      "en": "A gunlance made specifically for\r\nthe expedition. Uses a variety\r\nof shells and a Wyrmstake\r\ncannon for attacks.",
+      "fr": "Lancecanon conçu spécialement\r\npour l'expédition. Utilise divers\r\nobus et un canon de vouivre\r\npour attaquer.",
+      "it": "Una lancia-fucile creata\r\nappositamente per la spedizione. \r\nPer attaccare usa vari proiettili\r\ne cannone wyvern.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Gewehrlanze. Nutzt\r\nverschiedene Munition und\r\nWyrmstake-Kanonen für Angriffe.",
+      "es": "Lanza pistola creada ex profeso\r\npara la expedición. Ataca con\r\nuna gran variedad de munición,\r\nademás del cañón de sierpe.",
+      "ru": "Копьепушка, изготовленная для\r\nэкспедиции. Заряжается различными\r\nбоеприпасами и снарядами для\r\nстрельбы в режиме драконьей пушки.",
+      "pl": "Lancopał wykonany specjalnie na\r\ntę ekspedycję. Wykorzystuje\r\nróżne pociski i działa smoczego\r\nśrutu do ataków.",
+      "pt-BR": "Lançarma feita para a expedição.\r\nUsa uma variedade de morteiros e\r\num canhão Serpestaca em ataques.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 건랜스.\r\n다양한 포격과 용항포로\r\n고화력 공격을 퍼붓는다.",
+      "zh-Hant": "為東部地區調查特別開發的銃槍。\r\n能利用各種砲擊和龍杭砲，使出\r\n高火力的攻擊。",
+      "zh-Hans": "为调查东部地区而特别制作的铳枪。\r\n凭借多样的炮击以及龙杭炮，可以\r\n打出高火力的攻击。",
+      "ar": "بندقية رماح مصنوعة خصيصًا للبعثة.\r\nتستخدم مجموعة متنوعة من القذائف\r\nومدافع (ويرمستايك) للهجمات.",
+      "es-419": "Una lanza pistola hecha para la\r\nexpedición. Usa una variedad de\r\ncaparazones y cañones de sierpe\r\npara los ataques."
+    },
+    "rarity": 1,
+    "attack_raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        61
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 2,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "ホープガンランスⅡ",
+      "en": "Hope Gunlance II",
+      "fr": "Lancecanon d'espoir II",
+      "it": "Lancia-fucile speranza II",
+      "de": "Hoffngsgewehrlanze II",
+      "es": "Lzapist. esperanza II",
+      "ru": "Копьепушка надежды II",
+      "pl": "Lancopał nadziei II",
+      "pt-BR": "Lançarma da Esperança II",
+      "ko": "호프건랜스Ⅱ",
+      "zh-Hant": "希望銃槍Ⅱ",
+      "zh-Hans": "希望铳枪Ⅱ",
+      "ar": "بندقية رماح الأمل 2",
+      "es-419": "Lanza pist. esperanza II"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられたガンランス。様々な砲撃や\r\n竜杭砲で高火力の攻撃を繰り出す。",
+      "en": "A gunlance made specifically for\r\nthe expedition. Uses a variety\r\nof shells and a Wyrmstake\r\ncannon for attacks.",
+      "fr": "Lancecanon conçu spécialement\r\npour l'expédition. Utilise divers\r\nobus et un canon de vouivre\r\npour attaquer.",
+      "it": "Una lancia-fucile creata\r\nappositamente per la spedizione. \r\nPer attaccare usa vari proiettili\r\ne cannone wyvern.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Gewehrlanze. Nutzt\r\nverschiedene Munition und\r\nWyrmstake-Kanonen für Angriffe.",
+      "es": "Lanza pistola creada ex profeso\r\npara la expedición. Ataca con\r\nuna gran variedad de munición,\r\nademás del cañón de sierpe.",
+      "ru": "Копьепушка, изготовленная для\r\nэкспедиции. Заряжается различными\r\nбоеприпасами и снарядами для\r\nстрельбы в режиме драконьей пушки.",
+      "pl": "Lancopał wykonany specjalnie na\r\ntę ekspedycję. Wykorzystuje\r\nróżne pociski i działa smoczego\r\nśrutu do ataków.",
+      "pt-BR": "Lançarma feita para a expedição.\r\nUsa uma variedade de morteiros e\r\num canhão Serpestaca em ataques.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 건랜스.\r\n다양한 포격과 용항포로\r\n고화력 공격을 퍼붓는다.",
+      "zh-Hant": "為東部地區調查特別開發的銃槍。\r\n能利用各種砲擊和龍杭砲，使出\r\n高火力的攻擊。",
+      "zh-Hans": "为调查东部地区而特别制作的铳枪。\r\n凭借多样的炮击以及龙杭炮，可以\r\n打出高火力的攻击。",
+      "ar": "بندقية رماح مصنوعة خصيصًا للبعثة.\r\nتستخدم مجموعة متنوعة من القذائف\r\nومدافع (ويرمستايك) للهجمات.",
+      "es-419": "Una lanza pistola hecha para la\r\nexpedición. Usa una variedad de\r\ncaparazones y cañones de sierpe\r\npara los ataques."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11,
+        20
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 0
+    },
+    "skills": {
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 3,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "ホープガンランスⅢ",
+      "en": "Hope Gunlance III",
+      "fr": "Lancecanon d'espoir III",
+      "it": "Lancia-fucile speranza III",
+      "de": "Hoffngsgewehrlanze III",
+      "es": "Lzapist. esperanza III",
+      "ru": "Копьепушка надежды III",
+      "pl": "Lancopał nadziei III",
+      "pt-BR": "Lançarma da Esperança III",
+      "ko": "호프건랜스Ⅲ",
+      "zh-Hant": "希望銃槍Ⅲ",
+      "zh-Hans": "希望铳枪Ⅲ",
+      "ar": "بندقية رماح الأمل 3",
+      "es-419": "Lanza pist. esperanza III"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられたガンランス。様々な砲撃や\r\n竜杭砲で高火力の攻撃を繰り出す。",
+      "en": "A gunlance made specifically for\r\nthe expedition. Uses a variety\r\nof shells and a Wyrmstake\r\ncannon for attacks.",
+      "fr": "Lancecanon conçu spécialement\r\npour l'expédition. Utilise divers\r\nobus et un canon de vouivre\r\npour attaquer.",
+      "it": "Una lancia-fucile creata\r\nappositamente per la spedizione. \r\nPer attaccare usa vari proiettili\r\ne cannone wyvern.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Gewehrlanze. Nutzt\r\nverschiedene Munition und\r\nWyrmstake-Kanonen für Angriffe.",
+      "es": "Lanza pistola creada ex profeso\r\npara la expedición. Ataca con\r\nuna gran variedad de munición,\r\nademás del cañón de sierpe.",
+      "ru": "Копьепушка, изготовленная для\r\nэкспедиции. Заряжается различными\r\nбоеприпасами и снарядами для\r\nстрельбы в режиме драконьей пушки.",
+      "pl": "Lancopał wykonany specjalnie na\r\ntę ekspedycję. Wykorzystuje\r\nróżne pociski i działa smoczego\r\nśrutu do ataków.",
+      "pt-BR": "Lançarma feita para a expedição.\r\nUsa uma variedade de morteiros e\r\num canhão Serpestaca em ataques.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 건랜스.\r\n다양한 포격과 용항포로\r\n고화력 공격을 퍼붓는다.",
+      "zh-Hant": "為東部地區調查特別開發的銃槍。\r\n能利用各種砲擊和龍杭砲，使出\r\n高火力的攻擊。",
+      "zh-Hans": "为调查东部地区而特别制作的铳枪。\r\n凭借多样的炮击以及龙杭炮，可以\r\n打出高火力的攻击。",
+      "ar": "بندقية رماح مصنوعة خصيصًا للبعثة.\r\nتستخدم مجموعة متنوعة من القذائف\r\nومدافع (ويرمستايك) للهجمات.",
+      "es-419": "Una lanza pistola hecha para la\r\nexpedición. Usa una variedad de\r\ncaparazones y cañones de sierpe\r\npara los ataques."
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        36
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 4,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "ホープガンランスⅣ",
+      "en": "Hope Gunlance IV",
+      "fr": "Lancecanon d'espoir IV",
+      "it": "Lancia-fucile speranza IV",
+      "de": "Hoffngsgewehrlanze IV",
+      "es": "Lzapist. esperanza IV",
+      "ru": "Копьепушка надежды IV",
+      "pl": "Lancopał nadziei IV",
+      "pt-BR": "Lançarma da Esperança IV",
+      "ko": "호프건랜스Ⅳ",
+      "zh-Hant": "希望銃槍Ⅳ",
+      "zh-Hans": "希望铳枪Ⅳ",
+      "ar": "بندقية رماح الأمل 4",
+      "es-419": "Lanza pist. esperanza IV"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられたガンランス。様々な砲撃や\r\n竜杭砲で高火力の攻撃を繰り出す。",
+      "en": "A gunlance made specifically for\r\nthe expedition. Uses a variety\r\nof shells and a Wyrmstake\r\ncannon for attacks.",
+      "fr": "Lancecanon conçu spécialement\r\npour l'expédition. Utilise divers\r\nobus et un canon de vouivre\r\npour attaquer.",
+      "it": "Una lancia-fucile creata\r\nappositamente per la spedizione. \r\nPer attaccare usa vari proiettili\r\ne cannone wyvern.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Gewehrlanze. Nutzt\r\nverschiedene Munition und\r\nWyrmstake-Kanonen für Angriffe.",
+      "es": "Lanza pistola creada ex profeso\r\npara la expedición. Ataca con\r\nuna gran variedad de munición,\r\nademás del cañón de sierpe.",
+      "ru": "Копьепушка, изготовленная для\r\nэкспедиции. Заряжается различными\r\nбоеприпасами и снарядами для\r\nстрельбы в режиме драконьей пушки.",
+      "pl": "Lancopał wykonany specjalnie na\r\ntę ekspedycję. Wykorzystuje\r\nróżne pociski i działa smoczego\r\nśrutu do ataków.",
+      "pt-BR": "Lançarma feita para a expedição.\r\nUsa uma variedade de morteiros e\r\num canhão Serpestaca em ataques.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 건랜스.\r\n다양한 포격과 용항포로\r\n고화력 공격을 퍼붓는다.",
+      "zh-Hant": "為東部地區調查特別開發的銃槍。\r\n能利用各種砲擊和龍杭砲，使出\r\n高火力的攻擊。",
+      "zh-Hans": "为调查东部地区而特别制作的铳枪。\r\n凭借多样的炮击以及龙杭炮，可以\r\n打出高火力的攻击。",
+      "ar": "بندقية رماح مصنوعة خصيصًا للبعثة.\r\nتستخدم مجموعة متنوعة من القذائف\r\nومدافع (ويرمستايك) للهجمات.",
+      "es-419": "Una lanza pistola hecha para la\r\nexpedición. Usa una variedad de\r\ncaparazones y cañones de sierpe\r\npara los ataques."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 5,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "ホープガンランスⅤ",
+      "en": "Hope Gunlance V",
+      "fr": "Lancecanon d'espoir V",
+      "it": "Lancia-fucile speranza V",
+      "de": "Hoffngsgewehrlanze V",
+      "es": "Lzapist. esperanza V",
+      "ru": "Копьепушка надежды V",
+      "pl": "Lancopał nadziei V",
+      "pt-BR": "Lançarma da Esperança V",
+      "ko": "호프건랜스Ⅴ",
+      "zh-Hant": "希望銃槍Ⅴ",
+      "zh-Hans": "希望铳枪Ⅴ",
+      "ar": "بندقية رماح الأمل 5",
+      "es-419": "Lanza pist. esperanza V"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられたガンランス。様々な砲撃や\r\n竜杭砲で高火力の攻撃を繰り出す。",
+      "en": "A gunlance made specifically for\r\nthe expedition. Uses a variety\r\nof shells and a Wyrmstake\r\ncannon for attacks.",
+      "fr": "Lancecanon conçu spécialement\r\npour l'expédition. Utilise divers\r\nobus et un canon de vouivre\r\npour attaquer.",
+      "it": "Una lancia-fucile creata\r\nappositamente per la spedizione. \r\nPer attaccare usa vari proiettili\r\ne cannone wyvern.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Gewehrlanze. Nutzt\r\nverschiedene Munition und\r\nWyrmstake-Kanonen für Angriffe.",
+      "es": "Lanza pistola creada ex profeso\r\npara la expedición. Ataca con\r\nuna gran variedad de munición,\r\nademás del cañón de sierpe.",
+      "ru": "Копьепушка, изготовленная для\r\nэкспедиции. Заряжается различными\r\nбоеприпасами и снарядами для\r\nстрельбы в режиме драконьей пушки.",
+      "pl": "Lancopał wykonany specjalnie na\r\ntę ekspedycję. Wykorzystuje\r\nróżne pociski i działa smoczego\r\nśrutu do ataków.",
+      "pt-BR": "Lançarma feita para a expedição.\r\nUsa uma variedade de morteiros e\r\num canhão Serpestaca em ataques.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 건랜스.\r\n다양한 포격과 용항포로\r\n고화력 공격을 퍼붓는다.",
+      "zh-Hant": "為東部地區調查特別開發的銃槍。\r\n能利用各種砲擊和龍杭砲，使出\r\n高火力的攻擊。",
+      "zh-Hans": "为调查东部地区而特别制作的铳枪。\r\n凭借多样的炮击以及龙杭炮，可以\r\n打出高火力的攻击。",
+      "ar": "بندقية رماح مصنوعة خصيصًا للبعثة. \r\nتستخدم مجموعة متنوعة من القذائف\r\nومدافع (ويرمستايك) للهجمات.",
+      "es-419": "Una lanza pistola hecha para la\r\nexpedición. Usa una variedad de\r\ncaparazones y cañones de sierpe\r\npara los ataques."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 6,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "骨銃槍Ⅰ",
+      "en": "Bone Gunlance I",
+      "fr": "Lancecanon en os",
+      "it": "Lancia-fucile d'osso I",
+      "de": "Knochengewehrlanze I",
+      "es": "Lanza pistola ósea I",
+      "ru": "Костяная копьепушка I",
+      "pl": "Kościany lancopał I",
+      "pt-BR": "Lançarma Óssea I",
+      "ko": "골총창Ⅰ",
+      "zh-Hant": "骨銃槍Ⅰ",
+      "zh-Hans": "骨铳枪Ⅰ",
+      "ar": "بندقية رماح عظمية 1",
+      "es-419": "Lanza pistola ósea I"
+    },
+    "descriptions": {
+      "ja": "初心者の入門用ガンランス。\r\n扱いやすい上に軽い為、\r\n腕を磨くのに最適。",
+      "en": "A light and wieldy gunlance\r\nthat's great for beginners\r\nto learn the ropes and hone\r\ntheir skills.",
+      "fr": "Lancecanon léger et facile\r\nà manier, idéal pour les\r\nchasseurs novices qui veulent\r\napprendre et s'améliorer.",
+      "it": "Lancia-fucile per cacciatori\r\nprincipianti. Leggera, ideale\r\nper allenarsi.",
+      "de": "Eine leichte und wendige Gewehr-\r\nlanze, die sich hervorragend für\r\nAnfänger eignet, um die eigenen\r\nFähigkeiten zu entwickeln.",
+      "es": "Lanza pistola ágil y ligera.\r\nIdeal para que los cazadores\r\nnovatos aprendan a usar una\r\ny mejoren sus habilidades.",
+      "ru": "Лёгкая и удобная копьепушка.\r\nПрекрасное оружие для новичков,\r\nкоторые делают первые шаги\r\nв охотничьем ремесле.",
+      "pl": "Lekki i pełen gracji lancopał,\r\nktóry świetnie się nadaje dla początkujących,\r\nby opanować podstawy i\r\ndoskonalić umiejętności.",
+      "pt-BR": "Lançarma leve e fácil de\r\nmanusear, ideal para iniciantes\r\naprenderem o básico e\r\naprimorarem suas habilidades.",
+      "ko": "초보자들이 사용하는 건랜스.\r\n다루기 쉽고 가벼워서\r\n실력을 키우는 데 좋다.",
+      "zh-Hant": "新手入門用的銃槍。輕巧而且容易\r\n上手，用來磨練技巧再適合不過。",
+      "zh-Hans": "新手入门用的铳枪。轻巧且操作简\r\n单，适合用来磨练技巧。",
+      "ar": "بندقية رماح خفيفة تناسب\r\nالصيادين المبتدئين لتعلّم مهاراتهم\r\nوصقلها.",
+      "es-419": "Una lanza pistola ligera y\r\nmanejable, ideal para que los\r\nprincipiantes aprendan y\r\nperfeccionen sus habilidades."
+    },
+    "rarity": 1,
+    "attack_raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        15
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 1
+    }
+  },
+  {
+    "game_id": 7,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "骨銃槍Ⅱ",
+      "en": "Bone Gunlance II",
+      "fr": "Lancecanon en os II",
+      "it": "Lancia-fucile d'osso II",
+      "de": "Knochengewehrlanze II",
+      "es": "Lanza pistola ósea II",
+      "ru": "Костяная копьепушка II",
+      "pl": "Kościany lancopał II",
+      "pt-BR": "Lançarma Óssea II",
+      "ko": "골총창Ⅱ",
+      "zh-Hant": "骨銃槍Ⅱ",
+      "zh-Hans": "骨铳枪Ⅱ",
+      "ar": "بندقية رماح عظمية 2",
+      "es-419": "Lanza pistola ósea II"
+    },
+    "descriptions": {
+      "ja": "初心者の入門用ガンランス。\r\n扱いやすい上に軽い為、\r\n腕を磨くのに最適。",
+      "en": "A light and wieldy gunlance\r\nthat's great for beginners\r\nto learn the ropes and hone\r\ntheir skills.",
+      "fr": "Lancecanon léger et facile\r\nà manier, idéal pour les\r\nchasseurs novices qui veulent\r\napprendre et s'améliorer.",
+      "it": "Lancia-fucile per cacciatori\r\nprincipianti. Leggera, ideale\r\nper allenarsi.",
+      "de": "Eine leichte und wendige Gewehr-\r\nlanze, die sich hervorragend für\r\nAnfänger eignet, um die eigenen\r\nFähigkeiten zu entwickeln.",
+      "es": "Lanza pistola ágil y ligera.\r\nIdeal para que los cazadores\r\nnovatos aprendan a usar una\r\ny mejoren sus habilidades.",
+      "ru": "Лёгкая и удобная копьепушка.\r\nПрекрасное оружие для новичков,\r\nкоторые делают первые шаги\r\nв охотничьем ремесле.",
+      "pl": "Lekki i pełen gracji lancopał,\r\nktóry świetnie się nadaje dla początkujących,\r\nby opanować podstawy i\r\ndoskonalić umiejętności.",
+      "pt-BR": "Lançarma leve e fácil de\r\nmanusear, ideal para iniciantes\r\naprenderem o básico e\r\naprimorarem suas habilidades.",
+      "ko": "초보자들이 사용하는 건랜스.\r\n다루기 쉽고 가벼워서\r\n실력을 키우는 데 좋다.",
+      "zh-Hant": "新手入門用的銃槍。輕巧而且容易\r\n上手，用來磨練技巧再適合不過。",
+      "zh-Hans": "新手入门用的铳枪。轻巧且操作简\r\n单，适合用来磨练技巧。",
+      "ar": "بندقية رماح خفيفة تناسب\r\nالصيادين المبتدئين لتعلّم مهاراتهم\r\nوصقلها.",
+      "es-419": "Una lanza pistola ligera y\r\nmanejable, ideal para que los\r\nprincipiantes aprendan y\r\nperfeccionen sus habilidades."
+    },
+    "rarity": 2,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        25,
+        29
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 1,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 8,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "骨銃槍Ⅲ",
+      "en": "Bone Gunlance III",
+      "fr": "Lancecanon en os III",
+      "it": "Lancia-fucile d'osso III",
+      "de": "Knochengewehrlanze III",
+      "es": "Lanza pistola ósea III",
+      "ru": "Костяная копьепушка III",
+      "pl": "Kościany lancopał III",
+      "pt-BR": "Lançarma Óssea III",
+      "ko": "골총창Ⅲ",
+      "zh-Hant": "骨銃槍Ⅲ",
+      "zh-Hans": "骨铳枪Ⅲ",
+      "ar": "بندقية رمح عظمية 3",
+      "es-419": "Lanza pistola ósea III"
+    },
+    "descriptions": {
+      "ja": "初心者の入門用ガンランス。\r\n扱いやすい上に軽い為、\r\n腕を磨くのに最適。",
+      "en": "A light and wieldy gunlance\r\nthat's great for beginners\r\nto learn the ropes and hone\r\ntheir skills.",
+      "fr": "Lancecanon léger et facile\r\nà manier, idéal pour les\r\nchasseurs novices qui veulent\r\napprendre et s'améliorer.",
+      "it": "Lancia-fucile per cacciatori\r\nprincipianti. Leggera, ideale\r\nper allenarsi.",
+      "de": "Eine leichte und wendige Gewehr-\r\nlanze, die sich hervorragend für\r\nAnfänger eignet, um die eigenen\r\nFähigkeiten zu entwickeln.",
+      "es": "Lanza pistola ágil y ligera.\r\nIdeal para que los cazadores\r\nnovatos aprendan a usar una\r\ny mejoren sus habilidades.",
+      "ru": "Лёгкая и удобная копьепушка.\r\nПрекрасное оружие для новичков,\r\nкоторые делают первые шаги\r\nв охотничьем ремесле.",
+      "pl": "Lekki i pełen gracji lancopał,\r\nktóry świetnie się nadaje dla początkujących,\r\nby opanować podstawy i\r\ndoskonalić umiejętności.",
+      "pt-BR": "Lançarma leve e fácil de\r\nmanusear, ideal para iniciantes\r\naprenderem o básico e\r\naprimorarem suas habilidades.",
+      "ko": "초보자들이 사용하는 건랜스.\r\n다루기 쉽고 가벼워서\r\n실력을 키우는 데 좋다.",
+      "zh-Hant": "新手入門用的銃槍。輕巧而且容易\r\n上手，用來磨練技巧再適合不過。",
+      "zh-Hans": "新手入门用的铳枪。轻巧且操作简\r\n单，适合用来磨练技巧。",
+      "ar": "بندقية رماح خفيفة تناسب\r\nالصيادين المبتدئين لتعلّم مهاراتهم\r\nوصقلها.",
+      "es-419": "Una lanza pistola ligera y\r\nmanejable, ideal para que los\r\nprincipiantes aprendan y\r\nperfeccionen sus habilidades."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 2,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 9,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "骨銃槍Ⅳ",
+      "en": "Bone Gunlance IV",
+      "fr": "Lancecanon en os IV",
+      "it": "Lancia-fucile d'osso IV",
+      "de": "Knochengewehrlanze IV",
+      "es": "Lanza pistola ósea IV",
+      "ru": "Костяная копьепушка IV",
+      "pl": "Kościany lancopał IV",
+      "pt-BR": "Lançarma Óssea IV",
+      "ko": "골총창Ⅳ",
+      "zh-Hant": "骨銃槍Ⅳ",
+      "zh-Hans": "骨铳枪Ⅳ",
+      "ar": "بندقية رماح عظمية 4",
+      "es-419": "Lanza pistola ósea IV"
+    },
+    "descriptions": {
+      "ja": "初心者の入門用ガンランス。\r\n扱いやすい上に軽い為、\r\n腕を磨くのに最適。",
+      "en": "A light and wieldy gunlance\r\nthat's great for beginners\r\nto learn the ropes and hone\r\ntheir skills.",
+      "fr": "Lancecanon léger et facile\r\nà manier, idéal pour les\r\nchasseurs novices qui veulent\r\napprendre et s'améliorer.",
+      "it": "Lancia-fucile per cacciatori\r\nprincipianti. Leggera, ideale\r\nper allenarsi.",
+      "de": "Eine leichte und wendige Gewehr-\r\nlanze, die sich hervorragend für\r\nAnfänger eignet, um die eigenen\r\nFähigkeiten zu entwickeln.",
+      "es": "Lanza pistola ágil y ligera.\r\nIdeal para que los cazadores\r\nnovatos aprendan a usar una\r\ny mejoren sus habilidades.",
+      "ru": "Лёгкая и удобная копьепушка.\r\nПрекрасное оружие для новичков,\r\nкоторые делают первые шаги\r\nв охотничьем ремесле.",
+      "pl": "Lekki i pełen gracji lancopał,\r\nktóry świetnie się nadaje dla początkujących,\r\nby opanować podstawy i\r\ndoskonalić umiejętności.",
+      "pt-BR": "Lançarma leve e fácil de\r\nmanusear, ideal para iniciantes\r\naprenderem o básico e\r\naprimorarem suas habilidades.",
+      "ko": "초보자들이 사용하는 건랜스.\r\n다루기 쉽고 가벼워서\r\n실력을 키우는 데 좋다.",
+      "zh-Hant": "新手入門用的銃槍。輕巧而且容易\r\n上手，用來磨練技巧再適合不過。",
+      "zh-Hans": "新手入门用的铳枪。轻巧且操作简\r\n单，适合用来磨练技巧。",
+      "ar": "بندقية رماح خفيفة تناسب\r\nالصيادين المبتدئين لتعلّم مهاراتهم\r\nوصقلها.",
+      "es-419": "Una lanza pistola ligera y\r\nmanejable, ideal para que los\r\nprincipiantes aprendan y\r\nperfeccionen sus habilidades."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 10,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "大骨銃槍",
+      "en": "Great Bone Gunlance",
+      "fr": "Grand lancecanon en os",
+      "it": "Lancia-fucile grand'osso",
+      "de": "Knochenkanone",
+      "es": "Gran lanza pistola ósea",
+      "ru": "Большая костепушка",
+      "pl": "Wlk. kościany lancopał",
+      "pt-BR": "Lançarma Óssea Grande",
+      "ko": "대골총창",
+      "zh-Hant": "大骨銃槍",
+      "zh-Hans": "大骨铳枪",
+      "ar": "بندقية رماح عظمية ضخمة",
+      "es-419": "Lanza pistola megaósea"
+    },
+    "descriptions": {
+      "ja": "厳選された骨素材で強化した\r\n骨銃槍の強化版。扱いやすく、\r\n実戦を意識した造り。",
+      "en": "Top-shelf materials have turned\r\nthe Bone Gunlance into a great-\r\nhandling weapon that's ready for\r\nreal action.",
+      "fr": "Ce Lancecanon en os, amélioré\r\navec des matériaux de première\r\nqualité, est facile à utiliser et\r\nconçu pour l'action.",
+      "it": "Lancia-fucile d'osso potenziata\r\ngrazie a materiali d'eccezione,\r\nfacile da usare e ideale\r\nper il combattimento.",
+      "de": "Hochwertige Materialien haben\r\ndie Knochengewehrlanze zu einer\r\ngut zu führenden Waffe gemacht,\r\ndie bereit für echte Action ist.",
+      "es": "Lanza pistola ósea mejorada\r\nusada por los principiantes\r\nen su primera prueba de valor.",
+      "ru": "Благодаря использованию лучших\r\nматериалов «Костяная копьепушка»\r\nстала значительно удобнее\r\nи эффективнее в бою.",
+      "pl": "Dzięki najlepszym materiałom\r\nkościany lancopał stał się\r\nświetnie leżącą w dłoni bronią,\r\nktóra jest gotowa do prawdziwej akcji.",
+      "pt-BR": "Materiais de alto nível fizeram\r\nda Lançarma Óssea uma arma\r\nde manuseio aprimorado,\r\npronta para a ação de verdade.",
+      "ko": "엄선된 뼈로 강화한 골총창의\r\n강화판. 다루기 쉽고\r\n실전을 의식한 구조.",
+      "zh-Hant": "使用精挑細選的素材加強的骨銃槍\r\n強化版。操作簡單，構造適合實戰。",
+      "zh-Hans": "用精挑细选的骨素材强化的骨铳枪\r\n强化版。操作简单，构造适合实战。",
+      "ar": "لقد حوّلت المواد عالية الجودة بندقية\r\nرماح عظمية إلى سلاح رائع وجاهز\r\nللاستخدام الحقيقي.",
+      "es-419": "Los materiales de primera\r\ncalidad la han convertido en un\r\narma de gran manejo que está\r\nlista para la acción real."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 7
+    },
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 11,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "トライバヨネットⅠ",
+      "en": "Triple Bayonet I",
+      "fr": "Triple baïonnette",
+      "it": "Tripla baionetta I",
+      "de": "Dreifachbajonett I",
+      "es": "Bayoneta triple I",
+      "ru": "Тройной штык I",
+      "pl": "Potrójny bagnet I",
+      "pt-BR": "Baioneta Tripla I",
+      "ko": "트라이바요넷Ⅰ",
+      "zh-Hant": "三叉刺刀Ⅰ",
+      "zh-Hans": "三叉刺刀Ⅰ",
+      "ar": "الحربة الثلاثية 1",
+      "es-419": "Bayoneta triple I"
+    },
+    "descriptions": {
+      "ja": "槍先に三枚の銃剣がついた銃槍。\r\n初心者向けとは言いがたいが、その\r\n格好良さから選ばれる事が多い。",
+      "en": "A gunlance with three bayonets.\r\nIs it for beginners? No. Will it\r\nmake you look amazing? Oh, yes.",
+      "fr": "Lancecanon muni de trois\r\nbaïonnettes. Peu adapté\r\naux novices, il est toutefois\r\ntrès apprécié pour son style.",
+      "it": "Una lancia-fucile con tre\r\nbaionette. È adatta ai\r\nprincipianti? No. Tutti\r\nti invidieranno? Oh, sì.",
+      "de": "Gewehrlanze mit drei Bajonetten.\r\nIst sie für Anfänger geeignet?\r\nNein. Siehst du damit toll aus?\r\nOh, ja.",
+      "es": "Lanza pistola con tres bayonetas.\r\n¿Es para principiantes? No.\r\n¿Te da un aspecto increíble?\r\nYa te digo.",
+      "ru": "Копьепушка с тремя штыками.\r\nПодходит ли она для новичков?\r\nНет. Будете ли вы великолепно\r\nвыглядеть с таким оружием? О да.",
+      "pl": "Lancopał z trzema bagnetami.\r\nCzy jest dla początkujących?\r\nNie. Czy sprawi, że będziesz\r\nwyglądać niesamowicie? Oj tak.",
+      "pt-BR": "Lançarma com três baionetas.\r\nÉ para iniciantes? Não.\r\nVai te fazer parecer incrível?\r\nCom certeza.",
+      "ko": "창끝에 총검이 세 개 달린\r\n건랜스. 초보자에겐 적합하지\r\n않지만, 멋있는 생김새를\r\n보고 사용하는 경우가 많다.",
+      "zh-Hant": "槍頭裝著三片刺刀的銃槍。雖然不\r\n適合新手使用，但也有不少人因為\r\n看起來帥氣而選用。",
+      "zh-Hans": "枪头上装有三枚刺刀的铳枪。虽说\r\n是面向新手的武器，但是因为帅气\r\n造型而选择它的人也不在少数。",
+      "ar": "بندقية رماح بثلاث حربات.\r\nهل هي للمبتدئين؟ كلّا.\r\nهل ستجعل <LSNR \"مظهركَ\" \"مظهركِ\"> رائعًا؟ بالتأكيد.",
+      "es-419": "Una lanza pistola con tres\r\nbayonetas. ¿Es para\r\nprincipiantes? No. ¿Te hará\r\nlucir increíble? Oh, sí."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        33
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 2
+    },
+    "skills": {
+      "-1674114176": 1
+    }
+  },
+  {
+    "game_id": 12,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "トライバヨネットⅡ",
+      "en": "Triple Bayonet II",
+      "fr": "Triple baïonnette II",
+      "it": "Tripla baionetta II",
+      "de": "Dreifachbajonett II",
+      "es": "Bayoneta triple II",
+      "ru": "Тройной штык II",
+      "pl": "Potrójny bagnet II",
+      "pt-BR": "Baioneta Tripla II",
+      "ko": "트라이바요넷Ⅱ",
+      "zh-Hant": "三叉刺刀Ⅱ",
+      "zh-Hans": "三叉刺刀Ⅱ",
+      "ar": "الحربة الثلاثية 2",
+      "es-419": "Bayoneta triple II"
+    },
+    "descriptions": {
+      "ja": "槍先に三枚の銃剣がついた銃槍。\r\n初心者向けとは言いがたいが、その\r\n格好良さから選ばれる事が多い。",
+      "en": "A gunlance with three bayonets.\r\nIs it for beginners? No. Will it\r\nmake you look amazing? Oh, yes.",
+      "fr": "Lancecanon muni de trois\r\nbaïonnettes. Peu adapté\r\naux novices, il est toutefois\r\ntrès apprécié pour son style.",
+      "it": "Una lancia-fucile con tre\r\nbaionette. È adatta ai\r\nprincipianti? No. Tutti\r\nti invidieranno? Oh, sì.",
+      "de": "Gewehrlanze mit drei Bajonetten.\r\nIst sie für Anfänger geeignet?\r\nNein. Siehst du damit toll aus?\r\nOh, ja.",
+      "es": "Lanza pistola con tres bayonetas.\r\n¿Es para principiantes? No.\r\n¿Te da un aspecto increíble?\r\nYa te digo.",
+      "ru": "Копьепушка с тремя штыками.\r\nПодходит ли она для новичков?\r\nНет. Будете ли вы великолепно\r\nвыглядеть с таким оружием? О да.",
+      "pl": "Lancopał z trzema bagnetami.\r\nCzy jest dla początkujących?\r\nNie. Czy sprawi, że będziesz\r\nwyglądać niesamowicie? Oj tak.",
+      "pt-BR": "Lançarma com três baionetas.\r\nÉ para iniciantes? Não.\r\nVai te fazer parecer incrível?\r\nCom certeza.",
+      "ko": "창끝에 총검이 세 개 달린\r\n건랜스. 초보자에겐 적합하지\r\n않지만, 멋있는 생김새를\r\n보고 사용하는 경우가 많다.",
+      "zh-Hant": "槍頭裝著三片刺刀的銃槍。雖然不\r\n適合新手使用，但也有不少人因為\r\n看起來帥氣而選用。",
+      "zh-Hans": "枪头上装有三枚刺刀的铳枪。虽说\r\n是面向新手的武器，但是因为帅气\r\n造型而选择它的人也不在少数。",
+      "ar": "بندقية رماح بثلاث حربات.\r\nهل هي للمبتدئين؟ كلّا.\r\nهل ستجعل <LSNR \"مظهركَ\" \"مظهركِ\"> رائعًا؟ بالتأكيد.",
+      "es-419": "Una lanza pistola con tres\r\nbayonetas. ¿Es para\r\nprincipiantes? No. ¿Te hará\r\nlucir increíble? Oh, sí."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 2
+    },
+    "skills": {
+      "-1674114176": 2
+    }
+  },
+  {
+    "game_id": 13,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "トライバヨネットⅢ",
+      "en": "Triple Bayonet III",
+      "fr": "Triple baïonnette III",
+      "it": "Tripla baionetta III",
+      "de": "Dreifachbajonett III",
+      "es": "Bayoneta triple III",
+      "ru": "Тройной штык III",
+      "pl": "Potrójny bagnet III",
+      "pt-BR": "Baioneta Tripla III",
+      "ko": "트라이바요넷Ⅲ",
+      "zh-Hant": "三叉刺刀Ⅲ",
+      "zh-Hans": "三叉刺刀Ⅲ",
+      "ar": "الحربة الثلاثية 3",
+      "es-419": "Bayoneta triple III"
+    },
+    "descriptions": {
+      "ja": "槍先に三枚の銃剣がついた銃槍。\r\n初心者向けとは言いがたいが、その\r\n格好良さから選ばれる事が多い。",
+      "en": "A gunlance with three bayonets.\r\nIs it for beginners? No. Will it\r\nmake you look amazing? Oh, yes.",
+      "fr": "Lancecanon muni de trois\r\nbaïonnettes. Peu adapté\r\naux novices, il est toutefois\r\ntrès apprécié pour son style.",
+      "it": "Una lancia-fucile con tre\r\nbaionette. È adatta ai\r\nprincipianti? No. Tutti\r\nti invidieranno? Oh, sì.",
+      "de": "Gewehrlanze mit drei Bajonetten.\r\nIst sie für Anfänger geeignet?\r\nNein. Siehst du damit toll aus?\r\nOh, ja.",
+      "es": "Lanza pistola con tres bayonetas.\r\n¿Es para principiantes? No.\r\n¿Te da un aspecto increíble?\r\nYa te digo.",
+      "ru": "Копьепушка с тремя штыками.\r\nПодходит ли она для новичков?\r\nНет. Будете ли вы великолепно\r\nвыглядеть с таким оружием? О да.",
+      "pl": "Lancopał z trzema bagnetami.\r\nCzy jest dla początkujących?\r\nNie. Czy sprawi, że będziesz\r\nwyglądać niesamowicie? Oj tak.",
+      "pt-BR": "Lançarma com três baionetas.\r\nÉ para iniciantes? Não.\r\nVai te fazer parecer incrível?\r\nCom certeza.",
+      "ko": "창끝에 총검이 세 개 달린\r\n건랜스. 초보자에겐 적합하지\r\n않지만, 멋있는 생김새를\r\n보고 사용하는 경우가 많다.",
+      "zh-Hant": "槍頭裝著三片刺刀的銃槍。雖然不\r\n適合新手使用，但也有不少人因為\r\n看起來帥氣而選用。",
+      "zh-Hans": "枪头上装有三枚刺刀的铳枪。虽说\r\n是面向新手的武器，但是因为帅气\r\n造型而选择它的人也不在少数。",
+      "ar": "بندقية رماح بثلاث حربات.\r\nهل هي للمبتدئين؟ كلّا.\r\nهل ستجعل <LSNR \"مظهركَ\" \"مظهركِ\"> رائعًا؟ بالتأكيد.",
+      "es-419": "Una lanza pistola con tres\r\nbayonetas. ¿Es para\r\nprincipiantes? No. ¿Te hará\r\nlucir increíble? Oh, sí."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14,
+        39
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 2
+    },
+    "skills": {
+      "-1674114176": 2
+    }
+  },
+  {
+    "game_id": 14,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "トライエッジ",
+      "en": "Triumvirate Edge",
+      "fr": "Tranchant du triumvirat",
+      "it": "Lama del triumvirato",
+      "de": "Triumviratsschneide",
+      "es": "Hoja del triunvirato",
+      "ru": "Лезвие триумвирата",
+      "pl": "Klinga triumwiratu",
+      "pt-BR": "Gume Triunvirato",
+      "ko": "트라이에지",
+      "zh-Hant": "三叉鋒刃",
+      "zh-Hans": "三叉锋刃",
+      "ar": "الشفرة الثلاثية",
+      "es-419": "Filo del triunvirato"
+    },
+    "descriptions": {
+      "ja": "工房の職人の技術の粋を集めた\r\nトライバヨネット強化版。この槍先\r\nでつけられた傷跡は一目でわかる。",
+      "en": "An upgraded Triple Bayonet,\r\nmade by a dedicated craftsman.\r\nThe scars inflicted by its\r\nblade are visible at a glance.",
+      "fr": "Triple baïonnette améliorée\r\ncréée par un artisan zélé. Sa\r\nlame inflige des cicatrices\r\nvisibles au premier coup d'œil.",
+      "it": "Tripla baionetta potenziata,\r\ncreata da un attento artigiano.\r\nLe cicatrici che infligge sono\r\nvisibili al primo sguardo.",
+      "de": "Ein verbessertes Dreifachbajo-\r\nnett von einem passionierten\r\nHandwerker. Die Enden ver-\r\nursachen markante Wunden.",
+      "es": "Bayoneta triple mejorada,\r\ncreada por un artesano dedicado.\r\nLas cicatrices que inflige esta\r\nespada se ven de inmediato.",
+      "ru": "Улучшенный «Тройной штык»,\r\nвыкованный умелым ремесленником.\r\nШрамы от нанесённых им ран\r\nневозможно не заметить.",
+      "pl": "Ulepszony potrójny bagnet\r\nstworzony przez oddanego\r\nrzemieślnika. Blizny zadane tym\r\nostrzem są widoczne natychmiast.",
+      "pt-BR": "Baioneta Tripla melhorada, feita\r\npor um artesão dedicado. Feridas\r\ncausadas por sua lâmina são\r\nfacilmente reconhecíveis.",
+      "ko": "공방 장인의 기술이 집약된\r\n트라이바요넷의 강화판.\r\n이 창끝으로 낸 상흔은\r\n한눈에 알아볼 수 있다.",
+      "zh-Hant": "集工房工匠技術大成的強化版三叉\r\n刺刀。由這把槍尖造成的傷痕一眼\r\n就能認出。",
+      "zh-Hans": "集工房匠人技术之精华所造就的三\r\n叉刺刀强化版。由它的枪头造成的\r\n伤痕一眼便可认出。",
+      "ar": "الحربة الثلاثية المطوَّرة،  \r\nصنعها حرفي مخلص.  \r\nيمكن رؤية الندوب الناجمة\r\nعنها في لمحة.",
+      "es-419": "Bayoneta triple mejorada, fabricada\r\npor un artesano especializado. Las\r\ncicatrices que inflige esta espada\r\nse ven de inmediato."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 2
+    },
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "game_id": 15,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "names": {
+      "ja": "ケマスカニョンⅠ",
+      "en": "Quematrice Culebrina I",
+      "fr": "Couleuvrine Quematrice",
+      "it": "Colubrina Quematrice I",
+      "de": "Quema-Culebrina I",
+      "es": "Culebrina Quematrice I",
+      "ru": "Кематрисовая кулеврина I",
+      "pl": "Armatrice I",
+      "pt-BR": "Colubrina de Quematrice I",
+      "ko": "케마스카뇬Ⅰ",
+      "zh-Hant": "炎尾巨砲Ⅰ",
+      "zh-Hans": "炎尾炮Ⅰ",
+      "ar": "نيزك كيماتريس 1",
+      "es-419": "Culebrina Quematrice I"
+    },
+    "descriptions": {
+      "ja": "ケマトリス素材を組み込んだ銃槍。\r\n充填されたガスを砲撃時に着火。\r\n威力を引き上げる仕組み。",
+      "en": "A Quematrice gunlance that\r\nignites gas on each discharge\r\nto deliver an additional punch.",
+      "fr": "Lancecanon Quematrice qui\r\nenflamme du gaz à chaque tir\r\npour frapper plus fort.",
+      "it": "Lancia-fucile Quematrice che\r\ninfiamma gas con ogni scarica\r\nper dare un colpo aggiuntivo.",
+      "de": "Eine Quematrice-Gewehrlanze, die\r\nfür extra Wumms bei der Entladung\r\nGas entzündet.",
+      "es": "Lanza pistola de Quematrice que\r\nañade potencia extra con una\r\ndetonación de gas en cada\r\ndisparo.",
+      "ru": "Кематрисовая копьепушка. При\r\nкаждом выстреле воспламеняет\r\nгаз, тем самым увеличивая урон.",
+      "pl": "Lancopał z Chematrice'a, który\r\nprzy każdym strzale zapala gaz,\r\naby zwiększyć siłę uderzenia.",
+      "pt-BR": "Lançarma Quematrice que\r\nincendeia gás em cada disparo,\r\ncausando um impacto extra.",
+      "ko": "케마트리스 소재를 쓴 건랜스.\r\n포격 시에 충전된 가스를\r\n점화해서 위력을 끌어올린다.",
+      "zh-Hant": "以炎尾龍素材製作的銃槍。砲擊時會\r\n點燃填充其中的瓦斯，提升威力。",
+      "zh-Hans": "使用炎尾龙素材制成的铳枪。内部\r\n填充的气体会在炮击时被引燃，进\r\n而提升杀伤力。",
+      "ar": "بندقية رماح (كيماتريس) تشعل غازًا\r\nعند إطلاقها كل مرة لتضفي قوة إضافية\r\nعلى الضربة.",
+      "es-419": "Una lanza pistola de Quematrice\r\nque enciende gas con cada\r\ndescarga para sumar potencia\r\nadicional."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 10
+    },
+    "skills": {
+      "-307644128": 1
+    }
+  },
+  {
+    "game_id": 16,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "names": {
+      "ja": "ケマスカニョンⅡ",
+      "en": "Quematrice Culebrina II",
+      "fr": "Couleuvrine Quematrice II",
+      "it": "Colubrina Quematrice II",
+      "de": "Quema-Culebrina II",
+      "es": "Culebrina Quematrice II",
+      "ru": "Кематрисовая кулеврина II",
+      "pl": "Armatrice II",
+      "pt-BR": "Colubrina de Quematrice II",
+      "ko": "케마스카뇬Ⅱ",
+      "zh-Hant": "炎尾巨砲Ⅱ",
+      "zh-Hans": "炎尾炮Ⅱ",
+      "ar": "نيزك كيماتريس 2",
+      "es-419": "Culebrina Quematrice II"
+    },
+    "descriptions": {
+      "ja": "ケマトリス素材を組み込んだ銃槍。\r\n充填されたガスを砲撃時に着火。\r\n威力を引き上げる仕組み。",
+      "en": "A Quematrice gunlance that\r\nignites gas on each discharge\r\nto deliver an additional punch.",
+      "fr": "Lancecanon Quematrice qui\r\nenflamme du gaz à chaque tir\r\npour frapper plus fort.",
+      "it": "Lancia-fucile Quematrice che\r\ninfiamma gas con ogni scarica\r\nper dare un colpo aggiuntivo.",
+      "de": "Eine Quematrice-Gewehrlanze, die\r\nfür extra Wumms bei der Entladung\r\nGas entzündet.",
+      "es": "Lanza pistola de Quematrice que\r\nañade potencia extra con una\r\ndetonación de gas en cada\r\ndisparo.",
+      "ru": "Кематрисовая копьепушка. При\r\nкаждом выстреле воспламеняет\r\nгаз, тем самым увеличивая урон.",
+      "pl": "Lancopał z Chematrice'a, który\r\nprzy każdym strzale zapala gaz,\r\naby zwiększyć siłę uderzenia.",
+      "pt-BR": "Lançarma Quematrice que\r\nincendeia gás em cada disparo,\r\ncausando um impacto extra.",
+      "ko": "케마트리스 소재를 쓴 건랜스.\r\n포격 시에 충전된 가스를\r\n점화해서 위력을 끌어올린다.",
+      "zh-Hant": "以炎尾龍素材製作的銃槍。砲擊時會\r\n點燃填充其中的瓦斯，提升威力。",
+      "zh-Hans": "使用炎尾龙素材制成的铳枪。内部\r\n填充的气体会在炮击时被引燃，进\r\n而提升杀伤力。",
+      "ar": "بندقية رماح (كيماتريس) تشعل غازًا\r\nعند إطلاقها كل مرة لتضفي قوة إضافية\r\nعلى الضربة.",
+      "es-419": "Una lanza pistola de Quematrice\r\nque enciende gas con cada\r\ndescarga para sumar potencia\r\nadicional."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17,
+        41
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 10
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 17,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "names": {
+      "ja": "ケマスカニョンⅢ",
+      "en": "Quematrice Culebrina III",
+      "fr": "Couleuvrine Quematrice III",
+      "it": "Colubrina Quematrice III",
+      "de": "Quema-Culebrina III",
+      "es": "Culebrina Quematrice III",
+      "ru": "Кематрисовая кулеврина III",
+      "pl": "Armatrice III",
+      "pt-BR": "Colubrina de Quematrice III",
+      "ko": "케마스카뇬Ⅲ",
+      "zh-Hant": "炎尾巨砲Ⅲ",
+      "zh-Hans": "炎尾炮Ⅲ",
+      "ar": "نيزك كيماتريس 3",
+      "es-419": "Culebrina Quematrice III"
+    },
+    "descriptions": {
+      "ja": "ケマトリス素材を組み込んだ銃槍。\r\n充填されたガスを砲撃時に着火。\r\n威力を引き上げる仕組み。",
+      "en": "A Quematrice gunlance that\r\nignites gas on each discharge\r\nto deliver an additional punch.",
+      "fr": "Lancecanon Quematrice qui\r\nenflamme du gaz à chaque tir\r\npour frapper plus fort.",
+      "it": "Lancia-fucile Quematrice che\r\ninfiamma gas con ogni scarica\r\nper dare un colpo aggiuntivo.",
+      "de": "Eine Quematrice-Gewehrlanze, die\r\nfür extra Wumms bei der Entladung\r\nGas entzündet.",
+      "es": "Lanza pistola de Quematrice que\r\nañade potencia extra con una\r\ndetonación de gas en cada\r\ndisparo.",
+      "ru": "Кематрисовая копьепушка. При\r\nкаждом выстреле воспламеняет\r\nгаз, тем самым увеличивая урон.",
+      "pl": "Lancopał z Chematrice'a, który\r\nprzy każdym strzale zapala gaz,\r\naby zwiększyć siłę uderzenia.",
+      "pt-BR": "Lançarma de Quematrice que\r\nincendeia gás em cada disparo,\r\ncausando um impacto extra.",
+      "ko": "케마트리스 소재를 쓴 건랜스.\r\n포격 시에 충전된 가스를\r\n점화해서 위력을 끌어올린다.",
+      "zh-Hant": "以炎尾龍素材製作的銃槍。砲擊時會\r\n點燃填充其中的瓦斯，提升威力。",
+      "zh-Hans": "使用炎尾龙素材制成的铳枪。内部\r\n填充的气体会在炮击时被引燃，进\r\n而提升杀伤力。",
+      "ar": "بندقية رماح (كيماتريس) تشعل غازًا\r\nعند إطلاقها كل مرة لتضفي قوة إضافية\r\nعلى الضربة.",
+      "es-419": "Una lanza pistola de Quematrice\r\nque enciende gas con cada\r\ndescarga para sumar potencia\r\nadicional."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 10
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 18,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "names": {
+      "ja": "ケマスカニョンⅣ",
+      "en": "Quematrice Culebrina IV",
+      "fr": "Couleuvrine Quematrice IV",
+      "it": "Colubrina Quematrice IV",
+      "de": "Quema-Culebrina IV",
+      "es": "Culebrina Quematrice IV",
+      "ru": "Кематрисовая кулеврина IV",
+      "pl": "Armatrice IV",
+      "pt-BR": "Colubrina de Quematrice IV",
+      "ko": "케마스카뇬Ⅳ",
+      "zh-Hant": "炎尾巨砲Ⅳ",
+      "zh-Hans": "炎尾炮Ⅳ",
+      "ar": "نيزك كيماتريس 4",
+      "es-419": "Culebrina Quematrice IV"
+    },
+    "descriptions": {
+      "ja": "ケマトリス素材を組み込んだ銃槍。\r\n充填されたガスを砲撃時に着火。\r\n威力を引き上げる仕組み。",
+      "en": "A Quematrice gunlance that\r\nignites gas on each discharge\r\nto deliver an additional punch.",
+      "fr": "Lancecanon Quematrice qui\r\nenflamme du gaz à chaque tir\r\npour frapper plus fort.",
+      "it": "Lancia-fucile Quematrice che\r\ninfiamma gas con ogni scarica\r\nper dare un colpo aggiuntivo.",
+      "de": "Eine Quematrice-Gewehrlanze, die\r\nfür extra Wumms bei der Entladung\r\nGas entzündet.",
+      "es": "Lanza pistola de Quematrice que\r\nañade potencia extra con una\r\ndetonación de gas en cada\r\ndisparo.",
+      "ru": "Кематрисовая копьепушка. При\r\nкаждом выстреле воспламеняет\r\nгаз, тем самым увеличивая урон.",
+      "pl": "Lancopał z Chematrice'a, który\r\nprzy każdym strzale zapala gaz,\r\naby zwiększyć siłę uderzenia.",
+      "pt-BR": "Lançarma Quematrice que\r\nincendeia gás em cada disparo,\r\ncausando um impacto extra.",
+      "ko": "케마트리스 소재를 쓴 건랜스.\r\n포격 시에 충전된 가스를\r\n점화해서 위력을 끌어올린다.",
+      "zh-Hant": "以炎尾龍素材製作的銃槍。砲擊時會\r\n點燃填充其中的瓦斯，提升威力。",
+      "zh-Hans": "使用炎尾龙素材制成的铳枪。内部\r\n填充的气体会在炮击时被引燃，进\r\n而提升杀伤力。",
+      "ar": "بندقية رماح (كيماتريس) تشعل غازًا\r\nعند إطلاقها كل مرة لتضفي قوة إضافية\r\nعلى الضربة.",
+      "es-419": "Una lanza pistola de Quematrice\r\nque enciende gas con cada\r\ndescarga para sumar potencia\r\nadicional."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 10
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 19,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "names": {
+      "ja": "炎尾銃槍ケマドーラ",
+      "en": "Firetrail Quemador",
+      "fr": "Brûleur traînée de feu",
+      "it": "Bruciatore scia di fuoco",
+      "de": "Feuerschweif-Quemador",
+      "es": "Quemador de fuego",
+      "ru": "Испепеляющий пилумомёт",
+      "pl": "Ognioślad Chemador",
+      "pt-BR": "Quemador Trilhafogo",
+      "ko": "염미총창 케마도라",
+      "zh-Hant": "炎尾噴火銃槍",
+      "zh-Hans": "喷火炎尾铳枪",
+      "ar": "كيمادور الذيل الناري",
+      "es-419": "Quemador de fuego"
+    },
+    "descriptions": {
+      "ja": "改良されたケマスカニョンが放つ\r\n砲撃は業火の如し。目前の対象を\r\n灰に帰すまで静まることはない。",
+      "en": "An upgraded Quematrice\r\nCulebrina. Its hellfire\r\nabates only when there is\r\nno prey left to destroy.",
+      "fr": "Couleuvrine Quematrice\r\naméliorée. Ses flammes ne\r\ns'éteignent que lorsqu'il n'y\r\na plus de proie à détruire.",
+      "it": "Colubrina Quematrice potenziata.\r\nIl suo fuoco infernale si placa\r\nsolo quando non ci sono più\r\nprede da distruggere.",
+      "de": "Eine verbesserte Quema-\r\nCulebrina. Ihr Höllenfeuer\r\nerlischt erst, wenn sämtliche\r\nBeute kremiert wurde.",
+      "es": "Culebrina Quematrice mejorada.\r\nLa tormenta de fuego amaina\r\nsolo cuando todas las presas\r\nhan sido abatidas.",
+      "ru": "Улучшенный вариант «Кематрисовой\r\nкулеврины». Адское пламя гаснет,\r\nлишь когда от жертв не остаётся\r\nничего кроме пепла.",
+      "pl": "Ulepszona Armatrice. Jej ogień\r\npiekielny słabnie tylko wtedy,\r\ngdy nie pozostaje już żadna\r\nofiara do unicestwienia.",
+      "pt-BR": "Colubrina Quematrice melhorada.\r\nSeu fogo infernal só diminui\r\nquando não há mais presa\r\nsobrando para aniquilar.",
+      "ko": "개량된 케마스카뇬이 내뿜는\r\n포격은 마치 업화처럼 눈앞의\r\n대상을 잿더미로 만들 때까지\r\n멈추지 않는다.",
+      "zh-Hant": "炎尾巨砲經改良後，擊發的砲擊有如\r\n業火，在眼前的對手化為灰燼前不會\r\n止息。",
+      "zh-Hans": "改良后的炎尾炮的炮击宛如业火。\r\n它的咆哮将一直持续到面前的敌人\r\n全部化为灰烬。",
+      "ar": "نيزك (كيماتريس) مطوَّر.\r\nلا تخبو ناره المتأججة\r\nإلا بعد إبادة كل الفرائس.",
+      "es-419": "Una culebrina Quematrice\r\nmejorada. La tormenta de fuego\r\ndisminuye solo cuando no queda\r\nninguna presa por destruir."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 10
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 20,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "バーラバーストⅠ",
+      "en": "Balahara Exploder I",
+      "fr": "Obusier Balahara",
+      "it": "Esplosione Balahara I",
+      "de": "Balahara-Zünder I",
+      "es": "Balaexplosión I",
+      "ru": "Балахаровый взрыватель I",
+      "pl": "Detonator Balahary I",
+      "pt-BR": "Demolidora de Balahara I",
+      "ko": "발라버스트Ⅰ",
+      "zh-Hant": "沙海銃槍Ⅰ",
+      "zh-Hans": "沙海铳枪Ⅰ",
+      "ar": "مُفجر بالاهارا 1",
+      "es-419": "Máuser de Balahara I"
+    },
+    "descriptions": {
+      "ja": "バーラハーラの素材を用いた銃槍。\r\n火薬を詰め込むための弾倉には、\r\n耐熱と耐水の工夫が施されている。",
+      "en": "A Balahara gunlance with a\r\npowder magazine that is\r\nengineered to be heat and\r\nwater resistant.",
+      "fr": "Lancecanon Balahara doté\r\nd'un chargeur de poudre\r\nconçu pour résister à la\r\nchaleur et à l'eau.",
+      "it": "Una lancia-fucile di Balahara\r\ncon un serbatoio di polvere\r\nresistente a caldo e acqua.",
+      "de": "Eine Balahara-Gewehrlanze\r\nmit einem Pulvermagazin,\r\ndas hitzebeständig und\r\nwasserfest konstruiert ist.",
+      "es": "Lanza pistola de Balahara con un\r\ncargador de pólvora diseñado para\r\nresistir el calor y el agua.",
+      "ru": "Копьепушка из балахары\r\nс пороховой камерой, защищённой\r\nот жары и попадания влаги.",
+      "pl": "Lancopał Balahara z magazynkiem\r\nna proch, zaprojektowany tak,\r\nby był odporny na ciepło i wodę.",
+      "pt-BR": "Lançarma de Balahara com um\r\ncompartimento de pólvora\r\nprojetada para ser resistente\r\nao calor e à água.",
+      "ko": "발라하라 소재로 만든 건랜스.\r\n화약을 넣기 위한 탄창에는\r\n내열, 내수가 가능하도록\r\n고안되었다.",
+      "zh-Hant": "以沙海龍素材製作的銃槍。裝填火藥\r\n的彈匣施加了耐熱及防水處理。",
+      "zh-Hans": "使用沙海龙素材制成的铳枪。装填\r\n火药所用的弹仓上施加了耐热和防\r\n水的处理。",
+      "ar": "بندقية رماح (بالاهارا) مزودة بمخزن بارود\r\nمصمم ليكون مقاومًا للحرارة والماء.",
+      "es-419": "Una lanza pistola de Balahara\r\ncon un almacén de pólvora\r\ndiseñado para ser resistente al\r\ncalor y al agua."
+    },
+    "rarity": 2,
+    "attack_raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 5
+    },
+    "skills": {
+      "-181127504": 1
+    }
+  },
+  {
+    "game_id": 21,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "バーラバーストⅡ",
+      "en": "Balahara Exploder II",
+      "fr": "Obusier Balahara II",
+      "it": "Esplosione Balahara II",
+      "de": "Balahara-Zünder II",
+      "es": "Balaexplosión II",
+      "ru": "Балахаровый взрыватель II",
+      "pl": "Detonator Balahary II",
+      "pt-BR": "Demolidora de Balahara II",
+      "ko": "발라버스트Ⅱ",
+      "zh-Hant": "沙海銃槍Ⅱ",
+      "zh-Hans": "沙海铳枪Ⅱ",
+      "ar": "مُفجر بالاهارا 2",
+      "es-419": "Máuser de Balahara II"
+    },
+    "descriptions": {
+      "ja": "バーラハーラの素材を用いた銃槍。\r\n火薬を詰め込むための弾倉には、\r\n耐熱と耐水の工夫が施されている。",
+      "en": "A Balahara gunlance with a\r\npowder magazine that is\r\nengineered to be heat and\r\nwater resistant.",
+      "fr": "Lancecanon Balahara doté\r\nd'un chargeur de poudre\r\nconçu pour résister à la\r\nchaleur et à l'eau.",
+      "it": "Una lancia-fucile di Balahara\r\ncon un serbatoio di polvere\r\nresistente a caldo e acqua.",
+      "de": "Eine Balahara-Gewehrlanze\r\nmit einem Pulvermagazin,\r\ndas hitzebeständig und\r\nwasserfest konstruiert ist.",
+      "es": "Lanza pistola de Balahara con un\r\ncargador de pólvora diseñado para\r\nresistir el calor y el agua.",
+      "ru": "Копьепушка из балахары\r\nс пороховой камерой, защищённой\r\nот жары и попадания влаги.",
+      "pl": "Lancopał Balahara z magazynkiem\r\nna proch, zaprojektowany tak,\r\nby był odporny na ciepło i wodę.",
+      "pt-BR": "Lançarma de Balahara com um\r\ncompartimento de pólvora\r\nprojetada para ser resistente\r\nao calor e à água.",
+      "ko": "발라하라 소재로 만든 건랜스.\r\n화약을 넣기 위한 탄창에는\r\n내열, 내수가 가능하도록\r\n고안되었다.",
+      "zh-Hant": "以沙海龍素材製作的銃槍。裝填火藥\r\n的彈匣施加了耐熱及防水處理。",
+      "zh-Hans": "使用沙海龙素材制成的铳枪。装填\r\n火药所用的弹仓上施加了耐热和防\r\n水的处理。",
+      "ar": "بندقية رماح (بالاهارا) مزودة بمخزن بارود\r\nمصمم ليكون مقاومًا للحرارة والماء.",
+      "es-419": "Una lanza pistola de Balahara\r\ncon un almacén de pólvora\r\ndiseñado para ser resistente al\r\ncalor y al agua."
+    },
+    "rarity": 4,
+    "attack_raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 5
+    },
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 22,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "バーラバーストⅢ",
+      "en": "Balahara Exploder III",
+      "fr": "Obusier Balahara III",
+      "it": "Esplosione Balahara III",
+      "de": "Balahara-Zünder III",
+      "es": "Balaexplosión III",
+      "ru": "Балахаровый взрыватель III",
+      "pl": "Detonator Balahary III",
+      "pt-BR": "Demolidora de Balahara III",
+      "ko": "발라버스트Ⅲ",
+      "zh-Hant": "沙海銃槍Ⅲ",
+      "zh-Hans": "沙海铳枪Ⅲ",
+      "ar": "مُفجر بالاهارا 3",
+      "es-419": "Máuser de Balahara III"
+    },
+    "descriptions": {
+      "ja": "バーラハーラの素材を用いた銃槍。\r\n火薬を詰め込むための弾倉には、\r\n耐熱と耐水の工夫が施されている。",
+      "en": "A Balahara gunlance with a\r\npowder magazine that is\r\nengineered to be heat and\r\nwater resistant.",
+      "fr": "Lancecanon Balahara doté\r\nd'un chargeur de poudre\r\nconçu pour résister à la\r\nchaleur et à l'eau.",
+      "it": "Una lancia-fucile di Balahara\r\ncon un serbatoio di polvere\r\nresistente a caldo e acqua.",
+      "de": "Eine Balahara-Gewehrlanze\r\nmit einem Pulvermagazin,\r\ndas hitzebeständig und\r\nwasserfest konstruiert ist.",
+      "es": "Lanza pistola de Balahara con un\r\ncargador de pólvora diseñado para\r\nresistir el calor y el agua.",
+      "ru": "Копьепушка из балахары\r\nс пороховой камерой, защищённой\r\nот жары и попадания влаги.",
+      "pl": "Lancopał Balahara z magazynkiem\r\nna proch, zaprojektowany tak,\r\nby był odporny na ciepło i wodę.",
+      "pt-BR": "Lançarma de Balahara com um\r\ncompartimento de pólvora\r\nprojetada para ser resistente\r\nao calor e à água.",
+      "ko": "발라하라 소재로 만든 건랜스.\r\n화약을 넣기 위한 탄창에는\r\n내열, 내수가 가능하도록\r\n고안되었다.",
+      "zh-Hant": "以沙海龍素材製作的銃槍。裝填火藥\r\n的彈匣施加了耐熱及防水處理。",
+      "zh-Hans": "使用沙海龙素材制成的铳枪。装填\r\n火药所用的弹仓上施加了耐热和防\r\n水的处理。",
+      "ar": "بندقية رماح (بالاهارا) مزودة بمخزن بارود\r\nمصمم ليكون مقاومًا للحرارة والماء.",
+      "es-419": "Una lanza pistola de Balahara\r\ncon un almacén de pólvora\r\ndiseñado para ser resistente al\r\ncalor y al agua."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 23,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 5
+    },
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 23,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "バーラバーストⅣ",
+      "en": "Balahara Exploder IV",
+      "fr": "Obusier Balahara IV",
+      "it": "Esplosione Balahara IV",
+      "de": "Balahara-Zünder IV",
+      "es": "Balaexplosión IV",
+      "ru": "Балахаровый взрыватель IV",
+      "pl": "Detonator Balahary IV",
+      "pt-BR": "Demolidora de Balahara IV",
+      "ko": "발라버스트Ⅳ",
+      "zh-Hant": "沙海銃槍Ⅳ",
+      "zh-Hans": "沙海铳枪Ⅳ",
+      "ar": "مُفجر بالاهارا 4",
+      "es-419": "Máuser de Balahara IV"
+    },
+    "descriptions": {
+      "ja": "バーラハーラの素材を用いた銃槍。\r\n火薬を詰め込むための弾倉には、\r\n耐熱と耐水の工夫が施されている。",
+      "en": "A Balahara gunlance with a\r\npowder magazine that is\r\nengineered to be heat and\r\nwater resistant.",
+      "fr": "Lancecanon Balahara doté\r\nd'un chargeur de poudre\r\nconçu pour résister à la\r\nchaleur et à l'eau.",
+      "it": "Una lancia-fucile di Balahara\r\ncon un serbatoio di polvere\r\nresistente a caldo e acqua.",
+      "de": "Eine Balahara-Gewehrlanze\r\nmit einem Pulvermagazin,\r\ndas hitzebeständig und\r\nwasserfest konstruiert ist.",
+      "es": "Lanza pistola de Balahara con un\r\ncargador de pólvora diseñado para\r\nresistir el calor y el agua.",
+      "ru": "Копьепушка из балахары\r\nс пороховой камерой, защищённой\r\nот жары и попадания влаги.",
+      "pl": "Lancopał Balahara z magazynkiem\r\nna proch, zaprojektowany tak,\r\nby był odporny na ciepło i wodę.",
+      "pt-BR": "Lançarma de Balahara com um\r\ncompartimento de pólvora\r\nprojetada para ser resistente\r\nao calor e à água.",
+      "ko": "발라하라 소재로 만든 건랜스.\r\n화약을 넣기 위한 탄창에는\r\n내열, 내수가 가능하도록\r\n고안되었다.",
+      "zh-Hant": "以沙海龍素材製作的銃槍。裝填火藥\r\n的彈匣施加了耐熱及防水處理。",
+      "zh-Hans": "使用沙海龙素材制成的铳枪。装填\r\n火药所用的弹仓上施加了耐热和防\r\n水的处理。",
+      "ar": "بندقية رماح (بالاهارا) مزودة بمخزن بارود\r\nمصمم ليكون مقاومًا للحرارة والماء.",
+      "es-419": "Una lanza pistola de Balahara\r\ncon un almacén de pólvora\r\ndiseñado para ser resistente al\r\ncalor y al agua."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 27,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 5
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 24,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "沙海銃槍ヴィスキャノ",
+      "en": "Sandsea Visponan",
+      "fr": "Visponan des sables",
+      "it": "Mare di sabbia Visponan",
+      "de": "Sandsee-Visponan",
+      "es": "Visponan de las dunas",
+      "ru": "Песчаноморская бомбарда",
+      "pl": "Visponan Morza Piasku",
+      "pt-BR": "Visponan Mar d'Areia",
+      "ko": "사해총창 비스캐노",
+      "zh-Hant": "沙海銃槍爆發加農砲",
+      "zh-Hans": "崩炮沙海铳枪",
+      "ar": "فيسبونان بحر الرمال",
+      "es-419": "Visponan Mararena"
+    },
+    "descriptions": {
+      "ja": "山をも崩す強化版バーラバースト。\r\n放たれた砲撃は、巨大な岩石を流れ\r\nるほど細かい砂に変えてしまう。",
+      "en": "An upgraded Balahara Exploder.\r\nCapable of reducing mountains\r\nto sand, flowing like water.",
+      "fr": "Obusier Balahara amélioré\r\npouvant réduire les montagnes en\r\nsable s'écoulant comme de l'eau.",
+      "it": "Un'Esplosione Balahara\r\npotenziata, capace di ridurre\r\nuna montagna in granelli\r\ndi sabbia microscopici.",
+      "de": "Ein verbesserter Balahara-\r\nZünder. Kann Berge in Sand\r\nverwandeln, der wie Wasser\r\nfließt.",
+      "es": "Balaexplosión mejorado.\r\nPuede reducir las montañas\r\na cascadas de arena.",
+      "ru": "Улучшенный вариант «Балахарового\r\nвзрывателя». Может обратить горы\r\nв песок, который ещё долго будет\r\nосыпаться подобно потокам воды.",
+      "pl": "Ulepszony detonator z Balahary,\r\nktóry potrafi zamienić góry\r\nw piasek płynący niczym woda.",
+      "pt-BR": "Demolidora de Balahara\r\nmelhorada, capaz de reduzir\r\nmontanhas a areia que flui\r\ncomo água.",
+      "ko": "산도 무너뜨릴 만한 강화판\r\n발라버스트. 포격 위력은\r\n거대한 암석이 흐르는 모래로\r\n바뀔 정도다.",
+      "zh-Hant": "能打穿山的強化版沙海銃槍。砲擊\r\n能把巨大的岩石化為流動的細沙。",
+      "zh-Hans": "连山都能崩碎的强化版沙海铳枪。\r\n其释放的炮击能将巨大的岩石粉碎\r\n成流动的细沙。",
+      "ar": "مُفجر (بالاهارا) مطوَّر،\r\nبإمكانه نسف الجبال إلى رمال\r\nتتدفق كالماء.",
+      "es-419": "Un Máuser de Balahara mejorado,\r\ncapaz de hacer que una montaña\r\nse reduzca a arena que fluye\r\ncomo agua."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 23,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 5
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 25,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "ウズ・ファルマタⅠ",
+      "en": "Uth Falarmata I",
+      "fr": "Uth Falarmata",
+      "it": "Uth Falarmata I",
+      "de": "Uth-Falarmata I",
+      "es": "Uth Falarmata I",
+      "ru": "Утдуновая армата волн I",
+      "pl": "Falarmata Utha I",
+      "pt-BR": "Uth Falarmata I",
+      "ko": "우드 팔르마타Ⅰ",
+      "zh-Hant": "波衣銃槍Ⅰ",
+      "zh-Hans": "波涛铳枪Ⅰ",
+      "ar": "فالارماتا أوث 1",
+      "es-419": "Uth Falarmata I"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの優雅なヴェールを\r\n帯びた銃槍。見た目こそ美しいが、\r\nその内には強大な力を秘める。",
+      "en": "An Uth Duna gunlance wreathed\r\nin its elegant veil. Captivating\r\nbeauty belies fearsome power.",
+      "fr": "Lancecanon Uth Duna recouvert\r\nde son voile élégant. Sa beauté\r\ncaptivante cache une puissance\r\nredoutable.",
+      "it": "Lancia-fucile Uth Duna avvolta\r\ndal suo velo elegante. La sua\r\nincantevole bellezza cela\r\nuno spaventoso potere.",
+      "de": "Eine elegant verschleierte\r\nUth-Duna-Gewehrlanze,\r\nderen bezauberndes Äußeres\r\nfurchtbare Feuerkraft verbirgt.",
+      "es": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador.",
+      "ru": "Утдуновая копьепушка, окутанная\r\nизящной вуалью. За внешней\r\nкрасотой скрывается поистине\r\nужасающая мощь.",
+      "pl": "Lancopał z Uth Duny owinięty \r\nwytwornym welonem. Urzekające\r\npiękno skrywa przerażającą moc.",
+      "pt-BR": "Lançarma de Uth Duna, envolta\r\nem um elegante véu. Sua beleza\r\ncativante esconde um poder\r\naterrorizante.",
+      "ko": "우드 투나의 우아한 베일을\r\n두른 건랜스. 아름다움 속에\r\n강한 힘을 감추고 있다.",
+      "zh-Hant": "有著波衣龍優雅液膜的銃槍。不但\r\n外觀美麗，其中也蘊藏著強大力量。",
+      "zh-Hans": "有着波衣龙优雅液纱的铳枪。不但\r\n外观美丽，它蕴含的强大力量同样\r\n不容小觑。",
+      "ar": "بندقية رماح (أوث دونا) مكللة بوشاحها الأنيق.\r\nيخفي جمالها الأخاذ قوة مرعبة.",
+      "es-419": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador."
+    },
+    "rarity": 3,
+    "attack_raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 9
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 26,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "ウズ・ファルマタⅡ",
+      "en": "Uth Falarmata II",
+      "fr": "Uth Falarmata II",
+      "it": "Uth Falarmata II",
+      "de": "Uth-Falarmata II",
+      "es": "Uth Falarmata II",
+      "ru": "Утдуновая армата волн II",
+      "pl": "Falarmata Utha II",
+      "pt-BR": "Uth Falarmata II",
+      "ko": "우드 팔르마타Ⅱ",
+      "zh-Hant": "波衣銃槍Ⅱ",
+      "zh-Hans": "波涛铳枪Ⅱ",
+      "ar": "فالارماتا أوث 2",
+      "es-419": "Uth Falarmata II"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの優雅なヴェールを\r\n帯びた銃槍。見た目こそ美しいが、\r\nその内には強大な力を秘める。",
+      "en": "An Uth Duna gunlance wreathed\r\nin its elegant veil. Captivating\r\nbeauty belies fearsome power.",
+      "fr": "Lancecanon Uth Duna recouvert\r\nde son voile élégant. Sa beauté\r\ncaptivante cache une puissance\r\nredoutable.",
+      "it": "Lancia-fucile Uth Duna avvolta\r\ndal suo velo elegante. La sua\r\nincantevole bellezza cela\r\nuno spaventoso potere.",
+      "de": "Eine elegant verschleierte\r\nUth-Duna-Gewehrlanze,\r\nderen bezauberndes Äußeres\r\nfurchtbare Feuerkraft verbirgt.",
+      "es": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador.",
+      "ru": "Утдуновая копьепушка, окутанная\r\nизящной вуалью. За внешней\r\nкрасотой скрывается поистине\r\nужасающая мощь.",
+      "pl": "Lancopał z Uth Duny owinięty \r\nwytwornym welonem. Urzekające\r\npiękno skrywa przerażającą moc.",
+      "pt-BR": "Lançarma de Uth Duna, envolta\r\nem um elegante véu. Sua beleza\r\ncativante esconde um poder\r\naterrorizante.",
+      "ko": "우드 투나의 우아한 베일을\r\n두른 건랜스. 아름다움 속에\r\n강한 힘을 감추고 있다.",
+      "zh-Hant": "有著波衣龍優雅液膜的銃槍。不但\r\n外觀美麗，其中也蘊藏著強大力量。",
+      "zh-Hans": "有着波衣龙优雅液纱的铳枪。不但\r\n外观美丽，它蕴含的强大力量同样\r\n不容小觑。",
+      "ar": "بندقية رماح (أوث دونا) مكللة بوشاحها الأنيق.\r\nيخفي جمالها الأخاذ قوة مرعبة.",
+      "es-419": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador."
+    },
+    "rarity": 5,
+    "attack_raw": 200,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 31,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 9
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 27,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "ウズ・ファルマタⅢ",
+      "en": "Uth Falarmata III",
+      "fr": "Uth Falarmata III",
+      "it": "Uth Falarmata III",
+      "de": "Uth-Falarmata III",
+      "es": "Uth Falarmata III",
+      "ru": "Утдуновая армата волн III",
+      "pl": "Falarmata Utha III",
+      "pt-BR": "Uth Falarmata III",
+      "ko": "우드 팔르마타Ⅲ",
+      "zh-Hant": "波衣銃槍Ⅲ",
+      "zh-Hans": "波涛铳枪Ⅲ",
+      "ar": "فالارماتا أوث 3",
+      "es-419": "Uth Falarmata III"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの優雅なヴェールを\r\n帯びた銃槍。見た目こそ美しいが、\r\nその内には強大な力を秘める。",
+      "en": "An Uth Duna gunlance wreathed\r\nin its elegant veil. Captivating\r\nbeauty belies fearsome power.",
+      "fr": "Lancecanon Uth Duna recouvert\r\nde son voile élégant. Sa beauté\r\ncaptivante cache une puissance\r\nredoutable.",
+      "it": "Lancia-fucile Uth Duna avvolta\r\ndal suo velo elegante. La sua\r\nincantevole bellezza cela\r\nuno spaventoso potere.",
+      "de": "Eine elegant verschleierte\r\nUth-Duna-Gewehrlanze,\r\nderen bezauberndes Äußeres\r\nfurchtbare Feuerkraft verbirgt.",
+      "es": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador.",
+      "ru": "Утдуновая копьепушка, окутанная\r\nизящной вуалью. За внешней\r\nкрасотой скрывается поистине\r\nужасающая мощь.",
+      "pl": "Lancopał z Uth Duny owinięty \r\nwytwornym welonem. Urzekające\r\npiękno skrywa przerażającą moc.",
+      "pt-BR": "Lançarma de Uth Duna, envolta\r\nem um elegante véu. Sua beleza\r\ncativante esconde um poder\r\naterrorizante.",
+      "ko": "우드 투나의 우아한 베일을\r\n두른 건랜스. 아름다움 속에\r\n강한 힘을 감추고 있다.",
+      "zh-Hant": "有著波衣龍優雅液膜的銃槍。不但\r\n外觀美麗，其中也蘊藏著強大力量。",
+      "zh-Hans": "有着波衣龙优雅液纱的铳枪。不但\r\n外观美丽，它蕴含的强大力量同样\r\n不容小觑。",
+      "ar": "بندقية رماح (أوث دونا) مكللة بوشاحها الأنيق.\r\nيخفي جمالها الأخاذ قوة مرعبة.",
+      "es-419": "Lanza pistola de Uth Duna\r\nenvuelta en su velo elegante.\r\nSu cautivadora belleza oculta\r\nun poder aterrador."
+    },
+    "rarity": 7,
+    "attack_raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 37,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 9
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 28,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "波濤銃槍ファルマタ",
+      "en": "Falarmata-of-the-Waves",
+      "fr": "Falarmata-des-vagues",
+      "it": "Falarmata delle onde",
+      "de": "Falarmata der Wellen",
+      "es": "Falarmata de las mareas",
+      "ru": "Армата могучих волн",
+      "pl": "Falarmata Fal",
+      "pt-BR": "Falarmata das Ondas",
+      "ko": "파도총창 팔르마타",
+      "zh-Hant": "狂瀾波濤銃槍",
+      "zh-Hans": "狂澜波涛铳枪",
+      "ar": "فالارماتا الأمواج",
+      "es-419": "Falarmata de las olas"
+    },
+    "descriptions": {
+      "ja": "ウズ・ファルマタの強化版。\r\n内部にせき止めた力の奔流が、\r\n洪水のようにあふれ出す。",
+      "en": "An upgraded Uth Falarmata. The\r\ntorrents trapped within await\r\ntheir unleashing as a terrible\r\nflood.",
+      "fr": "Uth Falarmata amélioré.\r\nLes torrents qu'il contient\r\nattendent de se déverser en\r\nun terrible déluge.",
+      "it": "Uth Falarmata potenziata.\r\nI torrenti intrappolati al suo\r\ninterno attendono di essere\r\nliberati in una terribile ondata.",
+      "de": "Eine verbesserte Uth Falarmata.\r\nDie darin eingeschlossenen\r\nSturzbäche warten auf ihre Ent-\r\nfesselung als schreckliche Flut.",
+      "es": "Una Uth Falarmata mejorada.\r\nLas corrientes atrapadas en su\r\ninterior esperan ser liberadas\r\ncomo una inundación aterradora.",
+      "ru": "Улучшенный вариант «Утдуновой\r\nарматы волн». Пойманные внутри\r\nтечения готовы вырваться наружу,\r\nчтобы устроить ужасающий потоп.",
+      "pl": "Ulepszona falarmata Utha.\r\nUwięzione w niej strumienie\r\nczekają na uwolnienie w postaci\r\nstraszliwej powodzi.",
+      "pt-BR": "Uth Falarmata melhorada.\r\nAs correntes internas esperam\r\npara serem liberadas como uma\r\ndevastadora inundação.",
+      "ko": "우드 팔르마타의 강화판.\r\n내부에 묶여 있던 힘의 격류가\r\n홍수처럼 쏟아져 나온다.",
+      "zh-Hant": "強化版波衣銃槍。積蓄於內部的力量\r\n奔流將如洪水般一湧而出。",
+      "zh-Hans": "波涛铳枪的强化版。积蓄于内部的\r\n力量奔流，宛如洪水一般满溢而出。",
+      "ar": "بندقية (فالارماتا أوث) مطوَّرة.\r\nالسيل الحبيس داخلها ينتظر انطلاقه \r\nفي صورة فيضان كاسح.",
+      "es-419": "Una Uth Falarmata mejorada.\r\nLos torrentes atrapados en su\r\ninterior esperan ser liberados\r\ncomo una terrible inundación."
+    },
+    "rarity": 8,
+    "attack_raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 27,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 9
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 29,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "シェルガンバードⅠ",
+      "en": "Shell Gunberd I",
+      "fr": "Avicanon",
+      "it": "Fucilabarda da fuoco I",
+      "de": "Kanonen-Hellebarde I",
+      "es": "Pistolabarda coraza I",
+      "ru": "Разящая нерспушка I",
+      "pl": "Łuskowy halardopał I",
+      "pt-BR": "Armabarda Morteira I",
+      "ko": "셸건버드Ⅰ",
+      "zh-Hant": "砲彈銃槍Ⅰ",
+      "zh-Hans": "甲壳铳枪Ⅰ",
+      "ar": "بندقية رمح صدفية 1",
+      "es-419": "Pistolabarda acorazada I"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラ素材を曲線的に重ねて\r\n強度と軽量化を両立した銃槍。\r\n自然に手になじみ、疲れない。",
+      "en": "A Nerscylla gunlance that\r\nlayers arcs of material to\r\nachieve lightness, strength,\r\nand a comfortable grip.",
+      "fr": "Lancecanon Nerscylla. Ses\r\ncouches de matériaux offrent\r\nlégèreté, puissance et confort\r\nd'utilisation.",
+      "it": "Lancia-fucile di Nerscylla i cui\r\nmateriali sono disposti a\r\nstrati: leggero, resistente e\r\nfacile da impugnare.",
+      "de": "Eine Nerscylla-Gewehrlanze mit\r\ngeschichtetem bogenförmigen\r\nMaterial für Leichtigkeit, Stärke\r\nund eine gute Handhabung.",
+      "es": "Lanza pistola de Nerscylla\r\ncon capas y capas de material\r\nque le confieren ligereza,\r\nfuerza y muy buen agarre.",
+      "ru": "Копьепушка из материалов\r\nс побеждённой нерскиллы.\r\nМногослойная конструкция делает\r\nеё лёгкой, мощной и удобной.",
+      "pl": "Lancopał z Nerscylli, który\r\nposiada warstwy materiałów\r\nzapewniające lekkość, siłę\r\ni wygodny chwyt.",
+      "pt-BR": "Lançarma feita de Nerscylla\r\ncom camadas de material\r\npara atribuir leveza, força e\r\num manuseio confortável.",
+      "ko": "네르스큐라의 소재를 곡선으로\r\n쌓은 견고하고 가벼운 건랜스.\r\n자연스레 손에 착 감긴다.",
+      "zh-Hant": "把影蜘蛛素材以弧形重疊製作而成\r\n的銃槍。既強韌又輕盈，使用起來\r\n十分順手，毫無負擔。",
+      "zh-Hans": "将影蜘蛛的素材弯曲重叠，得以兼\r\n顾强度以及轻量化。能轻松上手，\r\n不会感到疲累。",
+      "ar": "بندقية رماح (نيرسكيلا) تتكون من طبقات\r\nمن المواد التي تمنح الخفة\r\nوالقوة والقبضة المريحة.",
+      "es-419": "Lanzadora de Nerscylla con\r\ncapas de material que le\r\nconfieren ligereza, fuerza y\r\ncómodo agarre."
+    },
+    "rarity": 3,
+    "attack_raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 8
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 30,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "シェルガンバードⅡ",
+      "en": "Shell Gunberd II",
+      "fr": "Avicanon II",
+      "it": "Fucilabarda da fuoco II",
+      "de": "Kanonen-Hellebarde II",
+      "es": "Pistolabarda coraza II",
+      "ru": "Разящая нерспушка II",
+      "pl": "Łuskowy halardopał II",
+      "pt-BR": "Armabarda Morteira II",
+      "ko": "셸건버드Ⅱ",
+      "zh-Hant": "砲彈銃槍Ⅱ",
+      "zh-Hans": "甲壳铳枪Ⅱ",
+      "ar": "بندقية رمح صدفية 2",
+      "es-419": "Pistolabarda acorazada II"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラ素材を曲線的に重ねて\r\n強度と軽量化を両立した銃槍。\r\n自然に手になじみ、疲れない。",
+      "en": "A Nerscylla gunlance that\r\nlayers arcs of material to\r\nachieve lightness, strength,\r\nand a comfortable grip.",
+      "fr": "Lancecanon Nerscylla. Ses\r\ncouches de matériaux offrent\r\nlégèreté, puissance et confort\r\nd'utilisation.",
+      "it": "Lancia-fucile di Nerscylla i cui\r\nmateriali sono disposti a\r\nstrati: leggero, resistente e\r\nfacile da impugnare.",
+      "de": "Eine Nerscylla-Gewehrlanze mit\r\ngeschichtetem bogenförmigen\r\nMaterial für Leichtigkeit, Stärke\r\nund eine gute Handhabung.",
+      "es": "Lanza pistola de Nerscylla\r\ncon capas y capas de material\r\nque le confieren ligereza,\r\nfuerza y muy buen agarre.",
+      "ru": "Копьепушка из материалов\r\nс побеждённой нерскиллы.\r\nМногослойная конструкция делает\r\nеё лёгкой, мощной и удобной.",
+      "pl": "Lancopał z Nerscylli, który\r\nposiada warstwy materiałów\r\nzapewniające lekkość, siłę\r\ni wygodny chwyt.",
+      "pt-BR": "Lançarma feita de Nerscylla\r\ncom camadas de material\r\npara atribuir leveza, força e\r\num manuseio confortável.",
+      "ko": "네르스큐라의 소재를 곡선으로\r\n쌓은 견고하고 가벼운 건랜스.\r\n자연스레 손에 착 감긴다.",
+      "zh-Hant": "把影蜘蛛素材以弧形重疊製作而成\r\n的銃槍。既強韌又輕盈，使用起來\r\n十分順手，毫無負擔。",
+      "zh-Hans": "将影蜘蛛的素材弯曲重叠，得以兼\r\n顾强度以及轻量化。能轻松上手，\r\n不会感到疲累。",
+      "ar": "بندقية رماح (نيرسكيلا) تتكون من طبقات\r\nمن المواد التي تمنح الخفة\r\nوالقوة والقبضة المريحة.",
+      "es-419": "Lanzadora de Nerscylla con\r\ncapas de material que le\r\nconfieren ligereza, fuerza y\r\ncómodo agarre."
+    },
+    "rarity": 5,
+    "attack_raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 8
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 31,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "シェルガンバードⅢ",
+      "en": "Shell Gunberd III",
+      "fr": "Avicanon III",
+      "it": "Fucilabarda da fuoco III",
+      "de": "Kanonen-Hellebarde III",
+      "es": "Pistolabarda coraza III",
+      "ru": "Разящая нерспушка III",
+      "pl": "Łuskowy halardopał III",
+      "pt-BR": "Armabarda Morteira III",
+      "ko": "셸건버드Ⅲ",
+      "zh-Hant": "砲彈銃槍Ⅲ",
+      "zh-Hans": "甲壳铳枪Ⅲ",
+      "ar": "بندقية رمح صدفية 3",
+      "es-419": "Pistolabarda acorazada III"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラ素材を曲線的に重ねて\r\n強度と軽量化を両立した銃槍。\r\n自然に手になじみ、疲れない。",
+      "en": "A Nerscylla gunlance that\r\nlayers arcs of material to\r\nachieve lightness, strength,\r\nand a comfortable grip.",
+      "fr": "Lancecanon Nerscylla. Ses\r\ncouches de matériaux offrent\r\nlégèreté, puissance et confort\r\nd'utilisation.",
+      "it": "Lancia-fucile di Nerscylla i cui\r\nmateriali sono disposti a\r\nstrati: leggero, resistente e\r\nfacile da impugnare.",
+      "de": "Eine Nerscylla-Gewehrlanze mit\r\ngeschichtetem bogenförmigen\r\nMaterial für Leichtigkeit, Stärke\r\nund eine gute Handhabung.",
+      "es": "Lanza pistola de Nerscylla\r\ncon capas y capas de material\r\nque le confieren ligereza,\r\nfuerza y muy buen agarre.",
+      "ru": "Копьепушка из материалов\r\nс побеждённой нерскиллы.\r\nМногослойная конструкция делает\r\nеё лёгкой, мощной и удобной.",
+      "pl": "Lancopał z Nerscylli, który\r\nposiada warstwy materiałów\r\nzapewniające lekkość, siłę\r\ni wygodny chwyt.",
+      "pt-BR": "Lançarma feita de Nerscylla\r\ncom camadas de material\r\npara atribuir leveza, força e\r\num manuseio confortável.",
+      "ko": "네르스큐라의 소재를 곡선으로\r\n쌓은 견고하고 가벼운 건랜스.\r\n자연스레 손에 착 감긴다.",
+      "zh-Hant": "把影蜘蛛素材以弧形重疊製作而成\r\n的銃槍。既強韌又輕盈，使用起來\r\n十分順手，毫無負擔。",
+      "zh-Hans": "将影蜘蛛的素材弯曲重叠，得以兼\r\n顾强度以及轻量化。能轻松上手，\r\n不会感到疲累。",
+      "ar": "بندقية رماح (نيرسكيلا) تتكون من طبقات\r\nمن المواد التي تمنح الخفة\r\nوالقوة والقبضة المريحة.",
+      "es-419": "Lanzadora de Nerscylla con\r\ncapas de material que le\r\nconfieren ligereza, fuerza y\r\ncómodo agarre."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 27,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 8
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 32,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "ソリッドガンバード",
+      "en": "Solid Gunberd",
+      "fr": "Avicanon robuste",
+      "it": "Fucilabarda solida",
+      "de": "Feste Kanonen-Hellebarde",
+      "es": "Pistolabarda blindada",
+      "ru": "Прочная нерспушка",
+      "pl": "Twardy halardopał",
+      "pt-BR": "Armabarda Sólida",
+      "ko": "솔리드건버드",
+      "zh-Hant": "堅實砲彈銃槍",
+      "zh-Hans": "刚柔甲壳铳枪",
+      "ar": "بندقية الرمح الصلبة",
+      "es-419": "Pistolabarda blindada"
+    },
+    "descriptions": {
+      "ja": "シェルガンバードの強化形態。\r\n一見華奢だが、使えば≪柔よく剛を\r\n制す≫を実感できる武器。",
+      "en": "An upgraded Shell Gunberd.\r\nDelicate it may look, but\r\nits lack of rigidity is\r\nwhat makes it strong.",
+      "fr": "Avicanon amélioré. Il a beau\r\navoir l'air fragile, sa faible\r\nrigidité le rend puissant.",
+      "it": "Forma potenziata della\r\nfucilabarda da fuoco.\r\nSembra fragile, ma la mancanza\r\ndi rigidità è il suo pregio.",
+      "de": "Eine verbesserte Kanonen-\r\nHellebarde. Sie sieht zerbrech-\r\nlich aus, aber die fehlende\r\nStarre ist ihre Stärke.",
+      "es": "Pistolabarda coraza mejorada.\r\nPuede parecer frágil, pero en su\r\nfalta de rigidez radica su\r\nfuerza.",
+      "ru": "Улучшенная «Разящая нерспушка».\r\nКажется хрупкой, но именно\r\nотсутствие жёсткости делает её\r\nтакой мощной.",
+      "pl": "Ulepszony łuskowy halardopał. \r\nWygląda delikatnie, ale jego\r\nelastyczność sprawia, że jest\r\nbardzo mocny.",
+      "pt-BR": "Armabarda Morteira melhorada.\r\nParece delicada, mas é sua falta\r\nde rigidez que a torna forte.",
+      "ko": "셸건버드의 강화형.\r\n연약하게 생겼지만 써 보면\r\n'유능제강'을 실감하게 된다.",
+      "zh-Hant": "砲彈銃槍的強化形態。乍看會覺得\r\n華而不實，但用過之後就能體會\r\n何謂「以柔克剛」。",
+      "zh-Hans": "甲壳铳枪的强化形态。乍看会觉得\r\n过于纤弱，使用时可以体会到“以柔\r\n克刚”之感。",
+      "ar": "بندقية الرمح الصدفية المطوَّرة.\r\nقد تبدو هشة، ولكن عدم صلابتها\r\nهو سر قوتها.",
+      "es-419": "Pistolabarda acorazada\r\nmejorada. Puede parecer frágil,\r\npero en su falta de rigidez\r\nradica su fuerza."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "sleep",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 8
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 33,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "赫炎の銃槍Ⅰ",
+      "en": "Ajara Gunpike I",
+      "fr": "Piquestolet Ajara",
+      "it": "Fucile picca Ajara I",
+      "de": "Ajara-Feuerspitze I",
+      "es": "Pica pistola Ajara I",
+      "ru": "Ажаракановая пикопушка I",
+      "pl": "Pikopał Ajary I",
+      "pt-BR": "Espinharma Ajara I",
+      "ko": "혁염의 총창Ⅰ",
+      "zh-Hant": "赫炎銃槍Ⅰ",
+      "zh-Hans": "赫炎铳枪Ⅰ",
+      "ar": "بندقية أشواك أجاراا 1",
+      "es-419": "Pica pistola Ajara I"
+    },
+    "descriptions": {
+      "ja": "アジャラカンの力を秘めし銃槍。\r\n高出力で噴出される炎熱をもって\r\n眼前の障害を瞬時に払い除ける。",
+      "en": "An Ajarakan gunlance that\r\nproduces high-powered blasts\r\nof heat to instantly remove\r\nall in its path.",
+      "fr": "Lancecanon Ajarakan qui produit\r\nde puissantes déflagrations pour\r\néliminer tout ce qui se trouve\r\nsur son passage.",
+      "it": "Lancia-fucile Ajarakan che\r\nproduce colpi di calore per\r\nrimuovere all'istante ogni cosa\r\nsul suo cammino.",
+      "de": "Eine Ajarakan-Gewehrlanze,\r\nderen mächtige Hitzestöße\r\nalles in ihrem Weg augen-\r\nblicklich vernichten.",
+      "es": "Lanza pistola Ajarakan que\r\nelimina al instante con potentes\r\nexplosiones de calor a cualquiera\r\nque se cruce en su camino.",
+      "ru": "Ажаракановая копьепушка,\r\nкоторая испускает мощные волны\r\nжара, мгновенно сметающие всё\r\nна своём пути.",
+      "pl": "Ajarakański lancopał, który\r\nwytwarza potężne podmuchy ciepła\r\nw celu natychmiastowego usunięcia\r\nwszystkiego, co napotka.",
+      "pt-BR": "Lançarma de Ajarakan que\r\nproduz explosões de calor de\r\nalta potência para eliminar\r\ntudo em seu caminho.",
+      "ko": "아자라칸의 힘을 지닌 건랜스.\r\n힘차게 분출되는 열로 눈앞의\r\n장애물을 순식간에 제거한다.",
+      "zh-Hant": "蘊藏赫猿獸之力的銃槍。高輸出下\r\n噴出的高熱火焰能將眼前障礙瞬間\r\n消除。",
+      "zh-Hans": "蕴含赫猿兽之力的铳枪。高输出下\r\n喷射出的灼热火焰能将眼前的一切\r\n障碍都瞬间清除。",
+      "ar": "بندقية رماح (أجاراكان) تطلق\r\nانفجارات حرارية عالية القوة\r\nلتزيل فورًا كل ما في طريقها.",
+      "es-419": "Una lanza pistola Ajarakan que\r\nprovoca potentes explosiones de\r\ncalor que eliminan todo lo que\r\nesté en su camino al instante."
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 1,
+      "802725120": 1
+    }
+  },
+  {
+    "game_id": 34,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "赫炎の銃槍Ⅱ",
+      "en": "Ajara Gunpike II",
+      "fr": "Piquestolet Ajara II",
+      "it": "Fucile picca Ajara II",
+      "de": "Ajara-Feuerspitze II",
+      "es": "Pica pistola Ajara II",
+      "ru": "Ажаракановая пикопушка II",
+      "pl": "Pikopał Ajary II",
+      "pt-BR": "Espinharma Ajara II",
+      "ko": "혁염의 총창Ⅱ",
+      "zh-Hant": "赫炎銃槍Ⅱ",
+      "zh-Hans": "赫炎铳枪Ⅱ",
+      "ar": "بندقية أشواك أجاراا 2",
+      "es-419": "Pica pistola Ajara II"
+    },
+    "descriptions": {
+      "ja": "アジャラカンの力を秘めし銃槍。\r\n高出力で噴出される炎熱をもって\r\n眼前の障害を瞬時に払い除ける。",
+      "en": "An Ajarakan gunlance that\r\nproduces high-powered blasts\r\nof heat to instantly remove\r\nall in its path.",
+      "fr": "Lancecanon Ajarakan qui produit\r\nde puissantes déflagrations pour\r\néliminer tout ce qui se trouve\r\nsur son passage.",
+      "it": "Lancia-fucile Ajarakan che\r\nproduce colpi di calore per\r\nrimuovere all'istante ogni cosa\r\nsul suo cammino.",
+      "de": "Eine Ajarakan-Gewehrlanze,\r\nderen mächtige Hitzestöße\r\nalles in ihrem Weg augen-\r\nblicklich vernichten.",
+      "es": "Lanza pistola Ajarakan que\r\nelimina al instante con potentes\r\nexplosiones de calor a cualquiera\r\nque se cruce en su camino.",
+      "ru": "Ажаракановая копьепушка,\r\nкоторая испускает мощные волны\r\nжара, мгновенно сметающие всё\r\nна своём пути.",
+      "pl": "Ajarakański lancopał, który\r\nwytwarza potężne podmuchy ciepła\r\nw celu natychmiastowego usunięcia\r\nwszystkiego, co napotka.",
+      "pt-BR": "Lançarma de Ajarakan que\r\nproduz explosões de calor de\r\nalta potência para eliminar\r\ntudo em seu caminho.",
+      "ko": "아자라칸의 힘을 지닌 건랜스.\r\n힘차게 분출되는 열로 눈앞의\r\n장애물을 순식간에 제거한다.",
+      "zh-Hant": "蘊藏赫猿獸之力的銃槍。高輸出下\r\n噴出的高熱火焰能將眼前障礙瞬間\r\n消除。",
+      "zh-Hans": "蕴含赫猿兽之力的铳枪。高输出下\r\n喷射出的灼热火焰能将眼前的一切\r\n障碍都瞬间清除。",
+      "ar": "بندقية رماح (أجاراكان) تطلق\r\nانفجارات حرارية عالية القوة\r\nلتزيل فورًا كل ما في طريقها.",
+      "es-419": "Una lanza pistola Ajarakan que\r\nprovoca potentes explosiones de\r\ncalor que eliminan todo lo que\r\nesté en su camino al instante."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "game_id": 35,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 2,
+    "names": {
+      "ja": "赫炎銃槍カーリカ",
+      "en": "Ajara-Kalika",
+      "fr": "Ajara-Kalika",
+      "it": "Ajara-Kalika",
+      "de": "Ajara-Kalika",
+      "es": "Ajara-Kalika",
+      "ru": "Ажаракановый Калика",
+      "pl": "Ajara-Kalika",
+      "pt-BR": "Ajara-Kalika",
+      "ko": "혁염총창 가리가",
+      "zh-Hant": "赫炎銃槍迦理迦",
+      "zh-Hans": "赫炎铳枪·迦理迦",
+      "ar": "كاليكا أجاراا",
+      "es-419": "Ajara-Kalika"
+    },
+    "descriptions": {
+      "ja": "真名を授かった赫炎の銃槍。\r\n意に背く者を無慈悲に葬る。\r\nその権利を与えられた傲慢な武器。",
+      "en": "An Ajara Gunpike by its true\r\nname. Arrogantly, and with an\r\nabsence of mercy, it eradicates\r\nall defiers.",
+      "fr": "Véritable nom du Piquestolet\r\nAjara. Avec arrogance et sans\r\naucune pitié, il éradique tous\r\nceux qui le défient.",
+      "it": "Fucile con picca Ajara fedele\r\nal suo nome. Con arroganza\r\ne senza pietà estirpa\r\nogni resistenza.",
+      "de": "Die wahre Form der Ajara-\r\nFeuerspitze. Arrogant und\r\ngnadenlos vernichtet sie ihre\r\nVerächter.",
+      "es": "Pica pistola Ajara que hace honor\r\na su nombre. Arrogante y sin\r\npiedad, erradica a todo el que la\r\ndesafíe.",
+      "ru": "Истинная форма «Ажаракановой\r\nпикопушки». Надменно и безжалостно\r\nона уничтожает всех, кто\r\nотказывается покориться.",
+      "pl": "Prawdziwy pikopał Ajary.\r\nArogancko i bezlitośnie\r\nunicestwia wszystkich\r\nprzeciwników.",
+      "pt-BR": "Espinharma Ajara com seu\r\nverdadeiro nome. Arrogante\r\ne implacável, elimina todos\r\nos que a desafiam.",
+      "ko": "본명을 하사받은 혁염의 총창.\r\n뜻을 거스르는 자를 무자비하게\r\n제거할 권리가 주어진\r\n오만한 무기.",
+      "zh-Hant": "獲授真名的赫炎銃槍。這傲慢的武器\r\n手握大權，會無情葬送違背己意者。",
+      "zh-Hans": "得授真名的赫炎铳枪。这傲慢的武\r\n器拥有决定生死的权力，一切违背\r\n其意志者都将被无情地处决。",
+      "ar": "بندقية أشواك (أجاراا) بالمعنى الحقيقي.\r\nتقضي بتجبر وبلا رحمة\r\nعلى كل ما يتحداها.",
+      "es-419": "Pica pistola Ajara que honra a\r\nsu nombre. Erradica a todo el\r\nque la desafíe, con arrogancia\r\ny una ausencia total de piedad."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 4
+    },
+    "skills": {
+      "-181127504": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "game_id": 36,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "アルラスルークⅠ",
+      "en": "Albirath Rook I",
+      "fr": "Tour Albirath",
+      "it": "Torre Albirath I",
+      "de": "Albirath-Turm I",
+      "es": "Grajo de Albirath I",
+      "ru": "Птица Альбирата I",
+      "pl": "Wieża Albirath I",
+      "pt-BR": "Bastilhão Alvirath I",
+      "ko": "알라스룩Ⅰ",
+      "zh-Hant": "白斑火龍戰車Ⅰ",
+      "zh-Hans": "白炎战车Ⅰ",
+      "ar": "رخ ألبيراث 1",
+      "es-419": "Roque de Albirath I"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n銃槍。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos gunlance.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+      "fr": "Lancecanon Rathalos Gardien.\r\nTel un feu ardent, l'esprit de son\r\nporteur jamais ne s'éteint.",
+      "it": "Una lancia-fucile di Rathalos\r\nguardiano. Lo spirito di chi la\r\nimpugna non si placa mai,\r\nproprio come un fuoco ardente.",
+      "de": "Eine Gewehrlanze aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Lanza pistola de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Копьепушка из раталоса-стража.\r\nРешимость её владельца подобна\r\nбушующему пламени и никогда\r\nне угаснет.",
+      "pl": "Lancopał z Rathalosa Strażnika.\r\nNiczym płonący ogień, duch\r\njego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Lançarma de Rathalos Guardião.\r\nComo um fogo ardente, o espírito\r\nde quem a porta nunca se\r\nesmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n건랜스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的銃槍。會為持有\r\n者帶來如熊熊燃燒烈焰般決不放棄的\r\n鬥志。",
+      "zh-Hans": "以护火龙素材制作的铳枪。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
+      "ar": "بندقية رماح (راثالوس) حارس.\r\nروح حاملها كنار متأججة لا تخبو أبدًا.",
+      "es-419": "Una lanza pistola de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 37,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "アルラスルークⅡ",
+      "en": "Albirath Rook II",
+      "fr": "Tour Albirath II",
+      "it": "Torre Albirath II",
+      "de": "Albirath-Turm II",
+      "es": "Grajo de Albirath II",
+      "ru": "Птица Альбирата II",
+      "pl": "Wieża Albirath II",
+      "pt-BR": "Bastilhão Alvirath II",
+      "ko": "알라스룩Ⅱ",
+      "zh-Hant": "白斑火龍戰車Ⅱ",
+      "zh-Hans": "白炎战车Ⅱ",
+      "ar": "رخ ألبيراث 2",
+      "es-419": "Roque de Albirath II"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n銃槍。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos gunlance.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+      "fr": "Lancecanon Rathalos Gardien.\r\nTel un feu ardent, l'esprit de son\r\nporteur jamais ne s'éteint.",
+      "it": "Una lancia-fucile di Rathalos\r\nguardiano. Lo spirito di chi la\r\nimpugna non si placa mai,\r\nproprio come un fuoco ardente.",
+      "de": "Eine Gewehrlanze aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Lanza pistola de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Копьепушка из раталоса-стража.\r\nРешимость её владельца подобна\r\nбушующему пламени и никогда\r\nне угаснет.",
+      "pl": "Lancopał z Rathalosa Strażnika.\r\nNiczym płonący ogień, duch\r\njego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Lançarma de Rathalos Guardião.\r\nComo um fogo ardente, o espírito\r\nde quem a porta nunca se\r\nesmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n건랜스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的銃槍。會為持有\r\n者帶來如熊熊燃燒烈焰般決不放棄的\r\n鬥志。",
+      "zh-Hans": "以护火龙素材制作的铳枪。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
+      "ar": "بندقية رماح (راثالوس) حارس.\r\nروح حاملها كنار متأججة لا تخبو أبدًا.",
+      "es-419": "Una lanza pistola de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 26,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 38,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "シャイニングルーク",
+      "en": "Shining Rook",
+      "fr": "Tour radieuse",
+      "it": "Torre lucente",
+      "de": "Glänzender Turm",
+      "es": "Grajo reluciente",
+      "ru": "Сияющая птица",
+      "pl": "Lśniąca Wieża",
+      "pt-BR": "Bastilhão Brilhante",
+      "ko": "샤이닝룩",
+      "zh-Hant": "閃耀戰車",
+      "zh-Hans": "闪耀战车",
+      "ar": "رخ لامع",
+      "es-419": "Roque lustroso"
+    },
+    "descriptions": {
+      "ja": "強化されしアルラスルーク。\r\n白き力の奔流の中に、王たる誇りと\r\n気高き魂を感じることができる。",
+      "en": "An upgraded Albirath Rook.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+      "fr": "Tour Albirath améliorée. Une\r\nâme royale repose au sein de son\r\nflot immaculé de puissance.",
+      "it": "Una Torre Albirath potenziata.\r\nDietro il grande potere,\r\nse ne percepisce\r\nl'anima regale.",
+      "de": "Ein verbesserter Albirath-\r\nTurm. Eine königliche Seele\r\nruht in seiner makellosen\r\nFlut aus Macht.",
+      "es": "Grajo de Albirath mejorado.\r\nUn alma regia descansa en\r\nsu marea de poder inmaculado.",
+      "ru": "Улучшенная «Птица Альбирата».\r\nВ потоке чистейшей мощи, который\r\nпронизывает это оружие, нашла\r\nпристанище благородная душа.",
+      "pl": "Ulepszona Wieża Albirath.\r\nW jej nieskazitelnej fali mocy\r\nspoczywa królewska dusza.",
+      "pt-BR": "Bastilhão Alvirath melhorado.\r\nUma alma régia repousa dentro\r\nde seu imaculado poder afluente.",
+      "ko": "강화된 알라스룩.\r\n하얀 힘의 흐름 속에서\r\n왕의 자부심과 고귀한 혼을\r\n느낄 수 있다.",
+      "zh-Hant": "強化版白斑火龍戰車。在皓白之力\r\n的奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
+      "zh-Hans": "强化后的白炎战车。在皓白之力的\r\n涌流中，可以感受到高贵的王者之\r\n魂。",
+      "ar": "بندقية رخ (ألبيراث) مطوَّرة.\r\nتقبع روح راقية وسط فيض قوتها الخالصة.",
+      "es-419": "Roque de Albirath mejorado.\r\nDentro de su flujo de poder,\r\nse percibe un alma digna\r\nde la realeza."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 39,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "ダハ・ドップⅠ",
+      "en": "Jin Dhatop I",
+      "fr": "Jin Dhatop",
+      "it": "Jin Dhatop I",
+      "de": "Jin-Dhatop I",
+      "es": "Jin Dhatop I",
+      "ru": "Сталеджиновая пушка I",
+      "pl": "Jin Dhatop I",
+      "pt-BR": "Jin Dhatop I",
+      "ko": "다하돕Ⅰ",
+      "zh-Hant": "凍峰金屬砲Ⅰ",
+      "zh-Hans": "冻峰金属炮Ⅰ",
+      "ar": "جين داهاتوب 1",
+      "es-419": "Jin Dhatop I"
+    },
+    "descriptions": {
+      "ja": "ジン・ダハドの冷却機構を応用した\r\n銃槍。零下の突きと灼熱の砲撃で、\r\n立ちはだかるものを撃ち払う。",
+      "en": "A gunlance that uses Jin\r\nDahaad's cooling mechanisms\r\nto issue subzero thrusts and\r\nsearing gunfire.",
+      "fr": "Lancecanon utilisant le\r\nrefroidissement du Jin\r\nDahaad pour effectuer\r\ndes estocades et des tirs.",
+      "it": "Una lancia-fucile che usa la\r\ntecnica di raffreddamento del\r\nJin Dahaad per lanciare affondi\r\nsottozero e colpi roventi.",
+      "de": "Gewehrlanze, die Jin Dahaads\r\nKühlmechanismen nutzt, um\r\neiskalte Stöße und sengendes\r\nKanonenfeuer einzusetzen.",
+      "es": "Lanza pistola que emplea los\r\nmecanismos de enfriamiento\r\ndel Jin Dahaad para disparar\r\nráfagas congelantes letales.",
+      "ru": "Копьепушка, охлаждаемая методом,\r\nзаимствованным у джина дахаада.\r\nПозволяет сочетать ледяные\r\nудары с обжигающими выстрелами.",
+      "pl": "Lancopał wykorzystujący system\r\nchłodzący Jin Dahaada do\r\nzadawania mroźnych pchnięć\r\ni prowadzenia ognistego ostrzału.",
+      "pt-BR": "Lançarma que usa os mecanismos\r\nde resfriamento de Jin Dahaad\r\npara lançar ataques congelantes\r\ne disparos ardentes.",
+      "ko": "진 다하드의 냉각 메커니즘을\r\n응용한 건랜스.\r\n영하의 찌르기, 작열의 포격은\r\n저항하는 자를 격파한다.",
+      "zh-Hant": "應用了凍峰龍冷卻結構的銃槍。零下\r\n溫度的突刺和炎熱的砲擊能擊退阻擋\r\n去路的敵人。",
+      "zh-Hans": "应用了冻峰龙冷却原理的铳枪。伴\r\n随着低于冰点的突刺与灼热的炮击，\r\n足以横扫一切拦路之敌。",
+      "ar": "بندقية رماح تستخدم آلية (جين دهاد) للتبريد\r\nلتوجيه طعنات بدرجة حرارة تحت الصفر\r\nوإطلاق طلقات حارقة.",
+      "es-419": "Una lanza pistola con los\r\nmecanismos de enfriamiento del\r\nJin Dahaad para lanzar estocadas\r\nheladas y disparos ardientes."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 47,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 13,
+      "branches": [
+        40
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 3
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 40,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "断崖のロハルマ",
+      "en": "Precipice Lohamata",
+      "fr": "Lohamata Précipice",
+      "it": "Precipizio Lohamata",
+      "de": "Klippen-Lohamata",
+      "es": "Precipicio Lohamata",
+      "ru": "Армата бездны",
+      "pl": "Czeluść Lohamata",
+      "pt-BR": "Precipício Lohamata",
+      "ko": "절벽의 로하르마",
+      "zh-Hant": "斷崖金屬砲",
+      "zh-Hans": "断崖金属铳",
+      "ar": "هاوية لوهاماتا",
+      "es-419": "Precipicio Lohamata"
+    },
+    "descriptions": {
+      "ja": "鍛えられたダハ・ドップの強化形。\r\nそびえ立つ氷壁の如く堅い守りと、\r\n岩山の崩落の如き砲撃を備える。",
+      "en": "An upgraded Jin Dhatop with\r\nthe defenses of a sturdy ice\r\nwall, and gunfire like a\r\nmerciless avalanche.",
+      "fr": "Jin Dhatop amélioré, aux\r\ndéfenses dignes d'un solide\r\nmur de glace et aux tirs dignes\r\nd'une avalanche impitoyable.",
+      "it": "Un Jin Dhatop potenziato con\r\ndifese potenti come un muro\r\ndi ghiaccio e attacchi\r\nsimili a valanghe.",
+      "de": "Verbesserter Jin-Dhatop mit der\r\nVerteidigung einer aufragenden\r\nEismauer und dem Kanonenfeuer\r\neiner gnadenlosen Lawine.",
+      "es": "Jin Dhatop mejorada con el poder\r\ndefensivo de un muro de hielo,\r\ny más potencia de fuego que\r\nuna avalancha implacable.",
+      "ru": "Улучшенная «Сталеджиновая пушка»,\r\nзащита которой подобна ледяной\r\nстене, а залпы — безжалостной\r\nлавине.",
+      "pl": "Ulepszony Jin Dhatop z obroną\r\nprzypominającą solidną ścianę\r\nlodu i ostrzałem przypominającym\r\nbezlitosną lawinę.",
+      "pt-BR": "Jin Dhatop melhorada com\r\ndefesas de uma muralha de\r\ngelo e disparos como uma\r\navalanche impiedosa.",
+      "ko": "다하돕의 강화형.\r\n우뚝 솟은 빙벽 같은 방어,\r\n바위산이 무너지는 듯한\r\n포격 성능을 갖추었다.",
+      "zh-Hant": "千錘百鍊後的強化版凍峰金屬砲。\r\n兼具如高聳冰壁般的堅固防衛和\r\n如岩山崩落般的砲擊。",
+      "zh-Hans": "精心锻造的冻峰金属炮强化版。有\r\n着如高耸冰壁般坚固的防御和如岩\r\n山崩落般势不可挡的炮击。",
+      "ar": "(جين داهاتوب) مطوَّرة\r\nبدفاعات مثل جدار ثلجي\r\nمتين، وطلقات تشبه\r\nانهيار جليدي لا يرحم.",
+      "es-419": "Un Jin Dhatop mejorado con las\r\ndefensas de un muro de hielo\r\nsólido y disparos como una\r\navalancha implacable."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 50,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 39,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 3
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 41,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "ガルシュアスタⅠ",
+      "en": "G. Veldian Hasta I",
+      "fr": "Hasta Arkveld Gardien",
+      "it": "Asta Veldian G. I",
+      "de": "W.-Arkveld-Hasta I",
+      "es": "Asta veldiana G. I",
+      "ru": "Вельдстражевая гаста I",
+      "pl": "Wiweriańska Hasta S. I",
+      "pt-BR": "Hasta Veldiana G. I",
+      "ko": "갈슈아스타Ⅰ",
+      "zh-Hant": "護鎖刃銃槍Ⅰ",
+      "zh-Hans": "护锁刃铳枪Ⅰ",
+      "ar": "آستا فيلديان حارس 1",
+      "es-419": "Asta veldian G. I"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた銃槍。\r\n手にすると、大義を得て強き者に\r\n抗っているような感覚になる。",
+      "en": "A gunlance made from Guardian\r\nspoils. It instills one with\r\na desire to oppose the strong\r\nfor the weak.",
+      "fr": "À base de Gardien. Donne à\r\nson porteur un but et l'envie\r\nde s'opposer aux plus forts.",
+      "it": "Una lancia-fucile di resti\r\ndi guardiano. Infonde in chi\r\nla impugna il desiderio\r\ndi opporsi ai potenti.",
+      "de": "Eine Gewehrlanze aus Wächter-\r\nMaterial, die dem Träger die\r\nEntschlossenheit verleiht, sich\r\nfür die Schwachen einzusetzen.",
+      "es": "Lanza pistola hecha con restos\r\nde un Guardián. Infunde\r\nel deseo de enfrentarse a\r\nlos fuertes por los débiles.",
+      "ru": "Копьепушка из материалов со стража.\r\nДаёт владельцу решимость бросать\r\nвызов сильным ради защиты слабых.",
+      "pl": "Lancopał wykonany z pozostałości\r\nStrażnika. Wzbudza pragnienie\r\nprzeciwstawienia się silniejszym\r\nw obronie słabszych.",
+      "pt-BR": "Lançarma feita com materiais\r\nde Guardião. Instiga o desejo\r\nde enfrentar os mais fortes em\r\nnome dos fracos.",
+      "ko": "수호룡 소재로 만든 건랜스.\r\n손에 잡으면 대의를 위해\r\n강자에게 저항하는 듯한\r\n느낌이 든다.",
+      "zh-Hant": "以護龍素材製作的銃槍。只要握在\r\n手中，就讓人感覺像是有道義對抗\r\n強者。",
+      "zh-Hans": "以护龙素材制作的铳枪。只要握在\r\n手中便感觉获得大义，敢于对抗强\r\n敌。",
+      "ar": "بندقية رماح مصنوعة\r\nمن غنائم وحش حارس.\r\nتغرس في نفس حاملها رغبة\r\nفي مواجهة الأقوياء من أجل الضعفاء.",
+      "es-419": "Lanza pistola hecha con restos\r\nde Guardián. Le da un propósito\r\nal portador, además del deseo\r\nde enfrentarse a los fuertes."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 11
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 42,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "ガルシュアスタⅡ",
+      "en": "G. Veldian Hasta II",
+      "fr": "Hasta Arkveld Gardien II",
+      "it": "Asta Veldian G. II",
+      "de": "W.-Arkveld-Hasta II",
+      "es": "Asta veldiana G. II",
+      "ru": "Вельдстражевая гаста II",
+      "pl": "Wiweriań. Hasta S. II",
+      "pt-BR": "Hasta Veldiana G. II",
+      "ko": "갈슈아스타Ⅱ",
+      "zh-Hant": "護鎖刃銃槍Ⅱ",
+      "zh-Hans": "护锁刃铳枪Ⅱ",
+      "ar": "آستا فيلديان حارس 2",
+      "es-419": "Asta veldian G. II"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた銃槍。\r\n手にすると、大義を得て強き者に\r\n抗っているような感覚になる。",
+      "en": "A gunlance made from Guardian\r\nspoils. It instills one with\r\na desire to oppose the strong\r\nfor the weak.",
+      "fr": "À base de Gardien. Donne à\r\nson porteur un but et l'envie\r\nde s'opposer aux plus forts.",
+      "it": "Una lancia-fucile di resti\r\ndi guardiano. Infonde in chi\r\nla impugna il desiderio\r\ndi opporsi ai potenti.",
+      "de": "Eine Gewehrlanze aus Wächter-\r\nMaterial, die dem Träger die\r\nEntschlossenheit verleiht, sich\r\nfür die Schwachen einzusetzen.",
+      "es": "Lanza pistola hecha con restos\r\nde un Guardián. Infunde\r\nel deseo de enfrentarse a\r\nlos fuertes por los débiles.",
+      "ru": "Копьепушка из материалов со стража.\r\nДаёт владельцу решимость бросать\r\nвызов сильным ради защиты слабых.",
+      "pl": "Lancopał wykonany z pozostałości\r\nStrażnika. Wzbudza pragnienie\r\nprzeciwstawienia się silniejszym\r\nw obronie słabszych.",
+      "pt-BR": "Lançarma feita com materiais\r\nde Guardião. Instiga o desejo\r\nde enfrentar os mais fortes em\r\nnome dos fracos.",
+      "ko": "수호룡 소재로 만든 건랜스.\r\n손에 잡으면 대의를 위해\r\n강자에게 저항하는 듯한\r\n느낌이 든다.",
+      "zh-Hant": "以護龍素材製作的銃槍。只要握在\r\n手中，就讓人感覺像是有道義對抗\r\n強者。",
+      "zh-Hans": "以护龙素材制作的铳枪。只要握在\r\n手中便感觉获得大义，敢于对抗强\r\n敌。",
+      "ar": "بندقية رماح مصنوعة من غنائم وحش حارس. \r\nتغرس في نفس حاملها رغبة\r\nفي مواجهة الأقوياء من أجل الضعفاء.",
+      "es-419": "Lanza pistola hecha con restos\r\nde Guardián. Le da un propósito\r\nal portador, además del deseo\r\nde enfrentarse a los fuertes."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 41,
+      "branches": [
+        43,
+        60
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 11
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 43,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "護鎖刃銃槍ガルホート",
+      "en": "G. Lawful Bors",
+      "fr": "Bohort Gardien",
+      "it": "Bors legale G.",
+      "de": "Rechtschaffener W. Bors",
+      "es": "Bors leal G.",
+      "ru": "Страж праведности Борса",
+      "pl": "Praworządny Bors S.",
+      "pt-BR": "Bors Justiceiro G.",
+      "ko": "호쇄인총창 갈호트",
+      "zh-Hant": "護鎖刃銃槍鮑斯",
+      "zh-Hans": "护锁刃铳枪·鲍斯",
+      "ar": "بورس شرعي حارس",
+      "es-419": "Bors legítimas G."
+    },
+    "descriptions": {
+      "ja": "強化されしガルシュアスタ。\r\nそれはあらゆる苦難を退ける盾と、\r\nあらゆる不平等を砕く矛である。",
+      "en": "An upgraded G. Veldian Hasta.\r\nA shield to end all suffering,\r\nand a lance to obliterate\r\ninjustice.",
+      "fr": "Hasta Arkveld Gardien amélioré.\r\nSon bouclier met fin à toutes les\r\nsouffrances, tandis que sa lance\r\ntransperce l'injustice.",
+      "it": "Asta Veldian G. potenziata.\r\nUno scudo e una lancia\r\nper combattere le sofferenze\r\ne le ingiustizie.",
+      "de": "Verbesserte Wächter-Arkveld-\r\nHasta. Ein Schild, um Leid zu\r\nbeenden, und eine Lanze, um\r\nUnrecht zu beseitigen.",
+      "es": "Asta veldiana G. mejorada.\r\nUn escudo para acabar con\r\nel sufrimiento y una lanza\r\npara evitar la injusticia.",
+      "ru": "Улучшенная «Вельдстражевая\r\nгаста». Щит должен положить конец\r\nвсем страданиям мира, а копьё —\r\nуничтожить несправедливость.",
+      "pl": "Ulepszona wersja Wiweriańskiej\r\nHasty S.: Tarcza, aby zakończyć\r\nwszelkie cierpienie, i włócznia,\r\naby zniszczyć niesprawiedliwość.",
+      "pt-BR": "Hasta Veldiana G. melhorada.\r\nUm escudo para acabar com o\r\nsofrimento e uma lança para\r\nobliterar a injustiça.",
+      "ko": "강화된 갈슈아스타.\r\n모든 고난을 막는 방패이자\r\n모든 불평등을 부수는 창이다.",
+      "zh-Hant": "強化版護鎖刃銃槍。盾牌能排除所有\r\n苦難，銃槍則能粉碎一切不平等。",
+      "zh-Hans": "经过强化的护锁刃铳枪。其为击退\r\n千种苦难之盾，亦为粉碎万般不平\r\n之矛。",
+      "ar": "بندقية (آستا فيلديان) حارس مطوَّرة.\r\nدرع لإنهاء كل معاناة\r\nورمح لمحو الظلم.",
+      "es-419": "Un Asta veldian G. mejorado.\r\nUn escudo para acabar con todo\r\nel sufrimiento y una lanza para\r\naniquilar la injusticia."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 11
+    },
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "game_id": 44,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "names": {
+      "ja": "ハードヒッターⅠ",
+      "en": "Hard Hitter I",
+      "fr": "Gros frappeur",
+      "it": "Percussore duro I",
+      "de": "Harter Schläger I",
+      "es": "Demoledora I",
+      "ru": "Бьющая наповал I",
+      "pl": "Twardy Napastnik I",
+      "pt-BR": "Batedor Maciço I",
+      "ko": "하드히터Ⅰ",
+      "zh-Hant": "強打者Ⅰ",
+      "zh-Hans": "毒鸟铳枪Ⅰ",
+      "ar": "الضاربة الشديدة 1",
+      "es-419": "Golpe duro I"
+    },
+    "descriptions": {
+      "ja": "弾力に富んだ皮と、良質な\r\n鉱石を組み合わせた巨大な\r\n銃槍。毒属性が強力。",
+      "en": "An enormous gunlance that\r\ncombines flexible leather\r\nwith quality ore, and packs\r\na very poisonous bite.",
+      "fr": "Lancecanon énorme alliant\r\ncuir élastique et minerai de\r\nqualité. Sa morsure est très\r\nvenimeuse.",
+      "it": "Un'enorme lancia-fucile che\r\nunisce pelle flessibile,\r\nmetalli di qualità e un\r\nmorso velenoso.",
+      "de": "Eine enorme Gewehrlanze, die\r\nflexibles Leder mit hochwertigem\r\nErz kombiniert und giftig zustößt.",
+      "es": "Lanza pistola gigantesca que\r\ncombina cuero flexible con\r\nmineral de calidad. Además, su\r\nataque es muy venenoso.",
+      "ru": "Огромная копьепушка, на которую\r\nпошла качественная руда и очень\r\nэластичная кожа. Это оружие\r\nпоражает жертву сильнейшим ядом.",
+      "pl": "Ogromny lancopał wykonany\r\nz elastycznej skóry i wysokiej\r\njakości rudy zadający wybitnie\r\njadowite obrażenia.",
+      "pt-BR": "Lançarma enorme que combina\r\ncouro flexível com minério\r\nde qualidade e uma mordida\r\nextremamente venenosa.",
+      "ko": "탄력 있는 가죽과 양질의\r\n광석을 조합하여 만든\r\n거대한 건랜스.\r\n강력한 독속성을 지녔다.",
+      "zh-Hant": "以極具彈力的皮和優質礦石搭配製成\r\n的巨大銃槍。有強力的毒屬性。",
+      "zh-Hans": "由富有弹性的皮革和优质的矿石制\r\n成的巨大铳枪。具备强力的毒属性。",
+      "ar": "بندقية رماح ضخمة تجمع\r\nالجلد المرن بخام عالي الجودة،\r\nوتتميز بلدغة سامة للغاية.",
+      "es-419": "Una enorme lanza pistola que\r\ncombina cuero flexible con\r\nmineral de calidad y asesta una\r\nmordida muy venenosa."
+    },
+    "rarity": 5,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 31,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        45,
+        50
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 13
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 45,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "names": {
+      "ja": "ハードヒッターⅡ",
+      "en": "Hard Hitter II",
+      "fr": "Gros frappeur II",
+      "it": "Percussore duro II",
+      "de": "Harter Schläger II",
+      "es": "Demoledora II",
+      "ru": "Бьющая наповал II",
+      "pl": "Twardy Napastnik II",
+      "pt-BR": "Batedor Maciço II",
+      "ko": "하드히터Ⅱ",
+      "zh-Hant": "強打者Ⅱ",
+      "zh-Hans": "毒鸟铳枪Ⅱ",
+      "ar": "الضاربة الشديدة 2",
+      "es-419": "Golpe duro II"
+    },
+    "descriptions": {
+      "ja": "弾力に富んだ皮と、良質な\r\n鉱石を組み合わせた巨大な\r\n銃槍。毒属性が強力。",
+      "en": "An enormous gunlance that\r\ncombines flexible leather\r\nwith quality ore, and packs\r\na very poisonous bite.",
+      "fr": "Lancecanon énorme alliant\r\ncuir élastique et minerai de\r\nqualité. Sa morsure est très\r\nvenimeuse.",
+      "it": "Un'enorme lancia-fucile che\r\nunisce pelle flessibile,\r\nmetalli di qualità e un\r\nmorso velenoso.",
+      "de": "Eine enorme Gewehrlanze, die\r\nflexibles Leder mit hochwertigem\r\nErz kombiniert und giftig zustößt.",
+      "es": "Lanza pistola gigantesca que\r\ncombina cuero flexible con\r\nmineral de calidad. Además, su\r\nataque es muy venenoso.",
+      "ru": "Огромная копьепушка, на которую\r\nпошла качественная руда и очень\r\nэластичная кожа. Это оружие\r\nпоражает жертву сильнейшим ядом.",
+      "pl": "Ogromny lancopał wykonany\r\nz elastycznej skóry i wysokiej\r\njakości rudy zadający wybitnie\r\njadowite obrażenia.",
+      "pt-BR": "Lançarma enorme que combina\r\ncouro flexível com minério\r\nde qualidade e uma mordida\r\nextremamente venenosa.",
+      "ko": "탄력 있는 가죽과 양질의\r\n광석을 조합하여 만든\r\n거대한 건랜스.\r\n강력한 독속성을 지녔다.",
+      "zh-Hant": "以極具彈力的皮和優質礦石搭配製成\r\n的巨大銃槍。有強力的毒屬性。",
+      "zh-Hans": "由富有弹性的皮革和优质的矿石制\r\n成的巨大铳枪。具备强力的毒属性。",
+      "ar": "بندقية رماح ضخمة تجمع\r\nالجلد المرن بخام عالي الجودة،\r\nوتتميز بلدغة سامة للغاية.",
+      "es-419": "Una enorme lanza pistola que\r\ncombina cuero flexible con\r\nmineral de calidad y asesta una\r\nmordida muy venenosa."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 34,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 13
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 46,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "names": {
+      "ja": "ビッグスラッガー",
+      "en": "Big Slugger",
+      "fr": "Gros cogneur",
+      "it": "Gran colpitore",
+      "de": "Großer Schläger",
+      "es": "Machacadora",
+      "ru": "Губительный удар",
+      "pl": "Wielki Powalacz",
+      "pt-BR": "Grande Atordoante",
+      "ko": "빅슬러거",
+      "zh-Hant": "猛打者",
+      "zh-Hans": "大炮强攻者",
+      "ar": "عصا الضرب الكبير",
+      "es-419": "Gran aturdidor"
+    },
+    "descriptions": {
+      "ja": "強化型ハードヒッター。砲口\r\nから強力な毒液を噴出。獲物は\r\n壮絶な苦痛の果てに息絶える。",
+      "en": "An upgraded Hard Hitter. The\r\nliquid poison it spews puts\r\ntargets through terrible agony\r\nbefore they expire.",
+      "fr": "Gros frappeur amélioré. Le liquide\r\nempoisonné qu'il projette fait\r\nsubir un terrible calvaire à ses\r\ncibles avant leur trépas.",
+      "it": "Un percussore duro potenziato.\r\nIl veleno liquido che emette fa\r\nagonizzare i nemici prima\r\ndi ucciderli definitivamente.",
+      "de": "Verbesserter Harter Schläger.\r\nDas Gift, das er versprüht, lässt\r\ndas Ziel vor seinem Ende\r\nschreckliche Qualen erleiden.",
+      "es": "Demoledora mejorada. El veneno\r\nlíquido que expulsa provoca a los\r\nobjetivos una horrible agonía\r\nantes de perecer.",
+      "ru": "Улучшенный вариант «Бьющей\r\nнаповал». Изрыгает жидкий яд,\r\nвызывающий у жертвы ужасную\r\nпредсмертную агонию.",
+      "pl": "Ulepszony Twardy Napastnik.\r\nPłynna trucizna, którą wypluwa,\r\nsprawia, że ofiary przechodzą\r\nstraszliwe męki przed śmiercią.",
+      "pt-BR": "Batedor Maciço melhorado.\r\nO veneno líquido que é projetado\r\ncausa uma agonia terrível aos\r\nalvos antes de sucumbirem.",
+      "ko": "강화형 하드히터. 포구에서\r\n강력한 독액을 뿜는다.\r\n사냥감은 엄청난 고통 끝에\r\n숨이 멎는다.",
+      "zh-Hant": "強化版強打者。砲口會噴出強力的\r\n毒液，使獵物在歷經極大痛苦後嚥\r\n下最後一口氣。",
+      "zh-Hans": "强化版毒鸟铳枪。从炮口喷出强力\r\n的毒液，它的猎物会在经历凄惨至\r\n极的痛苦之后方得气绝。",
+      "ar": "ضاربة شديدة مطوَّرة.\r\nالسم السائل الذي تقذفه يسبب\r\nعذابًا مريرًا لأهدافه قبل أن يفتك بها.",
+      "es-419": "Versión mejorada del Golpe duro.\r\nEl veneno líquido que supura\r\nsomete a las víctimas a una\r\nterrible agonía antes de expirar."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 13
+    },
+    "skills": {
+      "-1946345856": 3,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 47,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "プリンセスバーストⅠ",
+      "en": "Princess Panoply I",
+      "fr": "Mépris de la princesse",
+      "it": "Sfarzo principesco I",
+      "de": "Prinzessinnenzier I",
+      "es": "Panoplia Princesa I",
+      "ru": "Трофей принцессы I",
+      "pl": "Panoplia Księżniczki I",
+      "pt-BR": "Panóplia da Princesa I",
+      "ko": "프린세스버스트Ⅰ",
+      "zh-Hant": "公主銃槍Ⅰ",
+      "zh-Hans": "公主爆裂铳枪Ⅰ",
+      "ar": "الأميرة بانوبولي 1",
+      "es-419": "Panoplia de princesa I"
+    },
+    "descriptions": {
+      "ja": "リオレイアの美しき濃緑の鱗に\r\n抱かれた華麗なる銃槍。猛毒に沈む\r\n命は続く砲撃に紅く美しく咲く。",
+      "en": "An elegant gunlance clad in\r\ngreen Rathian scales. Its\r\nvenom takes lives as scarlet\r\nblossoms burst from its muzzle.",
+      "fr": "Lancecanon recouvert\r\nd'écailles de Rathian. Son\r\nvenin ôte la vie dans des\r\ndéflagrations écarlates.",
+      "it": "Elegante lancia-fucile rivestita\r\ndi scaglie verdi di Rathian.\r\nPorta una morte velenosa\r\nche sboccia su sprazzi scarlatti",
+      "de": "Eine elegante Gewehrlanze,\r\nmit grünen Rathian-Schuppen\r\nverziert. Ihr Gift wird von tief-\r\nroten Feuersbrünsten verhüllt.",
+      "es": "Lanza pistola elegante con\r\nescamas verdes de Rathian.\r\nCon veneno letal. De su cañón\r\nbrotan flores escarlata.",
+      "ru": "Изящная копьепушка, покрытая\r\nзелёной чешуёй ратианы. Яд\r\nзабирает жизнь, едва распускается\r\nалый цветок выстрела.",
+      "pl": "Elegancki lancopał obłożony\r\nzielonymi łuskami Rathiany.\r\nJego jad uśmierca\r\nw rozbłyskach szkarłatu.",
+      "pt-BR": "Lançarma elegante revestida com\r\nescamas verdes de Rathian.\r\nSeu veneno letal dispersa em\r\nbrilhantes explosões escarlate.",
+      "ko": "리오레이아의 아름다운 비늘로\r\n덮인 건랜스.\r\n맹독에 침식된 생명은\r\n포격에 붉게 피어난다.",
+      "zh-Hant": "布滿雌火龍美麗濃綠色鱗片的華麗\r\n銃槍。於猛毒中消逝的生命會在砲\r\n火之中綻放鮮紅美麗之花。",
+      "zh-Hans": "布满雌火龙浓绿美鳞的华丽铳枪。\r\n沉没于猛毒中的生命，会在炮火之\r\n中鲜红美丽地绽放。",
+      "ar": "بندقية رماح أنيقة مكسوة بقشور\r\n(راثيان) الخضراء، ينطلق سمها القاتل\r\nبينما تومض الفوهة باللون القرمزي.",
+      "es-419": "Elegante lanzadora con escamas\r\nverdes de Rathian. Su veneno\r\nes letal y de su hocico brotan\r\nflores escarlata."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        48,
+        56
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    }
+  },
+  {
+    "game_id": 48,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "プリンセスバーストⅡ",
+      "en": "Princess Panoply II",
+      "fr": "Mépris de la princesse II",
+      "it": "Sfarzo principesco II",
+      "de": "Prinzessinnenzier II",
+      "es": "Panoplia Princesa II",
+      "ru": "Трофей принцессы II",
+      "pl": "Panoplia Księżniczki II",
+      "pt-BR": "Panóplia da Princesa II",
+      "ko": "프린세스버스트Ⅱ",
+      "zh-Hant": "公主銃槍Ⅱ",
+      "zh-Hans": "公主爆裂铳枪Ⅱ",
+      "ar": "الأميرة بانوبولي 2",
+      "es-419": "Panoplia de princesa II"
+    },
+    "descriptions": {
+      "ja": "リオレイアの美しき濃緑の鱗に\r\n抱かれた華麗なる銃槍。猛毒に沈む\r\n命は続く砲撃に紅く美しく咲く。",
+      "en": "An elegant gunlance clad in\r\ngreen Rathian scales. Its\r\nvenom takes lives as scarlet\r\nblossoms burst from its muzzle.",
+      "fr": "Lancecanon recouvert\r\nd'écailles de Rathian. Son\r\nvenin ôte la vie dans des\r\ndéflagrations écarlates.",
+      "it": "Elegante lancia-fucile rivestita\r\ndi scaglie verdi di Rathian.\r\nPorta una morte velenosa\r\nche sboccia su sprazzi scarlatti",
+      "de": "Eine elegante Gewehrlanze,\r\nmit grünen Rathian-Schuppen\r\nverziert. Ihr Gift wird von tief-\r\nroten Feuersbrünsten verhüllt.",
+      "es": "Lanza pistola elegante con\r\nescamas verdes de Rathian.\r\nCon veneno letal. De su cañón\r\nbrotan flores escarlata.",
+      "ru": "Изящная копьепушка, покрытая\r\nзелёной чешуёй ратианы. Яд\r\nзабирает жизнь, едва распускается\r\nалый цветок выстрела.",
+      "pl": "Elegancki lancopał obłożony\r\nzielonymi łuskami Rathiany.\r\nJego jad uśmierca\r\nw rozbłyskach szkarłatu.",
+      "pt-BR": "Lançarma elegante revestida com\r\nescamas verdes de Rathian.\r\nSeu veneno letal dispersa em\r\nbrilhantes explosões escarlate.",
+      "ko": "리오레이아의 아름다운 비늘로\r\n덮인 건랜스.\r\n맹독에 침식된 생명은\r\n포격에 붉게 피어난다.",
+      "zh-Hant": "布滿雌火龍美麗濃綠色鱗片的華麗\r\n銃槍。於猛毒中消逝的生命會在砲\r\n火之中綻放鮮紅美麗之花。",
+      "zh-Hans": "布满雌火龙浓绿美鳞的华丽铳枪。\r\n沉没于猛毒中的生命，会在炮火之\r\n中鲜红美丽地绽放。",
+      "ar": "بندقية رماح أنيقة مكسوة بقشور\r\n(راثيان) الخضراء، ينطلق سمها القاتل\r\nبينما تومض الفوهة باللون القرمزي.",
+      "es-419": "Elegante lanzadora con escamas\r\nverdes de Rathian. Su veneno\r\nes letal y de su hocico brotan\r\nflores escarlata."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 49,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "オルトリンデ",
+      "en": "Ortlinde",
+      "fr": "Ortlinde",
+      "it": "Ortlinde",
+      "de": "Ortlinde",
+      "es": "Ortlinde",
+      "ru": "Ортлинда",
+      "pl": "Ortlinde",
+      "pt-BR": "Ortlinde",
+      "ko": "올트린데",
+      "zh-Hant": "奧特琳德",
+      "zh-Hans": "奥特琳德",
+      "ar": "أورتليند",
+      "es-419": "Ortlinde"
+    },
+    "descriptions": {
+      "ja": "強化形態プリンセスバーストが\r\n地上に死の華を咲かす。女王の\r\n壮麗たる魂を宿す濃緑の銃槍。",
+      "en": "The upgraded Princess Panoply,\r\na verdant garden of death\r\nimbued with the Queen of\r\nthe Land's soul.",
+      "fr": "Mépris de la princesse amélioré.\r\nTransforme le champ de bataille\r\nen un beau jardin où la mort\r\ns'épanouit.",
+      "it": "Sfarzo principesco potenziato.\r\nL'arena diventa un giardino\r\ndi morte, imbevuto dell'anima\r\ndella regina della terra.",
+      "de": "Eine verbesserte Prinzessinnen-\r\nzier. Ein grüner Garten des\r\nTodes, der von der Seele der\r\nKönigin des Landes erfüllt ist.",
+      "es": "Panoplia Princesa mejorada\r\nque convierte los campos\r\nen jardines de muerte.",
+      "ru": "Улучшенный «Трофей принцессы» —\r\nзеленеющий росток из сада смерти,\r\nв котором поселился дух самой\r\n«королевы земли».",
+      "pl": "Ulepszenie Panoplii Księżniczki,\r\nzielony ogród śmierci nasycony\r\nduszą Królowej Ziemi.",
+      "pt-BR": "Panóplia da Princesa melhorada.\r\nUm jardim verdejante da morte,\r\nimbuído com a alma da Rainha\r\nda Terra.",
+      "ko": "강화형 프린세스버스트가\r\n죽음의 꽃을 피운다. 여왕의\r\n혼이 담긴 심록의 건랜스.",
+      "zh-Hant": "強化版公主銃槍。濃綠槍身藏有女王\r\n壯麗的靈魂，會令死亡之花在大地\r\n盛開。",
+      "zh-Hans": "强化形态的公主爆裂铳枪。寄宿女\r\n王壮丽灵魂的浓绿铳枪，令地面盛\r\n开死亡之花。",
+      "ar": "ترقية لبندقية الأميرة بانوبولي\r\nوهي حديقة خضراء من الموت\r\nمشبعة بروح ملكة الأرض.",
+      "es-419": "Panoplia de princesa mejorada,\r\nun verde jardín de la muerte\r\nimbuido del alma de la reina\r\nde la tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 15
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 50,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "ハルマ＝アルジャナルⅠ",
+      "en": "Warring Fulgur I",
+      "fr": "Tonnerre guerrier",
+      "it": "Sfarzo principesco I",
+      "de": "Feudal-Fulgur I",
+      "es": "Fulgur guerrero I",
+      "ru": "Воинственный гром I",
+      "pl": "Wojujący Piorun I",
+      "pt-BR": "Fulgor Guerreiro I",
+      "ko": "하르마알쟈나르Ⅰ",
+      "zh-Hant": "雷顎白矛Ⅰ",
+      "zh-Hans": "护雷白矛Ⅰ",
+      "ar": "رعدي محارب 1",
+      "es-419": "Fulgur guerrero I"
+    },
+    "descriptions": {
+      "ja": "護竜アンジャナフ亜種の素材で\r\n作られた銃槍。蛮勇の力を理性で\r\n抑え込める者のみが扱える武器。",
+      "en": "A Guardian Fulgur Anjanath\r\ngunlance. Only one able to tame\r\nits brutality through reason can\r\nwield it.",
+      "fr": "Lancecanon Anjanath tonnerre\r\nGardien. Seuls ceux pouvant\r\ndompter sa brutalité par la\r\nraison peuvent le manier.",
+      "it": "Lancia-fucile di Anjanath tonante\r\nguardiano. Potrà essere brandita\r\nsolo da chi saprà domare la\r\nsua brutalità con la ragione.",
+      "de": "Eine Wächter-Fulgur-Anjanath-\r\nGewehrlanze. Nur wer ihre\r\nBrutalität mit Vernunft zähmt,\r\nkann sie führen.",
+      "es": "Lanza pistola de Anjanath\r\nFulgúreo Guardián. Solo\r\nlogrará blandirla quien domine\r\nsu brutalidad con la razón.",
+      "ru": "Копьепушка из громового\r\nаньяната-стража. Покорится лишь\r\nтому, кто сможет обуздать её\r\nжестокость силой разума.",
+      "pl": "Lancopał z Piorunowego\r\nAnjanatha Strażnika. Może nim\r\nwładać tylko ten, kto okiełzna\r\njego brutalność rozumem.",
+      "pt-BR": "Lançarma de Anjanath Fulgurante\r\nGuardião. Apenas quem domar sua\r\nbrutalidade usando a razão será\r\ncapaz de usá-la.",
+      "ko": "수호룡 안쟈나프 아종 소재로\r\n만든 건랜스.\r\n야만의 힘을 이성으로 억제하는\r\n능력이 있어야 다룰 수 있다.",
+      "zh-Hant": "以護雷顎龍素材製作的銃槍。唯有\r\n以理性壓抑蠻力，才能用上這武器。",
+      "zh-Hans": "使用护雷颚龙素材制作的铳枪。唯\r\n有能以理性抑制蛮勇之力者方可使\r\n用。",
+      "ar": "بندقية رماح (أنجاناث) رعدي حارس.\r\nلا يستطيع حملها سوى القادر\r\nعلى ترويض وحشيتها بحكمة.",
+      "es-419": "Una lanzapistola de Anjanath\r\nFulgúreo Guardián. Solo quien sea\r\ncapaz de dominar su brutalidad a\r\ntravés de la razón podrá portarlo."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 34,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 44,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 14
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 51,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "names": {
+      "ja": "護雷銃槍ハルマガルデ",
+      "en": "Fulgurcannon Guardiana",
+      "fr": "Canon tonnerre Guardiana",
+      "it": "Cannone tonante G.",
+      "de": "Fulgurkanone-Guardiana",
+      "es": "Fulgocañón G.",
+      "ru": "Пушка громостража",
+      "pl": "Gromodziało Strażnika",
+      "pt-BR": "Fulgurcanhão Guardiano",
+      "ko": "호뢰총창 하르마가르데",
+      "zh-Hant": "護雷銃槍守衛戰車",
+      "zh-Hans": "战车护雷铳枪",
+      "ar": "مدفع رعدي حارس",
+      "es-419": "Fulgur cañón Guardiana"
+    },
+    "descriptions": {
+      "ja": "ハルマ＝アルジャナルの強化形。\r\n理を曲げるほどの圧倒的な暴力の\r\n具現。力におごれば身も滅ぼす。",
+      "en": "An upgraded Warring Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+      "fr": "Tonnerre guerrier amélioré.\r\nSes pulsions féroces font plier la\r\nraison et détruisent les porteurs\r\ntrop zélés.",
+      "it": "Una Folgore da guerra potenziata.\r\nLe sue pulsioni selvagge inibiscono\r\nla ragione e distruggono chi\r\nla impugna con troppa foga.",
+      "de": "Ein verbesserter Feudal-\r\nFulgur. Sein wilder Drang\r\nüberwindet Vernunft und\r\nvernichtet übereifrige Jäger.",
+      "es": "Fulgur guerrero mejorado.\r\nSus ansias salvajes destruyen\r\nla razón y acaban con los\r\nportadores más entusiastas.",
+      "ru": "Улучшенная «Воинственная\r\nмолния». Источает свирепость,\r\nиз-за которой владелец теряет\r\nосторожность и может погибнуть.",
+      "pl": "Ulepszony Wojujący Piorun.\r\nJego dzikie pragnienia niweczą\r\nrozsądek i mogą zniszczyć zbyt\r\nzapalczywego posiadacza.",
+      "pt-BR": "Fulgor Guerreiro melhorado.\r\nSeus impulsos selvagens\r\ndistorcem a razão, por fim\r\ndestruindo usuários arrogantes.",
+      "ko": "하르마알쟈나르의 강화형.\r\n이치를 뒤흔들 정도로 압도적인\r\n폭력을 구현했다. 힘에\r\n취하면 스스로를 망치게 된다.",
+      "zh-Hant": "強化版雷顎白矛。壓倒性的力量顯然\r\n於世，足以歪曲常理。沉醉於力量者\r\n終將自滅。",
+      "zh-Hans": "护雷白矛的强化版。具备强大到足\r\n以扭曲常理的力量。如果沉溺于这\r\n份力量，也会自取灭亡。",
+      "ar": "بندقية رعدي محارب مطوَّرة.\r\nتعطل رغباتها الوحشية صوت\r\nالعقل وستدمر حاملها إذا\r\nزاد حماسه عن اللازم.",
+      "es-419": "Un Fulgur guerrero mejorado.\r\nSus impulsos nublan la razón\r\ny destruyen a un portador\r\nansioso."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 14
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 52,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "names": {
+      "ja": "ホワイトガンランスⅠ",
+      "en": "White Gunlance I",
+      "fr": "Lancecanon blanc",
+      "it": "Lancia-fucile bianca I",
+      "de": "Weiße Gewehrlanze I",
+      "es": "Lanza pistola blanca I",
+      "ru": "Белая копьепушка I",
+      "pl": "Biały lancopał I",
+      "pt-BR": "Lançarma Branca I",
+      "ko": "화이트건랜스Ⅰ",
+      "zh-Hant": "白色銃槍Ⅰ",
+      "zh-Hans": "白色铳枪Ⅰ",
+      "ar": "بندقية رماح بيضاء 1",
+      "es-419": "Lanza pistola blanca I"
+    },
+    "descriptions": {
+      "ja": "溶岩にも耐えるグラビモスの\r\n甲殻を槍身と盾に使用。\r\n圧倒的な耐久力が秀逸。",
+      "en": "A gunlance with lava-proof\r\nGravios plating in the barrel\r\nand shield, yielding formidable\r\nresistance.",
+      "fr": "Lancecanon dont le canon et le\r\nbouclier en Gravios résistent à\r\nla lave. Extrêmement robuste.",
+      "it": "Una lancia-fucile con un\r\nrivestimento in Gravios\r\nresistente alla lava e con uno\r\nscudo, per la massima protezione.",
+      "de": "Eine Gewehrlanze mit lavafesten\r\nGravios-Platten in Lauf und\r\nSchild, was eine beachtliche\r\nVerteidigung verleiht.",
+      "es": "Lanza pistola con revestimiento\r\nde Gravios y un cañón a prueba\r\nde lava. El escudo le confiere\r\nuna resistencia increíble.",
+      "ru": "Копьепушка с гравиосовым\r\nпокрытием ствола и щита,\r\nкоторое обеспечивает защиту\r\nдаже от лавы.",
+      "pl": "Lanca z lufą i tarczą pokrytymi\r\npowłoką Graviosa odporną na\r\nlawę, zapewniającą potężną\r\nodporność.",
+      "pt-BR": "Lançarma com revestimento de\r\nGravios à prova de lava no cano\r\ne no escudo, oferecendo uma\r\nresistência formidável.",
+      "ko": "용암도 견디는 그라비모스의\r\n갑각을 창신과 방패에 썼다.\r\n내구력이 압도적으로 뛰어나다.",
+      "zh-Hant": "槍身和盾以耐熔岩的鎧龍甲殼製成。\r\n壓倒性的耐久力非常優秀。",
+      "zh-Hans": "枪身与盾牌采用耐熔岩的铠龙甲壳\r\n制造而成。优点是其压倒性的耐久\r\n性能。",
+      "ar": "بندقية رماح مغطاة بطبقة (غرافيوس)\r\nمضادة للحمم البركانية على الماسورة والدرع،\r\nما يوفر مقاومة هائلة.",
+      "es-419": "Lanza pistola con una coraza de\r\nGravios a prueba de lava en el\r\nbarril y el escudo. Ostenta una\r\nresistencia formidable."
+    },
+    "rarity": 6,
+    "attack_raw": 220,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "raw": 34,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        53
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 18
+    },
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "game_id": 53,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "names": {
+      "ja": "ホワイトキャノン",
+      "en": "White Cannon",
+      "fr": "Canon blanc",
+      "it": "Cannone bianco",
+      "de": "Weiße Kanone",
+      "es": "Cañón blanco",
+      "ru": "Белая пушка",
+      "pl": "Białe działo",
+      "pt-BR": "Canhão Branco",
+      "ko": "화이트캐논",
+      "zh-Hant": "白色加農砲",
+      "zh-Hans": "白色加农炮",
+      "ar": "المدفع الأبيض",
+      "es-419": "Cañón blanco"
+    },
+    "descriptions": {
+      "ja": "繰り出す砲撃は天災の様に…。\r\nホワイトガンランス強化型は\r\n全てを墳煙と共に虚空に消す。",
+      "en": "An upgraded White Gunlance.\r\nLike a catastrophe, it eradicates\r\neverything in volcanic smoke.",
+      "fr": "Lancecanon blanc amélioré. Telle\r\nune catastrophe, il anéantit\r\ntout dans un nuage de fumée\r\nvolcanique.",
+      "it": "Una lancia-fucile bianca\r\npotenziata. Come una calamità,\r\nusa il fumo vulcanico per\r\ndistruggere ogni cosa.",
+      "de": "Verbesserte Weiße Gewehrlanze.\r\nVernichtet wie eine Katastrophe\r\nalles in ihrem Vulkanrauch.",
+      "es": "Lanza pistola blanca mejorada.\r\nAl igual que los desastres\r\nnaturales, lo convierte todo\r\nen humo volcánico.",
+      "ru": "Улучшенная «Белая копьепушка».\r\nПодобно стихийному бедствию,\r\nуничтожает жертву, окутывая всё\r\nвокруг вулканическим паром.",
+      "pl": "Ulepszony biały lancopał. Niczym\r\nkatastrofa niszczy wszystko\r\nw wulkanicznym dymie.",
+      "pt-BR": "Lançarma Branca melhorada.\r\nComo uma catástrofe, erradica\r\ntudo em meio a fumaça vulcânica.",
+      "ko": "마치 재앙 같은 포격...\r\n화이트건랜스 강화형.\r\n만물이 연기와 함께 사라진다.",
+      "zh-Hant": "強化版白色銃槍。發射的砲擊如同\r\n天災，能使萬物與火山灰一起消失\r\n在虛空中。",
+      "zh-Hans": "其释放出的炮击宛如天灾。在这把\r\n白色铳枪的强化版面前，万物将与\r\n硝烟一起消失于虚无之中。",
+      "ar": "بندقية رماح بيضاء مطوَّرة.\r\nتمحو كل شيء في طريقها\r\nككارثة محققة وتحوله إلى دخان بركاني.",
+      "es-419": "Versión mejorada de la lanza\r\npistola blanca. Hace que todo\r\ndesaparezca en medio de un humo\r\nvolcánico, como una catástrofe."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 18
+    },
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "game_id": 56,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "レッドルークⅠ",
+      "en": "Red Rook I",
+      "fr": "Tour rouge",
+      "it": "Torre rossa I",
+      "de": "Roter Turm I",
+      "es": "Grajo Rojo I",
+      "ru": "Красная птица I",
+      "pl": "Czerwona Wieża I",
+      "pt-BR": "Bastilhão Vermelho I",
+      "ko": "레드루크Ⅰ",
+      "zh-Hant": "紅色城塔Ⅰ",
+      "zh-Hans": "赤色战车Ⅰ",
+      "ar": "الرخ الأحمر 1",
+      "es-419": "Roque rojo I"
+    },
+    "descriptions": {
+      "ja": "リオレウスが具現した紅蓮の銃槍。\r\nその咆哮は猛火の旋律。獲物は\r\n炎の舞に踊り狂い、死に急ぐ。",
+      "en": "A gunlance that exemplifies\r\nRathalos' might, each roar a\r\nfiery melody hastening prey\r\nto their deaths.",
+      "fr": "Lancecanon qui incarne le\r\nRathalos. Ses rugissements\r\nchantent une mélodie de feu,\r\nqui mène ses proies à la mort.",
+      "it": "Lancia-fucile che incarna il\r\nRathalos. Il suo ruggito\r\nscorta il nemico alla tomba\r\ncon una feroce melodia.",
+      "de": "Eine Gewehrlanze, die die Macht\r\ndes Rathalos’ verkörpert. Jedes\r\nBrüllen ist eine feurige Melodie,\r\ndie die Beute in den Tod treibt.",
+      "es": "Lanza pistola que encarna el\r\npoder del Rathalos. Cada rugido\r\nes una melodía que envía a las\r\npresas a la tumba.",
+      "ru": "Мощь этой копьепушки подобна силе\r\nраталоса, а рёв её выстрелов,\r\nсловно пылкая песнь, гонит жертв\r\nв объятия скорой погибели.",
+      "pl": "Lancopał uosabiający potęgę\r\nRathalosa. Każdy ryk to ognista\r\nmelodia przyspieszająca śmierć\r\nofiary.",
+      "pt-BR": "Lançarma que representa o poder\r\nde Rathalos, com cada rugido\r\nsendo uma melodia flamejante\r\nque acelera a morte das presas.",
+      "ko": "리오레우스를 형상화한\r\n홍련의 건랜스.\r\n그 포효는 불꽃의 선율이다.\r\n불꽃과 춤을 추며 죽을지니.",
+      "zh-Hant": "有如火龍一般的火紅銃槍。其咆哮\r\n是烈火的旋律，會令獵物在烈火中\r\n瘋狂起舞，盼望早日解脫。",
+      "zh-Hans": "有如火龙一般的火红铳枪。其咆哮\r\n是烈火的旋律。猎物在火焰中狂舞\r\n渴求死亡。",
+      "ar": "بندقية رماح تُجسد (راثالوس).\r\nترسل الخصوم إلى القبر\r\nبدوي صاخب.",
+      "es-419": "Lanza pistola que ejemplifica el\r\npoder de Rathalos, cada rugido\r\nes una melodía ardiente que\r\nprecipita a la presa a la muerte."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 34,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 47,
+      "branches": [
+        57,
+        58
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 16
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 57,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "クリムゾンルーク",
+      "en": "Crimson Rook",
+      "fr": "Tour pourpre",
+      "it": "Torre cremisi",
+      "de": "Karmesin-Turm",
+      "es": "Grajo carmesí",
+      "ru": "Алая птица",
+      "pl": "Karmazynowa Wieża",
+      "pt-BR": "Bastilhão Rubro",
+      "ko": "크림슨루크",
+      "zh-Hant": "深紅城塔",
+      "zh-Hans": "深红战车",
+      "ar": "الرخ القرمزي",
+      "es-419": "Roque carmesí"
+    },
+    "descriptions": {
+      "ja": "レッドルーク強化型は、真紅の\r\n業火を従える。今宵、数多の魂を\r\n焼き尽くす炎の宴が始まる。",
+      "en": "An upgraded Red Rook.\r\nTonight, its scarlet hellfire\r\nwill feast on another legion\r\nof souls.",
+      "fr": "Tour rouge améliorée. Les\r\nfeux écarlates de l'enfer\r\nl'accompagnent et préparent\r\nun banquet d'âmes carbonisées.",
+      "it": "Torre rossa potenziata.\r\nStanotte il suo fuoco infernale\r\nbanchetterà con un'altra\r\nschiera di anime.",
+      "de": "Ein verbesserter Roter Turm.\r\nHeute Nacht wird sein scharlach-\r\nrotes Höllenfeuer eine weitere\r\nLegion von Seelen verschlingen.",
+      "es": "Grajo Rojo mejorado.\r\nEsta noche su fuego escarlata\r\nse dará un banquete con una\r\nnueva legión de almas.",
+      "ru": "Улучшенная «Красная птица».\r\nНа исходе дня в алых всполохах\r\nеё адского пламени сгинут души\r\nочередного сонма врагов.",
+      "pl": "Ulepszona Czerwona Wieża.\r\nDziś wieczorem jego szkarłatne\r\npiekielne płomienie pożrą\r\nkolejny legion dusz.",
+      "pt-BR": "Lançarma Vermelha melhorada.\r\nSeu inferno escarlate devorará\r\nmais uma legião de almas\r\nnesta noite.",
+      "ko": "강화형 레드루크는 붉은\r\n업화를 다룬다. 오늘 밤\r\n혼을 태우는 연회가 시작된다.",
+      "zh-Hant": "強化版紅色城塔，率領著鮮紅業火。\r\n今夜的火焰饗宴會將大量靈魂焚燒\r\n殆盡。",
+      "zh-Hans": "赤色战车的强化型，率领着鲜红的\r\n业火。烧尽大量灵魂的飨宴始于今\r\n夜。",
+      "ar": "الرخ الأحمر المطوَّر.\r\nهذه الليلة، ستلتهم نيرانه\r\nالقرمزية جحافل أخرى من الأرواح.",
+      "es-419": "Roque rojo mejorado. Esta\r\nnoche, su fuego infernal\r\nescarlata se dará un banquete\r\ncon otra legión de almas."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 16
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 58,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "アームofティランⅠ",
+      "en": "Tyrannenarm I",
+      "fr": "Bras de la tyrannie",
+      "it": "Tyrannenarm I",
+      "de": "Tyrannenarm I",
+      "es": "Arma tiránica I",
+      "ru": "Тиранненарм I",
+      "pl": "Tyrannenarm I",
+      "pt-BR": "Tyrannenarm I",
+      "ko": "암of티런Ⅰ",
+      "zh-Hant": "手腕of暴君Ⅰ",
+      "zh-Hans": "手腕of暴君Ⅰ",
+      "ar": "تيرانورم 1",
+      "es-419": "Arma tiránica I"
+    },
+    "descriptions": {
+      "ja": "屠った者の魂を撃ち抜くゴア・マガ\r\nラの銃槍。盾の魔眼に魅入られた者\r\nは自らを標的として差し出す。",
+      "en": "This Gore Magala gunlance's\r\npiercing gaze wills its prey\r\nto surrender—then destroys\r\nthem, flesh and soul.",
+      "fr": "Ce lancecanon Gore Magala\r\nau regard perçant anéantit\r\nla volonté de sa proie avant\r\nde l'anéantir corps et âme.",
+      "it": "Questa penetrante lancia-fucile\r\ndi Gore Magala porta le prede\r\nalla resa, poi le distrugge\r\nnell'anima e nel corpo.",
+      "de": "Der starre Blick dieser Gore-\r\nMagala-Gewehrlanze raubt ihrem\r\nOpfer zuerst den Kampfgeist und\r\nvernichtet dann Leib und Seele.",
+      "es": "Lanza pistola de Gore Magala que\r\natenaza a las presas con su\r\nmirada para luego destruir su\r\ncarne y su alma.",
+      "ru": "Под прицелом копьепушки из мате-\r\nриалов с побеждённой кровавой\r\nмагалы жертва быстро осознаёт,\r\nчто её ждёт гибель.",
+      "pl": "Lancopał z Gore Magali swoim\r\nświdrującym spojrzeniem zmusza\r\nofiarę do poddania się —\r\na potem unicestwia ciało i duszę.",
+      "pt-BR": "Lançarma de Gore Magala cujo\r\nolhar penetrante leva sua presa\r\nà rendição, para então destruir\r\nseu corpo e alma.",
+      "ko": "사냥감의 혼을 꿰뚫는다는\r\n고어 마가라의 건랜스.\r\n방패의 마안에 매혹된 자는\r\n스스로 표적이 된다.",
+      "zh-Hant": "據說能將亡者之魂盡數貫穿的黑蝕龍\r\n銃槍。遭盾上魔眼魅惑者會自願成為\r\n標靶，奉獻出自己的生命。",
+      "zh-Hans": "据说会将屠杀者的灵魂全部射穿的\r\n黑蚀龙铳枪。被盾上魔眼魅惑之人，\r\n会身不由己成为标靶。",
+      "ar": "إن النظرة الثاقبة لبندقية رماح (جور ماجالا)\r\nهذه ستجعل فريستها تستسلم-\r\nثم تدمرها، جسدًا وروحًا.",
+      "es-419": "Lanzadora de Gore Magala que\r\nobliga a las presas a rendirse\r\ncon su mirada antes de destruir\r\nsu cuerpo y alma."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 27,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 56,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 17
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 59,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "アームofトリーズ",
+      "en": "Verräterarm",
+      "fr": "Bras de la traîtrise",
+      "it": "Verräterarm",
+      "de": "Verräterarm",
+      "es": "Arma traidora",
+      "ru": "Ферретерарм",
+      "pl": "Verräterarm",
+      "pt-BR": "Verräterarm",
+      "ko": "암of트리즈",
+      "zh-Hant": "手腕of叛逆",
+      "zh-Hans": "手腕of叛逆",
+      "ar": "فيراتينورم",
+      "es-419": "Arma traidora"
+    },
+    "descriptions": {
+      "ja": "邪眼に魅入られし者は、己が罪を\r\n悔いて奈落に身を堕とす。\r\nアームofティラン強化版。",
+      "en": "An upgraded Tyrannenarm.\r\nIts gaze sees prey for all\r\ntheir sins before sentencing\r\nthem to the abyss.",
+      "fr": "Bras de la tyrannie amélioré.\r\nSon regard perçant voit les\r\npéchés de ses proies et les\r\nrenvoie dans le néant.",
+      "it": "Tyrannenarm potenziato.\r\nIl suo occhio scruta nelle\r\nprofondità delle anime,\r\nper poi gettarle nell'abisso.",
+      "de": "Ein verbesserter Tyrannenarm.\r\nSein Blick sieht die Beute für\r\nalle ihre Sünden, bevor er sie\r\nin den Abgrund verdammt.",
+      "es": "Arma tiránica mejorada. Su mirada\r\npuede penetrar hasta lo más\r\nprofundo del alma.",
+      "ru": "Улучшенный «Тиранненарм».\r\nЗаставляет жертву вспомнить\r\nобо всех своих грехах, а затем\r\nотправляет её в бездну.",
+      "pl": "Ulepszenie Tyrannenarm. Jego\r\nspojrzenie dostrzega wszystkie\r\ngrzechy ofiary, zanim skaże ją\r\nna otchłań.",
+      "pt-BR": "Tyrannenarm melhorada.\r\nSeu olhar revela os pecados\r\ndas presas antes de condená-las\r\nao abismo.",
+      "ko": "매혹된 자는 죄를 뉘우치며\r\n나락으로 떨어진다.\r\n암of티런의 강화판.",
+      "zh-Hant": "手腕of暴君的強化版。被其邪眼魅惑\r\n之人，會懺悔自身的罪業並投身地獄\r\n之中。",
+      "zh-Hans": "被邪眼魅惑之人，会忏悔自身罪孽，\r\n投身地狱之中。手腕of暴君的强化\r\n版。",
+      "ar": "بندقية تيرانورم مطوَّرة.\r\nعينها الثاقبة ترى مباشرةً\r\nما يكمن في روح الفريسة\r\nقبل أن تحكم عليها بالهاوية.",
+      "es-419": "Arma tiránica mejorada. Su\r\nmirada ve la presa por todos\r\nsus pecados antes de condenarla\r\nal abismo."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 17
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 60,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "アルシュアスタⅠ",
+      "en": "Veldian Hasta I",
+      "fr": "Hasta Arkveld",
+      "it": "Asta Veldian I",
+      "de": "Arkveld-Hasta I",
+      "es": "Asta veldiana I",
+      "ru": "Вельдовый копьемёт I",
+      "pl": "Wiweriańska Hasta I",
+      "pt-BR": "Hasta Veldiana I",
+      "ko": "알슈아스타Ⅰ",
+      "zh-Hant": "鎖刃銃槍Ⅰ",
+      "zh-Hans": "锁刃铳枪Ⅰ",
+      "ar": "آستا فيلديان 1",
+      "es-419": "Asta veldian I"
+    },
+    "descriptions": {
+      "ja": "アルシュベルドの素材で作られた\r\n銃槍。祖国に立てた誓いを、生涯\r\n貫いた騎士が用いた古代の銃槍。",
+      "en": "An Arkveld gunlance. Every\r\nbreath taken by the knight\r\nthat bore one was in service\r\nto the people.",
+      "fr": "Lancecanon Arkveld. Chaque\r\nrespiration du chevalier qui\r\nle maniait était au service du\r\npeuple.",
+      "it": "Una lancia-fucile Arkveldi.\r\nOgni respiro di chi la impugnava\r\nera al servizio della popolazione.",
+      "de": "Eine Arkveld-Gewehrlanze.\r\nJeder Atemzug des Ritters,\r\nder sie einst trug, diente\r\nseinem Volk.",
+      "es": "Lanza pistola de Arkveld.\r\nCada respiración de los\r\ncaballeros que la empuñaron\r\nfue para ayudar a los demás.",
+      "ru": "Копьепушка из арквельда.\r\nРыцарь, некогда носивший такое\r\nоружие, жил исключительно ради\r\nслужения народу.",
+      "pl": "Lancopał z Arkvelda.\r\nKażdy oddech rycerza,\r\nktóry go nosił,\r\nbył poświęcony służbie ludziom.",
+      "pt-BR": "Lançarma de Arkveld de outrora.\r\nCada passo do cavaleiro que a\r\nempunhava era dedicado a\r\nserviço do povo.",
+      "ko": "알슈베르도 소재로 만든 건랜스.\r\n조국에 대한 맹세를 평생토록\r\n지킨 기사가 쓰던 고대 무기.",
+      "zh-Hant": "以鎖刃龍素材製作的銃槍。過去曾有\r\n騎士手握此古代銃槍，用一生完成對\r\n祖國的誓言。",
+      "zh-Hans": "使用锁刃龙素材制作的铳枪。据说\r\n此铳枪曾为古代骑士所用，骑士用\r\n一生贯彻了对祖国的誓言。",
+      "ar": "بندقية رماح (آركفيلد).\r\nكل نفس استنشقه الفارس\r\nالذي حملها كان لخدمة الناس.",
+      "es-419": "Una lanza pistola de Arkveld.\r\nAloja cada hálito del caballero\r\nque la blandió al servicio del\r\npueblo."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 37,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 42,
+      "branches": [
+        70
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 12
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "game_id": 61,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "パルジーガンランスⅠ",
+      "en": "Paretic Gunlance I",
+      "fr": "Lancecanon parétique",
+      "it": "Lancia-fucile paretica I",
+      "de": "Parese-Gewehrlanze I",
+      "es": "Lanza pistola plégica I",
+      "ru": "Паретическая копьепушка I",
+      "pl": "Lancopał porażenia I",
+      "pt-BR": "Lançarma Parética I",
+      "ko": "펄지건랜스Ⅰ",
+      "zh-Hant": "麻痺銃槍Ⅰ",
+      "zh-Hans": "麻痹铳枪Ⅰ",
+      "ar": "بندقية رماح مُشلة 1",
+      "es-419": "Lanza pistola parética I"
+    },
+    "descriptions": {
+      "ja": "黒い刀身が目を引く銃槍。麻痺毒を\r\n蓄える機構があり、赤い刃には\r\n特に濃く麻痺毒が浸潤している。",
+      "en": "A gunlance with a striking\r\nblack blade and paralytic\r\nagents. Watch out for its\r\npotent red edge.",
+      "fr": "Lancecanon noir doté d'une\r\nsuperbe lame et d'agents\r\nparalysants. Attention au\r\nrouge de son tranchant.",
+      "it": "Una lancia-fucile con una lama\r\nnera e un serbatoio di fluido\r\nparalizzante. Attenzione al lato\r\nrosso, quello più potente.",
+      "de": "Eine Gewehrlanze mit einer\r\nauffälligen schwarzen Klinge\r\nsamt Lähmsubstanz. Obacht vor\r\nder mächtigen roten Schneide!",
+      "es": "Lanza pistola con una hoja\r\nnegra imponente y depósito\r\npara agentes paralizantes.\r\nSu filo rojo es muy potente.",
+      "ru": "Копьепушка с великолепным чёрным\r\nклинком, смазанным парализующим\r\nвеществом. Берегитесь красной\r\nкромки его лезвия.",
+      "pl": "Lancopał z imponującym czarnym\r\nostrzem i paraliżującymi\r\nczynnikami. Uważaj na jej silnie\r\ndziałającą czerwoną krawędź.",
+      "pt-BR": "Lançarma com uma lâmina negra\r\nincrível e agentes paralisantes.\r\nCuidado com o gume vermelho.",
+      "ko": "검은 칼날이 눈길을 끄는\r\n건랜스. 마비독을 모으는\r\n장치가 있다. 붉은 칼날에는\r\n마비독이 특히 더 스며들었다.",
+      "zh-Hant": "銃槍的黑色刀身非常引人注目。其中\r\n更有蓄積麻痺毒的機關，紅色刀刃更\r\n曾浸泡在高濃度的麻痺毒中。",
+      "zh-Hans": "铳枪漆黑的刀身格外引人注目。具\r\n有多处储存麻痹毒的机关，鲜红的\r\n刀刃更是浸染了高浓度的麻痹毒。",
+      "ar": "بندقية رماح بنصل أسود ساحر\r\nومواد مُشلة. <LSNR \"انتبه\" \"انتبهي\"> لشفرتها\r\nالحمراء القوية.",
+      "es-419": "Una lanza pistola con una\r\nimponente hoja negra y agentes\r\nparalizantes. Cuidado con su\r\npoderoso filo rojo."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        62
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 6
+    },
+    "skills": {
+      "-181127504": 1
+    }
+  },
+  {
+    "game_id": 62,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "パルジーガンランスⅡ",
+      "en": "Paretic Gunlance II",
+      "fr": "Lancecanon parétique II",
+      "it": "Lancia-fucile paretica II",
+      "de": "Parese-Gewehrlanze II",
+      "es": "Lanza pistola plégica II",
+      "ru": "Паретическая копьепушка II",
+      "pl": "Lancopał porażenia II",
+      "pt-BR": "Lançarma Parética II",
+      "ko": "펄지건랜스Ⅱ",
+      "zh-Hant": "麻痺銃槍Ⅱ",
+      "zh-Hans": "麻痹铳枪Ⅱ",
+      "ar": "بندقية رماح مُشلة 2",
+      "es-419": "Lanza pistola parética II"
+    },
+    "descriptions": {
+      "ja": "黒い刀身が目を引く銃槍。麻痺毒を\r\n蓄える機構があり、赤い刃には\r\n特に濃く麻痺毒が浸潤している。",
+      "en": "A gunlance with a striking\r\nblack blade and paralytic\r\nagents. Watch out for its\r\npotent red edge.",
+      "fr": "Lancecanon noir doté d'une\r\nsuperbe lame et d'agents\r\nparalysants. Attention au\r\nrouge de son tranchant.",
+      "it": "Una lancia-fucile con una lama\r\nnera e un serbatoio di fluido\r\nparalizzante. Attenzione al lato\r\nrosso, quello più potente.",
+      "de": "Eine Gewehrlanze mit einer\r\nauffälligen schwarzen Klinge\r\nsamt Lähmsubstanz. Obacht vor\r\nder mächtigen roten Schneide!",
+      "es": "Lanza pistola con una hoja\r\nnegra imponente y depósito\r\npara agentes paralizantes.\r\nSu filo rojo es muy potente.",
+      "ru": "Копьепушка с великолепным чёрным\r\nклинком, смазанным парализующим\r\nвеществом. Берегитесь красной\r\nкромки его лезвия.",
+      "pl": "Lancopał z imponującym czarnym\r\nostrzem i paraliżującymi\r\nczynnikami. Uważaj na jej silnie\r\ndziałającą czerwoną krawędź.",
+      "pt-BR": "Lançarma com uma lâmina negra\r\nincrível e agentes paralisantes.\r\nCuidado com o gume vermelho.",
+      "ko": "검은 칼날이 눈길을 끄는\r\n건랜스. 마비독을 모으는\r\n장치가 있다. 붉은 칼날에는\r\n마비독이 특히 더 스며들었다.",
+      "zh-Hant": "銃槍的黑色刀身非常引人注目。其中\r\n更有蓄積麻痺毒的機關，紅色刀刃更\r\n曾浸泡在高濃度的麻痺毒中。",
+      "zh-Hans": "铳枪漆黑的刀身格外引人注目。具\r\n有多处储存麻痹毒的机关，鲜红的\r\n刀刃更是浸染了高浓度的麻痹毒。",
+      "ar": "بندقية رماح بنصل أسود ساحر\r\nومواد مُشلة. <LSNR \"انتبه\" \"انتبهي\"> لشفرتها\r\nالحمراء القوية.",
+      "es-419": "Una lanza pistola con una\r\nimponente hoja negra y agentes\r\nparalizantes. Cuidado con su\r\npoderoso filo rojo."
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 3,
+        "515": 1
+      },
+      "previous_id": 61,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 6
+    },
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 63,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "パルジーガンランスⅢ",
+      "en": "Paretic Gunlance III",
+      "fr": "Lancecanon parétique III",
+      "it": "Lancia-fucile paretica III",
+      "de": "Parese-Gewehrlanze III",
+      "es": "Lanza pistola plégica III",
+      "ru": "Паретическая копьепушка III",
+      "pl": "Lancopał porażenia III",
+      "pt-BR": "Lançarma Parética III",
+      "ko": "펄지건랜스Ⅲ",
+      "zh-Hant": "麻痺銃槍Ⅲ",
+      "zh-Hans": "麻痹铳枪Ⅲ",
+      "ar": "بندقية رماح مُشلة 3",
+      "es-419": "Lanza pistola parética III"
+    },
+    "descriptions": {
+      "ja": "黒い刀身が目を引く銃槍。麻痺毒を\r\n蓄える機構があり、赤い刃には\r\n特に濃く麻痺毒が浸潤している。",
+      "en": "A gunlance with a striking\r\nblack blade and paralytic\r\nagents. Watch out for its\r\npotent red edge.",
+      "fr": "Lancecanon noir doté d'une\r\nsuperbe lame et d'agents\r\nparalysants. Attention au\r\nrouge de son tranchant.",
+      "it": "Una lancia-fucile con una lama\r\nnera e un serbatoio di fluido\r\nparalizzante. Attenzione al lato\r\nrosso, quello più potente.",
+      "de": "Eine Gewehrlanze mit einer\r\nauffälligen schwarzen Klinge\r\nsamt Lähmsubstanz. Obacht vor\r\nder mächtigen roten Schneide!",
+      "es": "Lanza pistola con una hoja\r\nnegra imponente y depósito\r\npara agentes paralizantes.\r\nSu filo rojo es muy potente.",
+      "ru": "Копьепушка с великолепным чёрным\r\nклинком, смазанным парализующим\r\nвеществом. Берегитесь красной\r\nкромки его лезвия.",
+      "pl": "Lancopał z imponującym czarnym\r\nostrzem i paraliżującymi\r\nczynnikami. Uważaj na jej silnie\r\ndziałającą czerwoną krawędź.",
+      "pt-BR": "Lançarma com uma lâmina negra\r\nincrível e agentes paralisantes.\r\nCuidado com o gume vermelho.",
+      "ko": "검은 칼날이 눈길을 끄는\r\n건랜스. 마비독을 모으는\r\n장치가 있다. 붉은 칼날에는\r\n마비독이 특히 더 스며들었다.",
+      "zh-Hant": "銃槍的黑色刀身非常引人注目。其中\r\n更有蓄積麻痺毒的機關，紅色刀刃更\r\n曾浸泡在高濃度的麻痺毒中。",
+      "zh-Hans": "铳枪漆黑的刀身格外引人注目。具\r\n有多处储存麻痹毒的机关，鲜红的\r\n刀刃更是浸染了高浓度的麻痹毒。",
+      "ar": "بندقية رماح بنصل أسود ساحر\r\nومواد مُشلة. <LSNR \"انتبه\" \"انتبهي\"> لشفرتها\r\nالحمراء القوية.",
+      "es-419": "Una lanza pistola con una\r\nimponente hoja negra y agentes\r\nparalizantes. Cuidado con su\r\npoderoso filo rojo."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 31,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 62,
+      "branches": [
+        64
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 6
+    },
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "game_id": 64,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "パルジーガンランスⅣ",
+      "en": "Paretic Gunlance IV",
+      "fr": "Lancecanon parétique IV",
+      "it": "Lancia-fucile paretica IV",
+      "de": "Parese-Gewehrlanze IV",
+      "es": "Lanza pistola plégica IV",
+      "ru": "Паретическая копьепушка IV",
+      "pl": "Lancopał porażenia IV",
+      "pt-BR": "Lançarma Parética IV",
+      "ko": "펄지건랜스Ⅳ",
+      "zh-Hant": "麻痺銃槍Ⅳ",
+      "zh-Hans": "麻痹铳枪Ⅳ",
+      "ar": "بندقية رماح مُشلة 4",
+      "es-419": "Lanza pistola parética IV"
+    },
+    "descriptions": {
+      "ja": "黒い刀身が目を引く銃槍。麻痺毒を\r\n蓄える機構があり、赤い刃には\r\n特に濃く麻痺毒が浸潤している。",
+      "en": "A gunlance with a striking\r\nblack blade and paralytic\r\nagents. Watch out for its\r\npotent red edge.",
+      "fr": "Lancecanon noir doté d'une\r\nsuperbe lame et d'agents\r\nparalysants. Attention au\r\nrouge de son tranchant.",
+      "it": "Una lancia-fucile con una lama\r\nnera e un serbatoio di fluido\r\nparalizzante. Attenzione al lato\r\nrosso, quello più potente.",
+      "de": "Eine Gewehrlanze mit einer\r\nauffälligen schwarzen Klinge\r\nsamt Lähmsubstanz. Obacht vor\r\nder mächtigen roten Schneide!",
+      "es": "Lanza pistola con una hoja\r\nnegra imponente y depósito\r\npara agentes paralizantes.\r\nSu filo rojo es muy potente.",
+      "ru": "Копьепушка с великолепным чёрным\r\nклинком, смазанным парализующим\r\nвеществом. Берегитесь красной\r\nкромки его лезвия.",
+      "pl": "Lancopał z imponującym czarnym\r\nostrzem i paraliżującymi\r\nczynnikami. Uważaj na jej silnie\r\ndziałającą czerwoną krawędź.",
+      "pt-BR": "Lançarma com uma lâmina negra\r\nincrível e agentes paralisantes.\r\nCuidado com o gume vermelho.",
+      "ko": "검은 칼날이 눈길을 끄는\r\n건랜스. 마비독을 모으는\r\n장치가 있다. 붉은 칼날에는\r\n마비독이 특히 더 스며들었다.",
+      "zh-Hant": "銃槍的黑色刀身非常引人注目。其中\r\n更有蓄積麻痺毒的機關，紅色刀刃更\r\n曾浸泡在高濃度的麻痺毒中。",
+      "zh-Hans": "铳枪漆黑的刀身格外引人注目。具\r\n有多处储存麻痹毒的机关，鲜红的\r\n刀刃更是浸染了高浓度的麻痹毒。",
+      "ar": "بندقية رماح بنصل أسود ساحر\r\nومواد مُشلة. <LSNR \"انتبه\" \"انتبهي\"> لشفرتها\r\nالحمراء القوية.",
+      "es-419": "Una lanza pistola con una\r\nimponente hoja negra y agentes\r\nparalizantes. Cuidado con su\r\npoderoso filo rojo."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 37,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 63,
+      "branches": [
+        65
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 6
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 65,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "names": {
+      "ja": "黒痺銃槍インペディア",
+      "en": "Debilitating Torpor",
+      "fr": "Torpeur dévastatrice",
+      "it": "Torpore debilitante",
+      "de": "Lähmende Starre",
+      "es": "Letargo debilitante",
+      "ru": "Изнуряющее оцепенение",
+      "pl": "Wyniszczający Letarg",
+      "pt-BR": "Torpor Debilitante",
+      "ko": "흑마총창 임페디아",
+      "zh-Hant": "黑痺銃槍",
+      "zh-Hans": "黑痹铳枪",
+      "ar": "بندقية الخمول المنهِكة",
+      "es-419": "Letargo debilitador"
+    },
+    "descriptions": {
+      "ja": "薔薇のごとき砲撃の花を咲かせる\r\nパルジーガンランス強化版。その\r\n棘は対象をことごとく痺れさせる。",
+      "en": "An upgraded Paretic Gunlance.\r\nEach flash blooms like a rose—\r\nand its thorns will stop prey\r\ndead.",
+      "fr": "Lancecanon parétique\r\namélioré. Chaque tir fleurit\r\ncomme une rose, et ses épines\r\narrêtent net les proies.",
+      "it": "Una L-fucile paretica\r\npotenziata. Ogni colpo fiorisce\r\ncome una rosa e le spine sono\r\nin grado di abbattere la preda.",
+      "de": "Eine verbesserte Parese-Gewehr-\r\nlanze. Jedes Aufblitzen erblüht\r\nwie eine Rose, deren Dornen\r\nBeute zum Stillstand bringen.",
+      "es": "Lanza pistola plégica mejorada.\r\nCada destello de su boca florece\r\ncomo una rosa... y las espinas\r\nfrenarán en seco a su presa.",
+      "ru": "Улучшенная «Паретическая\r\nкопьепушка». Вспышка её выстрела\r\nподобна розе, шипы которой\r\nне оставляют жертве шансов.",
+      "pl": "Ulepszony lancopał porażenia.\r\nKażdy błysk rozkwita jak róża —\r\na jej kolce sprawiają, że ofiara\r\nstaje jak wryta.",
+      "pt-BR": "Lançarma Parética melhorada.\r\nCada lampejo se abre como\r\numa rosa, e os espinhos\r\nsão fatais para a presa.",
+      "ko": "장미 같은 포격의 꽃을 피우는\r\n펄지건랜스 강화판.\r\n무기에 돋친 가시는\r\n대상을 모조리 마비시킨다.",
+      "zh-Hant": "強化版麻痺銃槍。砲擊時宛如薔薇\r\n盛開，棘刺會讓所有目標麻痺。",
+      "zh-Hans": "麻痹铳枪的强化版。炮击时宛如蔷\r\n薇盛开，在它的毒刺面前，没有什\r\n么目标能躲过被麻痹的下场。",
+      "ar": "بندقية رماح مُشلة مطوَّرة.\r\nكل وميض تطلقه يزهر كوردة،\r\nوهذه الأشواك ستقضي على الفريسة.",
+      "es-419": "Una Lanza pistola parética\r\nmejorada. Cada destello se abre\r\ncomo una rosa, y sus espinas\r\nson el fin de las presas."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 6
+    },
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "game_id": 66,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "アーティアキャノンⅠ",
+      "en": "Artian Cannon I",
+      "fr": "Canon Artian",
+      "it": "Cannone Artian I",
+      "de": "Artian-Kanone I",
+      "es": "Cañón artiano I",
+      "ru": "Артианская пушка I",
+      "pl": "Artiańskie działo I",
+      "pt-BR": "Canhão Artiano I",
+      "ko": "아티어캐논Ⅰ",
+      "zh-Hant": "機械加農砲Ⅰ",
+      "zh-Hans": "机械加农炮Ⅰ",
+      "ar": "مدفع أرتيان 1",
+      "es-419": "Cañón artiano I"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の銃槍。搭載された砲撃機構は\r\n永い時を経ても動き続けていた。",
+      "en": "A weapon assembled from\r\nunearthed fragments. The firing\r\nmechanism still functions after\r\nall this time.",
+      "fr": "À base de fragments d'arme.\r\nLe mécanisme de tir fonctionne\r\nencore, même après tout ce temps.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Funziona ancora\r\ndopo tutto questo tempo.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Der Feuermecha-\r\nnismus ist nach all der Zeit\r\nnoch intakt.",
+      "es": "Construida con fragmentos\r\ndesenterrados. El mecanismo\r\nde disparo aún funciona,\r\na pesar del paso del tiempo.",
+      "ru": "Оружие, собранное из найденных\r\nфрагментов. Спусковой механизм\r\nвсё ещё исправен, хоть и был\r\nизготовлен много лет назад.",
+      "pl": "Broń złożona z odkopanych\r\nfragmentów. Mechanizm spustowy\r\nnadal działa, mimo upływu\r\ndługiego czasu.",
+      "pt-BR": "Arma montada a partir de\r\nfragmentos desenterrados.\r\nO mecanismo de disparo\r\nainda está funcionando.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 건랜스. 무기에 탑재된\r\n포격 장치는 긴 세월 속에서\r\n계속 작동하고 있었다.",
+      "zh-Hant": "以發現的武器碎片組成的古代銃槍。\r\n砲擊機關即便歷經長久的時光也能\r\n持續運作。",
+      "zh-Hans": "由发现的武器碎片组成的古代铳枪。\r\n其上搭载的炮击构造经过了悠久的\r\n岁月依然可以正常工作。",
+      "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nما زالت آلية الإطلاق تعمل\r\nبعد كل هذا الوقت.",
+      "es-419": "Un arma ensamblada con\r\nfragmentos desenterrados.\r\nAún dispara, después de todo\r\neste tiempo."
+    },
+    "rarity": 6,
+    "attack_raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 67,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "アーティアキャノンⅡ",
+      "en": "Artian Cannon II",
+      "fr": "Canon Artian II",
+      "it": "Cannone Artian II",
+      "de": "Artian-Kanone II",
+      "es": "Cañón artiano II",
+      "ru": "Артианская пушка II",
+      "pl": "Artiańskie działo II",
+      "pt-BR": "Canhão Artiano II",
+      "ko": "아티어캐논Ⅱ",
+      "zh-Hant": "機械加農砲Ⅱ",
+      "zh-Hans": "机械加农炮Ⅱ",
+      "ar": "مدفع أرتيان 2",
+      "es-419": "Cañón artiano II"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の銃槍。搭載された砲撃機構は\r\n永い時を経ても動き続けていた。",
+      "en": "A weapon assembled from\r\nunearthed fragments. The firing\r\nmechanism still functions after\r\nall this time.",
+      "fr": "À base de fragments d'arme.\r\nLe mécanisme de tir fonctionne\r\nencore, même après tout ce temps.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Funziona ancora\r\ndopo tutto questo tempo.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Der Feuermecha-\r\nnismus ist nach all der Zeit\r\nnoch intakt.",
+      "es": "Construida con fragmentos\r\ndesenterrados. El mecanismo\r\nde disparo aún funciona,\r\na pesar del paso del tiempo.",
+      "ru": "Оружие, собранное из найденных\r\nфрагментов. Спусковой механизм\r\nвсё ещё исправен, хоть и был\r\nизготовлен много лет назад.",
+      "pl": "Broń złożona z odkopanych\r\nfragmentów. Mechanizm spustowy\r\nnadal działa, mimo upływu\r\ndługiego czasu.",
+      "pt-BR": "Arma montada a partir de\r\nfragmentos desenterrados.\r\nO mecanismo de disparo\r\nainda está funcionando.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 건랜스. 무기에 탑재된\r\n포격 장치는 긴 세월 속에서\r\n계속 작동하고 있었다.",
+      "zh-Hant": "以發現的武器碎片組成的古代銃槍。\r\n砲擊機關即便歷經長久的時光也能\r\n持續運作。",
+      "zh-Hans": "由发现的武器碎片组成的古代铳枪。\r\n其上搭载的炮击构造经过了悠久的\r\n岁月依然可以正常工作。",
+      "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nما زالت آلية الإطلاق تعمل\r\nبعد كل هذا الوقت.",
+      "es-419": "Un arma ensamblada con\r\nfragmentos desenterrados.\r\nAún dispara, después de todo\r\neste tiempo."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 68,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "アル＝ジェネシス",
+      "en": "Argenesis",
+      "fr": "Argenesis",
+      "it": "Argenesis",
+      "de": "Argenesis",
+      "es": "Argénesis",
+      "ru": "Аргенезис",
+      "pl": "Argenesis",
+      "pt-BR": "Argênese",
+      "ko": "알제네시스",
+      "zh-Hant": "原初創世紀",
+      "zh-Hans": "原初创世纪",
+      "ar": "آرغنسيس",
+      "es-419": "Arsenal del génesis"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を持ち得る太古の\r\n銃槍。機構の制御が復旧された時、\r\n如何なる障害も許さぬ兵器となる。",
+      "en": "An ancient weapon with latent\r\npotential. Its restored control\r\nmechanism makes it nigh\r\nunstoppable.",
+      "fr": "Arme ancienne à la puissance\r\nlatente. Son mécanisme restauré\r\nla rend presque invincible.",
+      "it": "Un'arma antica con un potenziale\r\nlatente. Il suo meccanismo di\r\ncontrollo riparato la rende\r\ninarrestabile.",
+      "de": "Eine alte Waffe mit verborgenem\r\nPotenzial. Der wiederhergestellte\r\nKontrollmechanismus macht sie\r\nnahezu unaufhaltsam.",
+      "es": "Arma ancestral con un potencial\r\nlatente. Su mecanismo de control\r\nrestaurado la ha vuelto casi\r\nimparable.",
+      "ru": "Древнее оружие со скрытым\r\nпотенциалом. Теперь его механизм\r\nуправления восстановлен, и врага\r\nне спасёт никакое укрытие.",
+      "pl": "Starożytna broń o uśpionym\r\npotencjale. Odnowiony mechanizm\r\nsterowania sprawia, że jest\r\nniemal nie do zatrzymania.",
+      "pt-BR": "Arma antiga com potencial\r\nlatente. Seu mecanismo de\r\ncontrole restaurado a torna\r\nquase incontrolável.",
+      "ko": "잠재력을 지닌 태고의\r\n건랜스. 장치의 제어 기능이\r\n회복된다면 어떤 방해물도\r\n용납하지 않는 병기가 된다.",
+      "zh-Hant": "擁有潛藏性能的太古銃槍。只要修復\r\n控制機關的功能，就會化為掃平一切\r\n障礙的武器。",
+      "zh-Hans": "蕴藏潜能的太古铳枪。待到机关控\r\n制修复时，它便会化作突破一切障\r\n碍的兵器。",
+      "ar": "سلاح عتيق ذو إمكانات كامنة.\r\nآلية التحكم المستعادة فيه\r\nتجعل إيقافه شبه مستحيل.",
+      "es-419": "Un arma antigua con potencial\r\nlatente. Su mecanismo de\r\ncontrol restaurado hace que sea\r\ncasi imparable."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 69,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 2,
+    "names": {
+      "ja": "エスペラガンランス",
+      "en": "Esperanza Gunlance",
+      "fr": "Lancecanon Esperanza",
+      "it": "Lancia-fucile Esperanza",
+      "de": "Esperanza-Gewehrlanze",
+      "es": "Lzapist. esperanzadora",
+      "ru": "Копьепушка упования",
+      "pl": "Lancopał Esperanzy",
+      "pt-BR": "Lançarma Esperanza",
+      "ko": "에스페라건랜스",
+      "zh-Hant": "祈望銃槍",
+      "zh-Hans": "期冀铳枪",
+      "ar": "بندقية رماح إسبيرانزا",
+      "es-419": "Lanza pist. esperanzadora"
+    },
+    "descriptions": {
+      "ja": "実地での調査を踏まえて改良された\r\nホープガンランス。希望の光を火種\r\nに変え、放て！　全開の竜撃砲！",
+      "en": "A fully field-tested Hope\r\nGunlance. Arm yourself with\r\nfaith in tomorrow, and let\r\nthe Wyvern Fire fly!",
+      "fr": "Lancecanon d'espoir éprouvé\r\nsur le terrain. Armez-vous de\r\nvotre foi en l'avenir et déchaînez\r\nle Feu de wyverne !",
+      "it": "Una lancia-fucile della speranza\r\ncollaudata. Armati di fede e\r\nlibera il fuoco wyvern!",
+      "de": "Eine praxiserprobte Hoffnungs-\r\ngewehrlanze. Bewaffne dich mit\r\ndem Glauben an die Zukunft und\r\nentzünde das Wyvernfeuer!",
+      "es": "Lanza pistola de esperanza\r\nde probada eficacia.\r\nÁrmate de fe en el mañana\r\n¡y libera el fuego de wyvern!",
+      "ru": "Испытанная в деле и улучшенная\r\n«Копьепушка надежды». Вооружитесь\r\nверой в завтрашний день и дайте\r\nволю пламени виверны!",
+      "pl": "Przetestowany w boju lancopał\r\nnadziei. Uzbrój się w wiarę\r\nw przyszłość i pozwól, by ogień\r\nwiwerny pofrunął!",
+      "pt-BR": "Lançarma da Esperança testada em\r\ncampo. Confie no futuro e dispare\r\no Fogo de Serpe!",
+      "ko": "현지 조사를 바탕으로 개량한\r\n호프건랜스.\r\n희망의 빛을 불씨 삼아\r\n용격포를 발사하라!",
+      "zh-Hant": "經實地調查後改良而成的希望銃槍。\r\n將希望之光化為火種，發射百分百\r\n威力的龍擊砲吧！",
+      "zh-Hans": "通过实地调查而改良的希望铳枪。\r\n将希望之光化为火种，发射！龙击\r\n炮全开！",
+      "ar": "بندقية رماح الأمل مُختبرة بالكامل في الساحة.\r\n<LSNR \"سلِّح نفسكَ\" \"سلّحي نفسكِ\"> بالإيمان بالغد\r\nو<LSNR \"دع\" \"دعي\"> نيران الوايفرن تنطلق!",
+      "es-419": "Una lanza pistola de esperanza\r\nmuy probada en campo. Prepárate\r\ncon fe para el mañana y deja\r\nvolar el fuego de wyvern."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 70,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 2,
+    "names": {
+      "ja": "鎖刃銃槍ボゥホート",
+      "en": "Lawful Bors",
+      "fr": "Bohort le Loyal",
+      "it": "Bors legale",
+      "de": "Rechtschaffener Bors",
+      "es": "Bors leal",
+      "ru": "Праведность Борса",
+      "pl": "Praworządny Bors",
+      "pt-BR": "Bors Justiceiro",
+      "ko": "쇄인총창 보호트",
+      "zh-Hant": "鎖刃銃槍鮑斯",
+      "zh-Hans": "锁刃铳枪·鲍斯",
+      "ar": "بورس شرعي",
+      "es-419": "Bors legítimas"
+    },
+    "descriptions": {
+      "ja": "アルシュアスタの強化形。\r\n平和を誓う騎士は、生きるものを\r\n見下す傲慢な竜を地に下した。",
+      "en": "An upgraded Veldian Hasta.\r\nWith it, a haughty wyvern\r\nthat rose against nature\r\nwas returned to the earth.",
+      "fr": "Hasta Arkveld amélioré. A permis\r\nde rendre à la terre une wyverne\r\narrogante qui avait défié la nature.",
+      "it": "Un'asta Veldian potenziata.\r\nGrazie ad essa, un wyvern\r\ncontronatura è stato sconfitto.",
+      "de": "Eine verbesserte Arkveld-Hasta.\r\nSie brachte einst einen hoch-\r\nmütigen Wyvern zu Fall, der sich\r\ngegen die Natur auflehnte.",
+      "es": "Asta veldiana mejorada. Sirvió\r\npara ponerle las patas en tierra\r\na un orgulloso wyvern que osó\r\nrebelarse contra la naturaleza.",
+      "ru": "Улучшенная «Вельдстражевая гаста».\r\nНекогда именно это оружие помогло\r\nвернуть в землю спесивую виверну,\r\nпошедшую против природы.",
+      "pl": "Ulepszona Wiweriańska Hasta.\r\nWraz z nią wyniosła wiwerna,\r\nktóra przeciwstawiła się\r\nnaturze, powróciła na ziemię.",
+      "pt-BR": "Hasta Veldiana melhorada.\r\nCom ela, uma serpe arrogante\r\nque desafiou a natureza foi\r\nlevada de volta à terra.",
+      "ko": "알슈아스타의 강화형.\r\n평화를 맹세한 기사는\r\n생명체를 업신여긴 오만한\r\n용을 땅에 떨구었다.",
+      "zh-Hant": "強化版鎖刃銃槍。騎士發誓守護\r\n和平，將睥睨所有生物的傲慢之\r\n龍擊倒在地。",
+      "zh-Hans": "锁刃铳枪的强化版。发誓守护和平\r\n的骑士曾以此枪将蔑视众生的傲慢\r\n恶龙击落于地。",
+      "ar": "بندقية (آستا فيلديان) مطوَّرة.\r\nباستخدامها أُعيد إلى الأرض\r\nوايفرن جبار تحدى الطبيعة.",
+      "es-419": "Una versión mejorada del Asta\r\nveldian. Con ella, un wyvern\r\narrogante que se alzó contra la\r\nnaturaleza volvió al polvo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 12
+    },
+    "skills": {
+      "-307644128": 3
+    }
+  }
+]

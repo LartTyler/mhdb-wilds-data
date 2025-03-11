@@ -2,6 +2,10 @@
   {
     "game_id": 1,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "ホープボウⅠ",
       "en": "Hope Bow I",
@@ -36,11 +40,10 @@
     },
     "rarity": 1,
     "attack_raw": 90,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {},
+    "specials": [],
     "crafting": {
       "zenny_cost": 200,
       "inputs": {},
@@ -53,14 +56,15 @@
       "column": 0,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {}
   },
   {
     "game_id": 2,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "ホープボウⅡ",
       "en": "Hope Bow II",
@@ -95,13 +99,10 @@
     },
     "rarity": 1,
     "attack_raw": 100,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-420608864": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 500,
       "inputs": {
@@ -116,14 +117,17 @@
       "column": 1,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {
+      "-420608864": 1
+    }
   },
   {
     "game_id": 3,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "ホープボウⅢ",
       "en": "Hope Bow III",
@@ -158,14 +162,10 @@
     },
     "rarity": 3,
     "attack_raw": 130,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-2096489472": 1,
-      "-420608864": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 1500,
       "inputs": {
@@ -181,14 +181,18 @@
       "column": 3,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 1
+    }
   },
   {
     "game_id": 4,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "ホープボウⅣ",
       "en": "Hope Bow IV",
@@ -223,17 +227,13 @@
     },
     "rarity": 5,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-2096489472": 1,
-      "-420608864": 2
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
@@ -247,14 +247,18 @@
       "column": 5,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 2
+    }
   },
   {
     "game_id": 5,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "ホープボウⅤ",
       "en": "Hope Bow V",
@@ -289,22 +293,18 @@
     },
     "rarity": 7,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-2096489472": 1,
-      "-420608864": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
-        "656": 4,
-        "582": 5
+        "582": 5,
+        "656": 4
       },
       "previous_id": 4,
       "branches": [
@@ -314,14 +314,18 @@
       "column": 7,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    }
   },
   {
     "game_id": 6,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "虚無の弓Ⅰ",
       "en": "Nihil Bow I",
@@ -356,23 +360,19 @@
     },
     "rarity": 4,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       1
     ],
-    "skills": {
-      "-283334048": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
@@ -388,14 +388,17 @@
       "column": 4,
       "row": 5
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 7,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "虚無の弓Ⅱ",
       "en": "Nihil Bow II",
@@ -430,31 +433,27 @@
     },
     "rarity": 6,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "450": 6,
         "298": 2,
-        "451": 4,
-        "445": 1
+        "445": 1,
+        "450": 6,
+        "451": 4
       },
       "previous_id": 6,
       "branches": [
@@ -464,14 +463,17 @@
       "column": 6,
       "row": 5
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   },
   {
     "game_id": 8,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "暗弓ブースウィル",
       "en": "Bookwilthe's Punisher",
@@ -506,32 +508,28 @@
     },
     "rarity": 8,
     "attack_raw": 230,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
+        "448": 6,
         "449": 4,
-        "660": 5,
         "452": 1,
-        "448": 6
+        "660": 5
       },
       "previous_id": 7,
       "branches": [],
@@ -539,14 +537,17 @@
       "column": 8,
       "row": 5
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   },
   {
     "game_id": 9,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "blast"
+    ],
     "names": {
       "ja": "レ・ペルコンスⅠ",
       "en": "Rey Perkonis I",
@@ -581,28 +582,23 @@
     },
     "rarity": 3,
     "attack_raw": 140,
-    "defense": 0,
     "affinity": 0,
+    "defense": 0,
+    "slots": [],
     "specials": [
       {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 9,
+        "kind": "element",
+        "element": "thunder",
+        "raw": 9,
         "hidden": false
       }
     ],
-    "slots": [],
-    "skills": {
-      "-283334048": 1,
-      "-160562336": 1
-    },
     "crafting": {
       "zenny_cost": 2000,
       "inputs": {
-        "142": 2,
+        "139": 3,
         "141": 1,
-        "139": 3
+        "142": 2
       },
       "previous_id": 24,
       "branches": [
@@ -612,14 +608,18 @@
       "column": 3,
       "row": 3
     },
-    "coatings": [
-      "pierce",
-      "blast"
-    ]
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 10,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "blast"
+    ],
     "names": {
       "ja": "レ・ペルコンスⅡ",
       "en": "Rey Perkonis II",
@@ -654,30 +654,25 @@
     },
     "rarity": 5,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-283334048": 1,
-      "-160562336": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
-        "536": 2,
         "104": 3,
+        "536": 2,
         "579": 1
       },
       "previous_id": 9,
@@ -688,14 +683,18 @@
       "column": 5,
       "row": 3
     },
-    "coatings": [
-      "pierce",
-      "blast"
-    ]
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 11,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "blast"
+    ],
     "names": {
       "ja": "レ・ペルコンスⅢ",
       "en": "Rey Perkonis III",
@@ -730,32 +729,27 @@
     },
     "rarity": 7,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-283334048": 2,
-      "-160562336": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
-        "144": 1,
-        "352": 3,
         "143": 1,
-        "350": 4
+        "144": 1,
+        "350": 4,
+        "352": 3
       },
       "previous_id": 10,
       "branches": [
@@ -765,14 +759,18 @@
       "column": 7,
       "row": 3
     },
-    "coatings": [
-      "pierce",
-      "blast"
-    ]
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 12,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "blast"
+    ],
     "names": {
       "ja": "煌雷弓ペルコンス",
       "en": "Perkonis Clairbow",
@@ -807,26 +805,21 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 2,
-      "-160562336": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
@@ -841,14 +834,17 @@
       "column": 8,
       "row": 3
     },
-    "coatings": [
-      "pierce",
-      "blast"
-    ]
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 15,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "風甲弓Ⅰ",
       "en": "Windbrace Bow I",
@@ -883,28 +879,23 @@
     },
     "rarity": 3,
     "attack_raw": 140,
-    "defense": 0,
     "affinity": 0,
+    "defense": 0,
+    "slots": [],
     "specials": [
       {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 9,
+        "kind": "element",
+        "element": "ice",
+        "raw": 9,
         "hidden": false
       }
     ],
-    "slots": [],
-    "skills": {
-      "-283334048": 2,
-      "402237312": 1
-    },
     "crafting": {
       "zenny_cost": 1500,
       "inputs": {
+        "353": 3,
         "356": 2,
-        "599": 1,
-        "353": 3
+        "599": 1
       },
       "previous_id": 19,
       "branches": [
@@ -914,13 +905,17 @@
       "column": 3,
       "row": 6
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
   },
   {
     "game_id": 16,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "風甲弓Ⅱ",
       "en": "Windbrace Bow II",
@@ -955,25 +950,20 @@
     },
     "rarity": 5,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-283334048": 2,
-      "402237312": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 5000,
       "inputs": {
@@ -989,13 +979,17 @@
       "column": 5,
       "row": 6
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
   },
   {
     "game_id": 17,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "風甲弓Ⅲ",
       "en": "Windbrace Bow III",
@@ -1030,30 +1024,25 @@
     },
     "rarity": 7,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-283334048": 3,
-      "402237312": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
-        "359": 5,
         "92": 1,
+        "359": 5,
         "425": 3
       },
       "previous_id": 16,
@@ -1064,13 +1053,17 @@
       "column": 7,
       "row": 6
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
   },
   {
     "game_id": 18,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "風甲弓イバミ",
       "en": "Windbrace Ibami",
@@ -1105,32 +1098,27 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3,
-      "402237312": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
+        "360": 6,
         "424": 1,
-        "659": 5,
-        "360": 6
+        "659": 5
       },
       "previous_id": 17,
       "branches": [],
@@ -1138,13 +1126,18 @@
       "column": 8,
       "row": 6
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
   },
   {
     "game_id": 19,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ケマスアルコⅠ",
       "en": "Quematrice Arco I",
@@ -1179,27 +1172,23 @@
     },
     "rarity": 1,
     "attack_raw": 100,
-    "defense": 0,
     "affinity": 5,
+    "defense": 0,
+    "slots": [],
     "specials": [
       {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 7,
+        "kind": "element",
+        "element": "fire",
+        "raw": 7,
         "hidden": false
       }
     ],
-    "slots": [],
-    "skills": {
-      "-283334048": 1
-    },
     "crafting": {
       "zenny_cost": 500,
       "inputs": {
-        "299": 2,
+        "88": 3,
         "90": 1,
-        "88": 3
+        "299": 2
       },
       "previous_id": 1,
       "branches": [
@@ -1210,14 +1199,17 @@
       "column": 1,
       "row": 4
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 1
+    }
   },
   {
     "game_id": 20,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ケマスアルコⅡ",
       "en": "Quematrice Arco II",
@@ -1252,27 +1244,23 @@
     },
     "rarity": 3,
     "attack_raw": 140,
-    "defense": 0,
     "affinity": 5,
+    "defense": 0,
+    "slots": [],
     "specials": [
       {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 9,
+        "kind": "element",
+        "element": "fire",
+        "raw": 9,
         "hidden": false
       }
     ],
-    "slots": [],
-    "skills": {
-      "-283334048": 2
-    },
     "crafting": {
       "zenny_cost": 1500,
       "inputs": {
-        "580": 1,
+        "55": 1,
         "91": 1,
-        "55": 1
+        "580": 1
       },
       "previous_id": 19,
       "branches": [
@@ -1283,14 +1271,17 @@
       "column": 3,
       "row": 4
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 21,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ケマスアルコⅢ",
       "en": "Quematrice Arco III",
@@ -1325,24 +1316,20 @@
     },
     "rarity": 5,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 5,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-283334048": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
@@ -1358,14 +1345,17 @@
       "column": 5,
       "row": 4
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 22,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ケマスアルコⅣ",
       "en": "Quematrice Arco IV",
@@ -1400,31 +1390,27 @@
     },
     "rarity": 7,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": 5,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
-        "594": 5,
+        "92": 1,
         "302": 6,
         "389": 3,
-        "92": 1
+        "594": 5
       },
       "previous_id": 21,
       "branches": [
@@ -1434,14 +1420,17 @@
       "column": 7,
       "row": 4
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   },
   {
     "game_id": 23,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "炎尾弓リビオラ",
       "en": "Firetrail Leviora",
@@ -1476,25 +1465,21 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 5,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
@@ -1508,14 +1493,17 @@
       "column": 8,
       "row": 4
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   },
   {
     "game_id": 24,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "竜穿弓Ⅰ",
       "en": "Dragon Perforator I",
@@ -1550,13 +1538,10 @@
     },
     "rarity": 2,
     "attack_raw": 120,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "1613139840": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 800,
       "inputs": {
@@ -1572,14 +1557,17 @@
       "column": 2,
       "row": 2
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 1
+    }
   },
   {
     "game_id": 25,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "竜穿弓Ⅱ",
       "en": "Dragon Perforator II",
@@ -1614,15 +1602,12 @@
     },
     "rarity": 4,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       1
     ],
-    "skills": {
-      "1613139840": 2
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
@@ -1637,14 +1622,17 @@
       "column": 4,
       "row": 2
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 2
+    }
   },
   {
     "game_id": 26,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "竜穿弓Ⅲ",
       "en": "Dragon Perforator III",
@@ -1679,21 +1667,18 @@
     },
     "rarity": 6,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "655": 3,
         "582": 4,
+        "655": 3,
         "698": 3
       },
       "previous_id": 25,
@@ -1704,14 +1689,17 @@
       "column": 6,
       "row": 2
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 27,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "真・竜穿弓",
       "en": "True Dragon Perforator",
@@ -1746,22 +1734,19 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "579": 1,
         "92": 1,
+        "579": 1,
         "659": 5
       },
       "previous_id": 26,
@@ -1770,14 +1755,17 @@
       "column": 8,
       "row": 2
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 28,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "blast"
+    ],
     "names": {
       "ja": "アルラスボウⅠ",
       "en": "Albirath Bow I",
@@ -1812,24 +1800,19 @@
     },
     "rarity": 4,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       1
     ],
-    "skills": {
-      "-420608864": 1,
-      "313598432": 1
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
@@ -1845,14 +1828,18 @@
       "column": 4,
       "row": 1
     },
-    "coatings": [
-      "power",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 1,
+      "313598432": 1
+    }
   },
   {
     "game_id": 29,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "blast"
+    ],
     "names": {
       "ja": "アルラスボウⅡ",
       "en": "Albirath Bow II",
@@ -1887,32 +1874,27 @@
     },
     "rarity": 6,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-420608864": 1,
-      "313598432": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
         "408": 5,
         "410": 2,
-        "706": 1,
-        "608": 1
+        "608": 1,
+        "706": 1
       },
       "previous_id": 28,
       "branches": [
@@ -1922,14 +1904,18 @@
       "column": 6,
       "row": 1
     },
-    "coatings": [
-      "power",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    }
   },
   {
     "game_id": 30,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "blast"
+    ],
     "names": {
       "ja": "エスピキュラ",
       "en": "Solar Spicule",
@@ -1964,33 +1950,28 @@
     },
     "rarity": 8,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-420608864": 1,
-      "313598432": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "705": 1,
         "407": 6,
         "455": 6,
-        "660": 5
+        "660": 5,
+        "705": 1
       },
       "previous_id": 29,
       "branches": [],
@@ -1998,14 +1979,17 @@
       "column": 8,
       "row": 1
     },
-    "coatings": [
-      "power",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    }
   },
   {
     "game_id": 31,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "プロミネンスボウⅠ",
       "en": "Prominence Bow I",
@@ -2040,31 +2024,27 @@
     },
     "rarity": 6,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 16,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-1607763456": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "561": 2,
-        "558": 4,
         "411": 1,
-        "557": 5
+        "557": 5,
+        "558": 4,
+        "561": 2
       },
       "previous_id": 33,
       "branches": [
@@ -2075,13 +2055,16 @@
       "column": 6,
       "row": 18
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-1607763456": 3
+    }
   },
   {
     "game_id": 32,
     "kind": "bow",
+    "coatings": [
+      "power"
+    ],
     "names": {
       "ja": "ダークフィラメント",
       "en": "Dark Filament",
@@ -2116,32 +2099,28 @@
     },
     "rarity": 8,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 20,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-1607763456": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "660": 5,
-        "559": 1,
         "556": 6,
-        "560": 1
+        "559": 1,
+        "560": 1,
+        "660": 5
       },
       "previous_id": 31,
       "branches": [],
@@ -2149,13 +2128,17 @@
       "column": 8,
       "row": 18
     },
-    "coatings": [
-      "power"
-    ]
+    "skills": {
+      "-1607763456": 3
+    }
   },
   {
     "game_id": 33,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "クイーンブラスターⅠ",
       "en": "Queen Blaster I",
@@ -2190,32 +2173,27 @@
     },
     "rarity": 5,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-1629629184": 1,
-      "1613139840": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 5000,
       "inputs": {
-        "536": 1,
-        "104": 3,
         "102": 5,
-        "105": 2
+        "104": 3,
+        "105": 2,
+        "536": 1
       },
       "previous_id": null,
       "branches": [
@@ -2226,14 +2204,18 @@
       "column": 5,
       "row": 17
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 2
+    }
   },
   {
     "game_id": 34,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "クイーンブラスターⅡ",
       "en": "Queen Blaster II",
@@ -2268,32 +2250,27 @@
     },
     "rarity": 7,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 13,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-1629629184": 1,
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
         "92": 1,
-        "411": 1,
+        "103": 6,
         "352": 2,
-        "103": 6
+        "411": 1
       },
       "previous_id": 33,
       "branches": [
@@ -2303,14 +2280,18 @@
       "column": 7,
       "row": 17
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    }
   },
   {
     "game_id": 35,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ],
     "names": {
       "ja": "クイーンエテノルク",
       "en": "Queen's Melody",
@@ -2345,32 +2326,27 @@
     },
     "rarity": 8,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-1629629184": 1,
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "659": 5,
+        "102": 5,
         "106": 1,
-        "102": 5
+        "659": 5
       },
       "previous_id": 34,
       "branches": [],
@@ -2378,14 +2354,19 @@
       "column": 8,
       "row": 17
     },
-    "coatings": [
-      "pierce",
-      "paralysis"
-    ]
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    }
   },
   {
     "game_id": 36,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ],
     "names": {
       "ja": "スキュラフィストⅠ",
       "en": "Scylla Fist I",
@@ -2420,20 +2401,16 @@
     },
     "rarity": 3,
     "attack_raw": 120,
-    "defense": 0,
     "affinity": 20,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-1475134080": 1,
-      "-283334048": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 1500,
       "inputs": {
         "513": 3,
-        "605": 1,
-        "515": 2
+        "515": 2,
+        "605": 1
       },
       "previous_id": 59,
       "branches": [
@@ -2443,15 +2420,19 @@
       "column": 3,
       "row": 10
     },
-    "coatings": [
-      "pierce",
-      "paralysis",
-      "sleep"
-    ]
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    }
   },
   {
     "game_id": 37,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ],
     "names": {
       "ja": "スキュラフィストⅡ",
       "en": "Scylla Fist II",
@@ -2486,23 +2467,19 @@
     },
     "rarity": 5,
     "attack_raw": 150,
-    "defense": 0,
     "affinity": 20,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-1475134080": 1,
-      "-283334048": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 5000,
       "inputs": {
         "519": 3,
-        "606": 3,
-        "521": 1
+        "521": 1,
+        "606": 3
       },
       "previous_id": 36,
       "branches": [
@@ -2512,15 +2489,19 @@
       "column": 5,
       "row": 10
     },
-    "coatings": [
-      "pierce",
-      "paralysis",
-      "sleep"
-    ]
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    }
   },
   {
     "game_id": 38,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ],
     "names": {
       "ja": "スキュラフィストⅢ",
       "en": "Scylla Fist III",
@@ -2555,24 +2536,20 @@
     },
     "rarity": 7,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 20,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-1475134080": 2,
-      "-283334048": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
+        "425": 3,
         "480": 2,
         "490": 3,
-        "520": 5,
-        "425": 3
+        "520": 5
       },
       "previous_id": 37,
       "branches": [
@@ -2582,15 +2559,19 @@
       "column": 7,
       "row": 10
     },
-    "coatings": [
-      "pierce",
-      "paralysis",
-      "sleep"
-    ]
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    }
   },
   {
     "game_id": 39,
     "kind": "bow",
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ],
     "names": {
       "ja": "ネルスルペレザ",
       "en": "Nershock",
@@ -2625,24 +2606,20 @@
     },
     "rarity": 8,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": 20,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-1475134080": 2,
-      "-283334048": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "659": 5,
         "518": 6,
-        "534": 1
+        "534": 1,
+        "659": 5
       },
       "previous_id": 38,
       "branches": [],
@@ -2650,15 +2627,18 @@
       "column": 8,
       "row": 10
     },
-    "coatings": [
-      "pierce",
-      "paralysis",
-      "sleep"
-    ]
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    }
   },
   {
     "game_id": 40,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "闢虐弓Ⅰ",
       "en": "Dosha Fearbringer I",
@@ -2693,19 +2673,16 @@
     },
     "rarity": 2,
     "attack_raw": 140,
-    "defense": 20,
     "affinity": -5,
-    "specials": [],
+    "defense": 20,
     "slots": [],
-    "skills": {
-      "1758661504": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 800,
       "inputs": {
-        "36": 1,
         "34": 3,
-        "35": 2
+        "35": 2,
+        "36": 1
       },
       "previous_id": 46,
       "branches": [
@@ -2717,14 +2694,17 @@
       "column": 2,
       "row": 11
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "1758661504": 1
+    }
   },
   {
     "game_id": 41,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "闢虐弓Ⅱ",
       "en": "Dosha Fearbringer II",
@@ -2759,16 +2739,13 @@
     },
     "rarity": 4,
     "attack_raw": 180,
-    "defense": 20,
     "affinity": -5,
-    "specials": [],
+    "defense": 20,
     "slots": [
       1,
       1
     ],
-    "skills": {
-      "1758661504": 2
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
@@ -2784,14 +2761,17 @@
       "column": 4,
       "row": 11
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "1758661504": 2
+    }
   },
   {
     "game_id": 42,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "闢虐弓Ⅲ",
       "en": "Dosha Fearbringer III",
@@ -2826,21 +2806,18 @@
     },
     "rarity": 6,
     "attack_raw": 210,
-    "defense": 20,
     "affinity": -5,
-    "specials": [],
+    "defense": 20,
     "slots": [
       2,
       2
     ],
-    "skills": {
-      "1758661504": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "320": 4,
         "319": 6,
+        "320": 4,
         "321": 2
       },
       "previous_id": 41,
@@ -2851,14 +2828,17 @@
       "column": 6,
       "row": 11
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "1758661504": 3
+    }
   },
   {
     "game_id": 43,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "blast"
+    ],
     "names": {
       "ja": "護闢虐弓Ⅰ",
       "en": "Dosha Griefbringer I",
@@ -2893,22 +2873,18 @@
     },
     "rarity": 4,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": -15,
-    "specials": [],
+    "defense": 0,
     "slots": [
       1
     ],
-    "skills": {
-      "-420608864": 1,
-      "-160562336": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
-        "393": 1,
+        "390": 3,
         "392": 2,
-        "390": 3
+        "393": 1
       },
       "previous_id": 40,
       "branches": [
@@ -2918,14 +2894,18 @@
       "column": 4,
       "row": 14
     },
-    "coatings": [
-      "close-range",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 1,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 44,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "blast"
+    ],
     "names": {
       "ja": "護闢虐弓Ⅱ",
       "en": "Dosha Griefbringer II",
@@ -2960,17 +2940,13 @@
     },
     "rarity": 6,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": -15,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       2
     ],
-    "skills": {
-      "-420608864": 2,
-      "-160562336": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
@@ -2987,14 +2963,18 @@
       "column": 6,
       "row": 14
     },
-    "coatings": [
-      "close-range",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 45,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "blast"
+    ],
     "names": {
       "ja": "護闢虐弓ガルグマクス",
       "en": "Griefbringer Urstox",
@@ -3029,23 +3009,19 @@
     },
     "rarity": 8,
     "attack_raw": 250,
-    "defense": 0,
     "affinity": -15,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       3,
       1
     ],
-    "skills": {
-      "-420608864": 2,
-      "-160562336": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "395": 6,
         "37": 1,
+        "395": 6,
         "660": 5,
         "665": 6
       },
@@ -3055,14 +3031,18 @@
       "column": 8,
       "row": 14
     },
-    "coatings": [
-      "close-range",
-      "blast"
-    ]
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    }
   },
   {
     "game_id": 46,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "poison"
+    ],
     "names": {
       "ja": "ハンターボウⅠ",
       "en": "Hunter's Bow I",
@@ -3097,13 +3077,10 @@
     },
     "rarity": 1,
     "attack_raw": 110,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-283334048": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 500,
       "inputs": {
@@ -3119,14 +3096,17 @@
       "column": 0,
       "row": 7
     },
-    "coatings": [
-      "close-range",
-      "poison"
-    ]
+    "skills": {
+      "-283334048": 1
+    }
   },
   {
     "game_id": 47,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "poison"
+    ],
     "names": {
       "ja": "ハンターボウⅡ",
       "en": "Hunter's Bow II",
@@ -3161,14 +3141,10 @@
     },
     "rarity": 2,
     "attack_raw": 130,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-283334048": 1,
-      "1": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 800,
       "inputs": {
@@ -3184,14 +3160,18 @@
       "column": 2,
       "row": 7
     },
-    "coatings": [
-      "close-range",
-      "poison"
-    ]
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    }
   },
   {
     "game_id": 48,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "poison"
+    ],
     "names": {
       "ja": "ハンターボウⅢ",
       "en": "Hunter's Bow III",
@@ -3226,16 +3206,12 @@
     },
     "rarity": 4,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       1
     ],
-    "skills": {
-      "-283334048": 2,
-      "1": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
@@ -3249,14 +3225,18 @@
       "column": 4,
       "row": 7
     },
-    "coatings": [
-      "close-range",
-      "poison"
-    ]
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    }
   },
   {
     "game_id": 49,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "poison"
+    ],
     "names": {
       "ja": "ハンターボウⅣ",
       "en": "Hunter's Bow IV",
@@ -3291,22 +3271,18 @@
     },
     "rarity": 6,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3,
-      "1": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "658": 4,
-        "61": 2
+        "61": 2,
+        "658": 4
       },
       "previous_id": 48,
       "branches": [
@@ -3316,14 +3292,18 @@
       "column": 6,
       "row": 7
     },
-    "coatings": [
-      "close-range",
-      "poison"
-    ]
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    }
   },
   {
     "game_id": 50,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "poison"
+    ],
     "names": {
       "ja": "パワーハンターボウ",
       "en": "Hunter's Stoutbow",
@@ -3358,25 +3338,21 @@
     },
     "rarity": 8,
     "attack_raw": 230,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3,
-      "1": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "62": 1,
         "37": 1,
-        "659": 5,
-        "656": 5
+        "62": 1,
+        "656": 5,
+        "659": 5
       },
       "previous_id": 49,
       "branches": [],
@@ -3384,14 +3360,17 @@
       "column": 8,
       "row": 7
     },
-    "coatings": [
-      "close-range",
-      "poison"
-    ]
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    }
   },
   {
     "game_id": 51,
     "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
     "names": {
       "ja": "レラ＝アルジャナルⅠ",
       "en": "Blinding Fulgur I",
@@ -3426,31 +3405,27 @@
     },
     "rarity": 6,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 16,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "313598432": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "598": 4,
-        "584": 2,
         "483": 5,
-        "485": 1
+        "485": 1,
+        "584": 2,
+        "598": 4
       },
       "previous_id": 64,
       "branches": [
@@ -3460,13 +3435,16 @@
       "column": 6,
       "row": 16
     },
-    "coatings": [
-      "close-range"
-    ]
+    "skills": {
+      "313598432": 3
+    }
   },
   {
     "game_id": 52,
     "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
     "names": {
       "ja": "護雷弓レラガルデ",
       "en": "Fulgurbow Guardiana",
@@ -3501,32 +3479,28 @@
     },
     "rarity": 8,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 15,
-    "specials": [
-      {
-        "kind": {
-          "Element": "thunder"
-        },
-        "raw_damage": 20,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "313598432": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "484": 4,
         "482": 6,
-        "660": 5,
-        "486": 1
+        "484": 4,
+        "486": 1,
+        "660": 5
       },
       "previous_id": 51,
       "branches": [],
@@ -3534,13 +3508,16 @@
       "column": 8,
       "row": 16
     },
-    "coatings": [
-      "close-range"
-    ]
+    "skills": {
+      "313598432": 3
+    }
   },
   {
     "game_id": 53,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "ウズ・フイリャクⅠ",
       "en": "Uth Khviluk I",
@@ -3575,27 +3552,23 @@
     },
     "rarity": 3,
     "attack_raw": 160,
-    "defense": 0,
     "affinity": -20,
+    "defense": 0,
+    "slots": [],
     "specials": [
       {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 10,
+        "kind": "element",
+        "element": "water",
+        "raw": 10,
         "hidden": false
       }
     ],
-    "slots": [],
-    "skills": {
-      "1613139840": 2
-    },
     "crafting": {
       "zenny_cost": 2000,
       "inputs": {
         "324": 1,
-        "328": 1,
-        "326": 2
+        "326": 2,
+        "328": 1
       },
       "previous_id": 47,
       "branches": [
@@ -3605,13 +3578,16 @@
       "column": 3,
       "row": 8
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "1613139840": 2
+    }
   },
   {
     "game_id": 54,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "ウズ・フイリャクⅡ",
       "en": "Uth Khviluk II",
@@ -3646,24 +3622,20 @@
     },
     "rarity": 5,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": -20,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 14,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "1613139840": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
@@ -3679,13 +3651,16 @@
       "column": 5,
       "row": 8
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "1613139840": 2
+    }
   },
   {
     "game_id": 55,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "ウズ・フイリャクⅢ",
       "en": "Uth Khviluk III",
@@ -3720,31 +3695,27 @@
     },
     "rarity": 7,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": -20,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 17,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
+        "327": 1,
         "331": 3,
         "333": 5,
-        "335": 3,
-        "327": 1
+        "335": 3
       },
       "previous_id": 54,
       "branches": [
@@ -3754,13 +3725,16 @@
       "column": 7,
       "row": 8
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 56,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "波濤弓フイリャク",
       "en": "Khviluk-of-the-Waves",
@@ -3795,32 +3769,28 @@
     },
     "rarity": 8,
     "attack_raw": 240,
-    "defense": 0,
     "affinity": -20,
-    "specials": [
-      {
-        "kind": {
-          "Element": "water"
-        },
-        "raw_damage": 20,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "661": 5,
         "330": 6,
+        "332": 6,
         "334": 1,
-        "332": 6
+        "661": 5
       },
       "previous_id": 55,
       "branches": [],
@@ -3828,13 +3798,17 @@
       "column": 8,
       "row": 8
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 57,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "blast"
+    ],
     "names": {
       "ja": "ビジョンofロストⅠ",
       "en": "Entbehrung I",
@@ -3869,30 +3843,26 @@
     },
     "rarity": 7,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 20,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 12,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "313598432": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
+        "418": 5,
         "565": 4,
         "566": 1,
-        "418": 5,
         "569": 3
       },
       "previous_id": 31,
@@ -3903,14 +3873,17 @@
       "column": 7,
       "row": 19
     },
-    "coatings": [
-      "power",
-      "blast"
-    ]
+    "skills": {
+      "313598432": 3
+    }
   },
   {
     "game_id": 58,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "blast"
+    ],
     "names": {
       "ja": "ビジョンofディスペア",
       "en": "Verzweiflung",
@@ -3945,31 +3918,27 @@
     },
     "rarity": 8,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": 20,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "313598432": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
         "567": 2,
-        "570": 5,
         "568": 1,
+        "570": 5,
         "661": 5
       },
       "previous_id": 57,
@@ -3978,14 +3947,19 @@
       "column": 8,
       "row": 19
     },
-    "coatings": [
-      "power",
-      "blast"
-    ]
+    "skills": {
+      "313598432": 3
+    }
   },
   {
     "game_id": 59,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis",
+      "poison",
+      "blast"
+    ],
     "names": {
       "ja": "パワーワイルドボウⅠ",
       "en": "Wild Power Bow I",
@@ -4020,13 +3994,10 @@
     },
     "rarity": 2,
     "attack_raw": 120,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [],
-    "skills": {
-      "-160562336": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 800,
       "inputs": {
@@ -4043,16 +4014,19 @@
       "column": 2,
       "row": 9
     },
+    "skills": {
+      "-160562336": 1
+    }
+  },
+  {
+    "game_id": 60,
+    "kind": "bow",
     "coatings": [
       "power",
       "paralysis",
       "poison",
       "blast"
-    ]
-  },
-  {
-    "game_id": 60,
-    "kind": "bow",
+    ],
     "names": {
       "ja": "パワーワイルドボウⅡ",
       "en": "Wild Power Bow II",
@@ -4087,23 +4061,19 @@
     },
     "rarity": 5,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-1475134080": 1,
-      "-160562336": 1
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
+        "510": 5,
         "511": 4,
         "572": 2,
-        "510": 5,
         "585": 1
       },
       "previous_id": 59,
@@ -4114,16 +4084,20 @@
       "column": 5,
       "row": 9
     },
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 1
+    }
+  },
+  {
+    "game_id": 61,
+    "kind": "bow",
     "coatings": [
       "power",
       "paralysis",
       "poison",
       "blast"
-    ]
-  },
-  {
-    "game_id": 61,
-    "kind": "bow",
+    ],
     "names": {
       "ja": "密林のカルファード",
       "en": "Wildwood Kalifa",
@@ -4158,24 +4132,20 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       3,
       1
     ],
-    "skills": {
-      "-1475134080": 1,
-      "-160562336": 2
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
         "37": 1,
-        "659": 5,
-        "512": 2
+        "512": 2,
+        "659": 5
       },
       "previous_id": 60,
       "branches": [],
@@ -4183,16 +4153,18 @@
       "column": 8,
       "row": 9
     },
-    "coatings": [
-      "power",
-      "paralysis",
-      "poison",
-      "blast"
-    ]
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 2
+    }
   },
   {
     "game_id": 62,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "paralysis"
+    ],
     "names": {
       "ja": "ブラン＝シャルガⅠ",
       "en": "Blan Sharanga I",
@@ -4227,31 +4199,27 @@
     },
     "rarity": 6,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": -10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 11,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 11,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "539": 4,
-        "577": 4,
         "538": 5,
-        "541": 2
+        "539": 4,
+        "541": 2,
+        "577": 4
       },
       "previous_id": null,
       "branches": [
@@ -4261,14 +4229,17 @@
       "column": 6,
       "row": 20
     },
-    "coatings": [
-      "close-range",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 63,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "paralysis"
+    ],
     "names": {
       "ja": "シンハ＝シャルガ",
       "en": "Singha Sharanga",
@@ -4303,32 +4274,28 @@
     },
     "rarity": 8,
     "attack_raw": 230,
-    "defense": 0,
     "affinity": -10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "ice"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "1613139840": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
+        "424": 1,
         "537": 6,
-        "660": 5,
         "540": 4,
-        "424": 1
+        "660": 5
       },
       "previous_id": 62,
       "branches": [],
@@ -4336,14 +4303,16 @@
       "column": 8,
       "row": 20
     },
-    "coatings": [
-      "close-range",
-      "paralysis"
-    ]
+    "skills": {
+      "1613139840": 3
+    }
   },
   {
     "game_id": 64,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "鳥幣弓Ⅰ",
       "en": "Kut-Ku Stave I",
@@ -4378,31 +4347,27 @@
     },
     "rarity": 5,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 23,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       1
     ],
-    "skills": {
-      "-1475134080": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 23,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 4000,
       "inputs": {
-        "526": 3,
-        "527": 1,
         "522": 5,
-        "524": 2
+        "524": 2,
+        "526": 3,
+        "527": 1
       },
       "previous_id": null,
       "branches": [
@@ -4413,13 +4378,16 @@
       "column": 5,
       "row": 15
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "-1475134080": 2
+    }
   },
   {
     "game_id": 65,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "鳥幣弓Ⅱ",
       "en": "Kut-Ku Stave II",
@@ -4454,31 +4422,27 @@
     },
     "rarity": 7,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 27,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-1475134080": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 27,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
         "389": 2,
+        "525": 4,
         "534": 1,
-        "594": 4,
-        "525": 4
+        "594": 4
       },
       "previous_id": 64,
       "branches": [
@@ -4488,13 +4452,16 @@
       "column": 7,
       "row": 15
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "-1475134080": 3
+    }
   },
   {
     "game_id": 66,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "怪鳥幣弓",
       "en": "Strange Kut-Ku Stave",
@@ -4529,31 +4496,27 @@
     },
     "rarity": 8,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "fire"
-        },
-        "raw_damage": 30,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-1475134080": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
+        "388": 1,
         "523": 6,
-        "659": 5,
-        "388": 1
+        "659": 5
       },
       "previous_id": 65,
       "branches": [],
@@ -4561,13 +4524,17 @@
       "column": 8,
       "row": 15
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "-1475134080": 3
+    }
   },
   {
     "game_id": 67,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ガルシュアルクムⅠ",
       "en": "G. Veldian Arcum I",
@@ -4602,30 +4569,26 @@
     },
     "rarity": 4,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": -10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 9,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       1,
       1
     ],
-    "skills": {
-      "-283334048": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 9,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 2600,
       "inputs": {
         "454": 3,
-        "607": 1,
         "588": 2,
+        "607": 1,
         "664": 3
       },
       "previous_id": 40,
@@ -4636,14 +4599,17 @@
       "column": 4,
       "row": 12
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 68,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "ガルシュアルクムⅡ",
       "en": "G. Veldian Arcum II",
@@ -4678,31 +4644,27 @@
     },
     "rarity": 6,
     "attack_raw": 210,
-    "defense": 0,
     "affinity": -10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 12,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       2,
       2
     ],
-    "skills": {
-      "-283334048": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 10000,
       "inputs": {
-        "665": 6,
+        "62": 1,
         "455": 6,
         "608": 3,
-        "62": 1
+        "665": 6
       },
       "previous_id": 67,
       "branches": [
@@ -4713,14 +4675,17 @@
       "column": 6,
       "row": 12
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 69,
     "kind": "bow",
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ],
     "names": {
       "ja": "護鎖刃弓ガルストラム",
       "en": "G. Renowned Tristram",
@@ -4755,32 +4720,28 @@
     },
     "rarity": 8,
     "attack_raw": 240,
-    "defense": 0,
     "affinity": -10,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 15,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       3,
       1
     ],
-    "skills": {
-      "-283334048": 2
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
+        "456": 2,
         "463": 4,
-        "661": 5,
         "465": 1,
-        "456": 2
+        "661": 5
       },
       "previous_id": 68,
       "branches": [],
@@ -4788,14 +4749,16 @@
       "column": 8,
       "row": 12
     },
-    "coatings": [
-      "close-range",
-      "exhaust"
-    ]
+    "skills": {
+      "-283334048": 2
+    }
   },
   {
     "game_id": 70,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "アルシュアルクムⅠ",
       "en": "Veldian Arcum I",
@@ -4830,31 +4793,27 @@
     },
     "rarity": 7,
     "attack_raw": 200,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 16,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 14000,
       "inputs": {
-        "466": 3,
-        "462": 2,
+        "92": 1,
         "459": 4,
-        "92": 1
+        "462": 2,
+        "466": 3
       },
       "previous_id": 68,
       "branches": [
@@ -4864,13 +4823,16 @@
       "column": 8,
       "row": 13
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   },
   {
     "game_id": 71,
     "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
     "names": {
       "ja": "アーティアルークⅠ",
       "en": "Artian Sight I",
@@ -4905,15 +4867,14 @@
     },
     "rarity": 6,
     "attack_raw": 170,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       2,
       2
     ],
-    "skills": {},
+    "specials": [],
     "crafting": {
       "zenny_cost": 40,
       "inputs": {},
@@ -4923,13 +4884,14 @@
       "column": 0,
       "row": 0
     },
-    "coatings": [
-      "close-range"
-    ]
+    "skills": {}
   },
   {
     "game_id": 72,
     "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
     "names": {
       "ja": "アーティアルークⅡ",
       "en": "Artian Sight II",
@@ -4964,15 +4926,14 @@
     },
     "rarity": 7,
     "attack_raw": 180,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [
       2,
       2,
       2
     ],
-    "skills": {},
+    "specials": [],
     "crafting": {
       "zenny_cost": 100,
       "inputs": {},
@@ -4982,13 +4943,14 @@
       "column": 0,
       "row": 0
     },
-    "coatings": [
-      "close-range"
-    ]
+    "skills": {}
   },
   {
     "game_id": 73,
     "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
     "names": {
       "ja": "アンギルバイン",
       "en": "Angelbein",
@@ -5023,15 +4985,14 @@
     },
     "rarity": 8,
     "attack_raw": 190,
-    "defense": 0,
     "affinity": 5,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       3,
       3
     ],
-    "skills": {},
+    "specials": [],
     "crafting": {
       "zenny_cost": 200,
       "inputs": {},
@@ -5041,13 +5002,15 @@
       "column": 0,
       "row": 0
     },
-    "coatings": [
-      "close-range"
-    ]
+    "skills": {}
   },
   {
     "game_id": 78,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
     "names": {
       "ja": "エスペラボウ",
       "en": "Esperanza Bow",
@@ -5082,18 +5045,14 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 0,
-    "specials": [],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-2096489472": 1,
-      "-420608864": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
@@ -5106,14 +5065,18 @@
       "column": 8,
       "row": 0
     },
-    "coatings": [
-      "power",
-      "paralysis"
-    ]
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    }
   },
   {
     "game_id": 79,
     "kind": "bow",
+    "coatings": [
+      "power",
+      "exhaust"
+    ],
     "names": {
       "ja": "闢虐弓カリステクス",
       "en": "Fearbringer Callistox",
@@ -5148,23 +5111,20 @@
     },
     "rarity": 8,
     "attack_raw": 240,
-    "defense": 20,
     "affinity": -5,
-    "specials": [],
+    "defense": 20,
     "slots": [
       3,
       3,
       1
     ],
-    "skills": {
-      "1758661504": 3
-    },
+    "specials": [],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
         "37": 1,
-        "660": 5,
-        "318": 6
+        "318": 6,
+        "660": 5
       },
       "previous_id": 42,
       "branches": [],
@@ -5172,14 +5132,16 @@
       "column": 8,
       "row": 11
     },
-    "coatings": [
-      "power",
-      "exhaust"
-    ]
+    "skills": {
+      "1758661504": 3
+    }
   },
   {
     "game_id": 80,
     "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
     "names": {
       "ja": "鎖刃弓トリストラム",
       "en": "Renowned Tristram",
@@ -5214,32 +5176,28 @@
     },
     "rarity": 8,
     "attack_raw": 220,
-    "defense": 0,
     "affinity": 0,
-    "specials": [
-      {
-        "kind": {
-          "Element": "dragon"
-        },
-        "raw_damage": 20,
-        "hidden": false
-      }
-    ],
+    "defense": 0,
     "slots": [
       3,
       2,
       1
     ],
-    "skills": {
-      "-283334048": 3
-    },
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
     "crafting": {
       "zenny_cost": 20000,
       "inputs": {
-        "465": 1,
         "460": 5,
-        "661": 5,
-        "464": 3
+        "464": 3,
+        "465": 1,
+        "661": 5
       },
       "previous_id": 70,
       "branches": [],
@@ -5247,8 +5205,8 @@
       "column": 9,
       "row": 13
     },
-    "coatings": [
-      "pierce"
-    ]
+    "skills": {
+      "-283334048": 3
+    }
   }
 ]

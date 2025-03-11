@@ -5,6 +5,7 @@ use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
+use std::fmt::Display;
 use std::fs;
 use std::fs::File;
 use std::hash::Hash;
@@ -27,6 +28,7 @@ pub enum Processor {
     Amulets,
     Armor,
     Skill,
+    Weapons,
     Bow,
     ChargeBlade,
     Gunlance,
@@ -308,12 +310,14 @@ trait Lookup {
     type Key;
 
     fn find_in<'a, T>(&self, id: Self::Key, container: &'a [T]) -> Option<&'a T>;
+    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T;
     fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T>;
+    fn find_or_panic_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> &'a mut T;
 }
 
 impl<K> Lookup for LookupMap<K>
 where
-    K: Eq + Hash,
+    K: Eq + Hash + Display + Copy,
 {
     type Key = K;
 
@@ -325,12 +329,22 @@ where
         }
     }
 
+    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T {
+        self.find_in(id, container)
+            .unwrap_or_else(|| panic!("Could not find object by ID {}", id))
+    }
+
     fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T> {
         if let Some(index) = self.get(&id) {
             container.get_mut(*index)
         } else {
             None
         }
+    }
+
+    fn find_or_panic_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> &'a mut T {
+        self.find_in_mut(id, container)
+            .unwrap_or_else(|| panic!("Could not find object by ID {}", id))
     }
 }
 

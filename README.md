@@ -27,6 +27,7 @@
     - [Notes](#notes-4)
     - [Crafting Info](#crafting-info)
     - [Bow](#bow)
+    - [Gunlance](#gunlance)
   - [Locations](#locations)
     - [Data Files](#data-files-5)
     - [Translation Files](#translation-files-5)
@@ -301,7 +302,7 @@ Fields listed below are my best guess, based on which items have the flag set.
 |Type ID|Engine Enum Name|Meaning|
 |---|---|
 |0|EXPENDABLE|Consumables|
-|1|TOOL|Tools|
+|1|TOOL|Tools, such as mantles and the capture net|
 |2|MATERIAL|Materials|
 |3|SHELL|Bowgun ammo|
 |4|BOTTLE|Bow coatings|
@@ -368,7 +369,10 @@ Crafting info for weapons is split into two files:
 |`natives/STM/GameDesign/Common/Equip/<Type>Recipe.user.3`|Contains material costs and the `_canShortcut` flag|
 |`natives/STM/GameDesign/Common/Equip/<Type>Tree.user.3`|Contains each weapon's previous and next weapons in the crafting tree|
 
-Where `<Type>` is the internal long name of the weapon (such as "Bow" or "ChargeAxe").
+Where `<Type>` is the internal long name of the weapon (such as "Bow" or "ChargeAxe"). If the `_canShortcut` flag is
+true, the weapon can be crafted directly instead of upgraded from the previous weapon in the tree, _however_: the listed
+material costs are doubled for weapons crafted directly; the material costs listed in the game files (and in the merged
+files) are for the _upgrade costs_. Direct crafts double both the zenny and material inputs.
 
 ### Bow
 Fields relevant to bow data are listed below.
@@ -389,6 +393,35 @@ Coating order for `_isLoadingBin` is as follows.
 - 7: Exhaust
 
 Note that while the UI in-game shows poison _after_ paralysis, it appears to come first in the game files.
+
+### Gunlance
+Fields relevant to gunlance are listed below.
+
+|Field Name|Description|
+|---|---|
+|_Wp07ShellType|Indicates which shell the gunlance uses|
+|_Wp07ShellLv|Indicates the level of the shell|
+
+Shell types are encoded as follows.
+
+|Value|Meaning|
+|---|---|
+|-324406336|Normal|
+|-1732758016|Wide|
+|203273856|Long|
+
+Shell levels are encoded as follows.
+
+|Value|Meaning|
+|---|---|
+|1226920576|LV1|
+|-993734528|LV2|
+|-745160128|LV3|
+|-170079472|LV4|
+|-269717152|LV5|
+|145851744|LV6|
+|-58574980|LV7|
+|-1868644224|LV8|
 
 ## Locations
 ### Data Files

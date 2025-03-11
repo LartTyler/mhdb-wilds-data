@@ -1,98 +1,286 @@
-use crate::processor::{IdMap, Processor, Result};
+use crate::processor::{
+    create_id_map, exclude_zeroes, to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
+    ReadFile, Result, WriteFile,
+};
+use crate::serde::ordered_map;
+use crate::should_run;
 use rslib::config::Config;
-use serde::{Deserialize, Serialize};
+use rslib::formats::msg::Msg;
+use serde::{de, Deserialize, Deserializer, Serialize};
+use serde_json::Value;
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
+use std::path::PathBuf;
 
 mod bow;
 mod charge_blade;
+mod gunlance;
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
-    bow::process(config, filters)?;
-    charge_blade::process(config, filters)?;
+    do_process(config, filters, bow::definition())?;
+    do_process(config, filters, charge_blade::definition())?;
+    do_process(config, filters, gunlance::definition())?;
 
     Ok(())
 }
 
-#[macro_export]
-macro_rules! weapon_data_struct {
-    (
-        $( #[$meta:meta] )*
-        $vis:vis struct $name:ident {
-            $(
-                $( #[$field_meta:meta] )*
-                $field_vis:vis $field_name:ident : $field_type:ty
-            ),*
+fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) -> Result {
+    should_run!(filters, def.processor);
 
-            $(,)?
-        }
-    ) => {
-        #[derive(Debug, serde::Deserialize)]
-        $( #[$meta] )*
-        $vis struct $name {
-            #[serde(rename = "_Type")]
-            kind: $crate::processor::weapons::WeaponKind,
-            #[serde(rename = "_Attribute")]
-            attribute: $crate::processor::weapons::AttributeKind,
-            #[serde(rename = "_AttributeValue")]
-            attribute_value_raw: u8,
-            #[serde(rename = "_SubAttribute")]
-            hidden_attribute: $crate::processor::weapons::AttributeKind,
-            #[serde(rename = "_SubAttributeValue")]
-            hidden_attribute_value_raw: u8,
-            #[serde(rename = "_Name")]
-            name_guid: String,
-            #[serde(rename = "_Explain")]
-            description_guid: String,
-            #[serde(rename = "_Price")]
-            price: u16,
-            #[serde(rename = "_Rare")]
-            rarity: u8,
-            #[serde(rename = "_Attack")]
-            attack_raw: u16,
-            #[serde(rename = "_Defense")]
-            defense: u8,
-            #[serde(rename = "_Critical")]
-            critical: i8,
-            #[serde(rename = "_SlotLevel")]
-            slots: [u8; 3],
-            #[serde(rename = "_Skill")]
-            skill_ids: [isize; 4],
-            #[serde(rename = "_SkillLevel")]
-            skill_levels: [u8; 4],
+    let data: Vec<WeaponData> = Vec::read_file(config.io.output_dir.join(def.data_path()))?;
+    let strings = Msg::read_file(config.io.output_dir.join(def.strings_path()))?;
 
-            $(
-                $( #[$field_meta] )*
-                $field_vis $field_name : $field_type
-            ),*
+    let mut merged: Vec<Weapon> = Vec::new();
+    let mut lookup: LookupMap<u32> = LookupMap::new();
+
+    for data in data {
+        let mut weapon = Weapon::from(&data);
+
+        strings.populate(&data.name_guid, &mut weapon.names);
+        strings.populate(&data.description_guid, &mut weapon.descriptions);
+
+        if data.attribute.is_present() {
+            weapon.specials.push(Special {
+                kind: data.attribute.into(),
+                raw: data.attribute_raw,
+                hidden: false,
+            });
         }
-    };
+
+        if data.hidden_attribute.is_present() {
+            weapon.specials.push(Special {
+                kind: data.hidden_attribute.into(),
+                raw: data.hidden_attribute_raw,
+                hidden: true,
+            });
+        }
+
+        weapon.crafting.zenny_cost = data.price;
+
+        lookup.insert(*data.id, merged.len());
+        merged.push(weapon);
+    }
+
+    let data: Vec<RecipeData> = Vec::read_file(config.io.output_dir.join(def.recipe_path()))?;
+
+    for data in data {
+        let weapon = lookup.find_or_panic_mut(*data.weapon_id, &mut merged);
+
+        weapon.crafting.inputs = create_id_map(&data.item_ids, &data.item_amounts);
+        weapon.crafting.is_shortcut = data.is_shortcut;
+    }
+
+    let data: Vec<CraftingTreeData> = Vec::read_file(config.io.output_dir.join(def.tree_path()))?;
+    let tree_guids: HashMap<&str, u32> = data
+        .iter()
+        .map(|v| (v.guid.as_ref(), v.weapon_id))
+        .collect();
+
+    for data in &data {
+        let weapon = lookup.find_or_panic_mut(data.weapon_id, &mut merged);
+
+        weapon.crafting.column = data.column;
+        weapon.crafting.row = data.row;
+
+        if !data.previous_guid.is_empty() {
+            // The unwrap() here ensures we don't accidentally assign None if the GUID couldn't be
+            // found.
+            let previous_id = tree_guids.get(&data.previous_guid[0].as_ref()).unwrap();
+            weapon.crafting.previous_id = Some(*previous_id);
+        }
+
+        for guid in &data.branch_guids {
+            let branch_id = tree_guids.get(guid.as_str()).unwrap();
+            weapon.crafting.branches.push(*branch_id);
+        }
+
+        weapon.crafting.branches.sort();
+    }
+
+    merged.sort_by_key(|v| v.game_id);
+    merged.write_file(config.io.output_dir.join(def.output_path()))
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
-#[serde(rename_all(serialize = "kebab-case"))]
-#[repr(u8)]
+struct ProcessorDefinition {
+    processor: Processor,
+    input_prefix: &'static str,
+    output_prefix: Option<&'static str>,
+}
+
+impl ProcessorDefinition {
+    fn data_path(&self) -> PathBuf {
+        PathBuf::from(format!("data/{}.json", self.input_prefix))
+    }
+
+    fn recipe_path(&self) -> PathBuf {
+        PathBuf::from(format!("data/{}Recipe.json", self.input_prefix))
+    }
+
+    fn tree_path(&self) -> PathBuf {
+        PathBuf::from(format!("data/{}Tree.json", self.input_prefix))
+    }
+
+    fn strings_path(&self) -> PathBuf {
+        PathBuf::from(format!("translations/{}.json", self.input_prefix))
+    }
+
+    fn output_path(&self) -> PathBuf {
+        PathBuf::from(format!(
+            "merged/weapons/{}.json",
+            self.output_prefix.unwrap_or(self.input_prefix)
+        ))
+    }
+}
+
+#[derive(Debug, Serialize)]
+struct Weapon {
+    game_id: u32,
+    #[serde(flatten)]
+    kind: WeaponKind,
+    #[serde(serialize_with = "ordered_map")]
+    names: LanguageMap,
+    #[serde(serialize_with = "ordered_map")]
+    descriptions: LanguageMap,
+    rarity: u8,
+    attack_raw: u8,
+    affinity: i8,
+    defense: u8,
+    slots: Vec<u8>,
+    specials: Vec<Special>,
+    crafting: Crafting,
+    #[serde(serialize_with = "ordered_map")]
+    skills: IdMap,
+}
+
+impl From<&WeaponData> for Weapon {
+    fn from(value: &WeaponData) -> Self {
+        Self {
+            game_id: *value.id,
+            kind: WeaponKind::from(&value.kind),
+            names: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
+            rarity: to_ingame_rarity(value.rarity),
+            attack_raw: value.attack_raw,
+            affinity: value.affinity,
+            defense: value.defense,
+            slots: exclude_zeroes(&value.slots),
+            specials: Vec::new(),
+            crafting: Crafting::default(),
+            skills: create_id_map(&value.skill_ids, &value.skill_levels),
+        }
+    }
+}
+
+#[derive(Debug, Serialize)]
+#[serde(tag = "kind", rename_all = "kebab-case")]
 enum WeaponKind {
-    LightBowgun = 1,
-    HeavyBowgun,
-    Bow,
-    InsectGlaive,
-    ChargeBlade,
-    SwitchAxe,
-    GunLance,
-    Lance,
-    HuntingHorn,
-    Hammer,
-    LongSword,
-    DualBlade,
-    SwordShield,
-    GreatSword,
+    Bow(bow::Bow),
+    ChargeBlade(charge_blade::ChargeBlade),
+    Gunlance(gunlance::Gunlance),
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Eq, PartialEq)]
-#[serde(rename_all(serialize = "kebab-case"))]
+#[derive(Debug, Deserialize)]
+#[serde(untagged)]
+enum WeaponDataKind {
+    Bow(bow::BowData),
+    ChargeBlade(charge_blade::ChargeBladeData),
+    Gunlance(gunlance::GunlanceData),
+}
+
+impl From<&WeaponDataKind> for WeaponKind {
+    fn from(value: &WeaponDataKind) -> Self {
+        use WeaponDataKind::*;
+
+        match value {
+            Bow(v) => Self::Bow(v.into()),
+            ChargeBlade(v) => Self::ChargeBlade(v.into()),
+            Gunlance(v) => Self::Gunlance(v.into()),
+        }
+    }
+}
+
+#[derive(Debug, Deserialize)]
+struct WeaponData {
+    #[serde(flatten)]
+    id: GameId,
+    #[serde(flatten)]
+    kind: WeaponDataKind,
+    #[serde(rename = "_Rare")]
+    rarity: u8,
+    #[serde(rename = "_Name")]
+    name_guid: String,
+    #[serde(rename = "_Explain")]
+    description_guid: String,
+    #[serde(rename = "_Attribute")]
+    attribute: AttributeData,
+    #[serde(rename = "_AttributeValue")]
+    attribute_raw: u8,
+    #[serde(rename = "_SubAttribute")]
+    hidden_attribute: AttributeData,
+    #[serde(rename = "_SubAttributeValue")]
+    hidden_attribute_raw: u8,
+    #[serde(rename = "_Price")]
+    price: u16,
+    #[serde(rename = "_Attack")]
+    attack_raw: u8,
+    #[serde(rename = "_Critical")]
+    affinity: i8,
+    #[serde(rename = "_Defense")]
+    defense: u8,
+    #[serde(rename = "_SlotLevel")]
+    slots: SlotData,
+    #[serde(rename = "_Skill")]
+    skill_ids: [isize; 4],
+    #[serde(rename = "_SkillLevel")]
+    skill_levels: [u8; 4],
+}
+
+#[derive(Debug, derive_more::Deref)]
+struct GameId(u32);
+
+impl<'de> Deserialize<'de> for GameId {
+    fn deserialize<D>(deserializer: D) -> std::result::Result<Self, D::Error>
+    where
+        D: Deserializer<'de>,
+    {
+        const ID_KEYS: &[&str] = &[
+            "_Bow",
+            "_ChargeAxe",
+            "_GunLance",
+            "_Hammer",
+            "_HeavyBowgun",
+            "_Lance",
+            "_LightBowgun",
+            "_LongSword",
+            "_Rod",
+            "_ShortSword",
+            "_SlashAxe",
+            "_Tachi",
+            "_TwinSword",
+            "_Whistle",
+        ];
+
+        let values: Value = Deserialize::deserialize(deserializer)?;
+        let mut id: u32 = 0;
+
+        for key in ID_KEYS {
+            if let Some(v) = values.get(key).and_then(|v| v.as_u64()) {
+                if v > 0 {
+                    id = v as u32;
+                    break;
+                }
+            }
+        }
+
+        Ok(Self(id))
+    }
+}
+
+type SlotData = [u8; 3];
+
+#[derive(Debug, Deserialize_repr, Eq, PartialEq, Copy, Clone)]
 #[repr(u8)]
-enum AttributeKind {
+enum AttributeData {
     None = 0,
     Fire,
     Water,
@@ -105,116 +293,51 @@ enum AttributeKind {
     Blast,
 }
 
-impl AttributeKind {
+impl AttributeData {
     fn is_present(&self) -> bool {
         !matches!(self, Self::None)
     }
 }
 
-#[macro_export]
-macro_rules! weapon_recipe_data {
-    (
-        $( #[$meta:meta] )*
-        $vis:vis struct $name:ident {
-            $(
-                $( #[$field_meta:meta] )*
-                $field_vis:vis $field_name:ident : $field_type:ty
-            ),*
-
-            $(,)?
-        }
-    ) => {
-        #[derive(Debug, serde::Deserialize)]
-        $( #[$meta] )*
-        $vis struct $name {
-            #[serde(rename = "_Item")]
-            item_ids: [isize; 4],
-            #[serde(rename = "_ItemNum")]
-            item_amounts: [u8; 4],
-            #[serde(rename = "_canShortcut")]
-            is_shortcut: bool,
-
-            $(
-                $( #[$field_meta] )*
-                $field_vis $field_name : $field_type
-            ),*
-        }
-    };
-}
-
-#[macro_export]
-macro_rules! weapon_struct {
-    (
-        $( #[$meta:meta] )*
-        $vis:vis struct $name:ident {
-            $(
-                $( #[$field_meta:meta] )*
-                $field_vis:vis $field_name:ident : $field_type:ty
-            ),*
-
-            $(,)?
-        }
-    ) => {
-        #[derive(Debug, serde::Serialize)]
-        $( #[$meta] )*
-        $vis struct $name {
-            game_id: u32,
-            kind: $crate::processor::weapons::WeaponKind,
-            #[serde(serialize_with = "crate::serde::ordered_map")]
-            names: $crate::processor::LanguageMap,
-            #[serde(serialize_with = "crate::serde::ordered_map")]
-            descriptions: $crate::processor::LanguageMap,
-            rarity: u8,
-            attack_raw: u16,
-            defense: u8,
-            affinity: i8,
-            specials: Vec<$crate::processor::weapons::Special>,
-            slots: Vec<u8>,
-            #[serde(serialize_with = "crate::serde::ordered_map")]
-            skills: $crate::processor::IdMap,
-            crafting: $crate::processor::weapons::Crafting,
-
-            $(
-                $( #[$field_meta] )*
-                $field_vis $field_name : $field_type
-            ),*
-        }
-    };
-}
-
 #[derive(Debug, Serialize)]
 struct Special {
+    #[serde(flatten)]
     kind: SpecialKind,
-    raw_damage: u8,
+    raw: u8,
     hidden: bool,
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Copy, Clone)]
+#[serde(tag = "kind", rename_all = "lowercase")]
 enum SpecialKind {
-    Element(ElementKind),
-    Status(StatusKind),
+    Element(Element),
+    Status(Status),
 }
 
-impl From<AttributeKind> for SpecialKind {
-    fn from(value: AttributeKind) -> Self {
+impl From<AttributeData> for SpecialKind {
+    fn from(value: AttributeData) -> Self {
+        use AttributeData::*;
+
         match value {
-            AttributeKind::Fire => Self::Element(ElementKind::Fire),
-            AttributeKind::Water => Self::Element(ElementKind::Water),
-            AttributeKind::Thunder => Self::Element(ElementKind::Thunder),
-            AttributeKind::Ice => Self::Element(ElementKind::Ice),
-            AttributeKind::Dragon => Self::Element(ElementKind::Dragon),
-            AttributeKind::Poison => Self::Status(StatusKind::Poison),
-            AttributeKind::Paralysis => Self::Status(StatusKind::Paralysis),
-            AttributeKind::Sleep => Self::Status(StatusKind::Sleep),
-            AttributeKind::Blast => Self::Status(StatusKind::Blastblight),
-            _ => panic!("Cannot create from AttributeKind::None"),
+            Fire => Self::Element(Element::Fire),
+            Water => Self::Element(Element::Water),
+            Thunder => Self::Element(Element::Thunder),
+            Ice => Self::Element(Element::Ice),
+            Dragon => Self::Element(Element::Dragon),
+            Paralysis => Self::Status(Status::Paralysis),
+            Poison => Self::Status(Status::Poison),
+            Sleep => Self::Status(Status::Sleep),
+            Blast => Self::Status(Status::Blastblight),
+            None => panic!(
+                "Cannot create a SpecialKind from AttributeData::None. Check AttributeData::is_present() before converting!"
+            ),
         }
     }
 }
 
-#[derive(Debug, Serialize)]
-#[serde(rename_all = "kebab-case")]
-enum ElementKind {
+#[derive(Debug, Serialize, Copy, Clone)]
+#[serde(tag = "element", rename_all = "lowercase")]
+enum Element {
     Fire,
     Water,
     Thunder,
@@ -222,53 +345,37 @@ enum ElementKind {
     Dragon,
 }
 
-#[derive(Debug, Serialize)]
-#[serde(rename_all = "kebab-case")]
-enum StatusKind {
-    Poison,
+#[derive(Debug, Serialize, Copy, Clone)]
+#[serde(tag = "status", rename_all = "lowercase")]
+enum Status {
     Paralysis,
+    Poison,
     Sleep,
     Blastblight,
-}
-
-type SharpnessData = [u8; 7];
-type HandicraftData = [u8; 4];
-type HandicraftBreakpoints = Vec<u8>;
-
-#[derive(Debug, Serialize)]
-struct Sharpness {
-    red: u8,
-    orange: u8,
-    yellow: u8,
-    green: u8,
-    blue: u8,
-    white: u8,
-    purple: u8,
-}
-
-impl Sharpness {
-    fn from_data(values: &SharpnessData) -> Self {
-        Self {
-            red: values[0],
-            orange: values[1],
-            yellow: values[2],
-            green: values[3],
-            blue: values[4],
-            white: values[5],
-            purple: values[6],
-        }
-    }
 }
 
 #[derive(Debug, Serialize, Default)]
 struct Crafting {
     zenny_cost: u16,
+    #[serde(serialize_with = "ordered_map")]
     inputs: IdMap,
     previous_id: Option<u32>,
     branches: Vec<u32>,
     is_shortcut: bool,
     column: u8,
     row: u8,
+}
+
+#[derive(Debug, Deserialize)]
+struct RecipeData {
+    #[serde(flatten)]
+    weapon_id: GameId,
+    #[serde(rename = "_Item")]
+    item_ids: [isize; 4],
+    #[serde(rename = "_ItemNum")]
+    item_amounts: [u8; 4],
+    #[serde(rename = "_canShortcut")]
+    is_shortcut: bool,
 }
 
 #[derive(Debug, Deserialize)]
@@ -287,22 +394,49 @@ struct CraftingTreeData {
     row: u8,
 }
 
-fn set_crafting_data(
-    crafting: &mut Crafting,
-    data: CraftingTreeData,
-    guid_lookup: &HashMap<String, u32>,
-) {
-    crafting.column = data.column;
-    crafting.row = data.row;
+#[derive(Debug, Deserialize_repr, Copy, Clone, Eq, PartialEq)]
+#[repr(u8)]
+enum WeaponKindCode {
+    LightBowgun = 1,
+    HeavyBowgun,
+    Bow,
+    InsectGlaive,
+    ChargeBlade,
+    SwitchAxe,
+    Gunlance,
+    Lance,
+    HuntingHorn,
+    Hammer,
+    LongSword,
+    DualBlades,
+    SwordShield,
+    GreatSword,
+}
 
-    if !data.previous_guid.is_empty() {
-        crafting.previous_id = Some(*guid_lookup.get(&data.previous_guid[0]).unwrap());
+#[macro_export]
+macro_rules! is_weapon {
+    ($name:ident () => $code:expr) => {
+        fn $name<'de, D>(deserializer: D) -> Result<WeaponKindCode, D::Error>
+        where
+            D: serde::de::Deserializer<'de>,
+        {
+            $crate::processor::weapons::is_weapon($code, deserializer)
+        }
+    };
+}
+
+fn is_weapon<'de, D>(
+    code: WeaponKindCode,
+    deserializer: D,
+) -> std::result::Result<WeaponKindCode, D::Error>
+where
+    D: Deserializer<'de>,
+{
+    let value: WeaponKindCode = Deserialize::deserialize(deserializer)?;
+
+    if value == code {
+        Ok(value)
+    } else {
+        Err(de::Error::custom(&format!("_Type must be {code:?}")))
     }
-
-    for guid in data.branch_guids {
-        let branch_id = guid_lookup.get(&guid).cloned();
-        crafting.branches.push(branch_id.unwrap());
-    }
-
-    crafting.branches.sort();
 }
