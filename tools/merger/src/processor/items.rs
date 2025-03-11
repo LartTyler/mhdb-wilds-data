@@ -1,12 +1,17 @@
 use crate::config::Config;
-use crate::processor::{to_ingame_rarity, LanguageMap, ReadFile, Result, Translations, WriteFile};
+use crate::processor::{
+    to_ingame_rarity, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+};
 use crate::serde::ordered_map;
+use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
+use serde_repr::Deserialize_repr;
 
 const DATA: &str = "data/itemData.json";
 const RECIPES: &str = "data/ItemRecipe.json";
-const TRANSLATIONS: &str = "translations/Item.json";
+const STRINGS: &str = "translations/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 
@@ -16,9 +21,11 @@ const IGNORED_IDS: &[isize] = &[
     278, 409,
 ];
 
-pub fn process(config: &Config) -> Result {
+pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    should_run!(filters, Processor::Items);
+
     let data: Vec<ItemData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let translations = Translations::read_file(config.io.output_dir.join(TRANSLATIONS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     let mut merged: Vec<Item> = Vec::with_capacity(data.len());
@@ -32,19 +39,8 @@ pub fn process(config: &Config) -> Result {
 
         let mut item = Item::from(&data);
 
-        for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get(&data.name_guid, index);
-
-            if let Some(name) = name {
-                item.names.insert(lang.into(), name.to_owned());
-            }
-
-            let desc = translations.get(&data.description_guid, index);
-
-            if let Some(desc) = desc {
-                item.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut item.names);
+        strings.populate(&data.description_guid, &mut item.descriptions);
 
         merged.push(item);
     }
@@ -81,6 +77,7 @@ struct Item {
     names: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
     descriptions: LanguageMap,
+    kind: ItemKind,
     rarity: u8,
     max_count: u8,
     sell_price: usize,
@@ -93,6 +90,7 @@ impl From<&ItemData> for Item {
     fn from(value: &ItemData) -> Self {
         Self {
             game_id: value.id,
+            kind: value.kind,
             rarity: to_ingame_rarity(value.rarity),
             max_count: value.max_count,
             sell_price: value.sell_price,
@@ -136,6 +134,8 @@ struct ItemData {
     name_guid: String,
     #[serde(rename = "_RawExplain")]
     description_guid: String,
+    #[serde(rename = "_Type")]
+    kind: ItemKind,
     #[serde(rename = "_Rare")]
     rarity: u8,
     #[serde(rename = "_MaxCount")]
@@ -156,4 +156,17 @@ struct RecipeData {
     output_amount: u8,
     #[serde(rename = "_Item")]
     input_ids: Vec<isize>,
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all = "kebab-case")]
+#[repr(u8)]
+enum ItemKind {
+    Consumable = 0,
+    Tool,
+    Material,
+    BowgunAmmo,
+    BowCoating,
+    Point,
+    Mystery,
 }
