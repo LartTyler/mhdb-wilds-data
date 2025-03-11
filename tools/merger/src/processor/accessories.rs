@@ -1,20 +1,24 @@
 use crate::config::Config;
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, ReadFile, Result, Translations, WriteFile,
+    to_ingame_rarity, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
 use crate::serde::ordered_map;
+use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
 const DATA: &str = "data/AccessoryData.json";
-const TRANSLATIONS: &str = "translations/Accessory.json";
+const STRINGS: &str = "translations/Accessory.json";
 
 const OUTPUT: &str = "merged/Accessory.json";
 
-pub fn process(config: &Config) -> Result {
+pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    should_run!(filters, Processor::Accessories);
+
     let data: Vec<AccessoryData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let translations = Translations::read_file(config.io.output_dir.join(TRANSLATIONS))?.init();
+    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -25,19 +29,8 @@ pub fn process(config: &Config) -> Result {
 
         let mut accessory = Accessory::from(&data);
 
-        for (index, lang) in translations.languages.iter().enumerate() {
-            let name = translations.get(&data.name_guid, index);
-
-            if let Some(name) = name {
-                accessory.names.insert(lang.into(), name.to_owned());
-            }
-
-            let desc = translations.get(&data.description_guid, index);
-
-            if let Some(desc) = desc {
-                accessory.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut accessory.names);
+        strings.populate(&data.description_guid, &mut accessory.descriptions);
 
         for (id, level) in data.skill_ids.iter().zip(data.skill_levels) {
             if *id != 0 {

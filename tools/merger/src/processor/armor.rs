@@ -1,10 +1,12 @@
 use crate::config::Config;
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, ReadFile, Result, Translations,
+    to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
     WriteFile,
 };
 use crate::serde::ordered_map;
+use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
@@ -21,9 +23,11 @@ pub const OUTPUT: &str = "merged/Armor.json";
 pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";
 
 /// Armor set and group bonuses are added by the [skills::process()] function.
-pub fn process(config: &Config) -> Result {
+pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    should_run!(filters, Processor::Armor);
+
     let data: Vec<SeriesData> = Vec::read_file(config.io.output_dir.join(SERIES_DATA))?;
-    let strings = Translations::read_file(config.io.output_dir.join(SERIES_STRINGS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(SERIES_STRINGS))?;
 
     let mut merged: Vec<Set> = Vec::with_capacity(data.len());
     let mut set_lookup = LookupMap::with_capacity(data.len());
@@ -39,12 +43,7 @@ pub fn process(config: &Config) -> Result {
         }
 
         let mut set = Set::from(&data);
-
-        for (index, lang) in strings.languages.iter().enumerate() {
-            if let Some(name) = strings.get(&data.name_guid, index) {
-                set.names.insert(lang.into(), name.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut set.names);
 
         set_lookup.insert(data.id, merged.len());
         merged.push(set);
@@ -80,7 +79,7 @@ pub fn process(config: &Config) -> Result {
     progress.finish_and_clear();
 
     let data: Vec<ArmorData> = Vec::read_file(config.io.output_dir.join(ARMOR_DATA))?;
-    let strings = Translations::read_file(config.io.output_dir.join(ARMOR_STRINGS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(ARMOR_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -94,15 +93,8 @@ pub fn process(config: &Config) -> Result {
 
         let mut armor = Armor::from(&data);
 
-        for (index, lang) in strings.languages.iter().enumerate() {
-            if let Some(name) = strings.get(&data.name_guid, index) {
-                armor.names.insert(lang.into(), name.to_owned());
-            }
-
-            if let Some(desc) = strings.get(&data.description_guid, index) {
-                armor.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut armor.names);
+        strings.populate(&data.description_guid, &mut armor.descriptions);
 
         for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
             if id != 0 {
@@ -112,14 +104,13 @@ pub fn process(config: &Config) -> Result {
 
         let set = set_lookup
             .find_in_mut(data.series_id, &mut merged)
-            .expect(&format!("Could not find set by ID: {}", data.series_id));
+            .unwrap_or_else(|| panic!("Could not find set by ID: {}", data.series_id));
 
         armor.crafting.price = set.price;
 
-        let upgrade = upgrades.get(&set.rarity).expect(&format!(
-            "Could not find upgrade data for rarity {}",
-            set.rarity
-        ));
+        let upgrade = upgrades
+            .get(&set.rarity)
+            .unwrap_or_else(|| panic!("Could not find upgrade data for rarity {}", set.rarity));
 
         armor.defense.max = armor.defense.base + upgrade.get_total_defense_bonus();
 
@@ -136,16 +127,18 @@ pub fn process(config: &Config) -> Result {
 
         let set = set_lookup
             .find_in_mut(data.series_id, &mut merged)
-            .expect(&format!("Could not find set by ID: {}", data.series_id));
+            .unwrap_or_else(|| panic!("Could not find set by ID: {}", data.series_id));
 
         let piece = set
             .pieces
             .iter_mut()
             .find(|v| v.kind == data.part_kind)
-            .expect(&format!(
-                "Could not find {:?} in armor set {}",
-                data.part_kind, set.game_id
-            ));
+            .unwrap_or_else(|| {
+                panic!(
+                    "Could not find {:?} in armor set {}",
+                    data.part_kind, set.game_id
+                )
+            });
 
         for (id, amount) in data.input_ids.into_iter().zip(data.input_amounts) {
             if id != 0 {

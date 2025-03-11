@@ -1,12 +1,13 @@
 use crate::config::Config;
+use clap::ValueEnum;
 use console::Style;
+use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};
-use serde_repr::Deserialize_repr;
-use serde_with::serde_as;
 use std::collections::HashMap;
 use std::fs;
 use std::fs::File;
+use std::hash::Hash;
 use std::path::Path;
 
 mod accessories;
@@ -15,22 +16,53 @@ mod armor;
 mod charms;
 mod items;
 mod skills;
+mod weapons;
+
+#[derive(Debug, Deserialize, ValueEnum, Copy, Clone, Ord, PartialOrd, Eq, PartialEq)]
+#[serde(rename_all = "lowercase")]
+pub enum Processor {
+    Accessories,
+    Items,
+    Charms,
+    Amulets,
+    Armor,
+    Skill,
+    Bow,
+    ChargeBlade,
+    Gunlance,
+    Hammer,
+    HeavyBowgun,
+    Lance,
+    LightBowgun,
+    GreatSword,
+    InsectGlaive,
+    SwordShield,
+    SwitchAxe,
+    LongSword,
+    DualBlades,
+    HuntingHorn,
+}
+
+#[macro_export]
+macro_rules! should_run {
+    ($filters:expr, $processor:expr) => {
+        if !$filters.contains(&$processor) {
+            return Ok(());
+        }
+    };
+}
 
 /// A map of RFC 639 language codes to a string value. Used to hold translations for an object
 /// field.
 type LanguageMap = HashMap<Language, String>;
 
-/// A map of object IDs to a level indicator. Used for things like skill ranks granted by
-/// decorations.
+/// A map of object IDs to a level or quantity indicator. Used for things like skill ranks granted
+/// by decorations, or inputs in recipes.
 type IdMap = HashMap<isize, u8>;
 
 /// A map of game IDs to an index. Used for cases where a child object needs to find its parent
 /// during processing.
-type LookupMap = HashMap<isize, usize>;
-
-/// A map of game IDs to multiple indexes per-ID. Used for cases where a parent object needs to find
-/// its children when those children are not stored locally.
-type MultiLookupMap = HashMap<isize, Vec<usize>>;
+type LookupMap<K = isize> = HashMap<K, usize>;
 
 macro_rules! _replace_expr {
     ($_t:tt $sub:expr) => {
@@ -44,7 +76,7 @@ macro_rules! _count {
 
 macro_rules! sections {
     (
-        $( $msg:literal => $action:stmt );+
+        $( $msg:literal => $action:stmt ),+ $(,)?
     ) => {
         let style = Style::new().dim().bold();
         let mut position = 1;
@@ -62,14 +94,15 @@ macro_rules! sections {
     };
 }
 
-pub fn all(config: &Config) -> Result {
+pub fn all(config: &Config, filters: &[Processor]) -> Result {
     sections! {
-        "Merging accessory files..." => accessories::process(config)?;
-        "Merging item files..." => items::process(config)?;
-        "Merging charm files..." => charms::process(config)?;
-        "Merging amulet files..." => amulets::process(config)?;
-        "Merging armor files..." => armor::process(config)?;
-        "Merging skill files..." => skills::process(config)?
+        "Merging accessory files..." => accessories::process(config, filters)?,
+        "Merging item files..." => items::process(config, filters)?,
+        "Merging charm files..." => charms::process(config, filters)?,
+        "Merging amulet files..." => amulets::process(config, filters)?,
+        "Merging armor files..." => armor::process(config, filters)?,
+        "Merging skill files..." => skills::process(config, filters)?,
+        "Merging weapon files..." => weapons::process(config, filters)?,
     }
 
     Ok(())
@@ -84,45 +117,6 @@ pub enum Error {
 
     #[error("parse: {0}")]
     Parse(#[from] serde_json::Error),
-}
-
-#[derive(Debug, Deserialize_repr, Copy, Clone)]
-#[repr(isize)]
-enum LanguageCode {
-    Disabled = -1,
-    Japanese,
-    English,
-    French,
-    Italian,
-    German,
-    Spanish,
-    Russian,
-    Polish,
-    Dutch,
-    Portuguese,
-    BrazilianPortuguese,
-    Korean,
-    TraditionalChinese,
-    SimplifiedChinese,
-    Finnish,
-    Swedish,
-    Danish,
-    Norwegian,
-    Czech,
-    Hungarian,
-    Slovak,
-    Arabic,
-    Turkish,
-    Bulgarian,
-    Greek,
-    Romanian,
-    Thai,
-    Ukrainian,
-    Vietnamese,
-    Indonesian,
-    Fiction,
-    Hindi,
-    LatinAmericanSpanish,
 }
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
@@ -245,56 +239,18 @@ impl From<LanguageCode> for Language {
     }
 }
 
-#[derive(Debug, Deserialize)]
-struct Translations {
-    pub languages: Vec<LanguageCode>,
-    pub entries: Vec<TranslationEntry>,
-    #[serde(skip)]
-    pub guid_map: HashMap<String, usize>,
+trait PopulateStrings {
+    fn populate(&self, guid: &str, strings: &mut LanguageMap);
 }
 
-impl Translations {
-    pub fn init(mut self) -> Self {
-        for (index, entry) in self.entries.iter().enumerate() {
-            self.guid_map.insert(entry.guid.to_owned(), index);
-        }
-
-        self
-    }
-
-    pub fn find_entry(&self, guid: &str) -> Option<&TranslationEntry> {
-        if !self.guid_map.is_empty() {
-            let index = self.guid_map.get(guid)?;
-            self.entries.get(*index)
-        } else {
-            for entry in &self.entries {
-                if entry.guid == guid {
-                    return Some(entry);
-                }
+impl PopulateStrings for Msg {
+    fn populate(&self, guid: &str, strings: &mut LanguageMap) {
+        for (index, lang) in self.languages.iter().enumerate() {
+            if let Some(value) = self.get(guid, index) {
+                strings.insert(lang.into(), value.to_owned());
             }
-
-            None
         }
     }
-
-    pub fn get(&self, guid: &str, index: usize) -> Option<&String> {
-        self.find_entry(guid)?.content.get(index).and_then(|v| {
-            if v.is_empty() || v == "-" || v == "---" || v.contains("#Rejected#") {
-                None
-            } else {
-                Some(v)
-            }
-        })
-    }
-}
-
-#[derive(Debug, Deserialize)]
-#[serde_as]
-struct TranslationEntry {
-    pub guid: String,
-
-    #[serde_as(as = "Vec<NoneAsEmptyString>")]
-    pub content: Vec<String>,
 }
 
 trait ReadFile {
@@ -349,12 +305,19 @@ pub fn to_ingame_rarity(rarity: u8) -> u8 {
 }
 
 trait Lookup {
-    fn find_in<'a, T>(&self, id: isize, container: &'a Vec<T>) -> Option<&'a T>;
-    fn find_in_mut<'a, T>(&self, id: isize, container: &'a mut Vec<T>) -> Option<&'a mut T>;
+    type Key;
+
+    fn find_in<'a, T>(&self, id: Self::Key, container: &'a [T]) -> Option<&'a T>;
+    fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T>;
 }
 
-impl Lookup for LookupMap {
-    fn find_in<'a, T>(&self, id: isize, container: &'a Vec<T>) -> Option<&'a T> {
+impl<K> Lookup for LookupMap<K>
+where
+    K: Eq + Hash,
+{
+    type Key = K;
+
+    fn find_in<'a, T>(&self, id: Self::Key, container: &'a [T]) -> Option<&'a T> {
         if let Some(index) = self.get(&id) {
             container.get(*index)
         } else {
@@ -362,45 +325,11 @@ impl Lookup for LookupMap {
         }
     }
 
-    fn find_in_mut<'a, T>(&self, id: isize, container: &'a mut Vec<T>) -> Option<&'a mut T> {
+    fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T> {
         if let Some(index) = self.get(&id) {
             container.get_mut(*index)
         } else {
             None
         }
-    }
-}
-
-trait MultiLookup {
-    fn find_multiple_in<'a, T>(&self, id: isize, container: &'a Vec<T>) -> Vec<&'a T>;
-    fn add_lookup_index(&mut self, id: isize, index: usize);
-}
-
-impl MultiLookup for MultiLookupMap {
-    fn find_multiple_in<'a, T>(&self, id: isize, container: &'a Vec<T>) -> Vec<&'a T> {
-        let Some(indexes) = self.get(&id) else {
-            return vec![];
-        };
-
-        let mut output = Vec::with_capacity(indexes.len());
-
-        for index in indexes {
-            if let Some(item) = container.get(*index) {
-                output.push(item);
-            }
-        }
-
-        output
-    }
-
-    fn add_lookup_index(&mut self, id: isize, index: usize) {
-        let container = if let Some(v) = self.get_mut(&id) {
-            v
-        } else {
-            self.insert(id, Default::default());
-            self.get_mut(&id).unwrap()
-        };
-
-        container.push(index);
     }
 }

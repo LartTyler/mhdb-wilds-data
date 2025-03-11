@@ -1,0 +1,13 @@
+[package]
+name = "rslib"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.1"
+serde = { version = "1.0.219", features = ["derive"] }
+serde_regex = "1.1.0"
+serde_repr = "0.1.20"
+serde_with = "3.12.0"
+thiserror = "2.0.12"
+toml = "0.8.20"

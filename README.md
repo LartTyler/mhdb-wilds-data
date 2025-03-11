@@ -21,6 +21,17 @@
     - [Data Files](#data-files-3)
     - [Translation Files](#translation-files-3)
     - [Notes](#notes-3)
+  - [Weapons](#weapons)
+    - [Data Files](#data-files-4)
+    - [Translation Files](#translation-files-4)
+    - [Notes](#notes-4)
+    - [Crafting Info](#crafting-info)
+    - [Bow](#bow)
+  - [Locations](#locations)
+    - [Data Files](#data-files-5)
+    - [Translation Files](#translation-files-5)
+  - [Poogie](#poogie)
+  - [Support Ship](#support-ship)
 
 # About
 The goal of this project is to "glue" several other tools together in order to get sane JSON files for data objects in
@@ -280,11 +291,22 @@ Fields listed below are my best guess, based on which items have the flag set.
 
 |Field|Type|Description|Example|
 |---|---|---|---|
+|`_Type`|int|The item category, see the table below|–|
 |`_Infinit`|boolean|Item isn't consumed on use|Capture Net|
 |`_ForMoney`|boolean|Item is a treasure item|Silver Egg|
 |`_Battle`|boolean|Item is a trap or slinger ammo|Screamer pod, drugged meat, shock trap|
 |`_Shikyu`|boolean|Supply items|First-aid med|
 |`_OutBox`|boolean|Currently unknown|–|
+
+|Type ID|Engine Enum Name|Meaning|
+|---|---|
+|0|EXPENDABLE|Consumables|
+|1|TOOL|Tools|
+|2|MATERIAL|Materials|
+|3|SHELL|Bowgun ammo|
+|4|BOTTLE|Bow coatings|
+|5|POINT|Items that are "sold" for points|
+|6|GEM|"Mystery" items that are revealsed (appriased) at the end of a hunt|
 
 ## Armor
 ### Data Files
@@ -307,3 +329,77 @@ In `ArmorSeriesData.user.3`, there are two "special" IDs that I've found:
 
 ID `0` does not appear in `ArmorData.user.3`, but ID `1` does. Neither are relevant to the API, so they will not be
 included in merged files.
+
+## Weapons
+### Data Files
+
+### Translation Files
+
+### Notes
+Weapons are referred to in several ways in the game files, some of which are very confusing or counterintuitive. The
+table below lists the English name of each weapon type alongside the variations on that name that can be found in the
+game files.
+
+|English Name|Long Name|Short Name|Type ID|
+|---|---|---|---|
+|Bow|Bow|Wp11|3|
+|Charge Blade|ChargeAxe|Wp09|5|
+|Gunlance|GunLance|Wp07|7|
+|Hammer|Hammer|Wp04|10|
+|Heavy Bowgun|HeavyBowgun|Wp12|2|
+|Lance|Lance|Wp06|8|
+|Light Bowgun|LightBowgun|Wp13|1|
+|Great Sword|LongSword|Wp00|14|
+|Insect Glaive|Rod|Wp10|4|
+|Sword & Shield|ShortSword|Wp01|13|
+|Switch Axe|SlashAxe|Wp08|6|
+|Long Sword|Tachi|Wp03|11|
+|Dual Blades|TwinSword|Wp02|12|
+|Hunting Horn|Whistle|Wp05|9|
+
+<span style="font-size: 10px;"><em>Caling great swords "LongSword" in the files and NOT THE ACTUAL LONG SWORD will
+forever torment me.</em></span>
+
+### Crafting Info
+Crafting info for weapons is split into two files:
+
+|File|Description|
+|---|---|
+|`natives/STM/GameDesign/Common/Equip/<Type>Recipe.user.3`|Contains material costs and the `_canShortcut` flag|
+|`natives/STM/GameDesign/Common/Equip/<Type>Tree.user.3`|Contains each weapon's previous and next weapons in the crafting tree|
+
+Where `<Type>` is the internal long name of the weapon (such as "Bow" or "ChargeAxe").
+
+### Bow
+Fields relevant to bow data are listed below.
+
+|Field Name|Description|
+|---|---|
+|_isLoadingBin|Bow coatings, an array of 8 booleans indicating which coating is available.|
+
+Coating order for `_isLoadingBin` is as follows.
+
+- 0: Close-range
+- 1: Power
+- 2: Pierce
+- 3: Poison
+- 4: Paralysis
+- 5: Sleep
+- 6: Blast
+- 7: Exhaust
+
+Note that while the UI in-game shows poison _after_ paralysis, it appears to come first in the game files.
+
+## Locations
+### Data Files
+- `natives/STM/GameDesign/Stage/Common/EnumMaker/Stage.user.3`
+
+### Translation Files
+- `natives/STM/GameDesign/Text/Reference/RefEnvironment.msg.23`
+
+## Poogie
+This isn't something in the API just yet, but it looks like Poogie drop rates are located in:
+- `natives/STM/GameDesign/Facility/PugeeItemData.user.3`
+
+## Support Ship
+- `natives/STM/GameDesign/Facility/SupportShipData.user.3`

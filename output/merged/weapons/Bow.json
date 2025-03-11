@@ -1,0 +1,5254 @@
+[
+  {
+    "game_id": 1,
+    "kind": "bow",
+    "names": {
+      "ja": "ホープボウⅠ",
+      "en": "Hope Bow I",
+      "fr": "Arc d'espoir",
+      "it": "Arco speranza I",
+      "de": "Hoffnungsbogen I",
+      "es": "Arco de esperanza I",
+      "ru": "Лук надежды I",
+      "pl": "Łuk nadziei I",
+      "pt-BR": "Arco da Esperança I",
+      "ko": "호프보우Ⅰ",
+      "zh-Hant": "希望大弓Ⅰ",
+      "zh-Hans": "希望之弓Ⅰ",
+      "ar": "قوس الأمل 1",
+      "es-419": "Arco esperanza I"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた弓。矢に対して仕込みを行う\r\n事で、様々な局面が対応可能に。",
+      "en": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+      "fr": "Arc conçu spécialement pour\r\nl'expédition. Ses flèches peuvent\r\nparer à toutes les situations.",
+      "it": "Un arco creato appositamente\r\nper la spedizione. Le sue frecce\r\nsi possono usare per gestire\r\nvarie situazioni.",
+      "de": "Ein speziell für die Expedition\r\nangefertigter Bogen. Seine Pfeile\r\nkönnen in den verschiedensten\r\nSituationen eingesetzt werden.",
+      "es": "Arco fabricado específicamente\r\npara la expedición. Sus flechas\r\nsirven para solventar una gran\r\nvariedad de situaciones.",
+      "ru": "Лук, изготовленный специально для\r\nэкспедиции. Надёжное оружие,\r\nкоторое не раз вас выручит на\r\nнеизведанных просторах.",
+      "pl": "Łuk wykonany specjalnie\r\nna tę ekspedycję. Jego strzały\r\nsprawdzą się w różnych\r\nsytuacjach.",
+      "pt-BR": "Arco feito para a expedição.\r\nVersáteis, suas flechas podem\r\nser usadas para lidar com\r\ndiferentes situações.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 활.\r\n화살을 잘 제련하면 다양한\r\n상황에 대처할 수 있다.",
+      "zh-Hant": "為東部地區調查特別開發的大弓。\r\n對箭下點工夫，就可應對各種狀況。",
+      "zh-Hans": "为调查东部地区而特别制作的弓。\r\n通过对箭矢进行特殊处理，可以应\r\n对各种情况。",
+      "ar": "قوس مصنوع خصيصًا للبعثة.\r\nيمكن استخدام سهامه\r\nللتعامل مع مجموعة متنوعة من المواقف.",
+      "es-419": "Un arco hecho específicamente\r\npara la expedición. Su flechas\r\npueden usarse en gran variedad\r\nde situaciones."
+    },
+    "rarity": 1,
+    "attack_raw": 90,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        19
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 2,
+    "kind": "bow",
+    "names": {
+      "ja": "ホープボウⅡ",
+      "en": "Hope Bow II",
+      "fr": "Arc d'espoir II",
+      "it": "Arco speranza II",
+      "de": "Hoffnungsbogen II",
+      "es": "Arco de esperanza II",
+      "ru": "Лук надежды II",
+      "pl": "Łuk nadziei II",
+      "pt-BR": "Arco da Esperança II",
+      "ko": "호프보우Ⅱ",
+      "zh-Hant": "希望大弓Ⅱ",
+      "zh-Hans": "希望之弓Ⅱ",
+      "ar": "قوس الأمل 2",
+      "es-419": "Arco esperanza II"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた弓。矢に対して仕込みを行う\r\n事で、様々な局面が対応可能に。",
+      "en": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+      "fr": "Arc conçu spécialement pour\r\nl'expédition. Ses flèches peuvent\r\nparer à toutes les situations.",
+      "it": "Un arco creato appositamente\r\nper la spedizione. Le sue frecce\r\nsi possono usare per gestire\r\nvarie situazioni.",
+      "de": "Ein speziell für die Expedition\r\nangefertigter Bogen. Seine Pfeile\r\nkönnen in den verschiedensten\r\nSituationen eingesetzt werden.",
+      "es": "Arco fabricado específicamente\r\npara la expedición. Sus flechas\r\nsirven para solventar una gran\r\nvariedad de situaciones.",
+      "ru": "Лук, изготовленный специально для\r\nэкспедиции. Надёжное оружие,\r\nкоторое не раз вас выручит на\r\nнеизведанных просторах.",
+      "pl": "Łuk wykonany specjalnie\r\nna tę ekspedycję. Jego strzały\r\nsprawdzą się w różnych\r\nsytuacjach.",
+      "pt-BR": "Arco feito para a expedição.\r\nVersáteis, suas flechas podem\r\nser usadas para lidar com\r\ndiferentes situações.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 활.\r\n화살을 잘 제련하면 다양한\r\n상황에 대처할 수 있다.",
+      "zh-Hant": "為東部地區調查特別開發的大弓。\r\n對箭下點工夫，就可應對各種狀況。",
+      "zh-Hans": "为调查东部地区而特别制作的弓。\r\n通过对箭矢进行特殊处理，可以应\r\n对各种情况。",
+      "ar": "قوس مصنوع خصيصًا للبعثة.\r\nيمكن استخدام سهامه\r\nللتعامل مع مجموعة متنوعة من المواقف.",
+      "es-419": "Un arco hecho específicamente\r\npara la expedición. Su flechas\r\npueden usarse en gran variedad\r\nde situaciones."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        24
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 3,
+    "kind": "bow",
+    "names": {
+      "ja": "ホープボウⅢ",
+      "en": "Hope Bow III",
+      "fr": "Arc d'espoir III",
+      "it": "Arco speranza III",
+      "de": "Hoffnungsbogen III",
+      "es": "Arco de esperanza III",
+      "ru": "Лук надежды III",
+      "pl": "Łuk nadziei III",
+      "pt-BR": "Arco da Esperança III",
+      "ko": "호프보우Ⅲ",
+      "zh-Hant": "希望大弓Ⅲ",
+      "zh-Hans": "希望之弓Ⅲ",
+      "ar": "قوس الأمل 3",
+      "es-419": "Arco esperanza III"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた弓。矢に対して仕込みを行う\r\n事で、様々な局面が対応可能に。",
+      "en": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+      "fr": "Arc conçu spécialement pour\r\nl'expédition. Ses flèches peuvent\r\nparer à toutes les situations.",
+      "it": "Un arco creato appositamente\r\nper la spedizione. Le sue frecce\r\nsi possono usare per gestire\r\nvarie situazioni.",
+      "de": "Ein speziell für die Expedition\r\nangefertigter Bogen. Seine Pfeile\r\nkönnen in den verschiedensten\r\nSituationen eingesetzt werden.",
+      "es": "Arco fabricado específicamente\r\npara la expedición. Sus flechas\r\nsirven para solventar una gran\r\nvariedad de situaciones.",
+      "ru": "Лук, изготовленный специально для\r\nэкспедиции. Надёжное оружие,\r\nкоторое не раз вас выручит на\r\nнеизведанных просторах.",
+      "pl": "Łuk wykonany specjalnie\r\nna tę ekspedycję. Jego strzały\r\nsprawdzą się w różnych\r\nsytuacjach.",
+      "pt-BR": "Arco feito para a expedição.\r\nVersáteis, suas flechas podem\r\nser usadas para lidar com\r\ndiferentes situações.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 활.\r\n화살을 잘 제련하면 다양한\r\n상황에 대처할 수 있다.",
+      "zh-Hant": "為東部地區調查特別開發的大弓。\r\n對箭下點工夫，就可應對各種狀況。",
+      "zh-Hans": "为调查东部地区而特别制作的弓。\r\n通过对箭矢进行特殊处理，可以应\r\n对各种情况。",
+      "ar": "قوس مصنوع خصيصًا للبعثة.\r\nيمكن استخدام سهامه\r\nللتعامل مع مجموعة متنوعة من المواقف.",
+      "es-419": "Un arco hecho específicamente\r\npara la expedición. Su flechas\r\npueden usarse en gran variedad\r\nde situaciones."
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        28
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 4,
+    "kind": "bow",
+    "names": {
+      "ja": "ホープボウⅣ",
+      "en": "Hope Bow IV",
+      "fr": "Arc d'espoir IV",
+      "it": "Arco speranza IV",
+      "de": "Hoffnungsbogen IV",
+      "es": "Arco de esperanza IV",
+      "ru": "Лук надежды IV",
+      "pl": "Łuk nadziei IV",
+      "pt-BR": "Arco da Esperança IV",
+      "ko": "호프보우Ⅳ",
+      "zh-Hant": "希望大弓Ⅳ",
+      "zh-Hans": "希望之弓Ⅳ",
+      "ar": "قوس الأمل 4",
+      "es-419": "Arco esperanza IV"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた弓。矢に対して仕込みを行う\r\n事で、様々な局面が対応可能に。",
+      "en": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+      "fr": "Arc conçu spécialement pour\r\nl'expédition. Ses flèches peuvent\r\nparer à toutes les situations.",
+      "it": "Un arco creato appositamente\r\nper la spedizione. Le sue frecce\r\nsi possono usare per gestire\r\nvarie situazioni.",
+      "de": "Ein speziell für die Expedition\r\nangefertigter Bogen. Seine Pfeile\r\nkönnen in den verschiedensten\r\nSituationen eingesetzt werden.",
+      "es": "Arco fabricado específicamente\r\npara la expedición. Sus flechas\r\nsirven para solventar una gran\r\nvariedad de situaciones.",
+      "ru": "Лук, изготовленный специально для\r\nэкспедиции. Надёжное оружие,\r\nкоторое не раз вас выручит на\r\nнеизведанных просторах.",
+      "pl": "Łuk wykonany specjalnie\r\nna tę ekspedycję. Jego strzały\r\nsprawdzą się w różnych\r\nsytuacjach.",
+      "pt-BR": "Arco feito para a expedição.\r\nVersáteis, suas flechas podem\r\nser usadas para lidar com\r\ndiferentes situações.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 활.\r\n화살을 잘 제련하면 다양한\r\n상황에 대처할 수 있다.",
+      "zh-Hant": "為東部地區調查特別開發的大弓。\r\n對箭下點工夫，就可應對各種狀況。",
+      "zh-Hans": "为调查东部地区而特别制作的弓。\r\n通过对箭矢进行特殊处理，可以应\r\n对各种情况。",
+      "ar": "قوس مصنوع خصيصًا للبعثة.\r\nيمكن استخدام سهامه\r\nللتعامل مع مجموعة متنوعة من المواقف.",
+      "es-419": "Un arco hecho específicamente\r\npara la expedición. Su flechas\r\npueden usarse en gran variedad\r\nde situaciones."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 5,
+    "kind": "bow",
+    "names": {
+      "ja": "ホープボウⅤ",
+      "en": "Hope Bow V",
+      "fr": "Arc d'espoir V",
+      "it": "Arco speranza V",
+      "de": "Hoffnungsbogen V",
+      "es": "Arco de esperanza V",
+      "ru": "Лук надежды V",
+      "pl": "Łuk nadziei V",
+      "pt-BR": "Arco da Esperança V",
+      "ko": "호프보우Ⅴ",
+      "zh-Hant": "希望大弓Ⅴ",
+      "zh-Hans": "希望之弓Ⅴ",
+      "ar": "قوس الأمل 5",
+      "es-419": "Arco esperanza V"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた弓。矢に対して仕込みを行う\r\n事で、様々な局面が対応可能に。",
+      "en": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+      "fr": "Arc conçu spécialement pour\r\nl'expédition. Ses flèches peuvent\r\nparer à toutes les situations.",
+      "it": "Un arco creato appositamente\r\nper la spedizione. Le sue frecce\r\nsi possono usare per gestire\r\nvarie situazioni.",
+      "de": "Ein speziell für die Expedition\r\nangefertigter Bogen. Seine Pfeile\r\nkönnen in den verschiedensten\r\nSituationen eingesetzt werden.",
+      "es": "Arco fabricado específicamente\r\npara la expedición. Sus flechas\r\nsirven para solventar una gran\r\nvariedad de situaciones.",
+      "ru": "Лук, изготовленный специально для\r\nэкспедиции. Надёжное оружие,\r\nкоторое не раз вас выручит на\r\nнеизведанных просторах.",
+      "pl": "Łuk wykonany specjalnie\r\nna tę ekspedycję. Jego strzały\r\nsprawdzą się w różnych\r\nsytuacjach.",
+      "pt-BR": "Arco feito para a expedição.\r\nVersáteis, suas flechas podem\r\nser usadas para lidar com\r\ndiferentes situações.",
+      "ko": "동쪽 지역 조사를 위해\r\n특별히 만든 활.\r\n화살을 잘 제련하면 다양한\r\n상황에 대처할 수 있다.",
+      "zh-Hant": "為東部地區調查特別開發的大弓。\r\n對箭下點工夫，就可應對各種狀況。",
+      "zh-Hans": "为调查东部地区而特别制作的弓。\r\n通过对箭矢进行特殊处理，可以应\r\n对各种情况。",
+      "ar": "قوس مصنوع خصيصًا للبعثة.\r\nيمكن استخدام سهامه\r\nللتعامل مع مجموعة متنوعة من المواقف.",
+      "es-419": "Un arco hecho específicamente\r\npara la expedición. Su flechas\r\npueden usarse en gran variedad\r\nde situaciones."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "656": 4,
+        "582": 5
+      },
+      "previous_id": 4,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 6,
+    "kind": "bow",
+    "names": {
+      "ja": "虚無の弓Ⅰ",
+      "en": "Nihil Bow I",
+      "fr": "Arc Nihil",
+      "it": "Arco Nihil I",
+      "de": "Nihil-Bogen I",
+      "es": "Arco Nihil I",
+      "ru": "Лук небытия I",
+      "pl": "Łuk Nihil I",
+      "pt-BR": "Arco Nihil I",
+      "ko": "허무의 활Ⅰ",
+      "zh-Hant": "虛無之弓Ⅰ",
+      "zh-Hans": "虚无之弓Ⅰ",
+      "ar": "قوس نيهيل 1",
+      "es-419": "Arco de Nihil I"
+    },
+    "descriptions": {
+      "ja": "シーウーの素材を用いた弓。\r\n柔軟な使い心地で、小さな亀裂や\r\n隙間さえ、難なく矢を通す。",
+      "en": "A Xu Wu bow that bends to its\r\nwielder, passing arrows through\r\neven the narrowest of fissures.",
+      "fr": "Arc Xu Wu qui se plie à la volonté\r\nde son porteur et dont les flèches\r\nse faufilent jusque dans le plus\r\nétroit des interstices.",
+      "it": "Un arco Xu Wu che si piega al\r\nsuo portatore, facendo passare\r\nle frecce anche attraverso\r\nle fessure più strette.",
+      "de": "Ein Xu-Wu-Bogen, der sich dem\r\nWillen seines Trägers beugt und\r\nPfeile durch die engsten Stellen\r\nschicken kann.",
+      "es": "Arco de Xu Wu que obedece\r\na su portador y logra hacer\r\npasar las flechas hasta por\r\nel resquicio más estrecho.",
+      "ru": "Податливый сювуловый лук,\r\nиз которого можно попасть\r\nстрелой даже в самый\r\nнезаметный просвет.",
+      "pl": "Łuk z Xu Wu, który dopasowuje\r\nsię do osoby dzierżącej go,\r\nprzesyłając strzały nawet\r\nprzez najwęższe szczeliny.",
+      "pt-BR": "Arco de Xu Wu que se curva\r\nnas mãos do usuário, acertando\r\nflechas até mesmo nas fissuras\r\nmais estreitas.",
+      "ko": "시이우의 소재를 사용한 활.\r\n사용감이 유연해 작은 균열이나\r\n틈새도 쉽게 화살로 꿰뚫는다.",
+      "zh-Hant": "以暗器鱆素材製作的弓。觸感柔軟，\r\n箭矢可輕易射入細小的龜裂與縫隙。",
+      "zh-Hans": "使用暗器蛸素材制成的弓。手感柔\r\n软，即使是细小的龟裂和缝隙，也\r\n能轻易射入。",
+      "ar": "قوس (شو وو) الذي ينحني لحامله\r\nويسدد السهام لتمر\r\nمن أضيق الشقوق.",
+      "es-419": "Un arco de Xu Wu que se curva\r\nsegún el portador y lanza\r\nflechas a través de las fisuras\r\nmás estrechas."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "443": 2,
+        "440": 3,
+        "444": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        7
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 5
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 7,
+    "kind": "bow",
+    "names": {
+      "ja": "虚無の弓Ⅱ",
+      "en": "Nihil Bow II",
+      "fr": "Arc Nihil II",
+      "it": "Arco Nihil II",
+      "de": "Nihil-Bogen II",
+      "es": "Arco Nihil II",
+      "ru": "Лук небытия II",
+      "pl": "Łuk Nihil II",
+      "pt-BR": "Arco Nihil II",
+      "ko": "허무의 활Ⅱ",
+      "zh-Hant": "虛無之弓Ⅱ",
+      "zh-Hans": "虚无之弓Ⅱ",
+      "ar": "قوس نيهيل 2",
+      "es-419": "Arco de Nihil II"
+    },
+    "descriptions": {
+      "ja": "シーウーの素材を用いた弓。\r\n柔軟な使い心地で、小さな亀裂や\r\n隙間さえ、難なく矢を通す。",
+      "en": "A Xu Wu bow that bends to its\r\nwielder, passing arrows through\r\neven the narrowest of fissures.",
+      "fr": "Arc Xu Wu qui se plie à la volonté\r\nde son porteur et dont les flèches\r\nse faufilent jusque dans le plus\r\nétroit des interstices.",
+      "it": "Un arco Xu Wu che si piega al\r\nsuo portatore, facendo passare\r\nle frecce anche attraverso\r\nle fessure più strette.",
+      "de": "Ein Xu-Wu-Bogen, der sich dem\r\nWillen seines Trägers beugt und\r\nPfeile durch die engsten Stellen\r\nschicken kann.",
+      "es": "Arco de Xu Wu que obedece\r\na su portador y logra hacer\r\npasar las flechas hasta por\r\nel resquicio más estrecho.",
+      "ru": "Податливый сювуловый лук,\r\nиз которого можно попасть\r\nстрелой даже в самый\r\nнезаметный просвет.",
+      "pl": "Łuk z Xu Wu, który dopasowuje\r\nsię do osoby dzierżącej go,\r\nprzesyłając strzały nawet\r\nprzez najwęższe szczeliny.",
+      "pt-BR": "Arco de Xu Wu que se curva\r\nnas mãos do usuário, acertando\r\nflechas até mesmo nas fissuras\r\nmais estreitas.",
+      "ko": "시이우의 소재를 사용한 활.\r\n사용감이 유연해 작은 균열이나\r\n틈새도 쉽게 화살로 꿰뚫는다.",
+      "zh-Hant": "以暗器鱆素材製作的弓。觸感柔軟，\r\n箭矢可輕易射入細小的龜裂與縫隙。",
+      "zh-Hans": "使用暗器蛸素材制成的弓。手感柔\r\n软，即使是细小的龟裂和缝隙，也\r\n能轻易射入。",
+      "ar": "قوس (شو وو) الذي ينحني لحامله\r\nويسدد السهام لتمر\r\nمن أضيق الشقوق.",
+      "es-419": "Un arco de Xu Wu que se curva\r\nsegún el portador y lanza\r\nflechas a través de las fisuras\r\nmás estrechas."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "445": 1,
+        "450": 6,
+        "451": 4,
+        "298": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": true,
+      "column": 6,
+      "row": 5
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 8,
+    "kind": "bow",
+    "names": {
+      "ja": "暗弓ブースウィル",
+      "en": "Bookwilthe's Punisher",
+      "fr": "Châtiment de Bookwilthe",
+      "it": "Punizione Bookwilthe",
+      "de": "Bookwilthes Bestrafer",
+      "es": "Castigo de Bookwilthe",
+      "ru": "Каратель Уилксбута",
+      "pl": "Mściciel Bookwilthe’a",
+      "pt-BR": "Pena de Bookwilthe",
+      "ko": "암궁 부스윌",
+      "zh-Hant": "暗弓布斯威爾",
+      "zh-Hans": "布斯威尔之暗弓",
+      "ar": " بوكويلث المعاقب",
+      "es-419": "Castigador de Bookwilthe"
+    },
+    "descriptions": {
+      "ja": "闇夜に溶け込む虚無の弓の強化版。\r\n影に潜む捕食者に狙われたが最後、\r\n逃れられる可能性は一つもない。",
+      "en": "An upgraded Nihil Bow. Escape\r\nis futile once this silent stalker\r\nof the night sights its prey.",
+      "fr": "Arc Nihil amélioré. Lorsque ce\r\nprédateur nocturne repère une\r\nproie, essayer de fuir est futile.",
+      "it": "Un arco Nihil potenziato.\r\nUna volta che questo silenzioso\r\ncacciatore della notte avvista\r\nla preda, non c'è scampo.",
+      "de": "Ein verbesserter Nihil-Bogen.\r\nDie Flucht ist aussichtslos,\r\nwenn dieser stille Verfolger\r\nder Nacht seine Beute erspäht.",
+      "es": "Un arco Nihil mejorado.\r\nSi este acechador nocturno\r\nlocaliza a su presa, ya no\r\nle queda escapatoria posible.",
+      "ru": "Улучшенный «Лук небытия». Если\r\nэтот бесшумный ночной хищник\r\nнашёл свою жертву, ей не уйти.",
+      "pl": "Ulepszony łuk Nihil. Gdy tylko\r\nten cichy prześladowca dostrzeże\r\nofiarę, ta już nie ucieknie.",
+      "pt-BR": "Arco Nihil melhorado. É inútil\r\nfugir depois que esse predador\r\nnoturno silencioso põe seus\r\nolhos sobre uma presa.",
+      "ko": "어둠에 녹아드는 허무의 활의\r\n강화판. 그림자에 숨은\r\n포식자의 표적이 되는 순간\r\n도망칠 수 없다.",
+      "zh-Hant": "融入黑夜的強化版虛無之弓。一旦\r\n被黑影中的掠食者盯上，絕對無法\r\n逃脫。",
+      "zh-Hans": "虚无之弓的强化版，与暗夜融为一\r\n体。一旦被潜伏在阴影里的捕食者\r\n盯上，就没有任何逃脱的可能。",
+      "ar": "قوس (نيهيل) مطوَّر.\r\nبمجرد أن يلمح مطارد الليل الصامت\r\nفريسته، لن يكون هناك مفر.",
+      "es-419": "Un arco de Nihil mejorado. Una\r\nvez que este silencioso\r\nacechador nocturno ve a su\r\npresa, no hay forma de escapar."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "660": 5,
+        "448": 6,
+        "449": 4,
+        "452": 1
+      },
+      "previous_id": 7,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 5
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 9,
+    "kind": "bow",
+    "names": {
+      "ja": "レ・ペルコンスⅠ",
+      "en": "Rey Perkonis I",
+      "fr": "Rey Perkonis",
+      "it": "Perkonis Rey I",
+      "de": "Rey-Perkonis I",
+      "es": "Rey Perkonis I",
+      "ru": "Рейдаловая гроза I",
+      "pl": "Perkonis Rey I",
+      "pt-BR": "Rey Perkonis I",
+      "ko": "레 페르콘스Ⅰ",
+      "zh-Hant": "煌雷弓Ⅰ",
+      "zh-Hans": "煌雷弓Ⅰ",
+      "ar": "بيركونيس راي 1",
+      "es-419": "Rey Perkonis I"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし弓。\r\n幾千の雷撃を放ってもなお、\r\n矢に伝わる力は衰えない。",
+      "en": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+      "fr": "Arc imprégné de la foudre de\r\nRey Dau. Garde sa puissance\r\nélectrique même après avoir\r\ntiré un millier d'éclairs.",
+      "it": "Un arco infuso del tuono di\r\nRey Dau che mantiene la carica\r\nanche dopo aver scagliato\r\nmigliaia di saette.",
+      "de": "Ein von Rey Daus Donner\r\nerfüllter Bogen, der auch nach\r\ntausenden Entladungen nichts\r\nvon seiner Energie einbüßt.",
+      "es": "Un arco imbuido con la energía\r\ndel rayo del Rey Dau, capaz de\r\nretener su carga incluso tras\r\nsoltar mil descargas.",
+      "ru": "Лук, заряженный грозовой\r\nэнергией рей дау. Не теряет\r\nзаряд даже после тысячи\r\nвыстрелов.",
+      "pl": "Łuk nasycony gromem Rey Dau,\r\nktóry utrzymuje ładunek nawet\r\npo wypuszczeniu tysiąca strzał.",
+      "pt-BR": "Arco imbuído com o trovão\r\nde Rey Dau. Retém sua carga\r\nmesmo após desferir mil raios.",
+      "ko": "레 다우의 벼락을 두른 활.\r\n수천의 뇌격을 내뿜고도 화살에\r\n전해지는 힘은 쇠하지 않는다.",
+      "zh-Hant": "帶有煌雷龍雷電的弓。無論射出多少\r\n雷擊，箭矢上的力量依然不減。",
+      "zh-Hans": "带有煌雷龙雷电的弓。即使释放出\r\n千万雷击，箭矢的力量依然不减。",
+      "ar": "قوس مشبع برعد (راي داو).\r\nيحتفظ بشحنه حتى بعد إطلاق\r\nآلاف الصواعق.",
+      "es-419": "Un arco impregnado con el rayo de\r\nRey Dau. Conserva la carga aún\r\ndespués de lanzar mil relámpagos."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 9,
+        "hidden": false
+      }
+    ],
+    "slots": [],
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "142": 2,
+        "141": 1
+      },
+      "previous_id": 24,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 3
+    },
+    "coatings": [
+      "pierce",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 10,
+    "kind": "bow",
+    "names": {
+      "ja": "レ・ペルコンスⅡ",
+      "en": "Rey Perkonis II",
+      "fr": "Rey Perkonis II",
+      "it": "Perkonis Rey II",
+      "de": "Rey-Perkonis II",
+      "es": "Rey Perkonis II",
+      "ru": "Рейдаловая гроза II",
+      "pl": "Perkonis Rey II",
+      "pt-BR": "Rey Perkonis II",
+      "ko": "레 페르콘스Ⅱ",
+      "zh-Hant": "煌雷弓Ⅱ",
+      "zh-Hans": "煌雷弓Ⅱ",
+      "ar": "بيركونيس راي 2",
+      "es-419": "Rey Perkonis II"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし弓。\r\n幾千の雷撃を放ってもなお、\r\n矢に伝わる力は衰えない。",
+      "en": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+      "fr": "Arc imprégné de la foudre de\r\nRey Dau. Garde sa puissance\r\nélectrique même après avoir\r\ntiré un millier d'éclairs.",
+      "it": "Un arco infuso del tuono di\r\nRey Dau che mantiene la carica\r\nanche dopo aver scagliato\r\nmigliaia di saette.",
+      "de": "Ein von Rey Daus Donner\r\nerfüllter Bogen, der auch nach\r\ntausenden Entladungen nichts\r\nvon seiner Energie einbüßt.",
+      "es": "Un arco imbuido con la energía\r\ndel rayo del Rey Dau, capaz de\r\nretener su carga incluso tras\r\nsoltar mil descargas.",
+      "ru": "Лук, заряженный грозовой\r\nэнергией рей дау. Не теряет\r\nзаряд даже после тысячи\r\nвыстрелов.",
+      "pl": "Łuk nasycony gromem Rey Dau,\r\nktóry utrzymuje ładunek nawet\r\npo wypuszczeniu tysiąca strzał.",
+      "pt-BR": "Arco imbuído com o trovão\r\nde Rey Dau. Retém sua carga\r\nmesmo após desferir mil raios.",
+      "ko": "레 다우의 벼락을 두른 활.\r\n수천의 뇌격을 내뿜고도 화살에\r\n전해지는 힘은 쇠하지 않는다.",
+      "zh-Hant": "帶有煌雷龍雷電的弓。無論射出多少\r\n雷擊，箭矢上的力量依然不減。",
+      "zh-Hans": "带有煌雷龙雷电的弓。即使释放出\r\n千万雷击，箭矢的力量依然不减。",
+      "ar": "قوس مشبع برعد (راي داو).\r\nيحتفظ بشحنه حتى بعد إطلاق\r\nآلاف الصواعق.",
+      "es-419": "Un arco impregnado con el rayo de\r\nRey Dau. Conserva la carga aún\r\ndespués de lanzar mil relámpagos."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "579": 1,
+        "104": 3,
+        "536": 2
+      },
+      "previous_id": 9,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 3
+    },
+    "coatings": [
+      "pierce",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 11,
+    "kind": "bow",
+    "names": {
+      "ja": "レ・ペルコンスⅢ",
+      "en": "Rey Perkonis III",
+      "fr": "Rey Perkonis III",
+      "it": "Perkonis Rey III",
+      "de": "Rey-Perkonis III",
+      "es": "Rey Perkonis III",
+      "ru": "Рейдаловая гроза III",
+      "pl": "Perkonis Rey III",
+      "pt-BR": "Rey Perkonis III",
+      "ko": "레 페르콘스Ⅲ",
+      "zh-Hant": "煌雷弓Ⅲ",
+      "zh-Hans": "煌雷弓Ⅲ",
+      "ar": "بيركونيس راي 3",
+      "es-419": "Rey Perkonis III"
+    },
+    "descriptions": {
+      "ja": "レ・ダウの雷を纏いし弓。\r\n幾千の雷撃を放ってもなお、\r\n矢に伝わる力は衰えない。",
+      "en": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+      "fr": "Arc imprégné de la foudre de\r\nRey Dau. Garde sa puissance\r\nélectrique même après avoir\r\ntiré un millier d'éclairs.",
+      "it": "Un arco infuso del tuono di\r\nRey Dau che mantiene la carica\r\nanche dopo aver scagliato\r\nmigliaia di saette.",
+      "de": "Ein von Rey Daus Donner\r\nerfüllter Bogen, der auch nach\r\ntausenden Entladungen nichts\r\nvon seiner Energie einbüßt.",
+      "es": "Un arco imbuido con la energía\r\ndel rayo del Rey Dau, capaz de\r\nretener su carga incluso tras\r\nsoltar mil descargas.",
+      "ru": "Лук, заряженный грозовой\r\nэнергией рей дау. Не теряет\r\nзаряд даже после тысячи\r\nвыстрелов.",
+      "pl": "Łuk nasycony gromem Rey Dau,\r\nktóry utrzymuje ładunek nawet\r\npo wypuszczeniu tysiąca strzał.",
+      "pt-BR": "Arco imbuído com o trovão\r\nde Rey Dau. Retém sua carga\r\nmesmo após desferir mil raios.",
+      "ko": "레 다우의 벼락을 두른 활.\r\n수천의 뇌격을 내뿜고도 화살에\r\n전해지는 힘은 쇠하지 않는다.",
+      "zh-Hant": "帶有煌雷龍雷電的弓。無論射出多少\r\n雷擊，箭矢上的力量依然不減。",
+      "zh-Hans": "带有煌雷龙雷电的弓。即使释放出\r\n千万雷击，箭矢的力量依然不减。",
+      "ar": "قوس مشبع برعد (راي داو).\r\nيحتفظ بشحنه حتى بعد إطلاق\r\nآلاف الصواعق.",
+      "es-419": "Un arco impregnado con el rayo de\r\nRey Dau. Conserva la carga aún\r\ndespués de lanzar mil relámpagos."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 10,
+      "branches": [
+        12
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 3
+    },
+    "coatings": [
+      "pierce",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 12,
+    "kind": "bow",
+    "names": {
+      "ja": "煌雷弓ペルコンス",
+      "en": "Perkonis Clairbow",
+      "fr": "Luminarc Perkonis",
+      "it": "Chiarco Perkonis",
+      "de": "Perkonis-Klarbogen",
+      "es": "Arcoluz de Perkonis",
+      "ru": "Изящный лук грозы",
+      "pl": "Jasnołuk Perkonis",
+      "pt-BR": "Clararco Perkonis",
+      "ko": "황뢰궁 페르콘스",
+      "zh-Hant": "煌雷霹靂弓",
+      "zh-Hans": "煌雷霹雳弓",
+      "ar": "قوس بيركونيس البراق",
+      "es-419": "Arco claro de Perkonis"
+    },
+    "descriptions": {
+      "ja": "強化されたレ・ペルコンス。\r\n雷よ暴れよ。幾百の閃光となり、\r\n黄昏の荒野を破壊の力で照らせ。",
+      "en": "An upgraded Rey Perkonis.\r\nMay its dire tendrils illuminate\r\nthe wilds like a tree of golden\r\ndestruction.",
+      "fr": "Rey Perkonis amélioré. Ses\r\nvrilles destructrices scintillantes\r\névoquent un arbre doré\r\ndévastateur.",
+      "it": "Un Perkonis Rey potenziato.\r\nChe i suoi terribili viticci\r\nilluminino le terre selvagge\r\ncome un albero di distruzione.",
+      "de": "Ein verbesserter Rey-Perkonis.\r\nMögen seine düsteren Ranken\r\ndie Wildnis erleuchten wie ein\r\nBaum aus goldener Zerstörung.",
+      "es": "Rey Perkonis mejorado.\r\nSus funestos filamentos\r\niluminarán la espesura como\r\nun árbol de destrucción dorada.",
+      "ru": "Улучшенный вариант «Рейдаловой\r\nгрозы». Пусть озаряет всё вокруг\r\nего золотое сияние, предвещающее\r\nуничтожение.",
+      "pl": "Ulepszony Rey Perkonis. Niech\r\njego straszliwe pnącza rozświetlą\r\ndzikie obszary jak drzewo złotej\r\nzagłady.",
+      "pt-BR": "Rey Perkonis melhorado.\r\nQue suas garras ferozes iluminem\r\na natureza como uma árvore de\r\ndestruição dourada.",
+      "ko": "강화된 레 페르콘스.\r\n벼락이여 날뛰어라. 수백의\r\n섬광이 되어 황혼의 황야를\r\n파괴의 힘으로 비추어라.",
+      "zh-Hant": "強化版煌雷弓。雷電啊，盡情肆虐，\r\n化為無數閃光，以破壞之力照耀黃昏\r\n的荒野吧。",
+      "zh-Hans": "经过强化的煌雷弓。电闪雷鸣，万\r\n道光芒裂空，破坏之力点燃黄昏之\r\n荒野。",
+      "ar": "(بيركونيس راي) مطوَّر.\r\nلتنير أليافه الرهيبة البراري\r\nمثل شجرة الدمار الذهبية.",
+      "es-419": "Una versión mejorada de Rey\r\nPerkonis. Que sus zarcillos\r\nfunestos iluminen el yermo como\r\nun árbol de destrucción dorada."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "661": 5,
+        "349": 4,
+        "351": 1
+      },
+      "previous_id": 11,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 3
+    },
+    "coatings": [
+      "pierce",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 15,
+    "kind": "bow",
+    "names": {
+      "ja": "風甲弓Ⅰ",
+      "en": "Windbrace Bow I",
+      "fr": "Arc portebrise",
+      "it": "Arco frangivento I",
+      "de": "Windschienenbogen I",
+      "es": "Arco huracán I",
+      "ru": "Лук стены ветра I",
+      "pl": "Łuk wietrzny I",
+      "pt-BR": "Arco Içavento I",
+      "ko": "풍갑궁Ⅰ",
+      "zh-Hant": "風甲弓Ⅰ",
+      "zh-Hans": "风甲弓Ⅰ",
+      "ar": "قوس مقاوم للرياح 1",
+      "es-419": "Arco ventoso I"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの素材で構成された大弓。\r\n帆の様に展開する皮膜で風を受け、\r\n矢に更なる推進力を与える。",
+      "en": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+      "fr": "Arc à base de Hirabami.\r\nLa pellicule aérodynamique\r\npropulse les flèches encore\r\nplus loin.",
+      "it": "Un arco costruito con parti di\r\nHirabami. La membrana cattura il\r\nvento come una vela, aumentando\r\nla spinta delle frecce.",
+      "de": "Ein Bogen aus Hirabami-Teilen.\r\nDer Film fängt den Wind wie ein\r\nSegel auf und gibt den Pfeilen\r\nSchub.",
+      "es": "Arco fabricado con partes de\r\nHirabami. La membrana captura el\r\naire como una vela, lo que añade\r\nimpulso a las flechas.",
+      "ru": "Лук из материалов с хирабами.\r\nПлёнка раздувается на ветру\r\nподобно парусу, ускоряя стрелы.",
+      "pl": "Łuk wykonany z części Hirabami.\r\nBłona chwyta wiatr niczym żagiel,\r\ndodając strzałom napędu.",
+      "pt-BR": "Arco feito de partes de Hirabami.\r\nA película serve como uma vela ao\r\nvento, impulsionando as flechas.",
+      "ko": "히라바미의 소재로 구성된\r\n대궁. 피막이 돛처럼\r\n바람을 받아\r\n화살에 추진력을 부여한다.",
+      "zh-Hant": "以風鋏龍素材製作的大弓。皮膜有如\r\n船帆般迎風展開，給予箭矢更強大的\r\n推進力。",
+      "zh-Hans": "使用风铗龙的素材组成的大弓。风\r\n帆般张开的皮膜能够承接风力，带\r\n给箭矢更强的推进力。",
+      "ar": "قوس مصنوع من أجزاء (هيرابامي).\r\nالغشاء يلتقط الرياح مثل الشراع،\r\nمما يضيف قوة دفع للسهام.",
+      "es-419": "Arco hecho de partes de\r\nHirabami. La cuerda atrapa el\r\nviento como si fuera una vela,\r\npropulsándolo mejor las flechas."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 9,
+        "hidden": false
+      }
+    ],
+    "slots": [],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "599": 1,
+        "353": 3,
+        "356": 2
+      },
+      "previous_id": 19,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 6
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 16,
+    "kind": "bow",
+    "names": {
+      "ja": "風甲弓Ⅱ",
+      "en": "Windbrace Bow II",
+      "fr": "Arc portebrise II",
+      "it": "Arco frangivento II",
+      "de": "Windschienenbogen II",
+      "es": "Arco huracán II",
+      "ru": "Лук стены ветра II",
+      "pl": "Łuk wietrzny II",
+      "pt-BR": "Arco Içavento II",
+      "ko": "풍갑궁Ⅱ",
+      "zh-Hant": "風甲弓Ⅱ",
+      "zh-Hans": "风甲弓Ⅱ",
+      "ar": "قوس مقاوم للرياح 2",
+      "es-419": "Arco ventoso II"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの素材で構成された大弓。\r\n帆の様に展開する皮膜で風を受け、\r\n矢に更なる推進力を与える。",
+      "en": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+      "fr": "Arc à base de Hirabami.\r\nLa pellicule aérodynamique\r\npropulse les flèches encore\r\nplus loin.",
+      "it": "Un arco costruito con parti di\r\nHirabami. La membrana cattura il\r\nvento come una vela, aumentando\r\nla spinta delle frecce.",
+      "de": "Ein Bogen aus Hirabami-Teilen.\r\nDer Film fängt den Wind wie ein\r\nSegel auf und gibt den Pfeilen\r\nSchub.",
+      "es": "Arco fabricado con partes de\r\nHirabami. La membrana captura el\r\naire como una vela, lo que añade\r\nimpulso a las flechas.",
+      "ru": "Лук из материалов с хирабами.\r\nПлёнка раздувается на ветру\r\nподобно парусу, ускоряя стрелы.",
+      "pl": "Łuk wykonany z części Hirabami.\r\nBłona chwyta wiatr niczym żagiel,\r\ndodając strzałom napędu.",
+      "pt-BR": "Arco feito de partes de Hirabami.\r\nA película serve como uma vela ao\r\nvento, impulsionando as flechas.",
+      "ko": "히라바미의 소재로 구성된\r\n대궁. 피막이 돛처럼\r\n바람을 받아\r\n화살에 추진력을 부여한다.",
+      "zh-Hant": "以風鋏龍素材製作的大弓。皮膜有如\r\n船帆般迎風展開，給予箭矢更強大的\r\n推進力。",
+      "zh-Hans": "使用风铗龙的素材组成的大弓。风\r\n帆般张开的皮膜能够承接风力，带\r\n给箭矢更强的推进力。",
+      "ar": "قوس مصنوع من أجزاء (هيرابامي).\r\nالغشاء يلتقط الرياح مثل الشراع،\r\nمما يضيف قوة دفع للسهام.",
+      "es-419": "Arco hecho de partes de\r\nHirabami. La cuerda atrapa el\r\nviento como si fuera una vela,\r\npropulsándolo mejor las flechas."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "362": 1,
+        "361": 4,
+        "600": 3
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 6
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 17,
+    "kind": "bow",
+    "names": {
+      "ja": "風甲弓Ⅲ",
+      "en": "Windbrace Bow III",
+      "fr": "Arc portebrise III",
+      "it": "Arco frangivento III",
+      "de": "Windschienenbogen III",
+      "es": "Arco huracán III",
+      "ru": "Лук стены ветра III",
+      "pl": "Łuk wietrzny III",
+      "pt-BR": "Arco Içavento III",
+      "ko": "풍갑궁Ⅲ",
+      "zh-Hant": "風甲弓Ⅲ",
+      "zh-Hans": "风甲弓Ⅲ",
+      "ar": "قوس مقاوم للرياح 3",
+      "es-419": "Arco ventoso III"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの素材で構成された大弓。\r\n帆の様に展開する皮膜で風を受け、\r\n矢に更なる推進力を与える。",
+      "en": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+      "fr": "Arc à base de Hirabami.\r\nLa pellicule aérodynamique\r\npropulse les flèches encore\r\nplus loin.",
+      "it": "Un arco costruito con parti di\r\nHirabami. La membrana cattura il\r\nvento come una vela, aumentando\r\nla spinta delle frecce.",
+      "de": "Ein Bogen aus Hirabami-Teilen.\r\nDer Film fängt den Wind wie ein\r\nSegel auf und gibt den Pfeilen\r\nSchub.",
+      "es": "Arco fabricado con partes de\r\nHirabami. La membrana captura el\r\naire como una vela, lo que añade\r\nimpulso a las flechas.",
+      "ru": "Лук из материалов с хирабами.\r\nПлёнка раздувается на ветру\r\nподобно парусу, ускоряя стрелы.",
+      "pl": "Łuk wykonany z części Hirabami.\r\nBłona chwyta wiatr niczym żagiel,\r\ndodając strzałom napędu.",
+      "pt-BR": "Arco feito de partes de Hirabami.\r\nA película serve como uma vela ao\r\nvento, impulsionando as flechas.",
+      "ko": "히라바미의 소재로 구성된\r\n대궁. 피막이 돛처럼\r\n바람을 받아\r\n화살에 추진력을 부여한다.",
+      "zh-Hant": "以風鋏龍素材製作的大弓。皮膜有如\r\n船帆般迎風展開，給予箭矢更強大的\r\n推進力。",
+      "zh-Hans": "使用风铗龙的素材组成的大弓。风\r\n帆般张开的皮膜能够承接风力，带\r\n给箭矢更强的推进力。",
+      "ar": "قوس مصنوع من أجزاء (هيرابامي).\r\nالغشاء يلتقط الرياح مثل الشراع،\r\nمما يضيف قوة دفع للسهام.",
+      "es-419": "Arco hecho de partes de\r\nHirabami. La cuerda atrapa el\r\nviento como si fuera una vela,\r\npropulsándolo mejor las flechas."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "425": 3,
+        "359": 5
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 6
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 18,
+    "kind": "bow",
+    "names": {
+      "ja": "風甲弓イバミ",
+      "en": "Windbrace Ibami",
+      "fr": "Ibami portebrise",
+      "it": "Ibami frangivento",
+      "de": "Windschienen-Ibami",
+      "es": "Ibami huracán",
+      "ru": "Лук попутного ветра",
+      "pl": "Wietrzny Ibami",
+      "pt-BR": "Ibami Içavento",
+      "ko": "풍갑궁 이바미",
+      "zh-Hant": "風甲射蝕弓",
+      "zh-Hans": "射蚀风甲弓",
+      "ar": "إيبامي المقاوم للرياح",
+      "es-419": "Ibami ventoso"
+    },
+    "descriptions": {
+      "ja": "強化を重ねた風甲弓。\r\n携えた戦場では常に追い風を纏い、\r\n放たれる矢は全て必中と化す。",
+      "en": "An upgraded Windbrace Bow\r\nthat creates favorable\r\nwinds, ensuring its arrows\r\nnever miss their mark.",
+      "fr": "Arc portebrise amélioré. Crée\r\ndes vents favorables pour que\r\nles flèches soient sûres de ne\r\njamais rater leur cible.",
+      "it": "Un Arco frangivento potenziato\r\nche crea venti favorevoli,\r\nassicurandosi che le sue frecce\r\nnon manchino mai il bersaglio.",
+      "de": "Ein verbesserter Windschienen-\r\nbogen, der günstige Windver-\r\nhältnisse schafft und dessen\r\nPfeile das Ziel nie verfehlen.",
+      "es": "Arco huracán mejorado\r\nque genera vientos a favor,\r\nlo que garantiza acertar\r\nsiempre en el blanco.",
+      "ru": "Улучшенный вариант «Лука стены ветра».\r\nПодчиняет себе ветер,\r\nпоэтому пущенные из него стрелы\r\nвсегда летят точно в цель.",
+      "pl": "Ulepszony łuk wietrzny, który\r\nwytwarza pomyślny wiatr, dzięki\r\nczemu jego strzały nigdy\r\nnie chybią celu.",
+      "pt-BR": "Arco Içavento melhorado que gera\r\nventos favoráveis, garantindo\r\nque suas flechas nunca errem\r\no alvo.",
+      "ko": "강화를 거듭한 풍갑궁.\r\n전장에 들고 나가면\r\n항상 순풍을 휘감고\r\n발사된 화살이 백발백중한다.",
+      "zh-Hant": "反覆強化後的風甲弓。帶上戰場時\r\n必能順風前行，射出的箭百發百中。",
+      "zh-Hans": "反复强化后的风甲弓。带上战场总\r\n会有顺风相伴，射出的箭矢百发百\r\n中。",
+      "ar": "قوس الريح مطوَّر يثير رياحًا\r\nقوية مما يضمن أن سهامه\r\nلا تخطئ الهدف أبدًا.",
+      "es-419": "Una versión mejorada del arco\r\nde Ventoso que crea vientos\r\nfavorables, garantizando que\r\nlas flechas nunca fallen."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "659": 5,
+        "360": 6,
+        "424": 1
+      },
+      "previous_id": 17,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 6
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 19,
+    "kind": "bow",
+    "names": {
+      "ja": "ケマスアルコⅠ",
+      "en": "Quematrice Arco I",
+      "fr": "Arc Quematrice",
+      "it": "Arco Quematrice I",
+      "de": "Quematrice-Arco I",
+      "es": "Arco de Quematrice I",
+      "ru": "Кематрисовый лук грома I",
+      "pl": "Arco Chematrice’a I",
+      "pt-BR": "Arco Quematrice I",
+      "ko": "케마스아르코Ⅰ",
+      "zh-Hant": "炎尾弓Ⅰ",
+      "zh-Hans": "炎尾弓Ⅰ",
+      "ar": "قوس كيماتريس 1",
+      "es-419": "Arco de Quematrice I"
+    },
+    "descriptions": {
+      "ja": "ケマトリスの素材が用いられた弓。\r\n弦を引くとヤスリと矢尻が擦れ\r\n合い、火矢となって獲物を襲う。",
+      "en": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+      "fr": "Arc Quematrice. Sa surface\r\nabrasive embrase les pointes\r\nde flèche au décochage.",
+      "it": "Un arco Quematrice con una\r\nsuperficie abrasiva che usa\r\nl'attrito per accendere le\r\nfrecce durante il tiro.",
+      "de": "Ein Quematrice-Bogen mit einer\r\nrauen Oberfläche, die Pfeile mit-\r\nhilfe von Reibung beim Spannen\r\nentzündet.",
+      "es": "Un arco de Quematrice.\r\nLa fricción con su superficie\r\nabrasiva prende fuego a\r\nlas flechas disparadas.",
+      "ru": "Кематрисовый лук с абразивной\r\nповерхностью, которая поджигает\r\nвыпускаемые стрелы.",
+      "pl": "Łuk z Chematrice’a. Jego\r\nszorstka powierzchnia zapewnia\r\ntarcie, które zapala groty\r\nstrzał podczas naciągania.",
+      "pt-BR": "Arco de Quematrice.\r\nSua superfície abrasiva\r\nincendeia as pontas das\r\nflechas quando é retesado.",
+      "ko": "케마트리스 소재를 사용한 활.\r\n활시위를 당기면 줄과 화살촉의\r\n마찰로 불화살이 되어\r\n사냥감을 덮친다.",
+      "zh-Hant": "以炎尾龍素材製作的弓。拉弓時銼刀\r\n與箭頭摩擦，化為火焰箭射向獵物。",
+      "zh-Hans": "使用炎尾龙素材制作的弓。拉弓时\r\n磨具会与箭头摩擦，化为火焰箭射\r\n向猎物。",
+      "ar": "قوس (كيماتريس) يوفر سطحه الكاشط\r\nحتكاكًا يشعل رؤوس الأسهم\r\nعند سحبها.",
+      "es-419": "Un arco de Quematrice. Su\r\nsuperficie abrasiva usa la\r\nfricción para encender la punta\r\nde las flechas al lanzarlas."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 7,
+        "hidden": false
+      }
+    ],
+    "slots": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "299": 2,
+        "90": 1,
+        "88": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        15,
+        20
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 4
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 20,
+    "kind": "bow",
+    "names": {
+      "ja": "ケマスアルコⅡ",
+      "en": "Quematrice Arco II",
+      "fr": "Arc Quematrice II",
+      "it": "Arco Quematrice II",
+      "de": "Quematrice-Arco II",
+      "es": "Arco de Quematrice II",
+      "ru": "Кематрисовый лук грома II",
+      "pl": "Arco Chematrice’a II",
+      "pt-BR": "Arco Quematrice II",
+      "ko": "케마스아르코Ⅱ",
+      "zh-Hant": "炎尾弓Ⅱ",
+      "zh-Hans": "炎尾弓Ⅱ",
+      "ar": "قوس كيماتريس 2",
+      "es-419": "Arco de Quematrice II"
+    },
+    "descriptions": {
+      "ja": "ケマトリスの素材が用いられた弓。\r\n弦を引くとヤスリと矢尻が擦れ\r\n合い、火矢となって獲物を襲う。",
+      "en": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+      "fr": "Arc Quematrice. Sa surface\r\nabrasive embrase les pointes\r\nde flèche au décochage.",
+      "it": "Un arco Quematrice con una\r\nsuperficie abrasiva che usa\r\nl'attrito per accendere le\r\nfrecce durante il tiro.",
+      "de": "Ein Quematrice-Bogen mit einer\r\nrauen Oberfläche, die Pfeile mit-\r\nhilfe von Reibung beim Spannen\r\nentzündet.",
+      "es": "Un arco de Quematrice.\r\nLa fricción con su superficie\r\nabrasiva prende fuego a\r\nlas flechas disparadas.",
+      "ru": "Кематрисовый лук с абразивной\r\nповерхностью, которая поджигает\r\nвыпускаемые стрелы.",
+      "pl": "Łuk z Chematrice’a. Jego\r\nszorstka powierzchnia zapewnia\r\ntarcie, które zapala groty\r\nstrzał podczas naciągania.",
+      "pt-BR": "Arco de Quematrice.\r\nSua superfície abrasiva\r\nincendeia as pontas das\r\nflechas quando é retesado.",
+      "ko": "케마트리스 소재를 사용한 활.\r\n활시위를 당기면 줄과 화살촉의\r\n마찰로 불화살이 되어\r\n사냥감을 덮친다.",
+      "zh-Hant": "以炎尾龍素材製作的弓。拉弓時銼刀\r\n與箭頭摩擦，化為火焰箭射向獵物。",
+      "zh-Hans": "使用炎尾龙素材制作的弓。拉弓时\r\n磨具会与箭头摩擦，化为火焰箭射\r\n向猎物。",
+      "ar": "قوس (كيماتريس) يوفر سطحه الكاشط\r\nحتكاكًا يشعل رؤوس الأسهم\r\nعند سحبها.",
+      "es-419": "Un arco de Quematrice. Su\r\nsuperficie abrasiva usa la\r\nfricción para encender la punta\r\nde las flechas al lanzarlas."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 9,
+        "hidden": false
+      }
+    ],
+    "slots": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "580": 1,
+        "91": 1,
+        "55": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        6,
+        21
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 4
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 21,
+    "kind": "bow",
+    "names": {
+      "ja": "ケマスアルコⅢ",
+      "en": "Quematrice Arco III",
+      "fr": "Arc Quematrice III",
+      "it": "Arco Quematrice III",
+      "de": "Quematrice-Arco III",
+      "es": "Arco de Quematrice III",
+      "ru": "Кематрисовый лук грома III",
+      "pl": "Arco Chematrice’a III",
+      "pt-BR": "Arco Quematrice III",
+      "ko": "케마스아르코Ⅲ",
+      "zh-Hant": "炎尾弓Ⅲ",
+      "zh-Hans": "炎尾弓Ⅲ",
+      "ar": "قوس كيماتريس 3",
+      "es-419": "Arco de Quematrice III"
+    },
+    "descriptions": {
+      "ja": "ケマトリスの素材が用いられた弓。\r\n弦を引くとヤスリと矢尻が擦れ\r\n合い、火矢となって獲物を襲う。",
+      "en": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+      "fr": "Arc Quematrice. Sa surface\r\nabrasive embrase les pointes\r\nde flèche au décochage.",
+      "it": "Un arco Quematrice con una\r\nsuperficie abrasiva che usa\r\nl'attrito per accendere le\r\nfrecce durante il tiro.",
+      "de": "Ein Quematrice-Bogen mit einer\r\nrauen Oberfläche, die Pfeile mit-\r\nhilfe von Reibung beim Spannen\r\nentzündet.",
+      "es": "Un arco de Quematrice.\r\nLa fricción con su superficie\r\nabrasiva prende fuego a\r\nlas flechas disparadas.",
+      "ru": "Кематрисовый лук с абразивной\r\nповерхностью, которая поджигает\r\nвыпускаемые стрелы.",
+      "pl": "Łuk z Chematrice’a. Jego\r\nszorstka powierzchnia zapewnia\r\ntarcie, które zapala groty\r\nstrzał podczas naciągania.",
+      "pt-BR": "Arco de Quematrice.\r\nSua superfície abrasiva\r\nincendeia as pontas das\r\nflechas quando é retesado.",
+      "ko": "케마트리스 소재를 사용한 활.\r\n활시위를 당기면 줄과 화살촉의\r\n마찰로 불화살이 되어\r\n사냥감을 덮친다.",
+      "zh-Hant": "以炎尾龍素材製作的弓。拉弓時銼刀\r\n與箭頭摩擦，化為火焰箭射向獵物。",
+      "zh-Hans": "使用炎尾龙素材制作的弓。拉弓时\r\n磨具会与箭头摩擦，化为火焰箭射\r\n向猎物。",
+      "ar": "قوس (كيماتريس) يوفر سطحه الكاشط\r\nحتكاكًا يشعل رؤوس الأسهم\r\nعند سحبها.",
+      "es-419": "Un arco de Quematrice. Su\r\nsuperficie abrasiva usa la\r\nfricción para encender la punta\r\nde las flechas al lanzarlas."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "304": 3,
+        "305": 2,
+        "303": 5
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 4
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 22,
+    "kind": "bow",
+    "names": {
+      "ja": "ケマスアルコⅣ",
+      "en": "Quematrice Arco IV",
+      "fr": "Arc Quematrice IV",
+      "it": "Arco Quematrice IV",
+      "de": "Quematrice-Arco IV",
+      "es": "Arco de Quematrice IV",
+      "ru": "Кематрисовый лук грома IV",
+      "pl": "Arco Chematrice’a IV",
+      "pt-BR": "Arco Quematrice IV",
+      "ko": "케마스아르코Ⅳ",
+      "zh-Hant": "炎尾弓Ⅳ",
+      "zh-Hans": "炎尾弓Ⅳ",
+      "ar": "قوس كيماتريس 4",
+      "es-419": "Arco de Quematrice IV"
+    },
+    "descriptions": {
+      "ja": "ケマトリスの素材が用いられた弓。\r\n弦を引くとヤスリと矢尻が擦れ\r\n合い、火矢となって獲物を襲う。",
+      "en": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+      "fr": "Arc Quematrice. Sa surface\r\nabrasive embrase les pointes\r\nde flèche au décochage.",
+      "it": "Un arco Quematrice con una\r\nsuperficie abrasiva che usa\r\nl'attrito per accendere le\r\nfrecce durante il tiro.",
+      "de": "Ein Quematrice-Bogen mit einer\r\nrauen Oberfläche, die Pfeile mit-\r\nhilfe von Reibung beim Spannen\r\nentzündet.",
+      "es": "Un arco de Quematrice.\r\nLa fricción con su superficie\r\nabrasiva prende fuego a\r\nlas flechas disparadas.",
+      "ru": "Кематрисовый лук с абразивной\r\nповерхностью, которая поджигает\r\nвыпускаемые стрелы.",
+      "pl": "Łuk z Chematrice’a. Jego\r\nszorstka powierzchnia zapewnia\r\ntarcie, które zapala groty\r\nstrzał podczas naciągania.",
+      "pt-BR": "Arco de Quematrice.\r\nSua superfície abrasiva\r\nincendeia as pontas das\r\nflechas quando é retesado.",
+      "ko": "케마트리스 소재를 사용한 활.\r\n활시위를 당기면 줄과 화살촉의\r\n마찰로 불화살이 되어\r\n사냥감을 덮친다.",
+      "zh-Hant": "以炎尾龍素材製作的弓。拉弓時銼刀\r\n與箭頭摩擦，化為火焰箭射向獵物。",
+      "zh-Hans": "使用炎尾龙素材制作的弓。拉弓时\r\n磨具会与箭头摩擦，化为火焰箭射\r\n向猎物。",
+      "ar": "قوس (كيماتريس) يوفر سطحه الكاشط\r\nحتكاكًا يشعل رؤوس الأسهم\r\nعند سحبها.",
+      "es-419": "Un arco de Quematrice. Su\r\nsuperficie abrasiva usa la\r\nfricción para encender la punta\r\nde las flechas al lanzarlas."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "389": 3,
+        "594": 5,
+        "302": 6
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 4
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 23,
+    "kind": "bow",
+    "names": {
+      "ja": "炎尾弓リビオラ",
+      "en": "Firetrail Leviora",
+      "fr": "Leviora traînée de feu",
+      "it": "Leviora scia di fuoco",
+      "de": "Feuerschweif-Leviora",
+      "es": "Leviora de fuego",
+      "ru": "Испепеляющий лук",
+      "pl": "Ognioślad Leviora",
+      "pt-BR": "Leviora Trilhafogo",
+      "ko": "염미궁 리비오라",
+      "zh-Hant": "炎尾引火弓",
+      "zh-Hans": "燎火炎尾弓Ⅳ",
+      "ar": "ليفيورا الذيل الناري",
+      "es-419": "Leviora de fuego"
+    },
+    "descriptions": {
+      "ja": "ケマスアルコ強化型が放つ矢は\r\n熱風と共に飛来し、穿った獲物を\r\n体内から焼き尽くす。",
+      "en": "An upgraded Quematrice Arco.\r\nIt heats while in flight, baking\r\ntargets it pierces from the inside.",
+      "fr": "Arc Quematrice amélioré.\r\nAccumule la chaleur en vol\r\npour carboniser les entrailles\r\nde ses cibles.",
+      "it": "Un arco Quematrice potenziato\r\nche accumula calore durante\r\nil volo, arrostendo dall'interno\r\ni bersagli che trafigge.",
+      "de": "Ein verbesserter Quematrice-\r\nArco, dessen Pfeile sich im Flug\r\nerhitzen und alle durchbohrten\r\nZiele von innen heraus rösten.",
+      "es": "Arco de Quematrice mejorado.\r\nCalienta las flechas durante\r\nel vuelo para abrasar por\r\ndentro a sus objetivos.",
+      "ru": "Улучшенный вариант «Кематрисового\r\nлука грома». Выпущенные стрелы\r\nраскаляются в полёте, чтобы\r\nзатем сжечь цель изнутри.",
+      "pl": "Ulepszony Arco Chematrice’a,\r\nktóry gromadzi ciepło w locie,\r\nprzypiekając przebijane cele\r\nod środka.",
+      "pt-BR": "Arco Quematrice melhorado.\r\nDispara flechas que se aquecem\r\ndurante o voo, assando por\r\ndentro os alvos que atingem.",
+      "ko": "케마스아르코 강화형이\r\n쏘는 화살은 열풍과 함께\r\n날아가 꿰뚫은 사냥감을\r\n몸속부터 모조리 태워버린다.",
+      "zh-Hant": "強化版炎尾弓所射之箭會帶著熱風\r\n飛來。被貫穿的獵物會從內至外\r\n焚燒殆盡。",
+      "zh-Hans": "强化型的炎尾弓，射出的箭矢会带\r\n着热风飞来，将射穿的猎物由内至\r\n外焚烧殆尽。",
+      "ar": "قوس (كيماتريس) مطوَّر.\r\nيسخن أثناء الطيران ويحرق\r\nالأهداف التي يخترقها من الداخل.",
+      "es-419": "Una versión mejorada del arco de\r\nQuematrice. Se calienta durante\r\nel recorrido, lo que rostiza a\r\nlos objetivos que perfora."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "659": 5,
+        "388": 1
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 4
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 24,
+    "kind": "bow",
+    "names": {
+      "ja": "竜穿弓Ⅰ",
+      "en": "Dragon Perforator I",
+      "fr": "Perforateur draco",
+      "it": "Fiocina-draghi I",
+      "de": "Drachen-Durchdringer I",
+      "es": "Horadadragones I",
+      "ru": "Протыкатель драконов I",
+      "pl": "Przebijacz smoków I",
+      "pt-BR": "Furador de Dragão I",
+      "ko": "용천궁Ⅰ",
+      "zh-Hant": "龍穿弓Ⅰ",
+      "zh-Hans": "龙穿弓Ⅰ",
+      "ar": "مثقاب التنين 1",
+      "es-419": "Perforadragones I"
+    },
+    "descriptions": {
+      "ja": "歯車を組み込んだ複雑な構造の弓。\r\n軽い負荷で引く事ができるが、その\r\n威力は飛竜の鱗をたやすく穿つ。",
+      "en": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+      "fr": "Arc travaillé doté d'engrenages\r\nréduisant son poids, mais\r\npermettant de perforer les\r\nécailles.",
+      "it": "Un arco elaborato,\r\ncon meccanismi fatti per ridurre\r\nil carico e produrre abbastanza\r\nenergia da perforare le scaglie.",
+      "de": "Ein komplexer Bogen mit Zahn-\r\nrädern, die das Zuggewicht\r\nverringern, aber überraschende\r\nKraft entwickeln.",
+      "es": "Arco provisto de engranajes que\r\nreducen la fuerza de apertura,\r\npero capaz de perforar con\r\nfacilidad las escamas.",
+      "ru": "Лук с замысловатым механизмом,\r\nкоторый упрощает натяжение и при\r\nэтом обеспечивает достаточную\r\nсилу для пробития чешуи.",
+      "pl": "Misterny łuk z przekładniami,\r\nktóre minimalizują siłę naciągu,\r\njednocześnie wytwarzając moc\r\nodpowiednią do przebicia łusek.",
+      "pt-BR": "Arco elaborado com engrenagens\r\nque reduzem o esforço de disparo\r\nsem perder a potência necessária\r\npara perfurar escamas.",
+      "ko": "수레바퀴를 사용한 복잡한\r\n구조의 활. 활시위는 가볍지만\r\n비룡의 비늘을 쉽게 뚫을\r\n정도로 강한 위력을 지녔다.",
+      "zh-Hant": "構造複雜，裝有齒輪的弓。拉弓不需\r\n費力，箭的威力卻足以輕易射穿飛龍\r\n的鱗片。",
+      "zh-Hans": "有齿轮结构，构造复杂的弓。轻轻\r\n施力即可拉开，但威力足以贯穿飞\r\n龙的鳞片。",
+      "ar": "قوس متقن مزود بتروس\r\nتقلل من وزن السحب، ولكنها تنتج\r\nقوة كافية لثقب القشور.",
+      "es-419": "Un arco con engranajes que\r\nminimizan el peso al tensarlo,\r\npero generan fuerza suficiente\r\ncomo para perforar escamas."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "1613139840": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        9,
+        25
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 2
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 25,
+    "kind": "bow",
+    "names": {
+      "ja": "竜穿弓Ⅱ",
+      "en": "Dragon Perforator II",
+      "fr": "Perforateur draco II",
+      "it": "Fiocina-draghi II",
+      "de": "Drachen-Durchdringer II",
+      "es": "Horadadragones II",
+      "ru": "Протыкатель драконов II",
+      "pl": "Przebijacz smoków II",
+      "pt-BR": "Furador de Dragão II",
+      "ko": "용천궁Ⅱ",
+      "zh-Hant": "龍穿弓Ⅱ",
+      "zh-Hans": "龙穿弓Ⅱ",
+      "ar": "مثقاب التنين 2",
+      "es-419": "Perforadragones II"
+    },
+    "descriptions": {
+      "ja": "歯車を組み込んだ複雑な構造の弓。\r\n軽い負荷で引く事ができるが、その\r\n威力は飛竜の鱗をたやすく穿つ。",
+      "en": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+      "fr": "Arc travaillé doté d'engrenages\r\nréduisant son poids, mais\r\npermettant de perforer les\r\nécailles.",
+      "it": "Un arco elaborato,\r\ncon meccanismi fatti per ridurre\r\nil carico e produrre abbastanza\r\nenergia da perforare le scaglie.",
+      "de": "Ein komplexer Bogen mit Zahn-\r\nrädern, die das Zuggewicht\r\nverringern, aber überraschende\r\nKraft entwickeln.",
+      "es": "Arco provisto de engranajes que\r\nreducen la fuerza de apertura,\r\npero capaz de perforar con\r\nfacilidad las escamas.",
+      "ru": "Лук с замысловатым механизмом,\r\nкоторый упрощает натяжение и при\r\nэтом обеспечивает достаточную\r\nсилу для пробития чешуи.",
+      "pl": "Misterny łuk z przekładniami,\r\nktóre minimalizują siłę naciągu,\r\njednocześnie wytwarzając moc\r\nodpowiednią do przebicia łusek.",
+      "pt-BR": "Arco elaborado com engrenagens\r\nque reduzem o esforço de disparo\r\nsem perder a potência necessária\r\npara perfurar escamas.",
+      "ko": "수레바퀴를 사용한 복잡한\r\n구조의 활. 활시위는 가볍지만\r\n비룡의 비늘을 쉽게 뚫을\r\n정도로 강한 위력을 지녔다.",
+      "zh-Hant": "構造複雜，裝有齒輪的弓。拉弓不需\r\n費力，箭的威力卻足以輕易射穿飛龍\r\n的鱗片。",
+      "zh-Hans": "有齿轮结构，构造复杂的弓。轻轻\r\n施力即可拉开，但威力足以贯穿飞\r\n龙的鳞片。",
+      "ar": "قوس متقن مزود بتروس\r\nتقلل من وزن السحب، ولكنها تنتج\r\nقوة كافية لثقب القشور.",
+      "es-419": "Un arco con engranajes que\r\nminimizan el peso al tensarlo,\r\npero generan fuerza suficiente\r\ncomo para perforar escamas."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      1
+    ],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 2
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 26,
+    "kind": "bow",
+    "names": {
+      "ja": "竜穿弓Ⅲ",
+      "en": "Dragon Perforator III",
+      "fr": "Perforateur draco III",
+      "it": "Fiocina-draghi III",
+      "de": "Drachen-Durchdringer III",
+      "es": "Horadadragones III",
+      "ru": "Протыкатель драконов III",
+      "pl": "Przebijacz smoków III",
+      "pt-BR": "Furador de Dragão III",
+      "ko": "용천궁Ⅲ",
+      "zh-Hant": "龍穿弓Ⅲ",
+      "zh-Hans": "龙穿弓Ⅲ",
+      "ar": "مثقاب التنين 3",
+      "es-419": "Perforadragones III"
+    },
+    "descriptions": {
+      "ja": "歯車を組み込んだ複雑な構造の弓。\r\n軽い負荷で引く事ができるが、その\r\n威力は飛竜の鱗をたやすく穿つ。",
+      "en": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+      "fr": "Arc travaillé doté d'engrenages\r\nréduisant son poids, mais\r\npermettant de perforer les\r\nécailles.",
+      "it": "Un arco elaborato,\r\ncon meccanismi fatti per ridurre\r\nil carico e produrre abbastanza\r\nenergia da perforare le scaglie.",
+      "de": "Ein komplexer Bogen mit Zahn-\r\nrädern, die das Zuggewicht\r\nverringern, aber überraschende\r\nKraft entwickeln.",
+      "es": "Arco provisto de engranajes que\r\nreducen la fuerza de apertura,\r\npero capaz de perforar con\r\nfacilidad las escamas.",
+      "ru": "Лук с замысловатым механизмом,\r\nкоторый упрощает натяжение и при\r\nэтом обеспечивает достаточную\r\nсилу для пробития чешуи.",
+      "pl": "Misterny łuk z przekładniami,\r\nktóre minimalizują siłę naciągu,\r\njednocześnie wytwarzając moc\r\nodpowiednią do przebicia łusek.",
+      "pt-BR": "Arco elaborado com engrenagens\r\nque reduzem o esforço de disparo\r\nsem perder a potência necessária\r\npara perfurar escamas.",
+      "ko": "수레바퀴를 사용한 복잡한\r\n구조의 활. 활시위는 가볍지만\r\n비룡의 비늘을 쉽게 뚫을\r\n정도로 강한 위력을 지녔다.",
+      "zh-Hant": "構造複雜，裝有齒輪的弓。拉弓不需\r\n費力，箭的威力卻足以輕易射穿飛龍\r\n的鱗片。",
+      "zh-Hans": "有齿轮结构，构造复杂的弓。轻轻\r\n施力即可拉开，但威力足以贯穿飞\r\n龙的鳞片。",
+      "ar": "قوس متقن مزود بتروس\r\nتقلل من وزن السحب، ولكنها تنتج\r\nقوة كافية لثقب القشور.",
+      "es-419": "Un arco con engranajes que\r\nminimizan el peso al tensarlo,\r\npero generan fuerza suficiente\r\ncomo para perforar escamas."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 2
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 27,
+    "kind": "bow",
+    "names": {
+      "ja": "真・竜穿弓",
+      "en": "True Dragon Perforator",
+      "fr": "Perforateur draco ultime",
+      "it": "Fiocina-draghi pura",
+      "de": "Wahrer Durchdringer",
+      "es": "Horadadragones verdadero",
+      "ru": "Истинный протыкатель",
+      "pl": "Istny przebijacz smoków",
+      "pt-BR": "Furador de Dragão Real",
+      "ko": "진 용천궁",
+      "zh-Hant": "真・龍穿弓",
+      "zh-Hans": "真·龙穿弓",
+      "ar": "مثقاب التنين الحقيقي",
+      "es-419": "Verdadero Perforadrag."
+    },
+    "descriptions": {
+      "ja": "希少な鋼鉄のみを使い、工房の職人\r\n総掛かりで強化した竜穿弓。いかな\r\nる防御でも阻めぬ貫通力を持つ。",
+      "en": "The upgraded Dragon Perforator,\r\na collaborative work created\r\nwith precious steel to thwart\r\nany defense.",
+      "fr": "Perforateur draco amélioré. Cet\r\narc en acier capable de briser\r\ntoutes les défenses est le fruit\r\ndu travail de plusieurs artisans.",
+      "it": "Un fiocina-draghi potenziato,\r\nun'arma di acciaio prezioso\r\ncapace di superare ogni difesa.",
+      "de": "Ein verbesserter Drachen-\r\nDurchdringer. Gemeinschafts-\r\nprojekt mit wertvollem Stahl,\r\ndas jede Abwehr durchdringt.",
+      "es": "Horadadragones mejorado.\r\nDe factura conjunta a partir\r\nde un acero precioso capaz\r\nde atravesar cualquier defensa.",
+      "ru": "Улучшенный «Протыкатель драконов».\r\nСоздан из редкой стали руками\r\nнескольких мастеров. Нет панциря,\r\nкоторый он не смог бы пробить.",
+      "pl": "Ulepszony Przebijacz smoków,\r\nstworzony wspólnymi siłami\r\nze szlachetnej stali, zdolny\r\nprzełamać każdą obronę.",
+      "pt-BR": "Furador de Dragão melhorado.\r\nEsforço colaborativo criado com\r\naço precioso capaz de perfurar\r\nqualquer defesa.",
+      "ko": "공방의 장인을 총동원해 희귀한\r\n강철만 사용하여 강화한\r\n용천궁. 어떤 방어도\r\n뚫어버리는 관통력을 지녔다.",
+      "zh-Hant": "工房職人總動員打造，僅以稀有鋼鐵\r\n製成的強化版龍穿弓。貫穿力強大，\r\n無法防禦。",
+      "zh-Hans": "工房匠人倾全力打造，全身均以稀\r\n有钢铁强化的龙穿弓。具有无法防\r\n御的强大贯穿力。",
+      "ar": "مثقب التنين تمت ترقيته، عمل تعاوني\r\nتم إنشاؤه باستخدام فولاذ ثمين\r\nلاختراق أي دفاع.",
+      "es-419": "Una versión mejorada del\r\nPerforadragones. Es una fusión\r\nde acero preciado capaz de\r\nburlar cualquier defensa."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "579": 1,
+        "92": 1,
+        "659": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 2
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 28,
+    "kind": "bow",
+    "names": {
+      "ja": "アルラスボウⅠ",
+      "en": "Albirath Bow I",
+      "fr": "Arc Albirath",
+      "it": "Arco Albirath I",
+      "de": "Albirath-Bogen I",
+      "es": "Arco de Albirath I",
+      "ru": "Лук Альбирата I",
+      "pl": "Łuk Albirath I",
+      "pt-BR": "Arco Alvirath I",
+      "ko": "알라스보우Ⅰ",
+      "zh-Hant": "白斑火龍弓Ⅰ",
+      "zh-Hans": "白炎弓Ⅰ",
+      "ar": "قوس ألبيراث 1",
+      "es-419": "Arco de Albirath I"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n弓。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos bow. Like a\r\nblazing fire, its wielder's spirit\r\nnever abates.",
+      "fr": "Arc Rathalos Gardien. Tel un feu\r\nardent, l'esprit de son porteur\r\njamais ne s'éteint.",
+      "it": "Un arco di Rathalos guardiano.\r\nLo spirito di chi lo impugna\r\nnon si placa mai, proprio come\r\nun fuoco ardente.",
+      "de": "Ein Bogen aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Arco de Rathalos Guardián.\r\nComo un fuego abrasador,\r\nno deja que el espíritu del\r\nusuario se apague nunca.",
+      "ru": "Лук из раталоса-стража. Решимость\r\nего владельца подобна бушующему\r\nпламени и никогда не угаснет.",
+      "pl": "Łuk z Rathalosa Strażnika.\r\nNiczym płonący ogień, duch\r\njego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Arco de Rathalos Guardião. Como\r\num fogo ardente, o espírito de\r\nquem o porta nunca se esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n활. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的弓。會為持有\r\n者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙素材制作的弓。能带给持\r\n有者如熊熊烈火一般绝不屈服的斗\r\n志。",
+      "ar": "قوس راثالوس حارس.\r\nروح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un arco de Rathalos Guardián. Al\r\nigual que una llama abrasadora, el\r\nespíritu del portador jamás cede."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      1
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "402": 2,
+        "593": 1,
+        "400": 3
+      },
+      "previous_id": 3,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 1
+    },
+    "coatings": [
+      "power",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 29,
+    "kind": "bow",
+    "names": {
+      "ja": "アルラスボウⅡ",
+      "en": "Albirath Bow II",
+      "fr": "Arc Albirath II",
+      "it": "Arco Albirath II",
+      "de": "Albirath-Bogen II",
+      "es": "Arco de Albirath II",
+      "ru": "Лук Альбирата II",
+      "pl": "Łuk Albirath II",
+      "pt-BR": "Arco Alvirath II",
+      "ko": "알라스보우Ⅱ",
+      "zh-Hant": "白斑火龍弓Ⅱ",
+      "zh-Hans": "白炎弓Ⅱ",
+      "ar": "قوس ألبيراث 2",
+      "es-419": "Arco de Albirath II"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n弓。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos bow. Like a\r\nblazing fire, its wielder's spirit\r\nnever abates.",
+      "fr": "Arc Rathalos Gardien. Tel un feu\r\nardent, l'esprit de son porteur\r\njamais ne s'éteint.",
+      "it": "Un arco di Rathalos guardiano.\r\nLo spirito di chi lo impugna\r\nnon si placa mai, proprio come\r\nun fuoco ardente.",
+      "de": "Ein Bogen aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Arco de Rathalos Guardián.\r\nComo un fuego abrasador,\r\nno deja que el espíritu del\r\nusuario se apague nunca.",
+      "ru": "Лук из раталоса-стража. Решимость\r\nего владельца подобна бушующему\r\nпламени и никогда не угаснет.",
+      "pl": "Łuk z Rathalosa Strażnika.\r\nNiczym płonący ogień, duch\r\njego posiadacza nigdy nie\r\nsłabnie.",
+      "pt-BR": "Arco de Rathalos Guardião. Como\r\num fogo ardente, o espírito de\r\nquem o porta nunca se esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n활. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的弓。會為持有\r\n者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙素材制作的弓。能带给持\r\n有者如熊熊烈火一般绝不屈服的斗\r\n志。",
+      "ar": "قوس راثالوس حارس.\r\nروح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un arco de Rathalos Guardián. Al\r\nigual que una llama abrasadora, el\r\nespíritu del portador jamás cede."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "706": 1,
+        "408": 5,
+        "608": 1,
+        "410": 2
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 1
+    },
+    "coatings": [
+      "power",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 30,
+    "kind": "bow",
+    "names": {
+      "ja": "エスピキュラ",
+      "en": "Solar Spicule",
+      "fr": "Spicule solaire",
+      "it": "Spicola solare",
+      "de": "Solarnadel",
+      "es": "Espícula solar",
+      "ru": "Солнечный осколок",
+      "pl": "Słoneczna Iglica",
+      "pt-BR": "Espícula Solar",
+      "ko": "에스피큘러",
+      "zh-Hant": "陽刺弓",
+      "zh-Hans": "冕耀之弓",
+      "ar": "الشوكة الشمسية",
+      "es-419": "Espícula Solar"
+    },
+    "descriptions": {
+      "ja": "強化されしアルラスボウ。\r\n白き力の奔流の中に、王たる誇りと\r\n気高き魂を感じることができる。",
+      "en": "An upgraded Albirath Bow.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+      "fr": "Arc Albirath amélioré. Une âme\r\nroyale repose au sein de son flot\r\nimmaculé de puissance.",
+      "it": "Un arco Albirath potenziato.\r\nDietro il grande potere, se ne\r\npercepisce l'anima regale.",
+      "de": "Ein verbesserter Albirath-\r\nBogen. Eine königliche Seele\r\nruht in seiner makellosen\r\nFlut aus Macht.",
+      "es": "Arco de Albirath mejorado.\r\nUn alma regia descansa en\r\nsu marea de poder inmaculado.",
+      "ru": "Улучшенный «Лук Альбирата».\r\nСреди безупречного потока силы\r\nможно почувствовать присутствие\r\nдуши королевских кровей.",
+      "pl": "Ulepszony łuk Albirath.\r\nW jego nieskazitelnej fali mocy\r\nspoczywa królewska dusza.",
+      "pt-BR": "Arco Alvirath melhorado.\r\nUma alma régia repousa dentro\r\nde seu imaculado poder afluente.",
+      "ko": "강화된 알라스보우.\r\n하얀 힘의 흐름 속에서\r\n왕의 자부심과 고귀한 혼을\r\n느낄 수 있다.",
+      "zh-Hant": "強化版白斑火龍弓。在皓白之力的\r\n奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
+      "zh-Hans": "强化后的白炎弓。在皓白之力的涌\r\n流中，可以感受到高贵的王者之魂。",
+      "ar": "قوس (ألبيراث) مطوَّر.\r\nتقبع روح راقية وسط\r\nفيض قوته الخالصة.",
+      "es-419": "Una versión mejorada del\r\nArco de Albirath. Hay un alma\r\ndigna de la realeza en su\r\ninmaculado flujo de potencia."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "455": 6,
+        "407": 6,
+        "705": 1,
+        "660": 5
+      },
+      "previous_id": 29,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 1
+    },
+    "coatings": [
+      "power",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 31,
+    "kind": "bow",
+    "names": {
+      "ja": "プロミネンスボウⅠ",
+      "en": "Prominence Bow I",
+      "fr": "Arc Proéminence",
+      "it": "Arco prominenza I",
+      "de": "Erhabenheitsbogen I",
+      "es": "Arco de prominencia I",
+      "ru": "Выдающийся лук I",
+      "pl": "Łuk Eminencji I",
+      "pt-BR": "Arco Proeminente I",
+      "ko": "프로미넌스보우Ⅰ",
+      "zh-Hant": "日冕強弓Ⅰ",
+      "zh-Hans": "烈阳弓Ⅰ",
+      "ar": "القوس الشامخ 1",
+      "es-419": "Arco de prominencia I"
+    },
+    "descriptions": {
+      "ja": "硬い甲殻を破り、肉を貫く、\r\n烈風の如き矢を放つリオレウスの\r\n剛弓。脅威の技術の結晶。",
+      "en": "Birthed by terrifying technology,\r\nthis Rathalos strongbow cuts\r\nthrough plating and pierces flesh.",
+      "fr": "Fait de Rathalos, cet arc est\r\nun petit bijou de technologie\r\npouvant transpercer à la\r\nfois carapace et chair.",
+      "it": "Prodotto di una tecnologia\r\nterrificante, questo arco\r\nRathalos può perforare le\r\ncorazze e lacerare le carni.",
+      "de": "Dieser Rathalos-Starkbogen\r\ndurchdringt Panzerungen und\r\nschneidet durch Fleisch.",
+      "es": "Maravilla de la tecnología\r\ncapaz de perforar armaduras\r\ny desgarrar la carne.",
+      "ru": "Созданный с использованием\r\nужасающих технологий мощный\r\nлук из раталоса пробивает любую\r\nброню и пронзает плоть.",
+      "pl": "Stworzony przy użyciu\r\nprzerażającej technologii, ten\r\npotężny łuk z Rathalosa przebija\r\npancerze i rozrywa ciało.",
+      "pt-BR": "Fruto de uma tecnologia terrível,\r\neste arco pesado de Rathalos\r\ncorta armaduras e perfura carne.",
+      "ko": "갑각을 부수고 살을 꿰뚫는\r\n열풍의 화살을 쏘는\r\n리오레우스의 강궁.\r\n위협적인 기술의 결정체.",
+      "zh-Hant": "以火龍素材製作的強弓。射出的箭矢\r\n能如烈風般擊破堅硬的甲殼、貫穿\r\n骨肉，是極具威脅的技術結晶。",
+      "zh-Hans": "穿破坚硬的甲壳，贯穿肉体，能射\r\n出如烈风般箭矢的火龙刚弓。极具\r\n威胁性的技术结晶。",
+      "ar": "يمكن لقوس راثالوس القوي هذا\r\nالناشئ من تكنولوجيا مرعبة أن\r\nيخترق التصفيحات ويمزّق اللحوم.",
+      "es-419": "Nacido de una tecnología\r\naterradora, este arco fuerte de\r\nRathalos atraviesa armaduras y\r\nperfora la carne."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 16,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "558": 4,
+        "557": 5,
+        "561": 2,
+        "411": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        32,
+        57
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 18
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 32,
+    "kind": "bow",
+    "names": {
+      "ja": "ダークフィラメント",
+      "en": "Dark Filament",
+      "fr": "Filament Noir",
+      "it": "Filamento oscuro",
+      "de": "Dunkle Sehne",
+      "es": "Filamento oscuro",
+      "ru": "Тёмная нить",
+      "pl": "Mroczne Włókno",
+      "pt-BR": "Filamento Sombrio",
+      "ko": "다크필라멘트",
+      "zh-Hant": "日珥強弓",
+      "zh-Hans": "日饵弓",
+      "ar": "خيط الظلام",
+      "es-419": "Filamento oscuro"
+    },
+    "descriptions": {
+      "ja": "禍々しき紅炎を身に宿す剛弓、\r\nプロミネンスボウ強化版。\r\n矢は業火となりて対象を滅す。",
+      "en": "An upgraded Prominence Bow.\r\nWreathed in ominous flame, it\r\nsends bolts of hellfire to\r\ndestroy prey.",
+      "fr": "Arc Proéminence amélioré.\r\nRenfermant des flammes\r\nmaléfiques, il envoie sur ses\r\nproies des flèches infernales.",
+      "it": "Arco prominenza potenziato.\r\nAvvolto da fiamme minacciose,\r\nscaglia frecce infernali per\r\ndistruggere la preda.",
+      "de": "Ein verbesserter Erhabenheits-\r\nbogen. In bedrohliche Flammen\r\ngehüllt, schickt er Blitze aus\r\nHöllenfeuer gegen seine Beute.",
+      "es": "Arco de prominencia\r\nmejorado. Envuelve al rival\r\nen un fuego infernal.",
+      "ru": "Улучшенный вариант «Выдающегося\r\nлука». Его стрелы сжигают\r\nцели адским огнём.",
+      "pl": "Ulepszony łuk Eminencji. Spowity\r\nzłowieszczym płomieniem, posyła\r\nstrzały ognia piekielnego,\r\naby zniszczyć zdobycz.",
+      "pt-BR": "Arco Proeminente melhorado.\r\nEnvolvido em chamas sinistras,\r\ndestrói presas com suas flechas\r\nimbuídas de chamas infernais.",
+      "ko": "흉흉한 불꽃이 깃든 강궁으로\r\n프로미넌스보우의 강화판.\r\n화살은 업화로써 적을 멸한다.",
+      "zh-Hant": "蘊藏不祥火炎的強弓，是日冕強弓\r\n的強化版。射出的箭矢會化為業火\r\n將目標焚燒殆盡。",
+      "zh-Hans": "寄宿了不祥火炎的刚弓，烈阳弓的\r\n强化版。箭矢化为业火将目标焚烧\r\n殆尽。",
+      "ar": "القوس الشامخ مطوَّر.\r\nمكلل بلهب مشؤوم ، تطوّق\r\nسهامه الأهداف بنار الجحيم.",
+      "es-419": "Arco de prominencia mejorado.\r\nEnvuelto en llamas ominosas,\r\nenvía rayos de fuego infernal\r\npara destruir a su presa."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 20,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "559": 1,
+        "556": 6,
+        "660": 5,
+        "560": 1
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 18
+    },
+    "coatings": [
+      "power"
+    ]
+  },
+  {
+    "game_id": 33,
+    "kind": "bow",
+    "names": {
+      "ja": "クイーンブラスターⅠ",
+      "en": "Queen Blaster I",
+      "fr": "Explosion reine",
+      "it": "Regina devastatrice I",
+      "de": "Königinnensprenger I",
+      "es": "Ira Reina I",
+      "ru": "Бластер Королевы I",
+      "pl": "Blaster Królowej I",
+      "pt-BR": "Detonador da Rainha I",
+      "ko": "퀸블래스터Ⅰ",
+      "zh-Hant": "女王獵弓Ⅰ",
+      "zh-Hans": "女王猎弓Ⅰ",
+      "ar": "مفجّر الملكة 1",
+      "es-419": "Ira de la reina I"
+    },
+    "descriptions": {
+      "ja": "リオレイアの甲殻をフレームに\r\n利用した深緑色の猟弓。美しく\r\nしなる姿は女王の肢体のよう。",
+      "en": "A deep green hunting bow that\r\nuses Rathian plating for its\r\nequally regal and stunningly\r\nsupple frame.",
+      "fr": "Arc de chasse vert foncé\r\nrecouvert de carapace de\r\nRathian. Il est aussi souple\r\nque royalement élégant.",
+      "it": "Arco verde scuro ricavato dalla\r\ncorazza di una Rathian. La sua\r\nstruttura è incredibilmente\r\nregale e flessibile.",
+      "de": "Ein tiefgrüner Jagdbogen,\r\nder Rathian-Panzerung für\r\nseinen ebenso königlichen wie\r\ngeschmeidigen Rahmen nutzt.",
+      "es": "Arco verde oscuro elaborado\r\ncon coraza de Rathian para\r\nlograr conferirle la elegancia\r\ny tenacidad de la reina.",
+      "ru": "Лук тёмно-зелёного цвета из\r\nпанциря ратианы. Своей гибкой\r\nвеличавой формой похож\r\nна саму «королеву земли».",
+      "pl": "Ciemnozielony łuk wykonany\r\nze skorupy Rathiany, która\r\nnadaje ramom szlachetności\r\ni gibkości.",
+      "pt-BR": "Arco de caça verde escuro que\r\nusa placas de Rathian em sua\r\nestrutura, majestosa como ela,\r\ne incrivelmente flexível.",
+      "ko": "리오레이아의 갑각을 뼈대에\r\n이용한 심록색 활. 아름다운\r\n모습은 여왕의 수족과 같다.",
+      "zh-Hant": "以雌火龍甲殼為骨架製成的深綠色\r\n獵弓。優美的外形有如女王的身軀。",
+      "zh-Hans": "用雌火龙的甲壳为骨架制成的深绿\r\n色猎弓。姿态优美宛如女王的肢体。",
+      "ar": "قوس صيد أخضر داكن يستخدم\r\nطلاء (راثيان) لإطاره الملكي\r\nوالمرن بشكل مذهل.",
+      "es-419": "Un arco de caza de color verde\r\nintenso con revestimiento de\r\nRathian para su estructura regia\r\ny asombrosamente flexible."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "536": 1,
+        "104": 3,
+        "105": 2,
+        "102": 5
+      },
+      "previous_id": null,
+      "branches": [
+        31,
+        34
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 17
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 34,
+    "kind": "bow",
+    "names": {
+      "ja": "クイーンブラスターⅡ",
+      "en": "Queen Blaster II",
+      "fr": "Explosion reine II",
+      "it": "Regina devastatrice II",
+      "de": "Königinnensprenger II",
+      "es": "Ira Reina II",
+      "ru": "Бластер Королевы II",
+      "pl": "Blaster Królowej II",
+      "pt-BR": "Detonador da Rainha II",
+      "ko": "퀸블래스터Ⅱ",
+      "zh-Hant": "女王獵弓Ⅱ",
+      "zh-Hans": "女王猎弓Ⅱ",
+      "ar": "مفجّر الملكة 2",
+      "es-419": "Ira de la reina II"
+    },
+    "descriptions": {
+      "ja": "リオレイアの甲殻をフレームに\r\n利用した深緑色の猟弓。美しく\r\nしなる姿は女王の肢体のよう。",
+      "en": "A deep green hunting bow that\r\nuses Rathian plating for its\r\nequally regal and stunningly\r\nsupple frame.",
+      "fr": "Arc de chasse vert foncé\r\nrecouvert de carapace de\r\nRathian. Il est aussi souple\r\nque royalement élégant.",
+      "it": "Arco verde scuro ricavato dalla\r\ncorazza di una Rathian. La sua\r\nstruttura è incredibilmente\r\nregale e flessibile.",
+      "de": "Ein tiefgrüner Jagdbogen,\r\nder Rathian-Panzerung für\r\nseinen ebenso königlichen wie\r\ngeschmeidigen Rahmen nutzt.",
+      "es": "Arco verde oscuro elaborado\r\ncon coraza de Rathian para\r\nlograr conferirle la elegancia\r\ny tenacidad de la reina.",
+      "ru": "Лук тёмно-зелёного цвета из\r\nпанциря ратианы. Своей гибкой\r\nвеличавой формой похож\r\nна саму «королеву земли».",
+      "pl": "Ciemnozielony łuk wykonany\r\nze skorupy Rathiany, która\r\nnadaje ramom szlachetności\r\ni gibkości.",
+      "pt-BR": "Arco de caça verde escuro que\r\nusa placas de Rathian em sua\r\nestrutura, majestosa como ela,\r\ne incrivelmente flexível.",
+      "ko": "리오레이아의 갑각을 뼈대에\r\n이용한 심록색 활. 아름다운\r\n모습은 여왕의 수족과 같다.",
+      "zh-Hant": "以雌火龍甲殼為骨架製成的深綠色\r\n獵弓。優美的外形有如女王的身軀。",
+      "zh-Hans": "用雌火龙的甲壳为骨架制成的深绿\r\n色猎弓。姿态优美宛如女王的肢体。",
+      "ar": "قوس صيد أخضر داكن يستخدم\r\nطلاء (راثيان) لإطاره الملكي\r\nوالمرن بشكل مذهل.",
+      "es-419": "Un arco de caza de color verde\r\nintenso con revestimiento de\r\nRathian para su estructura regia\r\ny asombrosamente flexible."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 13,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "352": 2,
+        "103": 6,
+        "92": 1,
+        "411": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 17
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 35,
+    "kind": "bow",
+    "names": {
+      "ja": "クイーンエテノルク",
+      "en": "Queen's Melody",
+      "fr": "Mélodie reine",
+      "it": "Melodia della regina",
+      "de": "Königinnenmelodie",
+      "es": "Melodía Reina",
+      "ru": "Мелодия Королевы",
+      "pl": "Melodia Królowej",
+      "pt-BR": "Melodia da Rainha",
+      "ko": "퀸에테노르크",
+      "zh-Hant": "女王旋律",
+      "zh-Hans": "女王旋律",
+      "ar": "أغنية الملكة",
+      "es-419": "Melodía de la reina"
+    },
+    "descriptions": {
+      "ja": "地を舞う女王の弓、強化形態\r\nクイーンブラスター。\r\n危うい造形美は魂まで魅了する。",
+      "en": "The Queen Blaster's upgraded\r\nform, a deadly picture of beauty\r\nthat arrests the souls of all who\r\ntread her land.",
+      "fr": "Explosion reine améliorée.\r\nLa beauté fatale de cet arc\r\ns'empare de l'âme de tous\r\nceux qui menacent ses terres.",
+      "it": "Regina devastatrice potenziata.\r\nRapisce l'anima con la\r\nsua mortale bellezza.",
+      "de": "Ein verbesserter Königinnen-\r\nsprenger. Dieses tödliche Bild\r\nder Schönheit nimmt die\r\nSeelen von allen gefangen.",
+      "es": "Ira Reina mejorada.\r\nSu peligrosa y mortal\r\nbelleza captura el alma.",
+      "ru": "Улучшенный вариант «Бластера\r\nКоролевы». Смертельной образ\r\nкрасоты похищает души тех, кто\r\nступает по её земле.",
+      "pl": "Ulepszona forma blastera królowej.\r\nZabójczy obraz piękna, który\r\npojmie dusze wszystkich stąpających\r\npo jej ziemi.",
+      "pt-BR": "A forma melhorada do Detonador\r\nda Rainha, um retrato mortal da\r\nbeleza que sequestra as almas\r\ndos que pisam em suas terras.",
+      "ko": "땅을 뒤흔드는 여왕의 활,\r\n강화형 퀸블래스터. 위험한\r\n조형미는 영혼까지 매료한다.",
+      "zh-Hant": "輕舞於大地的女王之弓，是女王獵弓\r\n的強化版。危險的造型美能讓靈魂都\r\n深受誘惑。",
+      "zh-Hans": "轻舞于大地的女王之弓，强化形态\r\n的女王猎弓。其危险的造型美俘获\r\n人心。",
+      "ar": "النسخة المطورة\r\nمن مفجّر الملكة. يأسر جمالها\r\nالخطير الألباب.",
+      "es-419": "Forma mejorada de la Ira de la\r\nreina, es un cuadro mortal de\r\nbelleza que atrapa las almas de\r\ntodos los que pisan sus tierras."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 17
+    },
+    "coatings": [
+      "pierce",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 36,
+    "kind": "bow",
+    "names": {
+      "ja": "スキュラフィストⅠ",
+      "en": "Scylla Fist I",
+      "fr": "Poing Scylla",
+      "it": "Pugno Scylla I",
+      "de": "Scylla-Faust I",
+      "es": "Puño de Scylla I",
+      "ru": "Кулак скиллы I",
+      "pl": "Pięść Scylli I",
+      "pt-BR": "Punho de Scylla I",
+      "ko": "스큐라피스트Ⅰ",
+      "zh-Hant": "影蜘蛛爪弓Ⅰ",
+      "zh-Hans": "影蜘蛛柔韧弓Ⅰ",
+      "ar": "قبضة سكيلا 1",
+      "es-419": "Puño de Scylla I"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの強くしなやかな弓。\r\nつがえた矢に目を見張るほどの\r\n破壊力をのせ、目標を撃ち抜く。",
+      "en": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+      "fr": "Arc Nerscylla aussi puissant\r\nque souple. La puissance de\r\nperforation qu'il octroie aux\r\nflèches est exceptionnelle.",
+      "it": "Sfrutta i materiali resistenti e\r\nflessibili del Nerscylla per\r\nimprimere una forza devastante\r\na ogni freccia.",
+      "de": "Ein widerstandsfähiger und\r\nflexibler Nerscylla-Bogen, der\r\nspektakuläre Kräfte auf Pfeile\r\nüberträgt, die er verschießt.",
+      "es": "Arco de Nerscylla. Sólido, pero\r\nflexible: capaz de transferir una\r\nfuerza espectacular a toda flecha\r\nque dispare.",
+      "ru": "Мощный и гибкий лук из\r\nнерскиллы. Наделяет любую\r\nвыпущенную из него стрелу\r\nогромной пронзающей силой.",
+      "pl": "Silny i giętki łuk z Nerscylli.\r\nPrzekazuje spektakularną,\r\nprzebijającą siłę każdej strzale\r\ndo niego przymocowanej.",
+      "pt-BR": "Arco de Nerscylla flexível\r\ne poderoso. Transfere uma força\r\nperfurante espetacular à qualquer\r\nflecha usada nele.",
+      "ko": "네르스큐라의 탄력 있는 활.\r\n메긴 화살은 놀라운 파괴력으로\r\n목표를 꿰뚫는다.",
+      "zh-Hant": "堅硬又柔韌的影蜘蛛之弓。射出的\r\n箭矢破壞力驚人，足以貫穿目標。",
+      "zh-Hans": "强韧的影蜘蛛之弓。搭弦之矢能以\r\n瞠目结舌的破坏力击中目标。",
+      "ar": "قوس (نيرسكيلا) قوي ومرن.\r\nإنه ينقل قوة ثَقب مذهلة\r\nإلى أي سهم مثبت عليه.",
+      "es-419": "Un arco de Nerscylla fuerte y\r\nflexible. Transfiere una fuerza\r\nespectacular y punzante a\r\ncualquier flecha que se le ponga."
+    },
+    "rarity": 3,
+    "attack_raw": 120,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "605": 1,
+        "515": 2,
+        "513": 3
+      },
+      "previous_id": 59,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 10
+    },
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ]
+  },
+  {
+    "game_id": 37,
+    "kind": "bow",
+    "names": {
+      "ja": "スキュラフィストⅡ",
+      "en": "Scylla Fist II",
+      "fr": "Poing Scylla II",
+      "it": "Pugno Scylla II",
+      "de": "Scylla-Faust II",
+      "es": "Puño de Scylla II",
+      "ru": "Кулак скиллы II",
+      "pl": "Pięść Scylli II",
+      "pt-BR": "Punho de Scylla II",
+      "ko": "스큐라피스트Ⅱ",
+      "zh-Hant": "影蜘蛛爪弓Ⅱ",
+      "zh-Hans": "影蜘蛛柔韧弓Ⅱ",
+      "ar": "قبضة سكيلا 2",
+      "es-419": "Puño de Scylla II"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの強くしなやかな弓。\r\nつがえた矢に目を見張るほどの\r\n破壊力をのせ、目標を撃ち抜く。",
+      "en": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+      "fr": "Arc Nerscylla aussi puissant\r\nque souple. La puissance de\r\nperforation qu'il octroie aux\r\nflèches est exceptionnelle.",
+      "it": "Sfrutta i materiali resistenti e\r\nflessibili del Nerscylla per\r\nimprimere una forza devastante\r\na ogni freccia.",
+      "de": "Ein widerstandsfähiger und\r\nflexibler Nerscylla-Bogen, der\r\nspektakuläre Kräfte auf Pfeile\r\nüberträgt, die er verschießt.",
+      "es": "Arco de Nerscylla. Sólido, pero\r\nflexible: capaz de transferir una\r\nfuerza espectacular a toda flecha\r\nque dispare.",
+      "ru": "Мощный и гибкий лук из\r\nнерскиллы. Наделяет любую\r\nвыпущенную из него стрелу\r\nогромной пронзающей силой.",
+      "pl": "Silny i giętki łuk z Nerscylli.\r\nPrzekazuje spektakularną,\r\nprzebijającą siłę każdej strzale\r\ndo niego przymocowanej.",
+      "pt-BR": "Arco de Nerscylla flexível\r\ne poderoso. Transfere uma força\r\nperfurante espetacular à qualquer\r\nflecha usada nele.",
+      "ko": "네르스큐라의 탄력 있는 활.\r\n메긴 화살은 놀라운 파괴력으로\r\n목표를 꿰뚫는다.",
+      "zh-Hant": "堅硬又柔韌的影蜘蛛之弓。射出的\r\n箭矢破壞力驚人，足以貫穿目標。",
+      "zh-Hans": "强韧的影蜘蛛之弓。搭弦之矢能以\r\n瞠目结舌的破坏力击中目标。",
+      "ar": "قوس (نيرسكيلا) قوي ومرن.\r\nإنه ينقل قوة ثَقب مذهلة\r\nإلى أي سهم مثبت عليه.",
+      "es-419": "Un arco de Nerscylla fuerte y\r\nflexible. Transfiere una fuerza\r\nespectacular y punzante a\r\ncualquier flecha que se le ponga."
+    },
+    "rarity": 5,
+    "attack_raw": 150,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "606": 3,
+        "521": 1
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 10
+    },
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ]
+  },
+  {
+    "game_id": 38,
+    "kind": "bow",
+    "names": {
+      "ja": "スキュラフィストⅢ",
+      "en": "Scylla Fist III",
+      "fr": "Poing Scylla III",
+      "it": "Pugno Scylla III",
+      "de": "Scylla-Faust III",
+      "es": "Puño de Scylla III",
+      "ru": "Кулак скиллы III",
+      "pl": "Pięść Scylli III",
+      "pt-BR": "Punho de Scylla III",
+      "ko": "스큐라피스트Ⅲ",
+      "zh-Hant": "影蜘蛛爪弓Ⅲ",
+      "zh-Hans": "影蜘蛛柔韧弓Ⅲ",
+      "ar": "قبضة سكيلا 3",
+      "es-419": "Puño de Scylla III"
+    },
+    "descriptions": {
+      "ja": "ネルスキュラの強くしなやかな弓。\r\nつがえた矢に目を見張るほどの\r\n破壊力をのせ、目標を撃ち抜く。",
+      "en": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+      "fr": "Arc Nerscylla aussi puissant\r\nque souple. La puissance de\r\nperforation qu'il octroie aux\r\nflèches est exceptionnelle.",
+      "it": "Sfrutta i materiali resistenti e\r\nflessibili del Nerscylla per\r\nimprimere una forza devastante\r\na ogni freccia.",
+      "de": "Ein widerstandsfähiger und\r\nflexibler Nerscylla-Bogen, der\r\nspektakuläre Kräfte auf Pfeile\r\nüberträgt, die er verschießt.",
+      "es": "Arco de Nerscylla. Sólido, pero\r\nflexible: capaz de transferir una\r\nfuerza espectacular a toda flecha\r\nque dispare.",
+      "ru": "Мощный и гибкий лук из\r\nнерскиллы. Наделяет любую\r\nвыпущенную из него стрелу\r\nогромной пронзающей силой.",
+      "pl": "Silny i giętki łuk z Nerscylli.\r\nPrzekazuje spektakularną,\r\nprzebijającą siłę każdej strzale\r\ndo niego przymocowanej.",
+      "pt-BR": "Arco de Nerscylla flexível\r\ne poderoso. Transfere uma força\r\nperfurante espetacular à qualquer\r\nflecha usada nele.",
+      "ko": "네르스큐라의 탄력 있는 활.\r\n메긴 화살은 놀라운 파괴력으로\r\n목표를 꿰뚫는다.",
+      "zh-Hant": "堅硬又柔韌的影蜘蛛之弓。射出的\r\n箭矢破壞力驚人，足以貫穿目標。",
+      "zh-Hans": "强韧的影蜘蛛之弓。搭弦之矢能以\r\n瞠目结舌的破坏力击中目标。",
+      "ar": "قوس (نيرسكيلا) قوي ومرن.\r\nإنه ينقل قوة ثَقب مذهلة\r\nإلى أي سهم مثبت عليه.",
+      "es-419": "Un arco de Nerscylla fuerte y\r\nflexible. Transfiere una fuerza\r\nespectacular y punzante a\r\ncualquier flecha que se le ponga."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "490": 3,
+        "520": 5,
+        "425": 3,
+        "480": 2
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 10
+    },
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ]
+  },
+  {
+    "game_id": 39,
+    "kind": "bow",
+    "names": {
+      "ja": "ネルスルペレザ",
+      "en": "Nershock",
+      "fr": "Surprise Ner",
+      "it": "Shock Nerscylla",
+      "de": "Nerscylla-Schock",
+      "es": "Nershock",
+      "ru": "Нер-удар",
+      "pl": "Nerszok",
+      "pt-BR": "Nerchoque",
+      "ko": "네르스르페레자",
+      "zh-Hant": "骸蜘蛛影弓",
+      "zh-Hans": "影蜘蛛柔韧弯弓",
+      "ar": "صدمة نير",
+      "es-419": "Nershock"
+    },
+    "descriptions": {
+      "ja": "スキュラフィストの強化型。\r\n柔軟な素材と、力学的に計算された\r\n曲率が生んだ決定版。",
+      "en": "An upgraded Scylla Fist,\r\nshaped from pliable material\r\ninto a dynamically ideal curve.\r\nThis one is a keeper.",
+      "fr": "Poing Scylla amélioré fait à\r\npartir de matériaux flexibles\r\nqui ont été façonnés pour\r\nune incurvation optimale.",
+      "it": "Pugno Scylla potenziato.\r\nLe sue parti flessibili sono ora\r\nottimizzate per garantire una\r\ncurvatura ottimale.",
+      "de": "Eine verbesserte Version der\r\nScylla-Faust aus biegsamem\r\nMaterial, zu einer dynamisch\r\nidealen Form gefertigt.",
+      "es": "Puño de Scylla mejorado.\r\nSus partes flexibles modificadas\r\nhan alcanzado la curvatura\r\nperfecta. Es un gran hallazgo.",
+      "ru": "Улучшенный вариант «Кулака\r\nскиллы». Благодаря гибким\r\nэлементам идеально подогнан\r\nпод руку владельца.",
+      "pl": "Ulepszona Pięści Scylli.\r\nUkształtowana z giętkiego\r\nmateriału w dynamicznie\r\nidealną krzywiznę. Wyjątkowa.",
+      "pt-BR": "Punho de Scylla melhorado,\r\nmoldado de material flexível\r\ne curvado da maneira ideal.\r\nEsse é para ficar.",
+      "ko": "스큐라피스트의 강화형.\r\n유연한 소재와 역학적으로 계산된\r\n곡률이 완성판을 탄생시켰다.",
+      "zh-Hant": "影蜘蛛爪弓的強化版。由柔軟素材\r\n製成，經過力學計算打造出了最佳\r\n的曲率，是完美的成品。",
+      "zh-Hans": "影蜘蛛柔韧弓的强化型。柔软的素\r\n材及经过力学计算的弯曲度，造就\r\n了此完成版。",
+      "ar": "قبضة سكيلا مطوَّرة، تم\r\nتشكيلها من مادة مرنة\r\nلتمنح انحناءً مثاليًا.\r\nتستحق الاحتفاظ بها.",
+      "es-419": "Un puño de Scylla mejorado,\r\nmoldeado con material flexible\r\nen una curva dinámicamente\r\nideal. No puede faltar."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 10
+    },
+    "coatings": [
+      "pierce",
+      "paralysis",
+      "sleep"
+    ]
+  },
+  {
+    "game_id": 40,
+    "kind": "bow",
+    "names": {
+      "ja": "闢虐弓Ⅰ",
+      "en": "Dosha Fearbringer I",
+      "fr": "Terreur Dosha",
+      "it": "Portapaura Dosha I",
+      "de": "Dosha-Pfähler I",
+      "es": "Terror Dosha I",
+      "ru": "Устрашитель дошагум I",
+      "pl": "Lękotwórca Doshy I",
+      "pt-BR": "Terrificante Dosha I",
+      "ko": "벽학궁Ⅰ",
+      "zh-Hant": "闢虐弓Ⅰ",
+      "zh-Hans": "辟虐弓Ⅰ",
+      "ar": "دوشا جالب الرعب 1",
+      "es-419": "Terror Dosha I"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの骨で構成した戦弓。\r\n打ち出された矢は貪欲に獲物を\r\n追跡し続ける。",
+      "en": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+      "fr": "Arc de guerre Doshaguma. Chaque\r\nflèche tirée par ses mâchoires\r\nd'os poursuit sa proie avec une\r\nfrénésie vorace.",
+      "it": "Un arco da guerra Doshaguma.\r\nOgni freccia scoccata dal suo telaio\r\nosseo insegue la preda\r\ncon un'ossessione famelica.",
+      "de": "Ein Doshaguma-Kriegsbogen. Jeder\r\nPfeil, der von diesem Knochen-\r\nbogen abgefeuert wird, verfolgt\r\nseine Beute mit unbändiger Wut.",
+      "es": "Un arco de guerra de Doshaguma.\r\nCada flecha que sale despedida de\r\nsu estructura ósea persigue a su\r\npresa con una voraz obsesión.",
+      "ru": "Дошагумовый боевой лук. Стрелы,\r\nчто срываются с натянутой на\r\nкостяных плечах тетивы, преследуют\r\nцель, словно голодный хищник.",
+      "pl": "Łuk bojowy z Doshagumy. Każda\r\nstrzała wypuszczona z kościanego\r\nłęczyska ściga ofiarę z żarłoczną\r\nobsesją.",
+      "pt-BR": "Arco de guerra de Doshaguma.\r\nCada flecha lançada por\r\nsua estrutura feita de ossos\r\npersegue a presa obsessivamente.",
+      "ko": "도샤구마의 뼈로 만든 전투활.\r\n시위를 떠난 화살은 탐욕스럽게\r\n사냥감을 계속 추적한다.",
+      "zh-Hant": "以闢獸的骨構成的戰弓。射出的箭矢\r\n會貪婪地追蹤獵物。",
+      "zh-Hans": "使用辟兽的骨制成的战弓。射出的\r\n箭矢会不断贪婪地追踪猎物。",
+      "ar": "قوس حرب (دوشاغوما).\r\nكل سهم ينطلق من إطاره العظمي\r\nيلاحق الفريسة بهوس شديد.",
+      "es-419": "Un arco de guerra de Doshaguma.\r\nCada flecha lanzada desde su\r\nmarco óseo persigue a su presa\r\ncon una obsesión voraz."
+    },
+    "rarity": 2,
+    "attack_raw": 140,
+    "defense": 20,
+    "affinity": -5,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "36": 1,
+        "34": 3,
+        "35": 2
+      },
+      "previous_id": 46,
+      "branches": [
+        41,
+        43,
+        67
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 11
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 41,
+    "kind": "bow",
+    "names": {
+      "ja": "闢虐弓Ⅱ",
+      "en": "Dosha Fearbringer II",
+      "fr": "Terreur Dosha II",
+      "it": "Portapaura Dosha II",
+      "de": "Dosha-Pfähler II",
+      "es": "Terror Dosha II",
+      "ru": "Устрашитель дошагум II",
+      "pl": "Lękotwórca Doshy II",
+      "pt-BR": "Terrificante Dosha II",
+      "ko": "벽학궁Ⅱ",
+      "zh-Hant": "闢虐弓Ⅱ",
+      "zh-Hans": "辟虐弓Ⅱ",
+      "ar": "دوشا جالب الرعب 2",
+      "es-419": "Terror Dosha II"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの骨で構成した戦弓。\r\n打ち出された矢は貪欲に獲物を\r\n追跡し続ける。",
+      "en": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+      "fr": "Arc de guerre Doshaguma. Chaque\r\nflèche tirée par ses mâchoires\r\nd'os poursuit sa proie avec une\r\nfrénésie vorace.",
+      "it": "Un arco da guerra Doshaguma.\r\nOgni freccia scoccata dal suo telaio\r\nosseo insegue la preda\r\ncon un'ossessione famelica.",
+      "de": "Ein Doshaguma-Kriegsbogen. Jeder\r\nPfeil, der von diesem Knochen-\r\nbogen abgefeuert wird, verfolgt\r\nseine Beute mit unbändiger Wut.",
+      "es": "Un arco de guerra de Doshaguma.\r\nCada flecha que sale despedida de\r\nsu estructura ósea persigue a su\r\npresa con una voraz obsesión.",
+      "ru": "Дошагумовый боевой лук. Стрелы,\r\nчто срываются с натянутой на\r\nкостяных плечах тетивы, преследуют\r\nцель, словно голодный хищник.",
+      "pl": "Łuk bojowy z Doshagumy. Każda\r\nstrzała wypuszczona z kościanego\r\nłęczyska ściga ofiarę z żarłoczną\r\nobsesją.",
+      "pt-BR": "Arco de guerra de Doshaguma.\r\nCada flecha lançada por\r\nsua estrutura feita de ossos\r\npersegue a presa obsessivamente.",
+      "ko": "도샤구마의 뼈로 만든 전투활.\r\n시위를 떠난 화살은 탐욕스럽게\r\n사냥감을 계속 추적한다.",
+      "zh-Hant": "以闢獸的骨構成的戰弓。射出的箭矢\r\n會貪婪地追蹤獵物。",
+      "zh-Hans": "使用辟兽的骨制成的战弓。射出的\r\n箭矢会不断贪婪地追踪猎物。",
+      "ar": "قوس حرب (دوشاغوما).\r\nكل سهم ينطلق من إطاره العظمي\r\nيلاحق الفريسة بهوس شديد.",
+      "es-419": "Un arco de guerra de Doshaguma.\r\nCada flecha lanzada desde su\r\nmarco óseo persigue a su presa\r\ncon una obsesión voraz."
+    },
+    "rarity": 4,
+    "attack_raw": 180,
+    "defense": 20,
+    "affinity": -5,
+    "specials": [],
+    "slots": [
+      1,
+      1
+    ],
+    "skills": {
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "588": 1,
+        "392": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 11
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 42,
+    "kind": "bow",
+    "names": {
+      "ja": "闢虐弓Ⅲ",
+      "en": "Dosha Fearbringer III",
+      "fr": "Terreur Dosha III",
+      "it": "Portapaura Dosha III",
+      "de": "Dosha-Pfähler III",
+      "es": "Terror Dosha III",
+      "ru": "Устрашитель дошагум III",
+      "pl": "Lękotwórca Doshy III",
+      "pt-BR": "Terrificante Dosha III",
+      "ko": "벽학궁Ⅲ",
+      "zh-Hant": "闢虐弓Ⅲ",
+      "zh-Hans": "辟虐弓Ⅲ",
+      "ar": "دوشا جالب الرعب 3",
+      "es-419": "Terror Dosha III"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの骨で構成した戦弓。\r\n打ち出された矢は貪欲に獲物を\r\n追跡し続ける。",
+      "en": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+      "fr": "Arc de guerre Doshaguma. Chaque\r\nflèche tirée par ses mâchoires\r\nd'os poursuit sa proie avec une\r\nfrénésie vorace.",
+      "it": "Un arco da guerra Doshaguma.\r\nOgni freccia scoccata dal suo telaio\r\nosseo insegue la preda\r\ncon un'ossessione famelica.",
+      "de": "Ein Doshaguma-Kriegsbogen. Jeder\r\nPfeil, der von diesem Knochen-\r\nbogen abgefeuert wird, verfolgt\r\nseine Beute mit unbändiger Wut.",
+      "es": "Un arco de guerra de Doshaguma.\r\nCada flecha que sale despedida de\r\nsu estructura ósea persigue a su\r\npresa con una voraz obsesión.",
+      "ru": "Дошагумовый боевой лук. Стрелы,\r\nчто срываются с натянутой на\r\nкостяных плечах тетивы, преследуют\r\nцель, словно голодный хищник.",
+      "pl": "Łuk bojowy z Doshagumy. Każda\r\nstrzała wypuszczona z kościanego\r\nłęczyska ściga ofiarę z żarłoczną\r\nobsesją.",
+      "pt-BR": "Arco de guerra de Doshaguma.\r\nCada flecha lançada por\r\nsua estrutura feita de ossos\r\npersegue a presa obsessivamente.",
+      "ko": "도샤구마의 뼈로 만든 전투활.\r\n시위를 떠난 화살은 탐욕스럽게\r\n사냥감을 계속 추적한다.",
+      "zh-Hant": "以闢獸的骨構成的戰弓。射出的箭矢\r\n會貪婪地追蹤獵物。",
+      "zh-Hans": "使用辟兽的骨制成的战弓。射出的\r\n箭矢会不断贪婪地追踪猎物。",
+      "ar": "قوس حرب (دوشاغوما).\r\nكل سهم ينطلق من إطاره العظمي\r\nيلاحق الفريسة بهوس شديد.",
+      "es-419": "Un arco de guerra de Doshaguma.\r\nCada flecha lanzada desde su\r\nmarco óseo persigue a su presa\r\ncon una obsesión voraz."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "defense": 20,
+    "affinity": -5,
+    "specials": [],
+    "slots": [
+      2,
+      2
+    ],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "321": 2,
+        "320": 4,
+        "319": 6
+      },
+      "previous_id": 41,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 11
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 43,
+    "kind": "bow",
+    "names": {
+      "ja": "護闢虐弓Ⅰ",
+      "en": "Dosha Griefbringer I",
+      "fr": "Portedeuil Dosha",
+      "it": "Vegliatore Dosha I",
+      "de": "Dosha-Grampfähler I",
+      "es": "Desolador Dosha I",
+      "ru": "Дошагумовая скорбь I",
+      "pl": "Piewca Żalu Doshy I",
+      "pt-BR": "Angustífero Dosha I",
+      "ko": "호벽학궁Ⅰ",
+      "zh-Hant": "護闢虐弓Ⅰ",
+      "zh-Hans": "护辟虐弓Ⅰ",
+      "ar": "دوشا جالب الأسى 1",
+      "es-419": "Dolor Dosha I"
+    },
+    "descriptions": {
+      "ja": "護竜ドシャグマの素材で作られた\r\n弓。立ちはだかる者に容赦は\r\n不要、残虐を以て大地に沈める。",
+      "en": "A Guardian Doshaguma bow.\r\nTo its defiers it shows no\r\nmercy, savagely returning\r\nthem to nature.",
+      "fr": "Arc Doshaguma Gardien. Il fait\r\nretourner ses adversaires à la\r\npoussière avec une cruauté\r\nimpitoyable.",
+      "it": "Un arco di Doshaguma guardiano.\r\nNon ha pietà per i detrattori,\r\ne li restituisce violentemente\r\nalla terra.",
+      "de": "Ein Bogen aus Wächter-\r\nDoshaguma-Material. Er zeigt\r\nkeine Gnade und bringt Gegner\r\nwild zu Fall.",
+      "es": "Arco de Doshaguma Guardián.\r\nNo tiene piedad hacia quien\r\nlo desafía y los devuelve\r\na la tierra con fiereza.",
+      "ru": "Лук из дошагумы-стража. Жестоко\r\nрасправляясь с жертвой, его\r\nвладелец возвращает останки\r\nв лоно природы.",
+      "pl": "Łuk z Doshagumy Strażnika.\r\nNie okazuje litości swoim\r\nprzeciwnikom i siłą zwraca\r\nich ziemi.",
+      "pt-BR": "Arco de Doshaguma Guardião.\r\nImpiedoso com seus desafiantes,\r\nos retorna à natureza com pura\r\nselvageria.",
+      "ko": "수호룡 도샤구마 소재로 만든\r\n활. 앞을 막아서는 자들을\r\n자비 없는 잔혹함으로 대지에\r\n잠들게 한다.",
+      "zh-Hant": "以護闢獸素材製作的弓。面對攔路\r\n之輩毋須留情，殘忍地將其埋葬在\r\n大地吧。",
+      "zh-Hans": "以护辟兽素材制作的弓。面对拦路\r\n之辈无需留情，以残虐将其埋葬于\r\n大地！",
+      "ar": "قوس (دوشاغوما) حارس.\r\nلا يُظهر أي رحمة لمَن يتحداه،\r\nويعيده بوحشية إلى الطبيعة.",
+      "es-419": "Un arco de Doshaguma Guardián.\r\nNo muestra piedad ante quien lo\r\ndesafíe, ya que lo devuelve al\r\npolvo de donde proviene."
+    },
+    "rarity": 4,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": -15,
+    "specials": [],
+    "slots": [
+      1
+    ],
+    "skills": {
+      "-420608864": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 14
+    },
+    "coatings": [
+      "close-range",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 44,
+    "kind": "bow",
+    "names": {
+      "ja": "護闢虐弓Ⅱ",
+      "en": "Dosha Griefbringer II",
+      "fr": "Portedeuil Dosha II",
+      "it": "Vegliatore Dosha II",
+      "de": "Dosha-Grampfähler II",
+      "es": "Desolador Dosha II",
+      "ru": "Дошагумовая скорбь II",
+      "pl": "Piewca Żalu Doshy II",
+      "pt-BR": "Angustífero Dosha II",
+      "ko": "호벽학궁Ⅱ",
+      "zh-Hant": "護闢虐弓Ⅱ",
+      "zh-Hans": "护辟虐弓Ⅱ",
+      "ar": "دوشا جالب الأسى 2",
+      "es-419": "Dolor Dosha II"
+    },
+    "descriptions": {
+      "ja": "護竜ドシャグマの素材で作られた\r\n弓。立ちはだかる者に容赦は\r\n不要、残虐を以て大地に沈める。",
+      "en": "A Guardian Doshaguma bow.\r\nTo its defiers it shows no\r\nmercy, savagely returning\r\nthem to nature.",
+      "fr": "Arc Doshaguma Gardien. Il fait\r\nretourner ses adversaires à la\r\npoussière avec une cruauté\r\nimpitoyable.",
+      "it": "Un arco di Doshaguma guardiano.\r\nNon ha pietà per i detrattori,\r\ne li restituisce violentemente\r\nalla terra.",
+      "de": "Ein Bogen aus Wächter-\r\nDoshaguma-Material. Er zeigt\r\nkeine Gnade und bringt Gegner\r\nwild zu Fall.",
+      "es": "Arco de Doshaguma Guardián.\r\nNo tiene piedad hacia quien\r\nlo desafía y los devuelve\r\na la tierra con fiereza.",
+      "ru": "Лук из дошагумы-стража. Жестоко\r\nрасправляясь с жертвой, его\r\nвладелец возвращает останки\r\nв лоно природы.",
+      "pl": "Łuk z Doshagumy Strażnika.\r\nNie okazuje litości swoim\r\nprzeciwnikom i siłą zwraca\r\nich ziemi.",
+      "pt-BR": "Arco de Doshaguma Guardião.\r\nImpiedoso com seus desafiantes,\r\nos retorna à natureza com pura\r\nselvageria.",
+      "ko": "수호룡 도샤구마 소재로 만든\r\n활. 앞을 막아서는 자들을\r\n자비 없는 잔혹함으로 대지에\r\n잠들게 한다.",
+      "zh-Hant": "以護闢獸素材製作的弓。面對攔路\r\n之輩毋須留情，殘忍地將其埋葬在\r\n大地吧。",
+      "zh-Hans": "以护辟兽素材制作的弓。面对拦路\r\n之辈无需留情，以残虐将其埋葬于\r\n大地！",
+      "ar": "قوس (دوشاغوما) حارس.\r\nلا يُظهر أي رحمة لمَن يتحداه،\r\nويعيده بوحشية إلى الطبيعة.",
+      "es-419": "Un arco de Doshaguma Guardián.\r\nNo muestra piedad ante quien lo\r\ndesafíe, ya que lo devuelve al\r\npolvo de donde proviene."
+    },
+    "rarity": 6,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": -15,
+    "specials": [],
+    "slots": [
+      2,
+      2
+    ],
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "398": 4,
+        "608": 1,
+        "399": 2,
+        "397": 6
+      },
+      "previous_id": 43,
+      "branches": [
+        45
+      ],
+      "is_shortcut": true,
+      "column": 6,
+      "row": 14
+    },
+    "coatings": [
+      "close-range",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 45,
+    "kind": "bow",
+    "names": {
+      "ja": "護闢虐弓ガルグマクス",
+      "en": "Griefbringer Urstox",
+      "fr": "Portedeuil Urstox",
+      "it": "Urstox Vegliatore",
+      "de": "Grampfähler Urstox",
+      "es": "Desolador Urstox",
+      "ru": "Несущий скорбь Урстокс",
+      "pl": "Piewca Żalu Urstox",
+      "pt-BR": "Angustífero Urstox",
+      "ko": "호벽학궁 갈구마쿠스",
+      "zh-Hant": "卡利斯托護闢虐弓",
+      "zh-Hans": "狂暴护辟虐弓",
+      "ar": "أورستوكس جالب الأسى",
+      "es-419": "Dolor Urstox"
+    },
+    "descriptions": {
+      "ja": "強化されし護闢虐弓。\r\nこの武器を手にした者は狂暴の化身\r\nとなり、破壊の衝動に支配される。",
+      "en": "An upgraded Dosha\r\nGriefbringer. Its destructive\r\nimpulses transform wielders\r\ninto violence incarnate.",
+      "fr": "Portedeuil Dosha amélioré.\r\nSes pulsions destructrices\r\ntransforment son porteur\r\nen incarnation de la violence.",
+      "it": "Un Vegliatore Dosha potenziato.\r\nI suoi impulsi distruttivi\r\ntrasformano i combattenti\r\nin violenza pura.",
+      "de": "Ein verbesserter Dosha-Gram-\r\npfähler. Seine zerstörerischen\r\nImpulse machen den Träger\r\nzur Verkörperung der Gewalt.",
+      "es": "Desolador Dosha mejorado.\r\nSus impulsos destructivos\r\nconvierten al portador\r\nen violencia encarnada.",
+      "ru": "Улучшенная «Дошагумовая скорбь».\r\nТого, кто берёт в руки это оружие,\r\nобуревает неодолимая тяга к\r\nжестокости.",
+      "pl": "Ulepszony Piewca Żalu Doshy.\r\nNiszczycielskie impulsy\r\nzmieniają jego posiadaczy\r\nwe wcielenie przemocy.",
+      "pt-BR": "Angustífero Dosha melhorado.\r\nSeus impulsos destrutivos\r\ntransformam quem o porta\r\nem violência encarnada.",
+      "ko": "강화된 호벽학궁.\r\n이 무기를 든 자는\r\n광폭의 화신이 되어\r\n파괴 충동에 지배당한다.",
+      "zh-Hant": "強化版護闢虐弓。拿起這把武器的人\r\n會成為狂暴的化身，被破壞的衝動所\r\n支配。",
+      "zh-Hans": "强化后的护辟虐弓。手持此武器之\r\n人将成为狂暴的化身，被破坏的冲\r\n动所支配。",
+      "ar": "(دوشا) جالب الأسى مطوَّر.\r\nدوافعه التدميرية تحوّل حامله\r\nإلى تجسيد للعنف.",
+      "es-419": "Una versión mejorada del Dolor\r\nDosha. Sus impulsos destructivos\r\ntransforman al portador en una\r\nencarnación de la violencia."
+    },
+    "rarity": 8,
+    "attack_raw": 250,
+    "defense": 0,
+    "affinity": -15,
+    "specials": [],
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "660": 5,
+        "665": 6,
+        "395": 6,
+        "37": 1
+      },
+      "previous_id": 44,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 14
+    },
+    "coatings": [
+      "close-range",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 46,
+    "kind": "bow",
+    "names": {
+      "ja": "ハンターボウⅠ",
+      "en": "Hunter's Bow I",
+      "fr": "Arc du chasseur",
+      "it": "Arco da cacciatore I",
+      "de": "Jägerbogen I",
+      "es": "Arco de cazador I",
+      "ru": "Лук охотника I",
+      "pl": "Łuk łowcy I",
+      "pt-BR": "Arco do Caçador I",
+      "ko": "헌터보우Ⅰ",
+      "zh-Hant": "獵弓Ⅰ",
+      "zh-Hans": "猎弓Ⅰ",
+      "ar": "قوس الصيّاد 1",
+      "es-419": "Arco de cazador I"
+    },
+    "descriptions": {
+      "ja": "しなりがある骨素材で構成された\r\nシンプルな弓。弦が引きやすく、\r\n扱いやすさに定評がある。",
+      "en": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+      "fr": "Arc simple fait d'os souples.\r\nApprécié par les chasseurs\r\npour sa facilité d'emploi.",
+      "it": "Arco semplice in osso duttile.\r\nI cacciatori si affidano alla\r\nsua facile impugnatura e\r\npraticità d'uso.",
+      "de": "Einfacher Bogen aus biegsamen\r\nKnochen. Bei Jägern aufgrund\r\nseiner Handlichkeit beliebt.",
+      "es": "Arco sencillo fabricado con\r\nhueso flexible. Un clásico entre\r\ncazadores por su rapidez y\r\nfacilidad de uso en general.",
+      "ru": "Простой лук из гибкой кости.\r\nОхотники ценят его за удобство\r\nи практичность.",
+      "pl": "Prosty łuk wykonany z giętkiej\r\nkości. Łowcy cenią sobie\r\nłatwość naciągania cięciwy\r\ni wszechstronność.",
+      "pt-BR": "Arco simples de osso maleável.\r\nPreferido pelos caçadores pela\r\nversatilidade e puxada fácil.",
+      "ko": "유연한 뼈 소재로 구성된\r\n단순한 활. 활시위가 부드럽고\r\n다루기 쉽기로 유명하다.",
+      "zh-Hant": "以有韌性的骨頭素材製作的簡易弓。\r\n弓弦好拉，因相當好用而廣受歡迎。",
+      "zh-Hans": "使用柔韧的骨素材制作的简易弓。\r\n弓弦易拉，以好上手而著称。",
+      "ar": "قوس بسيط مصنوع من عظام مرنة.\r\nأصبح الصيادون يعتمدون\r\nعلى سهولة سحبه.",
+      "es-419": "Arco simple hecho con hueso\r\nflexible. Un clásico de\r\nconfianza entre cazadores por\r\nsu rapidez y facilidad de uso."
+    },
+    "rarity": 1,
+    "attack_raw": 110,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        40,
+        47,
+        59
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 7
+    },
+    "coatings": [
+      "close-range",
+      "poison"
+    ]
+  },
+  {
+    "game_id": 47,
+    "kind": "bow",
+    "names": {
+      "ja": "ハンターボウⅡ",
+      "en": "Hunter's Bow II",
+      "fr": "Arc du chasseur II",
+      "it": "Arco da cacciatore II",
+      "de": "Jägerbogen II",
+      "es": "Arco de cazador II",
+      "ru": "Лук охотника II",
+      "pl": "Łuk łowcy II",
+      "pt-BR": "Arco do Caçador II",
+      "ko": "헌터보우Ⅱ",
+      "zh-Hant": "獵弓Ⅱ",
+      "zh-Hans": "猎弓Ⅱ",
+      "ar": "قوس الصيّاد 2",
+      "es-419": "Arco de cazador II"
+    },
+    "descriptions": {
+      "ja": "しなりがある骨素材で構成された\r\nシンプルな弓。弦が引きやすく、\r\n扱いやすさに定評がある。",
+      "en": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+      "fr": "Arc simple fait d'os souples.\r\nApprécié par les chasseurs\r\npour sa facilité d'emploi.",
+      "it": "Arco semplice in osso duttile.\r\nI cacciatori si affidano alla\r\nsua facile impugnatura e\r\npraticità d'uso.",
+      "de": "Einfacher Bogen aus biegsamen\r\nKnochen. Bei Jägern aufgrund\r\nseiner Handlichkeit beliebt.",
+      "es": "Arco sencillo fabricado con\r\nhueso flexible. Un clásico entre\r\ncazadores por su rapidez y\r\nfacilidad de uso en general.",
+      "ru": "Простой лук из гибкой кости.\r\nОхотники ценят его за удобство\r\nи практичность.",
+      "pl": "Prosty łuk wykonany z giętkiej\r\nkości. Łowcy cenią sobie\r\nłatwość naciągania cięciwy\r\ni wszechstronność.",
+      "pt-BR": "Arco simples de osso maleável.\r\nPreferido pelos caçadores pela\r\nversatilidade e puxada fácil.",
+      "ko": "유연한 뼈 소재로 구성된\r\n단순한 활. 활시위가 부드럽고\r\n다루기 쉽기로 유명하다.",
+      "zh-Hant": "以有韌性的骨頭素材製作的簡易弓。\r\n弓弦好拉，因相當好用而廣受歡迎。",
+      "zh-Hans": "使用柔韧的骨素材制作的简易弓。\r\n弓弦易拉，以好上手而著称。",
+      "ar": "قوس بسيط مصنوع من عظام مرنة.\r\nأصبح الصيادون يعتمدون\r\nعلى سهولة سحبه.",
+      "es-419": "Arco simple hecho con hueso\r\nflexible. Un clásico de\r\nconfianza entre cazadores por\r\nsu rapidez y facilidad de uso."
+    },
+    "rarity": 2,
+    "attack_raw": 130,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        48,
+        53
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 7
+    },
+    "coatings": [
+      "close-range",
+      "poison"
+    ]
+  },
+  {
+    "game_id": 48,
+    "kind": "bow",
+    "names": {
+      "ja": "ハンターボウⅢ",
+      "en": "Hunter's Bow III",
+      "fr": "Arc du chasseur III",
+      "it": "Arco da cacciatore III",
+      "de": "Jägerbogen III",
+      "es": "Arco de cazador III",
+      "ru": "Лук охотника III",
+      "pl": "Łuk łowcy III",
+      "pt-BR": "Arco do Caçador III",
+      "ko": "헌터보우Ⅲ",
+      "zh-Hant": "獵弓Ⅲ",
+      "zh-Hans": "猎弓Ⅲ",
+      "ar": "قوس الصيّاد 3",
+      "es-419": "Arco de cazador III"
+    },
+    "descriptions": {
+      "ja": "しなりがある骨素材で構成された\r\nシンプルな弓。弦が引きやすく、\r\n扱いやすさに定評がある。",
+      "en": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+      "fr": "Arc simple fait d'os souples.\r\nApprécié par les chasseurs\r\npour sa facilité d'emploi.",
+      "it": "Arco semplice in osso duttile.\r\nI cacciatori si affidano alla\r\nsua facile impugnatura e\r\npraticità d'uso.",
+      "de": "Einfacher Bogen aus biegsamen\r\nKnochen. Bei Jägern aufgrund\r\nseiner Handlichkeit beliebt.",
+      "es": "Arco sencillo fabricado con\r\nhueso flexible. Un clásico entre\r\ncazadores por su rapidez y\r\nfacilidad de uso en general.",
+      "ru": "Простой лук из гибкой кости.\r\nОхотники ценят его за удобство\r\nи практичность.",
+      "pl": "Prosty łuk wykonany z giętkiej\r\nkości. Łowcy cenią sobie\r\nłatwość naciągania cięciwy\r\ni wszechstronność.",
+      "pt-BR": "Arco simples de osso maleável.\r\nPreferido pelos caçadores pela\r\nversatilidade e puxada fácil.",
+      "ko": "유연한 뼈 소재로 구성된\r\n단순한 활. 활시위가 부드럽고\r\n다루기 쉽기로 유명하다.",
+      "zh-Hant": "以有韌性的骨頭素材製作的簡易弓。\r\n弓弦好拉，因相當好用而廣受歡迎。",
+      "zh-Hans": "使用柔韧的骨素材制作的简易弓。\r\n弓弦易拉，以好上手而著称。",
+      "ar": "قوس بسيط مصنوع من عظام مرنة.\r\nأصبح الصيادون يعتمدون\r\nعلى سهولة سحبه.",
+      "es-419": "Arco simple hecho con hueso\r\nflexible. Un clásico de\r\nconfianza entre cazadores por\r\nsu rapidez y facilidad de uso."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      1
+    ],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 7
+    },
+    "coatings": [
+      "close-range",
+      "poison"
+    ]
+  },
+  {
+    "game_id": 49,
+    "kind": "bow",
+    "names": {
+      "ja": "ハンターボウⅣ",
+      "en": "Hunter's Bow IV",
+      "fr": "Arc du chasseur IV",
+      "it": "Arco da cacc. IV",
+      "de": "Jägerbogen IV",
+      "es": "Arco de cazador IV",
+      "ru": "Лук охотника IV",
+      "pl": "Łuk łowcy IV",
+      "pt-BR": "Arco do Caçador IV",
+      "ko": "헌터보우Ⅳ",
+      "zh-Hant": "獵弓Ⅳ",
+      "zh-Hans": "猎弓Ⅳ",
+      "ar": "قوس الصياد 4",
+      "es-419": "Arco de cazador IV"
+    },
+    "descriptions": {
+      "ja": "しなりがある骨素材で構成された\r\nシンプルな弓。弦が引きやすく、\r\n扱いやすさに定評がある。",
+      "en": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+      "fr": "Arc simple fait d'os souples.\r\nApprécié par les chasseurs\r\npour sa facilité d'emploi.",
+      "it": "Arco semplice in osso duttile.\r\nI cacciatori si affidano alla\r\nsua facile impugnatura e\r\npraticità d'uso.",
+      "de": "Einfacher Bogen aus biegsamen\r\nKnochen. Bei Jägern aufgrund\r\nseiner Handlichkeit beliebt.",
+      "es": "Arco sencillo fabricado con\r\nhueso flexible. Un clásico entre\r\ncazadores por su rapidez y\r\nfacilidad de uso en general.",
+      "ru": "Простой лук из гибкой кости.\r\nОхотники ценят его за удобство\r\nи практичность.",
+      "pl": "Prosty łuk wykonany z giętkiej\r\nkości. Łowcy cenią sobie\r\nłatwość naciągania cięciwy\r\ni wszechstronność.",
+      "pt-BR": "Arco simples de osso maleável.\r\nPreferido pelos caçadores pela\r\nversatilidade e puxada fácil.",
+      "ko": "유연한 뼈 소재로 구성된\r\n단순한 활. 활시위가 부드럽고\r\n다루기 쉽기로 유명하다.",
+      "zh-Hant": "以有韌性的骨頭素材製作的簡易弓。\r\n弓弦好拉，因相當好用而廣受歡迎。",
+      "zh-Hans": "使用柔韧的骨素材制作的简易弓。\r\n弓弦易拉，以好上手而著称。",
+      "ar": "قوس بسيط مصنوع من عظام مرنة.\r\nأصبح الصيادون يعتمدون\r\nعلى سهولة سحبه.",
+      "es-419": "Arco simple hecho con hueso\r\nflexible. Un clásico de\r\nconfianza entre cazadores por\r\nsu rapidez y facilidad de uso."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "658": 4,
+        "61": 2
+      },
+      "previous_id": 48,
+      "branches": [
+        50
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 7
+    },
+    "coatings": [
+      "close-range",
+      "poison"
+    ]
+  },
+  {
+    "game_id": 50,
+    "kind": "bow",
+    "names": {
+      "ja": "パワーハンターボウ",
+      "en": "Hunter's Stoutbow",
+      "fr": "Arc de guerre",
+      "it": "Superarco cacciatore",
+      "de": "Jäger-Kraftbogen",
+      "es": "Arco recio de cazador",
+      "ru": "Крепкий лук охотника",
+      "pl": "Dzielnołuk łowcy",
+      "pt-BR": "Arco Forte do Caçador",
+      "ko": "파워헌터보우",
+      "zh-Hant": "能量獵弓",
+      "zh-Hans": "强力猎弓",
+      "ar": "قوس الصياد الضخم",
+      "es-419": "Arco recio de cazador"
+    },
+    "descriptions": {
+      "ja": "繰り返し改良されたことで性能が\r\n高められたハンターボウ。番えた\r\n矢の威力は決して侮れない。",
+      "en": "Repeated upgrades to the\r\nHunter's Bow created this\r\nadvanced model that delivers\r\na surprising bite.",
+      "fr": "Les améliorations successives\r\napportées à l'Arc du chasseur\r\nont permis de créer ce modèle\r\navancé à la force surprenante.",
+      "it": "Rifinendo le varie versioni\r\ndell'arco da cacciatore, è stato\r\ncreato questo modello che\r\ninfligge colpi sorprendenti.",
+      "de": "Wiederholte Verbesserungen am\r\nJägerbogen schufen dieses fort-\r\ngeschrittene Modell mit über-\r\nraschendem Biss.",
+      "es": "Las continuas mejoras en el Arco\r\nde cazador han dado lugar a este\r\nmodelo más avanzado y con gran\r\ncapacidad de penetración.",
+      "ru": "Доработанный лук охотника,\r\nполучивший несколько улучшений.\r\nВыпущенные из него стрелы бьют\r\nгораздо сильнее.",
+      "pl": "Częste ulepszenia łuku łowcy\r\ndoprowadziły do powstania tego\r\nzaawansowanego modelu, który\r\nzadaje zaskakująco mocne ciosy.",
+      "pt-BR": "Repetidas melhorias no Arco\r\ndo Caçador produziram este\r\nmodelo avançado com maior\r\npoder ofensivo.",
+      "ko": "거듭 개량되어 성능이 좋아진\r\n헌터보우. 시위에 메긴 화살의\r\n위력은 결코 만만치 않다.",
+      "zh-Hant": "經過反覆改良提高性能的獵弓。\r\n搭在弦上的箭的威力不容小覷。",
+      "zh-Hans": "通过反复改良提高性能的猎弓。搭\r\n于弦上的箭，威力绝不可小觑。",
+      "ar": "الترقيات المتكررة لقوس الصياد\r\nأنتجت هذا النموذج المتطور\r\nذي اللدغة المفاجئة.",
+      "es-419": "Las mejoras repetidas de arcos\r\nde cazador permitieron crear\r\neste modelo más avanzado y con\r\ngran capacidad de penetración."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "62": 1,
+        "37": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 49,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 7
+    },
+    "coatings": [
+      "close-range",
+      "poison"
+    ]
+  },
+  {
+    "game_id": 51,
+    "kind": "bow",
+    "names": {
+      "ja": "レラ＝アルジャナルⅠ",
+      "en": "Blinding Fulgur I",
+      "fr": "Tonnerre aveuglant",
+      "it": "Folgore accecante I",
+      "de": "Blendender Fulgur I",
+      "es": "Fulgur cegador I",
+      "ru": "Громовая вспышка I",
+      "pl": "Oślepiający Piorun I",
+      "pt-BR": "Fulgor Ofuscante I",
+      "ko": "렐라알쟈나르Ⅰ",
+      "zh-Hant": "雷顎白電Ⅰ",
+      "zh-Hans": "护雷白弓Ⅰ",
+      "ar": "رعدي مسبب للعمى 1",
+      "es-419": "Fulgur cegador I"
+    },
+    "descriptions": {
+      "ja": "護竜アンジャナフ亜種の素材で\r\n作られた弓。蛮勇の力を理性で\r\n抑え込める者のみが扱える武器。",
+      "en": "A Guardian Fulgur Anjanath\r\nbow. Only one able to tame\r\nits brutality through reason\r\ncan wield it.",
+      "fr": "Arc Anjanath tonnerre Gardien.\r\nSeuls ceux capables de dompter\r\nsa brutalité par la raison\r\npeuvent le manier.",
+      "it": "Un arco di Anjanath tonante guardiano.\r\nPotrà essere brandito\r\nsolo da chi saprà domare\r\nla sua brutalità con la ragione.",
+      "de": "Ein Wächter-Fulgur-Anjanath-\r\nBogen. Nur wer seine Bruta-\r\nlität mit Vernunft zähmt,\r\nkann ihn führen.",
+      "es": "Arco de un Anjanath Fulgúreo\r\nGuardián. Solo podrán empuñarlo\r\nquienes logren domar su\r\nbrutalidad a través de la razón.",
+      "ru": "Лук из громового аньяната-\r\nстража. Покорится лишь тому,\r\nкто сможет обуздать его\r\nжестокость силой разума.",
+      "pl": "Łuk z Piorunowego Anjanatha\r\nStrażnika. Może nim władać\r\ntylko ten, kto okiełzna jego\r\nbrutalność rozumem.",
+      "pt-BR": "Arco de Anjanath Fulgurante\r\nGuardião. Apenas quem domar sua\r\nbrutalidade usando a razão será\r\ncapaz de usá-lo.",
+      "ko": "수호룡 안쟈나프 아종 소재로\r\n만든 활. 야만의 힘을\r\n이성으로 억제하는 능력이\r\n있어야 다룰 수 있다.",
+      "zh-Hant": "以護雷顎龍素材製作的弓。唯有以\r\n理性壓抑蠻力，才能用上這武器。",
+      "zh-Hans": "使用护雷颚龙素材制作的弓。唯有\r\n能以理性抑制蛮勇之力者方可使用。",
+      "ar": "قوس (أنجاناث) رعدي حارس. \r\nفقط مَن يمكنه ترويض وحشيته بالعقل،\r\nهو مَن يستطيع حمله.",
+      "es-419": "Un arco de Anjanath Fulgúreo\r\nGuardián. Quien pueda dominar\r\nsu brutalidad a través de la\r\nrazón podrá portarlo."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 16,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "598": 4,
+        "584": 2
+      },
+      "previous_id": 64,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 16
+    },
+    "coatings": [
+      "close-range"
+    ]
+  },
+  {
+    "game_id": 52,
+    "kind": "bow",
+    "names": {
+      "ja": "護雷弓レラガルデ",
+      "en": "Fulgurbow Guardiana",
+      "fr": "Arc tonnerre Guardiana",
+      "it": "Arco tonante G.",
+      "de": "Fulgurbogen-Guardiana",
+      "es": "Fulgoarco G.",
+      "ru": "Лук громостража",
+      "pl": "Piorunołuk Strażnika",
+      "pt-BR": "Fulgurarco Guardiano",
+      "ko": "호뢰궁 렐라가르데",
+      "zh-Hant": "護雷弓守衛之電",
+      "zh-Hans": "闪电护雷弓",
+      "ar": "القوس الرعدي الحارس a",
+      "es-419": "Arco Fulgur Guardiana"
+    },
+    "descriptions": {
+      "ja": "レラ＝アルジャナルの強化形。\r\n理を曲げるほどの圧倒的な暴力の\r\n具現。力におごれば身も滅ぼす。",
+      "en": "An upgraded Blinding Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+      "fr": "Tonnerre aveuglant amélioré.\r\nSes pulsions féroces font plier la\r\nraison et détruisent les porteurs\r\ntrop zélés.",
+      "it": "Una folgore accecante potenziata.\r\nLe sue pulsioni selvagge inibiscono\r\nla ragione e distruggono\r\nchi la impugna con troppa foga.",
+      "de": "Ein verbesserter Blendender\r\nFulgur. Sein wilder Drang\r\nüberwindet Vernunft und\r\nvernichtet übereifrige Jäger.",
+      "es": "Fulgur cegador mejorado.\r\nSus ansias salvajes destruyen\r\nla razón y acaban con los\r\nportadores más entusiastas.",
+      "ru": "Улучшенная «Громовая вспышка».\r\nИсточает свирепость, из-за\r\nкоторой владелец теряет\r\nосторожность и может погибнуть.",
+      "pl": "Ulepszony Oślepiający Piorun.\r\nNiszczycielskie impulsy\r\nzmieniają jego posiadaczy\r\nwe wcielenie przemocy.",
+      "pt-BR": "Fulgor Ofuscante melhorado.\r\nSeus impulsos selvagens\r\ndistorcem a razão, por fim\r\ndestruindo usuários arrogantes.",
+      "ko": "렐라알쟈나르의 강화형.\r\n이치를 뒤흔들 정도로 압도적인\r\n폭력을 구현했다. 힘에\r\n취하면 스스로를 망치게 된다.",
+      "zh-Hant": "強化版雷顎白電。壓倒性的力量顯然\r\n於世，足以歪曲常理。沉醉於力量者\r\n終將自滅。",
+      "zh-Hans": "护雷白弓的强化版，具备强大到足\r\n以扭曲常理的力量。如果沉溺于这\r\n份力量，将会自取灭亡。",
+      "ar": "رعدي مسبب للعمى مطوَّر.\r\nتعطل رغباته الوحشية صوت العقل\r\nوسيدمر حامله إذا زاد حماسه عن اللازم.",
+      "es-419": "Un Fulgur cegador mejorado.\r\nSus impulsos nublan la razón\r\ny destruyen a un portador ansioso."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 15,
+    "specials": [
+      {
+        "kind": {
+          "Element": "thunder"
+        },
+        "raw_damage": 20,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "486": 1,
+        "660": 5,
+        "484": 4,
+        "482": 6
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 16
+    },
+    "coatings": [
+      "close-range"
+    ]
+  },
+  {
+    "game_id": 53,
+    "kind": "bow",
+    "names": {
+      "ja": "ウズ・フイリャクⅠ",
+      "en": "Uth Khviluk I",
+      "fr": "Uth Khviluk",
+      "it": "Uth Khviluk I",
+      "de": "Uth Khviluk I",
+      "es": "Uth Khviluk I",
+      "ru": "Утдуновый лук волн I",
+      "pl": "Khviluk Utha I",
+      "pt-BR": "Uth Khviluk I",
+      "ko": "우드 후일략Ⅰ",
+      "zh-Hant": "波衣弓Ⅰ",
+      "zh-Hans": "波涛弓Ⅰ",
+      "ar": "خفيلوك أوث 1",
+      "es-419": "Khviluk de Uth I"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた弓。\r\n森羅万象への感謝の念で作られた\r\n弓は、番えた矢に加護を与える。",
+      "en": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+      "fr": "Arc Uth Duna imprégné de\r\ngratitude envers la création\r\ntout entière. Chaque flèche\r\nqu'il tire est une bénédiction.",
+      "it": "Un arco Uth Duna realizzato\r\ncon gratitudine verso tutto\r\nil creato. Ogni freccia scoccata\r\nriceve una benedizione.",
+      "de": "Ein Uth-Duna-Bogen, erfüllt\r\nvon der Dankbarkeit für alle\r\nSchöpfung. Jeder angelegte\r\nPfeil ist gesegnet.",
+      "es": "Un arco de Uth Duna imbuido\r\nde agradecimiento a toda la\r\ncreación. Cada flecha lanzada\r\ngoza de una bendición.",
+      "ru": "Утдуновый лук, который создан с\r\nпочтением ко всему сущему.\r\nНаделяет благословением каждую\r\nстрелу, коснувшуюся его тетивы.",
+      "pl": "Łuk z Uth Duny wykonany\r\nz wdzięcznością dla całego\r\nstworzenia. Każda strzała na\r\ncięciwie jest błogosławiona.",
+      "pt-BR": "Arco de Uth Duna feito com\r\ngratidão por toda a criação.\r\nEm troca, cada flecha disparada\r\nrecebe uma bênção.",
+      "ko": "우드 투나 소재를 사용한 활.\r\n삼라만상에 감사하는 마음으로\r\n만들어진 활은 메긴 화살에\r\n가호를 부여한다.",
+      "zh-Hant": "以波衣龍素材製作的弓。製作時\r\n傾注了感謝自然萬物之意，每支\r\n搭上弓的箭矢都會受保護。",
+      "zh-Hans": "使用波衣龙素材制作的弓。制作时\r\n倾注了感谢自然万物之意，会给弓\r\n弦上的箭施加保护。",
+      "ar": "قوس (أوث دونا) مصنوع بامتنان\r\nلجميع المخلوقات. وفي المقابل،\r\nيتلقى كل سهم يُسدد مباركة.",
+      "es-419": "Un arco de Uth Duna lleno de\r\ngratitud para con todo lo creado.\r\nCada flecha usada está bendecida."
+    },
+    "rarity": 3,
+    "attack_raw": 160,
+    "defense": 0,
+    "affinity": -20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 10,
+        "hidden": false
+      }
+    ],
+    "slots": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "328": 1,
+        "324": 1,
+        "326": 2
+      },
+      "previous_id": 47,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 8
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 54,
+    "kind": "bow",
+    "names": {
+      "ja": "ウズ・フイリャクⅡ",
+      "en": "Uth Khviluk II",
+      "fr": "Uth Khviluk II",
+      "it": "Uth Khviluk II",
+      "de": "Uth Khviluk II",
+      "es": "Uth Khviluk II",
+      "ru": "Утдуновый лук волн II",
+      "pl": "Khviluk Utha II",
+      "pt-BR": "Uth Khviluk II",
+      "ko": "우드 후일략Ⅱ",
+      "zh-Hant": "波衣弓Ⅱ",
+      "zh-Hans": "波涛弓Ⅱ",
+      "ar": "خفيلوك أوث 2",
+      "es-419": "Khviluk de Uth II"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた弓。\r\n森羅万象への感謝の念で作られた\r\n弓は、番えた矢に加護を与える。",
+      "en": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+      "fr": "Arc Uth Duna imprégné de\r\ngratitude envers la création\r\ntout entière. Chaque flèche\r\nqu'il tire est une bénédiction.",
+      "it": "Un arco Uth Duna realizzato\r\ncon gratitudine verso tutto\r\nil creato. Ogni freccia scoccata\r\nriceve una benedizione.",
+      "de": "Ein Uth-Duna-Bogen, erfüllt\r\nvon der Dankbarkeit für alle\r\nSchöpfung. Jeder angelegte\r\nPfeil ist gesegnet.",
+      "es": "Un arco de Uth Duna imbuido\r\nde agradecimiento a toda la\r\ncreación. Cada flecha lanzada\r\ngoza de una bendición.",
+      "ru": "Утдуновый лук, который создан с\r\nпочтением ко всему сущему.\r\nНаделяет благословением каждую\r\nстрелу, коснувшуюся его тетивы.",
+      "pl": "Łuk z Uth Duny wykonany\r\nz wdzięcznością dla całego\r\nstworzenia. Każda strzała na\r\ncięciwie jest błogosławiona.",
+      "pt-BR": "Arco de Uth Duna feito com\r\ngratidão por toda a criação.\r\nEm troca, cada flecha disparada\r\nrecebe uma bênção.",
+      "ko": "우드 투나 소재를 사용한 활.\r\n삼라만상에 감사하는 마음으로\r\n만들어진 활은 메긴 화살에\r\n가호를 부여한다.",
+      "zh-Hant": "以波衣龍素材製作的弓。製作時\r\n傾注了感謝自然萬物之意，每支\r\n搭上弓的箭矢都會受保護。",
+      "zh-Hans": "使用波衣龙素材制作的弓。制作时\r\n倾注了感谢自然万物之意，会给弓\r\n弦上的箭施加保护。",
+      "ar": "قوس (أوث دونا) مشبع\r\nبالامتنان لجميع المخلوقات.\r\nيتلقى كل سهم يُسدد مباركة.",
+      "es-419": "Un arco de Uth Duna lleno de\r\ngratitud para con todo lo creado.\r\nCada flecha usada está bendecida."
+    },
+    "rarity": 5,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": -20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 14,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 53,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 8
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 55,
+    "kind": "bow",
+    "names": {
+      "ja": "ウズ・フイリャクⅢ",
+      "en": "Uth Khviluk III",
+      "fr": "Uth Khviluk III",
+      "it": "Uth Khviluk III",
+      "de": "Uth Khviluk III",
+      "es": "Uth Khviluk III",
+      "ru": "Утдуновый лук волн III",
+      "pl": "Khviluk Utha III",
+      "pt-BR": "Uth Khviluk III",
+      "ko": "우드 후일략Ⅲ",
+      "zh-Hant": "波衣弓Ⅲ",
+      "zh-Hans": "波涛弓Ⅲ",
+      "ar": "خفيلوك أوث 3",
+      "es-419": "Khviluk de Uth III"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた弓。\r\n森羅万象への感謝の念で作られた\r\n弓は、番えた矢に加護を与える。",
+      "en": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+      "fr": "Arc Uth Duna imprégné de\r\ngratitude envers la création\r\ntout entière. Chaque flèche\r\nqu'il tire est une bénédiction.",
+      "it": "Un arco Uth Duna realizzato\r\ncon gratitudine verso tutto\r\nil creato. Ogni freccia scoccata\r\nriceve una benedizione.",
+      "de": "Ein Uth-Duna-Bogen, erfüllt\r\nvon der Dankbarkeit für alle\r\nSchöpfung. Jeder angelegte\r\nPfeil ist gesegnet.",
+      "es": "Un arco de Uth Duna imbuido\r\nde agradecimiento a toda la\r\ncreación. Cada flecha lanzada\r\ngoza de una bendición.",
+      "ru": "Утдуновый лук, который создан с\r\nпочтением ко всему сущему.\r\nНаделяет благословением каждую\r\nстрелу, коснувшуюся его тетивы.",
+      "pl": "Łuk z Uth Duny wykonany\r\nz wdzięcznością dla całego\r\nstworzenia. Każda strzała na\r\ncięciwie jest błogosławiona.",
+      "pt-BR": "Arco de Uth Duna feito com\r\ngratidão por toda a criação.\r\nEm troca, cada flecha disparada\r\nrecebe uma bênção.",
+      "ko": "우드 투나 소재를 사용한 활.\r\n삼라만상에 감사하는 마음으로\r\n만들어진 활은 메긴 화살에\r\n가호를 부여한다.",
+      "zh-Hant": "以波衣龍素材製作的弓。製作時\r\n傾注了感謝自然萬物之意，每支\r\n搭上弓的箭矢都會受保護。",
+      "zh-Hans": "使用波衣龙素材制作的弓。制作时\r\n倾注了感谢自然万物之意，会给弓\r\n弦上的箭施加保护。",
+      "ar": "قوس (أوث دونا) مشبع\r\nبالامتنان لجميع المخلوقات.\r\nيتلقى كل سهم يُسدد مباركة.",
+      "es-419": "Un arco de Uth Duna lleno de\r\ngratitud para con todo lo creado.\r\nCada flecha usada está bendecida."
+    },
+    "rarity": 7,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": -20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 17,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "335": 3,
+        "331": 3,
+        "327": 1,
+        "333": 5
+      },
+      "previous_id": 54,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 8
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 56,
+    "kind": "bow",
+    "names": {
+      "ja": "波濤弓フイリャク",
+      "en": "Khviluk-of-the-Waves",
+      "fr": "Khviluk-des-vagues",
+      "it": "Khviluk delle onde",
+      "de": "Khviluk der Wellen",
+      "es": "Khviluk de las mareas",
+      "ru": "Лук могучих волн",
+      "pl": "Khviluk Fal",
+      "pt-BR": "Khviluk das Ondas",
+      "ko": "파도궁 후일략",
+      "zh-Hant": "狂瀾波濤弓",
+      "zh-Hans": "狂澜波涛弓",
+      "ar": "خفيلوك الأمواج",
+      "es-419": "Khviluk de las olas"
+    },
+    "descriptions": {
+      "ja": "ウズ・フイリャクの強化版。\r\n放たれた矢は大いなる大自然の\r\n息吹に運ばれ、栄光をもたらす。",
+      "en": "An upgraded Uth Khviluk. Each\r\narrow flies on the breath of\r\nnature, a messenger of glory.",
+      "fr": "Uth Khviluk amélioré. Chaque\r\nflèche est portée par le souffle\r\nde la nature et fait honneur à\r\nsa grandeur.",
+      "it": "Un arco Uth Khviluk potenziato.\r\nOgni freccia cavalca il soffio\r\ndella natura, un messaggero\r\ndi gloria.",
+      "de": "Ein verbesserter Uth Khviluk.\r\nJeder Pfeil wird als ruhm-\r\nreicher Bote vom Atem der\r\nNatur geleitet.",
+      "es": "Uth Khviluk mejorado.\r\nCada flecha vuela con el aliento\r\nde la naturaleza para transmitir\r\nsu mensaje de gloria.",
+      "ru": "Улучшенный вариант «Утдунового\r\nлука волн». Выпущенные из него\r\nстрелы направляет дыхание самой\r\nприроды, возвещая о триумфе.",
+      "pl": "Ulepszony Khviluk Utha. Każda\r\nstrzała leci na tchnieniu natury,\r\nniczym posłaniec chwały.",
+      "pt-BR": "Uth Khviluk melhorado.\r\nCada flecha voa com o sopro\r\nda natureza, uma mensageira\r\nda glória.",
+      "ko": "우드 후일략의 강화판.\r\n화살은 위대한 대자연의\r\n숨결을 타고 날아가\r\n영광을 가져온다.",
+      "zh-Hant": "強化版波衣弓。射出的箭矢會乘上\r\n自然的氣息，帶來榮耀。",
+      "zh-Hans": "波涛弓的强化版。大自然的气息会\r\n托起箭矢，带来荣光。",
+      "ar": "(خفيلوك أوث) مطوَّر. كل سهم\r\nينطلق بدفعة من أنفاس الطبيعة\r\nيُعد مرسالًا للمجد.",
+      "es-419": "Una versión mejorada de Khviluk\r\nde Uth. Cada flecha avanza con\r\nel aliento de la naturaleza,\r\ntoda una mensajera de la gloria."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "defense": 0,
+    "affinity": -20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "water"
+        },
+        "raw_damage": 20,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "332": 6,
+        "334": 1,
+        "330": 6
+      },
+      "previous_id": 55,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 8
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 57,
+    "kind": "bow",
+    "names": {
+      "ja": "ビジョンofロストⅠ",
+      "en": "Entbehrung I",
+      "fr": "Vision du néant",
+      "it": "Entbehrung I",
+      "de": "Entbehrung I",
+      "es": "Visión de desaliento I",
+      "ru": "Энтберунг I",
+      "pl": "Entbehrung I",
+      "pt-BR": "Entbehrung I",
+      "ko": "비전of로스트Ⅰ",
+      "zh-Hant": "視野of失落Ⅰ",
+      "zh-Hans": "视野of失落Ⅰ",
+      "ar": "قوس الهلاك 1",
+      "es-419": "Visión de desaliento I"
+    },
+    "descriptions": {
+      "ja": "ゴア・マガラの姿を模した堂々たる\r\n大弓。放たれた矢は果て無き絶望を\r\n纏い光をも粉々に撃ち砕く。",
+      "en": "A majestic Gore Magala\r\ngreatbow. The dire bolts\r\nit looses eradicate even\r\nthe last light of hope.",
+      "fr": "Arc aussi imposant que le Gore\r\nMagala. Ses flèches porteuses\r\nde désespoir pulvérisent même\r\nla lumière.",
+      "it": "Un imponente arco di Gore\r\nMagala. Le sue frecce oscure\r\nsradicano anche l'ultimo\r\nraggio di speranza.",
+      "de": "Ein majestätischer Großbogen\r\naus Gore-Magala-Material. Seine\r\nfurchtbaren Geschosse, löschen\r\nsogar das Licht der Hoffnung.",
+      "es": "Arco tan imponente como el\r\nGore Magala. Sus flechas\r\nsiembran oscura angustia\r\ny erradican toda esperanza.",
+      "ru": "Величественный большой лук из\r\nкровавой магалы. Его стрелы\r\nбезжалостно уничтожают малейшие\r\nпроблески надежды.",
+      "pl": "Majestatyczny łuk z Gore Magali.\r\nStraszliwe strzały, które\r\nwypuszcza, niszczą nawet\r\nostatnie światło nadziei.",
+      "pt-BR": "Um majestoso grandarco de\r\nGore Magala. Suas flechas\r\nerradicam até mesmo os\r\núltimos raios de esperança.",
+      "ko": "고어 마가라의 모습을 본뜬\r\n장엄한 대궁.\r\n끝없는 절망을 휘감고\r\n빛마저 산산조각 낸다.",
+      "zh-Hant": "仿照黑蝕龍製成的威武大弓。射出的\r\n箭矢散發著無盡絕望，足以擊碎\r\n光芒，使其化為塵埃。",
+      "zh-Hans": "形如黑蚀龙的威武大弓。射出的箭\r\n矢缠绕着无尽的绝望，甚至能将光\r\n芒粉碎殆尽。",
+      "ar": "قوس مهيب مثل\r\nجور ماجالا. تمزق سهامه\r\nالضوء وتزرع اليأس.",
+      "es-419": "Un majestuoso arco de Gore\r\nMagala. Los terribles rayos\r\nque suelta erradican hasta\r\nla última luz de esperanza."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 12,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "566": 1,
+        "565": 4,
+        "418": 5,
+        "569": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 19
+    },
+    "coatings": [
+      "power",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 58,
+    "kind": "bow",
+    "names": {
+      "ja": "ビジョンofディスペア",
+      "en": "Verzweiflung",
+      "fr": "Vision du désespoir",
+      "it": "Verzweiflung",
+      "de": "Verzweiflung",
+      "es": "Visión de desespero",
+      "ru": "Ферцвайфлунг",
+      "pl": "Verzweiflung",
+      "pt-BR": "Verzweiflung",
+      "ko": "비전of디스페어",
+      "zh-Hant": "視野of絕望",
+      "zh-Hans": "视野of绝望",
+      "ar": "قوس اليأس",
+      "es-419": "Visión de desespero"
+    },
+    "descriptions": {
+      "ja": "混沌を司るビジョンofロスト\r\n強化版。その矢は光を掻き消し\r\n黒闇の世界を大地に造りだす。",
+      "en": "An upgrade for the Entbehrung.\r\nIts arrows extinguish all light,\r\nswallowing the land in darkness.",
+      "fr": "Vision du néant améliorée.\r\nSes flèches font disparaître\r\nla lumière pour plonger le\r\nmonde dans les ténèbres.",
+      "it": "Entbehrung potenziato.\r\nLe sue frecce estinguono la luce\r\ne diffondono l'oscurità.",
+      "de": "Eine verbesserte Version von\r\nEntbehrung. Seine Pfeile\r\nlöschen alles Licht und hüllen\r\ndas Land in Dunkelheit.",
+      "es": "Visión de desaliento mejorado.\r\nSus flechas extinguen la luz y\r\nlo envuelven todo en tinieblas.",
+      "ru": "Улучшенный вариант «Энтберунга».\r\nЕго стрелы гасят свет,\r\nпогружая всё вокруг во тьму.",
+      "pl": "Ulepszenie Entbehrung. Jego\r\nstrzały gaszą wszelkie światło,\r\npogrążając ziemię w ciemności.",
+      "pt-BR": "Melhoria do Entbehrung. Suas\r\nflechas extinguem toda a luz,\r\nmergulhando a terra nas mais\r\nprofundas trevas.",
+      "ko": "혼돈을 관장하는 비전of로스트의\r\n강화판. 빛을 지우고\r\n대지를 암흑천지로 만든다.",
+      "zh-Hant": "支配混沌的強化版視野of失落。\r\n射出的箭矢將消滅所有光芒，\r\n在大地上創造出黑暗的世界。",
+      "zh-Hans": "支配混沌的视野of失落强化版。它\r\n射出的箭矢将消灭光芒，于大地上\r\n创造出黑暗的世界。",
+      "ar": "ترقية لقوس الهلاك.\r\nسهامه تبدد النور،\r\nوتُغرق الأرض في الظلام.",
+      "es-419": "Visión de desaliento mejorada.\r\nSus flechas extinguen la luz\r\ny sumen la tierra en la\r\noscuridad."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": 20,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "570": 5,
+        "661": 5,
+        "568": 1,
+        "567": 2
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 19
+    },
+    "coatings": [
+      "power",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 59,
+    "kind": "bow",
+    "names": {
+      "ja": "パワーワイルドボウⅠ",
+      "en": "Wild Power Bow I",
+      "fr": "Arc sauvage",
+      "it": "Arco potere selvaggio I",
+      "de": "Wilder Kraftbogen I",
+      "es": "Arco poder salvaje I",
+      "ru": "Лук неукротимой силы I",
+      "pl": "Łuk dzikiej mocy I",
+      "pt-BR": "Arco Poder Selvagem I",
+      "ko": "파워와일드보우Ⅰ",
+      "zh-Hant": "力量野性弓Ⅰ",
+      "zh-Hans": "强力狂野弓Ⅰ",
+      "ar": "قوس القوة الجامحة 1",
+      "es-419": "Arco de poder salvaje I"
+    },
+    "descriptions": {
+      "ja": "高威力が自慢のババコンガの猟弓。\r\nその弦は非常に重く、力が無ければ\r\n引くことも適わない。",
+      "en": "A powerful Congalala hunting\r\nbow strung so tautly that\r\nmiddling strength is\r\ninsufficient to draw it.",
+      "fr": "Un arc de chasse Congalala si\r\npuissant qu'il faut une force\r\nhors du commun pour l'utiliser.",
+      "it": "Un arco da caccia di Congalala\r\ndavvero esplosivo. Per usarlo\r\nserve tutta la forza possibile!",
+      "de": "Ein mächtiger Congalala-Jagd-\r\nbogen, der so straff gespannt\r\nist, dass viel Kraft gebraucht\r\nwird, um ihn einzusetzen.",
+      "es": "Potente arco de Congalala.\r\nEs tan tenso que para lograr\r\ndispararlo es necesaria\r\nmuchísima fuerza.",
+      "ru": "Мощный охотничий лук из\r\nконгалалы. Его тетива настолько\r\nтуга, что натянуть её сможет лишь\r\nпо-настоящему сильный стрелок.",
+      "pl": "Potężny łuk z Kongalali, którego\r\ncięciwa jest tak mocno\r\nzamocowana, że musisz użyć\r\nwszelkich sił, by ją napiąć.",
+      "pt-BR": "Arco de caça feito de Congalala\r\nde corda tão apertada que é\r\nnecessária força descomunal\r\npara retesá-la.",
+      "ko": "높은 위력을 자랑하는 바바콩가의\r\n활. 활시위가 매우 무거워\r\n힘이 없으면 당길 수도 없다.",
+      "zh-Hant": "以強大威力為傲的桃毛獸王獵弓。\r\n弓弦極重，缺乏力量者恐怕連拉弓\r\n都辦不到。",
+      "zh-Hans": "以高威力而自豪的桃毛兽王之猎弓。\r\n弓弦非常沉重，力气不够是拉不开\r\n的。",
+      "ar": "قوس صيد (كونغالالا) يتمتع\r\nبقوة هائلة. يجب أن\r\nتبذل جهدًا إضافيًا لاستخدامه!",
+      "es-419": "Un poderoso arco de caza de\r\nCongalala tan tensado que una\r\nfuerza regular no es suficiente\r\npara tirar de él."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [],
+    "skills": {
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "505": 2,
+        "504": 3,
+        "506": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        36,
+        60
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 9
+    },
+    "coatings": [
+      "power",
+      "paralysis",
+      "poison",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 60,
+    "kind": "bow",
+    "names": {
+      "ja": "パワーワイルドボウⅡ",
+      "en": "Wild Power Bow II",
+      "fr": "Arc sauvage II",
+      "it": "Arco potere selvaggio II",
+      "de": "Wilder Kraftbogen II",
+      "es": "Arco poder salvaje II",
+      "ru": "Лук неукротимой силы II",
+      "pl": "Łuk dzikiej mocy II",
+      "pt-BR": "Arco Poder Selvagem II",
+      "ko": "파워와일드보우Ⅱ",
+      "zh-Hant": "力量野性弓Ⅱ",
+      "zh-Hans": "强力狂野弓Ⅱ",
+      "ar": "قوس القوة الجامحة 2",
+      "es-419": "Arco de poder salvaje II"
+    },
+    "descriptions": {
+      "ja": "高威力が自慢のババコンガの猟弓。\r\nその弦は非常に重く、力が無ければ\r\n引くことも適わない。",
+      "en": "A powerful Congalala hunting\r\nbow strung so tautly that\r\nmiddling strength is\r\ninsufficient to draw it.",
+      "fr": "Un arc de chasse Congalala si\r\npuissant qu'il faut une force\r\nhors du commun pour l'utiliser.",
+      "it": "Un arco da caccia di Congalala\r\ndavvero esplosivo. Per usarlo\r\nserve tutta la forza possibile!",
+      "de": "Ein mächtiger Congalala-Jagd-\r\nbogen, der so straff gespannt\r\nist, dass viel Kraft gebraucht\r\nwird, um ihn einzusetzen.",
+      "es": "Potente arco de Congalala.\r\nEs tan tenso que para lograr\r\ndispararlo es necesaria\r\nmuchísima fuerza.",
+      "ru": "Мощный охотничий лук из\r\nконгалалы. Его тетива настолько\r\nтуга, что натянуть её сможет лишь\r\nпо-настоящему сильный стрелок.",
+      "pl": "Potężny łuk z Kongalali, którego\r\ncięciwa jest tak mocno\r\nzamocowana, że musisz użyć\r\nwszelkich sił, by ją napiąć.",
+      "pt-BR": "Arco de caça feito de Congalala\r\nde corda tão apertada que é\r\nnecessária força descomunal\r\npara retesá-la.",
+      "ko": "높은 위력을 자랑하는 바바콩가의\r\n활. 활시위가 매우 무거워\r\n힘이 없으면 당길 수도 없다.",
+      "zh-Hant": "以強大威力為傲的桃毛獸王獵弓。\r\n弓弦極重，缺乏力量者恐怕連拉弓\r\n都辦不到。",
+      "zh-Hans": "以高威力而自豪的桃毛兽王之猎弓。\r\n弓弦非常沉重，力气不够是拉不开\r\n的。",
+      "ar": "قوس صيد (كونغالالا) يتمتع\r\nبقوة هائلة. يجب أن\r\nتبذل جهدًا إضافيًا لاستخدامه!",
+      "es-419": "Un poderoso arco de caza de\r\nCongalala tan tensado que una\r\nfuerza regular no es suficiente\r\npara tirar de él."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 9
+    },
+    "coatings": [
+      "power",
+      "paralysis",
+      "poison",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 61,
+    "kind": "bow",
+    "names": {
+      "ja": "密林のカルファード",
+      "en": "Wildwood Kalifa",
+      "fr": "Kalifa du bois sauvage",
+      "it": "Kalifa selvaggio",
+      "de": "Wildholz-Kalifa",
+      "es": "Kalifa bosque salvaje",
+      "ru": "Калифа джунглей",
+      "pl": "Dzikodrzewy Sąd",
+      "pt-BR": "Califa da Floresta",
+      "ko": "밀림의 칼파드",
+      "zh-Hant": "密林惡臭毛皮弓",
+      "zh-Hans": "密林射猎弓",
+      "ar": "كاليفا الخشب البري",
+      "es-419": "Kalifa bosque salvaje"
+    },
+    "descriptions": {
+      "ja": "パワーワイルドボウの強化型。\r\n放たれる矢々は、遮る木をも\r\n射砕き、獲物を容易く捉える。",
+      "en": "An upgraded Wild Power Bow.\r\nNot even thick tree trunks can\r\nslow its inexorable flight\r\ntoward prey.",
+      "fr": "Arc sauvage amélioré. Même\r\nles troncs d'arbres les plus\r\népais sont incapables d'arrêter\r\nses flèches.",
+      "it": "Arco potere selvaggio\r\npotenziato. Centra sempre il\r\nbersaglio, anche se incontra\r\nalberi sulla traiettoria.",
+      "de": "Eine verbesserte Version des\r\nWilden Kraftbogens. Nicht ein-\r\nmal Bäume in der Schusslinie\r\nkönnen seine Pfeile aufhalten.",
+      "es": "Arco poder salvaje mejorado.\r\nSus flechas pueden partir en\r\ndos el tronco de un árbol\r\nsin que ello detenga su camino.",
+      "ru": "Улучшенный вариант «Дикарского\r\nзверолука». Пущенная из него\r\nстрела может расколоть ствол\r\nдерева и при этом поразить цель.",
+      "pl": "Ulepszony łuk dzikiej mocy.\r\nNawet grube pnie drzew nie mogą\r\nspowolnić lotu nieokiełzanych\r\nstrzał ku zdobyczy.",
+      "pt-BR": "Arco Poder Selvagem melhorado.\r\nNem mesmo grandes árvores são\r\ncapazes de impedir suas flechas\r\nde atingir sua presa.",
+      "ko": "파워와일드보우의 강화형.\r\n쏘아진 화살은 나무를 부수고\r\n사냥감을 간단히 포착한다.",
+      "zh-Hant": "力量野性弓的強化版。射出的箭矢\r\n能粉碎阻擋的樹木，讓獵物無所\r\n遁形。",
+      "zh-Hans": "强力狂野弓的强化型。射出的每一\r\n箭都能射穿遮挡的树木，轻易捕捉\r\n到猎物。",
+      "ar": "قوس القوة الجامحة مطوَّر.\r\nيمكن لسهامه شق الأشجار\r\nومن ثم بلوغ الهدف بسهولة.",
+      "es-419": "Arco de poder salvaje mejorado.\r\nNi siquiera los gruesos troncos\r\nde los árboles pueden frenar su\r\ninexorable vuelo hacia su presa."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "659": 5,
+        "512": 2
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 9
+    },
+    "coatings": [
+      "power",
+      "paralysis",
+      "poison",
+      "blast"
+    ]
+  },
+  {
+    "game_id": 62,
+    "kind": "bow",
+    "names": {
+      "ja": "ブラン＝シャルガⅠ",
+      "en": "Blan Sharanga I",
+      "fr": "Blan Sharanga",
+      "it": "Blan Sharanga I",
+      "de": "Blan Sharanga I",
+      "es": "Blan Sharanga I",
+      "ru": "Бланговый Шарнга I",
+      "pl": "Blan Sharanga I",
+      "pt-BR": "Blan Sharanga I",
+      "ko": "블랑샤릉가Ⅰ",
+      "zh-Hant": "雪獅角制弓Ⅰ",
+      "zh-Hans": "雪狮毗湿奴弓Ⅰ",
+      "ar": "بلان شارانغا 1",
+      "es-419": "Blan Sharanga I"
+    },
+    "descriptions": {
+      "ja": "長くしなやかなドドブランゴの\r\n尻尾の如き弓。特殊な構造の矢筒が\r\n矢に冷気をまとわせる。",
+      "en": "A long, pliant bow reminiscent\r\nof a Blangonga tail. The unique\r\nquiver cloaks arrows in ice.",
+      "fr": "Arc long et souple évoquant\r\nune queue de Blangonga. Son\r\ncarquois spécial cache les\r\nflèches derrière un voile glacé.",
+      "it": "Un arco lungo e flessibile\r\nsimile alla coda di un Blangonga. \r\nIl meccanismo della faretra\r\ntiene le frecce sempre in fresco.",
+      "de": "Ein langer, flexibler Bogen,\r\nder einem Blangonga-Schwanz\r\nähnelt. Der einzigartige Köcher\r\nhüllt Pfeile in Eis.",
+      "es": "Arco largo y maleable que\r\nrecuerda a la cola de un\r\nBlangonga. Este carcaj único\r\nenvuelve las flechas en hielo.",
+      "ru": "Длинный гибкий лук, напоминающий\r\nхвост блангонги. Стрелы,\r\nвложенные в его особый колчан,\r\nпокрываются льдом.",
+      "pl": "Długi, giętki łuk przypominający\r\nogon Blangongi. Unikalny kołczan\r\nokrywa strzały lodem.",
+      "pt-BR": "Arco longo e flexível que lembra\r\na cauda de um Blangonga.\r\nA aljava especial cobre as\r\nflechas em gelo.",
+      "ko": "길고 유연한 도도블랑고의\r\n꼬리와도 같은 활.\r\n특수한 구조의 화살통이\r\n화살에 냉기를 부여한다.",
+      "zh-Hant": "如雪獅子王的尾巴般纖長柔韌的弓。\r\n構造特殊的箭筒會使寒氣纏繞在箭\r\n矢上。",
+      "zh-Hans": "如雪狮子王的尾巴般柔韧颀长的弓。\r\n特殊构造的箭筒可以使寒气缠绕箭\r\n矢。",
+      "ar": "قوس طويل ومرن يذكرنا\r\nبذيل (بلانجونجا). الجعبة الفريدة من نوعها\r\nتخفي السهام في الجليد.",
+      "es-419": "Un arco largo y flexible como\r\nla cola de un Blangonga. La\r\naljaba es única y reviste las\r\nflechas en hielo."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": -10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 11,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "539": 4,
+        "577": 4,
+        "541": 2,
+        "538": 5
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 20
+    },
+    "coatings": [
+      "close-range",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 63,
+    "kind": "bow",
+    "names": {
+      "ja": "シンハ＝シャルガ",
+      "en": "Singha Sharanga",
+      "fr": "Singha Sharanga",
+      "it": "Singha Sharanga",
+      "de": "Singha Sharanga",
+      "es": "Singha Sharanga",
+      "ru": "Львиный Шарнга",
+      "pl": "Singha Sharanga",
+      "pt-BR": "Singha Sharanga",
+      "ko": "싱하샤릉가",
+      "zh-Hant": "獅王角制弓",
+      "zh-Hans": "狮王毗湿奴弓",
+      "ar": "سينغا شارانغا",
+      "es-419": "Singha Sharanga"
+    },
+    "descriptions": {
+      "ja": "より強くよりしなやかに強化された\r\nブラン＝シャルガ。放たれた矢は\r\n太陽すらも撃ち落とすという。",
+      "en": "A stronger, more pliant Blan\r\nSharanga said to loose arrows\r\ncapable of bringing down the\r\nsun.",
+      "fr": "Blan Sharanga amélioré, plus\r\npuissant et plus souple. On dit\r\nqu'il tire des flèches capables\r\nd'abattre le soleil.",
+      "it": "Un Blan Sharanga più flessibile,\r\nin grado di scoccare frecce\r\ncapaci di distruggere il sole.",
+      "de": "Ein stärkerer, flexiblerer Blan-\r\nSharanga-Bogen, dessen Pfeile\r\ndie Sonne herunterschießen\r\nkönnen sollen.",
+      "es": "Un Blan Sharanga más potente\r\ny flexible. Dicen que sus flechas\r\nserían capaces de derribar\r\nal mismísimo sol.",
+      "ru": "Более мощный и гибкий «Бланговый\r\nШарнга». Говорят, пущенной из\r\nнего стрелой можно сбить на\r\nземлю солнце.",
+      "pl": "Mocniejszy, bardziej giętki Blan\r\nSharanga, o którym mówi się,\r\nże wypuszcza strzały zdolne\r\nzestrzelić słońce.",
+      "pt-BR": "Blan Sharanga com maior\r\nforça e flexibilidade.\r\nDizem disparar flechas\r\ncapazes de derrubar o sol.",
+      "ko": "더 강하고 유연하게 강화된\r\n블랑샤릉가. 손을 떠난 화살은\r\n태양마저 떨어뜨린다고 한다.",
+      "zh-Hant": "更強大與柔韌的強化版雪獅角制弓。\r\n據說此弓射出的箭連太陽都能擊落。",
+      "zh-Hans": "强化后更强劲也更柔韧的雪狮毗湿\r\n奴弓。据说它射出的箭矢连太阳都\r\n能击落。",
+      "ar": "يُقال إن قوس (بلان شارانجا) أقوى\r\nوأكثر مرونة ويطلق سهامًا\r\nقادرة على إسقاط الشمس.",
+      "es-419": "Un Blan Sharanga más resistente\r\ny más flexible, con la\r\ncapacidad de lanzar flechas que\r\npueden derribar el sol."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "defense": 0,
+    "affinity": -10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "ice"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "540": 4,
+        "660": 5,
+        "537": 6,
+        "424": 1
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 20
+    },
+    "coatings": [
+      "close-range",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 64,
+    "kind": "bow",
+    "names": {
+      "ja": "鳥幣弓Ⅰ",
+      "en": "Kut-Ku Stave I",
+      "fr": "Enfonceur Kut-Ku",
+      "it": "Arco Kut-Ku I",
+      "de": "Kut-Ku-Daube I",
+      "es": "Arco Kut-Ku I",
+      "ru": "Куткушная палка I",
+      "pl": "Łuk Kut-Ku I",
+      "pt-BR": "Arco Kut-Ku I",
+      "ko": "조폐궁Ⅰ",
+      "zh-Hant": "鳥幣弓Ⅰ",
+      "zh-Hans": "鸟币弓Ⅰ",
+      "ar": "عصا كوت-كو 1",
+      "es-419": "Arco de Kut-Ku I"
+    },
+    "descriptions": {
+      "ja": "イャンクックの素材を使った\r\n火を放つ猟弓。\r\n扱い易さに定評がある。",
+      "en": "A Yian Kut-Ku hunting bow that\r\nunleashes bolts of fire and has a\r\nreputation for easy handling.",
+      "fr": "Un arc de chasse Yian Kut-Ku qui\r\nenvoie des flèches de feu. Il est\r\nréputé pour être facile à manier.",
+      "it": "Un arco da caccia sputafuoco,\r\nfatto di parti di Yian Kut-Ku.\r\nSembra sia semplice da usare.",
+      "de": "Ein Jagdbogen aus Yian-Kut-Ku-\r\nTeilen, der Feuerblitze entfesselt\r\nund für seine einfache Hand-\r\nhabung bekannt ist.",
+      "es": "Arco de Yian Kut-Ku capaz de\r\ndisparar flechas llameantes.\r\nSegún dice su reputación,\r\nes muy fácil de usar.",
+      "ru": "Испускающий пламя охотничий лук\r\nиз материалов с поверженного\r\nйан-кут-ку. Говорят, стрелять\r\nиз него легко и приятно.",
+      "pl": "Łuk łowiecki z Yian Kut-Ku.\r\nStrzela ogniem, a tego słynie\r\nz łatwości w obsłudze.",
+      "pt-BR": "Arco de caça de Yian Kut-Ku\r\nque lança flechas de fogo e tem\r\numa reputação de fácil manuseio.",
+      "ko": "얀쿡크의 소재를 사용한\r\n불을 뿜는 활.\r\n다루기 편한 걸로 유명하다.",
+      "zh-Hant": "以怪鳥素材製作的獵弓，能夠噴出\r\n火焰。因相當好用而廣受歡迎。",
+      "zh-Hans": "使用了怪鸟素材的猎弓，可射出火\r\n焰。其操作容易，受到好评。",
+      "ar": "قوس صيد مصنوع من يان (يان كوت-كو).\r\nيطلق صواعق نارية ومعروف بسهولة\r\nاستخدامه.",
+      "es-419": "Un arco de caza de Yian Kut-Ku\r\nque desata rayos de fuego y es\r\nconocido por ser fácil de\r\nmanejar."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 23,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      1
+    ],
+    "skills": {
+      "-1475134080": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "524": 2,
+        "527": 1,
+        "526": 3,
+        "522": 5
+      },
+      "previous_id": null,
+      "branches": [
+        51,
+        65
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 15
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 65,
+    "kind": "bow",
+    "names": {
+      "ja": "鳥幣弓Ⅱ",
+      "en": "Kut-Ku Stave II",
+      "fr": "Enfonceur Kut-Ku II",
+      "it": "Arco Kut-Ku II",
+      "de": "Kut-Ku-Daube II",
+      "es": "Arco Kut-Ku II",
+      "ru": "Куткушная палка II",
+      "pl": "Łuk Kut-Ku II",
+      "pt-BR": "Arco Kut-Ku II",
+      "ko": "조폐궁Ⅱ",
+      "zh-Hant": "鳥幣弓Ⅱ",
+      "zh-Hans": "鸟币弓Ⅱ",
+      "ar": "عصا كوت-كو 2",
+      "es-419": "Arco de Kut-Ku II"
+    },
+    "descriptions": {
+      "ja": "イャンクックの素材を使った\r\n火を放つ猟弓。\r\n扱い易さに定評がある。",
+      "en": "A Yian Kut-Ku hunting bow that\r\nunleashes bolts of fire and has a\r\nreputation for easy handling.",
+      "fr": "Un arc de chasse Yian Kut-Ku qui\r\nenvoie des flèches de feu. Il est\r\nréputé pour être facile à manier.",
+      "it": "Un arco da caccia sputafuoco,\r\nfatto di parti di Yian Kut-Ku.\r\nSembra sia semplice da usare.",
+      "de": "Ein Jagdbogen aus Yian-Kut-Ku-\r\nTeilen, der Feuerblitze entfesselt\r\nund für seine einfache Hand-\r\nhabung bekannt ist.",
+      "es": "Arco de Yian Kut-Ku capaz de\r\ndisparar flechas llameantes.\r\nSegún dice su reputación,\r\nes muy fácil de usar.",
+      "ru": "Испускающий пламя охотничий лук\r\nиз материалов с поверженного\r\nйан-кут-ку. Говорят, стрелять\r\nиз него легко и приятно.",
+      "pl": "Łuk łowiecki z Yian Kut-Ku.\r\nStrzela ogniem, a tego słynie\r\nz łatwości w obsłudze.",
+      "pt-BR": "Arco de caça de Yian Kut-Ku\r\nque lança flechas de fogo e tem\r\numa reputação de fácil manuseio.",
+      "ko": "얀쿡크의 소재를 사용한\r\n불을 뿜는 활.\r\n다루기 편한 걸로 유명하다.",
+      "zh-Hant": "以怪鳥素材製作的獵弓，能夠噴出\r\n火焰。因相當好用而廣受歡迎。",
+      "zh-Hans": "使用了怪鸟素材的猎弓，可射出火\r\n焰。其操作容易，受到好评。",
+      "ar": "قوس صيد مصنوع من (يان كوت-كو).\r\nيطلق صواعق نارية ومعروف بسهولة\r\nاستخدامه.",
+      "es-419": "Un arco de caza de Yian Kut-Ku\r\nque desata rayos de fuego y es\r\nconocido por ser fácil de\r\nmanejar."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 27,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "594": 4,
+        "534": 1,
+        "389": 2,
+        "525": 4
+      },
+      "previous_id": 64,
+      "branches": [
+        66
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 15
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 66,
+    "kind": "bow",
+    "names": {
+      "ja": "怪鳥幣弓",
+      "en": "Strange Kut-Ku Stave",
+      "fr": "Arc Kut-Ku étrange",
+      "it": "Arco Kut-Ku strano",
+      "de": "Seltsame Kut-Ku-Daube",
+      "es": "Extraño arco Kut-Ku",
+      "ru": "Загадочная куткушная палка",
+      "pl": "Osobliwy łuk Kut-Ku",
+      "pt-BR": "Arco Kut-Ku Estranho",
+      "ko": "괴조폐궁",
+      "zh-Hant": "怪鳥幣弓",
+      "zh-Hans": "怪鸟币弓",
+      "ar": "عصا كوت-كو الغريبة",
+      "es-419": "Extraño arco de Kut-Ku"
+    },
+    "descriptions": {
+      "ja": "強化された鳥幣弓は飛竜すら\r\n地に堕とす狩猟弓。怪鳥の炎を\r\n纏う矢が、空を駆ける。",
+      "en": "An upgraded Kut-Ku Stave.\r\nIts blazing bolts prowl the\r\nskies, bringing down wyverns\r\nlike birds.",
+      "fr": "Enfonceur Kut-Ku amélioré. Ses\r\nflèches enflammées fendent les\r\ncieux pour abattre les wyvernes.",
+      "it": "Un arco Kut-Ku potenziato.\r\nFrecce infuocate solcano il\r\ncielo e abbattono wyvern.",
+      "de": "Eine verbesserte Kut-Ku-Daube.\r\nSeine lodernden Geschosse\r\nziehen durch die Lüfte und\r\nbringen Wyvern wie Vögel zu Fall.",
+      "es": "Arco Kut-Ku mejorado.\r\nSus flechas llameantes surcan\r\nlos cielos y hacen caer a los\r\nwyverns como pájaros.",
+      "ru": "Улучшенный вариант «Куткушной\r\nпалки». Пылающие стрелы\r\nмогут поражать виверн,\r\nпронзая небеса.",
+      "pl": "Ulepszony łuk Kut-Ku. Jego\r\npłonące strzały przemierzają\r\nniebo, powalając wiwerny\r\nniczym ptaki.",
+      "pt-BR": "Um Arco Kut-Ku melhorado.\r\nFlechas flamejantes voam pelos\r\ncéus e derrubam serpes como se\r\nfossem meros pássaros.",
+      "ko": "강화된 조폐궁은 비룡조차\r\n추락시킨다. 괴조의 불꽃을\r\n두른 화살이 하늘을 내달린다.",
+      "zh-Hant": "強化後的鳥幣弓，射出的箭矢會帶著\r\n怪鳥的火焰飛向天際，甚至能將飛龍\r\n擊落。",
+      "zh-Hans": "强化后的鸟币弓，化为连飞龙也能\r\n射下的狩猎弓。缠绕怪鸟之炎的箭\r\n驰骋于天空。",
+      "ar": "عصا كوت-كو مطوَّرة.  \r\nتجوب صواعقها الملتهبة السماء،  \r\nمُسقِطةً الوايفرن مثل الطيور.",
+      "es-419": "Arco de Kut-Ku mejorado. Sus\r\nflechas ardientes surcan los\r\ncielos derribando wyverns."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "fire"
+        },
+        "raw_damage": 30,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 65,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 15
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 67,
+    "kind": "bow",
+    "names": {
+      "ja": "ガルシュアルクムⅠ",
+      "en": "G. Veldian Arcum I",
+      "fr": "Arcum Arkveld Gardien",
+      "it": "Arcum Veldian G. I",
+      "de": "W.-Arkveld-Arcum I",
+      "es": "Arcum veldiano G. I",
+      "ru": "Вельдстражевый лук I",
+      "pl": "Wiweriań. Arcum S. I",
+      "pt-BR": "Arcum Veldiano G. I",
+      "ko": "갈슈아르쿰Ⅰ",
+      "zh-Hant": "護鎖刃弓Ⅰ",
+      "zh-Hans": "护锁刃弓Ⅰ",
+      "ar": "آركوم فيلديان حارس 1",
+      "es-419": "Arcum veldian G. I"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた弓。\r\n力を込めると弓の鼓動が手に伝わり\r\n感覚が研ぎ澄まされていく。",
+      "en": "A bow made from Guardian\r\nspoils. When drawn taut, it\r\npulses in the wielder's hand,\r\nfocusing the senses.",
+      "fr": "À base de Gardien. Palpite dans\r\nla main lorsqu'il est tendu,\r\néveillant les sens.",
+      "it": "Un arco di resti di guardiano.\r\nPulsa nella mano di chi lo tende\r\ne ne affina i sensi.",
+      "de": "Ein Bogen aus Wächter-Material.\r\nEr pulsiert, wenn er gespannt\r\nwird, und konzentriert so die\r\nSinne.",
+      "es": "Arco de restos de Guardián.\r\nAl tensarlo con fuerza, palpita\r\nen las manos de quien lo empuña\r\npara agudizar sus sentidos.",
+      "ru": "Лук из материалов со стража. Туго\r\nнатянув его тетиву, можно ощутить,\r\nкак он пульсирует, обостряя\r\nчувства владельца.",
+      "pl": "Łuk wykonany z pozostałości\r\nStrażnika. Gdy jest napięty,\r\npulsuje w dłoni posiadacza,\r\nkoncentrując zmysły.",
+      "pt-BR": "Feito com materiais de Guardião.\r\nQuando retesado, pulsa nas mãos\r\ndo usuário, aguçando seus\r\nsentidos.",
+      "ko": "수호룡 소재로 만든 활.\r\n힘을 실으면 활의 고동이\r\n손에 전해져 감각이\r\n점점 예리해진다.",
+      "zh-Hant": "以護龍素材製作的弓。用力握住後，\r\n手會感受到弓的鼓動，使感官變得\r\n敏銳。",
+      "zh-Hans": "以护龙素材制作的弓。用力拉弓时，\r\n手会感受到弓的鼓动，使感官变得\r\n更敏锐。",
+      "ar": "قوس مصنوع من غنائم وحش حارس.\r\nعند شده بقوة، ينبض في يد حامله،\r\nمما يؤدي إلى تركيز الحواس.",
+      "es-419": "Un arco hecho con restos de\r\nGuardián. Al tensarlo, palpita\r\nen la mano del portador, para\r\nfocalizar sus sentidos."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": -10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 9,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      1,
+      1
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "664": 3,
+        "607": 1,
+        "588": 2
+      },
+      "previous_id": 40,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 12
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 68,
+    "kind": "bow",
+    "names": {
+      "ja": "ガルシュアルクムⅡ",
+      "en": "G. Veldian Arcum II",
+      "fr": "Arcum Arkveld Gardien II",
+      "it": "Arcum Veldian G. II",
+      "de": "W.-Arkveld-Arcum II",
+      "es": "Arcum veldiano G. II",
+      "ru": "Вельдстражевый лук II",
+      "pl": "Wiweriań. Arcum S. II",
+      "pt-BR": "Arcum Veldiano G. II",
+      "ko": "갈슈아르쿰Ⅱ",
+      "zh-Hant": "護鎖刃弓Ⅱ",
+      "zh-Hans": "护锁刃弓Ⅱ",
+      "ar": "آركوم فيلديان حارس 2",
+      "es-419": "Arcum veldian G. II"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた弓。\r\n力を込めると弓の鼓動が手に伝わり\r\n感覚が研ぎ澄まされていく。",
+      "en": "A bow made from Guardian\r\nspoils. When drawn taut, it\r\npulses in the wielder's hand,\r\nfocusing the senses.",
+      "fr": "À base de Gardien. Palpite dans\r\nla main lorsqu'il est tendu,\r\néveillant les sens.",
+      "it": "Un arco di resti di guardiano.\r\nPulsa nella mano di chi lo tende\r\ne ne affina i sensi.",
+      "de": "Ein Bogen aus Wächter-Material.\r\nEr pulsiert, wenn er gespannt\r\nwird, und konzentriert so die\r\nSinne.",
+      "es": "Arco de restos de Guardián.\r\nAl tensarlo con fuerza, palpita\r\nen las manos de quien lo empuña\r\npara agudizar sus sentidos.",
+      "ru": "Лук из материалов со стража. Туго\r\nнатянув его тетиву, можно ощутить,\r\nкак он пульсирует, обостряя\r\nчувства владельца.",
+      "pl": "Łuk wykonany z pozostałości\r\nStrażnika. Gdy jest napięty,\r\npulsuje w dłoni posiadacza,\r\nkoncentrując zmysły.",
+      "pt-BR": "Feito com materiais de Guardião.\r\nQuando retesado, pulsa nas mãos\r\ndo usuário, aguçando seus\r\nsentidos.",
+      "ko": "수호룡 소재로 만든 활.\r\n힘을 실으면 활의 고동이\r\n손에 전해져 감각이\r\n점점 예리해진다.",
+      "zh-Hant": "以護龍素材製作的弓。用力握住後，\r\n手會感受到弓的鼓動，使感官變得\r\n敏銳。",
+      "zh-Hans": "以护龙素材制作的弓。用力拉弓时，\r\n手会感受到弓的鼓动，使感官变得\r\n更敏锐。",
+      "ar": "قوس مصنوع من غنائم وحش حارس.\r\nعند شده بقوة، ينبض في يد حامله،\r\nمما يؤدي إلى تركيز الحواس.",
+      "es-419": "Un arco hecho con restos de\r\nGuardián. Al tensarlo, palpita\r\nen la mano del portador, para\r\nfocalizar sus sentidos."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "defense": 0,
+    "affinity": -10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 12,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      2,
+      2
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "455": 6,
+        "608": 3,
+        "665": 6,
+        "62": 1
+      },
+      "previous_id": 67,
+      "branches": [
+        69,
+        70
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 12
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 69,
+    "kind": "bow",
+    "names": {
+      "ja": "護鎖刃弓ガルストラム",
+      "en": "G. Renowned Tristram",
+      "fr": "Tristan Gardien",
+      "it": "Celebre Tristram G.",
+      "de": "Namhafter W. Tristan",
+      "es": "Tristram famoso G.",
+      "ru": "Страж славы Тристана",
+      "pl": "Słynny Tristan S.",
+      "pt-BR": "Tristram Renomado G.",
+      "ko": "호쇄인궁 가르스트람",
+      "zh-Hant": "護鎖刃弓崔斯坦",
+      "zh-Hans": "护锁刃弓·特里斯坦",
+      "ar": "تريسترام شهير حارس",
+      "es-419": "G. Tristán reconocido"
+    },
+    "descriptions": {
+      "ja": "強化されしガルシュアルクム。\r\nこの武器を手にした者は、歴史に\r\n名を刻む栄光を得られるという。",
+      "en": "An upgraded G. Veldian Arcum.\r\nWhoever takes up this weapon\r\nwill leave a glorious mark on\r\nhistory.",
+      "fr": "Arcum Arkveld Gardien amélioré.\r\nQuiconque s'emparera de cette\r\narme marquera l'histoire.",
+      "it": "Un arcum di Veldian G. potenziato.\r\nChiunque lo possieda\r\nlascerà un segno nella storia.",
+      "de": "Verbesserter W.-Arkveld-Arcum.\r\nWer diese Waffe führt, wird\r\nruhmreich in die Geschichte\r\neingehen.",
+      "es": "Arcum veldiano G. mejorado.\r\nQuien empuñe esta arma\r\ndejará una marca imborrable\r\nen la historia.",
+      "ru": "Улучшенный «Вельдстражевый\r\nлук». Владельцу этого оружия\r\nсуждено вписать своё имя в\r\nисторию.",
+      "pl": "Ulepszone Wiweriańskie Arcum S..\r\nKtokolwiek sięgnie po tę broń,\r\nchwalebnie zapisze się\r\nw historii.",
+      "pt-BR": "Arcum Veldiano G. melhorado.\r\nQuem carregar esta arma deixará\r\numa gloriosa marca na história.",
+      "ko": "강화된 갈슈아르쿰.\r\n이 무기를 든 자는\r\n역사에 이름을 남길\r\n영광을 얻게 된다고 한다.",
+      "zh-Hant": "強化版護鎖刃弓。據說只要擁有這把\r\n武器，就能得到名垂青史的殊榮。",
+      "zh-Hans": "经过强化的护锁刃弓。据说获得这\r\n件武器的人，都将获得足以留名青\r\n史的荣光。",
+      "ar": "قوس (آركوم فيلديان) حارس مطوَّر.\r\nمَن يحمل هذا السلاح،\r\nسيترك بصمة مجيدة في التاريخ.",
+      "es-419": "Una versión mejorada del Arcum\r\nveldian Guardián. Quien tome\r\nesta arma dejará una marca de\r\ngloria en la historia."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "defense": 0,
+    "affinity": -10,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 15,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "465": 1,
+        "463": 4,
+        "456": 2
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 12
+    },
+    "coatings": [
+      "close-range",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 70,
+    "kind": "bow",
+    "names": {
+      "ja": "アルシュアルクムⅠ",
+      "en": "Veldian Arcum I",
+      "fr": "Arcum Arkveld",
+      "it": "Arcum Veldian I",
+      "de": "Arkveld-Arcum I",
+      "es": "Arcum veldiano I",
+      "ru": "Вельдовый лук I",
+      "pl": "Wiweriańskie Arcum I",
+      "pt-BR": "Arcum Veldiano I",
+      "ko": "알슈아르쿰Ⅰ",
+      "zh-Hant": "鎖刃弓Ⅰ",
+      "zh-Hans": "锁刃弓Ⅰ",
+      "ar": "آركوم فيلديان 1",
+      "es-419": "Arcum veldian I"
+    },
+    "descriptions": {
+      "ja": "アルシュベルドの素材で作られた\r\n弓。数多の地に竜伐の逸話を\r\n残した騎士が用いた古代の弓。",
+      "en": "An Arkveld bow once wielded by\r\nknights to vanquish wyverns,\r\nwriting their tales into history.",
+      "fr": "Arc Arkveld que des chevaliers\r\nportaient autrefois pour vaincre\r\ndes wyvernes et immortaliser\r\nleurs exploits.",
+      "it": "Un arco di Arkveld brandito\r\ndai cavalieri del passato\r\nper sconfiggere i wyvern,\r\nentrati ormai nella storia.",
+      "de": "Ein Arkveld-Bogen, der von ruhm-\r\nreichen Rittern der Geschichte\r\ngeführt wurde, um Wyvern zu\r\nvernichten.",
+      "es": "Arco de Arkveld que los\r\ncaballeros usaban para abatir\r\na los wyverns, convirtiendo\r\nsus leyendas en historia.",
+      "ru": "Лук из арквельда. Такое оружие\r\nнекогда использовали рыцари,\r\nпобеждавшие виверн и вписавшие\r\nсвои имена в историю мира.",
+      "pl": "Łuk z Arkvelda, którym niegdyś\r\nposługiwali się rycerze,\r\npokonując wiwerny, zapisując\r\nsię tym samym w historii.",
+      "pt-BR": "Arco de Arkveld, outrora usado\r\npor cavaleiros para eliminar\r\nserpes, deixando sua marca\r\nna história.",
+      "ko": "알슈베르도 소재로 만든 활.\r\n많은 지역에 용 토벌 일화를\r\n남긴 기사가 쓰던\r\n고대의 활.",
+      "zh-Hant": "以鎖刃龍素材製作的弓。據說有騎士\r\n曾用此古代弓，在許多地方留下屠龍\r\n傳說。",
+      "zh-Hans": "使用锁刃龙素材制作的弓。据说此\r\n弓曾为古代骑士所用，在众多地区\r\n留下了屠龙传说。",
+      "ar": "قوس (آركفيلد) الذي استخدمه الفرسان\r\nذات يوم لهزيمة الوايفرن،\r\nمسطرين قصصهم في التاريخ.",
+      "es-419": "Un arco de Arkveld alguna vez\r\nusado por caballeros para\r\naniquilar wyverns y grabar sus\r\nhazañas en la historia."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 16,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "459": 4,
+        "462": 2,
+        "92": 1,
+        "466": 3
+      },
+      "previous_id": 68,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 13
+    },
+    "coatings": [
+      "pierce"
+    ]
+  },
+  {
+    "game_id": 71,
+    "kind": "bow",
+    "names": {
+      "ja": "アーティアルークⅠ",
+      "en": "Artian Sight I",
+      "fr": "Vue Artian",
+      "it": "Arco Artian I",
+      "de": "Artian-Sicht I",
+      "es": "Avistador artiano I",
+      "ru": "Артианская оптика I",
+      "pl": "Artiański wzrok I",
+      "pt-BR": "Mira Artiana I",
+      "ko": "아티어루크Ⅰ",
+      "zh-Hant": "機械弓Ⅰ",
+      "zh-Hans": "机械弓Ⅰ",
+      "ar": "منظار أرتيان 1",
+      "es-419": "Visión artiana I"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の戦弓。生物の脚を模した\r\n構造の由来は謎に包まれている。",
+      "en": "A weapon made from unearthed\r\nfragments. The purpose of the\r\nleg-like protrusions is unclear.",
+      "fr": "À base de fragments d'arme.\r\nOn ignore la fonction des\r\nprotubérances qui\r\nressemblent à des jambes.",
+      "it": "Arma fatta\r\ndi frammenti dissotterrati. \r\nIl motivo delle protuberanze\r\na forma di gambe rimane oscuro.",
+      "de": "Eine Waffe aus aufgefundenen\r\nFragmenten. Die Funktion der\r\nbeinähnlichen Fortsätze ist\r\nunklar.",
+      "es": "Arma hecha con fragmentos\r\ndesenterrados. No está claro para\r\nqué sirven las protuberancias en\r\nforma de patas.",
+      "ru": "Оружие, сделанное из найденных\r\nфрагментов. Назначение похожих\r\nна ноги деталей пока остаётся\r\nнеизвестным.",
+      "pl": "Broń wykonana z odkopanych\r\nfragmentów. Cel tych wypustek\r\nprzypominających nogi jest\r\nniejasny.",
+      "pt-BR": "Arma feita com fragmentos\r\ndesenterrados. O propósito\r\ndas estruturas parecidas\r\ncom pernas é desconhecido.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 전투활. 생물의 다리를\r\n모방한 구조의 유래는\r\n아직 밝혀지지 않았다.",
+      "zh-Hant": "以發現的武器碎片組成的古代戰弓。\r\n構造模仿了生物的腿部，由來卻仍是\r\n不解之謎。",
+      "zh-Hans": "由发现的武器碎片组成的古代战弓。\r\n其构造模仿了生物的腿，但缘何如\r\n此却仍是未解之谜。",
+      "ar": "سلاح مصنوع من شظايا مُكتشفة. الغرض من هذه النتوءات الشبيهة بالسيقان\r\nغير واضح.",
+      "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Se desconoce la\r\nfunción de los bultos que\r\nparecen piernas."
+    },
+    "rarity": 6,
+    "attack_raw": 170,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "coatings": [
+      "close-range"
+    ]
+  },
+  {
+    "game_id": 72,
+    "kind": "bow",
+    "names": {
+      "ja": "アーティアルークⅡ",
+      "en": "Artian Sight II",
+      "fr": "Vue Artian II",
+      "it": "Arco Artian II",
+      "de": "Artian-Sicht II",
+      "es": "Avistador artiano II",
+      "ru": "Артианская оптика II",
+      "pl": "Artiański wzrok II",
+      "pt-BR": "Mira Artiana II",
+      "ko": "아티어루크Ⅱ",
+      "zh-Hant": "機械弓Ⅱ",
+      "zh-Hans": "机械弓Ⅱ",
+      "ar": "منظار أرتيان 2",
+      "es-419": "Visión artiana II"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の戦弓。生物の脚を模した\r\n構造の由来は謎に包まれている。",
+      "en": "A weapon made from unearthed\r\nfragments. The purpose of the\r\nleg-like protrusions is unclear.",
+      "fr": "À base de fragments d'arme.\r\nOn ignore la fonction des\r\nprotubérances qui\r\nressemblent à des jambes.",
+      "it": "Arma fatta\r\ndi frammenti dissotterrati. \r\nIl motivo delle protuberanze\r\na forma di gambe rimane oscuro.",
+      "de": "Eine Waffe aus aufgefundenen\r\nFragmenten. Die Funktion der\r\nbeinähnlichen Fortsätze ist\r\nunklar.",
+      "es": "Arma hecha con fragmentos\r\ndesenterrados. No está claro para\r\nqué sirven las protuberancias en\r\nforma de patas.",
+      "ru": "Оружие, сделанное из найденных\r\nфрагментов. Назначение похожих\r\nна ноги деталей пока остаётся\r\nнеизвестным.",
+      "pl": "Broń wykonana z odkopanych\r\nfragmentów. Cel tych wypustek\r\nprzypominających nogi jest\r\nniejasny.",
+      "pt-BR": "Arma feita com fragmentos\r\ndesenterrados. O propósito\r\ndas estruturas parecidas\r\ncom pernas é desconhecido.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 전투활. 생물의 다리를\r\n모방한 구조의 유래는\r\n아직 밝혀지지 않았다.",
+      "zh-Hant": "以發現的武器碎片組成的古代戰弓。\r\n構造模仿了生物的腿部，由來卻仍是\r\n不解之謎。",
+      "zh-Hans": "由发现的武器碎片组成的古代战弓。\r\n其构造模仿了生物的腿，但缘何如\r\n此却仍是未解之谜。",
+      "ar": "سلاح مصنوع من شظايا مُكتشفة. الغرض من هذه النتوءات الشبيهة بالسيقان\r\nغير واضح.",
+      "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Se desconoce la\r\nfunción de los bultos que\r\nparecen piernas."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "coatings": [
+      "close-range"
+    ]
+  },
+  {
+    "game_id": 73,
+    "kind": "bow",
+    "names": {
+      "ja": "アンギルバイン",
+      "en": "Angelbein",
+      "fr": "Arc d'ange",
+      "it": "Angelbein",
+      "de": "Engelsbein",
+      "es": "Pata de ángel",
+      "ru": "Ангильбейн",
+      "pl": "Anielski Byt",
+      "pt-BR": "Angelbein",
+      "ko": "앙길바인",
+      "zh-Hant": "天使之足",
+      "zh-Hans": "天使之足",
+      "ar": "أنجيلباين",
+      "es-419": "Angelbein"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を持ち得る太古の\r\n戦弓。在りし日の姿から放たれるは\r\n背信者への天罰の如き一矢。",
+      "en": "An ancient weapon with latent\r\npotential. Long ago, its arrows\r\nfelled traitors with divine might.",
+      "fr": "Arme ancienne à la puissance\r\nlatente. Il y a longtemps,\r\nses flèches ont abattu des\r\ntraîtres avec une force divine.",
+      "it": "Un'arma antica con un potenziale\r\nlatente. Le sue frecce\r\nuccidevano i traditori\r\ncon potenza divina.",
+      "de": "Eine alte Waffe mit verborgenem\r\nPotenzial. Vor langer Zeit fällten\r\nihre Pfeile Verräter mit göttlicher\r\nMacht.",
+      "es": "Arma ancestral con un potencial\r\nlatente. Tiempo atrás, sus\r\nflechas abatían a los traidores\r\ncon un poder divino.",
+      "ru": "Древнее оружие со скрытым\r\nпотенциалом. Когда-то давно\r\nпущенные из него стрелы разили\r\nпредателей силой небес.",
+      "pl": "Starożytna broń o uśpionym\r\npotencjale. Dawno temu jego\r\nstrzały powalały zdrajców boską\r\nmocą.",
+      "pt-BR": "Arma antiga com potencial\r\nlatente. Outrora, suas flechas\r\nderrubavam traidores com\r\npoder divino.",
+      "ko": "잠재력을 지닌 태고의 전투활.\r\n옛 모습 그대로인 활에서 떠난\r\n화살은 배신자를 향한\r\n천벌과도 같다.",
+      "zh-Hant": "擁有潛藏性能的太古戰弓。以昔日\r\n之姿射出的一箭，猶如對叛教者的\r\n天罰。",
+      "zh-Hans": "有着潜藏性能的太古战弓。从其往\r\n昔之影射出的每一箭，就如同对背\r\n信者的天罚。",
+      "ar": "سلاح قديم ذو قدرات كامنة.\r\nمنذ زمن بعيد، أسقطت سهامه الخونة\r\nبقوة سماوية.",
+      "es-419": "Un arma antigua con un\r\npotencial latente. Hace mucho,\r\nderribaba a los traidores con\r\nun poder divino."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "defense": 0,
+    "affinity": 5,
+    "specials": [],
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "coatings": [
+      "close-range"
+    ]
+  },
+  {
+    "game_id": 78,
+    "kind": "bow",
+    "names": {
+      "ja": "エスペラボウ",
+      "en": "Esperanza Bow",
+      "fr": "Arc Esperanza",
+      "it": "Arco Esperanza",
+      "de": "Esperanza-Bogen",
+      "es": "Arco esperanzador",
+      "ru": "Лук упования",
+      "pl": "Łuk Esperanzy",
+      "pt-BR": "Arco Esperanza",
+      "ko": "에스페라보우",
+      "zh-Hant": "祈望大弓",
+      "zh-Hans": "期冀之弓",
+      "ar": "قوس إسبيرانزا",
+      "es-419": "Arco esperanzador"
+    },
+    "descriptions": {
+      "ja": "実地での調査を踏まえて改良された\r\nホープボウ。希望が、遠く見えなく\r\nなっても、その矢は正確に届く。",
+      "en": "A fully field-tested Hope Bow.\r\nNo matter what gloom lies ahead,\r\nits arrows always strike true.",
+      "fr": "Arc d'espoir éprouvé sur le\r\nterrain. Touche toujours sa\r\ncible, au mépris du désespoir.",
+      "it": "Un arco della speranza\r\ncollaudato, le cui frecce\r\nfanno sempre centro,\r\nnonostante le difficoltà.",
+      "de": "Ein praxiserprobter Hoffnungs-\r\nbogen. Was auch vor uns liegt,\r\nseine Pfeile treffen immer.",
+      "es": "Arco de esperanza de eficacia\r\nampliamente probada.\r\nNo importa cuán funesto sea\r\nel objetivo: siempre acierta.",
+      "ru": "Испытанный в деле и улучшенный\r\n«Лук надежды». Даже если впереди\r\nкромешная тьма, его стрелы\r\nвсегда находят цель.",
+      "pl": "Przetestowany w boju łuk nadziei.\r\nBez względu na to, co nas czeka,\r\njego strzały zawsze trafiają\r\nw cel.",
+      "pt-BR": "Arco da Esperança testado\r\nem campo. Sua flecha sempre\r\nencontra o alvo, através até\r\nda mais densa escuridão.",
+      "ko": "현지 조사를 바탕으로 개량한\r\n호프보우. 희망이 저 멀리\r\n보이지 않게 되어도, 화살은\r\n정확하게 꿰뚫는다.",
+      "zh-Hant": "經實地調查後改良而成的希望大弓。\r\n即使希望遠去而不見蹤影，箭也能\r\n準確射中希望。",
+      "zh-Hans": "通过实地调查而改良的希望之弓。\r\n即便希望远去遥不可及，箭矢亦能\r\n百步穿杨，直中希望。",
+      "ar": "قوس الأمل مُختبر بالكامل في الساحة.\r\nمهما كانت الظلمات التي <LSNR \"تنتظركَ\" \"تنتظركِ\">،\r\nفإن سهامه دائمًا تصيب هدفها بدقة.",
+      "es-419": "Un arco de esperanza probado en\r\ncampo. Sin importar el objetivo,\r\nsus flechas siempre dan en el\r\nblanco."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 0
+    },
+    "coatings": [
+      "power",
+      "paralysis"
+    ]
+  },
+  {
+    "game_id": 79,
+    "kind": "bow",
+    "names": {
+      "ja": "闢虐弓カリステクス",
+      "en": "Fearbringer Callistox",
+      "fr": "Terreur Callisto",
+      "it": "Callistox portapaura",
+      "de": "Pfähler Callistox",
+      "es": "Terror insaciable",
+      "ru": "Устрашитель Каллисто",
+      "pl": "Lękotwórca Callistoks",
+      "pt-BR": "Terrificante Callistox",
+      "ko": "벽학궁 칼리스텍스",
+      "zh-Hant": "卡利斯托闢虐弓",
+      "zh-Hans": "卡利斯托辟虐弓",
+      "ar": "كاليستوكس جالب الرعب",
+      "es-419": "Terror insaciable"
+    },
+    "descriptions": {
+      "ja": "獲物を求め続けた闢虐弓の姿。\r\n一度その照準を向けられた者は、\r\n命尽きるまで執拗に追われ続ける。",
+      "en": "An upgraded Dosha Fearbringer.\r\nOnce marked, its prey are\r\nhounded to their last breath.",
+      "fr": "Terreur Dosha améliorée. Une\r\nfois en ligne de mire, sa proie\r\nsera traquée sans répit.",
+      "it": "Un Portapaura Dosha potenziato.\r\nUna volta marchiata la preda\r\nper l'uccisione, la perseguita\r\nfino all'ultimo respiro.",
+      "de": "Ein verbesserter Dosha-Pfähler.\r\nIst die Beute erst einmal\r\nmarkiert, wird sie bis zum\r\nletzten Atemzug gejagt.",
+      "es": "Terror Dosha mejorado.\r\nUna vez escogida su presa,\r\nla perseguirá incansable\r\nhasta su último aliento.",
+      "ru": "Улучшенный вариант «Устрашителя\r\nдошагум». Его стрелы преследуют\r\nцель, пока та не испустит\r\nпоследний вздох.",
+      "pl": "Ulepszony Lękotwórca Doshy.\r\nPo obraniu za cel ofiara jest\r\nścigana do ostatniego tchu.",
+      "pt-BR": "Terrificante Dosha melhorado.\r\nUma vez marcadas, suas presas\r\nsão perseguidas até o último\r\nsuspiro.",
+      "ko": "사냥감을 끝까지 쫓던 벽학궁의\r\n모습. 한 번 겨냥된 자는\r\n목숨이 다할 때까지\r\n집요하게 쫓긴다.",
+      "zh-Hant": "不斷追求獵物的強化版闢虐弓。一旦\r\n瞄準目標，就會追蹤至其殞命為止。",
+      "zh-Hans": "不断寻求猎物的强化版辟虐弓。被\r\n此弓瞄准的对象，会被不依不饶地\r\n追杀至死。",
+      "ar": "(دوشا) جالب الرعب مطوَّر.\r\nبمجرد تحديدها تتم مطاردة\r\nفريسته حتى آخر نفس.",
+      "es-419": "Una versión mejorada del Terror\r\nDosha Una vez en la mira, su\r\npresa no tiene escapatoria."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "defense": 20,
+    "affinity": -5,
+    "specials": [],
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "660": 5,
+        "318": 6,
+        "37": 1
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 11
+    },
+    "coatings": [
+      "power",
+      "exhaust"
+    ]
+  },
+  {
+    "game_id": 80,
+    "kind": "bow",
+    "names": {
+      "ja": "鎖刃弓トリストラム",
+      "en": "Renowned Tristram",
+      "fr": "Tristan l'Illustre",
+      "it": "Celebre Tristram",
+      "de": "Namhafter Tristan",
+      "es": "Arco de Tristram",
+      "ru": "Слава Тристана",
+      "pl": "Słynny Tristan",
+      "pt-BR": "Tristram Renomado",
+      "ko": "쇄인궁 트리스트람",
+      "zh-Hant": "鎖刃弓崔斯坦",
+      "zh-Hans": "锁刃弓·特里斯坦",
+      "ar": "آرك تريسترام",
+      "es-419": "Arco Tristán"
+    },
+    "descriptions": {
+      "ja": "アルシュアルクムの強化形。\r\n放たれた矢はまるで射手の意思に\r\n導かれるように竜の急所を射抜く。",
+      "en": "An upgraded Veldian Arcum.\r\nIts arrows locate vitals as if\r\nanswering the wielder's will.",
+      "fr": "Arcum Arkveld amélioré. Ses\r\nflèches peuvent localiser les\r\norganes vitaux, comme guidées\r\npar la volonté de l'archer.",
+      "it": "Un arcum di Veldian potenziato.\r\nÈ in grado di trovare gli organi\r\ndei wyvern e sembra\r\nascoltare chi lo imbraccia.",
+      "de": "Verbesserter Arkveld-Arcum.\r\nPfeile finden und durchbohren\r\nWyvern-Schwachstellen wie\r\nvom Träger befohlen.",
+      "es": "Arcum veldiano mejorado.\r\nBusca y perfora puntos vitales\r\nde monstruos como respondiendo\r\na la voluntad de su dueño.",
+      "ru": "Улучшенный «Вельдовый лук».\r\nСтрелы, срывающиеся с его тетивы,\r\nтак точно разят виверн, словно их\r\nнаправляет воля хозяина оружия.",
+      "pl": "Ulepszone Wiweriańskie Arcum.\r\nJego strzały lokalizują miejsca\r\nkrytyczne, jakby odpowiadały\r\nna wolę posiadacza.",
+      "pt-BR": "Arco Veldiano melhorado. Suas\r\nflechas buscam pontos vitais,\r\ncomo se ouvissem à vontade de\r\nseu portador.",
+      "ko": "알슈아르쿰의 강화형.\r\n손을 떠난 화살은 사수의\r\n생각을 읽은 듯 용의 급소를\r\n꿰뚫는다.",
+      "zh-Hant": "強化版鎖刃弓。射出的箭矢彷彿受到\r\n射手的意志引導，射穿龍的要害。",
+      "zh-Hans": "锁刃弓的强化版。射出的箭矢仿佛\r\n能接受射手意志的引导，直接射穿\r\n龙的要害。",
+      "ar": "قوس (آركوم فيلديان) مطوَّر.\r\nتستهدف سهامه النقاط الحيوية\r\nكما لو كانت تستجيب لإرادة حاملها.",
+      "es-419": "Un Arcum veldian mejorado. Sus\r\nflechas perforan los órganos\r\nvitales de wyverns siguiendo la\r\nvoluntad del portador."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "defense": 0,
+    "affinity": 0,
+    "specials": [
+      {
+        "kind": {
+          "Element": "dragon"
+        },
+        "raw_damage": 20,
+        "hidden": false
+      }
+    ],
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "465": 1,
+        "464": 3,
+        "661": 5
+      },
+      "previous_id": 70,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 13
+    },
+    "coatings": [
+      "pierce"
+    ]
+  }
+]

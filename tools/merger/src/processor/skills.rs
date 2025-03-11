@@ -1,11 +1,13 @@
 use crate::config::Config;
 use crate::processor::armor::{Bonus, BonusRank};
 use crate::processor::{
-    armor, LanguageMap, Lookup, LookupMap, ReadFile, Result, Translations, WriteFile,
+    armor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
 use crate::serde::is_map_empty;
 use crate::serde::ordered_map;
+use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
@@ -48,9 +50,11 @@ const IGNORED_IDS: &[isize] = &[
     1960395264,
 ];
 
-pub fn process(config: &Config) -> Result {
+pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    should_run!(filters, Processor::Skill);
+
     let data: Vec<SkillData> = Vec::read_file(config.io.output_dir.join(SKILL_DATA))?;
-    let strings = Translations::read_file(config.io.output_dir.join(SKILL_STRINGS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(SKILL_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -66,15 +70,8 @@ pub fn process(config: &Config) -> Result {
 
         let mut skill = Skill::from(&data);
 
-        for (index, lang) in strings.languages.iter().enumerate() {
-            if let Some(name) = strings.get(&data.name_guid, index) {
-                skill.names.insert(lang.into(), name.to_owned());
-            }
-
-            if let Some(desc) = strings.get(&data.description_guid, index) {
-                skill.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut skill.names);
+        strings.populate(&data.description_guid, &mut skill.descriptions);
 
         lookup.insert(skill.game_id, merged.len());
         merged.push(skill);
@@ -83,7 +80,7 @@ pub fn process(config: &Config) -> Result {
     progress.finish_and_clear();
 
     let data: Vec<RankData> = Vec::read_file(config.io.output_dir.join(RANK_DATA))?;
-    let strings = Translations::read_file(config.io.output_dir.join(RANK_STRINGS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(RANK_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -96,19 +93,12 @@ pub fn process(config: &Config) -> Result {
 
         let skill = lookup
             .find_in_mut(data.skill_id, &mut merged)
-            .expect(&format!("Could not find skill {}", data.skill_id));
+            .unwrap_or_else(|| panic!("Could not find skill {}", data.skill_id));
 
         let mut rank = Rank::from(&data);
 
-        for (index, lang) in strings.languages.iter().enumerate() {
-            if let Some(name) = strings.get(&data.name_guid, index) {
-                rank.names.insert(lang.into(), name.to_owned());
-            }
-
-            if let Some(desc) = strings.get(&data.description_guid, index) {
-                rank.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut rank.names);
+        strings.populate(&data.description_guid, &mut rank.descriptions);
 
         skill.ranks.push(rank);
     }
@@ -140,7 +130,7 @@ pub fn process(config: &Config) -> Result {
         let mut to_remove: Vec<isize> = Vec::new();
 
         for id in armor.skills.keys().copied() {
-            let Some(skill) = lookup.find_in(id, &mut merged) else {
+            let Some(skill) = lookup.find_in(id, &merged) else {
                 continue;
             };
 
@@ -168,7 +158,7 @@ pub fn process(config: &Config) -> Result {
 
         for armor in &mut data.pieces {
             for id in &to_remove {
-                armor.skills.remove(&id);
+                armor.skills.remove(id);
             }
         }
     }

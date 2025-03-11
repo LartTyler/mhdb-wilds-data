@@ -1,6 +1,6 @@
-use clap::Parser;
 use crate::cli::Cli;
 use crate::config::Config;
+use clap::Parser;
 
 mod cli;
 mod config;
@@ -15,5 +15,5 @@ fn main() -> processor::Result {
         std::env::set_current_dir(cwd).expect("--cwd option specified an invalid path");
     }
 
-    processor::all(&config)
+    processor::all(&config, &cli.filter)
 }

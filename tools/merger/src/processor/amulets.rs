@@ -1,21 +1,25 @@
 use crate::config::Config;
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, ReadFile, Result, Translations, WriteFile,
+    IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile, to_ingame_rarity,
 };
 use crate::serde::ordered_map;
+use crate::should_run;
 use indicatif::ProgressBar;
+use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 
 const DATA: &str = "data/AmuletData.json";
-const TRANSLATIONS: &str = "translations/Amulet.json";
+const STRINGS: &str = "translations/Amulet.json";
 const RECIPES: &str = "data/AmuletRecipeData.json";
 
 const OUTPUT: &str = "merged/Amulet.json";
 
-pub fn process(config: &Config) -> Result {
+pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    should_run!(filters, Processor::Amulets);
+
     let data: Vec<AmuletData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let translations = Translations::read_file(config.io.output_dir.join(TRANSLATIONS))?;
+    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
 
     let mut merged: Vec<Amulet> = Vec::with_capacity(data.len());
     let mut lookup: HashMap<isize, usize> = HashMap::new();
@@ -43,15 +47,8 @@ pub fn process(config: &Config) -> Result {
 
         let mut rank = Rank::from(&data);
 
-        for (index, lang) in translations.languages.iter().enumerate() {
-            if let Some(name) = translations.get(&data.name_guid, index) {
-                rank.names.insert(lang.into(), name.to_owned());
-            }
-
-            if let Some(desc) = translations.get(&data.description_guid, index) {
-                rank.descriptions.insert(lang.into(), desc.to_owned());
-            }
-        }
+        strings.populate(&data.name_guid, &mut rank.names);
+        strings.populate(&data.description_guid, &mut rank.descriptions);
 
         for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
             if id != 0 {
