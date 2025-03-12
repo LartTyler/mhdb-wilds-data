@@ -14,9 +14,15 @@ use std::path::PathBuf;
 
 mod bow;
 mod charge_blade;
+mod great_sword;
 mod gunlance;
 mod hammer;
 mod heavy_bowgun;
+mod insect_glaive;
+mod lance;
+mod light_bowgun;
+mod switch_axe;
+mod sword_shield;
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, bow::definition())?;
@@ -24,6 +30,12 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, gunlance::definition())?;
     do_process(config, filters, hammer::definition())?;
     do_process(config, filters, heavy_bowgun::definition())?;
+    do_process(config, filters, lance::definition())?;
+    do_process(config, filters, light_bowgun::definition())?;
+    do_process(config, filters, great_sword::definition())?;
+    do_process(config, filters, insect_glaive::definition())?;
+    do_process(config, filters, sword_shield::definition())?;
+    do_process(config, filters, switch_axe::definition())?;
 
     Ok(())
 }
@@ -183,6 +195,12 @@ enum WeaponKind {
     Gunlance(gunlance::Gunlance),
     Hammer(hammer::Hammer),
     HeavyBowgun(heavy_bowgun::HeavyBowgun),
+    Lance(lance::Lance),
+    LightBowgun(light_bowgun::LightBowgun),
+    GreatSword(great_sword::GreatSword),
+    InsectGlaive(insect_glaive::InsectGlaive),
+    SwordShield(sword_shield::SwordShield),
+    SwitchAxe(switch_axe::SwitchAxe),
 }
 
 #[derive(Debug, Deserialize)]
@@ -193,6 +211,12 @@ enum WeaponDataKind {
     Gunlance(gunlance::GunlanceData),
     Hammer(hammer::HammerData),
     HeavyBowgun(heavy_bowgun::HeavyBowgunData),
+    Lance(lance::LanceData),
+    LightBowgun(light_bowgun::LightBowgunData),
+    GreatSword(great_sword::GreatSwordData),
+    InsectGlaive(insect_glaive::InsectGlaiveData),
+    SwordShield(sword_shield::SwordShieldData),
+    SwitchAxe(switch_axe::SwitchAxeData),
 }
 
 impl From<&WeaponDataKind> for WeaponKind {
@@ -205,6 +229,12 @@ impl From<&WeaponDataKind> for WeaponKind {
             Gunlance(v) => Self::Gunlance(v.into()),
             Hammer(v) => Self::Hammer(v.into()),
             HeavyBowgun(v) => Self::HeavyBowgun(v.into()),
+            Lance(v) => Self::Lance(v.into()),
+            LightBowgun(v) => Self::LightBowgun(v.into()),
+            GreatSword(v) => Self::GreatSword(v.into()),
+            InsectGlaive(v) => Self::InsectGlaive(v.into()),
+            SwordShield(v) => Self::SwordShield(v.into()),
+            SwitchAxe(v) => Self::SwitchAxe(v.into()),
         }
     }
 }

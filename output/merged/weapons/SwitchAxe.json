@@ -1,0 +1,5495 @@
+[
+  {
+    "game_id": 1,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ホープアックスⅠ",
+      "en": "Hope Axe I",
+      "fr": "Hache d'espoir",
+      "it": "Ascia speranza I",
+      "de": "Hoffnungsaxt I",
+      "es": "Hacha de esperanza I",
+      "ru": "Топор надежды I",
+      "pl": "Topór nadziei I",
+      "pt-BR": "Machado da Esperança I",
+      "ko": "호프액스Ⅰ",
+      "zh-Hant": "希望斧Ⅰ",
+      "zh-Hans": "希望之斧Ⅰ",
+      "ar": "فأس الأمل 1",
+      "es-419": "Hacha esperanza I"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた剣斧。剣と斧、圧縮と解放。\r\n臨機応変に対応する技量が必要。",
+      "en": "A switch axe made specifically for\r\nthe expedition. A sword and axe\r\nin one, it requires skill to wield.",
+      "fr": "Morpho-hache conçue spécialement\r\npour l'expédition. À la fois hache et\r\népée, elle est difficile à manier.",
+      "it": "Una spadascia creata\r\nappositamente per la spedizione. \r\nUnisce una spada e un'ascia\r\ne occorre abilità per usarla.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Morph-Axt. Schwert\r\nund Axt in einem, das erfordert\r\nbesonderes Geschick.",
+      "es": "Hacha espada creada para la\r\nexpedición. Son dos armas en una,\r\nasí que manejarla requiere de\r\ngran habilidad.",
+      "ru": "Выкидной топор, изготовленный\r\nспециально для экспедиции. Можно\r\nтрансформировать в меч. Оружие\r\nдля опытных охотников.",
+      "pl": "Topór sprężynowy wykonany\r\nspecjalnie na tę ekspedycję. \r\nMiecz i topór w jednym.\r\nWładanie nim wymaga wprawy.",
+      "pt-BR": "Transmachado feito para a\r\nexpedição. Requer habilidade\r\npara ser usado, por ser espada\r\ne machado em uma só arma.",
+      "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 슬래시액스. 검과 도끼,\r\n압축과 해방. 임기응변으로\r\n대처하는 기량이 필요하다.",
+      "zh-Hant": "為東部地區調查特別開發的斬擊斧。\r\n要掌控劍與斧，壓縮與解放，需要\r\n相當的技術，懂得隨機應變。",
+      "zh-Hans": "为调查东部地区而特别制作的斩斧。\r\n剑或斧，压缩或解放，使用者必须\r\n具备临机应变的技巧。",
+      "ar": "فأس سيف مصنوعة خصيصًا للبعثة. \r\nسيف وفأس في أداة واحدة،\r\nويتطلب استخدامها مهارة.",
+      "es-419": "Una hacha espada fabricada\r\nespecialmente para la\r\nexpedición. Blandir ambas\r\narmas en una requiere habilidad."
+    },
+    "rarity": 1,
+    "attack_raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 2,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ホープアックスⅡ",
+      "en": "Hope Axe II",
+      "fr": "Hache d'espoir II",
+      "it": "Ascia speranza II",
+      "de": "Hoffnungsaxt II",
+      "es": "Hacha de esperanza II",
+      "ru": "Топор надежды II",
+      "pl": "Topór nadziei II",
+      "pt-BR": "Machado da Esperança II",
+      "ko": "호프액스Ⅱ",
+      "zh-Hant": "希望斧Ⅱ",
+      "zh-Hans": "希望之斧Ⅱ",
+      "ar": "فأس الأمل 2",
+      "es-419": "Hacha esperanza II"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた剣斧。剣と斧、圧縮と解放。\r\n臨機応変に対応する技量が必要。",
+      "en": "A switch axe made specifically for\r\nthe expedition. A sword and axe\r\nin one, it requires skill to wield.",
+      "fr": "Morpho-hache conçue spécialement\r\npour l'expédition. À la fois hache et\r\népée, elle est difficile à manier.",
+      "it": "Una spadascia creata\r\nappositamente per la spedizione. \r\nUnisce una spada e un'ascia\r\ne occorre abilità per usarla.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Morph-Axt. Schwert\r\nund Axt in einem, das erfordert\r\nbesonderes Geschick.",
+      "es": "Hacha espada creada para la\r\nexpedición. Son dos armas en una,\r\nasí que manejarla requiere de\r\ngran habilidad.",
+      "ru": "Выкидной топор, изготовленный\r\nспециально для экспедиции. Можно\r\nтрансформировать в меч. Оружие\r\nдля опытных охотников.",
+      "pl": "Topór sprężynowy wykonany\r\nspecjalnie na tę ekspedycję. \r\nMiecz i topór w jednym.\r\nWładanie nim wymaga wprawy.",
+      "pt-BR": "Transmachado feito para a\r\nexpedição. Requer habilidade\r\npara ser usado, por ser espada\r\ne machado em uma só arma.",
+      "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 슬래시액스. 검과 도끼,\r\n압축과 해방. 임기응변으로\r\n대처하는 기량이 필요하다.",
+      "zh-Hant": "為東部地區調查特別開發的斬擊斧。\r\n要掌控劍與斧，壓縮與解放，需要\r\n相當的技術，懂得隨機應變。",
+      "zh-Hans": "为调查东部地区而特别制作的斩斧。\r\n剑或斧，压缩或解放，使用者必须\r\n具备临机应变的技巧。",
+      "ar": "فأس سيف مصنوعة خصيصًا للبعثة. \r\nسيف وفأس في أداة واحدة،\r\nويتطلب استخدامها مهارة.",
+      "es-419": "Una hacha espada fabricada\r\nespecialmente para la\r\nexpedición. Blandir ambas\r\narmas en una requiere habilidad."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 0
+    },
+    "skills": {
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 3,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ホープアックスⅢ",
+      "en": "Hope Axe III",
+      "fr": "Hache d'espoir III",
+      "it": "Ascia speranza III",
+      "de": "Hoffnungsaxt III",
+      "es": "Hacha de esperanza III",
+      "ru": "Топор надежды III",
+      "pl": "Topór nadziei III",
+      "pt-BR": "Machado da Esperança III",
+      "ko": "호프액스Ⅲ",
+      "zh-Hant": "希望斧Ⅲ",
+      "zh-Hans": "希望之斧Ⅲ",
+      "ar": "فأس الأمل 3",
+      "es-419": "Hacha esperanza III"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた剣斧。剣と斧、圧縮と解放。\r\n臨機応変に対応する技量が必要。",
+      "en": "A switch axe made specifically for\r\nthe expedition. A sword and axe\r\nin one, it requires skill to wield.",
+      "fr": "Morpho-hache conçue spécialement\r\npour l'expédition. À la fois hache et\r\népée, elle est difficile à manier.",
+      "it": "Una spadascia creata\r\nappositamente per la spedizione. \r\nUnisce una spada e un'ascia\r\ne occorre abilità per usarla.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Morph-Axt. Schwert\r\nund Axt in einem, das erfordert\r\nbesonderes Geschick.",
+      "es": "Hacha espada creada para la\r\nexpedición. Son dos armas en una,\r\nasí que manejarla requiere de\r\ngran habilidad.",
+      "ru": "Выкидной топор, изготовленный\r\nспециально для экспедиции. Можно\r\nтрансформировать в меч. Оружие\r\nдля опытных охотников.",
+      "pl": "Topór sprężynowy wykonany\r\nspecjalnie na tę ekspedycję. \r\nMiecz i topór w jednym.\r\nWładanie nim wymaga wprawy.",
+      "pt-BR": "Transmachado feito para a\r\nexpedição. Requer habilidade\r\npara ser usado, por ser espada\r\ne machado em uma só arma.",
+      "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 슬래시액스. 검과 도끼,\r\n압축과 해방. 임기응변으로\r\n대처하는 기량이 필요하다.",
+      "zh-Hant": "為東部地區調查特別開發的斬擊斧。\r\n要掌控劍與斧，壓縮與解放，需要\r\n相當的技術，懂得隨機應變。",
+      "zh-Hans": "为调查东部地区而特别制作的斩斧。\r\n剑或斧，压缩或解放，使用者必须\r\n具备临机应变的技巧。",
+      "ar": "فأس سيف مصنوعة خصيصًا للبعثة. \r\nسيف وفأس في أداة واحدة،\r\nويتطلب استخدامها مهارة.",
+      "es-419": "Una hacha espada fabricada\r\nespecialmente para la\r\nexpedición. Blandir ambas\r\narmas en una requiere habilidad."
+    },
+    "rarity": 3,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        40
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    }
+  },
+  {
+    "game_id": 4,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ホープアックスⅣ",
+      "en": "Hope Axe IV",
+      "fr": "Hache d'espoir IV",
+      "it": "Ascia speranza IV",
+      "de": "Hoffnungsaxt IV",
+      "es": "Hacha de esperanza IV",
+      "ru": "Топор надежды IV",
+      "pl": "Topór nadziei IV",
+      "pt-BR": "Machado da Esperança IV",
+      "ko": "호프액스Ⅳ",
+      "zh-Hant": "希望斧Ⅳ",
+      "zh-Hans": "希望之斧Ⅳ",
+      "ar": "فأس الأمل 4",
+      "es-419": "Hacha esperanza IV"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた剣斧。剣と斧、圧縮と解放。\r\n臨機応変に対応する技量が必要。",
+      "en": "A switch axe made specifically for\r\nthe expedition. A sword and axe\r\nin one, it requires skill to wield.",
+      "fr": "Morpho-hache conçue spécialement\r\npour l'expédition. À la fois hache et\r\népée, elle est difficile à manier.",
+      "it": "Una spadascia creata\r\nappositamente per la spedizione.\r\nUnisce una spada e un'ascia\r\ne occorre abilità per usarla.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Morph-Axt. Schwert\r\nund Axt in einem, das erfordert\r\nbesonderes Geschick.",
+      "es": "Hacha espada creada para la\r\nexpedición. Son dos armas en una,\r\nasí que manejarla requiere de\r\ngran habilidad.",
+      "ru": "Выкидной топор, изготовленный\r\nспециально для экспедиции. Можно\r\nтрансформировать в меч. Оружие\r\nдля опытных охотников.",
+      "pl": "Topór sprężynowy wykonany\r\nspecjalnie na tę ekspedycję. \r\nMiecz i topór w jednym.\r\nWładanie nim wymaga wprawy.",
+      "pt-BR": "Transmachado feito para a\r\nexpedição. Requer habilidade\r\npara ser usado, por ser espada\r\ne machado em uma só arma.",
+      "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 슬래시액스. 검과 도끼,\r\n압축과 해방. 임기응변으로\r\n대처하는 기량이 필요하다.",
+      "zh-Hant": "為東部地區調查特別開發的斬擊斧。\r\n要掌控劍與斧，壓縮與解放，需要\r\n相當的技術，懂得隨機應變。",
+      "zh-Hans": "为调查东部地区而特别制作的斩斧。\r\n剑或斧，压缩或解放，使用者必须\r\n具备临机应变的技巧。",
+      "ar": "فأس سيف مصنوع خصيصًا للبعثة.\r\nسيف وفأس في أداة واحدة\r\nويتطلب استخدامهما مهارة.",
+      "es-419": "Una hacha espada fabricada\r\nespecialmente para la\r\nexpedición. Blandir ambas\r\narmas en una requiere habilidad."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 5,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ホープアックスⅤ",
+      "en": "Hope Axe V",
+      "fr": "Hache d'espoir V",
+      "it": "Ascia speranza V",
+      "de": "Hoffnungsaxt V",
+      "es": "Hacha de esperanza V",
+      "ru": "Топор надежды V",
+      "pl": "Topór nadziei V",
+      "pt-BR": "Machado da Esperança V",
+      "ko": "호프액스Ⅴ",
+      "zh-Hant": "希望斧Ⅴ",
+      "zh-Hans": "希望之斧Ⅴ",
+      "ar": "فأس الأمل 5",
+      "es-419": "Hacha esperanza V"
+    },
+    "descriptions": {
+      "ja": "東地域の調査に向けて特別に仕立て\r\nられた剣斧。剣と斧、圧縮と解放。\r\n臨機応変に対応する技量が必要。",
+      "en": "A switch axe made specifically for\r\nthe expedition. A sword and axe\r\nin one, it requires skill to wield.",
+      "fr": "Morpho-hache conçue spécialement\r\npour l'expédition. À la fois hache et\r\népée, elle est difficile à manier.",
+      "it": "Una spadascia creata\r\nappositamente per la spedizione. \r\nUnisce una spada e un'ascia\r\ne occorre abilità per usarla.",
+      "de": "Eine speziell für die Expedition\r\nangefertigte Morph-Axt. Schwert\r\nund Axt in einem, das erfordert\r\nbesonderes Geschick.",
+      "es": "Hacha espada creada para la\r\nexpedición. Son dos armas en una,\r\nasí que manejarla requiere de\r\ngran habilidad.",
+      "ru": "Выкидной топор, изготовленный\r\nспециально для экспедиции. Можно\r\nтрансформировать в меч. Оружие\r\nдля опытных охотников.",
+      "pl": "Topór sprężynowy wykonany\r\nspecjalnie na tę ekspedycję. \r\nMiecz i topór w jednym.\r\nWładanie nim wymaga wprawy.",
+      "pt-BR": "Transmachado feito para a\r\nexpedição. Requer habilidade\r\npara ser usado, por ser espada\r\ne machado em uma só arma.",
+      "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 슬래시액스. 검과 도끼,\r\n압축과 해방. 임기응변으로\r\n대처하는 기량이 필요하다.",
+      "zh-Hant": "為東部地區調查特別開發的斬擊斧。\r\n要掌控劍與斧，壓縮與解放，需要\r\n相當的技術，懂得隨機應變。",
+      "zh-Hans": "为调查东部地区而特别制作的斩斧。\r\n剑或斧，压缩或解放，使用者必须\r\n具备临机应变的技巧。",
+      "ar": "فأس سيف مصنوعة خصيصًا للبعثة. \r\nسيف وفأس في أداة واحدة،\r\nويتطلب استخدامها مهارة.",
+      "es-419": "Una hacha espada fabricada\r\nespecialmente para la\r\nexpedición. Blandir ambas\r\narmas en una requiere habilidad."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 6,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "phial": {
+      "kind": "exhaust",
+      "raw": 15
+    },
+    "names": {
+      "ja": "ボーンアックスⅠ",
+      "en": "Bone Axe I",
+      "fr": "Hache en os",
+      "it": "Ascia d'osso I",
+      "de": "Knochenaxt I",
+      "es": "Hacha ósea I",
+      "ru": "Костяной топор I",
+      "pl": "Kościany topór I",
+      "pt-BR": "Machado Ósseo I",
+      "ko": "본액스Ⅰ",
+      "zh-Hant": "骨製劍斧Ⅰ",
+      "zh-Hans": "骨制斩斧Ⅰ",
+      "ar": "فأس عظمي 1",
+      "es-419": "Hacha ósea I"
+    },
+    "descriptions": {
+      "ja": "砂漠地方で開発された最新式の\r\n武器。様々な派生をみせる、\r\n骨製剣斧のスタンダード。",
+      "en": "The newest in desert technology,\r\nthis switch axe is the foundation\r\nof a number of weapon\r\nderivations.",
+      "fr": "Dernier cri en matière d'arsenal\r\ndu désert, cette morpho-hache\r\nsert de base à de nombreuses\r\nvariations de l'arme.",
+      "it": "Comune spadascia ossea,\r\nl'ultimo ritrovato nel campo\r\ndell'arsenale da deserto.",
+      "de": "Diese Morph-Axt mit der neusten\r\nWüstentechnologie ist die\r\nGrundlage für eine Reihe von\r\nWaffenvariationen.",
+      "es": "Lo más moderno en tecnología del\r\ndesierto. Una hacha espada que es\r\nla base para muchas otras\r\nderivaciones.",
+      "ru": "Этот выкидной топор — новейшее\r\nоружие, разработанное для\r\nпустынного региона. Его чертежи\r\nлегли в основу ряда вариаций.",
+      "pl": "Najnowsze osiągnięcie pustynnej technologii.\r\nTen topór sprężynowy stanowi\r\nbazę dla wielu wariantów\r\nbroni.",
+      "pt-BR": "Tecnologia desértica de ponta.\r\nEsse transmachado é a base para\r\numa série de derivações de armas.",
+      "ko": "사막 지방에서 개발한 최신식\r\n무기. 다양한 파생이 있는\r\n뼈 소재 슬래시액스의 기본.",
+      "zh-Hant": "於沙漠地區開發的最新型武器。\r\n可衍生至各種不同的型態，\r\n為骨製斬擊斧的標準款式。",
+      "zh-Hans": "在沙漠地区开发的最新武器。可衍\r\n生出各种不同形态的武器。骨制斩\r\n斧的标准款式。",
+      "ar": "أحدث تقنيات الأسلحة الصحراوية،\r\nفأس السيف هذا هو أساس\r\nعدد من مشتقات الأسلحة.",
+      "es-419": "Lo más nuevo en la tecnología\r\ndel desierto. Esta hacha\r\nespada es la base de\r\nmúltiples variantes de armas."
+    },
+    "rarity": 1,
+    "attack_raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        15,
+        20,
+        23
+      ],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 1
+    }
+  },
+  {
+    "game_id": 7,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 110,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "exhaust",
+      "raw": 18
+    },
+    "names": {
+      "ja": "ボーンアックスⅡ",
+      "en": "Bone Axe II",
+      "fr": "Hache en os II",
+      "it": "Ascia d'osso II",
+      "de": "Knochenaxt II",
+      "es": "Hacha ósea II",
+      "ru": "Костяной топор II",
+      "pl": "Kościany topór II",
+      "pt-BR": "Machado Ósseo II",
+      "ko": "본액스Ⅱ",
+      "zh-Hant": "骨製劍斧Ⅱ",
+      "zh-Hans": "骨制斩斧Ⅱ",
+      "ar": "فأس عظمي 2",
+      "es-419": "Hacha ósea II"
+    },
+    "descriptions": {
+      "ja": "砂漠地方で開発された最新式の\r\n武器。様々な派生をみせる、\r\n骨製剣斧のスタンダード。",
+      "en": "The newest in desert technology,\r\nthis switch axe is the foundation\r\nof a number of weapon\r\nderivations.",
+      "fr": "Dernier cri en matière d'arsenal\r\ndu désert, cette morpho-hache\r\nsert de base à de nombreuses\r\nvariations de l'arme.",
+      "it": "Comune spadascia ossea,\r\nl'ultimo ritrovato nel campo\r\ndell'arsenale da deserto.",
+      "de": "Diese Morph-Axt mit der neusten\r\nWüstentechnologie ist die\r\nGrundlage für eine Reihe von\r\nWaffenvariationen.",
+      "es": "Lo más moderno en tecnología del\r\ndesierto. Una hacha espada que es\r\nla base para muchas otras\r\nderivaciones.",
+      "ru": "Этот выкидной топор — новейшее\r\nоружие, разработанное для\r\nпустынного региона. Его чертежи\r\nлегли в основу ряда вариаций.",
+      "pl": "Najnowsze osiągnięcie pustynnej technologii.\r\nTen topór sprężynowy stanowi\r\nbazę dla wielu wariantów\r\nbroni.",
+      "pt-BR": "Tecnologia desértica de ponta.\r\nEsse transmachado é a base para\r\numa série de derivações de armas.",
+      "ko": "사막 지방에서 개발한 최신식\r\n무기. 다양한 파생이 있는\r\n뼈 소재 슬래시액스의 기본.",
+      "zh-Hant": "於沙漠地區開發的最新型武器。\r\n可衍生至各種不同的型態，\r\n為骨製斬擊斧的標準款式。",
+      "zh-Hans": "在沙漠地区开发的最新武器。可衍\r\n生出各种不同形态的武器。骨制斩\r\n斧的标准款式。",
+      "ar": "أحدث تقنيات الأسلحة الصحراوية،\r\nفأس السيف هذا هو أساس\r\nعدد من مشتقات الأسلحة.",
+      "es-419": "Lo más nuevo en la tecnología\r\ndel desierto. Esta hacha\r\nespada es la base de\r\nmúltiples variantes de armas."
+    },
+    "rarity": 2,
+    "attack_raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        34
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 8,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "exhaust",
+      "raw": 20
+    },
+    "names": {
+      "ja": "ボーンアックスⅢ",
+      "en": "Bone Axe III",
+      "fr": "Hache en os III",
+      "it": "Ascia d'osso III",
+      "de": "Knochenaxt III",
+      "es": "Hacha ósea III",
+      "ru": "Костяной топор III",
+      "pl": "Kościany topór III",
+      "pt-BR": "Machado Ósseo III",
+      "ko": "본액스Ⅲ",
+      "zh-Hant": "骨製劍斧Ⅲ",
+      "zh-Hans": "骨制斩斧Ⅲ",
+      "ar": "فأس عظمي 3",
+      "es-419": "Hacha ósea III"
+    },
+    "descriptions": {
+      "ja": "砂漠地方で開発された最新式の\r\n武器。様々な派生をみせる、\r\n骨製剣斧のスタンダード。",
+      "en": "The newest in desert technology,\r\nthis switch axe is the foundation\r\nof a number of weapon\r\nderivations.",
+      "fr": "Dernier cri en matière d'arsenal\r\ndu désert, cette morpho-hache\r\nsert de base à de nombreuses\r\nvariations de l'arme.",
+      "it": "Comune spadascia ossea,\r\nl'ultimo ritrovato nel campo\r\ndell'arsenale da deserto.",
+      "de": "Diese Morph-Axt mit der neusten\r\nWüstentechnologie ist die\r\nGrundlage für eine Reihe von\r\nWaffenvariationen.",
+      "es": "Lo más moderno en tecnología del\r\ndesierto. Una hacha espada que es\r\nla base para muchas otras\r\nderivaciones.",
+      "ru": "Этот выкидной топор — новейшее\r\nоружие, разработанное для\r\nпустынного региона. Его чертежи\r\nлегли в основу ряда вариаций.",
+      "pl": "Najnowsze osiągnięcie pustynnej technologii.\r\nTen topór sprężynowy stanowi\r\nbazę dla wielu wariantów\r\nbroni.",
+      "pt-BR": "Tecnologia desértica de ponta.\r\nEsse transmachado é a base para\r\numa série de derivações de armas.",
+      "ko": "사막 지방에서 개발한 최신식\r\n무기. 다양한 파생이 있는\r\n뼈 소재 슬래시액스의 기본.",
+      "zh-Hant": "於沙漠地區開發的最新型武器。\r\n可衍生至各種不同的型態，\r\n為骨製斬擊斧的標準款式。",
+      "zh-Hans": "在沙漠地区开发的最新武器。可衍\r\n生出各种不同形态的武器。骨制斩\r\n斧的标准款式。",
+      "ar": "أحدث تقنيات الأسلحة الصحراوية،\r\nفأس السيف هذا هو أساس\r\nعدد من مشتقات الأسلحة.",
+      "es-419": "Lo más nuevo en la tecnología\r\ndel desierto. Esta hacha\r\nespada es la base de\r\nmúltiples variantes de armas."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 9,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "exhaust",
+      "raw": 23
+    },
+    "names": {
+      "ja": "ボーンアックスⅣ",
+      "en": "Bone Axe IV",
+      "fr": "Hache en os IV",
+      "it": "Ascia d'osso IV",
+      "de": "Knochenaxt IV",
+      "es": "Hacha ósea IV",
+      "ru": "Костяной топор IV",
+      "pl": "Kościany topór IV",
+      "pt-BR": "Machado Ósseo IV",
+      "ko": "본액스Ⅳ",
+      "zh-Hant": "骨製劍斧Ⅳ",
+      "zh-Hans": "骨制斩斧Ⅳ",
+      "ar": "فأس عظمي 4",
+      "es-419": "Hacha ósea IV"
+    },
+    "descriptions": {
+      "ja": "砂漠地方で開発された最新式の\r\n武器。様々な派生をみせる、\r\n骨製剣斧のスタンダード。",
+      "en": "The newest in desert technology,\r\nthis switch axe is the foundation\r\nof a number of weapon\r\nderivations.",
+      "fr": "Dernier cri en matière d'arsenal\r\ndu désert, cette morpho-hache\r\nsert de base à de nombreuses\r\nvariations de l'arme.",
+      "it": "Comune spadascia ossea,\r\nl'ultimo ritrovato nel campo\r\ndell'arsenale da deserto.",
+      "de": "Diese Morph-Axt mit der neusten\r\nWüstentechnologie ist die\r\nGrundlage für eine Reihe von\r\nWaffenvariationen.",
+      "es": "Lo más moderno en tecnología del\r\ndesierto. Una hacha espada que es\r\nla base para muchas otras\r\nderivaciones.",
+      "ru": "Этот выкидной топор — новейшее\r\nоружие, разработанное для\r\nпустынного региона. Его чертежи\r\nлегли в основу ряда вариаций.",
+      "pl": "Najnowsze osiągnięcie pustynnej technologii.\r\nTen topór sprężynowy stanowi\r\nbazę dla wielu wariantów\r\nbroni.",
+      "pt-BR": "Tecnologia desértica de ponta.\r\nEsse transmachado é a base para\r\numa série de derivações de armas.",
+      "ko": "사막 지방에서 개발한 최신식\r\n무기. 다양한 파생이 있는\r\n뼈 소재 슬래시액스의 기본.",
+      "zh-Hant": "於沙漠地區開發的最新型武器。\r\n可衍生至各種不同的型態，\r\n為骨製斬擊斧的標準款式。",
+      "zh-Hans": "在沙漠地区开发的最新武器。可衍\r\n生出各种不同形态的武器。骨制斩\r\n斧的标准款式。",
+      "ar": "أحدث تقنيات الأسلحة الصحراوية،\r\nفأس السيف هذا هو أساس\r\nعدد من مشتقات الأسلحة.",
+      "es-419": "Lo más nuevo en la tecnología\r\ndel desierto. Esta hacha\r\nespada es la base de\r\nmúltiples variantes de armas."
+    },
+    "rarity": 6,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 10,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 110,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "exhaust",
+      "raw": 25
+    },
+    "names": {
+      "ja": "ボーンスマッシャー",
+      "en": "Bone Smasher",
+      "fr": "Écrasement osseux",
+      "it": "Rompiossa",
+      "de": "Knochenschmetterer",
+      "es": "Quebrantahuesos",
+      "ru": "Костедробилка",
+      "pl": "Kościany łamacz",
+      "pt-BR": "Esmagador de Ossos",
+      "ko": "분골쇄신",
+      "zh-Hant": "粉身碎骨",
+      "zh-Hans": "粉身碎骨",
+      "ar": "مُحطم العظام",
+      "es-419": "Machacador óseo"
+    },
+    "descriptions": {
+      "ja": "数年間の技術研究で大幅に性能を\r\n底上げされたボーンアックス。\r\n剣の斬れ味と斧の破壊力を持つ。",
+      "en": "Years of research have improved\r\nthe Bone Axe across the board.\r\nSharp as a sword, devastating\r\nas an axe.",
+      "fr": "Hache en os améliorée par des\r\nannées de recherche. Aussi\r\ntranchante qu'une épée, aussi\r\ndestructrice qu'une hache.",
+      "it": "Anni di ricerca hanno migliorato\r\nl'ascia d'osso in tutti i suoi aspetti. \r\nAffilata come una spada, devastante \r\ncome un'ascia.",
+      "de": "Jahrelange Forschung hat die Kno-\r\nchenaxt verbessert. Scharf wie ein\r\nSchwert, vernichtend wie eine Axt.",
+      "es": "Hacha ósea mejorada en todos\r\nsus aspectos con años de estudio.\r\nIgual de afilada que una espada,\r\ny devastadora como un hacha.",
+      "ru": "Этот костяной топор — результат\r\nмноголетних экспериментов\r\nи усовершенствований. Острый\r\nкак меч, мощный как топор.",
+      "pl": "Lata badań udoskonaliły kościany\r\ntopór w każdym aspekcie. Ostry\r\njak miecz, niszczycielski jak\r\ntopór.",
+      "pt-BR": "Anos de pesquisa melhoraram\r\no Machado Ósseo em todos os\r\naspectos. Afiado como uma espada\r\ne devastador como um machado.",
+      "ko": "수년간의 기술 연구 끝에\r\n성능을 대폭 올린 본액스.\r\n검의 예리함과\r\n도끼의 파괴력을 겸비했다.",
+      "zh-Hant": "經過數年的技術研究，性能獲得大幅\r\n提升的骨製劍斧。兼具劍的鋒利與斧\r\n的破壞力。",
+      "zh-Hans": "历时数年的技术研究，令此骨制斩\r\n斧的性能获得大幅度提升。兼有剑\r\n的锋利度与斧的威力。",
+      "ar": "لقد أدت سنوات من البحث إلى تحسين\r\nالفأس العظمي تحسينًا شاملًا. حاد\r\nكالسيف، مدمر كالفأس.",
+      "es-419": "Los años de estudio la mejoraron\r\nen todos sus aspectos. Afilada\r\ncomo una espada y devastadora\r\ncomo un hacha."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 5
+    },
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    }
+  },
+  {
+    "game_id": 11,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "poison",
+      "raw": 18
+    },
+    "names": {
+      "ja": "アイアンアクセルⅠ",
+      "en": "Iron Accelerator I",
+      "fr": "Accélération de fer",
+      "it": "Acceleratore di ferro I",
+      "de": "Eisenbeschleuniger I",
+      "es": "Acelerador de hierro I",
+      "ru": "Железный ускоритель I",
+      "pl": "Żelazny akcelerator I",
+      "pt-BR": "Acelerador de Ferro I",
+      "ko": "아이언액셀Ⅰ",
+      "zh-Hant": "鋼鐵迅斧Ⅰ",
+      "zh-Hans": "钢铁迅斧Ⅰ",
+      "ar": "المُسرِّع الحديدي 1",
+      "es-419": "Acelerador férreo I"
+    },
+    "descriptions": {
+      "ja": "曲線的な刃をもつ初心者向けの\r\n剣斧。剣でも斧でも、対象を\r\n滑らかに押し切る事ができる。",
+      "en": "A switch axe with curved blades\r\nfor beginners. Both sword and\r\naxe cut easily into prey.",
+      "fr": "Morpho-hache à lames incurvées\r\npour les novices. Idéale pour\r\ntrancher les proies.",
+      "it": "Una spadascia con lame ricurve,\r\nfatta apposta per i principianti.\r\nSia la spada che l'ascia\r\ntrafiggono le prede con facilità.",
+      "de": "Eine Morph-Axt mit gekrümmter\r\nKlinge für Anfänger. Schwert und\r\nAxt schneiden mühelos durch\r\nBeute.",
+      "es": "Hacha espada con hojas\r\ncurvas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente.",
+      "ru": "Выкидной топор с изогнутыми\r\nлезвиями для начинающих. Жертву\r\nможно с лёгкостью разрубить как\r\nмечом, так и топором.",
+      "pl": "Topór sprężynowy o zakrzywionych\r\nostrzach dla początkujących.\r\nZarówno miecz, jak i topór\r\nz łatwością przecinają ofiarę.",
+      "pt-BR": "Transmachado com lâminas curvas\r\npara iniciantes. Tanto a espada\r\nquanto o machado cortam as\r\nvítimas facilmente.",
+      "ko": "곡선형 칼날이 달린 초보자용\r\n슬래시액스. 검과 도끼 모두\r\n대상을 부드럽게 베어낼 수\r\n있다.",
+      "zh-Hant": "帶彎曲斧刃，適合新手的斬擊斧。\r\n不論是劍或是斧，皆能流暢地切開\r\n目標。",
+      "zh-Hans": "带有曲线刀刃的初学者用斩斧。无\r\n论是剑还是斧，都可以丝滑地切开\r\n目标。",
+      "ar": "فأس سيف بنصال منحنية للمبتدئين.\r\nيمكن لكل من السيف والفأس\r\nتمزيق الفريسة بسهولة.",
+      "es-419": "Un hacha espada con hojas\r\ncurvadas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        30
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 1
+    }
+  },
+  {
+    "game_id": 12,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "poison",
+      "raw": 20
+    },
+    "names": {
+      "ja": "アイアンアクセルⅡ",
+      "en": "Iron Accelerator II",
+      "fr": "Accélération de fer II",
+      "it": "Acceleratore di ferro II",
+      "de": "Eisenbeschleuniger II",
+      "es": "Acelerador de hierro II",
+      "ru": "Железный ускоритель II",
+      "pl": "Żelazny akcelerator II",
+      "pt-BR": "Acelerador de Ferro II",
+      "ko": "아이언액셀Ⅱ",
+      "zh-Hant": "鋼鐵迅斧Ⅱ",
+      "zh-Hans": "钢铁迅斧Ⅱ",
+      "ar": "المُسرِّع الحديدي 2",
+      "es-419": "Acelerador férreo II"
+    },
+    "descriptions": {
+      "ja": "曲線的な刃をもつ初心者向けの\r\n剣斧。剣でも斧でも、対象を\r\n滑らかに押し切る事ができる。",
+      "en": "A switch axe with curved blades\r\nfor beginners. Both sword and\r\naxe cut easily into prey.",
+      "fr": "Morpho-hache à lames incurvées\r\npour les novices. Idéale pour\r\ntrancher les proies.",
+      "it": "Una spadascia con lame ricurve,\r\nfatta apposta per i principianti.\r\nSia la spada che l'ascia\r\ntrafiggono le prede con facilità.",
+      "de": "Eine Morph-Axt mit gekrümmter\r\nKlinge für Anfänger. Schwert und\r\nAxt schneiden mühelos durch\r\nBeute.",
+      "es": "Hacha espada con hojas\r\ncurvas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente.",
+      "ru": "Выкидной топор с изогнутыми\r\nлезвиями для начинающих. Жертву\r\nможно с лёгкостью разрубить как\r\nмечом, так и топором.",
+      "pl": "Topór sprężynowy o zakrzywionych\r\nostrzach dla początkujących.\r\nZarówno miecz, jak i topór\r\nz łatwością przecinają ofiarę.",
+      "pt-BR": "Transmachado com lâminas curvas\r\npara iniciantes. Tanto a espada\r\nquanto o machado cortam as\r\nvítimas facilmente.",
+      "ko": "곡선형 칼날이 달린 초보자용\r\n슬래시액스. 검과 도끼 모두\r\n대상을 부드럽게 베어낼 수\r\n있다.",
+      "zh-Hant": "帶彎曲斧刃，適合新手的斬擊斧。\r\n不論是劍或是斧，皆能流暢地切開\r\n目標。",
+      "zh-Hans": "带有曲线刀刃的初学者用斩斧。无\r\n论是剑还是斧，都可以丝滑地切开\r\n目标。",
+      "ar": "فأس سيف بنصال منحنية للمبتدئين.\r\nيمكن لكل من السيف والفأس\r\nتمزيق الفريسة بسهولة.",
+      "es-419": "Un hacha espada con hojas\r\ncurvadas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 2
+    }
+  },
+  {
+    "game_id": 13,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "poison",
+      "raw": 23
+    },
+    "names": {
+      "ja": "アイアンアクセルⅢ",
+      "en": "Iron Accelerator III",
+      "fr": "Accélération de fer III",
+      "it": "Acceleratore di ferro III",
+      "de": "Eisenbeschleuniger III",
+      "es": "Acelerador de hierro III",
+      "ru": "Железный ускоритель III",
+      "pl": "Żelazny akcelerator III",
+      "pt-BR": "Acelerador de Ferro III",
+      "ko": "아이언액셀Ⅲ",
+      "zh-Hant": "鋼鐵迅斧Ⅲ",
+      "zh-Hans": "钢铁迅斧Ⅲ",
+      "ar": "المُسرِّع الحديدي 3",
+      "es-419": "Acelerador férreo III"
+    },
+    "descriptions": {
+      "ja": "曲線的な刃をもつ初心者向けの\r\n剣斧。剣でも斧でも、対象を\r\n滑らかに押し切る事ができる。",
+      "en": "A switch axe with curved blades\r\nfor beginners. Both sword and\r\naxe cut easily into prey.",
+      "fr": "Morpho-hache à lames incurvées\r\npour les novices. Idéale pour\r\ntrancher les proies.",
+      "it": "Una spadascia con lame ricurve,\r\nfatta apposta per i principianti.\r\nSia la spada che l'ascia\r\ntrafiggono le prede con facilità.",
+      "de": "Eine Morph-Axt mit gekrümmter\r\nKlinge für Anfänger. Schwert und\r\nAxt schneiden mühelos durch\r\nBeute.",
+      "es": "Hacha espada con hojas\r\ncurvas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente.",
+      "ru": "Выкидной топор с изогнутыми\r\nлезвиями для начинающих. Жертву\r\nможно с лёгкостью разрубить как\r\nмечом, так и топором.",
+      "pl": "Topór sprężynowy o zakrzywionych\r\nostrzach dla początkujących.\r\nZarówno miecz, jak i topór\r\nz łatwością przecinają ofiarę.",
+      "pt-BR": "Transmachado com lâminas curvas\r\npara iniciantes. Tanto a espada\r\nquanto o machado cortam as\r\nvítimas facilmente.",
+      "ko": "곡선형 칼날이 달린 초보자용\r\n슬래시액스. 검과 도끼 모두\r\n대상을 부드럽게 베어낼 수\r\n있다.",
+      "zh-Hant": "帶彎曲斧刃，適合新手的斬擊斧。\r\n不論是劍或是斧，皆能流暢地切開\r\n目標。",
+      "zh-Hans": "带有曲线刀刃的初学者用斩斧。无\r\n论是剑还是斧，都可以丝滑地切开\r\n目标。",
+      "ar": "فأس سيف بنصال منحنية للمبتدئين.\r\nيمكن لكل من السيف والفأس\r\nتمزيق الفريسة بسهولة.",
+      "es-419": "Un hacha espada con hojas\r\ncurvadas para principiantes.\r\nTanto la espada como el hacha\r\ncortan a la presa fácilmente."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 14,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "poison",
+      "raw": 25
+    },
+    "names": {
+      "ja": "クロムアクセル",
+      "en": "Chrome Accelerator",
+      "fr": "Accélération de chrome",
+      "it": "Acceleratore cromato",
+      "de": "Chrombeschleuniger",
+      "es": "Acelerador cromático",
+      "ru": "Блестящий ускоритель",
+      "pl": "Chromowy akcelerator",
+      "pt-BR": "Acelerador Cromado",
+      "ko": "크롬액셀",
+      "zh-Hant": "鉻鋼迅斧",
+      "zh-Hans": "铬钢迅斧",
+      "ar": "مُسرِّع الكروم",
+      "es-419": "Acelerador cromado"
+    },
+    "descriptions": {
+      "ja": "希少な鋼鉄でさらなる強化がされた\r\nアイアンアクセル。最適化により\r\n剣と斧の変形はさらに加速する。",
+      "en": "An upgraded Iron Accelerator\r\nwith a rare steel. Optimization\r\nallows for seamless morphing\r\nbetween modes.",
+      "fr": "Accélération de fer améliorée\r\navec un acier rare. L'optimisation\r\npermet d'alterner facilement\r\nentre les modes.",
+      "it": "Acceleratore di ferro potenziato\r\ncon un raro tipo di acciaio. \r\nL'ottimizzazione permette di\r\ncambiare modalità con facilità.",
+      "de": "Ein mit seltenem Stahl verbes-\r\nserter Eisenbeschleuniger.\r\nOptimiert, um makelloses\r\nMorphen zu ermöglichen.",
+      "es": "Acelerador de hierro mejorado\r\ncon un acero desconocido.\r\nSe ha optimizado para pasar de\r\nun modo a otro de forma fluida.",
+      "ru": "Улучшенный «Железный ускоритель»\r\nиз редкой стали. После доработки\r\nпоразительно легко переходит из\r\nодного режима в другой.",
+      "pl": "Ulepszony żelazny akcelerator\r\nz rzadkiej stali. Optymalizacja\r\npozwala na płynne przełączanie\r\npomiędzy trybami.",
+      "pt-BR": "Machado de Ferro melhorado\r\ncom um aço raro. A otimização\r\npermite uma troca ágil entre\r\nmodos.",
+      "ko": "희귀한 강철로 더욱 강화한\r\n아이언액셀. 최적화를 통해\r\n검과 도끼를 변형하는 속도가\r\n더욱 빨라졌다.",
+      "zh-Hant": "以稀有鋼鐵進一步強化的鋼鐵迅斧。\r\n以最佳設計加快了劍與斧之間的變形\r\n速度。",
+      "zh-Hans": "利用稀有钢铁进一步强化的钢铁迅\r\n斧。通过优化设计，加快了剑与斧\r\n之间的变形速度。",
+      "ar": "مسارع حديدي مطوَّر\r\nبفولاذ نادر.يسمح\r\nالتحسين بالتحوّل السلس\r\nبين الأوضاع.",
+      "es-419": "Un Acelerador férreo mejorado\r\ncon un acero raro. Optimizada\r\npara pasar de un modo a otro\r\nsin problemas."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 2
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 15,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ラバラ・アッシェⅠ",
+      "en": "Barina Hache I",
+      "fr": "Hache Barina",
+      "it": "Hache Barina I",
+      "de": "Barina-Hache I",
+      "es": "Hacha Barina I",
+      "ru": "Бариновый бердыш I",
+      "pl": "Siekiera Bariny I",
+      "pt-BR": "Hache Barina I",
+      "ko": "라바라 아슈Ⅰ",
+      "zh-Hant": "刺花斬擊斧Ⅰ",
+      "zh-Hans": "刺花斩斧Ⅰ",
+      "ar": "فأس بارينا 1",
+      "es-419": "Hacha Barina I"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの素材を使用した\r\n剣斧。花びらから滴るほどに染み\r\n込んだ麻痺毒が獲物の自由を奪う。",
+      "en": "A Lala Barina switch axe. The\r\nparalytic agent dripping from its\r\npetals robs their prey of freedom.",
+      "fr": "Morpho-hache Lala Barina.\r\nL'agent paralysant qui coule\r\nde ses pétales immobilise\r\nl'ennemi.",
+      "it": "Spadascia di Lala Barina.\r\nL'agente paralizzante di cui\r\nsono imbevuti i petali priva la\r\npreda della sua libertà.",
+      "de": "Eine Lala-Barina-Morph-Axt. Das\r\nLähmungsgift, das von der Klinge\r\ntropft, beraubt die Beute ihrer\r\nFreiheit.",
+      "es": "Hacha espada de Lala Barina. El\r\nagente paralizador que vierten\r\nsus pétalos le roba a las presas\r\nsu libertad.",
+      "ru": "Выкидной топор из лалы барины.\r\nПаралитический яд, капающий\r\nс его лепестков, лишает жертву\r\nвозможности сопротивляться.",
+      "pl": "Topór sprężynowy z Lala Bariny.\r\nSubstancja paraliżująca\r\nściekająca z jego płatków\r\npozbawia ofiary wolności.",
+      "pt-BR": "Transmachado de Lala Barina.\r\nO agente paralisante que cai de\r\nsuas pétalas rouba a liberdade\r\nda presa.",
+      "ko": "라바라 바리나의 소재를 사용한\r\n슬래시액스. 꽃잎에 스며든\r\n마비독이 사냥감을 속박한다.",
+      "zh-Hant": "以刺花蜘蛛素材製作的斬擊斧。麻痺\r\n毒液滲滿斧上之花，從花瓣滴落，\r\n奪走獵物的自由。",
+      "zh-Hans": "使用刺花蜘蛛素材制作的斩斧。花\r\n瓣上满溢欲滴的麻痹毒会无情夺去\r\n猎物的自由。",
+      "ar": "فأس سيف (لالا بارينا).\r\nالمادة المشلّة التي تقطر من بتلاته\r\nتحرم فريسته من الحرية.",
+      "es-419": "Hacha espada de Lala Barina.\r\nEl agente paralizador que\r\nvierten sus pétalos le roba\r\na las presas su libertad."
+    },
+    "rarity": 1,
+    "attack_raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 10,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false,
+      "column": 1,
+      "row": 13
+    },
+    "skills": {
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 16,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ラバラ・アッシェⅡ",
+      "en": "Barina Hache II",
+      "fr": "Hache Barina II",
+      "it": "Hache Barina II",
+      "de": "Barina-Hache II",
+      "es": "Hacha Barina II",
+      "ru": "Бариновый бердыш II",
+      "pl": "Siekiera Bariny II",
+      "pt-BR": "Hache Barina II",
+      "ko": "라바라 아슈Ⅱ",
+      "zh-Hant": "刺花斬擊斧Ⅱ",
+      "zh-Hans": "刺花斩斧Ⅱ",
+      "ar": "فأس بارينا 2",
+      "es-419": "Hacha Barina II"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの素材を使用した\r\n剣斧。花びらから滴るほどに染み\r\n込んだ麻痺毒が獲物の自由を奪う。",
+      "en": "A Lala Barina switch axe. The\r\nparalytic agent dripping from its\r\npetals robs their prey of freedom.",
+      "fr": "Morpho-hache Lala Barina.\r\nL'agent paralysant qui coule\r\nde ses pétales immobilise\r\nl'ennemi.",
+      "it": "Spadascia di Lala Barina.\r\nL'agente paralizzante di cui\r\nsono imbevuti i petali priva la\r\npreda della sua libertà.",
+      "de": "Eine Lala-Barina-Morph-Axt. Das\r\nLähmungsgift, das von der Klinge\r\ntropft, beraubt die Beute ihrer\r\nFreiheit.",
+      "es": "Hacha espada de Lala Barina. El\r\nagente paralizador que vierten\r\nsus pétalos le roba a las presas\r\nsu libertad.",
+      "ru": "Выкидной топор из лалы барины.\r\nПаралитический яд, капающий\r\nс его лепестков, лишает жертву\r\nвозможности сопротивляться.",
+      "pl": "Topór sprężynowy z Lala Bariny.\r\nSubstancja paraliżująca\r\nściekająca z jego płatków\r\npozbawia ofiary wolności.",
+      "pt-BR": "Transmachado de Lala Barina.\r\nO agente paralisante que cai de\r\nsuas pétalas rouba a liberdade\r\nda presa.",
+      "ko": "라바라 바리나의 소재를 사용한\r\n슬래시액스. 꽃잎에 스며든\r\n마비독이 사냥감을 속박한다.",
+      "zh-Hant": "以刺花蜘蛛素材製作的斬擊斧。麻痺\r\n毒液滲滿斧上之花，從花瓣滴落，\r\n奪走獵物的自由。",
+      "zh-Hans": "使用刺花蜘蛛素材制作的斩斧。花\r\n瓣上满溢欲滴的麻痹毒会无情夺去\r\n猎物的自由。",
+      "ar": "فأس سيف (لالا بارينا).\r\nالمادة المشلّة التي تقطر من بتلاته\r\nتحرم فريسته من الحرية.",
+      "es-419": "Hacha espada de Lala Barina.\r\nEl agente paralizador que\r\nvierten sus pétalos le roba\r\na las presas su libertad."
+    },
+    "rarity": 3,
+    "attack_raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 17,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ラバラ・アッシェⅢ",
+      "en": "Barina Hache III",
+      "fr": "Hache Barina III",
+      "it": "Hache Barina III",
+      "de": "Barina-Hache III",
+      "es": "Hacha Barina III",
+      "ru": "Бариновый бердыш III",
+      "pl": "Siekiera Bariny III",
+      "pt-BR": "Hache Barina III",
+      "ko": "라바라 아슈Ⅲ",
+      "zh-Hant": "刺花斬擊斧Ⅲ",
+      "zh-Hans": "刺花斩斧Ⅲ",
+      "ar": "فأس بارينا 3",
+      "es-419": "Hacha Barina III"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの素材を使用した\r\n剣斧。花びらから滴るほどに染み\r\n込んだ麻痺毒が獲物の自由を奪う。",
+      "en": "A Lala Barina switch axe. The\r\nparalytic agent dripping from its\r\npetals robs their prey of freedom.",
+      "fr": "Morpho-hache Lala Barina.\r\nL'agent paralysant qui coule\r\nde ses pétales immobilise\r\nl'ennemi.",
+      "it": "Spadascia di Lala Barina.\r\nL'agente paralizzante di cui\r\nsono imbevuti i petali priva la\r\npreda della sua libertà.",
+      "de": "Eine Lala-Barina-Morph-Axt. Das\r\nLähmungsgift, das von der Klinge\r\ntropft, beraubt die Beute ihrer\r\nFreiheit.",
+      "es": "Hacha espada de Lala Barina. El\r\nagente paralizador que vierten\r\nsus pétalos le roba a las presas\r\nsu libertad.",
+      "ru": "Выкидной топор из лалы барины.\r\nПаралитический яд, капающий\r\nс его лепестков, лишает жертву\r\nвозможности сопротивляться.",
+      "pl": "Topór sprężynowy z Lala Bariny.\r\nSubstancja paraliżująca\r\nściekająca z jego płatków\r\npozbawia ofiary wolności.",
+      "pt-BR": "Transmachado de Lala Barina.\r\nO agente paralisante que cai de\r\nsuas pétalas rouba a liberdade\r\nda presa.",
+      "ko": "라바라 바리나의 소재를 사용한\r\n슬래시액스. 꽃잎에 스며든\r\n마비독이 사냥감을 속박한다.",
+      "zh-Hant": "以刺花蜘蛛素材製作的斬擊斧。麻痺\r\n毒液滲滿斧上之花，從花瓣滴落，\r\n奪走獵物的自由。",
+      "zh-Hans": "使用刺花蜘蛛素材制作的斩斧。花\r\n瓣上满溢欲滴的麻痹毒会无情夺去\r\n猎物的自由。",
+      "ar": "فأس سيف (لالا بارينا).\r\nالمادة المشلّة التي تقطر من بتلاته\r\nتحرم فريسته من الحرية.",
+      "es-419": "Hacha espada de Lala Barina.\r\nEl agente paralizador que\r\nvierten sus pétalos le roba\r\na las presas su libertad."
+    },
+    "rarity": 5,
+    "attack_raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 18,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ラバラ・アッシェⅣ",
+      "en": "Barina Hache IV",
+      "fr": "Hache Barina IV",
+      "it": "Hache Barina IV",
+      "de": "Barina-Hache IV",
+      "es": "Hacha Barina IV",
+      "ru": "Бариновый бердыш IV",
+      "pl": "Siekiera Bariny IV",
+      "pt-BR": "Hache Barina IV",
+      "ko": "라바라 아슈Ⅳ",
+      "zh-Hant": "刺花斬擊斧Ⅳ",
+      "zh-Hans": "刺花斩斧Ⅳ",
+      "ar": "فأس بارينا 4",
+      "es-419": "Hacha Barina IV"
+    },
+    "descriptions": {
+      "ja": "ラバラ・バリナの素材を使用した\r\n剣斧。花びらから滴るほどに染み\r\n込んだ麻痺毒が獲物の自由を奪う。",
+      "en": "A Lala Barina switch axe. The\r\nparalytic agent dripping from its\r\npetals robs their prey of freedom.",
+      "fr": "Morpho-hache Lala Barina.\r\nL'agent paralysant qui coule\r\nde ses pétales immobilise\r\nl'ennemi.",
+      "it": "Spadascia di Lala Barina.\r\nL'agente paralizzante di cui\r\nsono imbevuti i petali priva la\r\npreda della sua libertà.",
+      "de": "Eine Lala-Barina-Morph-Axt. Das\r\nLähmungsgift, das von der Klinge\r\ntropft, beraubt die Beute ihrer\r\nFreiheit.",
+      "es": "Hacha espada de Lala Barina. El\r\nagente paralizador que vierten\r\nsus pétalos le roba a las presas\r\nsu libertad.",
+      "ru": "Выкидной топор из лалы барины.\r\nПаралитический яд, капающий\r\nс его лепестков, лишает жертву\r\nвозможности сопротивляться.",
+      "pl": "Topór sprężynowy z Lala Bariny.\r\nSubstancja paraliżująca\r\nściekająca z jego płatków\r\npozbawia ofiary wolności.",
+      "pt-BR": "Transmachado de Lala Barina.\r\nO agente paralisante que cai de\r\nsuas pétalas rouba a liberdade\r\nda presa.",
+      "ko": "라바라 바리나의 소재를 사용한\r\n슬래시액스. 꽃잎에 스며든\r\n마비독이 사냥감을 속박한다.",
+      "zh-Hant": "以刺花蜘蛛素材製作的斬擊斧。麻痺\r\n毒液滲滿斧上之花，從花瓣滴落，\r\n奪走獵物的自由。",
+      "zh-Hans": "使用刺花蜘蛛素材制作的斩斧。花\r\n瓣上满溢欲滴的麻痹毒会无情夺去\r\n猎物的自由。",
+      "ar": "فأس سيف (لالا بارينا).\r\nالمادة المشلّة التي تقطر من بتلاته\r\nتحرم فريسته من الحرية.",
+      "es-419": "Hacha espada de Lala Barina.\r\nEl agente paralizador que\r\nvierten sus pétalos le roba\r\na las presas su libertad."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 19,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "刺花剣斧セレノスミア",
+      "en": "Lala Selenocosmi",
+      "fr": "Lala Selenocosmi",
+      "it": "Lala Selenocosmi",
+      "de": "Lala-Selenocosmi",
+      "es": "Selenocosmi Lala",
+      "ru": "Лала селенокосмия",
+      "pl": "Selenocosmia Lali",
+      "pt-BR": "Lala Selenocosmi",
+      "ko": "자화검부 셀레노스미아",
+      "zh-Hant": "棒刺蛛刺花劍斧",
+      "zh-Hans": "毒蛛刺花斩斧",
+      "ar": "سيلينوكوسمي لالا",
+      "es-419": "Lala Selenocosmi"
+    },
+    "descriptions": {
+      "ja": "新素材を加えて鍛え直したラバラ・\r\nアッシェの改良版。紅に染めた装い\r\nで立ち回る姿は、まさに踊り子。",
+      "en": "An upgraded Barina Hache,\r\nreforged with new materials\r\nthat transform the wielder\r\ninto a scarlet dancer.",
+      "fr": "Hache Barina, reforgée à l'aide\r\nde nouveaux matériaux, qui\r\ntransforme son porteur en\r\ndanseur pourpre.",
+      "it": "Hache Barina potenziata,\r\nriforgiata con nuovi materiali\r\nche trasformano chi la brandisce\r\nin un ballerino scarlatto.",
+      "de": "Verbesserte Barina-Hache mit neuen\r\nMaterialien, die den Träger zu\r\neinem blutroten Tänzer machen.",
+      "es": "Hacha Barina mejorada.\r\nForjada de nuevo con materiales\r\nque convierten al portador\r\nen un bailarín escarlata.",
+      "ru": "Улучшенный «Бариновый бердыш»,\r\nпеределанный с использованием\r\nновых материалов. С ним охотник\r\nобращается в алого танцора.",
+      "pl": "Ulepszony topór z Bariny,\r\nwzmocniony nowymi materiałami,\r\nktóre zmieniają posiadacza\r\nw szkarłatnego tancerza.",
+      "pt-BR": "Hache Barina melhorado.\r\nReforjado com novos materiais,\r\ntransforma quem o usa em uma\r\ndançarina escarlate.",
+      "ko": "신소재를 더해 다시 만든\r\n라바라 아슈 개량판.\r\n붉게 물든 외형이\r\n마치 무용수 같다.",
+      "zh-Hant": "加入新素材重新鍛造的改良版刺花斬\r\n擊斧。揮舞染紅的斬擊斧時，簡直就\r\n像舞姿曼妙的舞者。",
+      "zh-Hans": "加入新素材重新锻造而成的刺花斩斧\r\n改良版。染成红色的斩斧挥舞起来的\r\n姿态宛若舞者。",
+      "ar": "فأس (بارينا) مطوَّر،\r\nمعاد تشكيله بمواد جديدة\r\nتحول حامله إلى راقص قرمزي.",
+      "es-419": "Hacha Barina mejorada. Forjada\r\nde nuevo con materiales que\r\nconvierten al portador en un\r\nbailarín escarlata."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 13
+    },
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 20,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "paralyze",
+      "raw": 16
+    },
+    "names": {
+      "ja": "ゴルババンダールⅠ",
+      "en": "Golba Vandal I",
+      "fr": "Vandale Golba",
+      "it": "Vandalo Golba I",
+      "de": "Golba-Vandale I",
+      "es": "Golba vandálica I",
+      "ru": "Гольба-Вандал I",
+      "pl": "Wandal Golba I",
+      "pt-BR": "Vândalo Golba I",
+      "ko": "골바반달Ⅰ",
+      "zh-Hant": "桃毛異臭斧Ⅰ",
+      "zh-Hans": "桃毛斩斧Ⅰ",
+      "ar": "فأس غولبا 1",
+      "es-419": "Golba vandálica I"
+    },
+    "descriptions": {
+      "ja": "ババコンガの堅い素材を使用して\r\n武器全体の強度を上げた剣斧。\r\n素材から発する匂いはご愛嬌。",
+      "en": "A switch axe built from sturdy\r\nCongalala parts to increase\r\noverall durability—and, uh,\r\nfragrance.",
+      "fr": "Morpho-hache faite à base\r\nde Congalala pour plus de\r\nrésistance. Le fumet qu'elle\r\ndégage fait tout son charme.",
+      "it": "Una spadascia ricavata da solide\r\nparti di Congalala che ne\r\nmigliorano la resistenza...\r\ne l'aroma.",
+      "de": "Eine Morph-Axt aus robusten\r\nCongalala-Teilen, die die\r\nGesamthaltbarkeit – und,\r\näh, das Odeur verstärken.",
+      "es": "Hacha espada forjada con sólidos\r\nmateriales de Congalala que\r\naumentan su durabilidad y su...\r\naroma.",
+      "ru": "Выкидной топор из материалов\r\nс конгалалы, которые придают\r\nему особую прочность и...\r\nспецифический аромат.",
+      "pl": "Topór sprężynowy z wytrzymałych\r\nczęści Kongalali. Zwiększona\r\nogólna trwałość... i smród.",
+      "pt-BR": "Transmachado feito com partes\r\nrígidas de Congalala para\r\nmelhorar sua durabilidade e...\r\nhã... fragrância.",
+      "ko": "바바콩가의 단단한 소재로 만든\r\n튼튼한 슬래시액스.\r\n냄새는 그냥 넘어가 주자.",
+      "zh-Hant": "使用桃毛獸王的堅硬素材提升整體\r\n強度的劍斧。至於素材本身散發的\r\n氣味，就還請多多包涵了。",
+      "zh-Hans": "使用桃毛兽王的坚硬素材来提升整\r\n体强度的斩斧。至于素材上散发出\r\n的气味，还请多多包涵。",
+      "ar": "فأس سيف مصنوعة من أجزاء (كونغالالا)\r\nالقوية لزيادة المتانة الإجمالية\r\nو...اممم، الرائحة.",
+      "es-419": "Hacha espada forjada con partes\r\nde Congalala que aumentan su\r\ndurabilidad y su... aroma."
+    },
+    "rarity": 2,
+    "attack_raw": 120,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        21,
+        26
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 7
+    },
+    "skills": {
+      "-1946345856": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 21,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 60,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "paralyze",
+      "raw": 18
+    },
+    "names": {
+      "ja": "ゴルババンダールⅡ",
+      "en": "Golba Vandal II",
+      "fr": "Vandale Golba II",
+      "it": "Vandalo Golba II",
+      "de": "Golba-Vandale II",
+      "es": "Golba vandálica II",
+      "ru": "Гольба-Вандал II",
+      "pl": "Wandal Golba II",
+      "pt-BR": "Vândalo Golba II",
+      "ko": "골바반달Ⅱ",
+      "zh-Hant": "桃毛異臭斧Ⅱ",
+      "zh-Hans": "桃毛斩斧Ⅱ",
+      "ar": "فأس غولبا 2",
+      "es-419": "Golba vandálica II"
+    },
+    "descriptions": {
+      "ja": "ババコンガの堅い素材を使用して\r\n武器全体の強度を上げた剣斧。\r\n素材から発する匂いはご愛嬌。",
+      "en": "A switch axe built from sturdy\r\nCongalala parts to increase\r\noverall durability—and, uh,\r\nfragrance.",
+      "fr": "Morpho-hache faite à base\r\nde Congalala pour plus de\r\nrésistance. Le fumet qu'elle\r\ndégage fait tout son charme.",
+      "it": "Una spadascia ricavata da solide\r\nparti di Congalala che ne\r\nmigliorano la resistenza...\r\ne l'aroma.",
+      "de": "Eine Morph-Axt aus robusten\r\nCongalala-Teilen, die die\r\nGesamthaltbarkeit – und,\r\näh, das Odeur verstärken.",
+      "es": "Hacha espada forjada con sólidos\r\nmateriales de Congalala que\r\naumentan su durabilidad y su...\r\naroma.",
+      "ru": "Выкидной топор из материалов\r\nс конгалалы, которые придают\r\nему особую прочность и...\r\nспецифический аромат.",
+      "pl": "Topór sprężynowy z wytrzymałych\r\nczęści Kongalali. Zwiększona\r\nogólna trwałość... i smród.",
+      "pt-BR": "Transmachado feito com partes\r\nrígidas de Congalala para\r\nmelhorar sua durabilidade e...\r\nhã... fragrância.",
+      "ko": "바바콩가의 단단한 소재로 만든\r\n튼튼한 슬래시액스.\r\n냄새는 그냥 넘어가 주자.",
+      "zh-Hant": "使用桃毛獸王的堅硬素材提升整體\r\n強度的劍斧。至於素材本身散發的\r\n氣味，就還請多多包涵了。",
+      "zh-Hans": "使用桃毛兽王的坚硬素材来提升整\r\n体强度的斩斧。至于素材上散发出\r\n的气味，还请多多包涵。",
+      "ar": "فأس سيف مصنوعة من أجزاء (كونغالالا)\r\nالقوية لزيادة المتانة الإجمالية\r\nو...اممم، الرائحة.",
+      "es-419": "Hacha espada forjada con partes\r\nde Congalala que aumentan su\r\ndurabilidad y su... aroma."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 7
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    }
+  },
+  {
+    "game_id": 22,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 60,
+      "green": 60,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "paralyze",
+      "raw": 20
+    },
+    "names": {
+      "ja": "グンダババンダール",
+      "en": "Gundava Vandal",
+      "fr": "Vandale Gundava",
+      "it": "Vandalo Gundava",
+      "de": "Gundava-Vandale",
+      "es": "Gundava vandálica",
+      "ru": "Гундава-Вандал",
+      "pl": "Wandal Gundava",
+      "pt-BR": "Vândalo Gundava",
+      "ko": "군다바반달",
+      "zh-Hant": "巨猿惡臭斧",
+      "zh-Hans": "桃毛百战斩斧",
+      "ar": "فأس غوندافا",
+      "es-419": "Gundava vandálica"
+    },
+    "descriptions": {
+      "ja": "幾万の戦いを経ても猶、強度、\r\n匂い、何一つ衰えない。\r\nゴルババンダール強化型。",
+      "en": "An upgraded Golba Vandal.\r\nA thousand battles couldn't\r\nlessen its edge...or aroma.",
+      "fr": "Vandale Golba améliorée. Même\r\naprès mille combats, sa puissance\r\nne s'estompe jamais. Son odeur\r\nnon plus, d'ailleurs.",
+      "it": "Vandalo Golba potenziata.\r\nLe migliaia di battaglie\r\nnon ne hanno scalfito\r\nné la potenza né... l'aroma.",
+      "de": "Eine verbesserte Golba-Vandale.\r\nSelbst tausend Schlachten\r\nkonnten ihre Schärfe nicht\r\nmindern... oder ihr Aroma.",
+      "es": "Golba vandálica mejorada. Esta\r\nveterana de miles de batallas no\r\npierde su fuerza ni su esencia.",
+      "ru": "Улучшенный вариант «Гольба-\r\nВандала». Даже спустя тысячу\r\nбитв он не утратил ни силы,\r\nни запаха.",
+      "pl": "Ulepszony wandal Golba.\r\nNawet tysiąc bitew nie osłabiło\r\njego ostrości... ani woni.",
+      "pt-BR": "Vândalo Golba melhorado.\r\nNem mil batalhas podem\r\nenfraquecer seu gume...\r\nou aroma.",
+      "ko": "수많은 전투를 거쳐도\r\n강도와 냄새는 여전하다.\r\n골바반달의 강화형.",
+      "zh-Hant": "桃毛異臭斧的強化版。歷經無數\r\n惡戰，其強度與氣味仍絲毫不減。",
+      "zh-Hans": "桃毛斩斧的强化形态。历经了数之\r\n不尽的战斗后，强度和气味依然没\r\n有变弱。",
+      "ar": "فأس غولبا فاندال مُطوَّر.\r\nخاض آلاف المعارك،\r\nولم تتبد قوته... ولا رائحته.",
+      "es-419": "Golba vandálica mejorada.\r\nNi mil batallas lograrían que\r\npierda su fuerza... o su aroma."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 21,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 7
+    },
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    }
+  },
+  {
+    "game_id": 23,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 90,
+      "yellow": 90,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "闢暴斧Ⅰ",
+      "en": "Dosha Fleshhacker I",
+      "fr": "Hachoir Dosha",
+      "it": "Tagliapelle Dosha I",
+      "de": "Dosha-Hacker I",
+      "es": "Cortapieles Dosha I",
+      "ru": "Дошагумовый плотеруб I",
+      "pl": "Rozpruwacz Doshy I",
+      "pt-BR": "Rasgacarne Dosha I",
+      "ko": "벽폭부Ⅰ",
+      "zh-Hant": "闢暴斧Ⅰ",
+      "zh-Hans": "辟暴斧Ⅰ",
+      "ar": "دوشا مهشم الأجساد 1",
+      "es-419": "Cortapieles Dosha I"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの暴威を形にした剣斧。\r\n振るわれる刃は獲物に深く\r\n食い込み、骨まで粉砕する。",
+      "en": "A Doshaguma switch axe\r\nas fearsome as the monster\r\nitself. It sinks deep into\r\nprey, shattering bone.",
+      "fr": "Morpho-hache Doshaguma aussi\r\nredoutable que le monstre\r\nlui-même. Elle plonge dans la chair\r\net brise les os.",
+      "it": "Spadascia di Doshaguma,\r\nspaventosa quanto questo mostro.\r\nPenetra in profondità nella\r\npreda, frantumandone le ossa.",
+      "de": "Doshaguma-Morph-Axt, die ebenso\r\nfurchterregend ist wie das Monster\r\nselbst. Sie versinkt tief in ihrer\r\nBeute und zersplittert Knochen.",
+      "es": "Hacha espada de Doshaguma\r\ntan temible como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos.",
+      "ru": "Дошагумовый выкидной топор.\r\nНе менее ужасен, чем сам монстр.\r\nГлубоко вгрызается в плоть\r\nжертвы, раскалывая кости.",
+      "pl": "Topór sprężynowy z Doshagumy\r\nrównie straszny, co sam potwór.\r\nZatapia się głęboko w ciało\r\nofiary, roztrzaskując kości.",
+      "pt-BR": "Transmachado de Doshaguma\r\ntão assustador quanto o monstro.\r\nFaz rasgos profundos, quebrando\r\nossos.",
+      "ko": "도샤구마의 맹위를 형상화한\r\n슬래시액스. 칼날이 사냥감에\r\n깊이 파고들어 뼈까지 부순다.",
+      "zh-Hant": "體現闢獸狂暴本性的斬擊斧。揮舞的\r\n刀刃會深入獵物體內，連骨頭也一併\r\n粉碎。",
+      "zh-Hans": "体现辟兽狂暴本性的斩斧。斧刃可\r\n以砍得很深，将猎物连骨带肉一并\r\n粉碎。",
+      "ar": "فأس سيف (دوشاغوما) مخيفة\r\nمثل الوحش نفسه. تغوص عميقًا\r\nفي الفريسة، محطمةً العظام.",
+      "es-419": "Hacha espada de Doshaguma tan\r\nestremecedora como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos."
+    },
+    "rarity": 2,
+    "attack_raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        24,
+        37,
+        46
+      ],
+      "is_shortcut": false,
+      "column": 2,
+      "row": 9
+    },
+    "skills": {
+      "691199232": 1
+    }
+  },
+  {
+    "game_id": 24,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "闢暴斧Ⅱ",
+      "en": "Dosha Fleshhacker II",
+      "fr": "Hachoir Dosha II",
+      "it": "Tagliapelle Dosha II",
+      "de": "Dosha-Hacker II",
+      "es": "Cortapieles Dosha II",
+      "ru": "Дошагумовый плотеруб II",
+      "pl": "Rozpruwacz Doshy II",
+      "pt-BR": "Rasgacarne Dosha II",
+      "ko": "벽폭부Ⅱ",
+      "zh-Hant": "闢暴斧Ⅱ",
+      "zh-Hans": "辟暴斧Ⅱ",
+      "ar": "دوشا مهشم الأجساد 2",
+      "es-419": "Cortapieles Dosha II"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの暴威を形にした剣斧。\r\n振るわれる刃は獲物に深く\r\n食い込み、骨まで粉砕する。",
+      "en": "A Doshaguma switch axe\r\nas fearsome as the monster\r\nitself. It sinks deep into\r\nprey, shattering bone.",
+      "fr": "Morpho-hache Doshaguma aussi\r\nredoutable que le monstre\r\nlui-même. Elle plonge dans la chair\r\net brise les os.",
+      "it": "Spadascia di Doshaguma,\r\nspaventosa quanto questo mostro.\r\nPenetra in profondità nella\r\npreda, frantumandone le ossa.",
+      "de": "Doshaguma-Morph-Axt, die ebenso\r\nfurchterregend ist wie das Monster\r\nselbst. Sie versinkt tief in ihrer\r\nBeute und zersplittert Knochen.",
+      "es": "Hacha espada de Doshaguma\r\ntan temible como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos.",
+      "ru": "Дошагумовый выкидной топор.\r\nНе менее ужасен, чем сам монстр.\r\nГлубоко вгрызается в плоть\r\nжертвы, раскалывая кости.",
+      "pl": "Topór sprężynowy z Doshagumy\r\nrównie straszny, co sam potwór.\r\nZatapia się głęboko w ciało\r\nofiary, roztrzaskując kości.",
+      "pt-BR": "Transmachado de Doshaguma\r\ntão assustador quanto o monstro.\r\nFaz rasgos profundos, quebrando\r\nossos.",
+      "ko": "도샤구마의 맹위를 형상화한\r\n슬래시액스. 칼날이 사냥감에\r\n깊이 파고들어 뼈까지 부순다.",
+      "zh-Hant": "體現闢獸狂暴本性的斬擊斧。揮舞的\r\n刀刃會深入獵物體內，連骨頭也一併\r\n粉碎。",
+      "zh-Hans": "体现辟兽狂暴本性的斩斧。斧刃可\r\n以砍得很深，将猎物连骨带肉一并\r\n粉碎。",
+      "ar": "فأس سيف (دوشاغوما) مخيفة\r\nمثل الوحش نفسه. تغوص عميقًا\r\nفي الفريسة، محطمةً العظام.",
+      "es-419": "Hacha espada de Doshaguma tan\r\nestremecedora como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos."
+    },
+    "rarity": 4,
+    "attack_raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 23,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 9
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 25,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 90,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "闢暴斧Ⅲ",
+      "en": "Dosha Fleshhacker III",
+      "fr": "Hachoir Dosha III",
+      "it": "Tagliapelle Dosha III",
+      "de": "Dosha-Hacker III",
+      "es": "Cortapieles Dosha III",
+      "ru": "Дошагумовый плотеруб III",
+      "pl": "Rozpruwacz Doshy III",
+      "pt-BR": "Rasgacarne Dosha III",
+      "ko": "벽폭부Ⅲ",
+      "zh-Hant": "闢暴斧Ⅲ",
+      "zh-Hans": "辟暴斧Ⅲ",
+      "ar": "دوشا مهشم الأجساد 3",
+      "es-419": "Cortapieles Dosha III"
+    },
+    "descriptions": {
+      "ja": "ドシャグマの暴威を形にした剣斧。\r\n振るわれる刃は獲物に深く\r\n食い込み、骨まで粉砕する。",
+      "en": "A Doshaguma switch axe\r\nas fearsome as the monster\r\nitself. It sinks deep into\r\nprey, shattering bone.",
+      "fr": "Morpho-hache Doshaguma aussi\r\nredoutable que le monstre\r\nlui-même. Elle plonge dans la chair\r\net brise les os.",
+      "it": "Spadascia di Doshaguma,\r\nspaventosa quanto questo mostro.\r\nPenetra in profondità nella\r\npreda, frantumandone le ossa.",
+      "de": "Doshaguma-Morph-Axt, die ebenso\r\nfurchterregend ist wie das Monster\r\nselbst. Sie versinkt tief in ihrer\r\nBeute und zersplittert Knochen.",
+      "es": "Hacha espada de Doshaguma\r\ntan temible como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos.",
+      "ru": "Дошагумовый выкидной топор.\r\nНе менее ужасен, чем сам монстр.\r\nГлубоко вгрызается в плоть\r\nжертвы, раскалывая кости.",
+      "pl": "Topór sprężynowy z Doshagumy\r\nrównie straszny, co sam potwór.\r\nZatapia się głęboko w ciało\r\nofiary, roztrzaskując kości.",
+      "pt-BR": "Transmachado de Doshaguma\r\ntão assustador quanto o monstro.\r\nFaz rasgos profundos, quebrando\r\nossos.",
+      "ko": "도샤구마의 맹위를 형상화한\r\n슬래시액스. 칼날이 사냥감에\r\n깊이 파고들어 뼈까지 부순다.",
+      "zh-Hant": "體現闢獸狂暴本性的斬擊斧。揮舞的\r\n刀刃會深入獵物體內，連骨頭也一併\r\n粉碎。",
+      "zh-Hans": "体现辟兽狂暴本性的斩斧。斧刃可\r\n以砍得很深，将猎物连骨带肉一并\r\n粉碎。",
+      "ar": "فأس سيف (دوشاغوما) مخيفة\r\nمثل الوحش نفسه. تغوص عميقًا\r\nفي الفريسة، محطمةً العظام.",
+      "es-419": "Hacha espada de Doshaguma tan\r\nestremecedora como el monstruo.\r\nSe hunde en la presa hasta\r\ndestrozarle los huesos."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 9
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 26,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ウズ・オラアチャⅠ",
+      "en": "Uth Olacha I",
+      "fr": "Uth Olacha",
+      "it": "Olacha Uth I",
+      "de": "Uth-Olacha I",
+      "es": "Uth Olacha I",
+      "ru": "Утдуновый топор волн I",
+      "pl": "Uth Olacha I",
+      "pt-BR": "Uth Olacha I",
+      "ko": "우드 올라아차Ⅰ",
+      "zh-Hant": "波衣斬擊斧Ⅰ",
+      "zh-Hans": "波涛斩斧Ⅰ",
+      "ar": "أولاشا أوث 1",
+      "es-419": "Uth Olacha I"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた剣斧。\r\n振り回す勢いは、水面をうねらせ、\r\n獲物をのみ込む波を生み出す。",
+      "en": "An Uth Duna switch axe that\r\nroils the waters with each\r\nswing, raising a tidal wave\r\nto devour prey.",
+      "fr": "Morpho-hache Uth Duna dont\r\nchaque coup soulève un\r\nraz-de-marée qui submerge\r\nla proie.",
+      "it": "Spadascia di Uth Duna che\r\nintorbidisce le acque con ogni\r\ncolpo, sollevando una marea per\r\ndivorare la preda.",
+      "de": "Eine Uth-Duna-Morph-Axt, die\r\nmit jedem Hieb das Wasser zum\r\nSchäumen bringt und eine Flut\r\nloslöst, die Beute vertilgt.",
+      "es": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe y\r\nlevanta un maremoto con el que\r\ndevora a su presa.",
+      "ru": "Утдуновый выкидной топор, каждый\r\nвзмах которого вызывает бурление\r\nвод и поднимает могучую волну,\r\nобрушивающуюся на жертву.",
+      "pl": "Topór sprężynowy z Uth Duny,\r\nktóry wzburza wody każdym\r\nzamachem, wznosząc falę\r\npływową, aby pochłonąć ofiarę.",
+      "pt-BR": "Transmachado de Uth Duna que\r\nagita a água em cada movimento,\r\nfazendo ondas devoradoras de\r\npresas.",
+      "ko": "우드 투나의 소재를 사용한\r\n슬래시액스. 휘두르면 수면을\r\n출렁여 사냥감을 집어삼키는\r\n파도를 만든다.",
+      "zh-Hant": "以波衣龍素材製作的斬擊斧。揮舞時\r\n的餘波會在水面掀起巨浪吞噬獵物。",
+      "zh-Hans": "使用波衣龙素材制作的斩斧。挥舞\r\n时形成的气流扭曲水面，掀起大浪\r\n将猎物吞没。",
+      "ar": "فأس سيف (أوث دونا) تعكر المياه\r\nمع كل ضربة، محدِّثة موجة عاتية\r\nتبتلع الفريسة.",
+      "es-419": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe\r\ny levanta un maremoto con el\r\nque devora a su presa."
+    },
+    "rarity": 3,
+    "attack_raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 8
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 27,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 110,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ウズ・オラアチャⅡ",
+      "en": "Uth Olacha II",
+      "fr": "Uth Olacha II",
+      "it": "Olacha Uth II",
+      "de": "Uth-Olacha II",
+      "es": "Uth Olacha II",
+      "ru": "Утдуновый топор волн II",
+      "pl": "Uth Olacha II",
+      "pt-BR": "Uth Olacha II",
+      "ko": "우드 올라아차Ⅱ",
+      "zh-Hant": "波衣斬擊斧Ⅱ",
+      "zh-Hans": "波涛斩斧Ⅱ",
+      "ar": "أولاشا أوث 2",
+      "es-419": "Uth Olacha II"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた剣斧。\r\n振り回す勢いは、水面をうねらせ、\r\n獲物をのみ込む波を生み出す。",
+      "en": "An Uth Duna switch axe that\r\nroils the waters with each\r\nswing, raising a tidal wave\r\nto devour prey.",
+      "fr": "Morpho-hache Uth Duna dont\r\nchaque coup soulève un\r\nraz-de-marée qui submerge\r\nla proie.",
+      "it": "Spadascia di Uth Duna che\r\nintorbidisce le acque con ogni\r\ncolpo, sollevando una marea per\r\ndivorare la preda.",
+      "de": "Eine Uth-Duna-Morph-Axt, die\r\nmit jedem Hieb das Wasser zum\r\nSchäumen bringt und eine Flut\r\nloslöst, die Beute vertilgt.",
+      "es": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe y\r\nlevanta un maremoto con el que\r\ndevora a su presa.",
+      "ru": "Утдуновый выкидной топор, каждый\r\nвзмах которого вызывает бурление\r\nвод и поднимает могучую волну,\r\nобрушивающуюся на жертву.",
+      "pl": "Topór sprężynowy z Uth Duny,\r\nktóry wzburza wody każdym\r\nzamachem, wznosząc falę\r\npływową, aby pochłonąć ofiarę.",
+      "pt-BR": "Transmachado de Uth Duna que\r\nagita a água em cada movimento,\r\nfazendo ondas devoradoras de\r\npresas.",
+      "ko": "우드 투나의 소재를 사용한\r\n슬래시액스. 휘두르면 수면을\r\n출렁여 사냥감을 집어삼키는\r\n파도를 만든다.",
+      "zh-Hant": "以波衣龍素材製作的斬擊斧。揮舞時\r\n的餘波會在水面掀起巨浪吞噬獵物。",
+      "zh-Hans": "使用波衣龙素材制作的斩斧。挥舞\r\n时形成的气流扭曲水面，掀起大浪\r\n将猎物吞没。",
+      "ar": "فأس سيف (أوث دونا) تعكر المياه\r\nمع كل ضربة، محدِّثة موجة عاتية\r\nتبتلع الفريسة.",
+      "es-419": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe\r\ny levanta un maremoto con el\r\nque devora a su presa."
+    },
+    "rarity": 5,
+    "attack_raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 8
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 28,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ウズ・オラアチャⅢ",
+      "en": "Uth Olacha III",
+      "fr": "Uth Olacha III",
+      "it": "Olacha Uth III",
+      "de": "Uth-Olacha III",
+      "es": "Uth Olacha III",
+      "ru": "Утдуновый топор волн III",
+      "pl": "Uth Olacha III",
+      "pt-BR": "Uth Olacha III",
+      "ko": "우드 올라아차Ⅲ",
+      "zh-Hant": "波衣斬擊斧Ⅲ",
+      "zh-Hans": "波涛斩斧Ⅲ",
+      "ar": "أولاشا أوث 3",
+      "es-419": "Uth Olacha III"
+    },
+    "descriptions": {
+      "ja": "ウズ・トゥナの素材を用いた剣斧。\r\n振り回す勢いは、水面をうねらせ、\r\n獲物をのみ込む波を生み出す。",
+      "en": "An Uth Duna switch axe that\r\nroils the waters with each\r\nswing, raising a tidal wave\r\nto devour prey.",
+      "fr": "Morpho-hache Uth Duna dont\r\nchaque coup soulève un\r\nraz-de-marée qui submerge\r\nla proie.",
+      "it": "Spadascia di Uth Duna che\r\nintorbidisce le acque con ogni\r\ncolpo, sollevando una marea per\r\ndivorare la preda.",
+      "de": "Eine Uth-Duna-Morph-Axt, die\r\nmit jedem Hieb das Wasser zum\r\nSchäumen bringt und eine Flut\r\nloslöst, die Beute vertilgt.",
+      "es": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe y\r\nlevanta un maremoto con el que\r\ndevora a su presa.",
+      "ru": "Утдуновый выкидной топор, каждый\r\nвзмах которого вызывает бурление\r\nвод и поднимает могучую волну,\r\nобрушивающуюся на жертву.",
+      "pl": "Topór sprężynowy z Uth Duny,\r\nktóry wzburza wody każdym\r\nzamachem, wznosząc falę\r\npływową, aby pochłonąć ofiarę.",
+      "pt-BR": "Transmachado de Uth Duna que\r\nagita a água em cada movimento,\r\nfazendo ondas devoradoras de\r\npresas.",
+      "ko": "우드 투나의 소재를 사용한\r\n슬래시액스. 휘두르면 수면을\r\n출렁여 사냥감을 집어삼키는\r\n파도를 만든다.",
+      "zh-Hant": "以波衣龍素材製作的斬擊斧。揮舞時\r\n的餘波會在水面掀起巨浪吞噬獵物。",
+      "zh-Hans": "使用波衣龙素材制作的斩斧。挥舞\r\n时形成的气流扭曲水面，掀起大浪\r\n将猎物吞没。",
+      "ar": "فأس سيف (أوث دونا) تعكر المياه\r\nمع كل ضربة، محدِّثة موجة عاتية\r\nتبتلع الفريسة.",
+      "es-419": "Hacha espada de Uth Duna que\r\nagita las aguas con cada golpe\r\ny levanta un maremoto con el\r\nque devora a su presa."
+    },
+    "rarity": 7,
+    "attack_raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 27,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 8
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 29,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "波濤剣斧オラアチャ",
+      "en": "Olacha-of-the-Waves",
+      "fr": "Olacha-des-vagues",
+      "it": "Olacha delle onde",
+      "de": "Olacha der Wellen",
+      "es": "Olacha de las mareas",
+      "ru": "Топор могучих волн",
+      "pl": "Olacha Fal",
+      "pt-BR": "Olacha das Ondas",
+      "ko": "파도검부 올라아차",
+      "zh-Hant": "狂瀾波濤劍斧",
+      "zh-Hans": "狂澜波涛斩斧",
+      "ar": "أولاشا الأمواج",
+      "es-419": "Olacha de la marea"
+    },
+    "descriptions": {
+      "ja": "押し寄せる波の如き連撃を放つ\r\nウズ・オラアチャの強化版。\r\n荒れ狂う波の前には何者も無力。",
+      "en": "An upgraded Uth Olacha. Like\r\nan inexorable wave, it erases\r\nthe land with no heed for the\r\nlife it takes.",
+      "fr": "Uth Olacha améliorée. Telle\r\nune vague inexorable, elle\r\nsubmerge la terre sans égard\r\npour la vie qu'elle détruit.",
+      "it": "Olacha Uth potenziata.\r\nCome un'onda inesorabile,\r\ncancella la terra senza riguardo\r\nper le vite che distrugge.",
+      "de": "Eine verbesserte Uth-Olacha.\r\nUngeachtet allen Lebens über-\r\nrollt sie wie eine unerbittliche\r\nWelle das Land.",
+      "es": "Uth Olacha mejorada.\r\nComo una ola inexorable,\r\nborra la tierra sin importar\r\nlas vidas que deba segar.",
+      "ru": "Улучшенный вариант «Утдунового\r\nтопора волн». Подобно неотвратимой\r\nволне очищает землю, безжалостно\r\nзабирая жизни.",
+      "pl": "Ulepszony Uth Olacha. Niczym\r\nnieubłagana fala, zmiata ziemię,\r\nnie zważając na życie, które\r\npochłania.",
+      "pt-BR": "Uth Olacha melhorado.\r\nComo uma onda inexorável,\r\napaga a terra sem se importar\r\ncom as vidas que leva.",
+      "ko": "밀려오는 파도처럼 연격하는\r\n우드 올라아차의 강화판.\r\n사나운 파도 앞에서는\r\n모두 무력하다.",
+      "zh-Hant": "強化版波衣斬擊斧，使出的連擊猶如\r\n不停湧來的巨浪。面對狂濤駭浪，\r\n任何人都無力對抗。",
+      "zh-Hans": "波涛斩斧的强化版，宛如层峦叠浪\r\n般释放连击。在它的狂澜面前，任\r\n何人都将无从抵抗。",
+      "ar": "أولاشا أوث مطوَّر. كالموجة\r\nالجارفة، يمحو الأرض دون\r\nاكتراث للحياة التي يزهقها.",
+      "es-419": "Uth Olacha mejorada. Como una\r\nola inexorable, borra la tierra\r\nsin importarle las vidas que se\r\nlleve por delante."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 28,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 8
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 30,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "風戟剣斧Ⅰ",
+      "en": "Windsunder Axe I",
+      "fr": "Hache déchirevent",
+      "it": "Ascia frangibrezza I",
+      "de": "Windsunder-Axt I",
+      "es": "Hacha rompevientos I",
+      "ru": "Рубящий ветер I",
+      "pl": "Topór Wiatrorwacz I",
+      "pt-BR": "Machado Rompeventos I",
+      "ko": "풍극검부Ⅰ",
+      "zh-Hant": "風戟劍斧Ⅰ",
+      "zh-Hans": "风戟斩斧Ⅰ",
+      "ar": "الفأس الممزقة للريح 1",
+      "es-419": "Hacha rompevientos I"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの鋏を組み合わせた剣斧。\r\n穂先と三日月状に突き出た援刃で\r\n突くも薙ぐも自由自在。",
+      "en": "An axe made from Hirabami\r\npincers. Great for both stabbing\r\nand slashing.",
+      "fr": "Hache faite de pinces de\r\nHirabami. Parfaite à la fois\r\npour entailler et transpercer.",
+      "it": "Ascia realizzata con chele\r\ndi Hirabami. Ottima per\r\npugnalare e fendere.",
+      "de": "Eine Axt aus Hirabami-Zangen.\r\nEignet sich sowohl zum Zuste-\r\nchen als auch für Hiebe.",
+      "es": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar y\r\ncortar.",
+      "ru": "Топор из жвалоподобного хвоста\r\nхирабами. Им можно наносить как\r\nрубящие, так и колющие удары.",
+      "pl": "Topór wykonany ze szczypiec\r\nHirabami. Świetny do dźgania\r\ni cięcia.",
+      "pt-BR": "Machado feito com pinças de\r\nHirabami. Ótimo para perfurar\r\ne também para cortar.",
+      "ko": "히라바미의 집게로 만든\r\n슬래시액스. 도끼날과 초승달\r\n같은 보조날로 찌르기도 베기도\r\n자유자재로 할 수 있다.",
+      "zh-Hant": "以風鋏龍的鋏爪組合而成的斬擊斧。\r\n有矛刺與凸出的月牙狀援刃，無論是\r\n突刺還是橫掃都輕鬆自如。",
+      "zh-Hans": "用风铗龙的钳爪拼合而成的斩斧。\r\n主刃的尖端加上呈新月状的副刃，\r\n无论是突刺还是横扫都所向披靡。",
+      "ar": "فأس مصنوعة من كماشة (هيرابامي).\r\nوهي مناسبة للطعن والتقطيع.",
+      "es-419": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar\r\ny cortar."
+    },
+    "rarity": 3,
+    "attack_raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        31,
+        43
+      ],
+      "is_shortcut": false,
+      "column": 3,
+      "row": 3
+    },
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 31,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 90,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "風戟剣斧Ⅱ",
+      "en": "Windsunder Axe II",
+      "fr": "Hache déchirevent II",
+      "it": "Ascia frangibrezza II",
+      "de": "Windsunder-Axt II",
+      "es": "Hacha rompevientos II",
+      "ru": "Рубящий ветер II",
+      "pl": "Topór Wiatrorwacz II",
+      "pt-BR": "Machado Rompeventos II",
+      "ko": "풍극검부Ⅱ",
+      "zh-Hant": "風戟劍斧Ⅱ",
+      "zh-Hans": "风戟斩斧Ⅱ",
+      "ar": "الفأس الممزقة للريح 2",
+      "es-419": "Hacha rompevientos II"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの鋏を組み合わせた剣斧。\r\n穂先と三日月状に突き出た援刃で\r\n突くも薙ぐも自由自在。",
+      "en": "An axe made from Hirabami\r\npincers. Great for both stabbing\r\nand slashing.",
+      "fr": "Hache faite de pinces de\r\nHirabami. Parfaite à la fois\r\npour entailler et transpercer.",
+      "it": "Ascia realizzata con chele\r\ndi Hirabami. Ottima per\r\npugnalare e fendere.",
+      "de": "Eine Axt aus Hirabami-Zangen.\r\nEignet sich sowohl zum Zuste-\r\nchen als auch für Hiebe.",
+      "es": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar y\r\ncortar.",
+      "ru": "Топор из жвалоподобного хвоста\r\nхирабами. Им можно наносить как\r\nрубящие, так и колющие удары.",
+      "pl": "Topór wykonany ze szczypiec\r\nHirabami. Świetny do dźgania\r\ni cięcia.",
+      "pt-BR": "Machado feito com pinças de\r\nHirabami. Ótimo para perfurar\r\ne também para cortar.",
+      "ko": "히라바미의 집게로 만든\r\n슬래시액스. 도끼날과 초승달\r\n같은 보조날로 찌르기도 베기도\r\n자유자재로 할 수 있다.",
+      "zh-Hant": "以風鋏龍的鋏爪組合而成的斬擊斧。\r\n有矛刺與凸出的月牙狀援刃，無論是\r\n突刺還是橫掃都輕鬆自如。",
+      "zh-Hans": "用风铗龙的钳爪拼合而成的斩斧。\r\n主刃的尖端加上呈新月状的副刃，\r\n无论是突刺还是横扫都所向披靡。",
+      "ar": "فأس مصنوعة من كماشة (هيرابامي).\r\nوهي مناسبة للطعن والتقطيع.",
+      "es-419": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar\r\ny cortar."
+    },
+    "rarity": 5,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": true,
+      "column": 5,
+      "row": 3
+    },
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 32,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 130,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "風戟剣斧Ⅲ",
+      "en": "Windsunder Axe III",
+      "fr": "Hache déchirevent III",
+      "it": "Ascia frangibrezza III",
+      "de": "Windsunder-Axt III",
+      "es": "Hacha rompevientos III",
+      "ru": "Рубящий ветер III",
+      "pl": "Topór Wiatrorwacz III",
+      "pt-BR": "Machado Rompeventos III",
+      "ko": "풍극검부Ⅲ",
+      "zh-Hant": "風戟劍斧Ⅲ",
+      "zh-Hans": "风戟斩斧Ⅲ",
+      "ar": "الفأس الممزقة للريح 3",
+      "es-419": "Hacha rompevientos III"
+    },
+    "descriptions": {
+      "ja": "ヒラバミの鋏を組み合わせた剣斧。\r\n穂先と三日月状に突き出た援刃で\r\n突くも薙ぐも自由自在。",
+      "en": "An axe made from Hirabami\r\npincers. Great for both stabbing\r\nand slashing.",
+      "fr": "Hache faite de pinces de\r\nHirabami. Parfaite à la fois\r\npour entailler et transpercer.",
+      "it": "Ascia realizzata con chele\r\ndi Hirabami. Ottima per\r\npugnalare e fendere.",
+      "de": "Eine Axt aus Hirabami-Zangen.\r\nEignet sich sowohl zum Zuste-\r\nchen als auch für Hiebe.",
+      "es": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar y\r\ncortar.",
+      "ru": "Топор из жвалоподобного хвоста\r\nхирабами. Им можно наносить как\r\nрубящие, так и колющие удары.",
+      "pl": "Topór wykonany ze szczypiec\r\nHirabami. Świetny do dźgania\r\ni cięcia.",
+      "pt-BR": "Machado feito com pinças de\r\nHirabami. Ótimo para perfurar\r\ne também para cortar.",
+      "ko": "히라바미의 집게로 만든\r\n슬래시액스. 도끼날과 초승달\r\n같은 보조날로 찌르기도 베기도\r\n자유자재로 할 수 있다.",
+      "zh-Hant": "以風鋏龍的鋏爪組合而成的斬擊斧。\r\n有矛刺與凸出的月牙狀援刃，無論是\r\n突刺還是橫掃都輕鬆自如。",
+      "zh-Hans": "用风铗龙的钳爪拼合而成的斩斧。\r\n主刃的尖端加上呈新月状的副刃，\r\n无论是突刺还是横扫都所向披靡。",
+      "ar": "فأس مصنوعة من كماشة (هيرابامي).\r\nوهي مناسبة للطعن والتقطيع.",
+      "es-419": "Hacha fabricada con pinzas de\r\nHirabami. Ideal para apuñalar\r\ny cortar."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 3
+    },
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 33,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 110,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "風戟剣斧サキバミ",
+      "en": "Windsunder Sakibami",
+      "fr": "Sakibami déchirevent",
+      "it": "Sakibami frangibrezza",
+      "de": "Windsunder-Sakibami",
+      "es": "Sakibami rompevientos",
+      "ru": "Рубящий ветер Сакибами",
+      "pl": "Wiatrorwacz Sakibami",
+      "pt-BR": "Sakibami Rompeventos",
+      "ko": "풍극검부 사키바미",
+      "zh-Hant": "風戟裂蝕劍斧",
+      "zh-Hans": "裂蚀风戟斩斧",
+      "ar": "ساكيبامي ممزق الرياح",
+      "es-419": "Sakibami rompevientos"
+    },
+    "descriptions": {
+      "ja": "凄風を生み出す強化型風戟剣斧。\r\n剛勇で知られた武将が振るい、\r\n常勝をもって生涯を終えたという。",
+      "en": "An upgraded Windsunder Axe\r\nthat can produce powerful gusts.\r\nIt's said to have brought endless\r\nvictory to a brave commander.",
+      "fr": "Hache déchirevent améliorée qui\r\nlibère de puissantes rafales. Elle\r\naurait apporté maintes victoires\r\nà un courageux commandant.",
+      "it": "Ascia frangibrezza potenziata\r\nche genera raffiche potenti.\r\nSi dice abbia regalato numerose\r\nvittorie a un grande comandante.",
+      "de": "Eine verbesserte Windsunder-Axt,\r\ndie mächtige Windböen entfesseln\r\nkann. Soll einem tapferen Komman-\r\ndanten den Sieg gebracht haben.",
+      "es": "Hacha rompevientos mejorada.\r\nProduce vientos muy poderosos,\r\ny se dice que le dio incontables\r\ntriunfos a un audaz comandante.",
+      "ru": "Улучшенный «Рубящий ветер»,\r\nпризывающий мощные шквалы.\r\nГоворят, некогда он принёс много\r\nпобед одному смелому полководцу.",
+      "pl": "Ulepszony topór Wiatrorwacz,\r\nktóry wytwarza potężne powiewy.\r\nPonoć przyniósł niezliczone\r\nzwycięstwa odważnemu dowódcy.",
+      "pt-BR": "Machado Rompeventos melhorado,\r\nque produz rajadas poderosas.\r\nDizem ter trazido intermináveis\r\nvitórias para um comandante.",
+      "ko": "폭풍을 일으키는 강화형\r\n풍극검부. 이것을 쓴 용맹한\r\n장수는 평생 승리했다고 한다.",
+      "zh-Hant": "會颳起暴風的強化版風戟斬擊斧。\r\n據說以剛勇聞名的武將揮舞過這把\r\n斬擊斧，終其一生未嘗敗績。",
+      "zh-Hans": "能够产生狂风的强化版风戟斩斧。\r\n传说曾经有一位以刚勇闻名的武将\r\n凭借它终生无一败绩。",
+      "ar": "الفأس الممزق للريح المطوَّر\r\nيمكنه إنتاج زوابع قوية،\r\nويُقال إنه جلب انتصارات\r\nلا نهاية لها لقائد شجاع.",
+      "es-419": "Hacha rompevientos mejorada que\r\nproduce vientos muy poderosos.\r\nSe dice que le dio infinidad de\r\nvictorias a un valiente comandante."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 32,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 3
+    },
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    }
+  },
+  {
+    "game_id": 34,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 70,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ヌ・ザンユⅠ",
+      "en": "Nu Zhangyu I",
+      "fr": "Nu Zhangyu",
+      "it": "Zhangyu Nu I",
+      "de": "Nu-Zhangyu I",
+      "es": "Nu Zhangyu I",
+      "ru": "Удровый октопод I",
+      "pl": "Nu Zhangyu I",
+      "pt-BR": "Nu Zhangyu I",
+      "ko": "누 장위Ⅰ",
+      "zh-Hant": "獄焰斬擊斧Ⅰ",
+      "zh-Hans": "狱焰斩斧Ⅰ",
+      "ar": "تشانغو نو 1",
+      "es-419": "Nu Zhangyu I"
+    },
+    "descriptions": {
+      "ja": "ヌ・エグドラの力を受け継ぐ剣斧。\r\n黒き怪物が残した刃は、闇に溶け\r\n絶望という悪夢をもたらす。",
+      "en": "A Nu Udra switch axe. A living\r\nmonster, the ebon blade lurks\r\nin the shadows, ready to exact\r\ndespair.",
+      "fr": "Morpho-hache Nu Udra.\r\nSa lame noire monstrueuse\r\nattend dans l'ombre, prête\r\nà infliger la souffrance.",
+      "it": "Spadascia di Nu Udra. Come un\r\nmostro vivente, la lama d'ebano\r\nsi nasconde nelle ombre, pronta\r\na infliggere sofferenze.",
+      "de": "Nu-Udra-Morph-Axt. Die schwarze\r\nKlinge ist ein lebendes Monster,\r\ndas in den Schatten darauf\r\nwartet, Verzweiflung zu bringen.",
+      "es": "Hacha espada de Nu Udra. La hoja\r\nde ébano, un monstruo vivo,\r\nacecha en las sombras, preparada\r\npara infligir dolor.",
+      "ru": "Выкидной топор из ну удры.\r\nПодобно живому монстру, чёрный\r\nклинок таится в тенях, готовый\r\nнести отчаяние.",
+      "pl": "Topór sprężynowy z Nu Udry.\r\nŻyjący potwór, którego hebanowe\r\nostrze czai się w mroku,\r\naby przynieść zgubę.",
+      "pt-BR": "Transmachado de Nu Udra.\r\nUm monstro vivo, sua lâmina\r\nebânea espreita nas sombras,\r\npronta para causar desespero.",
+      "ko": "누 이그드라의 힘을 계승한\r\n슬래시액스. 검은 괴물이 남긴\r\n날은 어둠에 녹아 절망이라는\r\n악몽을 가져온다.",
+      "zh-Hant": "繼承獄焰鱆之力的斬擊斧。漆黑怪物\r\n留下的刀刃會融入黑暗，帶來名為\r\n絕望的惡夢。",
+      "zh-Hans": "继承了狱焰蛸力量的斩斧。漆黑怪\r\n物留下的利刃，将赐予猎物被黑暗\r\n溶蚀的绝望噩梦。",
+      "ar": "فأس سيف (نو أودرا). وحش حي،\r\nيتربص نصله الأسود في الظلال،\r\nجاهزًا لنشر اليأس.",
+      "es-419": "Hacha espada de Nu Udra. La hoja\r\nde ébano, un monstruo vivo,\r\nacecha en las sombras preparada,\r\npara infligir dolor."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 6
+    },
+    "skills": {
+      "-1961116288": 2
+    }
+  },
+  {
+    "game_id": 35,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 90,
+      "green": 70,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ヌ・ザンユⅡ",
+      "en": "Nu Zhangyu II",
+      "fr": "Nu Zhangyu II",
+      "it": "Zhangyu Nu II",
+      "de": "Nu-Zhangyu II",
+      "es": "Nu Zhangyu II",
+      "ru": "Удровый октопод II",
+      "pl": "Nu Zhangyu II",
+      "pt-BR": "Nu Zhangyu II",
+      "ko": "누 장위Ⅱ",
+      "zh-Hant": "獄焰斬擊斧Ⅱ",
+      "zh-Hans": "狱焰斩斧Ⅱ",
+      "ar": "تشانغو نو 2",
+      "es-419": "Nu Zhangyu II"
+    },
+    "descriptions": {
+      "ja": "ヌ・エグドラの力を受け継ぐ剣斧。\r\n黒き怪物が残した刃は、闇に溶け\r\n絶望という悪夢をもたらす。",
+      "en": "A Nu Udra switch axe. A living\r\nmonster, the ebon blade lurks\r\nin the shadows, ready to exact\r\ndespair.",
+      "fr": "Morpho-hache Nu Udra.\r\nSa lame noire monstrueuse\r\nattend dans l'ombre, prête\r\nà infliger la souffrance.",
+      "it": "Spadascia di Nu Udra. Come un\r\nmostro vivente, la lama d'ebano\r\nsi nasconde nelle ombre, pronta\r\na infliggere sofferenze.",
+      "de": "Nu-Udra-Morph-Axt. Die schwarze\r\nKlinge ist ein lebendes Monster,\r\ndas in den Schatten darauf\r\nwartet, Verzweiflung zu bringen.",
+      "es": "Hacha espada de Nu Udra. La hoja\r\nde ébano, un monstruo vivo,\r\nacecha en las sombras, preparada\r\npara infligir dolor.",
+      "ru": "Выкидной топор из ну удры.\r\nПодобно живому монстру, чёрный\r\nклинок таится в тенях, готовый\r\nнести отчаяние.",
+      "pl": "Topór sprężynowy z Nu Udry.\r\nŻyjący potwór, którego hebanowe\r\nostrze czai się w mroku,\r\naby przynieść zgubę.",
+      "pt-BR": "Transmachado de Nu Udra.\r\nUm monstro vivo, sua lâmina\r\nebânea espreita nas sombras,\r\npronta para causar desespero.",
+      "ko": "누 이그드라의 힘을 계승한\r\n슬래시액스. 검은 괴물이 남긴\r\n날은 어둠에 녹아 절망이라는\r\n악몽을 가져온다.",
+      "zh-Hant": "繼承獄焰鱆之力的斬擊斧。漆黑怪物\r\n留下的刀刃會融入黑暗，帶來名為\r\n絕望的惡夢。",
+      "zh-Hans": "继承了狱焰蛸力量的斩斧。漆黑怪\r\n物留下的利刃，将赐予猎物被黑暗\r\n溶蚀的绝望噩梦。",
+      "ar": "فأس سيف (نو أودرا). وحش حي،\r\nيتربص نصله الأسود في الظلال،\r\nجاهزًا لنشر اليأس.",
+      "es-419": "Hacha espada de Nu Udra. La hoja\r\nde ébano, un monstruo vivo,\r\nacecha en las sombras preparada,\r\npara infligir dolor."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 34,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 6
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 36,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 90,
+      "green": 50,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "獄焔剣斧ザンユ",
+      "en": "Abaddonian Zhangyu",
+      "fr": "Zhangyu apocalyptique",
+      "it": "Zhangyu dell'Abaddon",
+      "de": "Abaddons Zhangyu",
+      "es": "Zhangyu de Abaddon",
+      "ru": "Октопод преисподней",
+      "pl": "Abaddońskie Zhangyu",
+      "pt-BR": "Zhangyu Abaddoniano",
+      "ko": "옥염검부 장위",
+      "zh-Hant": "獄焰邪鱆劍斧",
+      "zh-Hans": "恶蛸狱焰斩斧",
+      "ar": "تشانغو أبادوني",
+      "es-419": "Zhangyu abadonés"
+    },
+    "descriptions": {
+      "ja": "絶望を喰らうヌ・ザンユの強化形。\r\n漆黒の怪異から生まれた鎌は、\r\n混沌を纏い命を刈り取る。",
+      "en": "An upgraded Nu Zhangyu. Born\r\nof the black and sustained by\r\ndespair, it sows chaos as it\r\nreaps life.",
+      "fr": "Nu Zhangyu améliorée. Née\r\nde l'obscurité et nourrie par\r\nle désespoir, elle sème le\r\nchaos et arrache la vie.",
+      "it": "Zhangyu Nu potenziata.\r\nNata dall'oscurità e alimentata\r\ndalla disperazione, semina caos\r\ne raccoglie vita.",
+      "de": "Verbesserte Nu-Zhangyu. Geboren\r\nin der Schwärze und genährt von\r\nVerzweiflung. Sät Chaos und\r\nraubt Leben.",
+      "es": "Nu Zhangyu mejorado.\r\nNacido de la oscuridad y\r\nalimentado de desesperación,\r\nsiembra el caos y cosecha vidas.",
+      "ru": "Улучшенный вариант «Удрового\r\nоктопода». Рождённый во тьме\r\nи питаемый отчаянием, он сеет\r\nхаос, пожиная жизнь.",
+      "pl": "Ulepszony Nu Zhangyu. Zrodzony\r\nz czerni i karmiony zgubą, sieje\r\nchaos, zbierając żniwo życia.",
+      "pt-BR": "Nu Zhangyu melhorado.\r\nForjado nas trevas e sustentado\r\npelo desespero, espalha o caos\r\nenquanto ceifa vidas.",
+      "ko": "절망을 삼키는 누 장위\r\n강화형. 칠흑의 괴물로 만든\r\n낫은 혼돈으로 생명을\r\n거둬들인다.",
+      "zh-Hant": "吞噬絕望的強化版獄焰斬擊斧。誕生\r\n自漆黑怪物的鐮刀會攜同混沌收割\r\n生命。",
+      "zh-Hans": "降下绝望的强化版狱焰斩斧。由漆\r\n黑怪异所诞生的镰刀裹挟着混沌，\r\n收割生命。",
+      "ar": "تشانغو نو مطوَّر. وُلد من\r\nالظلام ويستمد قوته من اليأس،\r\nيزرع الفوضى بينما يحصد الحياة.",
+      "es-419": "Nu Zhangyu mejorado. Nacido de\r\nla oscuridad y alimentado de\r\ndesesperación, siembra el caos\r\ny cosecha vidas."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 6
+    },
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "game_id": 37,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 70,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 32
+    },
+    "names": {
+      "ja": "護闢暴斧Ⅰ",
+      "en": "Dosha Gorehacker I",
+      "fr": "Hacharnier Dosha",
+      "it": "Smembratore Dosha I",
+      "de": "Dosha-Leibhacker I",
+      "es": "Cortasangre Dosha I",
+      "ru": "Дошагумовый кромсатель I",
+      "pl": "Rozrywacz Doshy I",
+      "pt-BR": "Hemorrasgo Dosha I",
+      "ko": "호벽폭부Ⅰ",
+      "zh-Hant": "護闢暴斧Ⅰ",
+      "zh-Hans": "护辟暴斧Ⅰ",
+      "ar": "دوشا قاطع اللحم 1",
+      "es-419": "Cortagore Dosha I"
+    },
+    "descriptions": {
+      "ja": "護竜ドシャグマの素材で作られた\r\n剣斧。立ちはだかる者に容赦は\r\n不要、暴怒を以て大地に沈める。",
+      "en": "A Guardian Doshaguma switch\r\naxe. To its defiers it shows\r\nno mercy, scornfully returning\r\nthem to nature.",
+      "fr": "Morpho-hache Doshaguma\r\nGardien. Elle fait retourner\r\nses adversaires à la poussière\r\navec une rage impitoyable.",
+      "it": "Una spadascia di Doshaguma\r\nguardiano. Non ha pietà per i\r\ndetrattori, e li restituisce\r\nviolentemente alla terra.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nDoshaguma-Material. Sie zeigt\r\nkeine Gnade und bringt Gegner\r\nspottend zu Fall.",
+      "es": "Hacha espada de Doshaguma\r\nGuardián. No tiene piedad hacia\r\nquien lo desafía y los devuelve\r\na la tierra con desprecio.",
+      "ru": "Выкидной топор из дошагумы-\r\nстража. С презрением расправляясь\r\nс жертвой, его хозяин возвращает\r\nостанки в лоно природы.",
+      "pl": "Topór sprężynowy z Doshagumy\r\nStrażnika. Nie okazuje litości\r\nswoim przeciwnikom i siłą zwraca\r\nich ziemi.",
+      "pt-BR": "Transmachado de Doshaguma\r\nGuardião. Impiedoso com seus\r\ndesafiantes, os devolve à\r\nnatureza com violência.",
+      "ko": "수호룡 도샤구마 소재로 만든\r\n슬래시액스. 가로막는 자들을\r\n자비 없는 격노로 대지에\r\n잠들게 한다.",
+      "zh-Hant": "以護闢獸素材製作的斬擊斧。面對攔\r\n路之輩毋須留情，以暴怒將其埋葬在\r\n大地吧。",
+      "zh-Hans": "以护辟兽素材制作的斩斧。面对拦\r\n路之辈无需留情，以暴怒将其埋葬于\r\n大地！",
+      "ar": "فأس سيف (دوشاغوما) حارس.\r\nلا يُظهر أي رحمة لمَن يتحداه،\r\nويعيده بازدراء إلى الطبيعة.",
+      "es-419": "Un hacha espada de Doshaguma\r\nGuardián. No muestra piedad\r\nante quien lo desafíe, ya que\r\nlo devuelve al polvo."
+    },
+    "rarity": 4,
+    "attack_raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 23,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 12
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 38,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 110,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 36
+    },
+    "names": {
+      "ja": "護闢暴斧Ⅱ",
+      "en": "Dosha Gorehacker II",
+      "fr": "Hacharnier Dosha II",
+      "it": "Smembratore Dosha II",
+      "de": "Dosha-Leibhacker II",
+      "es": "Cortasangre Dosha II",
+      "ru": "Дошагумовый кромсатель II",
+      "pl": "Rozrywacz Doshy II",
+      "pt-BR": "Hemorrasgo Dosha II",
+      "ko": "호벽폭부Ⅱ",
+      "zh-Hant": "護闢暴斧Ⅱ",
+      "zh-Hans": "护辟暴斧Ⅱ",
+      "ar": "دوشا قاطع اللحم 2",
+      "es-419": "Cortagore Dosha II"
+    },
+    "descriptions": {
+      "ja": "護竜ドシャグマの素材で作られた\r\n剣斧。立ちはだかる者に容赦は\r\n不要、暴怒を以て大地に沈める。",
+      "en": "A Guardian Doshaguma switch\r\naxe. To its defiers it shows\r\nno mercy, scornfully returning\r\nthem to nature.",
+      "fr": "Morpho-hache Doshaguma\r\nGardien. Elle fait retourner\r\nses adversaires à la poussière\r\navec une rage impitoyable.",
+      "it": "Una spadascia di Doshaguma\r\nguardiano. Non ha pietà per i\r\ndetrattori, e li restituisce\r\nviolentemente alla terra.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nDoshaguma-Material. Sie zeigt\r\nkeine Gnade und bringt Gegner\r\nspottend zu Fall.",
+      "es": "Hacha espada de Doshaguma\r\nGuardián. No tiene piedad hacia\r\nquien lo desafía y los devuelve\r\na la tierra con desprecio.",
+      "ru": "Выкидной топор из дошагумы-\r\nстража. С презрением расправляясь\r\nс жертвой, его хозяин возвращает\r\nостанки в лоно природы.",
+      "pl": "Topór sprężynowy z Doshagumy\r\nStrażnika. Nie okazuje litości\r\nswoim przeciwnikom i siłą zwraca\r\nich ziemi.",
+      "pt-BR": "Transmachado de Doshaguma\r\nGuardião. Impiedoso com seus\r\ndesafiantes, os devolve à\r\nnatureza com violência.",
+      "ko": "수호룡 도샤구마 소재로 만든\r\n슬래시액스. 가로막는 자들을\r\n자비 없는 격노로 대지에\r\n잠들게 한다.",
+      "zh-Hant": "以護闢獸素材製作的斬擊斧。面對攔\r\n路之輩毋須留情，以暴怒將其埋葬在\r\n大地吧。",
+      "zh-Hans": "以护辟兽素材制作的斩斧。面对拦\r\n路之辈无需留情，以暴怒将其埋葬于\r\n大地！",
+      "ar": "فأس سيف (دوشاغوما) حارس.\r\nلا يُظهر أي رحمة لمَن يتحداه،\r\nويعيده بازدراء إلى الطبيعة.",
+      "es-419": "Un hacha espada de Doshaguma\r\nGuardián. No muestra piedad\r\nante quien lo desafíe, ya que\r\nlo devuelve al polvo."
+    },
+    "rarity": 6,
+    "attack_raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": true,
+      "column": 6,
+      "row": 12
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 39,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 60,
+      "yellow": 100,
+      "green": 90,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 40
+    },
+    "names": {
+      "ja": "護闢暴斧ガルグマケン",
+      "en": "Gorehacker Urgahaac",
+      "fr": "Hacharnier Urgahaac",
+      "it": "Smembratore Urgahaac",
+      "de": "Leibhacker Urgahaac",
+      "es": "Cortasangre Urgahaac",
+      "ru": "Кромсатель Ургахаака",
+      "pl": "Rozrywacz Urgahaac",
+      "pt-BR": "Urgahaac Hemorrasgo",
+      "ko": "호벽폭부 갈구마켄",
+      "zh-Hant": "北風戰熊護闢暴斧",
+      "zh-Hans": "狂暴护辟暴斧",
+      "ar": "أورغهاك قاطع اللحم",
+      "es-419": "Cortagore Urgahaac"
+    },
+    "descriptions": {
+      "ja": "強化されし護闢暴斧。\r\nこの武器を手にした者は狂暴の化身\r\nとなり、破壊の衝動に支配される。",
+      "en": "An upgraded Dosha Gorehacker.\r\nIts destructive impulses\r\ntransform wielders into\r\nviolence incarnate.",
+      "fr": "Hacharnier Dosha amélioré.\r\nSes pulsions destructrices\r\ntransforment son porteur en\r\nincarnation de la violence.",
+      "it": "Uno smembratore Dosha\r\npotenziato. I suoi impulsi\r\ndistruttivi trasformano i\r\ncombattenti in violenza pura.",
+      "de": "Ein verbesserter Dosha-Leib-\r\nhacker. Seine zerstörerischen\r\nImpulse machen den Träger\r\nzur Verkörperung der Gewalt.",
+      "es": "Cortasangre Dosha mejorado.\r\nSus impulsos destructivos\r\nconvierten al portador\r\nen violencia encarnada.",
+      "ru": "Улучшенный «Дошагумовый\r\nкромсатель». Того, кто берёт\r\nв руки это оружие, обуревает\r\nнеодолимая тяга к жестокости.",
+      "pl": "Ulepszony rozrywacz z Doshy.\r\nNiszczycielskie impulsy\r\nzmieniają jego posiadaczy\r\nwe wcielenie przemocy.",
+      "pt-BR": "Hemorrasgo Dosha melhorado.\r\nSeus impulsos destrutivos\r\ntransformam quem o porta\r\nem violência encarnada.",
+      "ko": "강화된 호벽폭부.\r\n이 무기를 든 자는\r\n광폭의 화신이 되어\r\n파괴 충동에 지배당한다.",
+      "zh-Hant": "強化版護闢暴斧。拿起這把武器的人\r\n會成為狂暴的化身，被破壞的衝動所\r\n支配。",
+      "zh-Hans": "强化后的护辟暴斧。手持此武器之\r\n人将成为狂暴的化身，被破坏的冲\r\n动所支配。",
+      "ar": "دوشا قاطع اللحم المطوَّر.\r\nدوافعه التدميرية تحوّل حامله\r\nإلى تجسيد للعنف.",
+      "es-419": "Versión mejorada del Cortagore\r\nDosha. Sus impulsos destructivos\r\ncorrompen al portador,\r\nencarnando la violencia en él."
+    },
+    "rarity": 8,
+    "attack_raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 12
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 40,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "アルラスグレイブⅠ",
+      "en": "Albirath Flamesplitter I",
+      "fr": "Trancheflamme Albirath",
+      "it": "Sputafiamme Albirath I",
+      "de": "Albirath-Flammenteiler I",
+      "es": "Partellamas Albirath I",
+      "ru": "Огнерез Альбирата I",
+      "pl": "Ogniosiek Albirath I",
+      "pt-BR": "Cindechama Alvirath I",
+      "ko": "알라스글레이브Ⅰ",
+      "zh-Hant": "白斑火龍斬擊斧Ⅰ",
+      "zh-Hans": "白炎斩斧Ⅰ",
+      "ar": "ألبيراث مُفرق اللهب 1",
+      "es-419": "Partellamas Albirath I"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n剣斧。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos switch axe.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+      "fr": "Morpho-hache Rathalos Gardien.\r\nTel un feu ardent, l'esprit de son\r\nporteur jamais ne s'éteint.",
+      "it": "Una spadascia di Rathalos\r\nguardiano. Lo spirito di chi la\r\nimpugna non si placa mai,\r\nproprio come un fuoco ardente.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Hacha espada de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Выкидной топор из раталоса-\r\nстража. Решимость его владельца\r\nподобна бушующему пламени\r\nи никогда не угаснет.",
+      "pl": "Topór sprężynowy z Rathalosa\r\nStrażnika. Niczym płonący ogień,\r\nduch jego posiadacza nigdy\r\nnie słabnie.",
+      "pt-BR": "Transmachado de Rathalos\r\nGuardião. Como um fogo ardente,\r\no espírito de quem o porta nunca\r\nse esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n슬래시액스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的斬擊斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙的素材制作的斩斧。能带\r\n给持有者如熊熊烈火一般绝不屈服\r\n的斗志。",
+      "ar": "فأس سيف (راثالوس) حارس.\r\nروح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un hacha espada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 41,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "アルラスグレイブⅡ",
+      "en": "Albirath Flamesplitter II",
+      "fr": "Trancheflamme Albirath II",
+      "it": "Sputafiamme Albirath II",
+      "de": "Albirath-Flammenteiler II",
+      "es": "Partellamas Albirath II",
+      "ru": "Огнерез Альбирата II",
+      "pl": "Ogniosiek Albirath II",
+      "pt-BR": "Cindechama Alvirath II",
+      "ko": "알라스글레이브Ⅱ",
+      "zh-Hant": "白斑火龍斬擊斧Ⅱ",
+      "zh-Hans": "白炎斩斧Ⅱ",
+      "ar": "ألبيراث مُفرق اللهب 2",
+      "es-419": "Partellamas Albirath II"
+    },
+    "descriptions": {
+      "ja": "護竜リオレウスの素材で作られた\r\n剣斧。燃え盛る炎のように決して\r\n諦めない闘志を持ち手に与える。",
+      "en": "A Guardian Rathalos switch axe.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+      "fr": "Morpho-hache Rathalos Gardien.\r\nTel un feu ardent, l'esprit de son\r\nporteur jamais ne s'éteint.",
+      "it": "Una spadascia di Rathalos\r\nguardiano. Lo spirito di chi la\r\nimpugna non si placa mai,\r\nproprio come un fuoco ardente.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nRathalos-Material. Der Geist\r\ndes Trägers brennt so heiß\r\nwie ein loderndes Feuer.",
+      "es": "Hacha espada de Rathalos\r\nGuardián. Como un fuego\r\narrasador, el espíritu del\r\nportador no amaina.",
+      "ru": "Выкидной топор из раталоса-\r\nстража. Решимость его владельца\r\nподобна бушующему пламени\r\nи никогда не угаснет.",
+      "pl": "Topór sprężynowy z Rathalosa\r\nStrażnika. Niczym płonący ogień,\r\nduch jego posiadacza nigdy\r\nnie słabnie.",
+      "pt-BR": "Transmachado de Rathalos\r\nGuardião. Como um fogo ardente,\r\no espírito de quem o porta nunca\r\nse esmorece.",
+      "ko": "수호룡 리오레우스 소재로 만든\r\n슬래시액스. 장비 사용자에게\r\n타오르는 불꽃처럼 포기를\r\n모르는 투지를 전해준다.",
+      "zh-Hant": "以護火龍素材製作的斬擊斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
+      "zh-Hans": "以护火龙的素材制作的斩斧。能带\r\n给持有者如熊熊烈火一般绝不屈服\r\n的斗志。",
+      "ar": "فأس سيف (راثالوس) حارس.\r\nروح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "es-419": "Un hacha espada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 17,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 42,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 130,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "リオヴァイスグレイブ",
+      "en": "Albirath Blaze Splitter",
+      "fr": "Tranchebrasier Albirath",
+      "it": "Sputafuoco Albirath",
+      "de": "Albirath-Glutentzweier",
+      "es": "Partefuegos de Albirath",
+      "ru": "Пламерез Альбирата",
+      "pl": "Cięcie Ognia Albirath",
+      "pt-BR": "Rompefogo Alvirath",
+      "ko": "리오바이스글레이브",
+      "zh-Hant": "潔白火龍斬擊斧",
+      "zh-Hans": "皓洁白炎斩斧",
+      "ar": "ألبيراث نافث اللهب",
+      "es-419": "Partefuegos Albirath"
+    },
+    "descriptions": {
+      "ja": "強化されしアルラスグレイブ。\r\n白き力の奔流の中に、王たる誇りと\r\n気高き魂を感じることができる。",
+      "en": "An upgraded Albirath\r\nFlamesplitter. A regal soul\r\nrests within its immaculate\r\nflood of power.",
+      "fr": "Trancheflamme Albirath\r\naméliorée. Une âme royale\r\nrepose au sein de son flot\r\nimmaculé de puissance.",
+      "it": "Uno sputafiamme Albirath potenziato.\r\nDietro il grande potere,\r\nse ne percepisce l'anima regale.",
+      "de": "Ein verbesserter Albirath-\r\nFlammenteiler. Eine könig-\r\nliche Seele ruht in seiner\r\nmakellosen Flut aus Macht.",
+      "es": "Partellamas Albirath\r\nmejorada. En la marea\r\nde poder inmaculado,\r\nse percibe un alma regia.",
+      "ru": "Улучшенный «Огнерез Альбирата».\r\nВ потоке чистейшей мощи, который\r\nпронизывает это оружие, нашла\r\nпристанище благородная душа.",
+      "pl": "Ulepszony ogniosiek Albirath.\r\nW jego nieskazitelnej fali mocy\r\nspoczywa królewska dusza.",
+      "pt-BR": "Cindechama de Alvirath melhorada.\r\nUma alma régia repousa em sua\r\nimaculada torrente de poder.",
+      "ko": "강화된 알라스글레이브.\r\n하얀 힘의 흐름 속에서\r\n왕의 자부심과 고귀한 혼을\r\n느낄 수 있다.",
+      "zh-Hant": "強化版白斑火龍斬擊斧。在皓白之力\r\n的奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
+      "zh-Hans": "强化后的白炎斩斧。在皓白之力的\r\n涌流中，可以感受到高贵的王者之\r\n魂。",
+      "ar": "ألبيراث مُفرق اللهب مطوَّر.\r\nتقبع روح راقية وسط\r\nفيض قوته الخالصة.",
+      "es-419": "Partellamas Albirath mejorado.\r\nDentro de su flujo de poder,\r\nse percibe un alma digna de\r\nrealeza."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 41,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 1
+    },
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    }
+  },
+  {
+    "game_id": 43,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "虚無の剣斧Ⅰ",
+      "en": "Nihil Switch Axe I",
+      "fr": "Morpho-hache Nihil",
+      "it": "Spadascia Nihil I",
+      "de": "Nihil-Morph-Axt I",
+      "es": "Hacha espada Nihil I",
+      "ru": "Выкидной топор небытия I",
+      "pl": "Topór sprężyn. Nihil I",
+      "pt-BR": "Transmachado Nihil I",
+      "ko": "허무의 검부Ⅰ",
+      "zh-Hant": "虛無劍斧Ⅰ",
+      "zh-Hans": "虚无斩斧Ⅰ",
+      "ar": "فأس سيف نيهيل 1",
+      "es-419": "Hacha espada Nihil I"
+    },
+    "descriptions": {
+      "ja": "シーウーの素材を用いた剣斧。\r\n摩擦を抑える細身の形状で、骨と肉\r\nすら、物音を立てずに切り落とす。",
+      "en": "A Xu Wu switch axe made to\r\nreduce friction so its slender\r\nedge silently slices flesh\r\nfrom bone.",
+      "fr": "Morpho-hache Xu Wu conçue\r\npour réduire la friction afin que\r\nson fil sépare la chair des os.",
+      "it": "Spadascia di Xu Wu fatta per\r\nridurre l'attrito così che\r\nla sua lama sottile tagli in\r\nsilenzio la carne dalle ossa.",
+      "de": "Eine Xu-Wu-Morph-Axt, die so\r\nwenig Reibung erzeugt, dass\r\ndie schlanke Klinge geräuschlos\r\nFleisch vom Knochen trennt.",
+      "es": "Hacha espada de Xu Wu fabricada\r\npara reducir la fricción, por lo\r\nque su filo delgado corta en\r\nsilencio de la carne al hueso.",
+      "ru": "Выкидной топор из сю ву. Его\r\nтонкое лезвие легко рассекает\r\nплоть, бесшумно отделяя её\r\nот костей.",
+      "pl": "Topór sprężynowy z Xu Wu\r\nminimalizujący tarcie, którego\r\nsmukłe ostrze cicho oddziela\r\nciało od kości.",
+      "pt-BR": "Transmachado de Xu Wu feito\r\npara reduzir a fricção, para que\r\nsua lâmina separe carne e osso\r\nsilenciosamente.",
+      "ko": "시이우의 소재를 사용한\r\n슬래시액스. 얇은 형태로\r\n마찰을 줄여 뼈와 살조차\r\n소리 없이 도려낸다.",
+      "zh-Hant": "以暗器鱆素材製作的斬擊斧。造型\r\n細長，能減少摩擦，無聲無息地\r\n連骨帶肉一併砍斷。",
+      "zh-Hans": "使用暗器蛸素材制作的斩斧。细长\r\n的设计有效降低摩擦力，悄无声息\r\n地连同骨肉一斩两断。",
+      "ar": "فأس سيف (شو وو) مصممة لتقليل الاحتكاك،\r\nبحيث تقطع شفرته الرقيقة\r\nاللحم عن العظم بصمت.",
+      "es-419": "Hacha espada de Xu Wu hecha para\r\nreducir la fricción. Su filo\r\ndelgado corta silenciosamente\r\nde la carne al hueso."
+    },
+    "rarity": 4,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 30,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 4
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 44,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "虚無の剣斧Ⅱ",
+      "en": "Nihil Switch Axe II",
+      "fr": "Morpho-hache Nihil II",
+      "it": "Spadascia Nihil II",
+      "de": "Nihil-Morph-Axt II",
+      "es": "Hacha espada Nihil II",
+      "ru": "Выкидной топор небытия II",
+      "pl": "Topór sprężyn. Nihil II",
+      "pt-BR": "Transmachado Nihil II",
+      "ko": "허무의 검부Ⅱ",
+      "zh-Hant": "虛無劍斧Ⅱ",
+      "zh-Hans": "虚无斩斧Ⅱ",
+      "ar": "فأس سيف نيهيل 2",
+      "es-419": "Hacha espada Nihil II"
+    },
+    "descriptions": {
+      "ja": "シーウーの素材を用いた剣斧。\r\n摩擦を抑える細身の形状で、骨と肉\r\nすら、物音を立てずに切り落とす。",
+      "en": "A Xu Wu switch axe made to\r\nreduce friction so its slender\r\nedge silently slices flesh\r\nfrom bone.",
+      "fr": "Morpho-hache Xu Wu conçue\r\npour réduire la friction afin que\r\nson fil sépare la chair des os.",
+      "it": "Spadascia di Xu Wu fatta per\r\nridurre l'attrito così che\r\nla sua lama sottile tagli in\r\nsilenzio la carne dalle ossa.",
+      "de": "Eine Xu-Wu-Morph-Axt, die so\r\nwenig Reibung erzeugt, dass\r\ndie schlanke Klinge geräuschlos\r\nFleisch vom Knochen trennt.",
+      "es": "Hacha espada de Xu Wu fabricada\r\npara reducir la fricción, por lo\r\nque su filo delgado corta en\r\nsilencio de la carne al hueso.",
+      "ru": "Выкидной топор из сю ву. Его\r\nтонкое лезвие легко рассекает\r\nплоть, бесшумно отделяя её\r\nот костей.",
+      "pl": "Topór sprężynowy z Xu Wu\r\nminimalizujący tarcie, którego\r\nsmukłe ostrze cicho oddziela\r\nciało od kości.",
+      "pt-BR": "Transmachado de Xu Wu feito\r\npara reduzir a fricção, para que\r\nsua lâmina separe carne e osso\r\nsilenciosamente.",
+      "ko": "시이우의 소재를 사용한\r\n슬래시액스. 얇은 형태로\r\n마찰을 줄여 뼈와 살조차\r\n소리 없이 도려낸다.",
+      "zh-Hant": "以暗器鱆素材製作的斬擊斧。造型\r\n細長，能減少摩擦，無聲無息地\r\n連骨帶肉一併砍斷。",
+      "zh-Hans": "使用暗器蛸素材制作的斩斧。细长\r\n的设计有效降低摩擦力，悄无声息\r\n地连同骨肉一斩两断。",
+      "ar": "فأس سيف (شو وو) مصممة لتقليل الاحتكاك،\r\nبحيث تقطع شفرته الرقيقة\r\nاللحم عن العظم بصمت.",
+      "es-419": "Hacha espada de Xu Wu hecha para\r\nreducir la fricción. Su filo\r\ndelgado corta silenciosamente\r\nde la carne al hueso."
+    },
+    "rarity": 6,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 43,
+      "branches": [
+        45
+      ],
+      "is_shortcut": true,
+      "column": 6,
+      "row": 4
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 45,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "暗斧ブルトゥクス",
+      "en": "Brutus's Abolishment",
+      "fr": "Abolition de Brutus",
+      "it": "Abolizione di Bruto",
+      "de": "Brutus’ Beseitigung",
+      "es": "Abolición de Brutus",
+      "ru": "Решимость Маркабрута",
+      "pl": "Wygnanie Brutusa",
+      "pt-BR": "Abolição de Brutus",
+      "ko": "암부 브루투쿠스",
+      "zh-Hant": "暗斧布魯圖斯",
+      "zh-Hans": "布鲁图斯之暗斧",
+      "ar": "إلغاء بروتوس",
+      "es-419": "Abolición de Brutus"
+    },
+    "descriptions": {
+      "ja": "虚無の剣斧の慈悲無き強化版。\r\nこうべを垂れる者には救いを、\r\n牙をむく者には報いを与える。",
+      "en": "An upgraded Nihil Switch Axe.\r\nTo the penitent, it is salvation;\r\nto the recalcitrant, a dire judge.",
+      "fr": "Morpho-hache Nihil améliorée.\r\nPour le pénitent, elle représente\r\nle salut, et pour l'impénitent,\r\nun jugement sans appel.",
+      "it": "Spadascia Nihil potenziata.\r\nPer i penitenti è una salvezza;\r\nper i renitenti è un giudice\r\nterribile.",
+      "de": "Eine verbesserte Nihil-Morph-Axt.\r\nEine Erlösung für die Bußfertigen\r\nund ein strenges Urteil für die\r\nWiderspenstigen.",
+      "es": "Hacha espada Nihil mejorada. Para\r\nel penitente, es la salvación.\r\nPara el reacio, un juez funesto.",
+      "ru": "Улучшенный «Выкидной топор\r\nнебытия». Для кающихся он —\r\nспасение, для бунтарей —\r\nсуровый судья.",
+      "pl": "Ulepszony topór sprężynowy Nihil.\r\nDla pokutujących jest zbawieniem;\r\ndla niepokornych, surowym sędzią.",
+      "pt-BR": "Transmachado Nihil melhorado.\r\nPara o penitente, é a salvação.\r\nPara o rebelde, um juiz atroz.",
+      "ko": "무자비한 허무의 검부 강화판.\r\n고개를 숙이는 자에게 구원을,\r\n거역하는 자에게는 대가를.",
+      "zh-Hant": "殘酷無情的強化版虛無劍斧。\r\n順我者昌，逆我者亡。",
+      "zh-Hans": "虚无斩斧无情而残酷的强化版。它\r\n将赐予谦逊低头者以救赎，并让露\r\n出獠牙者得到他们应得的报应。",
+      "ar": "فأس سيف (نيهيل) مطوَّر.\r\nللتائبين، هي الخلاص؛\r\nوللمتمردين، قاضٍ قاسٍ.",
+      "es-419": "Hacha espada Nihil mejorada.\r\nPara el penitente, es la\r\nsalvación. Para el reacio, un\r\njuez funesto."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 44,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 4
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 46,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ガルシュセキュリスⅠ",
+      "en": "G. Veldian Securis I",
+      "fr": "Securis Arkveld Gardien",
+      "it": "Securis Veldian G. I",
+      "de": "W.-Arkveld-Securis I",
+      "es": "Securis veldiano G. I",
+      "ru": "Вельдстражевый топор I",
+      "pl": "Wiweriań. Securis S. I",
+      "pt-BR": "Securis Veldiano G. I",
+      "ko": "갈슈세쿠리스Ⅰ",
+      "zh-Hant": "護鎖刃斬斧Ⅰ",
+      "zh-Hans": "护锁刃斩斧Ⅰ",
+      "ar": "سيكيوريس فيلديان حارس 1",
+      "es-419": "Securis veldian G. I"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた剣斧。\r\n握った柄から不思議な力が伝わり\r\nあらゆる恐怖を打ち払う。",
+      "en": "A switch axe made from Guardian\r\nspoils. Strange power is conferred\r\nthrough the hilt, quieting all fear.",
+      "fr": "À base de Gardien. Sa poignée\r\nconfère un étrange pouvoir qui\r\nneutralise la peur.",
+      "it": "Una spadascia di resti di\r\nguardiano. L'elsa conferisce un\r\npotere che placa ogni timore.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nMaterial. Vom Griff gehen\r\nseltsame Kräfte aus, die alle\r\nÄngste vertreiben.",
+      "es": "Hacha espada hecha con restos\r\nde un Guardián. La empuñadura\r\nconcede un extraño poder,\r\nque calma cualquier miedo.",
+      "ru": "Выкидной топор из материалов со\r\nстража. Его рукоять пронизывает\r\nзагадочная сила, подавляющая\r\nстрах.",
+      "pl": "Topór sprężynowy wykonany\r\nz pozostałości Strażnika.\r\nCudowna moc emanująca\r\nz rękojeści niszczy strach.",
+      "pt-BR": "Transmachado feito com materiais\r\nde Guardiões. Um estranho poder\r\né contido no punho, acalmando o\r\ntemor.",
+      "ko": "수호룡 소재로 만든\r\n슬래시액스. 무기 손잡이에서\r\n신비한 힘이 전해져 모든\r\n두려움을 떨쳐낸다.",
+      "zh-Hant": "以護龍素材製作的斬擊斧。握住就能\r\n從握柄感到神秘的力量，擊退一切恐\r\n懼。",
+      "zh-Hans": "以护锁刃龙素材制作的斩斧。握住\r\n它的那一刻，手柄处传来不可思议\r\n的力量，驱逐一切恐惧。",
+      "ar": "فأس سيف مصنوع من غنائم وحش حارس.\r\nيمنح قوة غريبة من خلال المقبض،\r\nما يهدئ كل الخوف.",
+      "es-419": "Un hacha espada hecha con restos\r\nde un Guardián. La empuñadura\r\nconcede un extraño poder que\r\ncalma los miedos."
+    },
+    "rarity": 4,
+    "attack_raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 23,
+      "branches": [
+        47
+      ],
+      "is_shortcut": false,
+      "column": 4,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 47,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ガルシュセキュリスⅡ",
+      "en": "G. Veldian Securis II",
+      "fr": "Securis Arkveld Gardien II",
+      "it": "Securis Veldian G. II",
+      "de": "W.-Arkveld-Securis II",
+      "es": "Securis veldiano G. II",
+      "ru": "Вельдстражевый топор II",
+      "pl": "Wiweriań. Securis S. II",
+      "pt-BR": "Securis Veldiano G. II",
+      "ko": "갈슈세쿠리스Ⅱ",
+      "zh-Hant": "護鎖刃斬斧Ⅱ",
+      "zh-Hans": "护锁刃斩斧Ⅱ",
+      "ar": "سيكيوريس فيلديان حارس 2",
+      "es-419": "Securis veldian G. II"
+    },
+    "descriptions": {
+      "ja": "護竜の素材で作られた剣斧。\r\n握った柄から不思議な力が伝わり\r\nあらゆる恐怖を打ち払う。",
+      "en": "A switch axe made from Guardian\r\nspoils. Strange power is conferred\r\nthrough the hilt, quieting all fear.",
+      "fr": "À base de Gardien. Sa poignée\r\nconfère un étrange pouvoir qui\r\nneutralise la peur.",
+      "it": "Una spadascia di resti di\r\nguardiano. L'elsa conferisce un\r\npotere che placa ogni timore.",
+      "de": "Eine Morph-Axt aus Wächter-\r\nMaterial. Vom Griff gehen\r\nseltsame Kräfte aus, die alle\r\nÄngste vertreiben.",
+      "es": "Hacha espada hecha con restos\r\nde un Guardián. La empuñadura\r\nconcede un extraño poder,\r\nque calma cualquier miedo.",
+      "ru": "Выкидной топор из материалов со\r\nстража. Его рукоять пронизывает\r\nзагадочная сила, подавляющая\r\nстрах.",
+      "pl": "Topór sprężynowy wykonany\r\nz pozostałości Strażnika.\r\nCudowna moc emanująca\r\nz rękojeści niszczy strach.",
+      "pt-BR": "Transmachado feito com materiais\r\nde Guardiões. Um estranho poder\r\né contido no punho, acalmando o\r\ntemor.",
+      "ko": "수호룡 소재로 만든\r\n슬래시액스. 무기 손잡이에서\r\n신비한 힘이 전해져 모든\r\n두려움을 떨쳐낸다.",
+      "zh-Hant": "以護龍素材製作的斬擊斧。握住就能\r\n從握柄感到神秘的力量，擊退一切恐\r\n懼。",
+      "zh-Hans": "以护锁刃龙素材制作的斩斧。握住\r\n它的那一刻，手柄处传来不可思议\r\n的力量，驱逐一切恐惧。",
+      "ar": "فأس سيف مصنوع من غنائم وحش حارس.\r\nيمنح قوة غريبة من خلال المقبض،\r\nما يهدئ كل الخوف.",
+      "es-419": "Un hacha espada hecha con restos\r\nde un Guardián. La empuñadura\r\nconcede un extraño poder que\r\ncalma los miedos."
+    },
+    "rarity": 6,
+    "attack_raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 46,
+      "branches": [
+        48,
+        63
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 48,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "護鎖刃剣斧ガルヴァル",
+      "en": "G. Indomitable Perceval",
+      "fr": "Perceval Gardien",
+      "it": "Perceval indomito G.",
+      "de": "Unbeugsamer W. Parzival",
+      "es": "Perceval indómito G.",
+      "ru": "Страж упорства Персиваля",
+      "pl": "Niezłomny Parsifal S.",
+      "pt-BR": "Percival Indomável G.",
+      "ko": "호쇄인검부 갈팔",
+      "zh-Hant": "護鎖刃劍斧珀西瓦里",
+      "zh-Hans": "护锁刃斩斧·珀西瓦里",
+      "ar": "بيرسيفال لا يُقهر حارس",
+      "es-419": "Perceval indómito G."
+    },
+    "descriptions": {
+      "ja": "強化されしガルシュセキュリス。\r\n弱者が手を伸ばした先に得られる、\r\n強者の喉元に届きうる不屈の刃。",
+      "en": "An upgraded G. Veldian Securis.\r\nIts hilt lies in the hands of the\r\nweak; its edge at the throats of\r\ntyrants.",
+      "fr": "Securis Arkveld Gardien\r\naméliorée. Sa poignée galvanise\r\nles faibles tandis que sa lame\r\nterrorise les tyrans.",
+      "it": "Un securis di Veldian guardiano\r\npotenziato. La sua elsa è nelle\r\nmani dei deboli, ma la sua lama\r\nè alla gola dei tiranni.",
+      "de": "Verbesserte W.-Arkveld-Securis.\r\nIhr Griff liegt in den Händen\r\nder Schwachen; ihre Klinge\r\nan der Kehle von Tyrannen.",
+      "es": "Securis veldiano G. mejorado.\r\nSu empuñadura yace en las\r\nmanos de los débiles; su filo,\r\nen los cuellos de tiranos.",
+      "ru": "Улучшенный «Вельдстражевый\r\nтопор». Пока его рукоять в руках\r\nзащитника слабых, лезвие всегда\r\nбудет искать горло тирана.",
+      "pl": "Ulepszony Wiweriański Securis S..\r\nRękojeść powstała w rękach\r\nsłabych, a ostrze przy gardłach\r\ntyranów.",
+      "pt-BR": "Securis Veldiano G. melhorado.\r\nSeu punho está nas mãos dos\r\nfracos; seu gume, na garganta\r\ndos tiranos.",
+      "ko": "강화된 갈슈세쿠리스.\r\n약자가 손을 뻗으면 쥘 수\r\n있는, 강자의 목덜미를\r\n위협할 불굴의 칼날.",
+      "zh-Hant": "強化版護鎖刃斬斧。其柄位於弱者\r\n伸手的盡頭，其刃則能直刺強者的\r\n咽喉。",
+      "zh-Hans": "强化后的护锁刃斩斧。弱者奋力伸\r\n手后所获、直指强者咽喉的不屈之\r\n刃。",
+      "ar": "(سيكيوريس فيلديان) حارس مطوَّر.\r\nيقع مقبضه في أيدي الضعفاء،\r\nوشفرته في حناجر الطغاة. ",
+      "es-419": "Securis veldian Guardián\r\nmejorada. Su empuñadura yace en\r\nmanos de los débiles. Su filo,\r\nen los cuellos de los tiranos."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 47,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 10
+    },
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "game_id": 49,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 90,
+      "orange": 100,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ビークアックスⅠ",
+      "en": "Beak Axe I",
+      "fr": "Hache en bec",
+      "it": "Ascia a becco I",
+      "de": "Schnabel-Axt I",
+      "es": "Hacha pico I",
+      "ru": "Топор-клюв I",
+      "pl": "Dziobowy topór I",
+      "pt-BR": "Machado de Bico I",
+      "ko": "비크액스Ⅰ",
+      "zh-Hant": "巨喙斬擊斧Ⅰ",
+      "zh-Hans": "怪鸟火斧Ⅰ",
+      "ar": "فأس المنقار 1",
+      "es-419": "Hacha pico I"
+    },
+    "descriptions": {
+      "ja": "特徴的なクチバシを徹底的に\r\n研磨加工したイャンクックの剣斧。\r\n刃の鋭さがウリの一品。",
+      "en": "A switch axe made by grinding\r\ndown the Yian Kut-Ku's\r\ndistinctive beak. Want a\r\nsharp blade? This is it.",
+      "fr": "Morpho-hache faite en limant\r\nle fameux bec du Yian Kut-Ku.\r\nEnvie d'une lame aiguisée ?\r\nNe cherchez plus.",
+      "it": "Spadascia creata limando\r\nil becco caratteristico dello\r\nYian Kut-Ku. Serve una lama\r\naffilata? Eccola.",
+      "de": "Eine Morph-Axt aus dem geschlif-\r\nfenen Schnabel des Yian Kut-Ku.\r\nDu suchst nach einer scharfen\r\nSchneide? Hier hast du sie.",
+      "es": "Hacha espada forjada lijando\r\nel pico de un Yian Kut-Ku.\r\n¿Buscas algo afilado?\r\nPues aquí lo tienes.",
+      "ru": "Выкидной топор из отшлифованного\r\nклюва йан-кут-ку. Нужен острый\r\nтопор? Это он.",
+      "pl": "Topór sprężynowy wykonany\r\nz zeszlifowanego dzioba Yian\r\nKut-ku. Chcesz mieć ostrą broń?\r\nOto ona.",
+      "pt-BR": "Transmachado feito ao amolar\r\no distinto bico de um Yian Kut-Ku.\r\nQuer uma lâmina afiada? Achou.",
+      "ko": "특이한 부리를 꼼꼼히 연마해\r\n가공한 얀쿡크의 슬래시액스.\r\n예리한 날이 특징이다.",
+      "zh-Hant": "徹底研磨怪鳥極具特色的鳥喙製成的\r\n斬擊斧。賣點是斧刃的鋒利度。",
+      "zh-Hans": "将怪鸟奇特的喙进行彻底的研磨加\r\n工后，制作而成的斩斧。锋利度是\r\n其最大卖点。",
+      "ar": "فأس سيف مصنوعة عن طريق\r\nطحن منقار (يان كوت-كو) المميز.\r\nإن كنت <LSNR \"تريد\" \"تريدين\"> نصلًا حادًا؟ فهذا\r\nهو الخيار الأمثل.",
+      "es-419": "Hacha espada forjada con el pico\r\nmolido de un Yian Kut-Ku.\r\n¿Buscas algo afilado? Aquí lo\r\ntienes."
+    },
+    "rarity": 5,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 26,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        50,
+        55
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 14
+    },
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "game_id": 50,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 110,
+      "yellow": 30,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ビークアックスⅡ",
+      "en": "Beak Axe II",
+      "fr": "Hache en bec II",
+      "it": "Ascia a becco II",
+      "de": "Schnabel-Axt II",
+      "es": "Hacha pico II",
+      "ru": "Топор-клюв II",
+      "pl": "Dziobowy topór II",
+      "pt-BR": "Machado de Bico II",
+      "ko": "비크액스Ⅱ",
+      "zh-Hant": "巨喙斬擊斧Ⅱ",
+      "zh-Hans": "怪鸟火斧Ⅱ",
+      "ar": "فأس المنقار 2",
+      "es-419": "Hacha pico II"
+    },
+    "descriptions": {
+      "ja": "特徴的なクチバシを徹底的に\r\n研磨加工したイャンクックの剣斧。\r\n刃の鋭さがウリの一品。",
+      "en": "A switch axe made by grinding\r\ndown the Yian Kut-Ku's\r\ndistinctive beak. Want a\r\nsharp blade? This is it.",
+      "fr": "Morpho-hache faite en limant\r\nle fameux bec du Yian Kut-Ku.\r\nEnvie d'une lame aiguisée ?\r\nNe cherchez plus.",
+      "it": "Spadascia creata limando\r\nil becco caratteristico dello\r\nYian Kut-Ku. Serve una lama\r\naffilata? Eccola.",
+      "de": "Eine Morph-Axt aus dem geschlif-\r\nfenen Schnabel des Yian Kut-Ku.\r\nDu suchst nach einer scharfen\r\nSchneide? Hier hast du sie.",
+      "es": "Hacha espada forjada lijando\r\nel pico de un Yian Kut-Ku.\r\n¿Buscas algo afilado?\r\nPues aquí lo tienes.",
+      "ru": "Выкидной топор из отшлифованного\r\nклюва йан-кут-ку. Нужен острый\r\nтопор? Это он.",
+      "pl": "Topór sprężynowy wykonany\r\nz zeszlifowanego dzioba Yian\r\nKut-ku. Chcesz mieć ostrą broń?\r\nOto ona.",
+      "pt-BR": "Transmachado feito ao amolar\r\no distinto bico de um Yian Kut-Ku.\r\nQuer uma lâmina afiada? Achou.",
+      "ko": "특이한 부리를 꼼꼼히 연마해\r\n가공한 얀쿡크의 슬래시액스.\r\n예리한 날이 특징이다.",
+      "zh-Hant": "徹底研磨怪鳥極具特色的鳥喙製成的\r\n斬擊斧。賣點是斧刃的鋒利度。",
+      "zh-Hans": "将怪鸟奇特的喙进行彻底的研磨加\r\n工后，制作而成的斩斧。锋利度是\r\n其最大卖点。",
+      "ar": "فأس سيف مصنوعة عن طريق\r\nطحن منقار (يان كوت-كو) المميز.\r\nإن كنت <LSNR \"تريد\" \"تريدين\"> نصلًا حادًا؟ فهذا\r\nهو الخيار الأمثل.",
+      "es-419": "Hacha espada forjada con el pico\r\nmolido de un Yian Kut-Ku.\r\n¿Buscas algo afilado? Aquí lo\r\ntienes."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 32,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 49,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 14
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 51,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 120,
+      "yellow": 20,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ビークックアックス",
+      "en": "Sawbill Axe",
+      "fr": "Hache gros-bec",
+      "it": "Ascia a sega",
+      "de": "Großschnabel-Axt",
+      "es": "Hacha serrucho",
+      "ru": "Топор-крохаль",
+      "pl": "Topór piłodzioby",
+      "pt-BR": "Machado de Serração",
+      "ko": "비쿡크액스",
+      "zh-Hant": "怪鳥巨啄斧",
+      "zh-Hans": "怪鸟撕裂火斧",
+      "ar": "فأس المنشار",
+      "es-419": "Hacha serrucho"
+    },
+    "descriptions": {
+      "ja": "ビークアックスの強化形は、\r\n全てを切り裂き、焼き尽す。\r\nさながら猛る怪鳥のように。",
+      "en": "An upgraded Beak Axe, one nasty\r\nbird that's ready to raze the world\r\nand dare all to stop it.",
+      "fr": "Hache en bec améliorée,\r\nprête à détruire le monde\r\nsans que quiconque ne\r\npuisse l'arrêter.",
+      "it": "Ascia a becco potenziata.\r\nInfuria per distruggere il mondo\r\ne chiunque osi ostacolarla.",
+      "de": "Eine verbesserte Schnabel-Axt.\r\nDieser fiese Vogel ist bereit,\r\ndie Welt zu verwüsten und alle\r\nherauszufordern, ihn aufzuhalten.",
+      "es": "Hacha pico mejorada.\r\nDel mismo modo que el iracundo\r\nYian Kut-Ku, ataca sin control\r\ny deja un reguero de ceniza.",
+      "ru": "Улучшенный вариант «Топора-клюва».\r\nСловно яростный йан-кут-ку,\r\nобращает в прах всё на своём\r\nпути.",
+      "pl": "Ulepszony dziobowy topór to paskudne\r\nptaszysko, gotowe zrównać świat z ziemią\r\ni pokonać każdego, kto stanie mu na drodze.",
+      "pt-BR": "Machado de Bico melhorado.\r\nUm pássaro terrível, pronto\r\npara destruir o mundo e todos\r\nque entrarem em seu caminho.",
+      "ko": "비크액스의 강화형은\r\n모든 것을 찢고 불태운다.\r\n마치 사나운 괴조처럼.",
+      "zh-Hant": "巨喙斬擊斧的強化版，削鐵如泥、\r\n燃盡一切，有如威猛無比的怪鳥。",
+      "zh-Hans": "怪鸟火斧的强化形态。犹如凶猛的\r\n怪鸟一般，能将万物撕碎烧毁。",
+      "ar": "فأس المنقار المطوَّر،\r\nيخترق كل شيء في طريقه،\r\nتاركًا الرماد في أعقابه.",
+      "es-419": "Hacha pico mejorada, un pájaro\r\nasqueroso que está dispuesto a\r\narrasar el mundo y desafiar a\r\ntodos a detenerlo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 14
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 52,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "竜姫の剣斧Ⅰ",
+      "en": "Dragonmaiden Axe I",
+      "fr": "Princesse dragon",
+      "it": "Ascia dama del drago I",
+      "de": "Drachenmagdaxt I",
+      "es": "Hacha dracodoncella I",
+      "ru": "Топор воительницы I",
+      "pl": "Topór Smoczej Panny I",
+      "pt-BR": "Machado Draguerreira I",
+      "ko": "용희의검부Ⅰ",
+      "zh-Hant": "龍姬劍斧Ⅰ",
+      "zh-Hans": "龙姬斩斧Ⅰ",
+      "ar": "فأس عذراء التنين 1",
+      "es-419": "Hacha dracodoncella I"
+    },
+    "descriptions": {
+      "ja": "麗しくも凛々しき戦場の姫君に捧げ\r\nたリオレイアの剣斧。汚れ無きその\r\n姿は返り血を浴びても変わらない。",
+      "en": "A Rathian switch axe that was\r\nonce given to a war maiden so\r\nbrave and pure that no blood\r\ncould sully her.",
+      "fr": "Morpho-hache Rathian offerte\r\nà une guerrière si vertueuse\r\net téméraire qu'aucun sang\r\nne pouvait la souiller.",
+      "it": "Spadascia di Rathian che fu\r\ndonata a una giovane così\r\ncoraggiosa e pura che il sangue\r\nnon avrebbe potuto macchiarla.",
+      "de": "Diese Rathian-Morph-Axt wurde\r\neinst einer Kriegsmagd vermacht,\r\ndie so mutig und rein war, dass\r\nkein Blut sie besudeln konnte.",
+      "es": "Hacha espada de Rathian que\r\nrecibió una doncella de batalla\r\ntan pura y valiente que nada la\r\npudo mancillar.",
+      "ru": "Выкидной топор из материалов\r\nс ратианы, которым владела столь\r\nхрабрая и непорочная дева,\r\nчто кровь не могла запятнать её.",
+      "pl": "Topór sprężynowy z Rathiany\r\nprzekazany niegdyś wojowniczej\r\ndziewicy tak odważnej i czystej,\r\nże żadna krew jej nie splamiła.",
+      "pt-BR": "Transmachado de Rathian que\r\noutrora foi presenteado a uma\r\nguerreira tão corajosa e pura\r\nque sangue não podia manchá-la.",
+      "ko": "전장에 선 공주에게 바친\r\n리오레이아의 슬래시액스.\r\n무결한 자태는 피를 뒤집어써도\r\n변할 줄을 모른다.",
+      "zh-Hant": "雌火龍斬擊斧乃獻給戰場上秀麗又\r\n威風的公主之物。那純潔的身影即\r\n使沾滿敵人鮮血，也依舊美麗。",
+      "zh-Hans": "雌火龙的斩斧，献给战场上端庄威\r\n严的公主。其纯白无瑕的身姿，即\r\n便浑身浴血依然美丽动人。",
+      "ar": "فأس سيف مصنوعة من (راثيان).\r\nأُعطيت ذات مرة لفتاة حرب شجاعة ونقية\r\nلدرجة أنه لا يمكن لأي دم أن يلوثها.",
+      "es-419": "Hacha espada de Rathian que\r\nrecibió una doncella de batalla\r\ntan pura y valiente que nada la\r\npudo mancillar."
+    },
+    "rarity": 5,
+    "attack_raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        53,
+        59
+      ],
+      "is_shortcut": false,
+      "column": 5,
+      "row": 16
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    }
+  },
+  {
+    "game_id": 53,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 110,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "竜姫の剣斧Ⅱ",
+      "en": "Dragonmaiden Axe II",
+      "fr": "Princesse dragon II",
+      "it": "Ascia dama del drago II",
+      "de": "Drachenmagdaxt II",
+      "es": "Hacha dracodoncella II",
+      "ru": "Топор воительницы II",
+      "pl": "Topór Smoczej Panny II",
+      "pt-BR": "Machado Draguerreira II",
+      "ko": "용희의검부Ⅱ",
+      "zh-Hant": "龍姬劍斧Ⅱ",
+      "zh-Hans": "龙姬斩斧Ⅱ",
+      "ar": "فأس عذراء التنين 2",
+      "es-419": "Hacha dracodoncella II"
+    },
+    "descriptions": {
+      "ja": "麗しくも凛々しき戦場の姫君に捧げ\r\nたリオレイアの剣斧。汚れ無きその\r\n姿は返り血を浴びても変わらない。",
+      "en": "A Rathian switch axe that was\r\nonce given to a war maiden so\r\nbrave and pure that no blood\r\ncould sully her.",
+      "fr": "Morpho-hache Rathian offerte\r\nà une guerrière si vertueuse\r\net téméraire qu'aucun sang\r\nne pouvait la souiller.",
+      "it": "Spadascia di Rathian che fu\r\ndonata a una giovane così\r\ncoraggiosa e pura che il sangue\r\nnon avrebbe potuto macchiarla.",
+      "de": "Diese Rathian-Morph-Axt wurde\r\neinst einer Kriegsmagd vermacht,\r\ndie so mutig und rein war, dass\r\nkein Blut sie besudeln konnte.",
+      "es": "Hacha espada de Rathian que\r\nrecibió una doncella de batalla\r\ntan pura y valiente que nada la\r\npudo mancillar.",
+      "ru": "Выкидной топор из материалов\r\nс ратианы, которым владела столь\r\nхрабрая и непорочная дева,\r\nчто кровь не могла запятнать её.",
+      "pl": "Topór sprężynowy z Rathiany\r\nprzekazany niegdyś wojowniczej\r\ndziewicy tak odważnej i czystej,\r\nże żadna krew jej nie splamiła.",
+      "pt-BR": "Transmachado de Rathian que\r\noutrora foi presenteado a uma\r\nguerreira tão corajosa e pura\r\nque sangue não podia manchá-la.",
+      "ko": "전장에 선 공주에게 바친\r\n리오레이아의 슬래시액스.\r\n무결한 자태는 피를 뒤집어써도\r\n변할 줄을 모른다.",
+      "zh-Hant": "雌火龍斬擊斧乃獻給戰場上秀麗又\r\n威風的公主之物。那純潔的身影即\r\n使沾滿敵人鮮血，也依舊美麗。",
+      "zh-Hans": "雌火龙的斩斧，献给战场上端庄威\r\n严的公主。其纯白无瑕的身姿，即\r\n便浑身浴血依然美丽动人。",
+      "ar": "فأس سيف مصنوعة من راثيان\r\nأُعطيت ذات مرة لفتاة حرب شجاعة ونقية\r\nلدرجة أنه لا يمكن لأي دم أن يلوثها.",
+      "es-419": "Hacha espada de Rathian que\r\nrecibió una doncella de batalla\r\ntan pura y valiente que nada la\r\npudo mancillar."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 52,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 16
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 54,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 100,
+      "blue": 30,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "ランドグリーズ",
+      "en": "Gríðr's Landmaker",
+      "fr": "Terre de Gríðr",
+      "it": "Fenditerra di Gríðr",
+      "de": "Gríðrs Landmacher",
+      "es": "Creatierra de Gríðr",
+      "ru": "Размечатель Гридра",
+      "pl": "Zdobywca terenu Gríðr",
+      "pt-BR": "Faz-terra de Gríðr",
+      "ko": "랜드그리즈",
+      "zh-Hant": "破盾者",
+      "zh-Hans": "破盾者",
+      "ar": "صانع أرض جريور",
+      "es-419": "Creatierra de Gríðr"
+    },
+    "descriptions": {
+      "ja": "竜姫の剣斧の強化型。戦場を駆けた\r\n姫君の横顔は、赤き血の旋風の中で\r\nより美しく輝く。",
+      "en": "An upgraded Dragonmaiden\r\nAxe. Never did she cut so fine\r\na figure, untouched among the\r\nscarlet blood.",
+      "fr": "Princesse dragon améliorée.\r\nMême couverte de sang, elle\r\ndégage une beauté radieuse.",
+      "it": "Ascia dama del drago potenziata\r\nche fa risplendere ancora di più\r\nle fanciulle coperte di sangue.",
+      "de": "Eine verbesserte Drachenmagd-\r\naxt. Ihre Schönheit strahlt,\r\nselbst wenn sie in Blut gebadet\r\nist.",
+      "es": "Hacha dracodoncella mejorada.\r\nIrradia belleza en estado puro,\r\nincluso cuando está bañada\r\nen la sangre de sus víctimas.",
+      "ru": "Улучшенный вариант «Топора\r\nвоительницы». С ним обагрённая\r\nкровью воительница выглядит\r\nещё прекраснее.",
+      "pl": "Ulepszony topór Smoczej Panny.\r\nNigdy nie prezentowała się tak\r\ndoskonale, nietknięta pośród\r\nszkarłatnej krwi.",
+      "pt-BR": "Machado Draguerreira melhorado.\r\nSua beleza é irradiante, ainda\r\nmais encharcada com o sangue\r\nescarlate dos inimigos.",
+      "ko": "강화형 용희의 검부. 전장을\r\n달리는 공주의 모습은 피바람\r\n속에서 더 아름답게 빛난다.",
+      "zh-Hant": "龍姬劍斧的強化版。公主於戰場上\r\n騁馳，側臉在血紅的旋風中閃耀，\r\n更顯美麗。",
+      "zh-Hans": "龙姬斩斧的强化型。公主驰骋于战\r\n场的侧脸，在鲜血旋风的衬托下更\r\n显光彩。",
+      "ar": "فأس عذراء التنين مطوَّر.\r\nجماله يشع، حتى عندما\r\nتغمره الدماء.",
+      "es-419": "Hacha dracodoncella mejorada.\r\nSu belleza irradia, incluso\r\nestando bañada en sangre."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "poison",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 53,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 16
+    },
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "game_id": 55,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "シスカ＝アルジャナルⅠ",
+      "en": "Morphing Fulgur I",
+      "fr": "Tonnerre changeant",
+      "it": "Folgore mutante I",
+      "de": "Wandelnder Fulgur I",
+      "es": "Fulgur transformador I",
+      "ru": "Громовой армаморф I",
+      "pl": "Metamorficzny Piorun I",
+      "pt-BR": "Fulgor Mutante I",
+      "ko": "시스카알쟈나르Ⅰ",
+      "zh-Hant": "雷顎白斧Ⅰ",
+      "zh-Hans": "护雷白斧Ⅰ",
+      "ar": "رعدي متحول 1",
+      "es-419": "Fulgur transformador I"
+    },
+    "descriptions": {
+      "ja": "護竜アンジャナフ亜種の素材で\r\n作られた剣斧。蛮勇の力を理性で\r\n抑え込める者のみが扱える武器。",
+      "en": "A Guardian Fulgur Anjanath\r\nswitch axe. Only one able to\r\ntame its brutality through\r\nreason can wield it.",
+      "fr": "Morpho-hache Anjanath tonnerre\r\nGardien. Seuls ceux pouvant\r\ndompter sa brutalité par la\r\nraison peuvent la manier.",
+      "it": "Una spadascia di Anjanath tonante\r\nguardiano. Potrà essere brandita\r\nsolo da chi saprà domare la\r\nsua brutalità con la ragione.",
+      "de": "Eine Wächter-Flugur-Anjanath-\r\nMorph-Axt. Nur wer ihre Bru-\r\ntalität mit Vernunft zähmt,\r\nkann sie führen.",
+      "es": "Hacha espada de Anjanath Fulgúreo\r\nGuardián. Solo podrán empuñarlo\r\nquienes logren domar su\r\nbrutalidad a través de la razón.",
+      "ru": "Выкидной топор из громового\r\nаньяната-стража. Покорится лишь\r\nтому, кто сможет обуздать его\r\nжестокость силой разума.",
+      "pl": "Topór sprężynowy z Piorunowego\r\nAnjanatha Strażnika. Może nim\r\nwładać tylko ten, kto okiełzna\r\njego brutalność rozumem.",
+      "pt-BR": "Transmachado de Anjanath\r\nGuardião. Apenas quem domar sua\r\nbrutalidade usando a razão será\r\ncapaz de usá-lo.",
+      "ko": "수호룡 안쟈나프 아종 소재로\r\n만든 슬래시액스. 야만의 힘을\r\n이성으로 억제하는 능력이\r\n있어야 다룰 수 있다.",
+      "zh-Hant": "以護雷顎龍素材製作的斬擊斧。唯有\r\n以理性壓抑蠻力，才能用上這武器。",
+      "zh-Hans": "使用护雷颚龙素材制作的斩斧。唯\r\n有能以理性抑制蛮勇之力者方可使\r\n用。",
+      "ar": "فأس سيف (أنجاناث) رعدي حارس.\r\nلا يستطيع حملها سوى القادر\r\nعلى ترويض وحشيتها بحكمة.",
+      "es-419": "Un hacha espada de Anjanath\r\nFulgúreo Guardián. Solo quien\r\npueda dominar su brutalidad\r\na través de la razón podrá portarla."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 49,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 15
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 56,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "護雷剣斧シスカガルデ",
+      "en": "Fulgurswitch Guardiana",
+      "fr": "Morpho tonnerre Guardiana",
+      "it": "Colpo tonante G.",
+      "de": "Fulgurmorph-Guardiana",
+      "es": "Fulgohacha G.",
+      "ru": "Топор громостража",
+      "pl": "Sprężopiorun Strażnika",
+      "pt-BR": "Fulgurgatilho Guardiano",
+      "ko": "호뢰검부 시스카가르데",
+      "zh-Hant": "護雷劍斧守衛之斧",
+      "zh-Hans": "强击护雷斩斧",
+      "ar": "رعدي متبدل حارس",
+      "es-419": "Fulgur hacha Guardiana"
+    },
+    "descriptions": {
+      "ja": "シスカ＝アルジャナルの強化形。\r\n理を曲げるほどの圧倒的な暴力の\r\n具現。力におごれば身も滅ぼす。",
+      "en": "An upgraded Morphing Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+      "fr": "Tonnerre changeant amélioré.\r\nSes pulsions féroces font plier la\r\nraison et détruisent les porteurs\r\ntrop zélés.",
+      "it": "Una Folgore mutante potenziata.\r\nLe sue pulsioni selvagge inibiscono\r\nla ragione e distruggono\r\nchi la impugna con troppa foga.",
+      "de": "Ein verbesserter Wandelnder\r\nFulgur. Sein wilder Drang\r\nüberwindet Vernunft und\r\nvernichtet übereifrige Jäger.",
+      "es": "Fulgur transformador mejorado.\r\nSus ansias salvajes destruyen\r\nla razón y acaban con\r\nlos portadores más entusiastas.",
+      "ru": "Улучшенный «Громовой армаморф».\r\nИсточает свирепость, из-за\r\nкоторой владелец теряет\r\nосторожность и может погибнуть.",
+      "pl": "Ulepszony Metamorficzny Piorun.\r\nJego dzikie popędy burzą rozsądek\r\ni zniszczą nadgorliwego wojownika.",
+      "pt-BR": "Fulgor Mutante melhorado.\r\nSeus impulsos selvagens\r\ndistorcem a razão, por fim\r\ndestruindo usuários arrogantes.",
+      "ko": "시스카알쟈나르의 강화형.\r\n이치를 뒤흔들 정도로 압도적인\r\n폭력을 구현했다. 힘에\r\n취하면 스스로를 망치게 된다.",
+      "zh-Hant": "強化版雷顎白斧。壓倒性的力量顯然\r\n於世，足以歪曲常理。沉醉於力量者\r\n終將自滅。",
+      "zh-Hans": "护雷白斧的强化版，具备强大到足\r\n以扭曲常理的力量。如果沉溺于这\r\n份力量，将会自取灭亡。",
+      "ar": "رعدي متحول مطوَّر.\r\nتعطل رغباته الوحشية صوت العقل\r\nوسيدمر حامله إذا زاد حماسه عن اللازم.",
+      "es-419": "Fulgur transformador mejorado.\r\nSus impulsos nublan la razón\r\ny destruyen a un portador\r\nansioso."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 55,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 15
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 59,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 40,
+      "green": 30,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "リオフラムグレイブⅠ",
+      "en": "Rath Flamesplitter I",
+      "fr": "Trancheflamme Rath",
+      "it": "Sputafiamme Rath I",
+      "de": "Rath-Flammenteiler I",
+      "es": "Partellamas Rath I",
+      "ru": "Рат-огнеплюй I",
+      "pl": "Ogniosiek Ratha I",
+      "pt-BR": "Rompe-chamas de Rath I",
+      "ko": "리오플람글레이브Ⅰ",
+      "zh-Hant": "火龍赤斬擊斧Ⅰ",
+      "zh-Hans": "喷射烈炎斩斧Ⅰ",
+      "ar": "راث مُفرق اللهب 1",
+      "es-419": "Partellamas Rath I"
+    },
+    "descriptions": {
+      "ja": "リオレウスの素材を使って\r\n作られた剣斧。発火性能を\r\n生かした攻撃が可能。",
+      "en": "A Rathalos switch axe that\r\nleverages its materials to allow\r\nthe hunter to ignite attacks.",
+      "fr": "Morpho-hache Rathalos qui\r\ntire profit de ses matériaux\r\npour enflammer les attaques.",
+      "it": "Spadascia di Rathalos che\r\nsfrutta i suoi materiali per\r\nconsentire al cacciatore\r\ndi sferrare attacchi incendiari.",
+      "de": "Eine Rathalos-Morph-Axt,\r\ndie ihre Materialien nutzt,\r\num Angriffe zu entzünden.",
+      "es": "Hacha espada de Rathalos.\r\nSaca el máximo partido a sus\r\nmateriales para que el cazador\r\nañada llamas a sus ataques.",
+      "ru": "Топор из материалов с раталоса.\r\nЕго удары воспламеняют цель.",
+      "pl": "Topór sprężynowy z Rathalosa\r\nwykonany z materiałów dodających ognia\r\natakom łowcy.",
+      "pt-BR": "Transmachado de Rathalos cujos\r\nmateriais permitem que caçadores\r\nateiem fogo em seus ataques.",
+      "ko": "리오레우스 소재로 만든\r\n슬래시액스. 발화 능력을\r\n지닌 공격이 가능.",
+      "zh-Hant": "使用火龍素材製作的斬擊斧。能夠\r\n活用素材的起火性能展開攻擊。",
+      "zh-Hans": "以火龙素材锻造而成的斩斧。能利\r\n用素材会生火的特性展开攻击。",
+      "ar": "فأس مصنوعة من مواد\r\n(راثالوس). تعزز الهجمات\r\nالمُشتعلة.",
+      "es-419": "Un hacha espada de Rathalos\r\nque aprovecha sus materiales\r\npara permitir al cazador\r\nrealizar ataques ígneos."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 21,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 52,
+      "branches": [
+        60,
+        61
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 17
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 60,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "リオヴェルグレイブ",
+      "en": "Rath Blaze Splitter",
+      "fr": "Tranchefeu Rath",
+      "it": "Sputafuoco Rath",
+      "de": "Rathalos-Glutentzweier",
+      "es": "Partefuegos Rath",
+      "ru": "Рат-пламеплюй",
+      "pl": "Cięcie Ognia Ratha",
+      "pt-BR": "Corta-chamas Rath",
+      "ko": "리오벨그레이브",
+      "zh-Hant": "火龍紅蓮斬擊斧",
+      "zh-Hans": "吞噬烈炎斩斧",
+      "ar": "راث نافث اللهب",
+      "es-419": "Partefuegos Rath"
+    },
+    "descriptions": {
+      "ja": "燃立つ刃身こそ、覇者の証明。\r\nリオフラムグレイブ強化型を\r\n携えし者は煉獄の王となる。",
+      "en": "An upgraded Rath Flamesplitter.\r\nIts blazing blade marks a\r\nconqueror, the king of all\r\npurgatory.",
+      "fr": "Trancheflamme Rath améliorée.\r\nSa lame ardente distingue\r\nle conquérant qui règne sur\r\nles enfers.",
+      "it": "Sputafiamme Rath potenziato.\r\nTramuta il suo possessore\r\nnel re del fuoco infernale.",
+      "de": "Ein verbesserter Rath-Flammen-\r\nteiler, dessen Klinge den König\r\ndes Fegefeuers kennzeichnet.",
+      "es": "Partellamas Rath mejorada.\r\nSu hoja en llamas señala\r\na un gran conquistador,\r\nrey de todo el purgatorio.",
+      "ru": "Улучшенный вариант «Рата-огнеплюя»\r\nпревращает своего владельца\r\nв повелителя адского пламени.",
+      "pl": "Ulepszony Tnący Płomień Ratha.\r\nJego płonące ostrze\r\njest oznaką zdobywcy – króla niepodzielnie rządzącego\r\nczyśćcem.",
+      "pt-BR": "Rompe-chamas de Rath melhorado.\r\nSua lâmina flamejante é símbolo\r\nde um conquistador, o rei de\r\ntodo o purgatório.",
+      "ko": "불타는 칼날은 패자의 증명.\r\n리오플람글레이브의 강화형을\r\n소유한 자가 곧 연옥의 왕이다.",
+      "zh-Hant": "熊熊燃燒的斧身正是霸主的證明。\r\n持有這把強化版火龍赤斬擊斧就能\r\n成為煉獄之王。",
+      "zh-Hans": "熊熊燃烧的刀身，正是霸主的证明。\r\n持有喷射烈炎斩斧强化型的人，将\r\n成为炼狱之王。",
+      "ar": "راث مُفرق اللهب مطوَّر\r\nنصله الملتهب يشير إلى\r\nالقاهر، ملك كل العذاب.",
+      "es-419": "Partellamas Rath mejorada. Su hoja\r\nardiente marca a un conquistador,\r\nel rey de todo el purgatorio."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 59,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 17
+    },
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "game_id": 61,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ウィルofシェイプⅠ",
+      "en": "Eisenleib I",
+      "fr": "Volonté du corps",
+      "it": "Eisenleib I",
+      "de": "Eisenleib I",
+      "es": "Voluntad del cuerpo I",
+      "ru": "Эйзенлейб I",
+      "pl": "Eisenleib I",
+      "pt-BR": "Eisenleib I",
+      "ko": "윌of셰이프Ⅰ",
+      "zh-Hant": "意志of輪廓Ⅰ",
+      "zh-Hans": "意志of轮廓Ⅰ",
+      "ar": "الفولاذ الأسود 1",
+      "es-419": "Voluntad del cuerpo I"
+    },
+    "descriptions": {
+      "ja": "死を刈り取る者が好んで使うと\r\n言われるゴア・マガラの剣斧。\r\n闇を纏う一閃は、光をも切り裂く。",
+      "en": "A Gore Magala switch axe\r\nfavored by reapers of the dead.\r\nA single flash of darkness—and\r\nthe light is no more.",
+      "fr": "Morpho-hache Gore Magala\r\nprisée des faucheurs. Son éclat\r\nsombre déchire la lumière.",
+      "it": "Spadascia di Gore Magala\r\napprezzata dai mietitori di\r\nvittime. Un solo colpo oscuro\r\nbasta a cancellare la luce.",
+      "de": "Eine Gore-Magala-Morph-Axt,\r\nbevorzugt von den Schnittern\r\nder Toten. Ein Blitz der Dunkel-\r\nheit und das Licht ist weg.",
+      "es": "Hacha espada de Gore Magala\r\npopular entre quienes cosechan\r\nla muerte. Un solo destello de\r\noscuridad, y la luz desaparece.",
+      "ru": "Выкидной топор из кровавой\r\nмагалы — излюбленное оружие\r\nжнецов смерти. Одна вспышка\r\nтьмы, и свет исчезает.",
+      "pl": "Topór sprężynowy z Gore Magali\r\nuwielbiany przez żniwiarzy z krainy śmierci.\r\nWystarczy jedno machnięcie ciemnością i gaśnie\r\ncałe światło.",
+      "pt-BR": "Transmachado de Gore Magala,\r\narma dos ceifadores da morte.\r\nUma centelha de escuridão que\r\nengole toda luz.",
+      "ko": "죽음을 거두는 자가 즐겨 썼다는\r\n고어 마가라의 슬래시액스.\r\n어둠을 휘감은 일섬은\r\n빛조차 가른다.",
+      "zh-Hant": "據說是生命終結者愛用的黑蝕龍\r\n斬擊斧。散發著黑暗的高速斬擊\r\n連光芒都能斬斷。",
+      "zh-Hans": "据说是收割生命之人很喜欢用的黑\r\n蚀龙之斩斧。缠绕着黑暗的迅速一\r\n击，甚至连光都能斩断。",
+      "ar": "فأس تبديل من جور ماجالا،\r\nمفضلة لدى حاصدي الأرواح.\r\nومضة واحدة من الظلام\r\nويختفي النور إلى الأبد.",
+      "es-419": "Hacha espada de Gore Magala,\r\nla favorita de los segadores de\r\nmuertos. Un destello de\r\noscuridad y la luz desaparece."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 16,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 59,
+      "branches": [
+        62
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 18
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 62,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 50,
+      "blue": 30,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ウィルofマインド",
+      "en": "Eisengeist",
+      "fr": "Volonté de l'esprit",
+      "it": "Eisengeist",
+      "de": "Eisengeist",
+      "es": "Voluntad del espíritu",
+      "ru": "Эйзенгейст",
+      "pl": "Eisengeist",
+      "pt-BR": "Eisengeist",
+      "ko": "윌of마인드",
+      "zh-Hant": "意志of心靈",
+      "zh-Hans": "意志of心灵",
+      "ar": "روح الفولاذ",
+      "es-419": "Voluntad del espíritu"
+    },
+    "descriptions": {
+      "ja": "強化型ウィルofシェイプは\r\n堕ちた者の烙印。その斧は生者を\r\n黄泉へ誘う一閃を放つ。",
+      "en": "An upgraded Eisenleib. One flash\r\nof this forsaken brand instantly\r\ncondemns the living to the black.",
+      "fr": "Volonté du corps améliorée.\r\nUn seul coup de cette lame\r\noubliée suffit à condamner\r\nles vivants.",
+      "it": "Eisenleib potenziata. Un solo\r\nfendente condanna immediatamente\r\nall'oscurità perpetua.",
+      "de": "Ein verbesserter Eisenleib. Ein\r\nAufblitzen dieses verfluchten\r\nBrandzeichens verdammt die\r\nLebenden sofort ins Dunkel.",
+      "es": "Voluntad del cuerpo mejorada.\r\nEl fulgor de su hoja invita a\r\ncruzar las puertas del infierno.",
+      "ru": "Улучшенный вариант «Эйзенлейба».\r\nЛезвие его клинка — приглашение\r\nк вратам ада.",
+      "pl": "Ulepszony Eisenleib. Jedno machnięcie\r\ntym przeklętym ostrzem\r\nskazuje żywych na czarny mrok.",
+      "pt-BR": "Eisenleib melhorado.\r\nVislumbrar esta arma maldita\r\ncondena os vivos às trevas de\r\nimediato.",
+      "ko": "강화형 윌of셰이프는\r\n타락한 자의 낙인.\r\n산 자를 황천으로 보낸다.",
+      "zh-Hant": "強化版意志of輪廓為墮落者的烙印。\r\n斧刃閃動，引領生者前往黃泉。",
+      "zh-Hans": "强化型的意志of轮廓是堕落之人的\r\n烙印。那把斧头会使出将生者带到\r\n黄泉的一击。",
+      "ar": "فأس الفولاذ الأسود المطوَّر. وميض\r\nنصله يُدين الأحياء على الفور إلى\r\nالظلام الأبدي.",
+      "es-419": "Voluntad del cuerpo mejorada. Un\r\ndestello de esta marca olvidada\r\ncondena instantáneamente a los\r\nvivos a la oscuridad."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 61,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 18
+    },
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "game_id": 63,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "アルシュセキュリスⅠ",
+      "en": "Veldian Securis I",
+      "fr": "Securis Arkveld",
+      "it": "Securis Veldian I",
+      "de": "Arkveld-Securis I",
+      "es": "Securis veldiano I",
+      "ru": "Вельдовый топор I",
+      "pl": "Wiweriański Securis I",
+      "pt-BR": "Securis Veldiano I",
+      "ko": "알슈세쿠리스Ⅰ",
+      "zh-Hant": "鎖刃劍斧Ⅰ",
+      "zh-Hans": "锁刃斩斧Ⅰ",
+      "ar": "سيكيوريس فيلديان 1",
+      "es-419": "Securis veldian I"
+    },
+    "descriptions": {
+      "ja": "アルシュベルドの素材で作られた\r\n剣斧。類い稀な怪力で王に自らの才\r\nを示した騎士が用いた古代の剣斧。",
+      "en": "An Arkveld switch axe. Long ago,\r\na knight harnessed its ferocity\r\nto prove themself to their king.",
+      "fr": "Morpho-hache Arkveld. Autrefois,\r\ndes chevaliers s'en sont servis\r\npour impressionner leur roi.",
+      "it": "Una spadascia di Arkveld. Molto\r\ntempo fa, un cavaliere ne ha\r\nsfruttato la ferocia per\r\ndimostrare la sua forza al re.",
+      "de": "Eine Arkveld-Morph-Axt.\r\nVor langer Zeit machte sich ein\r\nRitter ihre Wildheit zunutze, um\r\nsich seinem König zu beweisen.",
+      "es": "Hacha espada de Arkveld.\r\nTiempo atrás, un caballero\r\ncontroló su ferocidad para\r\ndemostrar su valía ante el rey.",
+      "ru": "Выкидной топор из арквельда.\r\nНекогда рыцарь далёкого прошлого\r\nположился на его ярость, чтобы\r\nпроявить себя перед королём.",
+      "pl": "Topór sprężynowy z Arkvelda.\r\nDawno temu rycerz ujarzmił jego\r\nzaciekłość, aby udowodnić swoją\r\nwartość przed królem.",
+      "pt-BR": "Transmachado de Arkveld.\r\nTempos atrás, cavaleiros usavam\r\nda sua ferocidade para provar ao\r\nrei do que eram capazes.",
+      "ko": "알슈베르도 소재로 만든\r\n슬래시액스. 드문 괴력으로\r\n왕에게 자신의 재능을 뽐낸\r\n기사가 쓰던 슬래시액스.",
+      "zh-Hant": "以鎖刃龍素材製作的斬擊斧。過往曾\r\n有騎士用此古代斬擊斧，以空前絕後\r\n的怪力向國王展現自身的才能。",
+      "zh-Hans": "使用锁刃龙素材制作的斩斧。据说\r\n此斩斧曾为古代骑士所用，以空前\r\n之怪力向君王毛遂自荐。",
+      "ar": "فأس سيف (آركفيلد). منذ زمن بعيد،\r\nاستغل الفرسان شراستها\r\nلإثبات جدارتها أمام ملكها.",
+      "es-419": "Hacha espada de Arkveld. Tiempo\r\natrás, los caballeros\r\ncontrolaban su ferocidad para\r\ndemostrar su valía ante el rey."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 22,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 47,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 11
+    },
+    "skills": {
+      "-283334048": 3
+    }
+  },
+  {
+    "game_id": 64,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 12
+    },
+    "names": {
+      "ja": "アーティアゼーガⅠ",
+      "en": "Artian Saw I",
+      "fr": "Scie Artian",
+      "it": "Motosega Artian I",
+      "de": "Artian-Säge I",
+      "es": "Sierra artiana I",
+      "ru": "Артианская пила I",
+      "pl": "Artiańska piła I",
+      "pt-BR": "Serra Artiana I",
+      "ko": "아티어제가Ⅰ",
+      "zh-Hant": "機械斬擊斧Ⅰ",
+      "zh-Hans": "机械锯斧Ⅰ",
+      "ar": "منشار أرتيان 1",
+      "es-419": "Sierra artiana I"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の剣斧。大小連なる刃は、\r\nかつての獲物の強大さを語る。",
+      "en": "A weapon assembled from\r\nunearthed fragments. The\r\nsystem of blades suggests\r\nthey faced formidable prey.",
+      "fr": "À base de fragments d'arme.\r\nCes lames semblent avoir\r\naffronté des ennemis\r\nredoutables.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Il sistema di\r\nlame suggerisce che la preda\r\naffrontata era massiccia.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Das Klingensystem\r\nlässt erahnen, welch furcht-\r\nbare Beute bekämpft wurde.",
+      "es": "Arma hecha de fragmentos\r\ndesenterrados. El sistema de\r\nhojas indica que se las ha visto\r\ncon presas de talla formidable.",
+      "ru": "Оружие, собранное из найденных\r\nфрагментов. Система клинков, судя\r\nпо всему, была рассчитана на бой\r\nс очень сильным противником.",
+      "pl": "Broń złożona z odkopanych\r\nfragmentów. System ostrzy\r\nsugeruje, że stanęły twarzą\r\nw twarz z groźną zdobyczą.",
+      "pt-BR": "Arma montada a partir de\r\nfragmentos desenterrados.\r\nAs lâminas indicam já terem\r\nenfrentado presas formidáveis.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 슬래시액스. 연속된 크고\r\n작은 칼날을 보면 옛 사냥감의\r\n강대함을 알 수 있다.",
+      "zh-Hant": "以發現的武器碎片組成的古代斬擊\r\n斧。大小不一的斧刃訴說了過去獵\r\n物的強大。",
+      "zh-Hans": "由发现的武器碎片组成的古代斩斧。\r\n大小连立的锋刃诉说着往昔猎物的\r\n强大。",
+      "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nيوحي شكل النصال\r\nإلى أنها واجهت فريسة هائلة.",
+      "es-419": "Arma ensamblada con fragmentos\r\ndesenterrados. Las hojas\r\ninsinúan que se enfrentó a una\r\npresa formidable."
+    },
+    "rarity": 6,
+    "attack_raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 65,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 12
+    },
+    "names": {
+      "ja": "アーティアゼーガⅡ",
+      "en": "Artian Saw II",
+      "fr": "Scie Artian II",
+      "it": "Motosega Artian II",
+      "de": "Artian-Säge II",
+      "es": "Sierra artiana II",
+      "ru": "Артианская пила II",
+      "pl": "Artiańska piła II",
+      "pt-BR": "Serra Artiana II",
+      "ko": "아티어제가Ⅱ",
+      "zh-Hant": "機械斬擊斧Ⅱ",
+      "zh-Hans": "机械锯斧Ⅱ",
+      "ar": "منشار أرتيان 2",
+      "es-419": "Sierra artiana II"
+    },
+    "descriptions": {
+      "ja": "発見された武器片で組み上げた\r\n古代の剣斧。大小連なる刃は、\r\nかつての獲物の強大さを語る。",
+      "en": "A weapon assembled from\r\nunearthed fragments. The\r\nsystem of blades suggests\r\nthey faced formidable prey.",
+      "fr": "À base de fragments d'arme.\r\nCes lames semblent avoir\r\naffronté des ennemis\r\nredoutables.",
+      "it": "Arma fatta di frammenti\r\ndissotterrati. Il sistema di\r\nlame suggerisce che la preda\r\naffrontata era massiccia.",
+      "de": "Eine Waffe aus ausgegrabenen\r\nFragmenten. Das Klingensystem\r\nlässt erahnen, welch furcht-\r\nbare Beute bekämpft wurde.",
+      "es": "Arma hecha de fragmentos\r\ndesenterrados. El sistema de\r\nhojas indica que se las ha visto\r\ncon presas de talla formidable.",
+      "ru": "Оружие, собранное из найденных\r\nфрагментов. Система клинков, судя\r\nпо всему, была рассчитана на бой\r\nс очень сильным противником.",
+      "pl": "Broń złożona z odkopanych\r\nfragmentów. System ostrzy\r\nsugeruje, że stanęły twarzą\r\nw twarz z groźną zdobyczą.",
+      "pt-BR": "Arma montada a partir de\r\nfragmentos desenterrados.\r\nAs lâminas indicam já terem\r\nenfrentado presas formidáveis.",
+      "ko": "발견된 무기 조각으로 제작한\r\n고대 슬래시액스. 연속된 크고\r\n작은 칼날을 보면 옛 사냥감의\r\n강대함을 알 수 있다.",
+      "zh-Hant": "以發現的武器碎片組成的古代斬擊\r\n斧。大小不一的斧刃訴說了過去獵\r\n物的強大。",
+      "zh-Hans": "由发现的武器碎片组成的古代斩斧。\r\n大小连立的锋刃诉说着往昔猎物的\r\n强大。",
+      "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nيوحي شكل النصال\r\nإلى أنها واجهت فريسة هائلة.",
+      "es-419": "Arma ensamblada con fragmentos\r\ndesenterrados. Las hojas\r\ninsinúan que se enfrentó a una\r\npresa formidable."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 66,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 22
+    },
+    "names": {
+      "ja": "アルトエレガン",
+      "en": "Mundus Altus",
+      "fr": "Mundus Altus",
+      "it": "Mundus Altus",
+      "de": "Mundus Altus",
+      "es": "Mundus Altus",
+      "ru": "Мундус Альтус",
+      "pl": "Mundus Altus",
+      "pt-BR": "Mundus Altus",
+      "ko": "알트엘레강",
+      "zh-Hant": "典雅鋸刃",
+      "zh-Hans": "典雅锯刃",
+      "ar": "موندوس ألتوس",
+      "es-419": "Mundus Altus"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を持ち得る太古の\r\n剣斧。復元の末に得た姿は、天地を\r\nも切り分けた兵器と称される。",
+      "en": "An ancient weapon with latent\r\npotential. In its final form,\r\nit could sever heaven from earth.",
+      "fr": "Arme ancienne à la puissance\r\nlatente. Sa forme finale est\r\ncapable de fendre la terre.",
+      "it": "Arma antica con potenziale\r\nlatente. Può separare la terra\r\ndal paradiso nella sua\r\nforma finale.",
+      "de": "Eine alte Waffe mit verborgenem\r\nPotenzial. In ihrer vollendeten\r\nForm könnte sie Himmel und\r\nErde spalten.",
+      "es": "Arma ancestral con un potencial\r\nlatente. En su forma final,\r\npodría cercenar el cielo de la\r\ntierra.",
+      "ru": "Древнее оружие со скрытым\r\nпотенциалом. Восстановленным\r\nклинком можно отсечь небо\r\nот земли.",
+      "pl": "Starożytna broń o uśpionym\r\npotencjale. W swojej ostatecznej\r\nformie może oddzielić niebo\r\nod ziemi.",
+      "pt-BR": "Arma antiga com potencial\r\nlatente. Em sua forma final,\r\npode até mesmo separar o\r\ncéu da terra.",
+      "ko": "잠재력을 지닌 태고의\r\n슬래시액스. 복원 끝에 얻은\r\n모습은 천지도 갈라버릴\r\n병기로 칭송받는다.",
+      "zh-Hant": "擁有潛藏性能的太古斬擊斧。復原後\r\n顯現的姿態被譽為開天闢地的兵器。",
+      "zh-Hans": "有着潜藏性能的太古斩斧。经过复\r\n原后的身姿值得被赞颂为开天辟地\r\n的神兵利器。",
+      "ar": "سلاح قديم ذو إمكانات كامنة.\r\nفي شكله النهائي، يمكنه\r\nأن يفصل السماء عن الأرض.",
+      "es-419": "Un arma ancestral con un\r\npotencial latente. En su forma\r\nfinal, podría cercenar el cielo\r\nde la tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {}
+  },
+  {
+    "game_id": 67,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 60,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "エスペラアックス",
+      "en": "Esperanza Axe",
+      "fr": "Hache Esperanza",
+      "it": "Ascia Esperanza",
+      "de": "Esperanza-Axt",
+      "es": "Hacha esperanzadora",
+      "ru": "Топор упования",
+      "pl": "Topór Esperanzy",
+      "pt-BR": "Machado Esperanza",
+      "ko": "에스페라액스",
+      "zh-Hant": "祈望斧",
+      "zh-Hans": "期冀斩斧",
+      "ar": "فأس إسبيرانزا",
+      "es-419": "Hacha esperanzadora"
+    },
+    "descriptions": {
+      "ja": "実地での調査を踏まえて改良された\r\nホープアックス。希望へと至る道は\r\n一筋縄では進むことはできない。",
+      "en": "A fully field-tested Hope Axe.\r\nTo reach a brighter future, you\r\nwill need more tricks than one.",
+      "fr": "Hache d'espoir éprouvée sur le\r\nterrain. Vous aurez besoin de\r\nplus d'un tour dans votre sac\r\npour forger un avenir meilleur.",
+      "it": "Un'ascia della speranza\r\ncollaudata. Avrai bisogno di\r\nmolti trucchi per raggiungere\r\nun futuro luminoso.",
+      "de": "Eine praxiserprobte Hoffnungs-\r\naxt. Für eine strahlendere\r\nZukunft braucht es mehr als\r\nnur einen Trick.",
+      "es": "Hacha de esperanza de\r\neficacia probada. Para\r\nalcanzar un futuro mejor,\r\nnecesitarás más de un truco.",
+      "ru": "Испытанный в деле и улучшенный\r\n«Топор надежды». Чтобы пройти весь\r\nпуть и вступить в лучшее будущее,\r\nодного козыря будет маловато.",
+      "pl": "Przetestowany w boju topór\r\nnadziei. Aby sięgnąć po świetlaną\r\nprzyszłość, musisz znać więcej\r\nniż jedną sztuczkę.",
+      "pt-BR": "Machado da Esperança testado\r\nem campo. Se deseja um futuro\r\nmelhor, será preciso mais\r\nde um truque.",
+      "ko": "현지 조사를 바탕으로 개량한\r\n호프액스. 희망으로 가는 길은\r\n무척이나 험난하다.",
+      "zh-Hant": "經實地調查後改良而成的希望斧。\r\n通往希望的路上充滿困難，無法一\r\n蹴可幾。",
+      "zh-Hans": "通过实地调查而改良的希望之斧。\r\n希望之路绝非一帆风顺。",
+      "ar": "فأس الأمل مُختبرة بالكامل في الساحة.\r\nللوصول إلى مستقبل أكثر إشراقًا،\r\n<LSNR \"ستحتاج\" \"ستحتاجين\"> إلى أكثر من حيلة واحدة.",
+      "es-419": "Un hacha de esperanza probada\r\nen campo. Para alcanzar un\r\nfuturo mejor, necesitarás más\r\nque mera habilidad."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 0
+    },
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    }
+  },
+  {
+    "game_id": 68,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "闢暴斧ヤオガルケン",
+      "en": "Fleshhacker Yaogahaac",
+      "fr": "Hachoir Yaogahaac",
+      "it": "Tagliapelle Yaogahaac",
+      "de": "Hacker Yaogahaac",
+      "es": "Yaogahaac cortapieles",
+      "ru": "Плотеруб Яогахаак",
+      "pl": "Rozpruwacz Yaogahaac",
+      "pt-BR": "Rasgacarne Yaogahaac",
+      "ko": "벽폭부 야오가르켄",
+      "zh-Hant": "北風戰熊闢暴斧",
+      "zh-Hans": "北风熊灵辟暴斧",
+      "ar": "ياوجاهاك مهشم الأجساد",
+      "es-419": "Yaogahaac cortapieles"
+    },
+    "descriptions": {
+      "ja": "争いの中で強化され続けた闢暴斧。\r\n荒ぶる闘争心で振るわれる刃は\r\n更なる戦いを呼び続ける。",
+      "en": "An upgraded Dosha Fleshhacker\r\nthat has been tempered in\r\nbattle and cries for more\r\nbloodshed yet.",
+      "fr": "Hachoir Dosha amélioré.\r\nSes innombrables combats n'ont\r\nen rien étanché sa soif de sang.",
+      "it": "Tagliapelle Dosha potenziato.\r\nInnumerevoli battaglie ne\r\nhanno mitigato la forza,\r\nma non la sete di sangue.",
+      "de": "Ein verbesserter Dosha-Hacker,\r\nder im Kampf gehärtet wurde\r\nund nach mehr Blutvergießen\r\nschreit.",
+      "es": "Cortapieles Dosha mejorado\r\ntras curtirse en innumerables\r\ncombates. Su ansia de sangre\r\nno se sacia jamás.",
+      "ru": "Улучшенный «Дошагумовый\r\nплотеруб» закалён в битвах, но\r\nпо-прежнему жаждет крови.",
+      "pl": "Ulepszony rozpruwacz z Doshy.\r\nZahartowany w walce, wciąż\r\nłaknie większego rozlewu krwi.",
+      "pt-BR": "Rasgacarne Dosha que participou\r\nde muitas batalhes e ainda exige\r\nmais derramamento de sangue.",
+      "ko": "전투를 통해 강화된 벽폭부.\r\n거친 투쟁심으로 휘두르는 날은\r\n또 다른 전투를 부른다.",
+      "zh-Hant": "在鬥爭中不停獲得強化的闢暴斧。\r\n懷著狂暴的鬥爭心揮舞的刀刃會\r\n不斷招來更多戰鬥。",
+      "zh-Hans": "在战斗中不断获得强化的辟暴斧。\r\n被战意侵袭的心智驱动着利刃，招\r\n来永无止境的争斗。",
+      "ar": "دوشا مهشم الأجساد مطوَّر.\r\nصقلت قوته المعارك،\r\nإلا أنه ما زال متعطشًا للدماء.",
+      "es-419": "Un Cortapieles Dosha mejorado,\r\ncurtido en combate y con una sed\r\nde sangre no tiene fin."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 25,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 9
+    },
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "game_id": 69,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "鎖刃剣斧ペルスヴァル",
+      "en": "Indomitable Perceval",
+      "fr": "Perceval l'Indomptable",
+      "it": "Perceval indomito",
+      "de": "Unbeugsamer Parzival",
+      "es": "Perceval indómito",
+      "ru": "Упорство Персиваля",
+      "pl": "Niezłomny Parsifal",
+      "pt-BR": "Percival Indomável",
+      "ko": "쇄인검부 페르스발",
+      "zh-Hant": "鎖刃劍斧珀西瓦里",
+      "zh-Hans": "锁刃斩斧·珀西瓦里",
+      "ar": "بيرسيفال لا يُقهر",
+      "es-419": "Perceval indómito"
+    },
+    "descriptions": {
+      "ja": "アルシュセキュリスの強化形。\r\n怪力の騎士はその斧で竜骨を砕き、\r\nその剣で竜の胴を断ったという。",
+      "en": "An upgraded Veldian Securis.\r\nIts knight-wielder could shatter\r\nwyvern bone and sunder wyvern\r\narmor.",
+      "fr": "Securis Arkveld améliorée. Le\r\npuissant chevalier qui la portait\r\npouvait briser les os des wyvernes\r\net trancher leur cuirasse.",
+      "it": "Un securis di Veldian potenziato.\r\nIl cavaliere che lo impugna può\r\ndistruggere ossa e corazze\r\ndi wyvern.",
+      "de": "Verbesserte Arkveld-Securis.\r\nIhr Ritter konnte Wyvernknochen\r\nzerbrechen und Wyvernrüstung\r\nzermalmen.",
+      "es": "Securis veldiano mejorado.\r\nSu portador caballero podría\r\nhacer añicos un hueso de wyvern\r\ny cercenar la armadura.",
+      "ru": "Улучшенный «Вельдовый топор».\r\nВладевший им рыцарь с равной\r\nлёгкостью крушил кости виверн\r\nи сделанные из них доспехи.",
+      "pl": "Ulepszony Wiweriański Securis.\r\nWładający nim rycerz mógł\r\nroztrzaskać kość wiwerny\r\ni przebić jej pancerz.",
+      "pt-BR": "Securis Veldiano melhorado.\r\nSeu cavaleiro portador era\r\ncapaz de quebrar ossos e\r\nproteções de serpe.",
+      "ko": "알슈세쿠리스의 강화형. 괴력을\r\n지닌 기사는 도끼로 용골을\r\n깨부수고 검으로 용의 몸통을\r\n두 동강 냈다고 한다.",
+      "zh-Hant": "強化版鎖刃劍斧。據傳身懷怪力的\r\n騎士以斧粉碎龍骨，以劍斬斷龍軀。",
+      "zh-Hans": "锁刃斩斧的强化版。传说身负神力\r\n的骑士曾以此斧击碎龙骨，以此剑\r\n将龙躯一刀两断。",
+      "ar": "(سيكيوريس فيلديان) مطوَّر.\r\nيمكن للفارس الحامل لهذا السيف\r\nتحطيم عظام وايفرن وتدمير درعه.",
+      "es-419": "Securis veldian mejorada. Su\r\nportador caballero podría\r\ndestrozar un hueso de wyvern y\r\ncercenar la armadura."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 11
+    },
+    "skills": {
+      "-283334048": 3
+    }
+  }
+]

@@ -30,25 +30,7 @@ pub(super) struct HeavyBowgunData {
 impl From<&HeavyBowgunData> for HeavyBowgun {
     fn from(value: &HeavyBowgunData) -> Self {
         Self {
-            ammo: value
-                .ammo_levels
-                .iter()
-                .zip(value.ammo_capacities)
-                .enumerate()
-                .filter_map(|(index, (level, capacity))| {
-                    let level = level.to_level_number();
-
-                    if level == 0 {
-                        return None;
-                    }
-
-                    Some(Ammo {
-                        kind: AmmoKind::from_index(index),
-                        level,
-                        capacity,
-                    })
-                })
-                .collect(),
+            ammo: Ammo::from_data(value.ammo_levels, value.ammo_capacities),
         }
     }
 }
@@ -57,7 +39,7 @@ is_weapon!(is_heavy_bowgun() => WeaponKindCode::HeavyBowgun);
 
 #[derive(Debug, Serialize, Hash)]
 #[serde(rename_all = "lowercase")]
-enum AmmoKind {
+pub(super) enum AmmoKind {
     Normal,
     Pierce,
     Spread,
@@ -109,18 +91,41 @@ impl AmmoKind {
 }
 
 #[derive(Debug, Serialize)]
-struct Ammo {
+pub(super) struct Ammo {
     kind: AmmoKind,
     level: u8,
     capacity: u8,
 }
 
-type AmmoLevelData = [AmmoLevel; 20];
-type AmmoCapacityData = [u8; 20];
+impl Ammo {
+    pub fn from_data(levels: AmmoLevelData, capacities: AmmoCapacityData) -> Vec<Self> {
+        levels
+            .iter()
+            .zip(capacities)
+            .enumerate()
+            .filter_map(|(index, (level, capacity))| {
+                let level = level.to_level_number();
 
-#[derive(Debug, Deserialize_repr)]
+                if level == 0 {
+                    return None;
+                }
+
+                Some(Ammo {
+                    kind: AmmoKind::from_index(index),
+                    level,
+                    capacity,
+                })
+            })
+            .collect()
+    }
+}
+
+pub(super) type AmmoLevelData = [AmmoLevel; 20];
+pub(super) type AmmoCapacityData = [u8; 20];
+
+#[derive(Debug, Deserialize_repr, Copy, Clone)]
 #[repr(isize)]
-enum AmmoLevel {
+pub(super) enum AmmoLevel {
     None = -1067201536,
     LV1 = -29471984,
     LV2 = 1468794112,
