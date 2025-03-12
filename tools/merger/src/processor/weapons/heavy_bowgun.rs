@@ -38,7 +38,7 @@ impl From<&HeavyBowgunData> for HeavyBowgun {
 
 is_weapon!(is_heavy_bowgun() => WeaponKindCode::HeavyBowgun);
 
-#[derive(Debug, Serialize, Hash)]
+#[derive(Debug, Serialize, Hash, Ord, PartialOrd, Eq, PartialEq, Copy, Clone)]
 #[serde(rename_all = "lowercase")]
 pub(super) enum AmmoKind {
     Normal,
@@ -93,9 +93,9 @@ impl AmmoKind {
 
 #[derive(Debug, Serialize)]
 pub(super) struct Ammo {
-    kind: AmmoKind,
-    level: u8,
-    capacity: u8,
+    pub kind: AmmoKind,
+    pub level: u8,
+    pub capacity: u8,
 }
 
 impl Ammo {

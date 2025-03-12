@@ -2,49 +2,57 @@
   {
     "game_id": 1,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ホープバレットⅠ",
       "en": "Hope Rifle I",
@@ -99,49 +107,57 @@
   {
     "game_id": 2,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ホープバレットⅡ",
       "en": "Hope Rifle II",
@@ -202,49 +218,57 @@
   {
     "game_id": 3,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ホープバレットⅢ",
       "en": "Hope Rifle III",
@@ -306,49 +330,57 @@
   {
     "game_id": 4,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ホープバレットⅣ",
       "en": "Hope Rifle IV",
@@ -411,49 +443,57 @@
   {
     "game_id": 5,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ホープバレットⅤ",
       "en": "Hope Rifle V",
@@ -517,49 +557,57 @@
   {
     "game_id": 6,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "クックアンガーⅠ",
       "en": "Kut-Ku Anger I",
@@ -625,49 +673,57 @@
   {
     "game_id": 7,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "クックアンガーⅡ",
       "en": "Kut-Ku Anger II",
@@ -732,49 +788,57 @@
   {
     "game_id": 8,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "クックカウンター",
       "en": "Kut-Ku Counterattack",
@@ -837,39 +901,45 @@
   {
     "game_id": 9,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "レイofヴァイスⅠ",
       "en": "Fäulnisschleuder I",
@@ -934,39 +1004,45 @@
   {
     "game_id": 10,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "レイofインサニティ",
       "en": "Wahnschleuder",
@@ -1030,44 +1106,51 @@
   {
     "game_id": 11,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 4
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "レ・メドルギシュⅠ",
       "en": "Rey Szelatya I",
@@ -1129,44 +1212,51 @@
   {
     "game_id": 12,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 4
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "レ・メドルギシュⅡ",
       "en": "Rey Szelatya II",
@@ -1231,44 +1321,51 @@
   {
     "game_id": 13,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 4
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "レ・メドルギシュⅢ",
       "en": "Rey Szelatya III",
@@ -1334,44 +1431,51 @@
   {
     "game_id": 14,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 4
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "煌雷銃メドルギシュ",
       "en": "Szelatya Clairgun",
@@ -1436,39 +1540,45 @@
   {
     "game_id": 17,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "闢裂弩Ⅰ",
       "en": "Dosha Faithbreaker I",
@@ -1531,39 +1641,45 @@
   {
     "game_id": 18,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "闢裂弩Ⅱ",
       "en": "Dosha Faithbreaker II",
@@ -1626,39 +1742,45 @@
   {
     "game_id": 19,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "闢裂弩Ⅲ",
       "en": "Dosha Faithbreaker III",
@@ -1722,44 +1844,51 @@
   {
     "game_id": 20,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "護闢裂弩Ⅰ",
       "en": "Dosha Gigasbreaker I",
@@ -1823,44 +1952,51 @@
   {
     "game_id": 21,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "護闢裂弩Ⅱ",
       "en": "Dosha Gigasbreaker II",
@@ -1925,44 +2061,51 @@
   {
     "game_id": 22,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "護闢裂弩ガルグマクレ",
       "en": "Gigasbreaker Urbolkule",
@@ -2026,44 +2169,51 @@
   {
     "game_id": 23,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "freeze",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "チェーンブリッツⅠ",
       "en": "Chain Blitz I",
@@ -2124,44 +2274,51 @@
   {
     "game_id": 24,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "freeze",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "チェーンブリッツⅡ",
       "en": "Chain Blitz II",
@@ -2223,44 +2380,51 @@
   {
     "game_id": 25,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "freeze",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "チェーンブリッツⅢ",
       "en": "Chain Blitz III",
@@ -2324,44 +2488,51 @@
   {
     "game_id": 26,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "freeze",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ハイチェーンブリッツ",
       "en": "High Chain Blitz",
@@ -2424,54 +2595,63 @@
   {
     "game_id": 27,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 2,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sleep",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "タイタングレネードⅠ",
       "en": "Titan Launcher I",
@@ -2536,54 +2716,63 @@
   {
     "game_id": 28,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 2,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sleep",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "タイタンパンツァー",
       "en": "Titan Panzer",
@@ -2647,49 +2836,57 @@
   {
     "game_id": 29,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "armor",
+        "kind": "flaming",
         "level": 1,
-        "capacity": 2
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "armor",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "護火竜砲Ⅰ",
       "en": "G. Rathling Gun I",
@@ -2753,49 +2950,57 @@
   {
     "game_id": 30,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "armor",
+        "kind": "flaming",
         "level": 1,
-        "capacity": 2
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "armor",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "護火竜砲Ⅱ",
       "en": "G. Rathling Gun II",
@@ -2861,49 +3066,57 @@
   {
     "game_id": 31,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "armor",
+        "kind": "flaming",
         "level": 1,
-        "capacity": 2
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "armor",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "白鳳護火竜砲",
       "en": "White Rathling Phoenix",
@@ -2968,44 +3181,51 @@
   {
     "game_id": 32,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "火竜砲Ⅰ",
       "en": "Rathling Gun I",
@@ -3071,44 +3291,51 @@
   {
     "game_id": 33,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "鳳仙火竜砲",
       "en": "Rathling Phoenix",
@@ -3172,44 +3399,51 @@
   {
     "game_id": 34,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 6
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アサルトコンガⅠ",
       "en": "Assault Conga I",
@@ -3271,44 +3505,51 @@
   {
     "game_id": 35,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 6
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アサルトコンガⅡ",
       "en": "Assault Conga II",
@@ -3375,44 +3616,51 @@
   {
     "game_id": 36,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 6
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "コンバットコンガ",
       "en": "Combat Conga",
@@ -3476,39 +3724,45 @@
   {
     "game_id": 37,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
-      },
-      {
-        "kind": "freeze",
-        "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sleep",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "テイルストリングⅠ",
       "en": "Tail String I",
@@ -3573,39 +3827,45 @@
   {
     "game_id": 38,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
-      },
-      {
-        "kind": "freeze",
-        "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sleep",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 2,
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "テイルカタパルト",
       "en": "Tail Catapult",
@@ -3669,44 +3929,51 @@
   {
     "game_id": 39,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ヴァルキリーファイアⅠ",
       "en": "Valkyrie Fire I",
@@ -3773,44 +4040,51 @@
   {
     "game_id": 40,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ヴァルキリーファイアⅡ",
       "en": "Valkyrie Fire II",
@@ -3876,44 +4150,51 @@
   {
     "game_id": 41,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
-      },
-      {
-        "kind": "flaming",
-        "level": 1,
-        "capacity": 5
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "poison",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ヴァルキリーフレイム",
       "en": "Valkyrie Flame",
@@ -3977,39 +4258,45 @@
   {
     "game_id": 42,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "ハンターライフルⅠ",
       "en": "Hunter's Rifle I",
@@ -4069,39 +4356,45 @@
   {
     "game_id": 43,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "ハンターライフルⅡ",
       "en": "Hunter's Rifle II",
@@ -4163,39 +4456,45 @@
   {
     "game_id": 44,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "ハンターライフルⅢ",
       "en": "Hunter's Rifle III",
@@ -4257,39 +4556,45 @@
   {
     "game_id": 45,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "ハンターライフルⅣ",
       "en": "Hunter's Rifle IV",
@@ -4353,39 +4658,45 @@
   {
     "game_id": 46,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "パワーライフル",
       "en": "Power Rifle",
@@ -4450,39 +4761,45 @@
   {
     "game_id": 47,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "バル＝アルジャナルⅠ",
       "en": "Felling Fulgur I",
@@ -4547,39 +4864,45 @@
   {
     "game_id": 48,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "paralysis",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "護雷弩バルガルデ",
       "en": "Fulgursnipe Guardiana",
@@ -4643,44 +4966,51 @@
   {
     "game_id": 49,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "異界の銃火Ⅰ",
       "en": "Chthonian Gunfire I",
@@ -4743,44 +5073,51 @@
   {
     "game_id": 50,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "異界の銃火Ⅱ",
       "en": "Chthonian Gunfire II",
@@ -4845,44 +5182,51 @@
   {
     "game_id": 51,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "遺霊【スピリット】",
       "en": "Bequeathed Animus",
@@ -4946,44 +5290,51 @@
   {
     "game_id": 52,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "赫炎の甲軽弩Ⅰ",
       "en": "Ajara Shellgun I",
@@ -5045,44 +5396,51 @@
   {
     "game_id": 53,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "赫炎の甲軽弩Ⅱ",
       "en": "Ajara Shellgun II",
@@ -5147,44 +5505,51 @@
   {
     "game_id": 54,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "thunder",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "赫炎甲弩インガダ",
       "en": "Ajara-Angaja",
@@ -5247,39 +5612,45 @@
   {
     "game_id": 55,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ヌ・ホボトニチェⅠ",
       "en": "Nu Chobotnice I",
@@ -5342,39 +5713,45 @@
   {
     "game_id": 56,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ヌ・ホボトニチェⅡ",
       "en": "Nu Chobotnice II",
@@ -5439,39 +5816,45 @@
   {
     "game_id": 57,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "獄焔銃ホボトニチェ",
       "en": "Abaddonian Chobotnice",
@@ -5535,44 +5918,51 @@
   {
     "game_id": 58,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "風剪軽弩Ⅰ",
       "en": "Windshear Light I",
@@ -5635,44 +6025,51 @@
   {
     "game_id": 59,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "風剪軽弩Ⅱ",
       "en": "Windshear Light II",
@@ -5737,44 +6134,51 @@
   {
     "game_id": 60,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "風剪軽弩Ⅲ",
       "en": "Windshear Light III",
@@ -5839,44 +6243,51 @@
   {
     "game_id": 61,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "exhaust",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "風剪軽弩ウチバミ",
       "en": "Windshear Uchibami",
@@ -5940,49 +6351,57 @@
   {
     "game_id": 62,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ガルシュインペトムⅠ",
       "en": "G. Veldian Impetum I",
@@ -6047,49 +6466,57 @@
   {
     "game_id": 63,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "ガルシュインペトムⅡ",
       "en": "G. Veldian Impetum II",
@@ -6155,49 +6582,57 @@
   {
     "game_id": 64,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 2,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "freeze",
         "level": 2,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "dragon",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "護鎖刃軽弩ガルイウス",
       "en": "G. Expiating Caius",
@@ -6261,59 +6696,69 @@
   {
     "game_id": 65,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "dragon",
-        "level": 1,
-        "capacity": 3
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sleep",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アルシュインペトムⅠ",
       "en": "Veldian Impetum I",
@@ -6378,29 +6823,33 @@
   {
     "game_id": 66,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アーティアブラストⅠ",
       "en": "Artian Blaster I",
@@ -6457,29 +6906,33 @@
   {
     "game_id": 67,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アーティアブラストⅡ",
       "en": "Artian Blaster II",
@@ -6536,29 +6989,33 @@
   {
     "game_id": 68,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "アムニレーター",
       "en": "Animilater",
@@ -6615,49 +7072,57 @@
   {
     "game_id": 73,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 2,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 3
-      },
-      {
-        "kind": "thunder",
-        "level": 1,
-        "capacity": 5
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "poison",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
       },
       {
-        "kind": "demon",
+        "kind": "thunder",
         "level": 1,
-        "capacity": 1
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "recover",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "エスペラバレット",
       "en": "Esperanza Rifle",
@@ -6720,39 +7185,45 @@
   {
     "game_id": 74,
     "kind": "light-bowgun",
-    "special_ammo": "wyvernblast",
     "ammo": [
       {
         "kind": "normal",
         "level": 3,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": true
       },
       {
         "kind": "pierce",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "sticky",
         "level": 1,
-        "capacity": 1
+        "capacity": 1,
+        "rapid": false
       },
       {
         "kind": "water",
         "level": 1,
-        "capacity": 6
+        "capacity": 6,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "wyvernblast",
     "names": {
       "ja": "闢裂弩レイブオクレ",
       "en": "Faithbreaker Leibolkule",
@@ -6815,59 +7286,69 @@
   {
     "game_id": 75,
     "kind": "light-bowgun",
-    "special_ammo": "adhesive",
     "ammo": [
       {
         "kind": "normal",
         "level": 1,
-        "capacity": 5
+        "capacity": 5,
+        "rapid": false
       },
       {
         "kind": "pierce",
         "level": 3,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": true
       },
       {
         "kind": "spread",
         "level": 2,
-        "capacity": 4
-      },
-      {
-        "kind": "flaming",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "thunder",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "dragon",
-        "level": 1,
-        "capacity": 3
+        "capacity": 4,
+        "rapid": true
       },
       {
         "kind": "sleep",
         "level": 1,
-        "capacity": 3
+        "capacity": 3,
+        "rapid": false
+      },
+      {
+        "kind": "flaming",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 3,
+        "rapid": false
       },
       {
         "kind": "demon",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "armor",
         "level": 1,
-        "capacity": 2
+        "capacity": 2,
+        "rapid": false
       },
       {
         "kind": "tranq",
         "level": 1,
-        "capacity": 4
+        "capacity": 4,
+        "rapid": false
       }
     ],
+    "special_ammo": "adhesive",
     "names": {
       "ja": "鎖刃軽弩カイウス",
       "en": "Expiating Caius",
