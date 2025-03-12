@@ -1,11 +1,10 @@
 use crate::is_weapon;
 use crate::processor::weapons::{
-    HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, Weapon, WeaponData,
+    HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, SubProcess, Weapon, WeaponData,
     WeaponKindCode,
 };
 use crate::processor::{
-    exclude_zeroes, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
-    WriteFile,
+    exclude_zeroes, LanguageMap, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
 use crate::serde::ordered_map;
 use rayon::iter::IntoParallelRefIterator;
@@ -22,7 +21,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::HuntingHorn,
         input_prefix: "Whistle",
         output_prefix: Some("HuntingHorn"),
-        callback: Some(process),
+        callback: Some(Box::new(Process::default())),
     }
 }
 
@@ -44,95 +43,104 @@ const OUTPUT_BUBBLES: &str = "merged/weapons/HuntingHornEchoBubbles.json";
 const OUTPUT_SONGS: &str = "merged/weapons/HuntingHornSongs.json";
 const OUTPUT_MELODIES: &str = "merged/weapons/HuntingHornMelodies.json";
 
-fn process(config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result {
-    let strings = Msg::read_file(config.io.output_dir.join(WAVE_STRINGS))?;
-    let mut waves: Vec<EchoWave> = Vec::with_capacity(EchoWaveKind::COUNT);
+#[derive(Default)]
+struct Process {
+    processed: bool,
+}
 
-    for wave in EchoWaveKind::iter() {
-        let Some(mut wave) = EchoWave::from_data(wave) else {
-            continue;
-        };
-
-        let name = String::from("HighFreqDataText_Wp05_") + &wave.game_id.to_string();
-        strings.populate_by_name(&name, &mut wave.names);
-
-        waves.push(wave);
-    }
-
-    let strings = Msg::read_file(config.io.output_dir.join(BUBBLE_STRINGS))?;
-    let mut bubbles: Vec<EchoBubble> = Vec::with_capacity(EchoBubbleKind::COUNT);
-
-    for bubble in EchoBubbleKind::iter() {
-        let Some(mut bubble) = EchoBubble::from_data(bubble) else {
-            continue;
-        };
-
-        let name = String::from("HibikiDataText_Wp05_") + &bubble.game_id.to_string();
-        strings.populate_by_name(&name, &mut bubble.names);
-
-        bubbles.push(bubble);
-    }
-
-    let data: Vec<SongData> = Vec::read_file(config.io.output_dir.join(SONGS))?;
-    let strings = Msg::read_file(config.io.output_dir.join(SONG_STRINGS))?;
-
-    let mut songs: Vec<Song> = Vec::with_capacity(data.len());
-
-    for data in data {
-        let mut song = Song::from(&data);
-
-        let name = String::from("MusicSkillDataText_Wp05_") + &data.song_id.to_string();
-        strings.populate_by_name(&name, &mut song.names);
-
-        // It looks like some songs are considered possible by the game engine, but have not yet
-        // been implemented. Those don't have any strings set, and will be ignored.
-        if song.names.is_empty() {
-            continue;
+impl SubProcess for Process {
+    fn process(
+        &mut self,
+        config: &Config,
+        _weapon: &mut Weapon,
+        _weapon_data: WeaponData,
+    ) -> Result {
+        if self.processed {
+            return Ok(());
         }
 
-        songs.push(song);
+        let strings = Msg::read_file(config.io.output_dir.join(WAVE_STRINGS))?;
+        let mut waves: Vec<EchoWave> = Vec::with_capacity(EchoWaveKind::COUNT);
+
+        for wave in EchoWaveKind::iter() {
+            let Some(mut wave) = EchoWave::from_data(wave) else {
+                continue;
+            };
+
+            let name = String::from("HighFreqDataText_Wp05_") + &wave.game_id.to_string();
+            strings.populate_by_name(&name, &mut wave.names);
+
+            waves.push(wave);
+        }
+
+        let strings = Msg::read_file(config.io.output_dir.join(BUBBLE_STRINGS))?;
+        let mut bubbles: Vec<EchoBubble> = Vec::with_capacity(EchoBubbleKind::COUNT);
+
+        for bubble in EchoBubbleKind::iter() {
+            let Some(mut bubble) = EchoBubble::from_data(bubble) else {
+                continue;
+            };
+
+            let name = String::from("HibikiDataText_Wp05_") + &bubble.game_id.to_string();
+            strings.populate_by_name(&name, &mut bubble.names);
+
+            bubbles.push(bubble);
+        }
+
+        let data: Vec<SongData> = Vec::read_file(config.io.output_dir.join(SONGS))?;
+        let strings = Msg::read_file(config.io.output_dir.join(SONG_STRINGS))?;
+
+        let mut songs: Vec<Song> = Vec::with_capacity(data.len());
+
+        for data in data {
+            let mut song = Song::from(&data);
+
+            let name = String::from("MusicSkillDataText_Wp05_") + &data.song_id.to_string();
+            strings.populate_by_name(&name, &mut song.names);
+
+            // It looks like some songs are considered possible by the game engine, but have not yet
+            // been implemented. Those don't have any strings set, and will be ignored.
+            if song.names.is_empty() {
+                continue;
+            }
+
+            songs.push(song);
+        }
+
+        let data: Vec<NoteSet> = Vec::read_file(config.io.output_dir.join(TONES))?;
+
+        let mut melodies: Vec<Melody> = Vec::with_capacity(data.len());
+        let mut melody_lookup: LookupMap<MelodyId> = LookupMap::new();
+
+        for data in data {
+            let mut melody = Melody::from(&data);
+
+            let playable: Vec<_> = songs
+                .par_iter()
+                .filter_map(|v| melody.can_play(v).then_some(v.effect_id))
+                .collect();
+
+            melody.songs.extend(playable);
+            melody.songs.sort();
+
+            melody_lookup.insert(melody.game_id, melodies.len());
+            melodies.push(melody);
+        }
+
+        self.processed = true;
+
+        waves.sort_by_key(|v| v.game_id);
+        waves.write_file(config.io.output_dir.join(OUTPUT_WAVES))?;
+
+        bubbles.sort_by_key(|v| v.game_id);
+        bubbles.write_file(config.io.output_dir.join(OUTPUT_BUBBLES))?;
+
+        songs.sort_by_key(|v| v.effect_id);
+        songs.write_file(config.io.output_dir.join(OUTPUT_SONGS))?;
+
+        melodies.sort_by_key(|v| v.game_id);
+        melodies.write_file(config.io.output_dir.join(OUTPUT_MELODIES))
     }
-
-    let data: Vec<NoteSet> = Vec::read_file(config.io.output_dir.join(TONES))?;
-
-    let mut melodies: Vec<Melody> = Vec::with_capacity(data.len());
-    let mut melody_lookup: LookupMap<MelodyId> = LookupMap::new();
-
-    for data in data {
-        let mut melody = Melody::from(&data);
-
-        let playable: Vec<_> = songs
-            .par_iter()
-            .filter_map(|v| melody.can_play(v).then_some(v.effect_id))
-            .collect();
-
-        melody.songs.extend(playable);
-        melody.songs.sort();
-
-        melody_lookup.insert(melody.game_id, melodies.len());
-        melodies.push(melody);
-    }
-
-    let horn_data = weapon_data.kind.unwrap_hunting_horn();
-    let melody = melody_lookup.find_or_panic(
-        get_melody_sequential_id_from_uid(horn_data.note_set_uid),
-        &melodies,
-    );
-
-    let horn = weapon.kind.unwrap_hunting_horn_mut();
-    horn.melody_id = melody.game_id;
-
-    waves.sort_by_key(|v| v.game_id);
-    waves.write_file(config.io.output_dir.join(OUTPUT_WAVES))?;
-
-    bubbles.sort_by_key(|v| v.game_id);
-    bubbles.write_file(config.io.output_dir.join(OUTPUT_BUBBLES))?;
-
-    songs.sort_by_key(|v| v.effect_id);
-    songs.write_file(config.io.output_dir.join(OUTPUT_SONGS))?;
-
-    melodies.sort_by_key(|v| v.game_id);
-    melodies.write_file(config.io.output_dir.join(OUTPUT_MELODIES))
 }
 
 #[derive(Debug, Serialize)]
@@ -169,7 +177,7 @@ impl From<&HuntingHornData> for HuntingHorn {
             handicraft: exclude_zeroes(&value.handicraft),
             echo_wave_id: value.echo_wave.as_sequential_id(),
             echo_bubble_id: value.echo_bubble.as_sequential_id(),
-            melody_id: MelodyId::MAX,
+            melody_id: get_melody_sequential_id_from_uid(value.note_set_uid),
         }
     }
 }

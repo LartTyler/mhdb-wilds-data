@@ -46,7 +46,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     Ok(())
 }
 
-fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) -> Result {
+fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefinition) -> Result {
     should_run!(filters, def.processor);
 
     let data: Vec<WeaponData> = Vec::read_file(config.io.output_dir.join(def.data_path()))?;
@@ -79,8 +79,8 @@ fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) 
 
         weapon.crafting.zenny_cost = data.price;
 
-        if let Some(callback) = def.callback {
-            callback(config, &mut weapon, data)?;
+        if let Some(callback) = def.callback.as_mut() {
+            callback.process(config, &mut weapon, data)?;
         }
 
         lookup.insert(weapon.game_id, merged.len());
@@ -127,13 +127,17 @@ fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) 
     merged.write_file(config.io.output_dir.join(def.output_path()))
 }
 
+trait SubProcess {
+    fn process(&mut self, config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result;
+}
+
 type SubProcessFn = fn(config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result;
 
 struct ProcessorDefinition {
     processor: Processor,
     input_prefix: &'static str,
     output_prefix: Option<&'static str>,
-    callback: Option<SubProcessFn>,
+    callback: Option<Box<dyn SubProcess>>,
 }
 
 impl ProcessorDefinition {
