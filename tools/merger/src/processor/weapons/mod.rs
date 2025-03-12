@@ -21,6 +21,7 @@ mod heavy_bowgun;
 mod insect_glaive;
 mod lance;
 mod light_bowgun;
+mod long_sword;
 mod switch_axe;
 mod sword_shield;
 
@@ -36,6 +37,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, insect_glaive::definition())?;
     do_process(config, filters, sword_shield::definition())?;
     do_process(config, filters, switch_axe::definition())?;
+    do_process(config, filters, long_sword::definition())?;
 
     Ok(())
 }
@@ -201,6 +203,7 @@ enum WeaponKind {
     InsectGlaive(insect_glaive::InsectGlaive),
     SwordShield(sword_shield::SwordShield),
     SwitchAxe(switch_axe::SwitchAxe),
+    LongSword(long_sword::LongSword),
 }
 
 #[derive(Debug, Deserialize)]
@@ -217,6 +220,7 @@ enum WeaponDataKind {
     InsectGlaive(insect_glaive::InsectGlaiveData),
     SwordShield(sword_shield::SwordShieldData),
     SwitchAxe(switch_axe::SwitchAxeData),
+    LongSword(long_sword::LongSwordData),
 }
 
 impl From<&WeaponDataKind> for WeaponKind {
@@ -235,6 +239,7 @@ impl From<&WeaponDataKind> for WeaponKind {
             InsectGlaive(v) => Self::InsectGlaive(v.into()),
             SwordShield(v) => Self::SwordShield(v.into()),
             SwitchAxe(v) => Self::SwitchAxe(v.into()),
+            LongSword(v) => Self::LongSword(v.into()),
         }
     }
 }
