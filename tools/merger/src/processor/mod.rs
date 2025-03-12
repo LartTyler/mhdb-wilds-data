@@ -48,7 +48,7 @@ pub enum Processor {
 #[macro_export]
 macro_rules! should_run {
     ($filters:expr, $processor:expr) => {
-        if !$filters.contains(&$processor) {
+        if !$filters.is_empty() && !$filters.contains(&$processor) {
             return Ok(());
         }
     };
