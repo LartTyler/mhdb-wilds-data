@@ -14,6 +14,7 @@ use std::path::PathBuf;
 
 mod bow;
 mod charge_blade;
+mod dual_blades;
 mod great_sword;
 mod gunlance;
 mod hammer;
@@ -38,6 +39,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, sword_shield::definition())?;
     do_process(config, filters, switch_axe::definition())?;
     do_process(config, filters, long_sword::definition())?;
+    do_process(config, filters, dual_blades::definition())?;
 
     Ok(())
 }
@@ -204,6 +206,7 @@ enum WeaponKind {
     SwordShield(sword_shield::SwordShield),
     SwitchAxe(switch_axe::SwitchAxe),
     LongSword(long_sword::LongSword),
+    DualBlades(dual_blades::DualBlades),
 }
 
 #[derive(Debug, Deserialize)]
@@ -221,6 +224,7 @@ enum WeaponDataKind {
     SwordShield(sword_shield::SwordShieldData),
     SwitchAxe(switch_axe::SwitchAxeData),
     LongSword(long_sword::LongSwordData),
+    DualBlades(dual_blades::DualBladesData),
 }
 
 impl From<&WeaponDataKind> for WeaponKind {
@@ -240,6 +244,7 @@ impl From<&WeaponDataKind> for WeaponKind {
             SwordShield(v) => Self::SwordShield(v.into()),
             SwitchAxe(v) => Self::SwitchAxe(v.into()),
             LongSword(v) => Self::LongSword(v.into()),
+            DualBlades(v) => Self::DualBlades(v.into()),
         }
     }
 }
