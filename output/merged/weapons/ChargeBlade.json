@@ -3,6 +3,18 @@
     "game_id": 1,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープアームズⅠ",
       "en": "Hope Strongarm I",
@@ -59,6 +71,18 @@
     "game_id": 2,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープアームズⅡ",
       "en": "Hope Strongarm II",
@@ -119,6 +143,18 @@
     "game_id": 3,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープアームズⅢ",
       "en": "Hope Strongarm III",
@@ -181,6 +217,18 @@
     "game_id": 4,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープアームズⅣ",
       "en": "Hope Strongarm IV",
@@ -244,6 +292,18 @@
     "game_id": 5,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープアームズⅤ",
       "en": "Hope Strongarm V",
@@ -308,6 +368,19 @@
     "game_id": 6,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
     "names": {
       "ja": "ボーンアームズⅠ",
       "en": "Bone Strongarm I",
@@ -368,6 +441,19 @@
     "game_id": 7,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "ボーンアームズⅡ",
       "en": "Bone Strongarm II",
@@ -431,6 +517,18 @@
     "game_id": 8,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ボーンアームズⅢ",
       "en": "Bone Strongarm III",
@@ -493,6 +591,18 @@
     "game_id": 9,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ボーンアームズⅣ",
       "en": "Bone Strongarm IV",
@@ -557,6 +667,18 @@
     "game_id": 10,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ハードボーンアームズ",
       "en": "Hard Bone Strongarm",
@@ -622,6 +744,18 @@
     "game_id": 11,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 30,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ロートスピーダⅠ",
       "en": "Hyperguard I",
@@ -684,6 +818,18 @@
     "game_id": 12,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ロートスピーダⅡ",
       "en": "Hyperguard II",
@@ -746,6 +892,18 @@
     "game_id": 13,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ロートスピーダⅢ",
       "en": "Hyperguard III",
@@ -810,6 +968,18 @@
     "game_id": 14,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "レーガスピーダ",
       "en": "Regas Hyper",
@@ -873,6 +1043,18 @@
     "game_id": 15,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 20,
+      "yellow": 110,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "チャタアームズⅠ",
       "en": "Chata Strongarm I",
@@ -934,6 +1116,18 @@
     "game_id": 16,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 20,
+      "yellow": 120,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "チャタアームズⅡ",
       "en": "Chata Strongarm II",
@@ -996,6 +1190,18 @@
     "game_id": 17,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 110,
+      "green": 80,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "チャタアームズⅢ",
       "en": "Chata Strongarm III",
@@ -1061,6 +1267,18 @@
     "game_id": 18,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 60,
+      "orange": 20,
+      "yellow": 120,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "チャタアームズⅣ",
       "en": "Chata Strongarm IV",
@@ -1126,6 +1344,18 @@
     "game_id": 19,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ラバラ・ブキリエⅠ",
       "en": "Barina Bouclier I",
@@ -1195,6 +1425,18 @@
     "game_id": 20,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ラバラ・ブキリエⅡ",
       "en": "Barina Bouclier II",
@@ -1264,6 +1506,18 @@
     "game_id": 21,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ラバラ・ブキリエⅢ",
       "en": "Barina Bouclier III",
@@ -1336,6 +1590,18 @@
     "game_id": 22,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ラバラ・ブキリエⅣ",
       "en": "Barina Bouclier IV",
@@ -1408,6 +1674,18 @@
     "game_id": 23,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "刺花盾斧エウメノス",
       "en": "Lala Eumenophor",
@@ -1480,6 +1758,18 @@
     "game_id": 24,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ヴァレロヤⅠ",
       "en": "Uth Valeroje I",
@@ -1548,6 +1838,18 @@
     "game_id": 25,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ヴァレロヤⅡ",
       "en": "Uth Valeroje II",
@@ -1619,6 +1921,18 @@
     "game_id": 26,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ヴァレロヤⅢ",
       "en": "Uth Valeroje III",
@@ -1691,6 +2005,19 @@
     "game_id": 27,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "波濤盾斧ヴァレロヤ",
       "en": "Valeroje-of-the-Waves",
@@ -1762,6 +2089,18 @@
     "game_id": 28,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ププロガーダーⅠ",
       "en": "Rompo Shielder I",
@@ -1831,6 +2170,18 @@
     "game_id": 29,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 90,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ププロガーダーⅡ",
       "en": "Rompo Shielder II",
@@ -1902,6 +2253,18 @@
     "game_id": 30,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 60,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ププロガーダーⅢ",
       "en": "Rompo Shielder III",
@@ -1973,6 +2336,18 @@
     "game_id": 31,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ププロ盾斧デンドーラ",
       "en": "Rompo Dendrotox",
@@ -2043,6 +2418,18 @@
     "game_id": 32,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 150,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "レ・アストラペⅠ",
       "en": "Rey Astrapi I",
@@ -2112,6 +2499,18 @@
     "game_id": 33,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 130,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "レ・アストラペⅡ",
       "en": "Rey Astrapi II",
@@ -2184,6 +2583,18 @@
     "game_id": 34,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 80,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "レ・アストラペⅢ",
       "en": "Rey Astrapi III",
@@ -2257,6 +2668,18 @@
     "game_id": 35,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 70,
+      "blue": 70,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "煌雷盾斧アストラペ",
       "en": "Astrapi Clairaxe",
@@ -2329,6 +2752,18 @@
     "game_id": 36,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アラクネスケイルⅠ",
       "en": "Arachnoscale I",
@@ -2398,6 +2833,18 @@
     "game_id": 37,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アラクネスケイルⅡ",
       "en": "Arachnoscale II",
@@ -2470,6 +2917,18 @@
     "game_id": 38,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アラクネスケイルⅢ",
       "en": "Arachnoscale III",
@@ -2543,6 +3002,18 @@
     "game_id": 39,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アラクネサイズ",
       "en": "Arachnoscythe",
@@ -2614,6 +3085,18 @@
     "game_id": 40,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "風爪盾斧Ⅰ",
       "en": "Windthrash Charger I",
@@ -2684,6 +3167,18 @@
     "game_id": 41,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "風爪盾斧Ⅱ",
       "en": "Windthrash Charger II",
@@ -2756,6 +3251,18 @@
     "game_id": 42,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 140,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "風爪盾斧Ⅲ",
       "en": "Windthrash Charger III",
@@ -2828,6 +3335,18 @@
     "game_id": 43,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "風爪盾斧タメバミ",
       "en": "Windthrash Tamebami",
@@ -2899,6 +3418,18 @@
     "game_id": 44,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ヌ・プウェザⅠ",
       "en": "Nu Pweza I",
@@ -2969,6 +3500,18 @@
     "game_id": 45,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ヌ・プウェザⅡ",
       "en": "Nu Pweza II",
@@ -3041,6 +3584,18 @@
     "game_id": 46,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "獄焔盾斧プウェザ",
       "en": "Abaddonian Pweza",
@@ -3112,6 +3667,18 @@
     "game_id": 47,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "白炎斧アルリオスⅠ",
       "en": "Albirath Blade I",
@@ -3183,6 +3750,19 @@
     "game_id": 48,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "白炎斧アルリオスⅡ",
       "en": "Albirath Blade II",
@@ -3256,6 +3836,18 @@
     "game_id": 49,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "灰滅斧ガルデリオス",
       "en": "Guardian Albathos",
@@ -3328,6 +3920,18 @@
     "game_id": 50,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "異界の炎Ⅰ",
       "en": "Chthonian Flame I",
@@ -3398,6 +4002,18 @@
     "game_id": 51,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "異界の炎Ⅱ",
       "en": "Chthonian Flame II",
@@ -3470,6 +4086,16 @@
     "game_id": 52,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 100,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [],
     "names": {
       "ja": "遺恨【エンミティ】",
       "en": "Bequeathed Enmity",
@@ -3541,6 +4167,18 @@
     "game_id": 53,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ガルシュブラドラⅠ",
       "en": "G. Veldian Labrys I",
@@ -3613,6 +4251,19 @@
     "game_id": 54,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "ガルシュブラドラⅡ",
       "en": "G. Veldian Labrys II",
@@ -3686,6 +4337,19 @@
     "game_id": 55,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "護鎖刃盾斧ガルヴァン",
       "en": "G. Abiding Gawain",
@@ -3757,6 +4421,18 @@
     "game_id": 56,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ポイジングティアⅠ",
       "en": "Poison Blade I",
@@ -3830,6 +4506,18 @@
     "game_id": 57,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 70,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ポイジングティアⅡ",
       "en": "Poison Blade II",
@@ -3902,6 +4590,18 @@
     "game_id": 58,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 100,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ヴェノムシルベルテ",
       "en": "Venom's Kiss",
@@ -3974,6 +4674,18 @@
     "game_id": 59,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ディア＝ルテミスⅠ",
       "en": "Dear Lutemis I",
@@ -4048,6 +4760,18 @@
     "game_id": 60,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 120,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ディア＝ルテミスⅡ",
       "en": "Dear Lutemis II",
@@ -4121,6 +4845,18 @@
     "game_id": 61,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 110,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ディア＝ルテミア",
       "en": "Dear Lutemia",
@@ -4192,6 +4928,18 @@
     "game_id": 64,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "炎斧アクセリオンⅠ",
       "en": "Axelion Blade I",
@@ -4265,6 +5013,18 @@
     "game_id": 65,
     "kind": "charge-blade",
     "phial": "element",
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "紅蓮斧ユニオリオン",
       "en": "Bardichion Blade",
@@ -4336,6 +5096,18 @@
     "game_id": 66,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "フォースofフォールⅠ",
       "en": "Elendskraft I",
@@ -4408,6 +5180,18 @@
     "game_id": 67,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "フォースofルイン",
       "en": "Leidenskraft",
@@ -4479,6 +5263,18 @@
     "game_id": 68,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アルシュブラドラⅠ",
       "en": "Veldian Labrys I",
@@ -4551,6 +5347,19 @@
     "game_id": 69,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "アーティアガードⅠ",
       "en": "Artian Defender I",
@@ -4608,6 +5417,18 @@
     "game_id": 70,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アーティアガードⅡ",
       "en": "Artian Defender II",
@@ -4665,6 +5486,18 @@
     "game_id": 71,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "テンプス・ギア",
       "en": "Chrono Gear",
@@ -4722,6 +5555,18 @@
     "game_id": 72,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "エスペラアームズ",
       "en": "Esperanza Strongarm",
@@ -4785,6 +5630,19 @@
     "game_id": 73,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 60,
+      "orange": 20,
+      "yellow": 100,
+      "green": 90,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "纏盾斧ジャマカクタル",
       "en": "Shrouded Kutharja",
@@ -4849,6 +5707,18 @@
     "game_id": 74,
     "kind": "charge-blade",
     "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "鎖刃盾斧ゴーヴァン",
       "en": "Abiding Gawain",

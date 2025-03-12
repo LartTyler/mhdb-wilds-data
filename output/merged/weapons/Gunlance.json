@@ -4,6 +4,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープガンランスⅠ",
       "en": "Hope Gunlance I",
@@ -61,6 +73,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープガンランスⅡ",
       "en": "Hope Gunlance II",
@@ -123,6 +147,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープガンランスⅢ",
       "en": "Hope Gunlance III",
@@ -186,6 +222,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープガンランスⅣ",
       "en": "Hope Gunlance IV",
@@ -250,6 +298,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホープガンランスⅤ",
       "en": "Hope Gunlance V",
@@ -315,6 +375,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
     "names": {
       "ja": "骨銃槍Ⅰ",
       "en": "Bone Gunlance I",
@@ -376,6 +449,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 110,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "骨銃槍Ⅱ",
       "en": "Bone Gunlance II",
@@ -440,6 +526,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "骨銃槍Ⅲ",
       "en": "Bone Gunlance III",
@@ -503,6 +601,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "骨銃槍Ⅳ",
       "en": "Bone Gunlance IV",
@@ -568,6 +678,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 110,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "大骨銃槍",
       "en": "Great Bone Gunlance",
@@ -634,6 +756,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "トライバヨネットⅠ",
       "en": "Triple Bayonet I",
@@ -696,6 +830,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "トライバヨネットⅡ",
       "en": "Triple Bayonet II",
@@ -759,6 +905,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 20,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "トライバヨネットⅢ",
       "en": "Triple Bayonet III",
@@ -825,6 +983,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "トライエッジ",
       "en": "Triumvirate Edge",
@@ -889,6 +1059,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ケマスカニョンⅠ",
       "en": "Quematrice Culebrina I",
@@ -958,6 +1140,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 50,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ケマスカニョンⅡ",
       "en": "Quematrice Culebrina II",
@@ -1028,6 +1222,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 3,
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 70,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ケマスカニョンⅢ",
       "en": "Quematrice Culebrina III",
@@ -1100,6 +1306,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 3,
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ケマスカニョンⅣ",
       "en": "Quematrice Culebrina IV",
@@ -1173,6 +1391,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 3,
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 70,
+      "green": 80,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "炎尾銃槍ケマドーラ",
       "en": "Firetrail Quemador",
@@ -1244,6 +1474,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "バーラバーストⅠ",
       "en": "Balahara Exploder I",
@@ -1313,6 +1555,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "バーラバーストⅡ",
       "en": "Balahara Exploder II",
@@ -1384,6 +1638,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "バーラバーストⅢ",
       "en": "Balahara Exploder III",
@@ -1457,6 +1723,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "バーラバーストⅣ",
       "en": "Balahara Exploder IV",
@@ -1529,6 +1807,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 70,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "沙海銃槍ヴィスキャノ",
       "en": "Sandsea Visponan",
@@ -1600,6 +1890,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ファルマタⅠ",
       "en": "Uth Falarmata I",
@@ -1669,6 +1971,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 110,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ファルマタⅡ",
       "en": "Uth Falarmata II",
@@ -1741,6 +2055,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ウズ・ファルマタⅢ",
       "en": "Uth Falarmata III",
@@ -1814,6 +2140,19 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "波濤銃槍ファルマタ",
       "en": "Falarmata-of-the-Waves",
@@ -1886,6 +2225,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "シェルガンバードⅠ",
       "en": "Shell Gunberd I",
@@ -1956,6 +2307,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "シェルガンバードⅡ",
       "en": "Shell Gunberd II",
@@ -2029,6 +2392,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "シェルガンバードⅢ",
       "en": "Shell Gunberd III",
@@ -2103,6 +2478,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ソリッドガンバード",
       "en": "Solid Gunberd",
@@ -2175,6 +2562,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "赫炎の銃槍Ⅰ",
       "en": "Ajara Gunpike I",
@@ -2245,6 +2644,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "赫炎の銃槍Ⅱ",
       "en": "Ajara Gunpike II",
@@ -2319,6 +2730,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "赫炎銃槍カーリカ",
       "en": "Ajara-Kalika",
@@ -2391,6 +2814,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アルラスルークⅠ",
       "en": "Albirath Rook I",
@@ -2463,6 +2898,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "アルラスルークⅡ",
       "en": "Albirath Rook II",
@@ -2537,6 +2985,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 130,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "シャイニングルーク",
       "en": "Shining Rook",
@@ -2610,6 +3070,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 110,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ダハ・ドップⅠ",
       "en": "Jin Dhatop I",
@@ -2683,6 +3155,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 20,
+      "green": 80,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "断崖のロハルマ",
       "en": "Precipice Lohamata",
@@ -2755,6 +3239,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ガルシュアスタⅠ",
       "en": "G. Veldian Hasta I",
@@ -2828,6 +3324,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "ガルシュアスタⅡ",
       "en": "G. Veldian Hasta II",
@@ -2902,6 +3411,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "護鎖刃銃槍ガルホート",
       "en": "G. Lawful Bors",
@@ -2974,6 +3496,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 3,
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ハードヒッターⅠ",
       "en": "Hard Hitter I",
@@ -3049,6 +3583,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 3,
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ハードヒッターⅡ",
       "en": "Hard Hitter II",
@@ -3122,6 +3668,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 3,
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ビッグスラッガー",
       "en": "Big Slugger",
@@ -3195,6 +3753,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "プリンセスバーストⅠ",
       "en": "Princess Panoply I",
@@ -3270,6 +3840,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 110,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "プリンセスバーストⅡ",
       "en": "Princess Panoply II",
@@ -3344,6 +3926,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 100,
+      "blue": 30,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "オルトリンデ",
       "en": "Ortlinde",
@@ -3416,6 +4010,19 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "ハルマ＝アルジャナルⅠ",
       "en": "Warring Fulgur I",
@@ -3489,6 +4096,18 @@
     "kind": "gunlance",
     "shell": "wide",
     "shell_level": 3,
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "護雷銃槍ハルマガルデ",
       "en": "Fulgurcannon Guardiana",
@@ -3561,6 +4180,19 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 3,
+    "sharpness": {
+      "red": 90,
+      "orange": 70,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
     "names": {
       "ja": "ホワイトガンランスⅠ",
       "en": "White Gunlance I",
@@ -3634,6 +4266,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 3,
+    "sharpness": {
+      "red": 80,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "ホワイトキャノン",
       "en": "White Cannon",
@@ -3706,6 +4350,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 40,
+      "green": 30,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "レッドルークⅠ",
       "en": "Red Rook I",
@@ -3780,6 +4436,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "クリムゾンルーク",
       "en": "Crimson Rook",
@@ -3852,6 +4520,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アームofティランⅠ",
       "en": "Tyrannenarm I",
@@ -3925,6 +4605,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 50,
+      "blue": 30,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アームofトリーズ",
       "en": "Verräterarm",
@@ -3997,6 +4689,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アルシュアスタⅠ",
       "en": "Veldian Hasta I",
@@ -4070,6 +4774,19 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 110,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
     "names": {
       "ja": "パルジーガンランスⅠ",
       "en": "Paretic Gunlance I",
@@ -4139,6 +4856,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "パルジーガンランスⅡ",
       "en": "Paretic Gunlance II",
@@ -4208,6 +4937,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 70,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "パルジーガンランスⅢ",
       "en": "Paretic Gunlance III",
@@ -4280,6 +5021,19 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 70,
+      "green": 90,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
     "names": {
       "ja": "パルジーガンランスⅣ",
       "en": "Paretic Gunlance IV",
@@ -4352,6 +5106,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 1,
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 60,
+      "green": 80,
+      "blue": 110,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "黒痺銃槍インペディア",
       "en": "Debilitating Torpor",
@@ -4424,6 +5190,19 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
     "names": {
       "ja": "アーティアキャノンⅠ",
       "en": "Artian Cannon I",
@@ -4482,6 +5261,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アーティアキャノンⅡ",
       "en": "Artian Cannon II",
@@ -4540,6 +5331,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "アル＝ジェネシス",
       "en": "Argenesis",
@@ -4598,6 +5401,18 @@
     "kind": "gunlance",
     "shell": "normal",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 60,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "エスペラガンランス",
       "en": "Esperanza Gunlance",
@@ -4662,6 +5477,18 @@
     "kind": "gunlance",
     "shell": "long",
     "shell_level": 2,
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
     "names": {
       "ja": "鎖刃銃槍ボゥホート",
       "en": "Lawful Bors",

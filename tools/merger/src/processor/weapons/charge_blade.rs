@@ -1,6 +1,8 @@
 use crate::is_weapon;
-use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
-use crate::processor::Processor;
+use crate::processor::weapons::{
+    HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, WeaponKindCode,
+};
+use crate::processor::{exclude_zeroes, Processor};
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
@@ -15,11 +17,17 @@ pub(super) fn definition() -> ProcessorDefinition {
 #[derive(Debug, Serialize)]
 pub(super) struct ChargeBlade {
     phial: PhialKind,
+    sharpness: Sharpness,
+    handicraft: Vec<u8>,
 }
 
 impl From<&ChargeBladeData> for ChargeBlade {
     fn from(value: &ChargeBladeData) -> Self {
-        Self { phial: value.phial }
+        Self {
+            phial: value.phial,
+            sharpness: Sharpness::from_data(value.sharpness),
+            handicraft: exclude_zeroes(&value.handicraft),
+        }
     }
 }
 
@@ -29,6 +37,10 @@ pub(super) struct ChargeBladeData {
     _type: WeaponKindCode,
     #[serde(rename = "_Wp09BinType")]
     phial: PhialKind,
+    #[serde(rename = "_SharpnessValList")]
+    sharpness: SharpnessData,
+    #[serde(rename = "_TakumiValList")]
+    handicraft: HandicraftData,
 }
 
 is_weapon!(is_charge_blade() => WeaponKindCode::ChargeBlade);

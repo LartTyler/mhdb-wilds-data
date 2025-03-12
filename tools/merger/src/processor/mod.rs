@@ -310,7 +310,6 @@ trait Lookup {
     type Key;
 
     fn find_in<'a, T>(&self, id: Self::Key, container: &'a [T]) -> Option<&'a T>;
-    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T;
     fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T>;
     fn find_or_panic_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> &'a mut T;
 }
@@ -327,11 +326,6 @@ where
         } else {
             None
         }
-    }
-
-    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T {
-        self.find_in(id, container)
-            .unwrap_or_else(|| panic!("Could not find object by ID {}", id))
     }
 
     fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T> {

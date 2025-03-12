@@ -1,6 +1,8 @@
 use crate::is_weapon;
-use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
-use crate::processor::Processor;
+use crate::processor::weapons::{
+    HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, WeaponKindCode,
+};
+use crate::processor::{exclude_zeroes, Processor};
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
@@ -16,6 +18,8 @@ pub(super) fn definition() -> ProcessorDefinition {
 pub(super) struct Gunlance {
     shell: ShellKind,
     shell_level: u8,
+    sharpness: Sharpness,
+    handicraft: Vec<u8>,
 }
 
 #[derive(Debug, Deserialize)]
@@ -26,6 +30,10 @@ pub(super) struct GunlanceData {
     shell: ShellKind,
     #[serde(rename = "_Wp07ShellLv")]
     shell_level: ShellLevel,
+    #[serde(rename = "_SharpnessValList")]
+    sharpness: SharpnessData,
+    #[serde(rename = "_TakumiValList")]
+    handicraft: HandicraftData,
 }
 
 impl From<&GunlanceData> for Gunlance {
@@ -33,6 +41,8 @@ impl From<&GunlanceData> for Gunlance {
         Self {
             shell: value.shell,
             shell_level: value.shell_level.as_level_number(),
+            sharpness: Sharpness::from_data(value.sharpness),
+            handicraft: exclude_zeroes(&value.handicraft),
         }
     }
 }
@@ -40,7 +50,7 @@ impl From<&GunlanceData> for Gunlance {
 is_weapon!(is_gunlance() => WeaponKindCode::Gunlance);
 
 #[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
-#[serde(rename_all = "lowercase")]
+#[serde(rename_all(serialize = "lowercase"))]
 #[repr(isize)]
 enum ShellKind {
     Normal = -324406336,

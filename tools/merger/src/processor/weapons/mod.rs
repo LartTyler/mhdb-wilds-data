@@ -15,11 +15,15 @@ use std::path::PathBuf;
 mod bow;
 mod charge_blade;
 mod gunlance;
+mod hammer;
+mod heavy_bowgun;
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, bow::definition())?;
     do_process(config, filters, charge_blade::definition())?;
     do_process(config, filters, gunlance::definition())?;
+    do_process(config, filters, hammer::definition())?;
+    do_process(config, filters, heavy_bowgun::definition())?;
 
     Ok(())
 }
@@ -177,6 +181,8 @@ enum WeaponKind {
     Bow(bow::Bow),
     ChargeBlade(charge_blade::ChargeBlade),
     Gunlance(gunlance::Gunlance),
+    Hammer(hammer::Hammer),
+    HeavyBowgun(heavy_bowgun::HeavyBowgun),
 }
 
 #[derive(Debug, Deserialize)]
@@ -185,6 +191,8 @@ enum WeaponDataKind {
     Bow(bow::BowData),
     ChargeBlade(charge_blade::ChargeBladeData),
     Gunlance(gunlance::GunlanceData),
+    Hammer(hammer::HammerData),
+    HeavyBowgun(heavy_bowgun::HeavyBowgunData),
 }
 
 impl From<&WeaponDataKind> for WeaponKind {
@@ -195,6 +203,8 @@ impl From<&WeaponDataKind> for WeaponKind {
             Bow(v) => Self::Bow(v.into()),
             ChargeBlade(v) => Self::ChargeBlade(v.into()),
             Gunlance(v) => Self::Gunlance(v.into()),
+            Hammer(v) => Self::Hammer(v.into()),
+            HeavyBowgun(v) => Self::HeavyBowgun(v.into()),
         }
     }
 }
@@ -393,6 +403,35 @@ struct CraftingTreeData {
     #[serde(rename = "_RowDataLevel")]
     row: u8,
 }
+
+type SharpnessData = [u8; 7];
+
+#[derive(Debug, Serialize)]
+struct Sharpness {
+    red: u8,
+    orange: u8,
+    yellow: u8,
+    green: u8,
+    blue: u8,
+    white: u8,
+    purple: u8,
+}
+
+impl Sharpness {
+    fn from_data(data: SharpnessData) -> Self {
+        Self {
+            red: data[0],
+            orange: data[1],
+            yellow: data[2],
+            green: data[3],
+            blue: data[4],
+            white: data[5],
+            purple: data[6],
+        }
+    }
+}
+
+type HandicraftData = [u8; 4];
 
 #[derive(Debug, Deserialize_repr, Copy, Clone, Eq, PartialEq)]
 #[repr(u8)]
