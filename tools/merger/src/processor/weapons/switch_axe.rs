@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::SwitchAxe,
         input_prefix: "SlashAxe",
         output_prefix: Some("SwitchAxe"),
+        callback: None,
     }
 }
 

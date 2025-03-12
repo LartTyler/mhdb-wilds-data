@@ -9,6 +9,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::HeavyBowgun,
         input_prefix: "HeavyBowgun",
         output_prefix: None,
+        callback: None,
     }
 }
 

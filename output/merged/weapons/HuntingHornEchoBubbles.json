@@ -1,0 +1,122 @@
+[
+  {
+    "game_id": 1,
+    "kind": "evasion",
+    "names": {
+      "ja": "回避性能＆移動速度UP",
+      "en": "Evasion & Movement Speed Up",
+      "fr": "Esquive et vitesse de déplacement ↑",
+      "it": "Aumenta schivata/movimento",
+      "de": "Ausweichen&BewegGeschw+",
+      "es": "Esquiva y movimiento veloz",
+      "ru": "Бонус к уклон. и скор. перем.",
+      "pl": "Unik i szybszy ruch",
+      "pt-BR": "Aumento de Evasão/Movimento",
+      "ko": "회피 성능&이동 속도 UP",
+      "zh-Hant": "迴避性能及移動速度上升",
+      "zh-Hans": "回避性能＆移动速度提升",
+      "ar": "التفادي وزيادة سرعة الحركة",
+      "es-419": "Evasión y movimiento veloz"
+    }
+  },
+  {
+    "game_id": 2,
+    "kind": "regen",
+    "names": {
+      "ja": "体力継続回復",
+      "en": "Health Regeneration",
+      "fr": "Régénération de vie",
+      "it": "Rigenerazione salute",
+      "de": "Verlängerte Gesundheitserh.",
+      "es": "Recuperación de salud",
+      "ru": "Восстановление здоровья",
+      "pl": "Regeneracja zdrowia",
+      "pt-BR": "Regeneração de Vida",
+      "ko": "체력 지속 회복",
+      "zh-Hant": "體力持續回復",
+      "zh-Hans": "体力持续回复",
+      "ar": "استرداد الصحة",
+      "es-419": "Regeneración de salud"
+    }
+  },
+  {
+    "game_id": 3,
+    "kind": "stamina",
+    "names": {
+      "ja": "スタミナ継続回復",
+      "en": "Stamina Regeneration",
+      "fr": "Régénération d'endurance",
+      "it": "Rigenerazione resistenza",
+      "de": "Ausdauererholung",
+      "es": "Recuperación de resistencia",
+      "ru": "Восстановление выносливости",
+      "pl": "Regeneracja wytrzymałości",
+      "pt-BR": "Regeneração de Vigor",
+      "ko": "스태미나 지속 회복",
+      "zh-Hant": "耐力持續回復",
+      "zh-Hans": "耐力持续回复",
+      "ar": "استعادة قوة التحمل",
+      "es-419": "Regeneración de resistencia"
+    }
+  },
+  {
+    "game_id": 4,
+    "kind": "damage",
+    "names": {
+      "ja": "攻撃力＆会心率UP",
+      "en": "Attack & Affinity Up",
+      "fr": "Attaque et affinité ↑",
+      "it": "Aumenta attacco/affinità",
+      "de": "Angriff & Affinität+",
+      "es": "Ataque y afinidad mejorados",
+      "ru": "Усиление атаки и мастерства",
+      "pl": "Wzrost natarcia i zgodności",
+      "pt-BR": "Aumento de Ataque/Afinidade",
+      "ko": "공격력&회심률 UP",
+      "zh-Hant": "攻擊力及會心率上升",
+      "zh-Hans": "攻击力＆会心率提升",
+      "ar": "زيادة الهجوم ونسبة الضرر",
+      "es-419": "Mejora de ataque y afinidad"
+    }
+  },
+  {
+    "game_id": 5,
+    "kind": "defense",
+    "names": {
+      "ja": "防御力＆属性耐性UP",
+      "en": "Defense & Elemental Res Up",
+      "fr": "Défense et résistance élémentaire ↑",
+      "it": "Aumenta DIF Fisica/Elementale",
+      "de": "Vert. & Elementabwehr+",
+      "es": "Defensa y res. elem. mejoradas",
+      "ru": "Усил. защиты и сопр. стихиям",
+      "pl": "Wzrost obrony i od. na żyw.",
+      "pt-BR": "Aumento de Defesa/Res. Elemental",
+      "ko": "방어력&속성 내성 UP",
+      "zh-Hant": "防禦力及屬性耐性上升",
+      "zh-Hans": "防御力＆属性耐性提升",
+      "ar": "زيادة الدفاع والمقاومة العناصرية",
+      "es-419": "Mejora de res. elemental y de defensa"
+    }
+  },
+  {
+    "game_id": 6,
+    "kind": "immunity",
+    "names": {
+      "ja": "状態異常＆属性やられ無効",
+      "en": "Ailments/Blights Negated",
+      "fr": "Afflictions et fléaux annulés",
+      "it": "Annulla alterazioni di stato",
+      "de": "Anomalien & Pest negiert",
+      "es": "Anula estados alterados/plagas",
+      "ru": "Защита от недугов/порчи",
+      "pl": "Neutr. szkodl. efektów/plag",
+      "pt-BR": "Efeitos Neg./Flagelos Anulados",
+      "ko": "상태 이상 & 속성 피해 무효",
+      "zh-Hant": "狀態異常及屬性異常無效",
+      "zh-Hans": "状态异常＆属性异常无效",
+      "ar": "إبطال الإعتلالات/الأوبئة",
+      "es-419": "Estados alterados/Plagas anulados"
+    }
+  }
+]

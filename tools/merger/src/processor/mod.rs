@@ -243,12 +243,21 @@ impl From<LanguageCode> for Language {
 
 trait PopulateStrings {
     fn populate(&self, guid: &str, strings: &mut LanguageMap);
+    fn populate_by_name(&self, name: &str, strings: &mut LanguageMap);
 }
 
 impl PopulateStrings for Msg {
     fn populate(&self, guid: &str, strings: &mut LanguageMap) {
         for (index, lang) in self.languages.iter().enumerate() {
             if let Some(value) = self.get(guid, index) {
+                strings.insert(lang.into(), value.to_owned());
+            }
+        }
+    }
+
+    fn populate_by_name(&self, name: &str, strings: &mut LanguageMap) {
+        for (index, lang) in self.languages.iter().enumerate() {
+            if let Some(value) = self.get_by_name(name, index) {
                 strings.insert(lang.into(), value.to_owned());
             }
         }
@@ -311,6 +320,7 @@ trait Lookup {
 
     fn find_in<'a, T>(&self, id: Self::Key, container: &'a [T]) -> Option<&'a T>;
     fn find_in_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> Option<&'a mut T>;
+    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T;
     fn find_or_panic_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> &'a mut T;
 }
 
@@ -336,9 +346,14 @@ where
         }
     }
 
+    fn find_or_panic<'a, T>(&self, id: Self::Key, container: &'a [T]) -> &'a T {
+        self.find_in(id, container)
+            .unwrap_or_else(|| panic!("Could not find object by ID {id}"))
+    }
+
     fn find_or_panic_mut<'a, T>(&self, id: Self::Key, container: &'a mut [T]) -> &'a mut T {
         self.find_in_mut(id, container)
-            .unwrap_or_else(|| panic!("Could not find object by ID {}", id))
+            .unwrap_or_else(|| panic!("Could not find object by ID {id}"))
     }
 }
 

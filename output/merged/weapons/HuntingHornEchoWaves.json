@@ -1,0 +1,222 @@
+[
+  {
+    "game_id": 1,
+    "kind": "blunt",
+    "names": {
+      "ja": "響周波【打】",
+      "en": "Echo Wave (Blunt)",
+      "fr": "Onde d'écho (Contondant)",
+      "it": "Onda eco (contundente)",
+      "de": "Echowelle (Schlagen)",
+      "es": "Onda de eco (contundente)",
+      "ru": "Эховолна (ударное)",
+      "pl": "Fala echa (obuchowa)",
+      "pt-BR": "Onda de Eco (Contusão)",
+      "ko": "향주파【타】",
+      "zh-Hant": "響周波【打】",
+      "zh-Hans": "响周波【打】",
+      "ar": "موجة الصدى (غير حادة)",
+      "es-419": "Onda de eco (contundente)"
+    }
+  },
+  {
+    "game_id": 2,
+    "kind": "slash",
+    "names": {
+      "ja": "響周波【斬】",
+      "en": "Echo Wave (Slash)",
+      "fr": "Onde d'écho (Entaille)",
+      "it": "Onda eco (fendente)",
+      "de": "Echowelle (Hieb)",
+      "es": "Onda de eco (tajo)",
+      "ru": "Эховолна (разрез)",
+      "pl": "Fala echa (cięcie)",
+      "pt-BR": "Onda de Eco (Corte)",
+      "ko": "향주파【참】",
+      "zh-Hant": "響周波【斬】",
+      "zh-Hans": "响周波【斩】",
+      "ar": "موجة الصدى (ضربة قاطعة)",
+      "es-419": "Onda de eco (tajo)"
+    }
+  },
+  {
+    "game_id": 3,
+    "kind": "fire",
+    "names": {
+      "ja": "響周波【火】",
+      "en": "Echo Wave (Fire)",
+      "fr": "Onde d'écho (Feu)",
+      "it": "Onda eco (fuoco)",
+      "de": "Echowelle (Feuer)",
+      "es": "Onda de eco (fuego)",
+      "ru": "Эховолна (огонь)",
+      "pl": "Fala echa (ogień)",
+      "pt-BR": "Onda de Eco (Fogo)",
+      "ko": "향주파【화】",
+      "zh-Hant": "響周波【火】",
+      "zh-Hans": "响周波【火】",
+      "ar": "موجة الصدى (نار)",
+      "es-419": "Onda de eco (fuego)"
+    }
+  },
+  {
+    "game_id": 4,
+    "kind": "water",
+    "names": {
+      "ja": "響周波【水】",
+      "en": "Echo Wave (Water)",
+      "fr": "Onde d'écho (Eau)",
+      "it": "Onda eco (acqua)",
+      "de": "Echowelle (Wasser)",
+      "es": "Onda de eco (agua)",
+      "ru": "Эховолна (вода)",
+      "pl": "Fala echa (woda)",
+      "pt-BR": "Onda de Eco (Água)",
+      "ko": "향주파【수】",
+      "zh-Hant": "響周波【水】",
+      "zh-Hans": "响周波【水】",
+      "ar": "موجة الصدى (ماء)",
+      "es-419": "Onda de eco (agua)"
+    }
+  },
+  {
+    "game_id": 5,
+    "kind": "thunder",
+    "names": {
+      "ja": "響周波【雷】",
+      "en": "Echo Wave (Thunder)",
+      "fr": "Onde d'écho (Foudre)",
+      "it": "Onda eco (tuono)",
+      "de": "Echowelle (Donner)",
+      "es": "Onda de eco (rayo)",
+      "ru": "Эховолна (гроза)",
+      "pl": "Fala echa (piorun)",
+      "pt-BR": "Onda de Eco (Raio)",
+      "ko": "향주파【뇌】",
+      "zh-Hant": "響周波【雷】",
+      "zh-Hans": "响周波【雷】",
+      "ar": "موجة الصدى (رعد)",
+      "es-419": "Onda de eco (rayo)"
+    }
+  },
+  {
+    "game_id": 6,
+    "kind": "ice",
+    "names": {
+      "ja": "響周波【氷】",
+      "en": "Echo Wave (Ice)",
+      "fr": "Onde d'écho (Glace)",
+      "it": "Onda eco (ghiaccio)",
+      "de": "Echowelle (Eis)",
+      "es": "Onda de eco (hielo)",
+      "ru": "Эховолна (лёд)",
+      "pl": "Fala echa (lód)",
+      "pt-BR": "Onda de Eco (Gelo)",
+      "ko": "향주파【빙】",
+      "zh-Hant": "響周波【冰】",
+      "zh-Hans": "响周波【冰】",
+      "ar": "موجة الصدى (ثلج)",
+      "es-419": "Onda de eco (hielo)"
+    }
+  },
+  {
+    "game_id": 7,
+    "kind": "dragon",
+    "names": {
+      "ja": "響周波【龍】",
+      "en": "Echo Wave (Dragon)",
+      "fr": "Onde d'écho (Dragon)",
+      "it": "Onda eco (drago)",
+      "de": "Echowelle (Drache)",
+      "es": "Onda de eco (draco)",
+      "ru": "Эховолна (дракон)",
+      "pl": "Fala echa (smok)",
+      "pt-BR": "Onda de Eco (Dragão)",
+      "ko": "향주파【용】",
+      "zh-Hant": "響周波【龍】",
+      "zh-Hans": "响周波【龙】",
+      "ar": "موجة الصدى (تنين)",
+      "es-419": "Onda de eco (draco)"
+    }
+  },
+  {
+    "game_id": 8,
+    "kind": "poison",
+    "names": {
+      "ja": "響周波【毒】",
+      "en": "Echo Wave (Poison)",
+      "fr": "Onde d'écho (Poison)",
+      "it": "Onda eco (veleno)",
+      "de": "Echowelle (Gift)",
+      "es": "Onda de eco (veneno)",
+      "ru": "Эховолна (яд)",
+      "pl": "Fala echa (trucizna)",
+      "pt-BR": "Onda de Eco (Veneno)",
+      "ko": "향주파【독】",
+      "zh-Hant": "響周波【毒】",
+      "zh-Hans": "响周波【毒】",
+      "ar": "موجة الصدى (سم)",
+      "es-419": "Onda de eco (veneno)"
+    }
+  },
+  {
+    "game_id": 9,
+    "kind": "paralyze",
+    "names": {
+      "ja": "響周波【麻痺】",
+      "en": "Echo Wave (Paralysis)",
+      "fr": "Onde d'écho (Paralysie)",
+      "it": "Onda eco (paralisi)",
+      "de": "Echowelle (Lähmung)",
+      "es": "Onda de eco (parálisis)",
+      "ru": "Эховолна (паралич)",
+      "pl": "Fala echa (paraliż)",
+      "pt-BR": "Onda de Eco (Paralisia)",
+      "ko": "향주파【마비】",
+      "zh-Hant": "響周波【麻痺】",
+      "zh-Hans": "响周波【麻痹】",
+      "ar": "موجة الصدى (شلل)",
+      "es-419": "Onda de eco (parálisis)"
+    }
+  },
+  {
+    "game_id": 10,
+    "kind": "sleep",
+    "names": {
+      "ja": "響周波【睡眠】",
+      "en": "Echo Wave (Sleep)",
+      "fr": "Onde d'écho (Sommeil)",
+      "it": "Onda eco (sonno)",
+      "de": "Echowelle (Schlaf)",
+      "es": "Onda de eco (sueño)",
+      "ru": "Эховолна (сон)",
+      "pl": "Fala echa (sen)",
+      "pt-BR": "Onda de Eco (Sono)",
+      "ko": "향주파【수면】",
+      "zh-Hant": "響周波【睡眠】",
+      "zh-Hans": "响周波【睡眠】",
+      "ar": "موجة الصدى (نوم)",
+      "es-419": "Onda de eco (sueño)"
+    }
+  },
+  {
+    "game_id": 11,
+    "kind": "blast",
+    "names": {
+      "ja": "響周波【爆破】",
+      "en": "Echo Wave (Blast)",
+      "fr": "Onde d'écho (Explosion)",
+      "it": "Onda eco (scoppio)",
+      "de": "Echowelle (Explosion)",
+      "es": "Onda de eco (nitro)",
+      "ru": "Эховолна (взрыв)",
+      "pl": "Fala echa (wybuch)",
+      "pt-BR": "Onda de Eco (Explosão)",
+      "ko": "향주파【폭파】",
+      "zh-Hant": "響周波【爆破】",
+      "zh-Hans": "响周波【爆破】",
+      "ar": "موجة الصدى (انفجار)",
+      "es-419": "Onda de eco (nitro)"
+    }
+  }
+]

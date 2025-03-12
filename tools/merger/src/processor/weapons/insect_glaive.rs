@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::InsectGlaive,
         input_prefix: "Rod",
         output_prefix: Some("InsectGlaive"),
+        callback: None,
     }
 }
 

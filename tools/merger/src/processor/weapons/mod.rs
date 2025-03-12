@@ -19,6 +19,7 @@ mod great_sword;
 mod gunlance;
 mod hammer;
 mod heavy_bowgun;
+mod hunting_horn;
 mod insect_glaive;
 mod lance;
 mod light_bowgun;
@@ -40,6 +41,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, switch_axe::definition())?;
     do_process(config, filters, long_sword::definition())?;
     do_process(config, filters, dual_blades::definition())?;
+    do_process(config, filters, hunting_horn::definition())?;
 
     Ok(())
 }
@@ -77,7 +79,11 @@ fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) 
 
         weapon.crafting.zenny_cost = data.price;
 
-        lookup.insert(*data.id, merged.len());
+        if let Some(callback) = def.callback {
+            callback(config, &mut weapon, data)?;
+        }
+
+        lookup.insert(weapon.game_id, merged.len());
         merged.push(weapon);
     }
 
@@ -121,10 +127,13 @@ fn do_process(config: &Config, filters: &[Processor], def: ProcessorDefinition) 
     merged.write_file(config.io.output_dir.join(def.output_path()))
 }
 
+type SubProcessFn = fn(config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result;
+
 struct ProcessorDefinition {
     processor: Processor,
     input_prefix: &'static str,
     output_prefix: Option<&'static str>,
+    callback: Option<SubProcessFn>,
 }
 
 impl ProcessorDefinition {
@@ -191,7 +200,8 @@ impl From<&WeaponData> for Weapon {
     }
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, derive_more::Unwrap)]
+#[unwrap(ref_mut)]
 #[serde(tag = "kind", rename_all = "kebab-case")]
 enum WeaponKind {
     Bow(bow::Bow),
@@ -207,9 +217,11 @@ enum WeaponKind {
     SwitchAxe(switch_axe::SwitchAxe),
     LongSword(long_sword::LongSword),
     DualBlades(dual_blades::DualBlades),
+    HuntingHorn(hunting_horn::HuntingHorn),
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, derive_more::Unwrap)]
+#[unwrap(ref)]
 #[serde(untagged)]
 enum WeaponDataKind {
     Bow(bow::BowData),
@@ -225,6 +237,7 @@ enum WeaponDataKind {
     SwitchAxe(switch_axe::SwitchAxeData),
     LongSword(long_sword::LongSwordData),
     DualBlades(dual_blades::DualBladesData),
+    HuntingHorn(hunting_horn::HuntingHornData),
 }
 
 impl From<&WeaponDataKind> for WeaponKind {
@@ -245,6 +258,7 @@ impl From<&WeaponDataKind> for WeaponKind {
             SwitchAxe(v) => Self::SwitchAxe(v.into()),
             LongSword(v) => Self::LongSword(v.into()),
             DualBlades(v) => Self::DualBlades(v.into()),
+            HuntingHorn(v) => Self::HuntingHorn(v.into()),
         }
     }
 }
@@ -495,7 +509,7 @@ enum WeaponKindCode {
 #[macro_export]
 macro_rules! is_weapon {
     ($name:ident () => $code:expr) => {
-        fn $name<'de, D>(deserializer: D) -> Result<WeaponKindCode, D::Error>
+        fn $name<'de, D>(deserializer: D) -> std::result::Result<WeaponKindCode, D::Error>
         where
             D: serde::de::Deserializer<'de>,
         {

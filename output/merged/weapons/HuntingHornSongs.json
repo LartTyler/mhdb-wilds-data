@@ -1,0 +1,2191 @@
+[
+  {
+    "effect_id": 1,
+    "notes": [
+      "purple",
+      "purple"
+    ],
+    "names": {
+      "ja": "自分強化",
+      "en": "Self-Improvement",
+      "fr": "Auto-amélioration",
+      "it": "Automiglioramento",
+      "de": "Selbstverbesserung",
+      "es": "Automejora",
+      "ru": "Самосовершенствование",
+      "pl": "Samodoskonalenie",
+      "pt-BR": "Autoaprimoramento",
+      "ko": "자기 강화",
+      "zh-Hant": "自我強化",
+      "zh-Hans": "自我强化",
+      "ar": "التحسّن الذاتي",
+      "es-419": "Automejora"
+    }
+  },
+  {
+    "effect_id": 1,
+    "notes": [
+      "white",
+      "white"
+    ],
+    "names": {
+      "ja": "自分強化",
+      "en": "Self-Improvement",
+      "fr": "Auto-amélioration",
+      "it": "Automiglioramento",
+      "de": "Selbstverbesserung",
+      "es": "Automejora",
+      "ru": "Самосовершенствование",
+      "pl": "Samodoskonalenie",
+      "pt-BR": "Autoaprimoramento",
+      "ko": "자기 강화",
+      "zh-Hant": "自我強化",
+      "zh-Hans": "自我强化",
+      "ar": "التحسّن الذاتي",
+      "es-419": "Automejora"
+    }
+  },
+  {
+    "effect_id": 2,
+    "notes": [
+      "purple",
+      "green",
+      "purple"
+    ],
+    "names": {
+      "ja": "体力回復【小】",
+      "en": "Health Recovery (S)",
+      "fr": "Récupération vie (P)",
+      "it": "Recupero salute (S)",
+      "de": "Gesundheitserh. (S)",
+      "es": "Recupera salud (P)",
+      "ru": "Восстановление здоровья (S)",
+      "pl": "Regeneracja zdrowia (M)",
+      "pt-BR": "Regeneração de Vida (P)",
+      "ko": "체력 회복【소】",
+      "zh-Hant": "體力回復【小】",
+      "zh-Hans": "体力回复【小】",
+      "ar": "استعادة الصحة (ص)",
+      "es-419": "Recupera salud (P)"
+    }
+  },
+  {
+    "effect_id": 2,
+    "notes": [
+      "white",
+      "green",
+      "white"
+    ],
+    "names": {
+      "ja": "体力回復【小】",
+      "en": "Health Recovery (S)",
+      "fr": "Récupération vie (P)",
+      "it": "Recupero salute (S)",
+      "de": "Gesundheitserh. (S)",
+      "es": "Recupera salud (P)",
+      "ru": "Восстановление здоровья (S)",
+      "pl": "Regeneracja zdrowia (M)",
+      "pt-BR": "Regeneração de Vida (P)",
+      "ko": "체력 회복【소】",
+      "zh-Hant": "體力回復【小】",
+      "zh-Hans": "体力回复【小】",
+      "ar": "استعادة الصحة (ص)",
+      "es-419": "Recupera salud (P)"
+    }
+  },
+  {
+    "effect_id": 3,
+    "notes": [
+      "green",
+      "white",
+      "aqua",
+      "green"
+    ],
+    "names": {
+      "ja": "体力回復【中】",
+      "en": "Health Recovery (M)",
+      "fr": "Récupération vie (M)",
+      "it": "Recupero salute (M)",
+      "de": "Gesundheitserh. (M)",
+      "es": "Recupera salud (M)",
+      "ru": "Восстановление здоровья (M)",
+      "pl": "Regeneracja zdrowia (Ś)",
+      "pt-BR": "Regeneração de Vida (M)",
+      "ko": "체력 회복【중】",
+      "zh-Hant": "體力回復【中】",
+      "zh-Hans": "体力回复【中】",
+      "ar": "استعادة الصحة (م)",
+      "es-419": "Recupera salud (M)"
+    }
+  },
+  {
+    "effect_id": 4,
+    "notes": [
+      "green",
+      "green",
+      "purple",
+      "aqua"
+    ],
+    "names": {
+      "ja": "体力回復【大】",
+      "en": "Health Recovery (L)",
+      "fr": "Récupération vie (G)",
+      "it": "Recupero salute (L)",
+      "de": "Gesundheitserh. (L)",
+      "es": "Recupera salud (G)",
+      "ru": "Восстановление здоровья (L)",
+      "pl": "Regeneracja zdrowia (D)",
+      "pt-BR": "Regeneração de Vida (G)",
+      "ko": "체력 회복【대】",
+      "zh-Hant": "體力回復【大】",
+      "zh-Hans": "体力回复【大】",
+      "ar": "استعادة الصحة (ك)",
+      "es-419": "Recupera salud (G)"
+    }
+  },
+  {
+    "effect_id": 5,
+    "notes": [
+      "green",
+      "blue",
+      "white",
+      "blue"
+    ],
+    "names": {
+      "ja": "体力回復【小】＆解毒",
+      "en": "Health Rec. (S) + Antidote",
+      "fr": "Récupération vie (P) + Antidote",
+      "it": "Recupero salute (S) + antidoto",
+      "de": "GesundErh.(S)&Gegengift",
+      "es": "Recup. salud (P) + antídoto",
+      "ru": "Восст. здоровья (S) + противоядие",
+      "pl": "Regeneracja Zdrowia (S) + antidotum",
+      "pt-BR": "Reg. de Vida (P) + Antídoto",
+      "ko": "체력 회복【소】＆해독",
+      "zh-Hant": "體力回復【小】＆解毒",
+      "zh-Hans": "体力回复【小】＆解毒",
+      "ar": "تعافي الصحة (ص) + ترياق",
+      "es-419": "Recup. salud (P) + antídoto"
+    }
+  },
+  {
+    "effect_id": 6,
+    "notes": [
+      "green",
+      "blue",
+      "purple",
+      "blue"
+    ],
+    "names": {
+      "ja": "体力回復【中】＆解毒",
+      "en": "Health Rec. (M) + Antidote",
+      "fr": "Récupération vie (M) + Antidote",
+      "it": "Recupero salute (M) + antidoto",
+      "de": "GesundErh.(M)&Gegengift",
+      "es": "Recup. salud (M) + antídoto",
+      "ru": "Восст. здоровья (M) + противоядие",
+      "pl": "Reg. zdrowia (Ś) + antidotum",
+      "pt-BR": "Reg. de Vida (M) + Antídoto",
+      "ko": "체력 회복【중】&해독",
+      "zh-Hant": "體力回復【中】＆解毒",
+      "zh-Hans": "体力回复【中】＆解毒",
+      "ar": "تعافي الصحة (م) + ترياق",
+      "es-419": "Recup. salud (M) + antídoto"
+    }
+  },
+  {
+    "effect_id": 7,
+    "notes": [
+      "green",
+      "green",
+      "yellow"
+    ],
+    "names": {
+      "ja": "体力回復加速【小】",
+      "en": "Recovery Speed (S)",
+      "fr": "Récupération rapide (P)",
+      "it": "Velocità di recupero (S)",
+      "de": "Erholungstempo (S)",
+      "es": "Recuperación rápida (P)",
+      "ru": "Скорость заживления (S)",
+      "pl": "Szybkość regeneracji (M)",
+      "pt-BR": "Vel. de Regeneração (P)",
+      "ko": "체력 회복 가속【소】",
+      "zh-Hant": "體力回復加速【小】",
+      "zh-Hans": "体力回复加速【小】",
+      "ar": "سرعة التعافي (ص)",
+      "es-419": "Recuperación rápida (P)"
+    }
+  },
+  {
+    "effect_id": 8,
+    "notes": [
+      "green",
+      "green",
+      "red",
+      "purple"
+    ],
+    "names": {
+      "ja": "体力回復加速【大】",
+      "en": "Recovery Speed (L)",
+      "fr": "Récupération rapide (G)",
+      "it": "Velocità di recupero (L)",
+      "de": "Erholungstempo (L)",
+      "es": "Recuperación rápida (G)",
+      "ru": "Скорость заживления (L)",
+      "pl": "Szybkość regeneracji (D)",
+      "pt-BR": "Vel. de Regeneração (G)",
+      "ko": "체력 회복 가속【대】",
+      "zh-Hant": "體力回復加速【大】",
+      "zh-Hans": "体力回复加速【大】",
+      "ar": "سرعة التعافي (ك)",
+      "es-419": "Recuperación rápida (G)"
+    }
+  },
+  {
+    "effect_id": 9,
+    "notes": [
+      "white",
+      "yellow",
+      "blue"
+    ],
+    "names": {
+      "ja": "スタミナ節約【短】",
+      "en": "Stamina Use Reduced (S)",
+      "fr": "Économie d'endurance (P)",
+      "it": "Riduzione consumo resistenza (S)",
+      "de": "Ausdauernutz. red. (S)",
+      "es": "Antigasto de resistencia (P)",
+      "ru": "Повышение выносливости (S)",
+      "pl": "Mniejsze zużycie wytrz. (Ś)",
+      "pt-BR": "Economia de Vigor (P)",
+      "ko": "스태미나 절약【짧음】",
+      "zh-Hant": "節省耐力【短】",
+      "zh-Hans": "耐力节约【短】",
+      "ar": "تقليل استخدام قوة التحمل (ص)",
+      "es-419": "Menos gasto de res. (P)"
+    }
+  },
+  {
+    "effect_id": 9,
+    "notes": [
+      "white",
+      "aqua",
+      "blue"
+    ],
+    "names": {
+      "ja": "スタミナ節約【短】",
+      "en": "Stamina Use Reduced (S)",
+      "fr": "Économie d'endurance (P)",
+      "it": "Riduzione consumo resistenza (S)",
+      "de": "Ausdauernutz. red. (S)",
+      "es": "Antigasto de resistencia (P)",
+      "ru": "Повышение выносливости (S)",
+      "pl": "Mniejsze zużycie wytrz. (Ś)",
+      "pt-BR": "Economia de Vigor (P)",
+      "ko": "스태미나 절약【짧음】",
+      "zh-Hant": "節省耐力【短】",
+      "zh-Hans": "耐力节约【短】",
+      "ar": "تقليل استخدام قوة التحمل (ص)",
+      "es-419": "Menos gasto de res. (P)"
+    }
+  },
+  {
+    "effect_id": 9,
+    "notes": [
+      "white",
+      "green",
+      "blue"
+    ],
+    "names": {
+      "ja": "スタミナ節約【短】",
+      "en": "Stamina Use Reduced (S)",
+      "fr": "Économie d'endurance (P)",
+      "it": "Riduzione consumo resistenza (S)",
+      "de": "Ausdauernutz. red. (S)",
+      "es": "Antigasto de resistencia (P)",
+      "ru": "Повышение выносливости (S)",
+      "pl": "Mniejsze zużycie wytrz. (Ś)",
+      "pt-BR": "Economia de Vigor (P)",
+      "ko": "스태미나 절약【짧음】",
+      "zh-Hant": "節省耐力【短】",
+      "zh-Hans": "耐力节约【短】",
+      "ar": "تقليل استخدام قوة التحمل (ص)",
+      "es-419": "Menos gasto de res. (P)"
+    }
+  },
+  {
+    "effect_id": 10,
+    "notes": [
+      "purple",
+      "aqua",
+      "blue",
+      "aqua"
+    ],
+    "names": {
+      "ja": "スタミナ節約【長】",
+      "en": "Stamina Use Reduced (L)",
+      "fr": "Économie d'endurance (G)",
+      "it": "Riduzione consumo resistenza (L)",
+      "de": "Ausdauernutz. red. (L)",
+      "es": "Antigasto de resistencia (G)",
+      "ru": "Повышение выносливости (L)",
+      "pl": "Mniejsze zużycie wytrz. (D)",
+      "pt-BR": "Economia de Vigor (G)",
+      "ko": "스태미나 절약【긺】",
+      "zh-Hant": "節省耐力【長】",
+      "zh-Hans": "耐力节约【长】",
+      "ar": "تقليل استخدام قوة التحمل (ك)",
+      "es-419": "Antigasto de resistencia (G)"
+    }
+  },
+  {
+    "effect_id": 10,
+    "notes": [
+      "purple",
+      "yellow",
+      "blue"
+    ],
+    "names": {
+      "ja": "スタミナ節約【長】",
+      "en": "Stamina Use Reduced (L)",
+      "fr": "Économie d'endurance (G)",
+      "it": "Riduzione consumo resistenza (L)",
+      "de": "Ausdauernutz. red. (L)",
+      "es": "Antigasto de resistencia (G)",
+      "ru": "Повышение выносливости (L)",
+      "pl": "Mniejsze zużycie wytrz. (D)",
+      "pt-BR": "Economia de Vigor (G)",
+      "ko": "스태미나 절약【긺】",
+      "zh-Hant": "節省耐力【長】",
+      "zh-Hans": "耐力节约【长】",
+      "ar": "تقليل استخدام قوة التحمل (ك)",
+      "es-419": "Antigasto de resistencia (G)"
+    }
+  },
+  {
+    "effect_id": 10,
+    "notes": [
+      "purple",
+      "green",
+      "blue",
+      "green"
+    ],
+    "names": {
+      "ja": "スタミナ節約【長】",
+      "en": "Stamina Use Reduced (L)",
+      "fr": "Économie d'endurance (G)",
+      "it": "Riduzione consumo resistenza (L)",
+      "de": "Ausdauernutz. red. (L)",
+      "es": "Antigasto de resistencia (G)",
+      "ru": "Повышение выносливости (L)",
+      "pl": "Mniejsze zużycie wytrz. (D)",
+      "pt-BR": "Economia de Vigor (G)",
+      "ko": "스태미나 절약【긺】",
+      "zh-Hant": "節省耐力【長】",
+      "zh-Hans": "耐力节约【长】",
+      "ar": "تقليل استخدام قوة التحمل (ك)",
+      "es-419": "Antigasto de resistencia (G)"
+    }
+  },
+  {
+    "effect_id": 10,
+    "notes": [
+      "purple",
+      "orange",
+      "purple",
+      "blue"
+    ],
+    "names": {
+      "ja": "スタミナ節約【長】",
+      "en": "Stamina Use Reduced (L)",
+      "fr": "Économie d'endurance (G)",
+      "it": "Riduzione consumo resistenza (L)",
+      "de": "Ausdauernutz. red. (L)",
+      "es": "Antigasto de resistencia (G)",
+      "ru": "Повышение выносливости (L)",
+      "pl": "Mniejsze zużycie wytrz. (D)",
+      "pt-BR": "Economia de Vigor (G)",
+      "ko": "스태미나 절약【긺】",
+      "zh-Hant": "節省耐力【長】",
+      "zh-Hans": "耐力节约【长】",
+      "ar": "تقليل استخدام قوة التحمل (ك)",
+      "es-419": "Antigasto de resistencia (G)"
+    }
+  },
+  {
+    "effect_id": 11,
+    "notes": [
+      "white",
+      "red",
+      "white"
+    ],
+    "names": {
+      "ja": "攻撃力UP【小】",
+      "en": "Attack Up (S)",
+      "fr": "Bonus attaque (P)",
+      "it": "Aumenta attacco (S)",
+      "de": "Angriff hoch (S)",
+      "es": "Mejora de ataque (P)",
+      "ru": "Усиление атаки (S)",
+      "pl": "Wzrost ataku (M)",
+      "pt-BR": "Aumento de Ataque (P)",
+      "ko": "공격력 UP【소】",
+      "zh-Hant": "攻擊力上升【小】",
+      "zh-Hans": "攻击力提升【小】",
+      "ar": "زيادة الهجوم (ص)",
+      "es-419": "Ataque+ (P)"
+    }
+  },
+  {
+    "effect_id": 11,
+    "notes": [
+      "red",
+      "yellow",
+      "purple"
+    ],
+    "names": {
+      "ja": "攻撃力UP【小】",
+      "en": "Attack Up (S)",
+      "fr": "Bonus attaque (P)",
+      "it": "Aumenta attacco (S)",
+      "de": "Angriff hoch (S)",
+      "es": "Mejora de ataque (P)",
+      "ru": "Усиление атаки (S)",
+      "pl": "Wzrost ataku (M)",
+      "pt-BR": "Aumento de Ataque (P)",
+      "ko": "공격력 UP【소】",
+      "zh-Hant": "攻擊力上升【小】",
+      "zh-Hans": "攻击力提升【小】",
+      "ar": "زيادة الهجوم (ص)",
+      "es-419": "Ataque+ (P)"
+    }
+  },
+  {
+    "effect_id": 12,
+    "notes": [
+      "purple",
+      "red",
+      "blue",
+      "purple"
+    ],
+    "names": {
+      "ja": "攻撃力UP【大】",
+      "en": "Attack Up (L)",
+      "fr": "Bonus attaque (G)",
+      "it": "Aumenta attacco (L)",
+      "de": "Angriff hoch (L)",
+      "es": "Mejora de ataque (G)",
+      "ru": "Усиление атаки (L)",
+      "pl": "Wzrost ataku (D)",
+      "pt-BR": "Aumento de Ataque (G)",
+      "ko": "공격력 UP【대】",
+      "zh-Hant": "攻擊力上升【大】",
+      "zh-Hans": "攻击力提升【大】",
+      "ar": "زيادة الهجوم (ك)",
+      "es-419": "Ataque+ (G)"
+    }
+  },
+  {
+    "effect_id": 12,
+    "notes": [
+      "purple",
+      "red",
+      "aqua",
+      "purple"
+    ],
+    "names": {
+      "ja": "攻撃力UP【大】",
+      "en": "Attack Up (L)",
+      "fr": "Bonus attaque (G)",
+      "it": "Aumenta attacco (L)",
+      "de": "Angriff hoch (L)",
+      "es": "Mejora de ataque (G)",
+      "ru": "Усиление атаки (L)",
+      "pl": "Wzrost ataku (D)",
+      "pt-BR": "Aumento de Ataque (G)",
+      "ko": "공격력 UP【대】",
+      "zh-Hant": "攻擊力上升【大】",
+      "zh-Hans": "攻击力提升【大】",
+      "ar": "زيادة الهجوم (ك)",
+      "es-419": "Ataque+ (G)"
+    }
+  },
+  {
+    "effect_id": 12,
+    "notes": [
+      "purple",
+      "red",
+      "green",
+      "purple"
+    ],
+    "names": {
+      "ja": "攻撃力UP【大】",
+      "en": "Attack Up (L)",
+      "fr": "Bonus attaque (G)",
+      "it": "Aumenta attacco (L)",
+      "de": "Angriff hoch (L)",
+      "es": "Mejora de ataque (G)",
+      "ru": "Усиление атаки (L)",
+      "pl": "Wzrost ataku (D)",
+      "pt-BR": "Aumento de Ataque (G)",
+      "ko": "공격력 UP【대】",
+      "zh-Hant": "攻擊力上升【大】",
+      "zh-Hans": "攻击力提升【大】",
+      "ar": "زيادة الهجوم (ك)",
+      "es-419": "Ataque+ (G)"
+    }
+  },
+  {
+    "effect_id": 12,
+    "notes": [
+      "purple",
+      "orange",
+      "orange",
+      "red"
+    ],
+    "names": {
+      "ja": "攻撃力UP【大】",
+      "en": "Attack Up (L)",
+      "fr": "Bonus attaque (G)",
+      "it": "Aumenta attacco (L)",
+      "de": "Angriff hoch (L)",
+      "es": "Mejora de ataque (G)",
+      "ru": "Усиление атаки (L)",
+      "pl": "Wzrost ataku (D)",
+      "pt-BR": "Aumento de Ataque (G)",
+      "ko": "공격력 UP【대】",
+      "zh-Hant": "攻擊力上升【大】",
+      "zh-Hans": "攻击力提升【大】",
+      "ar": "زيادة الهجوم (ك)",
+      "es-419": "Ataque+ (G)"
+    }
+  },
+  {
+    "effect_id": 13,
+    "notes": [
+      "yellow",
+      "aqua",
+      "yellow",
+      "aqua"
+    ],
+    "names": {
+      "ja": "属性攻撃力UP",
+      "en": "Elem Attack Boost",
+      "fr": "Attaque élémentaire +",
+      "it": "Aumenta attacco elementale",
+      "de": "Elementangriffsbonus",
+      "es": "Bonus ataque elemental",
+      "ru": "Усиление стихийного урона",
+      "pl": "Żywiołowe wzmocnienie ataku",
+      "pt-BR": "Ref. de Ataque Elemental",
+      "ko": "속성 공격력 UP",
+      "zh-Hant": "屬性攻擊力上升",
+      "zh-Hans": "属性攻击力提升",
+      "ar": "تعزيز الهجوم العنصري",
+      "es-419": "Bonus ataques elem."
+    }
+  },
+  {
+    "effect_id": 13,
+    "notes": [
+      "purple",
+      "green",
+      "yellow",
+      "green"
+    ],
+    "names": {
+      "ja": "属性攻撃力UP",
+      "en": "Elem Attack Boost",
+      "fr": "Attaque élémentaire +",
+      "it": "Aumenta attacco elementale",
+      "de": "Elementangriffsbonus",
+      "es": "Bonus ataque elemental",
+      "ru": "Усиление стихийного урона",
+      "pl": "Żywiołowe wzmocnienie ataku",
+      "pt-BR": "Ref. de Ataque Elemental",
+      "ko": "속성 공격력 UP",
+      "zh-Hant": "屬性攻擊力上升",
+      "zh-Hans": "属性攻击力提升",
+      "ar": "تعزيز الهجوم العنصري",
+      "es-419": "Bonus ataques elem."
+    }
+  },
+  {
+    "effect_id": 13,
+    "notes": [
+      "purple",
+      "orange",
+      "yellow",
+      "orange"
+    ],
+    "names": {
+      "ja": "属性攻撃力UP",
+      "en": "Elem Attack Boost",
+      "fr": "Attaque élémentaire +",
+      "it": "Aumenta attacco elementale",
+      "de": "Elementangriffsbonus",
+      "es": "Bonus ataque elemental",
+      "ru": "Усиление стихийного урона",
+      "pl": "Żywiołowe wzmocnienie ataku",
+      "pt-BR": "Ref. de Ataque Elemental",
+      "ko": "속성 공격력 UP",
+      "zh-Hant": "屬性攻擊力上升",
+      "zh-Hans": "属性攻击力提升",
+      "ar": "تعزيز الهجوم العنصري",
+      "es-419": "Bonus ataques elem."
+    }
+  },
+  {
+    "effect_id": 14,
+    "notes": [
+      "aqua",
+      "orange",
+      "orange",
+      "purple"
+    ],
+    "names": {
+      "ja": "状態異常攻撃力UP",
+      "en": "Status Attack Up",
+      "fr": "Attaque à afflictions +",
+      "it": "Aumenta attacco stato",
+      "de": "Statusangriff hoch",
+      "es": "Potencia ataque estado alterado",
+      "ru": "Усиление атак со статусом",
+      "pl": "Wzrost ataku ze szk. efekt.",
+      "pt-BR": "Aum. de Ataque de Status",
+      "ko": "상태 이상 공격력 UP",
+      "zh-Hant": "狀態異常攻擊上升",
+      "zh-Hans": "状态异常攻击力提升",
+      "ar": "زيادة هجوم الوضعية",
+      "es-419": "Mejora ataque con estado"
+    }
+  },
+  {
+    "effect_id": 15,
+    "notes": [
+      "white",
+      "blue",
+      "blue"
+    ],
+    "names": {
+      "ja": "防御力UP【小】",
+      "en": "Defense Up (S)",
+      "fr": "Bonus défense (P)",
+      "it": "Aumenta difesa (S)",
+      "de": "Verteidigung hoch (S)",
+      "es": "Mejora de defensa (P)",
+      "ru": "Усиление защиты (S)",
+      "pl": "Wzrost obrony (M)",
+      "pt-BR": "Aumento de Defesa (P)",
+      "ko": "방어력 UP【소】",
+      "zh-Hant": "防禦力上升【小】",
+      "zh-Hans": "防御力提升【小】",
+      "ar": "زيادة الدفاع (ص)",
+      "es-419": "Mejora de defensa (P)"
+    }
+  },
+  {
+    "effect_id": 16,
+    "notes": [
+      "purple",
+      "blue",
+      "blue",
+      "purple"
+    ],
+    "names": {
+      "ja": "防御力UP【大】",
+      "en": "Defense Up (L)",
+      "fr": "Bonus défense (G)",
+      "it": "Aumenta difesa (L)",
+      "de": "Verteidigung hoch (L)",
+      "es": "Mejora de defensa (G)",
+      "ru": "Усиление защиты (L)",
+      "pl": "Wzrost obrony (D)",
+      "pt-BR": "Aumento de Defesa (G)",
+      "ko": "방어력 UP【대】",
+      "zh-Hant": "防禦力上升【大】",
+      "zh-Hans": "防御力提升【大】",
+      "ar": "زيادة الدفاع (ك)",
+      "es-419": "Mejora de defensa (G)"
+    }
+  },
+  {
+    "effect_id": 17,
+    "notes": [
+      "purple",
+      "orange",
+      "purple",
+      "aqua"
+    ],
+    "names": {
+      "ja": "精霊王の加護",
+      "en": "Divine Protection",
+      "fr": "Protection divine",
+      "it": "Protezione divina",
+      "de": "Göttlicher Schutz",
+      "es": "Protección divina",
+      "ru": "Божественная защита",
+      "pl": "Boska ochrona",
+      "pt-BR": "Proteção Divina",
+      "ko": "정령왕의 가호",
+      "zh-Hant": "精靈王加護",
+      "zh-Hans": "精灵王加护",
+      "ar": "حماية مقدسة",
+      "es-419": "Protección divina"
+    }
+  },
+  {
+    "effect_id": 17,
+    "notes": [
+      "green",
+      "yellow",
+      "yellow",
+      "purple"
+    ],
+    "names": {
+      "ja": "精霊王の加護",
+      "en": "Divine Protection",
+      "fr": "Protection divine",
+      "it": "Protezione divina",
+      "de": "Göttlicher Schutz",
+      "es": "Protección divina",
+      "ru": "Божественная защита",
+      "pl": "Boska ochrona",
+      "pt-BR": "Proteção Divina",
+      "ko": "정령왕의 가호",
+      "zh-Hant": "精靈王加護",
+      "zh-Hans": "精灵王加护",
+      "ar": "حماية مقدسة",
+      "es-419": "Protección divina"
+    }
+  },
+  {
+    "effect_id": 18,
+    "notes": [
+      "yellow",
+      "red",
+      "white"
+    ],
+    "names": {
+      "ja": "火属性防御強化【小】",
+      "en": "Fire Res (S)",
+      "fr": "Résistance feu (P)",
+      "it": "Resistenza fuoco (S)",
+      "de": "Feuerwiderstand (S)",
+      "es": "Resistencia al fuego (P)",
+      "ru": "Сопр. огню (S)",
+      "pl": "Ognioodporność (M)",
+      "pt-BR": "Resistência a Fogo (P)",
+      "ko": "불속성 방어 강화【소】",
+      "zh-Hant": "火屬性防禦強化【小】",
+      "zh-Hans": "火属性防御强化【小】",
+      "ar": "مقاومة النار (ص)",
+      "es-419": "Antifuego (P)"
+    }
+  },
+  {
+    "effect_id": 19,
+    "notes": [
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "names": {
+      "ja": "火属性防御強化【大】",
+      "en": "Fire Res (L)",
+      "fr": "Résistance feu (G)",
+      "it": "Resistenza fuoco (L)",
+      "de": "Feuerwiderstand (L)",
+      "es": "Resistencia al fuego (G)",
+      "ru": "Сопр. огню (L)",
+      "pl": "Ognioodporność (D)",
+      "pt-BR": "Resistência a Fogo (G)",
+      "ko": "불속성 방어 강화【대】",
+      "zh-Hant": "火屬性防禦強化【大】",
+      "zh-Hans": "火属性防御强化【大】",
+      "ar": "تعزيز مقاومة النار (ك)",
+      "es-419": "Antifuego (G)"
+    }
+  },
+  {
+    "effect_id": 20,
+    "notes": [
+      "yellow",
+      "aqua",
+      "white"
+    ],
+    "names": {
+      "ja": "水属性防御強化【小】",
+      "en": "Water Res (S)",
+      "fr": "Résistance eau (P)",
+      "it": "Resistenza acqua (S)",
+      "de": "Wasserabwehr (S)",
+      "es": "Resistencia al agua (P)",
+      "ru": "Сопр. воде (S)",
+      "pl": "Wodoodporność (M)",
+      "pt-BR": "Resistência a Água (P)",
+      "ko": "물속성 방어 강화【소】",
+      "zh-Hant": "水屬性防禦強化【小】",
+      "zh-Hans": "水属性防御强化【小】",
+      "ar": "مقاومة الماء (ص)",
+      "es-419": "Antiagua (P)"
+    }
+  },
+  {
+    "effect_id": 21,
+    "notes": [
+      "yellow",
+      "aqua",
+      "purple"
+    ],
+    "names": {
+      "ja": "水属性防御強化【大】",
+      "en": "Water Res (L)",
+      "fr": "Résistance eau (G)",
+      "it": "Resistenza acqua (L)",
+      "de": "Wasserabwehr (L)",
+      "es": "Resistencia al agua (G)",
+      "ru": "Сопр. воде (L)",
+      "pl": "Wodoodporność (D)",
+      "pt-BR": "Resistência a Água (G)",
+      "ko": "물속성 방어 강화【대】",
+      "zh-Hant": "水屬性防禦強化【大】",
+      "zh-Hans": "水属性防御强化【大】",
+      "ar": "مقاومة الماء (ك)",
+      "es-419": "Antiagua (G)"
+    }
+  },
+  {
+    "effect_id": 22,
+    "notes": [
+      "yellow",
+      "white",
+      "green"
+    ],
+    "names": {
+      "ja": "雷属性防御強化【小】",
+      "en": "Thunder Res (S)",
+      "fr": "Résistance foudre (P)",
+      "it": "Resistenza tuono (S)",
+      "de": "Donnerabwehr (S)",
+      "es": "Resistencia al rayo (P)",
+      "ru": "Сопр. грозе (S)",
+      "pl": "Piorunoodporność (M)",
+      "pt-BR": "Resistência a Raio (P)",
+      "ko": "번개속성 방어 강화【소】",
+      "zh-Hant": "雷屬性防禦強化【小】",
+      "zh-Hans": "雷属性防御强化【小】",
+      "ar": "مقاومة الرعد (ص)",
+      "es-419": "Antirrayo (P)"
+    }
+  },
+  {
+    "effect_id": 23,
+    "notes": [
+      "yellow",
+      "purple",
+      "green"
+    ],
+    "names": {
+      "ja": "雷属性防御強化【大】",
+      "en": "Thunder Res (L)",
+      "fr": "Résistance foudre (G)",
+      "it": "Resistenza tuono (L)",
+      "de": "Donnerabwehr (L)",
+      "es": "Resistencia al rayo (G)",
+      "ru": "Сопр. грозе (L)",
+      "pl": "Piorunoodporność (D)",
+      "pt-BR": "Resistência a Raio (G)",
+      "ko": "번개속성 방어 강화【대】",
+      "zh-Hant": "雷屬性防禦強化【大】",
+      "zh-Hans": "雷属性防御强化【大】",
+      "ar": "مقاومة الرعد (ك)",
+      "es-419": "Antirrayo (G)"
+    }
+  },
+  {
+    "effect_id": 24,
+    "notes": [
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "names": {
+      "ja": "氷属性防御強化【小】",
+      "en": "Ice Res (S)",
+      "fr": "Résistance glace (P)",
+      "it": "Resistenza ghiaccio (S)",
+      "de": "Eisabwehr (S)",
+      "es": "Resistencia al hielo (P)",
+      "ru": "Сопр. льду (S)",
+      "pl": "Lodoodporność (M)",
+      "pt-BR": "Resistência a Gelo (P)",
+      "ko": "얼음속성 방어 강화【소】",
+      "zh-Hant": "冰屬性防禦強化【小】",
+      "zh-Hans": "冰属性防御强化【小】",
+      "ar": "مقاومة الثلج (ص)",
+      "es-419": "Antihielo (P)"
+    }
+  },
+  {
+    "effect_id": 25,
+    "notes": [
+      "yellow",
+      "blue",
+      "purple"
+    ],
+    "names": {
+      "ja": "氷属性防御強化【大】",
+      "en": "Ice Res (L)",
+      "fr": "Résistance glace (G)",
+      "it": "Resistenza ghiaccio (L)",
+      "de": "Eisabwehr (L)",
+      "es": "Resistencia al hielo (G)",
+      "ru": "Сопр. льду (L)",
+      "pl": "Lodoodporność (D)",
+      "pt-BR": "Resistência a Gelo (G)",
+      "ko": "얼음속성 방어 강화【대】",
+      "zh-Hant": "冰屬性防禦強化【大】",
+      "zh-Hans": "冰属性防御强化【大】",
+      "ar": "مقاومة الثلج (ك)",
+      "es-419": "Antihielo (G)"
+    }
+  },
+  {
+    "effect_id": 26,
+    "notes": [
+      "white",
+      "yellow",
+      "aqua"
+    ],
+    "names": {
+      "ja": "龍属性防御強化【小】",
+      "en": "Dragon Res (S)",
+      "fr": "Résistance dragon (P)",
+      "it": "Resistenza drago (S)",
+      "de": "Drachenabwehr (S)",
+      "es": "Resistencia al draco (P)",
+      "ru": "Сопр. драконy (S)",
+      "pl": "Smokoodporność (M)",
+      "pt-BR": "Resistência a Dragão (P)",
+      "ko": "용속성 방어 강화【소】",
+      "zh-Hant": "龍屬性防禦強化【小】",
+      "zh-Hans": "龙属性防御强化【小】",
+      "ar": "مقاومة التنين (ص)",
+      "es-419": "Antidraco (P)"
+    }
+  },
+  {
+    "effect_id": 27,
+    "notes": [
+      "purple",
+      "yellow",
+      "aqua"
+    ],
+    "names": {
+      "ja": "龍属性防御強化【大】",
+      "en": "Dragon Res (L)",
+      "fr": "Résistance dragon (G)",
+      "it": "Resistenza drago (L)",
+      "de": "Drachenabwehr (L)",
+      "es": "Resistencia al draco (G)",
+      "ru": "Сопр. драконy (L)",
+      "pl": "Smokoodporność (L)",
+      "pt-BR": "Resistência a Dragão (G)",
+      "ko": "용속성 방어 강화【대】",
+      "zh-Hant": "龍屬性防禦強化【大】",
+      "zh-Hans": "龙属性防御强化【大】",
+      "ar": "مقاومة التنين (ك)",
+      "es-419": "Antidraco (G)"
+    }
+  },
+  {
+    "effect_id": 28,
+    "notes": [
+      "aqua",
+      "aqua",
+      "green",
+      "white"
+    ],
+    "names": {
+      "ja": "聴覚保護【小】",
+      "en": "Earplugs (S)",
+      "fr": "Protection ouïe (P)",
+      "it": "Protezione udito (S)",
+      "de": "Ohrstöpsel (S)",
+      "es": "Antirrugidos (P)",
+      "ru": "Беруши (S)",
+      "pl": "Zatyczki do uszu (M)",
+      "pt-BR": "Abafadores (P)",
+      "ko": "청각 보호【소】",
+      "zh-Hant": "聽覺保護【小】",
+      "zh-Hans": "听觉保护【小】",
+      "ar": "سدادات أذن (ص)",
+      "es-419": "Antirrugidos (P)"
+    }
+  },
+  {
+    "effect_id": 28,
+    "notes": [
+      "aqua",
+      "aqua",
+      "red",
+      "white"
+    ],
+    "names": {
+      "ja": "聴覚保護【小】",
+      "en": "Earplugs (S)",
+      "fr": "Protection ouïe (P)",
+      "it": "Protezione udito (S)",
+      "de": "Ohrstöpsel (S)",
+      "es": "Antirrugidos (P)",
+      "ru": "Беруши (S)",
+      "pl": "Zatyczki do uszu (M)",
+      "pt-BR": "Abafadores (P)",
+      "ko": "청각 보호【소】",
+      "zh-Hant": "聽覺保護【小】",
+      "zh-Hans": "听觉保护【小】",
+      "ar": "سدادات أذن (ص)",
+      "es-419": "Antirrugidos (P)"
+    }
+  },
+  {
+    "effect_id": 28,
+    "notes": [
+      "aqua",
+      "aqua",
+      "red",
+      "purple"
+    ],
+    "names": {
+      "ja": "聴覚保護【小】",
+      "en": "Earplugs (S)",
+      "fr": "Protection ouïe (P)",
+      "it": "Protezione udito (S)",
+      "de": "Ohrstöpsel (S)",
+      "es": "Antirrugidos (P)",
+      "ru": "Беруши (S)",
+      "pl": "Zatyczki do uszu (M)",
+      "pt-BR": "Abafadores (P)",
+      "ko": "청각 보호【소】",
+      "zh-Hant": "聽覺保護【小】",
+      "zh-Hans": "听觉保护【小】",
+      "ar": "سدادات أذن (ص)",
+      "es-419": "Antirrugidos (P)"
+    }
+  },
+  {
+    "effect_id": 29,
+    "notes": [
+      "aqua",
+      "aqua",
+      "green",
+      "purple"
+    ],
+    "names": {
+      "ja": "聴覚保護【大】",
+      "en": "Earplugs (L)",
+      "fr": "Protection ouïe (G)",
+      "it": "Protezione udito (L)",
+      "de": "Ohrstöpsel (L)",
+      "es": "Antirrugidos (G)",
+      "ru": "Беруши (L)",
+      "pl": "Zatyczki do uszu (D)",
+      "pt-BR": "Abafadores (G)",
+      "ko": "청각 보호【대】",
+      "zh-Hant": "聽覺保護【大】",
+      "zh-Hans": "听觉保护【大】",
+      "ar": "سدادات أذن (ك)",
+      "es-419": "Antirrugidos (G)"
+    }
+  },
+  {
+    "effect_id": 29,
+    "notes": [
+      "orange",
+      "orange",
+      "green",
+      "purple"
+    ],
+    "names": {
+      "ja": "聴覚保護【大】",
+      "en": "Earplugs (L)",
+      "fr": "Protection ouïe (G)",
+      "it": "Protezione udito (L)",
+      "de": "Ohrstöpsel (L)",
+      "es": "Antirrugidos (G)",
+      "ru": "Беруши (L)",
+      "pl": "Zatyczki do uszu (D)",
+      "pt-BR": "Abafadores (G)",
+      "ko": "청각 보호【대】",
+      "zh-Hant": "聽覺保護【大】",
+      "zh-Hans": "听觉保护【大】",
+      "ar": "سدادات أذن (ك)",
+      "es-419": "Antirrugidos (G)"
+    }
+  },
+  {
+    "effect_id": 30,
+    "notes": [
+      "aqua",
+      "aqua",
+      "yellow"
+    ],
+    "names": {
+      "ja": "振動無効",
+      "en": "Tremors Negated",
+      "fr": "Antiséisme",
+      "it": "Annulla sisma",
+      "de": "Beben negiert",
+      "es": "Anula temblores",
+      "ru": "Защита от сотрясений",
+      "pl": "Neutralizacja wstrząsów",
+      "pt-BR": "Tremores Anulados",
+      "ko": "진동 무효",
+      "zh-Hant": "震動無效",
+      "zh-Hans": "震动无效",
+      "ar": "تم إبطال الزلازل",
+      "es-419": "Anula temblores"
+    }
+  },
+  {
+    "effect_id": 31,
+    "notes": [
+      "aqua",
+      "yellow",
+      "white"
+    ],
+    "names": {
+      "ja": "麻痺無効",
+      "en": "Paralysis Negated",
+      "fr": "Antiparalysie",
+      "it": "Annulla paralisi",
+      "de": "Lähmung negiert",
+      "es": "Anula parálisis",
+      "ru": "Защита от паралича",
+      "pl": "Neutralizacja paraliżu",
+      "pt-BR": "Paralisia Anulada",
+      "ko": "마비 무효",
+      "zh-Hant": "麻痺無效",
+      "zh-Hans": "麻痹无效",
+      "ar": "تم إبطال الشلل",
+      "es-419": "Niega parálisis"
+    }
+  },
+  {
+    "effect_id": 31,
+    "notes": [
+      "aqua",
+      "yellow",
+      "purple"
+    ],
+    "names": {
+      "ja": "麻痺無効",
+      "en": "Paralysis Negated",
+      "fr": "Antiparalysie",
+      "it": "Annulla paralisi",
+      "de": "Lähmung negiert",
+      "es": "Anula parálisis",
+      "ru": "Защита от паралича",
+      "pl": "Neutralizacja paraliżu",
+      "pt-BR": "Paralisia Anulada",
+      "ko": "마비 무효",
+      "zh-Hant": "麻痺無效",
+      "zh-Hans": "麻痹无效",
+      "ar": "تم إبطال الشلل",
+      "es-419": "Niega parálisis"
+    }
+  },
+  {
+    "effect_id": 32,
+    "notes": [
+      "aqua",
+      "blue",
+      "purple"
+    ],
+    "names": {
+      "ja": "気絶無効",
+      "en": "Stun Negated",
+      "fr": "Antiétourdissement",
+      "it": "Annulla stordimento",
+      "de": "Betäuben negiert",
+      "es": "Anula aturdimiento",
+      "ru": "Защита от оглушения",
+      "pl": "Neutralizacja ogłuszenia",
+      "pt-BR": "Atordoamento Anulado",
+      "ko": "기절 무효",
+      "zh-Hant": "昏厥無效",
+      "zh-Hans": "昏厥无效",
+      "ar": "تم إبطال الصعق",
+      "es-419": "Anula aturdimiento"
+    }
+  },
+  {
+    "effect_id": 33,
+    "notes": [
+      "blue",
+      "blue",
+      "red"
+    ],
+    "names": {
+      "ja": "風圧無効",
+      "en": "Wind Pressure Negated",
+      "fr": "Antibourrasque",
+      "it": "Annulla pressione vento",
+      "de": "Winddruck negiert",
+      "es": "Anula ráfagas de viento",
+      "ru": "Защита от давления ветра",
+      "pl": "Neutralizacja wiatru",
+      "pt-BR": "Pressão de Vento Anulada",
+      "ko": "풍압 무효",
+      "zh-Hant": "風壓無效",
+      "zh-Hans": "风压无效",
+      "ar": "تم إبطال ضغط الرياح",
+      "es-419": "Anula ráfagas de viento"
+    }
+  },
+  {
+    "effect_id": 33,
+    "notes": [
+      "blue",
+      "blue",
+      "aqua"
+    ],
+    "names": {
+      "ja": "風圧無効",
+      "en": "Wind Pressure Negated",
+      "fr": "Antibourrasque",
+      "it": "Annulla pressione vento",
+      "de": "Winddruck negiert",
+      "es": "Anula ráfagas de viento",
+      "ru": "Защита от давления ветра",
+      "pl": "Neutralizacja wiatru",
+      "pt-BR": "Pressão de Vento Anulada",
+      "ko": "풍압 무효",
+      "zh-Hant": "風壓無效",
+      "zh-Hans": "风压无效",
+      "ar": "تم إبطال ضغط الرياح",
+      "es-419": "Anula ráfagas de viento"
+    }
+  },
+  {
+    "effect_id": 33,
+    "notes": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "names": {
+      "ja": "風圧無効",
+      "en": "Wind Pressure Negated",
+      "fr": "Antibourrasque",
+      "it": "Annulla pressione vento",
+      "de": "Winddruck negiert",
+      "es": "Anula ráfagas de viento",
+      "ru": "Защита от давления ветра",
+      "pl": "Neutralizacja wiatru",
+      "pt-BR": "Pressão de Vento Anulada",
+      "ko": "풍압 무효",
+      "zh-Hant": "風壓無效",
+      "zh-Hans": "风压无效",
+      "ar": "تم إبطال ضغط الرياح",
+      "es-419": "Anula ráfagas de viento"
+    }
+  },
+  {
+    "effect_id": 34,
+    "notes": [
+      "blue",
+      "blue",
+      "yellow",
+      "purple"
+    ],
+    "names": {
+      "ja": "風圧完全無効",
+      "en": "All Wind Pressure Negated",
+      "fr": "Antibourrasque total",
+      "it": "Annulla pressione vento totale",
+      "de": "Jeden Winddruck negiert",
+      "es": "Anula toda ráfaga de viento",
+      "ru": "Защита от всего давления ветра",
+      "pl": "Neutr. wszelkiego wiatru",
+      "pt-BR": "Toda Pressão de Vento Anulada",
+      "ko": "풍압 완전 무효",
+      "zh-Hant": "風壓完全無效",
+      "zh-Hans": "风压完全无效",
+      "ar": "تم إبطال كل ضغط الرياح",
+      "es-419": "Niega toda ráfaga de viento"
+    }
+  },
+  {
+    "effect_id": 34,
+    "notes": [
+      "blue",
+      "blue",
+      "orange"
+    ],
+    "names": {
+      "ja": "風圧完全無効",
+      "en": "All Wind Pressure Negated",
+      "fr": "Antibourrasque total",
+      "it": "Annulla pressione vento totale",
+      "de": "Jeden Winddruck negiert",
+      "es": "Anula toda ráfaga de viento",
+      "ru": "Защита от всего давления ветра",
+      "pl": "Neutr. wszelkiego wiatru",
+      "pt-BR": "Toda Pressão de Vento Anulada",
+      "ko": "풍압 완전 무효",
+      "zh-Hant": "風壓完全無效",
+      "zh-Hans": "风压完全无效",
+      "ar": "تم إبطال كل ضغط الرياح",
+      "es-419": "Niega toda ráfaga de viento"
+    }
+  },
+  {
+    "effect_id": 35,
+    "notes": [
+      "aqua",
+      "red",
+      "aqua"
+    ],
+    "names": {
+      "ja": "水場・油泥適応",
+      "en": "Aquatic/Oilsilt Mobility",
+      "fr": "Mobilité eau/boue huileuse",
+      "it": "Mobilità acquatica/fango",
+      "de": "Sumpfläufer",
+      "es": "Movilidad por agua/fango",
+      "ru": "Проворство в воде/нефти",
+      "pl": "Mobilność w wodzie i oleistym mule",
+      "pt-BR": "Mobilidade Aquática/Limólea",
+      "ko": "물가/기름 진흙 적응",
+      "zh-Hant": "適應水域/油泥",
+      "zh-Hans": "适应水域·油泥",
+      "ar": "حركة مائية/طمي النفط",
+      "es-419": "Movilidad acuática/oleosa"
+    }
+  },
+  {
+    "effect_id": 36,
+    "notes": [
+      "red",
+      "red",
+      "aqua"
+    ],
+    "names": {
+      "ja": "地形ダメージ無効",
+      "en": "Envir. Damage Negated",
+      "fr": "Dégâts environ. annulés",
+      "it": "Annulla danni ambientali",
+      "de": "Umgeb.-schaden negiert",
+      "es": "Anula daños ambientales",
+      "ru": "Защита от урона окружения",
+      "pl": "Neutralizacja uszk. środow.",
+      "pt-BR": "Dano de Ambiente Anulado",
+      "ko": "지형 대미지 무효",
+      "zh-Hant": "地形傷害無效",
+      "zh-Hans": "地形伤害无效",
+      "ar": "البيئة تم إبطال الضرر",
+      "es-419": "Niega daño por entorno"
+    }
+  },
+  {
+    "effect_id": 37,
+    "notes": [
+      "red",
+      "orange",
+      "red",
+      "purple"
+    ],
+    "names": {
+      "ja": "のけぞり無効",
+      "en": "Knockback Negated",
+      "fr": "Protection recul",
+      "it": "Annulla respinta",
+      "de": "Rückwurf negiert",
+      "es": "Anula empujes",
+      "ru": "Защита от отбрасывания",
+      "pl": "Neutralizacja odepchnięcia",
+      "pt-BR": "Empurrões Anulados",
+      "ko": "움츠리기 무효",
+      "zh-Hant": "後仰無效",
+      "zh-Hans": "后仰无效",
+      "ar": "تم إبطال التراجع",
+      "es-419": "Antiderribo"
+    }
+  },
+  {
+    "effect_id": 38,
+    "notes": [
+      "aqua",
+      "purple",
+      "orange",
+      "orange"
+    ],
+    "names": {
+      "ja": "全状態異常無効",
+      "en": "All Ailments Negated",
+      "fr": "Antiafflictions",
+      "it": "Annulla alterazioni di stato",
+      "de": "Alle Statusanom. negiert",
+      "es": "Anula estados alterados",
+      "ru": "Защита от недугов",
+      "pl": "Neutralizacja szk. efektów",
+      "pt-BR": "Efeitos Negativos Anulados",
+      "ko": "모든 상태 이상 무효",
+      "zh-Hant": "全狀態異常無效",
+      "zh-Hans": "全状态异常无效",
+      "ar": "تم إبطال جميع الاعتلالات",
+      "es-419": "Antiestados alterados"
+    }
+  },
+  {
+    "effect_id": 39,
+    "notes": [
+      "orange",
+      "yellow",
+      "yellow",
+      "orange"
+    ],
+    "names": {
+      "ja": "全属性やられ無効",
+      "en": "Blight Negated",
+      "fr": "Antifléau",
+      "it": "Annulla malus",
+      "de": "Pest negiert",
+      "es": "Anula plagas",
+      "ru": "Защита от порчи",
+      "pl": "Neutralizacja plagi",
+      "pt-BR": "Flagelo Anulado",
+      "ko": "모든 속성 피해 무효",
+      "zh-Hant": "全屬性異常無效",
+      "zh-Hans": "全属性异常无效",
+      "ar": "تم إبطال الوباء",
+      "es-419": "Anula plagas"
+    }
+  },
+  {
+    "effect_id": 40,
+    "notes": [
+      "yellow",
+      "yellow",
+      "yellow"
+    ],
+    "names": {
+      "ja": "高周波",
+      "en": "Sonic Waves",
+      "fr": "Ondes soniques",
+      "it": "Onde soniche",
+      "de": "Schallwellen",
+      "es": "Ondas sónicas",
+      "ru": "Звуковые волны",
+      "pl": "Fale akustyczne",
+      "pt-BR": "Ondas Sônicas",
+      "ko": "고주파",
+      "zh-Hant": "高周波",
+      "zh-Hans": "高周波",
+      "ar": "موجات صوتية",
+      "es-419": "Olas sónicas"
+    }
+  },
+  {
+    "effect_id": 41,
+    "notes": [
+      "orange",
+      "red",
+      "orange"
+    ],
+    "names": {
+      "ja": "全旋律効果延長",
+      "en": "Extend All Melodies",
+      "fr": "Extension des mélodies",
+      "it": "Estensione effetto melodie",
+      "de": "Melodien verlängern",
+      "es": "Alarga las melodías",
+      "ru": "Продление мелодий",
+      "pl": "Wydłuż wszystkie melodie",
+      "pt-BR": "Estender Melodias",
+      "ko": "모든 선율 효과 연장",
+      "zh-Hant": "延長全旋律效果",
+      "zh-Hans": "全旋律效果延长",
+      "ar": "تمديد كل الألحان",
+      "es-419": "Alarga las melodías"
+    }
+  },
+  {
+    "effect_id": 42,
+    "notes": [
+      "purple",
+      "blue",
+      "orange",
+      "orange"
+    ],
+    "names": {
+      "ja": "攻撃＆防御強化【小】",
+      "en": "Attack/Defense Up (S)",
+      "fr": "Attaque/Défense (P)",
+      "it": "Aumenta attacco/difesa (S)",
+      "de": "Angr. & Vert. hoch (S)",
+      "es": "Mejora de ataque/defensa (P)",
+      "ru": "Усиление атаки/защиты (S)",
+      "pl": "Wzrost ataku/obrony (M)",
+      "pt-BR": "Aum. Ataque/Defesa (P)",
+      "ko": "공격&방어 강화【소】",
+      "zh-Hant": "攻擊＆防禦強化【小】",
+      "zh-Hans": "攻击＆防御强化【小】",
+      "ar": "هجوم/زيادة الدفاع (ص)",
+      "es-419": "Mejora de ataque/defensa (P)"
+    }
+  },
+  {
+    "effect_id": 43,
+    "notes": [
+      "green",
+      "orange",
+      "purple",
+      "orange"
+    ],
+    "names": {
+      "ja": "会心率UP＆体力回復",
+      "en": "Affinity Up/Health Recovery",
+      "fr": "Affinité/Récupération",
+      "it": "Aumenta affinità/recupero salute",
+      "de": "Affin. hoch&GesundErh.",
+      "es": "Recuperación salud/afinidad+",
+      "ru": "Усил. маст-ва/Восст. здоровья",
+      "pl": "Wzrost zgodności / Regen. zdrowia",
+      "pt-BR": "Aum. Afinidade/Reg. de Vida",
+      "ko": "회심률 UP&체력 회복",
+      "zh-Hant": "會心率上升＆體力回復",
+      "zh-Hans": "会心率提升＆体力回复",
+      "ar": "زيادة نسبة الضرر/تعافي الصحة",
+      "es-419": "Recup. de salud/afinidad+"
+    }
+  },
+  {
+    "effect_id": 46,
+    "notes": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "names": {
+      "ja": "相殺の調べ",
+      "en": "Offset Melody",
+      "fr": "Mélodie neutralisante",
+      "it": "Melodia di reazione",
+      "de": "Gegenstoß-Melodie",
+      "es": "Melodía interceptora",
+      "ru": "Парирующая мелодия",
+      "pl": "Melodia przełamania",
+      "pt-BR": "Melodia Inibidora",
+      "ko": "상쇄의 선율",
+      "zh-Hant": "連消帶打之曲",
+      "zh-Hans": "抵消之曲",
+      "ar": "لحن إبطال الهجوم",
+      "es-419": "Melodía compensada"
+    }
+  },
+  {
+    "effect_id": 46,
+    "notes": [
+      "blue",
+      "white",
+      "aqua"
+    ],
+    "names": {
+      "ja": "相殺の調べ",
+      "en": "Offset Melody",
+      "fr": "Mélodie neutralisante",
+      "it": "Melodia di reazione",
+      "de": "Gegenstoß-Melodie",
+      "es": "Melodía interceptora",
+      "ru": "Парирующая мелодия",
+      "pl": "Melodia przełamania",
+      "pt-BR": "Melodia Inibidora",
+      "ko": "상쇄의 선율",
+      "zh-Hant": "連消帶打之曲",
+      "zh-Hans": "抵消之曲",
+      "ar": "لحن إبطال الهجوم",
+      "es-419": "Melodía compensada"
+    }
+  },
+  {
+    "effect_id": 46,
+    "notes": [
+      "blue",
+      "purple",
+      "red"
+    ],
+    "names": {
+      "ja": "相殺の調べ",
+      "en": "Offset Melody",
+      "fr": "Mélodie neutralisante",
+      "it": "Melodia di reazione",
+      "de": "Gegenstoß-Melodie",
+      "es": "Melodía interceptora",
+      "ru": "Парирующая мелодия",
+      "pl": "Melodia przełamania",
+      "pt-BR": "Melodia Inibidora",
+      "ko": "상쇄의 선율",
+      "zh-Hant": "連消帶打之曲",
+      "zh-Hans": "抵消之曲",
+      "ar": "لحن إبطال الهجوم",
+      "es-419": "Melodía compensada"
+    }
+  },
+  {
+    "effect_id": 46,
+    "notes": [
+      "blue",
+      "purple",
+      "aqua"
+    ],
+    "names": {
+      "ja": "相殺の調べ",
+      "en": "Offset Melody",
+      "fr": "Mélodie neutralisante",
+      "it": "Melodia di reazione",
+      "de": "Gegenstoß-Melodie",
+      "es": "Melodía interceptora",
+      "ru": "Парирующая мелодия",
+      "pl": "Melodia przełamania",
+      "pt-BR": "Melodia Inibidora",
+      "ko": "상쇄의 선율",
+      "zh-Hant": "連消帶打之曲",
+      "zh-Hans": "抵消之曲",
+      "ar": "لحن إبطال الهجوم",
+      "es-419": "Melodía compensada"
+    }
+  },
+  {
+    "effect_id": 47,
+    "notes": [
+      "purple",
+      "yellow",
+      "orange",
+      "yellow"
+    ],
+    "names": {
+      "ja": "響鳴の調べ",
+      "en": "Resounding Melody",
+      "fr": "Mélodie résonnante",
+      "it": "Melodia sonante",
+      "de": "Widerhallende Melodie",
+      "es": "Nota resonante",
+      "ru": "Звучная мелодия",
+      "pl": "Donośna melodia",
+      "pt-BR": "Melodia Retumbante",
+      "ko": "향명의 선율",
+      "zh-Hant": "響鳴之曲",
+      "zh-Hans": "鸣响之曲",
+      "ar": "لحن جهوري",
+      "es-419": "Melodía resonante"
+    }
+  },
+  {
+    "effect_id": 47,
+    "notes": [
+      "red",
+      "orange",
+      "purple"
+    ],
+    "names": {
+      "ja": "響鳴の調べ",
+      "en": "Resounding Melody",
+      "fr": "Mélodie résonnante",
+      "it": "Melodia sonante",
+      "de": "Widerhallende Melodie",
+      "es": "Nota resonante",
+      "ru": "Звучная мелодия",
+      "pl": "Donośna melodia",
+      "pt-BR": "Melodia Retumbante",
+      "ko": "향명의 선율",
+      "zh-Hant": "響鳴之曲",
+      "zh-Hans": "鸣响之曲",
+      "ar": "لحن جهوري",
+      "es-419": "Melodía resonante"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "white",
+      "red",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "white",
+      "blue",
+      "aqua"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "green",
+      "aqua",
+      "white"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "blue",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "aqua",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "yellow",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "green",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "orange",
+      "red"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "blue",
+      "aqua"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "blue",
+      "yellow"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "blue",
+      "green"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "orange",
+      "blue",
+      "orange"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "green",
+      "aqua",
+      "purple"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "white",
+      "yellow",
+      "green"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "orange",
+      "aqua",
+      "orange"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "yellow",
+      "green"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "purple",
+      "orange",
+      "green"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  },
+  {
+    "effect_id": 48,
+    "notes": [
+      "orange",
+      "yellow",
+      "purple"
+    ],
+    "names": {
+      "ja": "生命の調べ",
+      "en": "Melody of Life",
+      "fr": "Mélodie de vie",
+      "it": "Melodia vitale",
+      "de": "Melodie des Lebens",
+      "es": "Nota vital",
+      "ru": "Мелодия жизни",
+      "pl": "Melodia życia",
+      "pt-BR": "Melodia da Vida",
+      "ko": "생명의 선율",
+      "zh-Hant": "生命之曲",
+      "zh-Hans": "生命之曲",
+      "ar": "لحن الحياة",
+      "es-419": "Melodía vital"
+    }
+  }
+]

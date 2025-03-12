@@ -8,6 +8,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::Bow,
         input_prefix: "Bow",
         output_prefix: None,
+        callback: None,
     }
 }
 

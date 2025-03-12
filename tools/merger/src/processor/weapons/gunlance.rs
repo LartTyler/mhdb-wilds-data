@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::Gunlance,
         input_prefix: "GunLance",
         output_prefix: Some("Gunlance"),
+        callback: None,
     }
 }
 

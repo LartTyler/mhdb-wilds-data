@@ -10,6 +10,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::Lance,
         input_prefix: "Lance",
         output_prefix: None,
+        callback: None,
     }
 }
 

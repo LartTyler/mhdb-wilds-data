@@ -10,6 +10,8 @@ pub struct Msg {
     pub entries: Vec<MsgEntry>,
     #[serde(skip)]
     guid_map: OnceCell<HashMap<String, usize>>,
+    #[serde(skip)]
+    name_map: OnceCell<HashMap<String, usize>>,
 }
 
 impl Msg {
@@ -29,8 +31,24 @@ impl Msg {
         self.entries.get(*lookup.get(guid)?)
     }
 
+    pub fn find_by_name(&self, name: &str) -> Option<&MsgEntry> {
+        let lookup = self.name_map.get_or_init(|| {
+            self.entries
+                .iter()
+                .enumerate()
+                .map(|(index, v)| (v.name.to_owned(), index))
+                .collect()
+        });
+
+        self.entries.get(*lookup.get(name)?)
+    }
+
     pub fn get(&self, guid: &str, index: usize) -> Option<&str> {
         self.find(guid)?.get(index)
+    }
+
+    pub fn get_by_name(&self, name: &str, index: usize) -> Option<&str> {
+        self.find_by_name(name)?.get(index)
     }
 }
 

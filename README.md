@@ -28,6 +28,7 @@
     - [Crafting Info](#crafting-info)
     - [Bow](#bow)
     - [Gunlance](#gunlance)
+    - [Hunting Horn](#hunting-horn)
   - [Locations](#locations)
     - [Data Files](#data-files-5)
     - [Translation Files](#translation-files-5)
@@ -422,6 +423,25 @@ Shell levels are encoded as follows.
 |145851744|LV6|
 |-58574980|LV7|
 |-1868644224|LV8|
+
+### Hunting Horn
+Fields relevant to hunting horns are listed below.
+
+|Field Name|Description|
+|---|---|
+|_Wp05UniqueType|This holds the unique ID for 1 of 31 possible note combinations|
+|_Wp05MusicSkillHighFreqType|This holds the unique ID for the echo wave effect|
+|_Wp05HibikiSkillType|This holds the unique ID of the echo bubble effect|
+
+The localization for the echo wave, echo bubble, and song names can be found in the following files.
+
+- Echo Wave: `natives/STM/GameDesign/Text/Excel_Action/HighFreqDataText_Wp05.msg.23`
+- Echo Bubble: `natives/STM/GameDesign/Text/Excel_Action/HibikiDataText_Wp05.msg.23`
+- Songs: `natives/STM/GameDesign/Text/Excel_Action/MusicSkillDataText_Wp05.msg.23`
+
+In each file, it appears that instead of keying the strings by the GUID, it is instead keyed by the `name` field, with
+the sequential ID of each item being appended to the end of the name string. So, for example, you can find the
+translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp05_11".
 
 ## Locations
 ### Data Files

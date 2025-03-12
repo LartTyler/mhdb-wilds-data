@@ -10,6 +10,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::Hammer,
         input_prefix: "Hammer",
         output_prefix: None,
+        callback: None,
     }
 }
 

@@ -10,6 +10,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::SwordShield,
         input_prefix: "ShortSword",
         output_prefix: Some("SwordShield"),
+        callback: None,
     }
 }
 

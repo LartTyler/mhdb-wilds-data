@@ -1,0 +1,387 @@
+[
+  {
+    "game_id": 0,
+    "notes": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "songs": [
+      1,
+      11,
+      15,
+      33,
+      46,
+      48
+    ]
+  },
+  {
+    "game_id": 1,
+    "notes": [
+      "purple",
+      "red",
+      "blue"
+    ],
+    "songs": [
+      1,
+      12,
+      16,
+      33,
+      46,
+      48
+    ]
+  },
+  {
+    "game_id": 2,
+    "notes": [
+      "white",
+      "red",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      11,
+      28,
+      35,
+      36,
+      48
+    ]
+  },
+  {
+    "game_id": 3,
+    "notes": [
+      "purple",
+      "red",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      12,
+      28,
+      35,
+      36,
+      48
+    ]
+  },
+  {
+    "game_id": 4,
+    "notes": [
+      "white",
+      "red",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      11,
+      18,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 5,
+    "notes": [
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      11,
+      19,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 6,
+    "notes": [
+      "purple",
+      "red",
+      "green"
+    ],
+    "songs": [
+      1,
+      2,
+      8,
+      12,
+      48
+    ]
+  },
+  {
+    "game_id": 7,
+    "notes": [
+      "purple",
+      "red",
+      "orange"
+    ],
+    "songs": [
+      1,
+      12,
+      37,
+      41,
+      47,
+      48
+    ]
+  },
+  {
+    "game_id": 8,
+    "notes": [
+      "white",
+      "blue",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      9,
+      15,
+      33,
+      46,
+      48
+    ]
+  },
+  {
+    "game_id": 9,
+    "notes": [
+      "purple",
+      "blue",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      10,
+      16,
+      32,
+      33,
+      46,
+      48
+    ]
+  },
+  {
+    "game_id": 10,
+    "notes": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      9,
+      15,
+      24,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 11,
+    "notes": [
+      "purple",
+      "blue",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      10,
+      16,
+      25,
+      34,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 12,
+    "notes": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "songs": [
+      1,
+      2,
+      5,
+      9,
+      15,
+      33,
+      48
+    ]
+  },
+  {
+    "game_id": 13,
+    "notes": [
+      "purple",
+      "blue",
+      "green"
+    ],
+    "songs": [
+      1,
+      2,
+      6,
+      10,
+      16,
+      33,
+      48
+    ]
+  },
+  {
+    "game_id": 14,
+    "notes": [
+      "purple",
+      "blue",
+      "orange"
+    ],
+    "songs": [
+      1,
+      10,
+      16,
+      34,
+      42,
+      48
+    ]
+  },
+  {
+    "game_id": 15,
+    "notes": [
+      "white",
+      "green",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      2,
+      3,
+      28,
+      48
+    ]
+  },
+  {
+    "game_id": 16,
+    "notes": [
+      "purple",
+      "green",
+      "aqua"
+    ],
+    "songs": [
+      1,
+      2,
+      4,
+      29,
+      48
+    ]
+  },
+  {
+    "game_id": 17,
+    "notes": [
+      "white",
+      "aqua",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      13,
+      20,
+      26,
+      30,
+      31,
+      40
+    ]
+  },
+  {
+    "game_id": 18,
+    "notes": [
+      "purple",
+      "aqua",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      13,
+      21,
+      27,
+      30,
+      31,
+      40
+    ]
+  },
+  {
+    "game_id": 19,
+    "notes": [
+      "purple",
+      "aqua",
+      "orange"
+    ],
+    "songs": [
+      1,
+      14,
+      17,
+      38,
+      48
+    ]
+  },
+  {
+    "game_id": 20,
+    "notes": [
+      "white",
+      "green",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      2,
+      7,
+      22,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 21,
+    "notes": [
+      "purple",
+      "green",
+      "yellow"
+    ],
+    "songs": [
+      1,
+      2,
+      7,
+      13,
+      17,
+      23,
+      40,
+      48
+    ]
+  },
+  {
+    "game_id": 22,
+    "notes": [
+      "purple",
+      "green",
+      "orange"
+    ],
+    "songs": [
+      1,
+      2,
+      29,
+      43,
+      48
+    ]
+  },
+  {
+    "game_id": 23,
+    "notes": [
+      "purple",
+      "yellow",
+      "orange"
+    ],
+    "songs": [
+      1,
+      13,
+      39,
+      40,
+      47,
+      48
+    ]
+  }
+]

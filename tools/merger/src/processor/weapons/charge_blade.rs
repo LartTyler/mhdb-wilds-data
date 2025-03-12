@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         processor: Processor::ChargeBlade,
         input_prefix: "ChargeAxe",
         output_prefix: Some("ChargeBlade"),
+        callback: None,
     }
 }
 

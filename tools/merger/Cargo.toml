@@ -14,3 +14,5 @@ serde_repr = "0.1.19"
 serde_with = "3.12.0"
 thiserror = "2.0.11"
 derive_more = { version = "2.0.1", features = ["unwrap", "deref"] }
+rayon = "1.10.0"
+strum = { version = "0.27.1", features = ["derive"] }
