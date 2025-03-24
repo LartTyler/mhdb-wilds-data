@@ -57,24 +57,32 @@ fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
 
         let progress = ProgressBar::new(targets.len() as u64);
 
-        targets.into_par_iter().for_each(|in_path| {
-            progress.inc(1);
+        targets
+            .into_par_iter()
+            .try_for_each(|in_path| -> anyhow::Result<()> {
+                progress.inc(1);
 
-            let out_path = out_dir
-                .join(in_path.file_name().unwrap())
-                .with_extension("")
-                .with_extension("json");
+                let out_path = out_dir
+                    .join(in_path.file_name().unwrap())
+                    .with_extension("")
+                    .with_extension("json");
 
-            let data_indexes = config
-                .user
-                .get_matching_rule(in_path.to_str().unwrap())
-                .map(|v| v.rsz_indexes.to_owned())
-                .unwrap_or_else(|| vec![0]);
+                // If the file we're extracting already exists, we can skip extraction if it is
+                // newer than the source file.
+                if is_out_path_newer(&in_path, &out_path)? {
+                    return Ok(());
+                }
 
-            extractor
-                .run_indexes(&in_path, &out_path, &data_indexes)
-                .expect("Could not extract");
-        });
+                let rule = config.user.get_matching_rule(in_path.to_str().unwrap());
+
+                if let Some(rule) = rule {
+                    extractor.run_indexes(&in_path, &out_path, &rule.rsz_indexes)?;
+                } else {
+                    extractor.run(&in_path, &out_path, None)?;
+                }
+
+                Ok(())
+            })?;
 
         progress.finish_and_clear();
     }
@@ -94,18 +102,24 @@ fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
 
         let progress = ProgressBar::new(targets.len() as u64);
 
-        targets.into_par_iter().for_each(|in_path| {
-            progress.inc(1);
+        targets
+            .into_par_iter()
+            .try_for_each(|in_path| -> anyhow::Result<()> {
+                progress.inc(1);
 
-            let out_path = out_dir
-                .join(in_path.file_name().unwrap())
-                .with_extension("")
-                .with_extension("json");
+                let out_path = out_dir
+                    .join(in_path.file_name().unwrap())
+                    .with_extension("")
+                    .with_extension("json");
 
-            extractor
-                .run(&in_path, &out_path)
-                .expect("Could not execute command");
-        });
+                // If the output file exists and is newer than the source, we can skip extraction.
+                if is_out_path_newer(&in_path, &out_path)? {
+                    return Ok(());
+                }
+
+                extractor.run(&in_path, &out_path)?;
+                Ok(())
+            })?;
 
         progress.finish_and_clear();
     }
@@ -123,4 +137,8 @@ fn get_file_targets(prefix: &Path, items: &[String]) -> Vec<PathBuf> {
                 .collect()
         })
         .collect()
+}
+
+fn is_out_path_newer(in_path: &Path, out_path: &Path) -> anyhow::Result<bool> {
+    Ok(out_path.exists() && in_path.metadata()?.modified()? <= out_path.metadata()?.modified()?)
 }

@@ -16,6 +16,7 @@ mod amulets;
 mod armor;
 mod charms;
 mod items;
+mod monsters;
 mod skills;
 mod weapons;
 
@@ -43,6 +44,7 @@ pub enum Processor {
     LongSword,
     DualBlades,
     HuntingHorn,
+    Monsters,
 }
 
 #[macro_export]
@@ -105,6 +107,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> Result {
         "Merging armor files..." => armor::process(config, filters)?,
         "Merging skill files..." => skills::process(config, filters)?,
         "Merging weapon files..." => weapons::process(config, filters)?,
+        "Merging monster files..." => monsters::process(config, filters)?,
     }
 
     Ok(())

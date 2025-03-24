@@ -36,11 +36,12 @@ impl UserExtractor {
         let input = maybe_prefix!(&self.input_prefix, input);
         let output = maybe_prefix!(&self.output_prefix, output);
 
-        let args = [
-            input.to_str().unwrap(),
-            output.to_str().unwrap(),
-            &rsz_index.into().unwrap_or(0).to_string(),
-        ];
+        let mut args = vec![input.to_str().unwrap(), output.to_str().unwrap()];
+        let rsz_index = rsz_index.into().map(|v| v.to_string());
+
+        if let Some(index) = rsz_index.as_ref() {
+            args.push(index);
+        }
 
         run_command(&self.tool_path, args)?;
         Ok(output.to_owned())

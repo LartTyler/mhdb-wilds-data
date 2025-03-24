@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Xml.Linq;
 
 class Program
 {
@@ -10,9 +11,9 @@ class Program
         var path = args[0];
         var outPath = args.ElementAtOrDefault(1) ?? "output.json";
 
-        var valueIndex = 0;
+        var valueIndex = -1;
 
-        if (args.Length >= 2)
+        if (args.Length > 2)
         {
             var indexParsed = int.TryParse(args.ElementAtOrDefault(2), out valueIndex);
 
@@ -39,23 +40,69 @@ class Program
             return;
         }
 
-        List<Dictionary<string, object>> output = [];
-
-        var instances = (List<object>)file.RSZ.ObjectList[0].Values[valueIndex];
-
-        foreach (var instance in instances)
+        object output;
+        
+        if (valueIndex > -1)
         {
-            var item = (RszInstance)instance;
-            var contents = ProcessObject(item);
+            output = ProcessValue(file.RSZ.ObjectList[0].Values[valueIndex]);
+        } else
+        {
+            var dict = ProcessInstance(file.RSZ.ObjectList[0]);
 
-            if (contents.Count == 0)
-                continue;
-
-            output.Add(contents);
+            if (dict.Count == 1)
+                output = dict.First().Value;
+            else
+                output = dict;
         }
 
         using FileStream fs = File.Create(outPath);
         fs.Write(JsonSerializer.SerializeToUtf8Bytes(output));
+    }
+
+    private static Dictionary<string, object> ProcessInstance(RszInstance instance)
+    {
+        Dictionary<string, object> output = [];
+
+        for (int i = 0; i < instance.Fields.Length; i++)
+        {
+            var field = instance.Fields[i];
+            var value = instance.Values[i];
+
+            var element = ProcessValue(value);
+
+            if (element == null)
+                continue;
+
+            output.Add(field.name, element);
+        }
+
+        return output;
+    }
+
+    private static object ProcessValue(object value) {
+        if (value is List<object> list)
+        {
+            List<object> output = [];
+
+            foreach (var instance in list)
+            {
+                output.Add(Flatten(instance));
+            }
+
+            if (output.Count == 1)
+                return output[0];
+            else
+                return output;
+        }
+        else if (value is RszInstance child)
+        {
+            if (child.Values.Length == 1 && child.Values[0] is List<object>)
+                return ProcessValue(child.Values[0]);
+            else
+                return ProcessInstance(child);
+        }
+        else
+            return value;
     }
 
     private static Dictionary<string, object> ProcessObject(RszInstance instance)
