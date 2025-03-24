@@ -32,6 +32,10 @@
   - [Locations](#locations)
     - [Data Files](#data-files-5)
     - [Translation Files](#translation-files-5)
+  - [Monsters](#monsters)
+    - [Data Files](#data-files-6)
+    - [Translation Files](#translation-files-6)
+    - [Notes](#notes-5)
   - [Poogie](#poogie)
   - [Support Ship](#support-ship)
 
@@ -449,6 +453,64 @@ translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp
 
 ### Translation Files
 - `natives/STM/GameDesign/Text/Reference/RefEnvironment.msg.23`
+
+## Monsters
+### Data Files
+- `natives/STM/GameDesign/Common/Enemy/EnemyData.user.3`
+- `natives/STM/GameDesign/Common/Enemy/EnemySpecies.user.3`
+- `natives/STM/GameDesign/Common/Enemy/EM*.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/EnumMaker/EmID.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/Data/EmCommonSize.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/Data/EmCommonRandomSize.user.3`
+- `natives/STM/GameDesign/Enemy/Em*/*/Data/Em*_Param_Parts.user.3`
+
+### Translation Files
+- `natives/STM/GameDesign/Text/Excel_Data/EnemyText.msg.23`
+- `natives/STM/GameDesign/Text/Excel_Data/EnemySpeciesName.msg.23`
+
+### Notes
+`EnemyData.user.3` contains a mapping of the monster "fixed" ID to the various strings associated with it, such as
+name, description, tempered and frenzied name variants, etc. The table below contains description of each string field.
+
+|Field|Description|
+|---|---|
+|`_JpEnemyName`|If anyone can tell me where this is used, I'd appreciate it; for example, "Rathian" is named "雌火竜" by this field.|
+|`_EnemyName`|The monster's name|
+|`_EnemyExp`|The description|
+|`_EnemyExtraName`|Looks like it's used for Alpha variants; currently only populated for Alpha Doshaguma|
+|`_EnemyFrenzyName`|The frenzied name variant|
+|`_EnemyLegendaryName`|The tempered name variant|
+|`_EnemyLegendaryKingName`|Doesn't appear to be used currently, but maybe arch-tempered or something?|
+
+Additionally, it looks like this file contains more than just large monsters. Small monsters, as well as endemic life
+and "gathering node" creatures (like godbugs and flashbugs) are included in here as well. Best I can tell, large
+monsters all have a non-zero value in the `_BossIconType` field, small monsters in the `_ZakoIconType`, and endemic
+life / "gathering node" creatures in `_AnimalIconType`. Additionally, only large and small monsters appear to have a
+non-zero value for the `_Species` field.
+
+`EnemySpecies.user.3` contains mappings for `_Species` IDs to their GUID in `EnemySpeciesName.msg.23`.
+
+The `EM*.user.3` files use the enumerated enemy IDs as their file name (derived from `EmID.user.3`), and appear to
+contain the drop rates for items from the monster. The `_IdEx` field is a list of item IDs, `_RewardNumEx` is the
+number of items rewarded, and `_probabilityEx` is the chance that the item will drop.
+
+This isn't relevant to how data is extracted, but Guardian variants of monsters usually have a non-zero second "field"
+in the enumerated ID, e.g. Rathalos is `EM0002_00_0.user.3` and Guardian Rathalos is `EM0002_50_0.user.3`. They're
+different monsters and will be represented in the merged files (and the API) that way, but it may be useful information
+to have.
+
+`Em*_Param_Parts.user.3` contains monster base health.
+
+`EmCommonSize.user.3` appears to contain a list of how monster sizes map to crowns. My best guess is that the
+`_CrownSize_*` fields are percentages, and `_BaseSize` indicates the monster's size at 100% scale. The `_EmId` field
+appears to hold the fixed ID of the monster from the enums file.
+
+`EmCommonRandomSize.user.3` seems to hold an array of random distributions (under `_RandomSizeTblArray`) for monster
+size multipliers, keyed by the UUID in `_InstanceGuid`. In each entry is a `_ProbDataTbl` with a `_Scale` size
+multiplier and a `_Prob` integer indicating how likely that multiplier is to be picked. The probability table is
+referenced in `_EnemyRandomSizeTblArray` entries, with `_EmId` holding the fixed ID of the monster from the enums file
+and multiple possible size tables in `_SizeTable`. I'm still not sure how the game decides which `_SizeTable` to choose,
+and which `SizeTableId*` entry under that to pick.
 
 ## Poogie
 This isn't something in the API just yet, but it looks like Poogie drop rates are located in:
