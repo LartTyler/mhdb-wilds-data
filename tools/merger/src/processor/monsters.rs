@@ -1,4 +1,6 @@
-use super::{LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile};
+use super::{
+    LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+};
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
@@ -10,6 +12,7 @@ use strum::{EnumIter, IntoEnumIterator};
 type MonsterId = isize;
 
 const DATA: &str = "data/EnemyData.json";
+const SIZE_DATA: &str = "data/EmCommonSize.json";
 
 const STRINGS: &str = "translations/EnemyText.json";
 const SPECIES_STRINGS: &str = "translations/EnemySpeciesName.json";
@@ -48,6 +51,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> Result {
     let data_strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
 
     let mut large: Vec<Large> = Vec::new();
+    let mut large_lookup = LookupMap::new();
 
     for data in data {
         if data.large_monster_icon == 0 {
@@ -73,7 +77,15 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> Result {
             }
         }
 
+        large_lookup.insert(monster.game_id, large.len());
         large.push(monster);
+    }
+
+    let data: Vec<SizeData> = Vec::read_file(config.io.output_dir.join(SIZE_DATA))?;
+
+    for data in data {
+        let monster = large_lookup.find_or_panic_mut(data.id, &mut large);
+        monster.size = data.into();
     }
 
     large.sort_by_key(|v| v.game_id);
@@ -93,6 +105,7 @@ struct Large {
     #[serde(serialize_with = "ordered_map")]
     tips: LanguageMap,
     variants: Vec<LargeVariant>,
+    size: Size,
 }
 
 impl From<&CommonData> for Large {
@@ -105,6 +118,7 @@ impl From<&CommonData> for Large {
             features: LanguageMap::new(),
             tips: LanguageMap::new(),
             variants: Vec::new(),
+            size: Size::default(),
         }
     }
 }
@@ -196,4 +210,51 @@ enum SpeciesKind {
     Construct = 18,
     Wingdrake = 19,
     DemiElder = 20,
+}
+
+#[derive(Debug, Deserialize)]
+struct SizeData {
+    #[serde(rename = "_EmId")]
+    id: MonsterId,
+    #[serde(rename = "_BaseSize")]
+    base_size: f32,
+    #[serde(rename = "_CrownSize_Small")]
+    crown_mini: u8,
+    #[serde(rename = "_CrownSize_Big")]
+    crown_silver: u8,
+    #[serde(rename = "_CrownSize_King")]
+    crown_gold: u8,
+}
+
+#[derive(Debug, Serialize, Default)]
+struct Size {
+    base: f32,
+    mini: f32,
+    mini_multiplier: f32,
+    silver: f32,
+    silver_multiplier: f32,
+    gold: f32,
+    gold_multiplier: f32,
+}
+
+impl From<SizeData> for Size {
+    fn from(value: SizeData) -> Self {
+        let mini_multiplier = percentage_to_multiplier(value.crown_mini);
+        let silver_multiplier = percentage_to_multiplier(value.crown_silver);
+        let gold_multiplier = percentage_to_multiplier(value.crown_gold);
+
+        Self {
+            base: value.base_size,
+            mini: value.base_size * mini_multiplier,
+            mini_multiplier,
+            silver: value.base_size * silver_multiplier,
+            silver_multiplier,
+            gold: value.base_size * gold_multiplier,
+            gold_multiplier,
+        }
+    }
+}
+
+fn percentage_to_multiplier(value: u8) -> f32 {
+    value as f32 / 100.0
 }
