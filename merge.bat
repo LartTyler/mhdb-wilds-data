@@ -1,1 +1,1 @@
-cargo run --manifest-path tools\merger\Cargo.toml
+cargo run --manifest-path tools\merger\Cargo.toml %*
