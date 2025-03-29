@@ -1,11 +1,12 @@
 use crate::maybe_prefix;
-use crate::tools::{run_command, Error, Result};
+use crate::tools::{needs_refresh, run_command, Error, Result};
 use std::path::{Path, PathBuf};
 
 pub struct UserExtractor {
     tool_path: PathBuf,
     input_prefix: Option<PathBuf>,
     output_prefix: Option<PathBuf>,
+    force: bool,
 }
 
 impl UserExtractor {
@@ -14,6 +15,7 @@ impl UserExtractor {
             tool_path: path.into(),
             input_prefix: None,
             output_prefix: None,
+            force: false,
         }
     }
 
@@ -27,6 +29,11 @@ impl UserExtractor {
         self
     }
 
+    pub fn with_force(mut self) -> Self {
+        self.force = true;
+        self
+    }
+
     pub fn run<I: Into<Option<u8>>>(
         &self,
         input: &Path,
@@ -35,6 +42,10 @@ impl UserExtractor {
     ) -> Result<PathBuf> {
         let input = maybe_prefix!(&self.input_prefix, input);
         let output = maybe_prefix!(&self.output_prefix, output);
+
+        if !self.force && !needs_refresh(input, output)? {
+            return Ok(output.to_owned());
+        }
 
         let mut args = vec![input.to_str().unwrap(), output.to_str().unwrap()];
         let rsz_index = rsz_index.into().map(|v| v.to_string());

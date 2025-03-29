@@ -1,0 +1,382 @@
+[
+  {
+    "kind": "flying-wyvern",
+    "names": {
+      "ja": "飛竜種",
+      "en": "Flying Wyvern",
+      "fr": "Wyverne volante",
+      "it": "Wyvern volante",
+      "de": "Flugwyvern",
+      "es": "Wyvern volador",
+      "ru": "Летающая виверна",
+      "pl": "Wiwerna latająca",
+      "pt-BR": "Serpe Alada",
+      "ko": "비룡종",
+      "zh-Hant": "飛龍種",
+      "zh-Hans": "飞龙种",
+      "ar": "وايفرن طائر",
+      "es-419": "Wyvern volador"
+    }
+  },
+  {
+    "kind": "fish",
+    "names": {
+      "ja": "魚類",
+      "en": "Fish",
+      "fr": "Poisson",
+      "it": "Pesce",
+      "de": "Fisch",
+      "es": "Pez",
+      "ru": "Рыба",
+      "pl": "Ryba",
+      "pt-BR": "Peixe",
+      "ko": "어류",
+      "zh-Hant": "魚類",
+      "zh-Hans": "鱼类",
+      "ar": "سمك",
+      "es-419": "Pez"
+    }
+  },
+  {
+    "kind": "herbivore",
+    "names": {
+      "ja": "草食種",
+      "en": "Herbivore",
+      "fr": "Herbivore",
+      "it": "Erbivoro",
+      "de": "Pflanzenfresser",
+      "es": "Herbívoro",
+      "ru": "Травоядное",
+      "pl": "Roślinożerca",
+      "pt-BR": "Herbívoro",
+      "ko": "초식종",
+      "zh-Hant": "草食種",
+      "zh-Hans": "草食种",
+      "ar": "آكل النبات",
+      "es-419": "Herbívoro"
+    }
+  },
+  {
+    "kind": "lynian",
+    "names": {
+      "ja": "獣人種",
+      "en": "Lynian",
+      "fr": "Lynien",
+      "it": "Lynian",
+      "de": "Lynianer",
+      "es": "Lynian",
+      "ru": "Линианец",
+      "pl": "Lynian",
+      "pt-BR": "Lyniano",
+      "ko": "수인종",
+      "zh-Hant": "獸人種",
+      "zh-Hans": "兽人种",
+      "ar": "اللينيان",
+      "es-419": "Lynian"
+    }
+  },
+  {
+    "kind": "neopteron",
+    "names": {
+      "ja": "甲虫種",
+      "en": "Neopteron",
+      "fr": "Neopteron",
+      "it": "Neopteron",
+      "de": "Neopteron",
+      "es": "Neopteron",
+      "ru": "Новокрыл",
+      "pl": "Neopteron",
+      "pt-BR": "Neopteronte",
+      "ko": "갑충종",
+      "zh-Hant": "甲蟲種",
+      "zh-Hans": "甲虫种",
+      "ar": "نيوبترون",
+      "es-419": "Neopteron"
+    }
+  },
+  {
+    "kind": "carapaceon",
+    "names": {
+      "ja": "甲殻種",
+      "en": "Carapaceon",
+      "fr": "Carapaceon",
+      "it": "Carapaceon",
+      "de": "Carapaceon",
+      "es": "Carapaceon",
+      "ru": "Панцирное",
+      "pl": "Karapaksowiec",
+      "pt-BR": "Carapaceão",
+      "ko": "갑각종",
+      "zh-Hant": "甲殼種",
+      "zh-Hans": "甲壳种",
+      "ar": "وحش قشري",
+      "es-419": "Carapaceon"
+    }
+  },
+  {
+    "kind": "fanged-beast",
+    "names": {
+      "ja": "牙獣種",
+      "en": "Fanged Beast",
+      "fr": "Bête à crocs",
+      "it": "Belva zannuta",
+      "de": "Reißzahn-Bestie",
+      "es": "Bestia de colmillos",
+      "ru": "Клыкастый зверь",
+      "pl": "Zębata bestia",
+      "pt-BR": "Fera de Presas",
+      "ko": "아수종",
+      "zh-Hant": "牙獸種",
+      "zh-Hans": "牙兽种",
+      "ar": "وحش ذو أنياب",
+      "es-419": "Bestia de colmillos"
+    }
+  },
+  {
+    "kind": "bird-wyvern",
+    "names": {
+      "ja": "鳥竜種",
+      "en": "Bird Wyvern",
+      "fr": "Wyverne rapace",
+      "it": "Wyvern rapace",
+      "de": "Vogelwyvern",
+      "es": "Wyvern pájaro",
+      "ru": "Пернатая виверна",
+      "pl": "Wiwerna ptasia",
+      "pt-BR": "Serpássaro",
+      "ko": "조룡종",
+      "zh-Hant": "鳥龍種",
+      "zh-Hans": "鸟龙种",
+      "ar": "وايفرن شبيه بالطيور",
+      "es-419": "Wyvern pájaro"
+    }
+  },
+  {
+    "kind": "piscine-wyvern",
+    "names": {
+      "ja": "魚竜種",
+      "en": "Piscine Wyvern",
+      "fr": "Wyverne aquatique",
+      "it": "Wyvern acquatico",
+      "de": "Fischwyvern",
+      "es": "Wyvern nadador",
+      "ru": "Ихтиовиверна",
+      "pl": "Wiwerna rybia",
+      "pt-BR": "Hidrosserpe",
+      "ko": "어룡종",
+      "zh-Hant": "魚龍種",
+      "zh-Hans": "鱼龙种",
+      "ar": "وايفرن سبّاح",
+      "es-419": "Wyvern nadador"
+    }
+  },
+  {
+    "kind": "leviathan",
+    "names": {
+      "ja": "海竜種",
+      "en": "Leviathan",
+      "fr": "Léviathan",
+      "it": "Leviathan",
+      "de": "Leviathan",
+      "es": "Leviatán",
+      "ru": "Левиафан",
+      "pl": "Lewiatan",
+      "pt-BR": "Leviatã",
+      "ko": "해룡종",
+      "zh-Hant": "海龍種",
+      "zh-Hans": "海龙种",
+      "ar": "ليفياثان",
+      "es-419": "Leviatán"
+    }
+  },
+  {
+    "kind": "brute-wyvern",
+    "names": {
+      "ja": "獣竜種",
+      "en": "Brute Wyvern",
+      "fr": "Wyverne de terre",
+      "it": "Wyvern brutale",
+      "de": "Kampfwyvern",
+      "es": "Wyvern brutal",
+      "ru": "Свирепая виверна",
+      "pl": "Wiwerna zwalista",
+      "pt-BR": "Serpe Bruta",
+      "ko": "수룡종",
+      "zh-Hant": "獸龍種",
+      "zh-Hans": "兽龙种",
+      "ar": "وايفرن متوحش",
+      "es-419": "Wyvern brutal"
+    }
+  },
+  {
+    "kind": "fanged-wyvern",
+    "names": {
+      "ja": "牙竜種",
+      "en": "Fanged Wyvern",
+      "fr": "Wyverne à crocs",
+      "it": "Wyvern zannuto",
+      "de": "Reißzahn-Wyvern",
+      "es": "Wyvern de colmillos",
+      "ru": "Клыкастая виверна",
+      "pl": "Wiwerna kłowa",
+      "pt-BR": "Serpe de Presas",
+      "ko": "아룡종",
+      "zh-Hant": "牙龍種",
+      "zh-Hans": "牙龙种",
+      "ar": "وايفرن ذو أنياب",
+      "es-419": "Wyvern de colmillos"
+    }
+  },
+  {
+    "kind": "amphibian",
+    "names": {
+      "ja": "両生種",
+      "en": "Amphibian",
+      "fr": "Amphibien",
+      "it": "Anfibio",
+      "de": "Amphibie",
+      "es": "Anfibio",
+      "ru": "Амфибия",
+      "pl": "Płaz",
+      "pt-BR": "Anfíbio",
+      "ko": "양서종",
+      "zh-Hant": "兩棲種",
+      "zh-Hans": "两栖种",
+      "ar": "وحش برمائي",
+      "es-419": "Anfibio"
+    }
+  },
+  {
+    "kind": "temnoceran",
+    "names": {
+      "ja": "鋏角種",
+      "en": "Temnoceran",
+      "fr": "Temnoceran",
+      "it": "Temnoceran",
+      "de": "Temnoceran",
+      "es": "Temnoceran",
+      "ru": "Темноцеран",
+      "pl": "Temnoceran",
+      "pt-BR": "Temnocerano",
+      "ko": "협각종",
+      "zh-Hant": "鉗角種",
+      "zh-Hans": "钳角种",
+      "ar": "وحش عنكبوتي",
+      "es-419": "Temnoceran"
+    }
+  },
+  {
+    "kind": "snake-wyvern",
+    "names": {
+      "ja": "蛇竜種",
+      "en": "Snake Wyvern",
+      "fr": "Wyverne reptile",
+      "it": "Wyvern serpente",
+      "de": "Schlangenwyvern",
+      "es": "Wyvern serpiente",
+      "ru": "Змеевиверна",
+      "pl": "Wiwerna wężowata",
+      "pt-BR": "Serpe Cobra",
+      "ko": "사룡종",
+      "zh-Hant": "蛇龍種",
+      "zh-Hans": "蛇龙种",
+      "ar": "وايفرن أفعى",
+      "es-419": "Wyvern serpiente"
+    }
+  },
+  {
+    "kind": "elder-dragon",
+    "names": {
+      "ja": "古龍種",
+      "en": "Elder Dragon",
+      "fr": "Dragon ancien",
+      "it": "Drago anziano",
+      "de": "Drachenältester",
+      "es": "Dragón anciano",
+      "ru": "Древний дракон",
+      "pl": "Starszy Smok",
+      "pt-BR": "Dragão Ancião",
+      "ko": "고룡종",
+      "zh-Hant": "古龍種",
+      "zh-Hans": "古龙种",
+      "ar": "تنين قديم",
+      "es-419": "Dragón anciano"
+    }
+  },
+  {
+    "kind": "cephalopod",
+    "names": {
+      "ja": "頭足種",
+      "en": "Cephalopod",
+      "fr": "Céphalopode",
+      "it": "Cefalopode",
+      "de": "Cephalopode",
+      "es": "Cefalópodo",
+      "ru": "Головоногое",
+      "pl": "Cefalopod",
+      "pt-BR": "Cefalópode",
+      "ko": "두족종",
+      "zh-Hant": "頭足種",
+      "zh-Hans": "头足种",
+      "ar": "سيفالوبود",
+      "es-419": "Cefalópodo"
+    }
+  },
+  {
+    "kind": "construct",
+    "names": {
+      "ja": "造竜種",
+      "en": "Construct",
+      "fr": "Artificiel",
+      "it": "Artificiale",
+      "de": "Konstrukt",
+      "es": "Constructo",
+      "ru": "Конструкт",
+      "pl": "Konstrukt",
+      "pt-BR": "Construto",
+      "ko": "인조룡종",
+      "zh-Hant": "造龍種",
+      "zh-Hans": "造龙种",
+      "ar": "كونستراكت",
+      "es-419": "Constructo"
+    }
+  },
+  {
+    "kind": "wingdrake",
+    "names": {
+      "ja": "翼竜種",
+      "en": "Wingdrake",
+      "fr": "Drake ailé",
+      "it": "Pterowyvern",
+      "de": "Flugdrache",
+      "es": "Dracoalado",
+      "ru": "Крылатый дракон",
+      "pl": "Skrzydłosmok",
+      "pt-BR": "Dracoalado",
+      "ko": "익룡종",
+      "zh-Hant": "翼龍種",
+      "zh-Hans": "翼龙种",
+      "ar": "وينغدرايك",
+      "es-419": "Dracoalado"
+    }
+  },
+  {
+    "kind": "demi-elder",
+    "names": {
+      "ja": "亜龍種",
+      "en": "Demi Elder",
+      "fr": "Semi-ancien",
+      "it": "Meta anziano",
+      "de": "Semi-Ältester",
+      "es": "Semianciano",
+      "ru": "Псевдодревний дракон",
+      "pl": "Starszy Pseudosmok",
+      "pt-BR": "Semiancião",
+      "ko": "아성룡종",
+      "zh-Hant": "亞龍種",
+      "zh-Hans": "亚龙种",
+      "ar": "تنين شبه قديم",
+      "es-419": "Semianciano"
+    }
+  }
+]

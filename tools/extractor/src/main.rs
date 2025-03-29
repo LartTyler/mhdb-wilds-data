@@ -62,6 +62,20 @@ fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
             .try_for_each(|in_path| -> anyhow::Result<()> {
                 progress.inc(1);
 
+                let rule = config.user.get_matching_rule(in_path.to_str().unwrap());
+
+                let out_dir = if let Some(prefix) = &rule.output_prefix {
+                    let dir = out_dir.join(prefix);
+
+                    if !dir.exists() {
+                        fs::create_dir_all(&dir)?;
+                    }
+
+                    dir
+                } else {
+                    out_dir.clone()
+                };
+
                 let out_path = out_dir
                     .join(in_path.file_name().unwrap())
                     .with_extension("")
@@ -73,9 +87,7 @@ fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
                     return Ok(());
                 }
 
-                let rule = config.user.get_matching_rule(in_path.to_str().unwrap());
-
-                if let Some(rule) = rule {
+                if !rule.rsz_indexes.is_empty() {
                     extractor.run_indexes(&in_path, &out_path, &rule.rsz_indexes)?;
                 } else {
                     extractor.run(&in_path, &out_path, None)?;
@@ -117,7 +129,7 @@ fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
                     return Ok(());
                 }
 
-                extractor.run(&in_path, &out_path)?;
+                extractor.run(&in_path, Some(&out_path))?;
                 Ok(())
             })?;
 

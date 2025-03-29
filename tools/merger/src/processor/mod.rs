@@ -16,6 +16,7 @@ mod amulets;
 mod armor;
 mod charms;
 mod items;
+mod locations;
 mod monsters;
 mod skills;
 mod weapons;
@@ -45,12 +46,48 @@ pub enum Processor {
     DualBlades,
     HuntingHorn,
     Monsters,
+    Locations,
+}
+
+impl Processor {
+    fn is_weapon(&self) -> bool {
+        use Processor::*;
+
+        matches!(
+            self,
+            Bow | ChargeBlade
+                | Gunlance
+                | Hammer
+                | HeavyBowgun
+                | Lance
+                | LightBowgun
+                | GreatSword
+                | InsectGlaive
+                | SwordShield
+                | SwitchAxe
+                | LongSword
+                | DualBlades
+                | HuntingHorn
+        )
+    }
+}
+
+trait ShouldRun {
+    fn should_run(&self, subject: Processor) -> bool;
+}
+
+impl ShouldRun for &[Processor] {
+    fn should_run(&self, subject: Processor) -> bool {
+        self.is_empty()
+            || self.contains(&subject)
+            || (subject.is_weapon() && self.contains(&Processor::Weapons))
+    }
 }
 
 #[macro_export]
 macro_rules! should_run {
     ($filters:expr, $processor:expr) => {
-        if !$filters.is_empty() && !$filters.contains(&$processor) {
+        if !$crate::processor::ShouldRun::should_run(&$filters, $processor) {
             return Ok(());
         }
     };
@@ -98,7 +135,7 @@ macro_rules! sections {
     };
 }
 
-pub fn all(config: &Config, filters: &[Processor]) -> Result {
+pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     sections! {
         "Merging accessory files..." => accessories::process(config, filters)?,
         "Merging item files..." => items::process(config, filters)?,
@@ -108,6 +145,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> Result {
         "Merging skill files..." => skills::process(config, filters)?,
         "Merging weapon files..." => weapons::process(config, filters)?,
         "Merging monster files..." => monsters::process(config, filters)?,
+        "Merging location files..." => locations::process(config, filters)?,
     }
 
     Ok(())
@@ -360,19 +398,29 @@ where
     }
 }
 
-fn exclude_zeroes<T>(values: &[T]) -> Vec<T>
+/// Handicraft breakpoints are encoded as an array of 4 elements, with each element indicating the
+/// amount of hits added at that sharpness level before the next level of handicraft should apply to
+/// the next sharpness level. For example `[50, 0, 0, 0]` would indicate that all 5 levels of
+/// handicraft should apply to the weapon's base max sharpness color (since handicraft adds 10 hits
+/// per level). `[30, 20, 0, 0]` would indicate that the first 3 levels apply to the weapon's base
+/// max sharpness color, followed by the remaining 2 levels applying to the next color up.
+///
+/// In some cases, handicraft immediately applies to the next color up. For example `[0, 50, 0, 0]`
+/// indicates that no levels of handicraft should apply to the base max sharpness color, followed by
+/// all 5 levels applying to the next color up.
+fn values_until_first_zero<T>(values: &[T]) -> Vec<T>
 where
     T: Default + PartialOrd + Copy,
 {
-    values
-        .into_iter()
-        .copied()
-        .filter(|v| *v != T::default())
-        .collect()
+    let Some(last_non_zero_index) = values.iter().rposition(|v| *v != T::default()) else {
+        return vec![];
+    };
+
+    values[0..=last_non_zero_index].to_vec()
 }
 
 fn create_id_map(ids: &[isize], values: &[u8]) -> IdMap {
-    ids.into_iter()
+    ids.iter()
         .copied()
         .zip(values.iter().copied())
         .filter(|(id, _)| *id != 0)

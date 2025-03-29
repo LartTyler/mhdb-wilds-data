@@ -2,7 +2,7 @@ use crate::is_weapon;
 use crate::processor::weapons::{
     HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, WeaponKindCode,
 };
-use crate::processor::{exclude_zeroes, Processor};
+use crate::processor::{values_until_first_zero, Processor};
 use serde::{Deserialize, Serialize};
 
 pub(super) fn definition() -> ProcessorDefinition {
@@ -36,7 +36,7 @@ impl From<&DualBladesData> for DualBlades {
     fn from(value: &DualBladesData) -> Self {
         Self {
             sharpness: Sharpness::from_data(value.sharpness),
-            handicraft: exclude_zeroes(&value.handicraft),
+            handicraft: values_until_first_zero(&value.handicraft),
         }
     }
 }

@@ -32,10 +32,15 @@
   - [Locations](#locations)
     - [Data Files](#data-files-5)
     - [Translation Files](#translation-files-5)
+    - [Notes](#notes-5)
   - [Monsters](#monsters)
     - [Data Files](#data-files-6)
     - [Translation Files](#translation-files-6)
-    - [Notes](#notes-5)
+    - [Notes](#notes-6)
+  - [Locations (Stages)](#locations-stages)
+    - [Data Files](#data-files-7)
+    - [Translation Files](#translation-files-7)
+    - [Notes](#notes-7)
   - [Poogie](#poogie)
   - [Support Ship](#support-ship)
 
@@ -454,6 +459,10 @@ translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp
 ### Translation Files
 - `natives/STM/GameDesign/Text/Reference/RefEnvironment.msg.23`
 
+### Notes
+`RefEnvironment.msg.23` seems to have the translations for each location, but I can't find how the entry names or GUIDs
+link back to the entries in `Stage.user.3`.
+
 ## Monsters
 ### Data Files
 - `natives/STM/GameDesign/Common/Enemy/EnemyData.user.3`
@@ -511,6 +520,27 @@ multiplier and a `_Prob` integer indicating how likely that multiplier is to be 
 referenced in `_EnemyRandomSizeTblArray` entries, with `_EmId` holding the fixed ID of the monster from the enums file
 and multiple possible size tables in `_SizeTable`. I'm still not sure how the game decides which `_SizeTable` to choose,
 and which `SizeTableId*` entry under that to pick.
+
+## Locations (Stages)
+### Data Files
+- `natives/STM/GameDesign/Gimmick/_Develop/EnumMaker/GmID.user.3`
+- `natives/STM/GameDesign/Gimmick/Gm800/Gm800_*/*_AaaUniqueParam.user.3`
+
+### Translation Files
+- `natives/STM/GameDesign/Text/Excel_Data/Gimmick.msg.23`
+
+### Notes
+Camps are categorized under "gimmicks", and all appear to be implemented in the `Gm800` namespace. In each directory
+(e.g. `Gm800/Gm800_000_51`) there is a file named `Gm800_*_AaaUniqueParam.user.3` which contains information on which
+stage the camp is located in (`_Stage` field, which holds the fixed stage ID from the enums file), area number
+(`_AreaNum`), danger level (`_RiskDegree`), and several other fields which might be useful. `Gimmick.msg.23` contains
+the camp names, and can be found by entry name with the pattern "Gimmick_NAME_\<ID>" where `<ID>` is the fixed ID
+from the enums file (which can be generated from `GmID.user.3`).
+
+Technically, the mapping can also be derived from `natives/STM/GameDesign/Common/Gimmick/GimmickTextData.user.3`, which
+contains a list of Gimmick IDs and the translation GUIDs for the name and description. You would still need to map
+the Gimmick ID to an internal name (the `Gm###_###_##` format), so loading the text data file seems like an unnecessary
+step to me.
 
 ## Poogie
 This isn't something in the API just yet, but it looks like Poogie drop rates are located in:

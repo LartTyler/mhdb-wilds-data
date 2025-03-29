@@ -16,3 +16,4 @@ thiserror = "2.0.11"
 derive_more = { version = "2.0.1", features = ["unwrap", "deref"] }
 rayon = "1.10.0"
 strum = { version = "0.27.1", features = ["derive"] }
+anyhow = "1.0.97"

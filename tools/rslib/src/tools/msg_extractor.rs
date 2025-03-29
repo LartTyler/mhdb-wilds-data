@@ -1,12 +1,13 @@
-use std::fs;
 use crate::maybe_prefix;
-use crate::tools::{run_command, Result};
+use crate::tools::{needs_refresh, run_command, Result};
+use std::fs;
 use std::path::{Path, PathBuf};
 
 pub struct MsgExtractor {
     tool_path: PathBuf,
     input_prefix: Option<PathBuf>,
     output_prefix: Option<PathBuf>,
+    force: bool,
 }
 
 impl MsgExtractor {
@@ -15,6 +16,7 @@ impl MsgExtractor {
             tool_path: path.into(),
             input_prefix: None,
             output_prefix: None,
+            force: false,
         }
     }
 
@@ -28,19 +30,33 @@ impl MsgExtractor {
         self
     }
 
-    pub fn run(&self, input: &Path, output: &Path) -> Result<PathBuf> {
+    pub fn with_force(mut self) -> Self {
+        self.force = true;
+        self
+    }
+
+    pub fn run(&self, input: &Path, output: Option<&Path>) -> Result<PathBuf> {
         let input = maybe_prefix!(&self.input_prefix, input);
-        let output = maybe_prefix!(&self.output_prefix, output);
+        let tool_out_path = input.with_extension("23.json");
+        let output = if let Some(path) = output {
+            maybe_prefix!(&self.output_prefix, path)
+        } else {
+            &tool_out_path
+        };
+
+        if !self.force && !needs_refresh(input, output)? {
+            return Ok(output.to_owned());
+        }
 
         run_command(
             &self.tool_path,
             ["-i", &input.to_string_lossy(), "-m", "json"],
         )?;
 
-        let tool_out_path = input.with_extension("23.json");
-
-        fs::copy(&tool_out_path, output)?;
-        fs::remove_file(tool_out_path)?;
+        if tool_out_path != output {
+            fs::copy(&tool_out_path, output)?;
+            fs::remove_file(&tool_out_path)?;
+        }
 
         Ok(output.to_owned())
     }

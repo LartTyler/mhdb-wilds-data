@@ -1,14 +1,13 @@
-use crate::cli::{Cli, Command, MsgArgs};
+use crate::cli::{Cli, Command, CommandArgs};
 use clap::Parser;
 use rayon::prelude::*;
 use regex::Regex;
 use rslib::config::Config;
 use rslib::formats::msg::{LanguageCode, Msg};
-use rslib::tools::MsgExtractor;
-use std::env::temp_dir;
-use std::fs;
+use rslib::formats::user::User;
+use rslib::tools::{MsgExtractor, UserExtractor};
 use std::fs::File;
-use std::path::Path;
+use std::path::PathBuf;
 use wax::Glob;
 
 mod cli;
@@ -22,61 +21,67 @@ fn main() -> anyhow::Result<()> {
 
     let config = Config::load(cli.config.as_deref());
 
-    match cli.command {
-        Command::Msg(args) => do_msg_extract(&config, args),
-        Command::User => do_user_extract(&config),
+    let groups = match cli.command {
+        Command::Msg(args) => do_msg_extract(config, args),
+        Command::User(args) => do_user_extract(config, args, cli.quiet),
+    }?;
+
+    for group in groups {
+        println!("{}", group.path);
+
+        for item in group.matches {
+            println!("{} | {}", item.path, item.value);
+        }
+
+        println!();
     }
+
+    Ok(())
 }
 
-fn do_user_extract(_config: &Config) -> anyhow::Result<()> {
-    todo!()
-}
+fn do_user_extract(
+    config: Config,
+    args: CommandArgs,
+    quiet: bool,
+) -> anyhow::Result<Vec<MatchGroup>> {
+    let extractor = UserExtractor::new(&config.tools.user_extractor);
+    let matcher = Matcher::try_from(&args)?;
 
-fn do_msg_extract(config: &Config, args: MsgArgs) -> anyhow::Result<()> {
-    let output_dir = temp_dir();
-    let extractor = MsgExtractor::new(&config.tools.msg_extractor).with_output_prefix(output_dir);
+    let targets = get_targets(&args)?;
 
-    let matcher = if args.regex {
-        Matcher::Regex(Regex::new(&args.pattern)?)
-    } else {
-        Matcher::Literal(args.pattern)
-    };
-
-    let glob = Glob::new(&args.glob).expect("Invalid path or glob pattern");
-    let targets: Vec<_> = glob
-        .walk(std::env::current_dir()?.join(args.target))
-        .flat_map(|v| v.and_then(|v| Ok(v.into_path())))
-        .collect();
-
-    let groups: Vec<_> = targets
+    let groups: Result<Vec<_>, _> = targets
         .into_par_iter()
-        .flat_map(|path| -> anyhow::Result<Option<MatchGroup>> {
-            let result = extractor.run(&path, Path::new(path.file_name().unwrap()))?;
+        .map(|path| -> anyhow::Result<Option<MatchGroup>> {
+            let out_path = path.with_extension("").with_extension("json");
+            let Ok(result) = extractor.run(&path, &out_path, None) else {
+                if !quiet {
+                    eprintln!("Could not read {path:?}");
+                }
 
-            let msg: Msg = serde_json::from_reader(File::open(&result)?)?;
-            let Some(lang_en) = msg.get_language_index(LanguageCode::English) else {
-                panic!("File does not contain English translations");
+                return Ok(None);
             };
 
-            let matches: Vec<Match> = msg
-                .entries
-                .into_par_iter()
-                .enumerate()
-                .flat_map(|(index, item)| {
-                    let value = item.get(lang_en)?;
+            if !result.exists() {
+                if !quiet {
+                    eprintln!("Could not extract file.");
+                }
 
-                    if matcher.is_match(value) {
-                        Some(Match {
-                            index,
-                            value: value.to_owned(),
-                        })
+                return Ok(None);
+            }
+
+            let user: User = serde_json::from_reader(File::open(&result)?)?;
+
+            let matches: Vec<_> = user
+                .find_fields()
+                .into_par_iter()
+                .flat_map(|(k, v)| {
+                    if matcher.is_match(&v) {
+                        Some(Match { path: k, value: v })
                     } else {
                         None
                     }
                 })
                 .collect();
-
-            fs::remove_file(result)?;
 
             if !matches.is_empty() {
                 Ok(Some(MatchGroup {
@@ -87,20 +92,68 @@ fn do_msg_extract(config: &Config, args: MsgArgs) -> anyhow::Result<()> {
                 Ok(None)
             }
         })
-        .flatten()
         .collect();
 
-    for group in groups {
-        println!("{}", group.path);
+    Ok(groups?.into_iter().flatten().collect())
+}
 
-        for item in group.matches {
-            println!("{} | {}", item.index, item.value);
-        }
+fn get_targets(args: &CommandArgs) -> anyhow::Result<Vec<PathBuf>> {
+    let glob = Glob::new(&args.glob)?;
+    let exclude: Vec<&str> = args.exclude.iter().map(AsRef::as_ref).collect();
+    let targets = glob
+        .walk(std::env::current_dir()?.join(&args.target))
+        .not(wax::any(exclude))?
+        .flat_map(|v| v.and_then(|v| Ok(v.into_path())))
+        .collect();
 
-        println!();
-    }
+    Ok(targets)
+}
 
-    Ok(())
+fn do_msg_extract(config: Config, args: CommandArgs) -> anyhow::Result<Vec<MatchGroup>> {
+    let extractor = MsgExtractor::new(&config.tools.msg_extractor);
+    let matcher = Matcher::try_from(&args)?;
+    let targets = get_targets(&args)?;
+
+    let groups: Result<Vec<_>, _> = targets
+        .into_par_iter()
+        .map(|path| -> anyhow::Result<Option<MatchGroup>> {
+            let result = extractor.run(&path, None)?;
+
+            let msg: Msg = serde_json::from_reader(File::open(&result)?)?;
+            let Some(lang_en) = msg.get_language_index(LanguageCode::English) else {
+                panic!("File does not contain English translations");
+            };
+
+            let matches: Vec<_> = msg
+                .entries
+                .into_par_iter()
+                .enumerate()
+                .flat_map(|(index, item)| {
+                    let value = item.get(lang_en)?;
+
+                    if matcher.is_match(&item.guid) || matcher.is_match(value) {
+                        Some(Match {
+                            path: index.to_string(),
+                            value: value.to_owned(),
+                        })
+                    } else {
+                        None
+                    }
+                })
+                .collect();
+
+            if !matches.is_empty() {
+                Ok(Some(MatchGroup {
+                    path: path.to_str().unwrap().to_owned(),
+                    matches,
+                }))
+            } else {
+                Ok(None)
+            }
+        })
+        .collect();
+
+    Ok(groups?.into_iter().flatten().collect())
 }
 
 struct MatchGroup {
@@ -109,13 +162,27 @@ struct MatchGroup {
 }
 
 struct Match {
-    index: usize,
+    path: String,
     value: String,
 }
 
 enum Matcher {
     Regex(Regex),
     Literal(String),
+}
+
+impl TryFrom<&CommandArgs> for Matcher {
+    type Error = anyhow::Error;
+
+    fn try_from(value: &CommandArgs) -> anyhow::Result<Self> {
+        let result = if value.regex {
+            Self::Regex(Regex::new(&value.pattern)?)
+        } else {
+            Self::Literal(value.pattern.to_owned())
+        };
+
+        Ok(result)
+    }
 }
 
 impl Matcher {

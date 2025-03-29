@@ -1,5 +1,5 @@
 use crate::processor::{
-    create_id_map, exclude_zeroes, to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
+    create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
     ReadFile, Result, WriteFile,
 };
 use crate::serde::ordered_map;
@@ -196,7 +196,7 @@ impl From<&WeaponData> for Weapon {
             attack_raw: value.attack_raw,
             affinity: value.affinity,
             defense: value.defense,
-            slots: exclude_zeroes(&value.slots),
+            slots: values_until_first_zero(&value.slots),
             specials: Vec::new(),
             crafting: Crafting::default(),
             skills: create_id_map(&value.skill_ids, &value.skill_levels),

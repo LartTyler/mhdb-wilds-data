@@ -6,7 +6,7 @@ mod cli;
 mod processor;
 mod serde;
 
-fn main() -> processor::Result {
+fn main() -> anyhow::Result<()> {
     let cli = Cli::parse();
     let config = Config::load(cli.config.as_deref());
 

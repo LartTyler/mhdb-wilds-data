@@ -1,5 +1,5 @@
-use std::path::PathBuf;
 use clap::{Args, Parser, Subcommand};
+use std::path::PathBuf;
 
 #[derive(Debug, Parser)]
 #[command(version, about)]
@@ -12,16 +12,19 @@ pub struct Cli {
 
     #[arg(long)]
     pub cwd: Option<PathBuf>,
+
+    #[arg(long, short)]
+    pub quiet: bool,
 }
 
 #[derive(Debug, Subcommand)]
 pub enum Command {
-    Msg(MsgArgs),
-    User,
+    Msg(CommandArgs),
+    User(CommandArgs),
 }
 
 #[derive(Debug, Args)]
-pub struct MsgArgs {
+pub struct CommandArgs {
     /// The target directory to scan.
     pub target: PathBuf,
 
@@ -32,4 +35,8 @@ pub struct MsgArgs {
 
     #[arg(long)]
     pub regex: bool,
+
+    /// Exclude paths that match the pattern
+    #[arg(long, short = 'x')]
+    pub exclude: Vec<String>,
 }

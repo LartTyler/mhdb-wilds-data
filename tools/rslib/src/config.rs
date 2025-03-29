@@ -50,20 +50,26 @@ pub struct FilesSection {
     pub files: Vec<String>,
     #[serde(default)]
     pub rules: Vec<ExtractorRule>,
+    #[serde(default)]
+    default_rule: ExtractorRule,
 }
 
 impl FilesSection {
-    pub fn get_matching_rule<S: AsRef<str>>(&self, path: S) -> Option<&ExtractorRule> {
-        self.rules.iter().find(|&rule| rule.matches(&path))
+    pub fn get_matching_rule<S: AsRef<str>>(&self, path: S) -> &ExtractorRule {
+        self.rules
+            .iter()
+            .find(|&rule| rule.matches(&path))
+            .unwrap_or(&self.default_rule)
     }
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Default)]
 pub struct ExtractorRule {
     #[serde(with = "serde_regex", rename = "match")]
     pub match_regex: Option<Regex>,
     #[serde(default)]
     pub rsz_indexes: Vec<u8>,
+    pub output_prefix: Option<PathBuf>,
 }
 
 impl ExtractorRule {

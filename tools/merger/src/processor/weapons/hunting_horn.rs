@@ -4,7 +4,8 @@ use crate::processor::weapons::{
     WeaponKindCode,
 };
 use crate::processor::{
-    exclude_zeroes, LanguageMap, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    values_until_first_zero, LanguageMap, LookupMap, PopulateStrings, Processor, ReadFile, Result,
+    WriteFile,
 };
 use crate::serde::ordered_map;
 use rayon::iter::IntoParallelRefIterator;
@@ -174,7 +175,7 @@ impl From<&HuntingHornData> for HuntingHorn {
     fn from(value: &HuntingHornData) -> Self {
         Self {
             sharpness: Sharpness::from_data(value.sharpness),
-            handicraft: exclude_zeroes(&value.handicraft),
+            handicraft: values_until_first_zero(&value.handicraft),
             echo_wave_id: value.echo_wave.as_sequential_id(),
             echo_bubble_id: value.echo_bubble.as_sequential_id(),
             melody_id: get_melody_sequential_id_from_uid(value.note_set_uid),

@@ -17,14 +17,18 @@ where
     let status = Command::new(path.as_ref())
         .args(args)
         .stdout(Stdio::null())
-        .status()
-        .unwrap();
+        .stderr(Stdio::null())
+        .status()?;
 
     if status.success() {
         Ok(())
     } else {
         Err(Error::CommandFailed)
     }
+}
+
+fn needs_refresh(input: &Path, output: &Path) -> Result<bool> {
+    Ok(!output.exists() || input.metadata()?.modified()? <= output.metadata()?.modified()?)
 }
 
 #[macro_export]

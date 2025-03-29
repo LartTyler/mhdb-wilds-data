@@ -1,18 +1,23 @@
-use super::{
-    LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
-};
+use super::{LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, WriteFile};
 use crate::serde::ordered_map;
 use crate::should_run;
+use anyhow::Context;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::collections::HashMap;
+use std::fmt::Display;
+use std::fs::File;
+use std::path::{Path, PathBuf};
 use strum::{EnumIter, IntoEnumIterator};
 
 type MonsterId = isize;
 
 const DATA: &str = "data/EnemyData.json";
 const SIZE_DATA: &str = "data/EmCommonSize.json";
+const ID_DATA: &str = "data/EmID.json";
+const PART_DATA_SUFFIX: &str = "_Param_Parts.json";
 
 const STRINGS: &str = "translations/EnemyText.json";
 const SPECIES_STRINGS: &str = "translations/EnemySpeciesName.json";
@@ -22,7 +27,7 @@ const SMALL_OUTPUT: &str = "merged/SmallMonsters.json";
 const ENDEMIC_OUTPUT: &str = "merged/Endemic.json";
 const SPECIES_OUTPUT: &str = "merged/Species.json";
 
-pub(super) fn process(config: &Config, filters: &[Processor]) -> Result {
+pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
     let species_strings = Msg::read_file(config.io.output_dir.join(SPECIES_STRINGS))?;
@@ -59,8 +64,14 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> Result {
         }
 
         let mut monster = Large::from(&data);
-
         data_strings.populate(&data.name_guid, &mut monster.names);
+
+        // Some monsters are not implemented yet, which can be detected by the monster entry having
+        // no names set in the translations file.
+        if monster.names.is_empty() {
+            continue;
+        }
+
         data_strings.populate(&data.description_guid, &mut monster.descriptions);
         data_strings.populate(&data.features_guid, &mut monster.features);
         data_strings.populate(&data.tips_guid, &mut monster.tips);
@@ -88,8 +99,42 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> Result {
         monster.size = data.into();
     }
 
+    let data: Vec<IdentifierData> = Vec::read_file(config.io.output_dir.join(ID_DATA))?;
+    let fixed_id_map: HashMap<MonsterId, Identifier> = data
+        .into_iter()
+        .filter_map(|v| {
+            if v.name == "INVALID" || v.name == "MAX" {
+                None
+            } else {
+                Some((v.id, Identifier::from(v)))
+            }
+        })
+        .collect();
+
+    for monster in &mut large {
+        let ident = fixed_id_map
+            .get(&monster.game_id)
+            .context("Could not find identifier by game ID")?;
+
+        let path = ident
+            .name
+            .get_path_to(config.io.output_dir.join("data"), PART_DATA_SUFFIX);
+
+        if !path.exists() {
+            panic!(
+                "Missing parts data for monster! ID is {}, expected path is {path:?}",
+                ident.id
+            );
+        }
+
+        let data: PartData = serde_json::from_reader(File::open(path)?)?;
+        monster.base_health = data.base_health;
+    }
+
     large.sort_by_key(|v| v.game_id);
-    large.write_file(config.io.output_dir.join(LARGE_OUTPUT))
+    large.write_file(config.io.output_dir.join(LARGE_OUTPUT))?;
+
+    Ok(())
 }
 
 #[derive(Debug, Serialize)]
@@ -106,6 +151,7 @@ struct Large {
     tips: LanguageMap,
     variants: Vec<LargeVariant>,
     size: Size,
+    base_health: u16,
 }
 
 impl From<&CommonData> for Large {
@@ -119,6 +165,7 @@ impl From<&CommonData> for Large {
             tips: LanguageMap::new(),
             variants: Vec::new(),
             size: Size::default(),
+            base_health: 0,
         }
     }
 }
@@ -257,4 +304,105 @@ impl From<SizeData> for Size {
 
 fn percentage_to_multiplier(value: u8) -> f32 {
     value as f32 / 100.0
+}
+
+#[derive(Debug, Deserialize)]
+struct PartData {
+    #[serde(rename = "_BaseHealth")]
+    base_health: u16,
+}
+
+#[derive(Debug, Deserialize)]
+struct IdentifierData {
+    #[serde(rename = "_FixedID")]
+    id: MonsterId,
+    #[serde(rename = "_EnumName")]
+    name: String,
+}
+
+#[derive(Debug)]
+struct Identifier {
+    id: MonsterId,
+    name: IdentifierName,
+}
+
+impl From<IdentifierData> for Identifier {
+    fn from(value: IdentifierData) -> Self {
+        Self {
+            id: value.id,
+            name: value
+                .name
+                .try_into()
+                .expect("Could not parse identifier name"),
+        }
+    }
+}
+
+#[derive(Debug)]
+struct IdentifierName {
+    full: String,
+    primary_id: u16,
+    sub_id: u8,
+}
+
+impl IdentifierName {
+    /// Retrieves the path to the given `file`, using either [`Self::get_path_name()`] or
+    /// [`Self::get_fallback_path_name()`] to determine where to find the file.
+    ///
+    /// Some monsters, such as Guardian Arkveld, do not contain their own copies of stat files (such
+    /// as the `Param_Parts.user.3` file). Normally, `Param_PartsEffect.user.3` could be used to
+    /// find which file the game engine actually uses, but since most existing tools don't seem to
+    /// know how to parse that file properly, this semi-hacky solution should do the trick.
+    ///
+    /// This works because monster identifiers (not to be confused with the internal "fixed" IDs)
+    /// follow the pattern `EM<id>_<sub_id>`, where `<id>` is an identifier shared by all "types" of
+    /// that monster (e.g. Arkveld and Guardian Arkveld are both have `<id>` values of 160), and
+    /// `<sub_id>` is a unique ID for the "type" (e.g. Arkveld is 00 and Guardian Arkveld is 50).
+    fn get_path_to<P: AsRef<Path>, F: AsRef<str> + Display>(
+        &self,
+        prefix: P,
+        file_suffix: F,
+    ) -> PathBuf {
+        let prefix = prefix.as_ref();
+
+        let path = prefix.join(format!("{}{file_suffix}", self.get_path_name()));
+
+        if path.exists() {
+            path
+        } else {
+            prefix.join(format!("{}{file_suffix}", self.get_fallback_path_name()))
+        }
+    }
+
+    /// Returns the path name as identified by the primary and sub IDs in this identifier.
+    fn get_path_name(&self) -> String {
+        format!("Em{:04}_{:02}", self.primary_id, self.sub_id)
+    }
+
+    /// Returns a potential fallback path, using only the primary ID and an assumed sub ID of 0.
+    fn get_fallback_path_name(&self) -> String {
+        format!("Em{:04}_00", self.primary_id)
+    }
+}
+
+impl TryFrom<String> for IdentifierName {
+    type Error = anyhow::Error;
+
+    fn try_from(value: String) -> Result<Self, Self::Error> {
+        let pos = value.find('_').context("Malformed identifier name")?;
+        let primary_id: u16 = value[2..pos].parse()?;
+
+        let offset = pos + 1;
+        let pos = value[offset..]
+            .find('_')
+            .context("Malformed identifier name")?;
+
+        let sub_id: u8 = value[offset..(offset + pos)].parse()?;
+
+        Ok(Self {
+            full: value,
+            primary_id,
+            sub_id,
+        })
+    }
 }
