@@ -124,7 +124,14 @@ class Program
                 return Flatten(ProcessObject(instance));
         }
         else if (value is List<object> list)
-            return list.Select(Flatten).ToArray();
+        {
+            var arr = list.Select(Flatten).ToArray();
+
+            if (arr.Length == 1)
+                return arr[0];
+            else
+                return arr;
+        }
         else if (value is Dictionary<string, object> dict && dict.Count == 1)
             return dict.First().Value;
         else if (value is Vector3 vec)
