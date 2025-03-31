@@ -463,7 +463,22 @@ translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp
 
 ### Notes
 `RefEnvironment.msg.23` seems to have the translations for each location, but I can't find how the entry names or GUIDs
-link back to the entries in `Stage.user.3`.
+link back to the entries in `Stage.user.3`. For now, I'm hardcoding a map of stage identifiers (`ST1##`) to name GUIDs.
+I hate doing it this way, but at this point I've spent hours just looking for where the game files might map a stage ID
+or string identifier to the GUID in the translations file. I'm not even sure if `RefEnvironment.user.3` is the only
+reference to the stage names. Instead of wasting more time, the `merger` will just handle mapping internally. The table
+below lists the current map of stage identifiers to GUIDs.
+
+|String Identifier|Name GUID|
+|---|---|
+|ST101|53c75773-e1c1-4842-b853-594c064c9dcf|
+|ST102|b05b96d2-3151-447c-911c-9e3d3b9e781c|
+|ST103|53dbc540-c48a-4c3d-bf1a-e7a715db927c|
+|ST104|c19b98a4-c220-4891-ac0e-15e21edf67bc|
+|ST105|2d17ecc9-6c48-4544-91ed-a078e05a4075|
+
+Only stages in the ST1XX namespace are included, since those appear to be the field stages, as opposed to cities / camps
+(such as Suja or Kunafa).
 
 For some strange reason, camps are treated by the game the same as the other map "gimmicks", like ivy traps or the
 rocks you can pull down on top of monsters with your slinger. All camps are part of the Gm800 namepace, and encode
