@@ -1,0 +1,1386 @@
+[
+  {
+    "game_id": -1251081216,
+    "names": {
+      "ja": "油涌き谷",
+      "en": "Oilwell Basin",
+      "fr": "Bassin pétrolier",
+      "it": "Bacino petrolifero",
+      "de": "Ölquellbecken",
+      "es": "Cuenca Oleosa",
+      "ru": "Нефтяная низина",
+      "pl": "Kotlina Oleju",
+      "pt-BR": "Bacia Oleídea",
+      "ko": "기름 솟는 계곡",
+      "zh-Hant": "湧油山谷",
+      "zh-Hans": "涌油谷",
+      "ar": "حوض آبار النفط",
+      "es-419": "Cuenca Oleosa"
+    },
+    "areas": 18,
+    "camps": [
+      {
+        "game_id": 1236020352,
+        "names": {
+          "ja": "エリア２　峡谷岩間",
+          "en": "Area 2: Canyon Divide",
+          "fr": "Zone 2 - Fossé du canyon",
+          "it": "Zona 2 - Canyon",
+          "de": "Gebiet 2: Schlucht",
+          "es": "Zona 2: Bifurcación del cañón",
+          "ru": "Область 2: скалистое ущелье",
+          "pl": "Obszar 2: Dział Kanionu",
+          "pt-BR": "Área 2: Divisão do Cânion",
+          "ko": "구역2 협곡 바위 사이",
+          "zh-Hant": "第2區　峽谷岩石間",
+          "zh-Hans": "区域2　峡谷岩石间",
+          "ar": "المنطقة 2: انقسام الأخدود",
+          "es-419": "Zona 2: Divisor de cañón"
+        },
+        "area": 2,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": 728.9807,
+          "y": -37.6587,
+          "z": -77.59798
+        }
+      },
+      {
+        "game_id": -1088539264,
+        "names": {
+          "ja": "エリア４　高所通路跡",
+          "en": "Area 4: Dilapidated Roadway",
+          "fr": "Zone 4 - Route vétuste",
+          "it": "Zona 4 - Strada in rovina",
+          "de": "Gebiet 4: Verfallene Straße",
+          "es": "Zona 4: Camino en ruinas",
+          "ru": "Область 4: заброшенная дорога",
+          "pl": "Obszar 4: Zniszczona droga",
+          "pt-BR": "Área 4: Estrada Deteriorada",
+          "ko": "구역4 고지대 통로 흔적",
+          "zh-Hant": "第4區　高處通路遺址",
+          "zh-Hans": "区域4　高处道路遗迹",
+          "ar": "المنطقة 4: الطريق المتهدم",
+          "es-419": "Zona 4: Camino derruido"
+        },
+        "area": 4,
+        "floor": 2,
+        "risk": "dangerous",
+        "position": {
+          "x": 1120.4517,
+          "y": -35.552746,
+          "z": -16.96232
+        }
+      },
+      {
+        "game_id": -1513005568,
+        "names": {
+          "ja": "エリア８　中層北部",
+          "en": "Area 8: Middle Strata North",
+          "fr": "Zone 8 - Strate intermédiaire nord",
+          "it": "Zona 8 - Strato centrale nord",
+          "de": "Gebiet 8: Mit. Ebene (N)",
+          "es": "Zona 8: Estratos medios - Norte",
+          "ru": "Область 8: центральный ярус, север",
+          "pl": "Obszar 8: Śr. złoże Północy",
+          "pt-BR": "Área 8: Estrato Médio Norte",
+          "ko": "구역8 중충 북부",
+          "zh-Hant": "第8區　中層北部",
+          "zh-Hans": "区域8　中层北部",
+          "ar": "المنطقة 8: الطبقة الوسطى الشمالية",
+          "es-419": "Zona 8: Estrato medio norte"
+        },
+        "area": 8,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": 917.81976,
+          "y": -111.91728,
+          "z": -201.39014
+        }
+      },
+      {
+        "game_id": -543541056,
+        "names": {
+          "ja": "エリア９　中層南部",
+          "en": "Area 9: Middle Strata South",
+          "fr": "Zone 9 - Strate intermédiaire sud",
+          "it": "Zona 9 - Strato centrale sud",
+          "de": "Gebiet 9: Mit. Ebene (S)",
+          "es": "Zona 9: Estratos medios - Sur",
+          "ru": "Область 9: центральный ярус, юг",
+          "pl": "Obszar 9: Śr. złoże Południa",
+          "pt-BR": "Área 9: Estrato Médio Sul",
+          "ko": "구역9 중층 남부",
+          "zh-Hant": "第9區　中層南部",
+          "zh-Hans": "区域9　中层南部",
+          "ar": "المنطقة 9: الطبقة الوسطى الجنوبية",
+          "es-419": "Zona 9: Estrato medio sur"
+        },
+        "area": 9,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": 981.21027,
+          "y": -119.19153,
+          "z": 108.262024
+        }
+      },
+      {
+        "game_id": 1056423168,
+        "names": {
+          "ja": "エリア１２　緋の細流",
+          "en": "Area 12: Crimson Rivulet",
+          "fr": "Zone 12 - Ruisseau écarlate",
+          "it": "Zona 12 - Fiume cremisi",
+          "de": "Gebiet 12: Karminbach",
+          "es": "Zona 12: Riachuelo carmesí",
+          "ru": "Область 12: алый ручей",
+          "pl": "Obszar 12: Karmazynowa rzeczka",
+          "pt-BR": "Área 12: Riacho Carmesim",
+          "ko": "구역12 주홍빛 여울",
+          "zh-Hant": "第12區　緋紅支流",
+          "zh-Hans": "区域12　绯红小河",
+          "ar": "المنطقة 12: النهر القرمزي",
+          "es-419": "Zona 12: Riachuelo carmesí"
+        },
+        "area": 12,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 673.86554,
+          "y": -219.53549,
+          "z": 24.425632
+        }
+      },
+      {
+        "game_id": -597130496,
+        "names": {
+          "ja": "エリア１３　鍾乳洞",
+          "en": "Area 13: Limestone Cavern",
+          "fr": "Zone 13 - Caverne calcaire",
+          "it": "Zona 13 - Caverna calcarea",
+          "de": "Gebiet 13: Kalksteinhöhle",
+          "es": "Zona 13: Caverna de caliza",
+          "ru": "Область 13: известняковый грот",
+          "pl": "Obszar 13: Pieczara wapienna",
+          "pt-BR": "Área 13: Caverna de Calcário",
+          "ko": "구역13 종유굴",
+          "zh-Hant": "第13區　鐘乳洞",
+          "zh-Hans": "区域13　钟乳洞",
+          "ar": "المنطقة 13: مغارة الحجر الجيري",
+          "es-419": "Zona 13: Gruta de piedra caliza"
+        },
+        "area": 13,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 951.60693,
+          "y": -142.34926,
+          "z": -180.07504
+        }
+      },
+      {
+        "game_id": 238639888,
+        "names": {
+          "ja": "エリア１４　鉱脈洞窟",
+          "en": "Area 14: Mining Cave",
+          "fr": "Zone 14 - Grotte minière",
+          "it": "Zona 14 - Caverna mineraria",
+          "de": "Gebiet 14: Bergbauhöhle",
+          "es": "Zona 14: Cueva minera",
+          "ru": "Область 14: штольня",
+          "pl": "Obszar 14: Jaskinia górnicza",
+          "pt-BR": "Área 14: Caverna de Mineração",
+          "ko": "구역14 광맥 동굴",
+          "zh-Hant": "第14區　礦脈洞窟",
+          "zh-Hans": "区域14　矿脉洞窟",
+          "ar": "المنطقة 14: كهف التنقيب",
+          "es-419": "Zona 14: Cueva de minería"
+        },
+        "area": 14,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 864.2866,
+          "y": -167.53925,
+          "z": 193.18413
+        }
+      },
+      {
+        "game_id": -1287419136,
+        "names": {
+          "ja": "エリア１５　下層北部",
+          "en": "Area 15: Lower Strata North",
+          "fr": "Zone 15 - Strate inférieure nord",
+          "it": "Zona 15 - Strato inferiore nord",
+          "de": "Gebiet 15: Unt. Ebene (N)",
+          "es": "Zona 15: Estratos inferiores - Norte",
+          "ru": "Область 15: нижний ярус, север",
+          "pl": "Obszar 15: N. złoże Północy",
+          "pt-BR": "Área 15: Estrato Inferior Norte",
+          "ko": "구역15 하층 북부",
+          "zh-Hant": "第15區　下層北部",
+          "zh-Hans": "区域15　下层北部",
+          "ar": "المنطقة 15: الطبقة السفلى الشمالية",
+          "es-419": "Zona 15: Estrato inferior norte"
+        },
+        "area": 15,
+        "floor": 0,
+        "risk": "dangerous",
+        "position": {
+          "x": 1112.7195,
+          "y": -193.42378,
+          "z": -83.16206
+        }
+      }
+    ],
+    "bitmask_value": 4
+  },
+  {
+    "game_id": -1226157568,
+    "names": {
+      "ja": "隔ての砂原",
+      "en": "Windward Plains",
+      "fr": "Plaines venteuses",
+      "it": "Piane ventose",
+      "de": "Windebene",
+      "es": "Llanos Barlovento",
+      "ru": "Наветренные равнины",
+      "pl": "Nawietrzne Równiny",
+      "pt-BR": "Planícies Zéfiras",
+      "ko": "경계의 모래 평원",
+      "zh-Hant": "天塹沙原",
+      "zh-Hans": "天堑沙原",
+      "ar": "سهول ويندوارد",
+      "es-419": "Llanos Ventosos"
+    },
+    "areas": 17,
+    "camps": [
+      {
+        "game_id": 1072031744,
+        "names": {
+          "ja": "エリア３　南部",
+          "en": "Area 3: South",
+          "fr": "Zone 3 - Sud",
+          "it": "Zona 3 - Sud",
+          "de": "Gebiet 3: Süden",
+          "es": "Zona 3: Sur",
+          "ru": "Область 3: юг",
+          "pl": "Obszar 3: Południe",
+          "pt-BR": "Área 3: Sul",
+          "ko": "구역3 남부",
+          "zh-Hant": "第3區　南部",
+          "zh-Hans": "区域3　南部",
+          "ar": "المنطقة 3: الجنوب ",
+          "es-419": "Zona 3: Sur"
+        },
+        "area": 3,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -1026.0447,
+          "y": 32.090633,
+          "z": 964.3236
+        }
+      },
+      {
+        "game_id": -1793374848,
+        "names": {
+          "ja": "エリア４　西部",
+          "en": "Area 4: West",
+          "fr": "Zone 4 - Ouest",
+          "it": "Zona 4 - Ovest",
+          "de": "Gebiet 4: Westen",
+          "es": "Zona 4: Oeste",
+          "ru": "Область 4: запад",
+          "pl": "Obszar 4: Zachód",
+          "pt-BR": "Área 4: Oeste",
+          "ko": "구역4 서부",
+          "zh-Hant": "第4區　西部",
+          "zh-Hans": "区域4　西部",
+          "ar": "المنطقة 4: غرب",
+          "es-419": "Zona 4: Oeste"
+        },
+        "area": 4,
+        "floor": 2,
+        "risk": "dangerous",
+        "position": {
+          "x": -1094.7307,
+          "y": 87.058784,
+          "z": 785.6916
+        }
+      },
+      {
+        "game_id": -582579520,
+        "names": {
+          "ja": "エリア４　鉱石洞窟",
+          "en": "Area 4: Mineral Cave",
+          "fr": "Zone 4 - Grotte minérale",
+          "it": "Zona 4 - Caverna minerale",
+          "de": "Gebiet 4: Mineralienhöhle",
+          "es": "Zona 4: Cueva de minerales",
+          "ru": "Область 4: пещера с минералами",
+          "pl": "Obszar 4: Jaskinia minerałów",
+          "pt-BR": "Área 4: Caverna Mineral",
+          "ko": "구역4 광석 동굴",
+          "zh-Hant": "第4區　礦石洞窟",
+          "zh-Hans": "区域4　矿石洞窟",
+          "ar": "المنطقة 4: كهف المعادن ",
+          "es-419": "Zona 4: Cueva de minerales"
+        },
+        "area": 4,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": -991.67236,
+          "y": 65.97437,
+          "z": 725.0487
+        }
+      },
+      {
+        "game_id": 1623808640,
+        "names": {
+          "ja": "エリア６　谷の隠れ家",
+          "en": "Area 6: Valley Hideaway",
+          "fr": "Zone 6 - Refuge de la vallée",
+          "it": "Zona 6 - Rifugio della valle",
+          "de": "Gebiet 6: Talversteck",
+          "es": "Zona 6: Escondrijo del valle",
+          "ru": "Область 6: убежище на равнине",
+          "pl": "Obszar 6: Dolina kryjówek",
+          "pt-BR": "Área 6: Esconderijo do Vale",
+          "ko": "구역6 계곡 은신처",
+          "zh-Hant": "第6區　山谷藏身處",
+          "zh-Hans": "区域6　山谷藏身处",
+          "ar": "المنطقة 6: مخبأ الوادي",
+          "es-419": "Zona 6: Escondite del valle"
+        },
+        "area": 6,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -1097.2708,
+          "y": 38.560577,
+          "z": 990.01855
+        }
+      },
+      {
+        "game_id": 1001462464,
+        "names": {
+          "ja": "エリア８　南西部",
+          "en": "Area 8: Southwest",
+          "fr": "Zone 8 - Sud-ouest",
+          "it": "Zona 8 - Sud-ovest",
+          "de": "Gebiet 8: Südwesten",
+          "es": "Zona 8: Suroeste",
+          "ru": "Область 8: юго-запад",
+          "pl": "Obszar 8: Południowy zachód",
+          "pt-BR": "Área 8: Sudoeste",
+          "ko": "구역8 남서부",
+          "zh-Hant": "第8區　西南部",
+          "zh-Hans": "区域8　西南部",
+          "ar": "المنطقة 8: جنوب غرب",
+          "es-419": "Zona 8: Suroeste"
+        },
+        "area": 8,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": -731.0369,
+          "y": 14.428724,
+          "z": 989.62195
+        }
+      },
+      {
+        "game_id": 1388919040,
+        "names": {
+          "ja": "エリア８　南東部",
+          "en": "Area 8: Southeast",
+          "fr": "Zone 8 - Sud-est",
+          "it": "Zona 8 - Sud-est",
+          "de": "Gebiet 8: Südosten",
+          "es": "Zona 8: Sureste",
+          "ru": "Область 8: юго-восток",
+          "pl": "Obszar 8: Południowy wschód",
+          "pt-BR": "Área 8 Sudeste",
+          "ko": "구역8 남동부",
+          "zh-Hant": "第8區　東南部",
+          "zh-Hans": "区域8　东南部",
+          "ar": "المنطقة 8: جنوب شرق",
+          "es-419": "Zona 8: Sureste"
+        },
+        "area": 8,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": -467.48724,
+          "y": -0.8226309,
+          "z": 999.3108
+        }
+      },
+      {
+        "game_id": 644253312,
+        "names": {
+          "ja": "エリア９　見晴らし丘",
+          "en": "Area 9: Lookout Hill",
+          "fr": "Zone 9 - Promontoire",
+          "it": "Zona 9 - Collina di vedetta",
+          "de": "Gebiet 9: Aussichtshügel",
+          "es": "Zona 9: Colina de vigía",
+          "ru": "Область 9: смотровой холм",
+          "pl": "Obszar 9: Wzgórze widokowe",
+          "pt-BR": "Área 9 Morro do Mirante",
+          "ko": "구역9 전망 좋은 언덕",
+          "zh-Hant": "第9區　眺望山丘",
+          "zh-Hans": "区域9　眺望坡",
+          "ar": "المنطقة 9: تل المراقبة",
+          "es-419": "Zona 9: Colina de vigía"
+        },
+        "area": 9,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -618.92285,
+          "y": 24.944147,
+          "z": 736.2871
+        }
+      },
+      {
+        "game_id": 1459183360,
+        "names": {
+          "ja": "エリア１０　南東部",
+          "en": "Area 10: Southeast",
+          "fr": "Zone 10 - Sud-est",
+          "it": "Zona 10 - Sud-est",
+          "de": "Gebiet 10: Südosten",
+          "es": "Zona 10: Sureste",
+          "ru": "Область 10: юго-восток",
+          "pl": "Obszar 10: Południowy wschód",
+          "pt-BR": "Área 10: Sudeste",
+          "ko": "구역10 남동부",
+          "zh-Hant": "第10區　東南部",
+          "zh-Hans": "区域10　东南部",
+          "ar": "المنطقة 10: جنوب شرق",
+          "es-419": "Zona 10: Sureste"
+        },
+        "area": 10,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": -418.34872,
+          "y": 8.551121,
+          "z": 806.5804
+        }
+      },
+      {
+        "game_id": -1214747648,
+        "names": {
+          "ja": "エリア１３　西部",
+          "en": "Area 13: West",
+          "fr": "Zone 13 - Ouest",
+          "it": "Zona 13 - Ovest",
+          "de": "Gebiet 13: Westen",
+          "es": "Zona 13: Oeste",
+          "ru": "Область 13: запад",
+          "pl": "Obszar 13: Zachód",
+          "pt-BR": "Área 13: Oeste",
+          "ko": "구역13 서부",
+          "zh-Hant": "第13區　西部",
+          "zh-Hans": "区域13　西部",
+          "ar": "المنطقة 13: الغرب",
+          "es-419": "Zona 13: Oeste"
+        },
+        "area": 13,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -1070.7848,
+          "y": 15.319534,
+          "z": 1298.9568
+        }
+      },
+      {
+        "game_id": 758123136,
+        "names": {
+          "ja": "エリア１３　オアシス",
+          "en": "Area 13: Oasis",
+          "fr": "Zone 13 - Oasis",
+          "it": "Zona 13 - Oasi",
+          "de": "Gebiet 13: Oase",
+          "es": "Zona 13: Oasis",
+          "ru": "Область 13: оазис",
+          "pl": "Obszar 13: Oaza",
+          "pt-BR": "Área 13: Oásis",
+          "ko": "구역13 오아시스",
+          "zh-Hant": "第13區　綠洲",
+          "zh-Hans": "区域13　绿洲",
+          "ar": "المنطقة 13: الواحة",
+          "es-419": "Zona 13: Oasis"
+        },
+        "area": 13,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": -958.5062,
+          "y": 5.088243,
+          "z": 1350.4937
+        }
+      },
+      {
+        "game_id": 929244352,
+        "names": {
+          "ja": "エリア１４　地下水脈",
+          "en": "Area 14: Groundwater Vein",
+          "fr": "Zone 14 - Souterrain aquatique",
+          "it": "Zona 14 - Cava sotterranea",
+          "de": "Gebiet 14: Karsthöhle",
+          "es": "Zona 14: Acuífero subterráneo",
+          "ru": "Область 14: водоносная жила",
+          "pl": "Obszar 14: Podz. żyła wodna",
+          "pt-BR": "Área 14: Veio de Água Subterrânea",
+          "ko": "구역14 지하 수맥",
+          "zh-Hant": "第14區　地下水脈",
+          "zh-Hans": "区域14　地下水脉",
+          "ar": "المنطقة 14: ممر المياه الجوفية",
+          "es-419": "Zona 14: Acuífero subterráneo"
+        },
+        "area": 14,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": -906.80035,
+          "y": -60.88362,
+          "z": 1283.9293
+        }
+      },
+      {
+        "game_id": 920110464,
+        "names": {
+          "ja": "エリア１６　骨砂漠",
+          "en": "Area 16: Bone Desert",
+          "fr": "Zone 16 - Désert osseux",
+          "it": "Zona 16 - Deserto d'ossa",
+          "de": "Gebiet 16: Knochenwüste",
+          "es": "Zona 16: Desierto de huesos",
+          "ru": "Область 16: пустыня костей",
+          "pl": "Obszar 16: Pustynia Kości",
+          "pt-BR": "Área 16: Deserto Ósseo",
+          "ko": "구역16 뼈 사막",
+          "zh-Hant": "第16區　骨沙漠",
+          "zh-Hans": "区域16　骨沙漠",
+          "ar": "المنطقة 16: صحراء العظام",
+          "es-419": "Zona 16: Desierto de huesos"
+        },
+        "area": 16,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -731.5719,
+          "y": 3.6447144,
+          "z": 1524.5121
+        }
+      },
+      {
+        "game_id": 2009017088,
+        "names": {
+          "ja": "エリア１６　北西部",
+          "en": "Area 16: Northwest",
+          "fr": "Zone 16 - Nord-ouest",
+          "it": "Zona 16 - Nord-ovest",
+          "de": "Gebiet 16: Nordwesten",
+          "es": "Zona 16: Noroeste",
+          "ru": "Область 16: северо-запад",
+          "pl": "Obszar 16: Północny zachód",
+          "pt-BR": "Área 16: Noroeste",
+          "ko": "구역16 북서부",
+          "zh-Hant": "第16區　西北部",
+          "zh-Hans": "区域16　西北部",
+          "ar": "المنطقة 16: شمال غرب",
+          "es-419": "Zona 16: Noroeste"
+        },
+        "area": 16,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -698.8055,
+          "y": 0.42693043,
+          "z": 1354.5664
+        }
+      }
+    ],
+    "bitmask_value": 1
+  },
+  {
+    "game_id": -859829056,
+    "names": {
+      "ja": "緋の森",
+      "en": "Scarlet Forest",
+      "fr": "Forêt écarlate",
+      "it": "Foresta cremisi",
+      "de": "Karminwald",
+      "es": "Bosque Escarlata",
+      "ru": "Багряный лес",
+      "pl": "Szkarłatny Las",
+      "pt-BR": "Floresta Escarlate",
+      "ko": "주홍빛 숲",
+      "zh-Hant": "緋紅森林",
+      "zh-Hans": "绯红森林",
+      "ar": "الغابة القرمزية",
+      "es-419": "Bosque Escarlata"
+    },
+    "areas": 19,
+    "camps": [
+      {
+        "game_id": 614515840,
+        "names": {
+          "ja": "エリア６　花咲く岩場",
+          "en": "Area 6: Flowering Rocks",
+          "fr": "Zone 6 - Rochers fleuris",
+          "it": "Zona 6 - Rocce fiorite",
+          "de": "Gebiet 6: Blütenfelsen",
+          "es": "Zona 6: Rocas floridas",
+          "ru": "Область 6: покрытые цветами скалы",
+          "pl": "Obszar 6: Kwitnące skały",
+          "pt-BR": "Área 6: Rochas Floridas",
+          "ko": "구역6 꽃 피는 암석 지대",
+          "zh-Hant": "第6區　開花岩場",
+          "zh-Hans": "区域6　鲜花岩地",
+          "ar": "المنطقة 6: الصخور المزهرة",
+          "es-419": "Zona 6: Rocas floridas"
+        },
+        "area": 6,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 9.59886,
+          "y": 42.35018,
+          "z": 240.24194
+        }
+      },
+      {
+        "game_id": 1001432768,
+        "names": {
+          "ja": "エリア７　大樹の木陰",
+          "en": "Area 7: Bower of the Great Tree",
+          "fr": "Zone 7 - À l'ombre du grand arbre",
+          "it": "Zona 7 - Ombra del grande albero",
+          "de": "Gebiet 7: Großer Baum",
+          "es": "Zona 7: Enramado del gran árbol",
+          "ru": "Область 7: подножие Великого древа",
+          "pl": "Obszar 7: Ustronie ogromnego drzwa",
+          "pt-BR": "Área 7: Refúgio da Grande Árvore",
+          "ko": "구역7 큰 나무 그늘",
+          "zh-Hant": "第7區　大樹樹蔭",
+          "zh-Hans": "区域7　巨木树荫",
+          "ar": "المنطقة 7: تعريشة الشجرة العظيمة",
+          "es-419": "Zona 7: Enramado del gran árbol"
+        },
+        "area": 7,
+        "floor": 0,
+        "risk": "dangerous",
+        "position": {
+          "x": 217.9356,
+          "y": 28.26271,
+          "z": 134.76178
+        }
+      },
+      {
+        "game_id": -966775616,
+        "names": {
+          "ja": "エリア８　南部",
+          "en": "Area 8: South",
+          "fr": "Zone 8 - Sud",
+          "it": "Zona 8 - Sud",
+          "de": "Gebiet 8: Süden",
+          "es": "Zona 8: Sur",
+          "ru": "Область 8: юг",
+          "pl": "Obszar 8: Południe",
+          "pt-BR": "Área 8: Sul",
+          "ko": "구역8 남부",
+          "zh-Hant": "第8區　南部",
+          "zh-Hans": "区域8　南部",
+          "ar": "المنطقة 8: جنوب",
+          "es-419": "Zona 8: Sur"
+        },
+        "area": 8,
+        "floor": 0,
+        "risk": "dangerous",
+        "position": {
+          "x": 422.60843,
+          "y": 21.903585,
+          "z": 92.55327
+        }
+      },
+      {
+        "game_id": 824575744,
+        "names": {
+          "ja": "エリア８　洞窟湖",
+          "en": "Area 8: Underground Lake",
+          "fr": "Zone 8 - Lac souterrain",
+          "it": "Zona 8 - Lago nella caverna",
+          "de": "Gebiet 8: Unterirdischer See",
+          "es": "Zona 8: Lago subterráneo",
+          "ru": "Область 8: подземное озеро",
+          "pl": "Obszar 8: Podziemne jezioro",
+          "pt-BR": "Área 8: Lago Subterrâneo",
+          "ko": "구역8 동굴 호수",
+          "zh-Hant": "第8區　洞窟湖",
+          "zh-Hans": "区域8　洞窟湖",
+          "ar": "المنطقة 8: بحيرة الكهف",
+          "es-419": "Zona 8: Lago subterráneo"
+        },
+        "area": 8,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 404.61145,
+          "y": 18.718277,
+          "z": -145.75435
+        }
+      },
+      {
+        "game_id": 1662739712,
+        "names": {
+          "ja": "エリア１０　南西部",
+          "en": "Area 10: Southwest",
+          "fr": "Zone 10 - Sud-ouest",
+          "it": "Zona 10 - Sud-ovest",
+          "de": "Gebiet 10: Südwesten",
+          "es": "Zona 10: Suroeste",
+          "ru": "Область 10: юго-запад",
+          "pl": "Obszar 10: Południowy zachód",
+          "pt-BR": "Área 10: Sudoeste",
+          "ko": "구역10 남서부",
+          "zh-Hant": "第10區　西南部",
+          "zh-Hans": "区域10　西南部",
+          "ar": "المنطقة 10: جنوب غرب",
+          "es-419": "Zona 10: Suroeste"
+        },
+        "area": 10,
+        "floor": 0,
+        "risk": "dangerous",
+        "position": {
+          "x": -65.49854,
+          "y": 99.16469,
+          "z": -9.660472
+        }
+      },
+      {
+        "game_id": -771417984,
+        "names": {
+          "ja": "エリア１２　北東部",
+          "en": "Area 12: Northeast",
+          "fr": "Zone 12 - Nord-est",
+          "it": "Zona 12 - Nord-est",
+          "de": "Gebiet 12: Nordosten",
+          "es": "Zona 12: Noreste",
+          "ru": "Область 12: северо-запад",
+          "pl": "Obszar 12: Północny wschód",
+          "pt-BR": "Área 12: Nordeste",
+          "ko": "구역12 북동부",
+          "zh-Hant": "第12區　東北部",
+          "zh-Hans": "区域12　东北部",
+          "ar": "المنطقة 12: شمال شرق",
+          "es-419": "Zona 12: Noreste"
+        },
+        "area": 12,
+        "floor": 0,
+        "risk": "insecure",
+        "position": {
+          "x": 339.71634,
+          "y": 78.14787,
+          "z": -138.15643
+        }
+      },
+      {
+        "game_id": 526418688,
+        "names": {
+          "ja": "エリア１４　南西部",
+          "en": "Area 14: Southwest",
+          "fr": "Zone 14 - Sud-ouest",
+          "it": "Zona 14 - Sud-ovest",
+          "de": "Gebiet 14: Südwesten",
+          "es": "Zona 14: Suroeste",
+          "ru": "Область 14: юго-запад",
+          "pl": "Obszar 14: Południowy zachód",
+          "pt-BR": "Área 14: Sudoeste",
+          "ko": "구역14 남서부",
+          "zh-Hant": "第14區　西南部",
+          "zh-Hans": "区域14　西南部",
+          "ar": "المنطقة 14: جنوب غرب",
+          "es-419": "Zona 14: Suroeste"
+        },
+        "area": 14,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": 113.690254,
+          "y": 126.37595,
+          "z": -336.4012
+        }
+      },
+      {
+        "game_id": -1122194688,
+        "names": {
+          "ja": "エリア１６　遺跡内部",
+          "en": "Area 16: Ruin Interior",
+          "fr": "Zone 16 - Intérieur des ruines",
+          "it": "Zona 16 - Interno delle rovine",
+          "de": "Gebiet 16: Ruine (innen)",
+          "es": "Zona 16: Interior de las ruinas",
+          "ru": "Область 16: руины (внутри)",
+          "pl": "Obszar 16: Wnętrze ruin",
+          "pt-BR": "Área 16: Interior da Ruína",
+          "ko": "구역16 유적 내부",
+          "zh-Hant": "第16區　遺跡內部",
+          "zh-Hans": "区域16　遗迹内部",
+          "ar": "المنطقة 16: داخل أطلال",
+          "es-419": "Zona 16: Interior de ruina"
+        },
+        "area": 16,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -100.251656,
+          "y": 100.78506,
+          "z": -613.8285
+        }
+      },
+      {
+        "game_id": 562913856,
+        "names": {
+          "ja": "エリア１６　滝の秘境",
+          "en": "Area 16: Hidden Waterfall",
+          "fr": "Zone 16 - Cascade cachée",
+          "it": "Zona 16 - Cascata nascosta",
+          "de": "Gebiet 16: Wasserfall",
+          "es": "Zona 16: Cascada oculta",
+          "ru": "Область 16: скрытый водопад",
+          "pl": "Obszar 16: Ukryty wodospad",
+          "pt-BR": "Área 16: Cachoeira Oculta",
+          "ko": "구역16 폭포 비경",
+          "zh-Hant": "第16區　瀑布秘境",
+          "zh-Hans": "区域16　瀑布秘境",
+          "ar": "المنطقة 16: الشلال المخفي",
+          "es-419": "Zona 16: Cascada oculta"
+        },
+        "area": 16,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -218.3413,
+          "y": 52.309914,
+          "z": -418.54602
+        }
+      },
+      {
+        "game_id": -577756288,
+        "names": {
+          "ja": "エリア１７　大湖畔",
+          "en": "Area 17: Great Lake Shore",
+          "fr": "Zone 17 - Rive du grand lac",
+          "it": "Zona 17 - Riva del grande lago",
+          "de": "Gebiet 17: Großer See",
+          "es": "Zona 17: Orilla del gran lago",
+          "ru": "Область 17: берег Великого озера",
+          "pl": "Obszar 17: Brzeg Wielkiego Jeziora",
+          "pt-BR": "Área 17: Margem do Grande Lago",
+          "ko": "구역17 큰 호숫가",
+          "zh-Hant": "第17區　大湖畔",
+          "zh-Hans": "区域17　大湖畔",
+          "ar": "المنطقة 17: شاطئ البحيرة العظمى",
+          "es-419": "Zona 17: Orilla del gran lago"
+        },
+        "area": 17,
+        "floor": 1,
+        "risk": "insecure",
+        "position": {
+          "x": -69.86886,
+          "y": 224.81425,
+          "z": -577.55676
+        }
+      },
+      {
+        "game_id": 689908672,
+        "names": {
+          "ja": "エリア１８　西部",
+          "en": "Area 18: West",
+          "fr": "Zone 18 - Ouest",
+          "it": "Zona 18 - Ovest",
+          "de": "Gebiet 18: Westen",
+          "es": "Zona 18: Oeste",
+          "ru": "Область 18: запад",
+          "pl": "Obszar 18: Zachód",
+          "pt-BR": "Área 18: Oeste",
+          "ko": "구역18 서부",
+          "zh-Hant": "第18區　西部",
+          "zh-Hans": "区域18　西部",
+          "ar": "المنطقة 18: الغرب ",
+          "es-419": "Zona 18: Oeste"
+        },
+        "area": 18,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": 17.73993,
+          "y": 114.01072,
+          "z": -56.162716
+        }
+      },
+      {
+        "game_id": 1277946496,
+        "names": {
+          "ja": "エリア１８　樹上高台",
+          "en": "Area 18: Treetop Hill",
+          "fr": "Zone 18 - Sommet des arbres",
+          "it": "Zona 18 - Collina degli alberi",
+          "de": "Gebiet 18: Baumwipfel",
+          "es": "Zona 18: Colina de copa del árbol",
+          "ru": "Область 18: площадка в кроне дерева",
+          "pl": "Obszar 18: Zalesione wzgórze",
+          "pt-BR": "Área 18: Colina das Copas",
+          "ko": "구역18 나무 위 고지대",
+          "zh-Hant": "第18區　樹上高台",
+          "zh-Hans": "区域18　树上高台",
+          "ar": "المنطقة 18: تل قمم الأشجار",
+          "es-419": "Zona 18: Colina de copa del árbol"
+        },
+        "area": 18,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": 43.130447,
+          "y": 126.887405,
+          "z": 31.017872
+        }
+      }
+    ],
+    "bitmask_value": 2
+  },
+  {
+    "game_id": 327401792,
+    "names": {
+      "ja": "竜都の跡形",
+      "en": "Ruins of Wyveria",
+      "fr": "Ruines de Wyveria",
+      "it": "Rovine di Wyveria",
+      "de": "Ruinen von Wyveria",
+      "es": "Ruinas de Wyveria",
+      "ru": "Руины Виверии",
+      "pl": "Ruiny Wiwerii",
+      "pt-BR": "Ruínas de Serperia",
+      "ko": "용도의 폐허",
+      "zh-Hant": "龍都遺跡",
+      "zh-Hans": "龙都遗迹",
+      "ar": "أطلال وايفيريا",
+      "es-419": "Ruinas de Wyveria"
+    },
+    "areas": 15,
+    "camps": [
+      {
+        "game_id": 558354944,
+        "names": {
+          "ja": "エリア２　崩れた遺構",
+          "en": "Area 2: Crumbling Structures",
+          "fr": "Zone 2 - Structures délabrées",
+          "it": "Zona 2 - Strutture fatiscenti",
+          "de": "Gebiet 2: Bröckelnde Bauten",
+          "es": "Zona 2: Estructuras ruinosas",
+          "ru": "Область 2: рушащиеся строения",
+          "pl": "Obszar 2: Zrujn. struktury",
+          "pt-BR": "Área 2: Estruturas em Ruínas",
+          "ko": "구역2 무너진 유적",
+          "zh-Hant": "第2區　崩塌遺跡",
+          "zh-Hans": "区域2　崩塌的遗迹",
+          "ar": "المنطقة 2: المباني المنهارة",
+          "es-419": "Zona 2: Estructuras desmoronándose"
+        },
+        "area": 2,
+        "floor": 3,
+        "risk": "safe",
+        "position": {
+          "x": -150.54707,
+          "y": -44.40217,
+          "z": -22.508335
+        }
+      },
+      {
+        "game_id": -1227235968,
+        "names": {
+          "ja": "エリア６　南東部",
+          "en": "Area 6: Southeast",
+          "fr": "Zone 6 - Sud-est",
+          "it": "Zona 6 - Sud-est",
+          "de": "Gebiet 6: Südosten",
+          "es": "Zona 6: Sureste",
+          "ru": "Область 6: юго-восток",
+          "pl": "Obszar 6: Południowy wschód",
+          "pt-BR": "Área 6: Sudeste",
+          "ko": "구역6 남동부",
+          "zh-Hant": "第6區　東南部",
+          "zh-Hans": "区域6　东南部",
+          "ar": "المنطقة 6: الجنوب الشرقي",
+          "es-419": "Zona 6: Sureste"
+        },
+        "area": 6,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": 90.98108,
+          "y": -86.822876,
+          "z": 83.158035
+        }
+      },
+      {
+        "game_id": 465175104,
+        "names": {
+          "ja": "エリア６　跡形の木立",
+          "en": "Area 6: Remnant Grove",
+          "fr": "Zone 6 - Bosquet des vestiges",
+          "it": "Zona 6 - Resti di un boschetto",
+          "de": "Gebiet 6: Hainreste",
+          "es": "Zona 6: Arboleda de vestigios",
+          "ru": "Область 6: остатки рощи",
+          "pl": "Obszar 6: Gaj Pozostałości",
+          "pt-BR": "Área 6: Bosque Remanescente",
+          "ko": "구역6 흔적의 숲",
+          "zh-Hant": "第6區　遺跡樹林",
+          "zh-Hans": "区域6　遗迹树林",
+          "ar": "المنطقة 6: بستان البقايا",
+          "es-419": "Zona 6: Arboleda de vestigios"
+        },
+        "area": 6,
+        "floor": 2,
+        "risk": "dangerous",
+        "position": {
+          "x": -15.32319,
+          "y": -91.61399,
+          "z": 10.181775
+        }
+      },
+      {
+        "game_id": 1241820800,
+        "names": {
+          "ja": "エリア６　廃都の秘境",
+          "en": "Area 6: Secluded Ruins",
+          "fr": "Zone 6 - Ruines isolées",
+          "it": "Zona 6 - Rovine isolate",
+          "de": "Gebiet 6: Abgelegene Ruinen",
+          "es": "Zona 6: Ruinas aisladas",
+          "ru": "Область 6: уединённые руины",
+          "pl": "Obszar 6: Odosobnione ruiny",
+          "pt-BR": "Área 6: Ruínas Isoladas",
+          "ko": "구역6 폐도의 비경",
+          "zh-Hant": "第6區　廢都的秘境",
+          "zh-Hans": "区域6　废都秘境",
+          "ar": "المنطقة 6: الحطام المنعزل",
+          "es-419": "Zona 6: Ruinas remotas"
+        },
+        "area": 6,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": -122.9256,
+          "y": -81.9259,
+          "z": -164.29799
+        }
+      },
+      {
+        "game_id": 113905488,
+        "names": {
+          "ja": "エリア８　瓦礫の隙間",
+          "en": "Area 8: Gap in Rubble",
+          "fr": "Zone 8 - Brèche dans les décombres",
+          "it": "Zona 8 - Apertura nelle macerie",
+          "de": "Gebiet 8: Trümmerlücke",
+          "es": "Zona 8: Hueco en los escombros",
+          "ru": "Область 8: щель между обломками",
+          "pl": "Obszar 8: Dziura w gruzach",
+          "pt-BR": "Área 8: Lacuna em Escombros",
+          "ko": "구역8 잔해의 틈",
+          "zh-Hant": "第8區　瓦礫縫隙",
+          "zh-Hans": "区域8　瓦砾缝隙",
+          "ar": "المنطقة 8: فجوة بين الركام",
+          "es-419": "Zona 8: Hueco entre los escombros"
+        },
+        "area": 8,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -132.24072,
+          "y": -164.78778,
+          "z": -1.1260805
+        }
+      },
+      {
+        "game_id": -2019576448,
+        "names": {
+          "ja": "エリア９　根絡み部屋",
+          "en": "Area 9: Entangled Canopy",
+          "fr": "Zone 9 - Racines enchevêtrées",
+          "it": "Zona 9 - Radici attorcigliate",
+          "de": "Gebiet 9: Wurzelversteck",
+          "es": "Zona 9: Raíces enredadas",
+          "ru": "Область 9: оплетённый свод",
+          "pl": "Obszar 9: Oplecione pomieszczenie",
+          "pt-BR": "Área 9: Sobrecéu Emaranhado",
+          "ko": "구역9 뿌리가 얽힌 방",
+          "zh-Hant": "第9區　盤根錯節的房間",
+          "zh-Hans": "区域9　盘根错节的房间",
+          "ar": "المنطقة 9: سقف متشابك",
+          "es-419": "Zona 9: Área enmarañada"
+        },
+        "area": 9,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": 73.27435,
+          "y": -152.57242,
+          "z": 27.20239
+        }
+      },
+      {
+        "game_id": -626526528,
+        "names": {
+          "ja": "エリア１３　隠れ横穴",
+          "en": "Area 13: Hidden Cave",
+          "fr": "Zone 13 - Grotte cachée",
+          "it": "Zona 13 - Caverna nascosta",
+          "de": "Gebiet 13: Verborgene Höhle",
+          "es": "Zona 13: Cueva oculta",
+          "ru": "Область 13: скрытая пещера",
+          "pl": "Obszar 13: Ukryta jaskinia",
+          "pt-BR": "Área 13: Caverna Oculta",
+          "ko": "구역13 숨겨진 땅굴",
+          "zh-Hant": "第13區　隱藏洞穴",
+          "zh-Hans": "区域13　隐藏洞穴",
+          "ar": "المنطقة 13: الكهف المخفي",
+          "es-419": "Zona 13: Cueva oculta"
+        },
+        "area": 13,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": 5.2794456,
+          "y": -232.31914,
+          "z": -125.30043
+        }
+      }
+    ],
+    "bitmask_value": 16
+  },
+  {
+    "game_id": 1182228864,
+    "names": {
+      "ja": "氷霧の断崖",
+      "en": "Iceshard Cliffs",
+      "fr": "Falaises de glace",
+      "it": "Scogliere ghiaccioaguzzo",
+      "de": "Eissplitterklippen",
+      "es": "Acantilados del Témpano",
+      "ru": "Ледяные утёсы",
+      "pl": "Lodowcowe Klify",
+      "pt-BR": "Escarpas Frígidas",
+      "ko": "빙무의 절벽",
+      "zh-Hant": "冰霧斷崖",
+      "zh-Hans": "冰雾断崖",
+      "ar": "منحدرات الشظايا الجليدية",
+      "es-419": "Acantilados Espinahelada"
+    },
+    "areas": 20,
+    "camps": [
+      {
+        "game_id": -1762305024,
+        "names": {
+          "ja": "エリア１　氷の水辺",
+          "en": "Area 1: Icy Shore",
+          "fr": "Zone 1 - Rives glacées",
+          "it": "Zona 1 - Riva ghiacciata",
+          "de": "Gebiet 1: Frostufer",
+          "es": "Zona 1: Orilla gélida",
+          "ru": "Область 1: обледенелый берег",
+          "pl": "Obszar 1: Lodowy brzeg",
+          "pt-BR": "Área 1: Costa Gelada",
+          "ko": "구역1 얼음 물가",
+          "zh-Hant": "第1區　冰河岸邊",
+          "zh-Hans": "区域1　冰河岸边",
+          "ar": "المنطقة 1: الشاطئ الثلجي",
+          "es-419": "Zona 1: Costa helada"
+        },
+        "area": 1,
+        "floor": 0,
+        "risk": "safe",
+        "position": {
+          "x": -863.2749,
+          "y": 5.009717,
+          "z": 386.00812
+        }
+      },
+      {
+        "game_id": 1876299904,
+        "names": {
+          "ja": "エリア６　北部",
+          "en": "Area 6: North",
+          "fr": "Zone 6 - Nord",
+          "it": "Zona 6 - Nord",
+          "de": "Gebiet 6: Norden",
+          "es": "Zona 6: Norte",
+          "ru": "Область 6: север",
+          "pl": "Obszar 6: Północ",
+          "pt-BR": "Área 6: Norte",
+          "ko": "구역6 북부",
+          "zh-Hant": "第6區　北部",
+          "zh-Hans": "区域6　北部",
+          "ar": "المنطقة 6: الشمال",
+          "es-419": "Zona 6: Norte"
+        },
+        "area": 6,
+        "floor": 1,
+        "risk": "dangerous",
+        "position": {
+          "x": -936.41547,
+          "y": 80.451805,
+          "z": 50.095585
+        }
+      },
+      {
+        "game_id": -489021248,
+        "names": {
+          "ja": "エリア７　見張り台",
+          "en": "Area 7: Watchtower",
+          "fr": "Zone 7 - Tour de guet",
+          "it": "Zona 7 - Bastione di guardia",
+          "de": "Gebiet 7: Burgturm",
+          "es": "Zona 7: Atalaya",
+          "ru": "Область 7: сторожевая башня",
+          "pl": "Obszar 7: Strażnica",
+          "pt-BR": "Área 7: Torre de Vigia",
+          "ko": "구역7 망루",
+          "zh-Hant": "第7區　瞭望台",
+          "zh-Hans": "区域7　瞭望台",
+          "ar": "المنطقة 7: برج المراقبة",
+          "es-419": "Zona 7: Atalaya"
+        },
+        "area": 7,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": -1027.0684,
+          "y": 158.0217,
+          "z": 114.65656
+        }
+      },
+      {
+        "game_id": -232680592,
+        "names": {
+          "ja": "エリア１５　天井回廊",
+          "en": "Area 15: Upper Corridor",
+          "fr": "Zone 15 - Couloir supérieur",
+          "it": "Zona 15 - Corridoio superiore",
+          "de": "Gebiet 15: Oberer Korridor",
+          "es": "Zona 15: Pasillo superior",
+          "ru": "Область 15: верхний коридор",
+          "pl": "Obszar 15: Górny korytarz",
+          "pt-BR": "Área 15: Corredor Superior",
+          "ko": "구역15 천장 회랑",
+          "zh-Hant": "第15區　高層迴廊",
+          "zh-Hans": "区域15　高层回廊",
+          "ar": "المنطقة 15: الممر العلوي",
+          "es-419": "Zona 15: Pasillo superior"
+        },
+        "area": 15,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -782.7377,
+          "y": 132.29427,
+          "z": 13.686095
+        }
+      },
+      {
+        "game_id": 215521728,
+        "names": {
+          "ja": "エリア１８　陥没孔",
+          "en": "Area 18: Sinkhole",
+          "fr": "Zone 18 - Abîme",
+          "it": "Zona 18 - Voragine",
+          "de": "Gebiet 18: Senke",
+          "es": "Zona 18: Socavón",
+          "ru": "Область 18: карстовая воронка",
+          "pl": "Obszar 18: Zapadlisko",
+          "pt-BR": "Área 18: Sumidouro",
+          "ko": "구역18 움푹 파인 구멍",
+          "zh-Hant": "第18區　陷落孔",
+          "zh-Hans": "区域18　陷坑洞",
+          "ar": "المنطقة 18: الحفرة السحيقة",
+          "es-419": "Zona 18: Socavón"
+        },
+        "area": 18,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -953.2474,
+          "y": 80.26126,
+          "z": 238.6813
+        }
+      },
+      {
+        "game_id": -718769216,
+        "names": {
+          "ja": "エリア１９　浮遊岩壁",
+          "en": "Area 19: Floating Rock Wall",
+          "fr": "Zone 19 - Mur de rochers flottants",
+          "it": "Zona 19 - Roccia fluttuante",
+          "de": "Gebiet 19: Lose Wand",
+          "es": "Zona 19: Muro de rocas flotante",
+          "ru": "Область 19: парящая каменная стена",
+          "pl": "Obszar 19: Latające skały",
+          "pt-BR": "Área 19: Muro de Rocha Flutuante",
+          "ko": "구역19 부유 암벽",
+          "zh-Hant": "第19區　飄浮岩壁",
+          "zh-Hans": "区域19　漂浮岩壁",
+          "ar": "المنطقة 19: جدار الصخور الطافية",
+          "es-419": "Zona 19: Muro de roca flotante"
+        },
+        "area": 19,
+        "floor": 2,
+        "risk": "safe",
+        "position": {
+          "x": -881.2636,
+          "y": 142.19753,
+          "z": 52.56417
+        }
+      },
+      {
+        "game_id": -918808896,
+        "names": {
+          "ja": "エリア２０　遺構の室",
+          "en": "Area 20: Ancient Room",
+          "fr": "Zone 20 - Salle antique",
+          "it": "Zona 20 - Stanza antica",
+          "de": "Gebiet 20: Uralter Raum",
+          "es": "Zona 20: Sala ancestral",
+          "ru": "Область 20: древнее помещение",
+          "pl": "Obszar 20: Prastary pokój",
+          "pt-BR": "Área 20: Sala Ancestral",
+          "ko": "구역20 유적의 방",
+          "zh-Hant": "第20區　遺跡房間",
+          "zh-Hans": "区域20　遗迹房间",
+          "ar": "المنطقة 20: الغرفة العتيقة",
+          "es-419": "Zona 20: Sala ancestral"
+        },
+        "area": 20,
+        "floor": 1,
+        "risk": "safe",
+        "position": {
+          "x": -808.37585,
+          "y": 121.02806,
+          "z": 193.8238
+        }
+      }
+    ],
+    "bitmask_value": 8
+  }
+]

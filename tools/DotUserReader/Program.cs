@@ -1,5 +1,6 @@
 ﻿using RszTool;
 using System.ComponentModel;
+using System.Numerics;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Xml.Linq;
@@ -48,11 +49,7 @@ class Program
         } else
         {
             var dict = ProcessInstance(file.RSZ.ObjectList[0]);
-
-            if (dict.Count == 1)
-                output = dict.First().Value;
-            else
-                output = dict;
+            output = Flatten(dict);
         }
 
         using FileStream fs = File.Create(outPath);
@@ -99,10 +96,10 @@ class Program
             if (child.Values.Length == 1 && child.Values[0] is List<object>)
                 return ProcessValue(child.Values[0]);
             else
-                return ProcessInstance(child);
+                return Flatten(ProcessInstance(child));
         }
         else
-            return value;
+            return Flatten(value);
     }
 
     private static Dictionary<string, object> ProcessObject(RszInstance instance)
@@ -124,10 +121,21 @@ class Program
             if (instance.Values.Length == 1)
                 return instance.Values[0];
             else
-                return ProcessObject(instance);
+                return Flatten(ProcessObject(instance));
         }
         else if (value is List<object> list)
             return list.Select(Flatten).ToArray();
+        else if (value is Dictionary<string, object> dict && dict.Count == 1)
+            return dict.First().Value;
+        else if (value is Vector3 vec)
+        {
+            Dictionary<string, float> d = [];
+            d.Add("x", vec.X);
+            d.Add("y", vec.Y);
+            d.Add("z", vec.Z);
+
+            return d;
+        }
         else
             return value;
     }

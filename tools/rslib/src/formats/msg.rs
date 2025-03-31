@@ -47,6 +47,11 @@ impl Msg {
         self.find(guid)?.get(index)
     }
 
+    pub fn get_lang(&self, guid: &str, lang: LanguageCode) -> Option<&str> {
+        let index = self.get_language_index(lang)?;
+        self.get(guid, index)
+    }
+
     pub fn get_by_name(&self, name: &str, index: usize) -> Option<&str> {
         self.find_by_name(name)?.get(index)
     }

@@ -455,6 +455,8 @@ translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp
 ## Locations
 ### Data Files
 - `natives/STM/GameDesign/Stage/Common/EnumMaker/Stage.user.3`
+- `natives/STM/GameDesign/Gimmick/Gm800/Gm800_*/*_AaaUniqueParam.user.3`
+- `natives/STM/GameDesign/Stage/Common/DarkAreaSetting.user.3`
 
 ### Translation Files
 - `natives/STM/GameDesign/Text/Reference/RefEnvironment.msg.23`
@@ -462,6 +464,15 @@ translations of the "Attack Up (S)" song under the `name` "MusicSkillDataText_Wp
 ### Notes
 `RefEnvironment.msg.23` seems to have the translations for each location, but I can't find how the entry names or GUIDs
 link back to the entries in `Stage.user.3`.
+
+For some strange reason, camps are treated by the game the same as the other map "gimmicks", like ivy traps or the
+rocks you can pull down on top of monsters with your slinger. All camps are part of the Gm800 namepace, and encode
+the data we care about in the `Gm<id>_AaaUniqueParam.user.3` where `<id>` is the identifier string for that specific
+gimmick.
+
+Zone count for a stage is located in several files it seems, but the tooling currently in place only seems to be able
+to parse the `DarkAreaSetting.user.3` file. It contains data for, I believe, day/night cycle settings, but each object
+seems to include settings for each camp, so it _should_ be suitable.
 
 ## Monsters
 ### Data Files
