@@ -1,4 +1,7 @@
-use super::{LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, WriteFile};
+use super::{
+    locations, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, WriteFile,
+};
+use crate::processor::locations::{Stage, StageId};
 use crate::serde::ordered_map;
 use crate::should_run;
 use anyhow::Context;
@@ -14,10 +17,12 @@ use strum::{EnumIter, IntoEnumIterator};
 
 type MonsterId = isize;
 
-const DATA: &str = "data/EnemyData.json";
-const SIZE_DATA: &str = "data/EmCommonSize.json";
-const ID_DATA: &str = "data/EmID.json";
+const DATA: &str = "data/enemy/EnemyData.json";
+const SIZE_DATA: &str = "data/enemy/EmCommonSize.json";
+const ID_DATA: &str = "data/enemy/EmID.json";
+const PART_DATA_PREFIX: &str = "data/enemy";
 const PART_DATA_SUFFIX: &str = "_Param_Parts.json";
+const REPORT_BOSS_DATA: &str = "data/enemy/EnemyReportBossData.json";
 
 const STRINGS: &str = "translations/EnemyText.json";
 const SPECIES_STRINGS: &str = "translations/EnemySpeciesName.json";
@@ -116,9 +121,10 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
             .get(&monster.game_id)
             .context("Could not find identifier by game ID")?;
 
-        let path = ident
-            .name
-            .get_path_to(config.io.output_dir.join("data"), PART_DATA_SUFFIX);
+        let path = ident.name.get_path_to(
+            config.io.output_dir.join(PART_DATA_PREFIX),
+            PART_DATA_SUFFIX,
+        );
 
         if !path.exists() {
             panic!(
@@ -129,6 +135,24 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
 
         let data: PartData = serde_json::from_reader(File::open(path)?)?;
         monster.base_health = data.base_health;
+    }
+
+    let stages: Vec<Stage> = Vec::read_file(config.io.output_dir.join(locations::OUTPUT))?;
+
+    let data: Vec<ReportBossData> = Vec::read_file(config.io.output_dir.join(REPORT_BOSS_DATA))?;
+
+    for data in data {
+        let Some(monster) = large_lookup.find_in_mut(data.monster_id, &mut large) else {
+            continue;
+        };
+
+        for stage in &stages {
+            if data.stage.bits & stage.bitmask_value > 0 {
+                monster.locations.push(stage.game_id);
+            }
+        }
+
+        monster.locations.sort();
     }
 
     large.sort_by_key(|v| v.game_id);
@@ -152,6 +176,7 @@ struct Large {
     variants: Vec<LargeVariant>,
     size: Size,
     base_health: u16,
+    locations: Vec<StageId>,
 }
 
 impl From<&CommonData> for Large {
@@ -166,6 +191,7 @@ impl From<&CommonData> for Large {
             variants: Vec::new(),
             size: Size::default(),
             base_health: 0,
+            locations: Vec::new(),
         }
     }
 }
@@ -405,4 +431,18 @@ impl TryFrom<String> for IdentifierName {
             sub_id,
         })
     }
+}
+
+#[derive(Debug, Deserialize)]
+struct ReportBossData {
+    #[serde(rename = "_EmID")]
+    monster_id: MonsterId,
+    #[serde(rename = "_StageBit")]
+    stage: ReportBossDataStage,
+}
+
+#[derive(Debug, Deserialize)]
+struct ReportBossDataStage {
+    #[serde(rename = "_Value")]
+    bits: u32,
 }

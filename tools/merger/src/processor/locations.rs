@@ -9,8 +9,8 @@ use serde::{Deserialize, Deserializer, Serialize};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 
-type StageId = isize;
-type GimmickId = isize;
+pub type StageId = isize;
+pub type GimmickId = isize;
 
 const STAGE_ID_DATA: &str = "data/Stage.json";
 const GIMMICK_ID_DATA: &str = "data/GmID.json";
@@ -24,7 +24,7 @@ const CAMP_PATH_PREFIX: &str = "data/camps";
 const STAGE_STRINGS: &str = "translations/RefEnvironment.json";
 const GIMMICK_STRINGS: &str = "translations/Gimmick.json";
 
-const OUTPUT: &str = "merged/Stage.json";
+pub const OUTPUT: &str = "merged/Stage.json";
 
 pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Locations);
@@ -152,14 +152,14 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     Ok(())
 }
 
-#[derive(Debug, Serialize)]
-struct Stage {
-    game_id: StageId,
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Stage {
+    pub game_id: StageId,
     #[serde(serialize_with = "ordered_map")]
-    names: LanguageMap,
-    areas: u16,
-    camps: Vec<Camp>,
-    bitmask_value: u32,
+    pub names: LanguageMap,
+    pub areas: u16,
+    pub camps: Vec<Camp>,
+    pub bitmask_value: u32,
 }
 
 impl From<&StageIdData> for Stage {
@@ -202,8 +202,8 @@ impl StageIdData {
     }
 }
 
-#[derive(Debug, Serialize)]
-struct Camp {
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Camp {
     game_id: GimmickId,
     #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
@@ -220,7 +220,7 @@ impl From<CampData> for Camp {
             names: LanguageMap::new(),
             area: value.area,
             floor: value.floor,
-            risk: value.risk,
+            risk: value.risk.into(),
             position: value.tent.position,
         }
     }
@@ -235,7 +235,7 @@ struct CampData {
     #[serde(rename = "_FloorNum", deserialize_with = "negative_as_zero")]
     floor: u16,
     #[serde(rename = "_RiskDegree")]
-    risk: Risk,
+    risk: RiskData,
     #[serde(rename = "_TentPoint")]
     tent: TentData,
 }
@@ -246,17 +246,34 @@ struct TentData {
     position: Position,
 }
 
-#[derive(Debug, Deserialize_repr, Serialize)]
-#[serde(rename_all(serialize = "kebab-case"))]
+#[derive(Debug, Deserialize_repr)]
 #[repr(u8)]
-enum Risk {
+enum RiskData {
     Dangerous,
     Insecure,
     Safe,
 }
 
+#[derive(Debug, Serialize, Deserialize)]
+#[serde(rename_all = "kebab-case")]
+pub enum Risk {
+    Dangerous,
+    Insecure,
+    Safe,
+}
+
+impl From<RiskData> for Risk {
+    fn from(value: RiskData) -> Self {
+        match value {
+            RiskData::Dangerous => Self::Dangerous,
+            RiskData::Insecure => Self::Insecure,
+            RiskData::Safe => Self::Safe,
+        }
+    }
+}
+
 #[derive(Debug, Deserialize, Serialize)]
-struct Position {
+pub struct Position {
     x: f32,
     y: f32,
     z: f32,
