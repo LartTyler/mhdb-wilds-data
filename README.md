@@ -498,6 +498,8 @@ seems to include settings for each camp, so it _should_ be suitable.
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EmCommonSize.user.3`
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EmCommonRandomSize.user.3`
 - `natives/STM/GameDesign/Enemy/Em*/*/Data/Em*_Param_Parts.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/Data/EmParamBadCondition2.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/Data/EmParamBadConditionPreset.user.3`
 
 ### Translation Files
 - `natives/STM/GameDesign/Text/Excel_Data/EnemyText.msg.23`
@@ -546,6 +548,22 @@ multiplier and a `_Prob` integer indicating how likely that multiplier is to be 
 referenced in `_EnemyRandomSizeTblArray` entries, with `_EmId` holding the fixed ID of the monster from the enums file
 and multiple possible size tables in `_SizeTable`. I'm still not sure how the game decides which `_SizeTable` to choose,
 and which `SizeTableId*` entry under that to pick.
+
+`EmParamBadCondition2.user.3` and `EmParamBadConditionPreset.user.3` are used together to determine the star rating
+displayed in the monster manual for status effects such as poison. `EmParamBadCondition2.user.3` is a list of monsters
+and GUIDs that point to entries in `EmParamBadConditionPreset.user.3`, which define how weak the monster is to that
+status or condition; that indicator is stored in the `_EffectiveType` field of the corresponding entry. The table below
+maps the value of that field to the effectiveness rating of the status (the stars displayed in the monster manual).
+
+|File Value|Star Rating|
+|---|---|
+|1693907968|1 star|
+|-1937674624|2 star|
+|-1279992448|3 star|
+
+Additionally, for statuses or conditions that the monster is fully resistant to, the `EmParamBadCondition2.user.3` file
+uses a GUID of all zeroes (`00000000-0000-0000-0000-000000000000`) in place of a valid GUID to indicate that the status
+is not effective at all (such as flash effects on Gore Magala and Gypceros).
 
 ## Locations (Stages)
 ### Data Files
