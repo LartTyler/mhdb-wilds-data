@@ -6,8 +6,8 @@ use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 
-const DATA: &str = "data/Charm.json";
-const STRINGS: &str = "translations/Charm.json";
+const DATA: &str = "user/Charm.json";
+const STRINGS: &str = "msg/Charm.json";
 
 const OUTPUT: &str = "merged/Charm.json";
 

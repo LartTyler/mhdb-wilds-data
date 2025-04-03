@@ -61,7 +61,7 @@ else either has an executable embedded in the project, or will compile on-demand
 
 ## Pipeline
 1. Extract the `re_chunk_000.pak` file in the root of your Wilds install using `/tools/REtool/Extract-PAK.bat`.
-2. Copy `/tools/extractor/examples/config.toml` to the project root, and adjust the paths in `[io]` to point to the
+2. Copy `/tools/rslib/examples/config.toml` to the project root, and adjust the paths in `[io]` to point to the
    extracted files. If you used the `bat` file as-is, no changes will be necessary.
 3. Run `/extract.bat` to convert the relevant `.user.3` and `.msg.23` files to JSON dumps.
 4. Run `/merge.bat` to convert the raw JSON dumps into a merged JSON format.

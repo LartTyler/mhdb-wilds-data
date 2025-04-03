@@ -9,9 +9,9 @@ use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 
-const DATA: &str = "data/AmuletData.json";
-const STRINGS: &str = "translations/Amulet.json";
-const RECIPES: &str = "data/AmuletRecipeData.json";
+const DATA: &str = "user/AmuletData.json";
+const STRINGS: &str = "msg/Amulet.json";
+const RECIPES: &str = "user/AmuletRecipeData.json";
 
 const OUTPUT: &str = "merged/Amulet.json";
 

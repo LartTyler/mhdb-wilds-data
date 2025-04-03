@@ -140,19 +140,19 @@ struct ProcessorDefinition {
 
 impl ProcessorDefinition {
     fn data_path(&self) -> PathBuf {
-        PathBuf::from(format!("data/{}.json", self.input_prefix))
+        PathBuf::from(format!("user/{}.json", self.input_prefix))
     }
 
     fn recipe_path(&self) -> PathBuf {
-        PathBuf::from(format!("data/{}Recipe.json", self.input_prefix))
+        PathBuf::from(format!("user/{}Recipe.json", self.input_prefix))
     }
 
     fn tree_path(&self) -> PathBuf {
-        PathBuf::from(format!("data/{}Tree.json", self.input_prefix))
+        PathBuf::from(format!("user/{}Tree.json", self.input_prefix))
     }
 
     fn strings_path(&self) -> PathBuf {
-        PathBuf::from(format!("translations/{}.json", self.input_prefix))
+        PathBuf::from(format!("msg/{}.json", self.input_prefix))
     }
 
     fn output_path(&self) -> PathBuf {

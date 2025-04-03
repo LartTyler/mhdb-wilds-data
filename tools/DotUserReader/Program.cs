@@ -86,10 +86,7 @@ class Program
                 output.Add(Flatten(instance));
             }
 
-            if (output.Count == 1)
-                return output[0];
-            else
-                return output;
+            return output;
         }
         else if (value is RszInstance child)
         {
@@ -125,12 +122,7 @@ class Program
         }
         else if (value is List<object> list)
         {
-            var arr = list.Select(Flatten).ToArray();
-
-            if (arr.Length == 1)
-                return arr[0];
-            else
-                return arr;
+            return list.Select(Flatten).ToArray();
         }
         else if (value is Dictionary<string, object> dict && dict.Count == 1)
             return dict.First().Value;

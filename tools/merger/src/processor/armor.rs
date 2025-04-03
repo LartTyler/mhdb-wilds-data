@@ -11,13 +11,13 @@ use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 
-const SERIES_DATA: &str = "data/ArmorSeriesData.json";
-const ARMOR_DATA: &str = "data/ArmorData.json";
-const RECIPE_DATA: &str = "data/ArmorRecipeData.json";
-const UPGRADE_DATA: &str = "data/ArmorUpgradeData.json";
+const SERIES_DATA: &str = "user/ArmorSeriesData.json";
+const ARMOR_DATA: &str = "user/ArmorData.json";
+const RECIPE_DATA: &str = "user/ArmorRecipeData.json";
+const UPGRADE_DATA: &str = "user/ArmorUpgradeData.json";
 
-const SERIES_STRINGS: &str = "translations/ArmorSeries.json";
-const ARMOR_STRINGS: &str = "translations/Armor.json";
+const SERIES_STRINGS: &str = "msg/ArmorSeries.json";
+const ARMOR_STRINGS: &str = "msg/Armor.json";
 
 pub const OUTPUT: &str = "merged/Armor.json";
 pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";

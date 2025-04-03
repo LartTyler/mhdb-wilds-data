@@ -12,17 +12,17 @@ use std::collections::HashMap;
 pub type StageId = isize;
 pub type GimmickId = isize;
 
-const STAGE_ID_DATA: &str = "data/Stage.json";
-const GIMMICK_ID_DATA: &str = "data/GmID.json";
+const STAGE_ID_DATA: &str = "user/locations/Stage.json";
+const GIMMICK_ID_DATA: &str = "user/GmID.json";
 
-const DARK_AREA_DATA: &str = "data/DarkAreaSetting.json";
-const GIMMICK_DATA: &str = "data/GimmickBasicData.json";
-const GIMMICK_TEXT_DATA: &str = "data/GimmickTextData.json";
+const DARK_AREA_DATA: &str = "user/locations/DarkAreaSetting.json";
+const GIMMICK_DATA: &str = "user/GimmickBasicData.json";
+const GIMMICK_TEXT_DATA: &str = "user/GimmickTextData.json";
 
-const CAMP_PATH_PREFIX: &str = "data/camps";
+const CAMP_PATH_PREFIX: &str = "user/locations/camps";
 
-const STAGE_STRINGS: &str = "translations/RefEnvironment.json";
-const GIMMICK_STRINGS: &str = "translations/Gimmick.json";
+const STAGE_STRINGS: &str = "msg/RefEnvironment.json";
+const GIMMICK_STRINGS: &str = "msg/Gimmick.json";
 
 pub const OUTPUT: &str = "merged/Stage.json";
 
@@ -186,7 +186,7 @@ struct StageIdData {
 
 impl StageIdData {
     fn bitmask(&self) -> u32 {
-        1 << self.value
+        1 << (self.value + 1)
     }
 
     fn get_name_guid(&self) -> &str {

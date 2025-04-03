@@ -9,8 +9,8 @@ use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
-const DATA: &str = "data/AccessoryData.json";
-const STRINGS: &str = "translations/Accessory.json";
+const DATA: &str = "user/AccessoryData.json";
+const STRINGS: &str = "msg/Accessory.json";
 
 const OUTPUT: &str = "merged/Accessory.json";
 

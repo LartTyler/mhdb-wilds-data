@@ -11,11 +11,11 @@ use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
-const SKILL_DATA: &str = "data/SkillCommonData.json";
-const RANK_DATA: &str = "data/SkillData.json";
+const SKILL_DATA: &str = "user/SkillCommonData.json";
+const RANK_DATA: &str = "user/SkillData.json";
 
-const SKILL_STRINGS: &str = "translations/SkillCommon.json";
-const RANK_STRINGS: &str = "translations/Skill.json";
+const SKILL_STRINGS: &str = "msg/SkillCommon.json";
+const RANK_STRINGS: &str = "msg/Skill.json";
 
 const OUTPUT: &str = "merged/Skill.json";
 

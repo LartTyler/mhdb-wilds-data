@@ -17,15 +17,15 @@ use strum::{EnumIter, IntoEnumIterator};
 
 type MonsterId = isize;
 
-const DATA: &str = "data/enemy/EnemyData.json";
-const SIZE_DATA: &str = "data/enemy/EmCommonSize.json";
-const ID_DATA: &str = "data/enemy/EmID.json";
-const PART_DATA_PREFIX: &str = "data/enemy";
+const DATA: &str = "user/monsters/EnemyData.json";
+const SIZE_DATA: &str = "user/monsters/EmCommonSize.json";
+const ID_DATA: &str = "user/monsters/EmID.json";
+const PART_DATA_PREFIX: &str = "user/monsters/parts";
 const PART_DATA_SUFFIX: &str = "_Param_Parts.json";
-const REPORT_BOSS_DATA: &str = "data/enemy/EnemyReportBossData.json";
+const REPORT_BOSS_DATA: &str = "user/monsters/EnemyReportBossData.json";
 
-const STRINGS: &str = "translations/EnemyText.json";
-const SPECIES_STRINGS: &str = "translations/EnemySpeciesName.json";
+const STRINGS: &str = "msg/EnemyText.json";
+const SPECIES_STRINGS: &str = "msg/EnemySpeciesName.json";
 
 const LARGE_OUTPUT: &str = "merged/LargeMonsters.json";
 const SPECIES_OUTPUT: &str = "merged/Species.json";
@@ -135,7 +135,6 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     let stages: Vec<Stage> = Vec::read_file(config.io.output.join(locations::OUTPUT))?;
-
     let data: Vec<ReportBossData> = Vec::read_file(config.io.output.join(REPORT_BOSS_DATA))?;
 
     for data in data {

@@ -236,7 +236,7 @@
         }
       }
     ],
-    "bitmask_value": 4
+    "bitmask_value": 8
   },
   {
     "game_id": -1226157568,
@@ -610,7 +610,7 @@
         }
       }
     ],
-    "bitmask_value": 1
+    "bitmask_value": 2
   },
   {
     "game_id": -859829056,
@@ -957,7 +957,7 @@
         }
       }
     ],
-    "bitmask_value": 2
+    "bitmask_value": 4
   },
   {
     "game_id": 327401792,
@@ -1169,7 +1169,7 @@
         }
       }
     ],
-    "bitmask_value": 16
+    "bitmask_value": 32
   },
   {
     "game_id": 1182228864,
@@ -1381,6 +1381,6 @@
         }
       }
     ],
-    "bitmask_value": 8
+    "bitmask_value": 16
   }
 ]
