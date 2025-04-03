@@ -53,8 +53,8 @@ const IGNORED_IDS: &[isize] = &[
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Skill);
 
-    let data: Vec<SkillData> = Vec::read_file(config.io.output_dir.join(SKILL_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(SKILL_STRINGS))?;
+    let data: Vec<SkillData> = Vec::read_file(config.io.output.join(SKILL_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(SKILL_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -79,8 +79,8 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let data: Vec<RankData> = Vec::read_file(config.io.output_dir.join(RANK_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(RANK_STRINGS))?;
+    let data: Vec<RankData> = Vec::read_file(config.io.output.join(RANK_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(RANK_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -117,7 +117,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let mut data: Vec<armor::Set> = Vec::read_file(config.io.output_dir.join(armor::OUTPUT))?;
+    let mut data: Vec<armor::Set> = Vec::read_file(config.io.output.join(armor::OUTPUT))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     for data in &mut data {
@@ -163,12 +163,12 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         }
     }
 
-    data.write_file(config.io.output_dir.join(armor::OUTPUT))?;
+    data.write_file(config.io.output.join(armor::OUTPUT))?;
 
     progress.finish_and_clear();
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))
+    merged.write_file(config.io.output.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize)]

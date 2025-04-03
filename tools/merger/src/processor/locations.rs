@@ -29,8 +29,8 @@ pub const OUTPUT: &str = "merged/Stage.json";
 pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Locations);
 
-    let data: Vec<StageIdData> = Vec::read_file(config.io.output_dir.join(STAGE_ID_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(STAGE_STRINGS))?;
+    let data: Vec<StageIdData> = Vec::read_file(config.io.output.join(STAGE_ID_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(STAGE_STRINGS))?;
 
     let mut stages: Vec<Stage> = Vec::with_capacity(data.len());
     let mut lookup = LookupMap::with_capacity(data.len());
@@ -49,7 +49,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
         stages.push(stage);
     }
 
-    let data: Vec<DarkAreaData> = Vec::read_file(config.io.output_dir.join(DARK_AREA_DATA))?;
+    let data: Vec<DarkAreaData> = Vec::read_file(config.io.output.join(DARK_AREA_DATA))?;
 
     for data in data {
         let Some(stage) = lookup.find_in_mut(data.stage_id, &mut stages) else {
@@ -77,14 +77,14 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
         stage.areas = area_count.expect("A field stage shouldn't have zero zones??");
     }
 
-    let data: Vec<GimmickIdData> = Vec::read_file(config.io.output_dir.join(GIMMICK_ID_DATA))?;
+    let data: Vec<GimmickIdData> = Vec::read_file(config.io.output.join(GIMMICK_ID_DATA))?;
     let gimmick_ids: HashMap<_, _> = data.into_iter().map(|v| (v.id, v.name)).collect();
 
-    let data: Vec<GimmickTextData> = Vec::read_file(config.io.output_dir.join(GIMMICK_TEXT_DATA))?;
+    let data: Vec<GimmickTextData> = Vec::read_file(config.io.output.join(GIMMICK_TEXT_DATA))?;
     let gimmick_text: HashMap<_, _> = data.into_iter().map(|v| (v.id, v)).collect();
 
-    let data: Vec<GimmickData> = Vec::read_file(config.io.output_dir.join(GIMMICK_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(GIMMICK_STRINGS))?;
+    let data: Vec<GimmickData> = Vec::read_file(config.io.output.join(GIMMICK_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(GIMMICK_STRINGS))?;
 
     for data in data {
         if !data.is_tent() {
@@ -96,7 +96,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
             .unwrap_or_else(|| panic!("Could not find gimmick with ID {}", data.id));
 
         let name = name.to_owned() + "_AaaUniqueParam.json";
-        let path = config.io.output_dir.join(CAMP_PATH_PREFIX).join(name);
+        let path = config.io.output.join(CAMP_PATH_PREFIX).join(name);
         let camp_data = CampData::read_file(path)?;
 
         let stage = lookup.find_or_panic_mut(camp_data.stage_id, &mut stages);
@@ -147,7 +147,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     stages.sort_by_key(|v| v.game_id);
-    stages.write_file(config.io.output_dir.join(OUTPUT))?;
+    stages.write_file(config.io.output.join(OUTPUT))?;
 
     Ok(())
 }
@@ -323,8 +323,6 @@ struct GimmickTextData {
     id: GimmickId,
     #[serde(rename = "_Name")]
     name_guid: String,
-    #[serde(rename = "_Explain")]
-    description_guid: String,
 }
 
 #[derive(Debug, Deserialize)]

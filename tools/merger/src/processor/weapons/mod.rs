@@ -49,8 +49,8 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefinition) -> Result {
     should_run!(filters, def.processor);
 
-    let data: Vec<WeaponData> = Vec::read_file(config.io.output_dir.join(def.data_path()))?;
-    let strings = Msg::read_file(config.io.output_dir.join(def.strings_path()))?;
+    let data: Vec<WeaponData> = Vec::read_file(config.io.output.join(def.data_path()))?;
+    let strings = Msg::read_file(config.io.output.join(def.strings_path()))?;
 
     let mut merged: Vec<Weapon> = Vec::new();
     let mut lookup: LookupMap<u32> = LookupMap::new();
@@ -87,7 +87,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         merged.push(weapon);
     }
 
-    let data: Vec<RecipeData> = Vec::read_file(config.io.output_dir.join(def.recipe_path()))?;
+    let data: Vec<RecipeData> = Vec::read_file(config.io.output.join(def.recipe_path()))?;
 
     for data in data {
         let weapon = lookup.find_or_panic_mut(*data.weapon_id, &mut merged);
@@ -96,7 +96,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         weapon.crafting.is_shortcut = data.is_shortcut;
     }
 
-    let data: Vec<CraftingTreeData> = Vec::read_file(config.io.output_dir.join(def.tree_path()))?;
+    let data: Vec<CraftingTreeData> = Vec::read_file(config.io.output.join(def.tree_path()))?;
     let tree_guids: HashMap<&str, u32> = data
         .iter()
         .map(|v| (v.guid.as_ref(), v.weapon_id))
@@ -124,14 +124,12 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
     }
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(def.output_path()))
+    merged.write_file(config.io.output.join(def.output_path()))
 }
 
 trait SubProcess {
     fn process(&mut self, config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result;
 }
-
-type SubProcessFn = fn(config: &Config, weapon: &mut Weapon, weapon_data: WeaponData) -> Result;
 
 struct ProcessorDefinition {
     processor: Processor,
@@ -534,6 +532,6 @@ where
     if value == code {
         Ok(value)
     } else {
-        Err(de::Error::custom(&format!("_Type must be {code:?}")))
+        Err(de::Error::custom(format!("_Type must be {code:?}")))
     }
 }

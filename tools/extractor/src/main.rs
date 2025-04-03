@@ -1,13 +1,14 @@
 use crate::cli::Cli;
+use anyhow::Context;
 use clap::Parser;
 use console::Style;
 use indicatif::ProgressBar;
 use rayon::iter::ParallelIterator;
 use rayon::iter::{IntoParallelIterator, IntoParallelRefIterator};
-use rslib::config::Config;
-use rslib::tools::{MsgExtractor, UserExtractor};
+use rslib::config::{Config, Files, Target};
+use rslib::tools::{Extractor, MsgExtractor, UserExtractor};
+use std::fs;
 use std::path::{Path, PathBuf};
-use std::{fs, io};
 use wax::Glob;
 
 mod cli;
@@ -20,137 +21,154 @@ fn main() -> anyhow::Result<()> {
     }
 
     let config = Config::load(cli.config.as_deref());
-    run(&cli, &config)
-}
-
-fn setup<P: AsRef<Path>>(
-    config: &Config,
-    in_prefix: Option<P>,
-    out_suffix: P,
-) -> io::Result<(PathBuf, PathBuf)> {
-    let out_dir = config.io.output_dir.join(out_suffix.as_ref());
-
-    if !fs::exists(&out_dir)? {
-        fs::create_dir_all(&out_dir)?;
-    }
-
-    let in_dir = if let Some(prefix) = in_prefix {
-        config.io.data_dir.join(prefix)
-    } else {
-        config.io.data_dir.to_owned()
-    };
-
-    Ok((in_dir, out_dir))
-}
-
-fn run(cli: &Cli, config: &Config) -> anyhow::Result<()> {
     let style = Style::new().bold().dim();
 
     if !cli.skip_data {
-        println!("{} Running data targets...", style.apply_to("[1/2]"));
-
-        let (in_dir, out_dir) = setup(config, config.user.prefix.as_deref(), "data".as_ref())
-            .expect("Could not prep in/out dirs");
-
-        let extractor = UserExtractor::new(&config.tools.user_extractor).with_input_prefix(&in_dir);
-        let targets = get_file_targets(&in_dir, &config.user.files);
-
-        let progress = ProgressBar::new(targets.len() as u64);
-
-        targets
-            .into_par_iter()
-            .try_for_each(|in_path| -> anyhow::Result<()> {
-                progress.inc(1);
-
-                let rule = config.user.get_matching_rule(in_path.to_str().unwrap());
-
-                let out_dir = if let Some(prefix) = &rule.output_prefix {
-                    let dir = out_dir.join(prefix);
-
-                    if !dir.exists() {
-                        fs::create_dir_all(&dir)?;
-                    }
-
-                    dir
-                } else {
-                    out_dir.clone()
-                };
-
-                let out_path = out_dir
-                    .join(in_path.file_name().unwrap())
-                    .with_extension("")
-                    .with_extension("json");
-
-                // If the file we're extracting already exists, we can skip extraction if it is
-                // newer than the source file.
-                if is_out_path_newer(&in_path, &out_path)? {
-                    return Ok(());
-                }
-
-                if !rule.rsz_indexes.is_empty() {
-                    extractor.run_indexes(&in_path, &out_path, &rule.rsz_indexes)?;
-                } else {
-                    extractor.run(&in_path, &out_path, None)?;
-                }
-
-                Ok(())
-            })?;
-
-        progress.finish_and_clear();
+        println!("{} Running `user` targets...", style.apply_to("[1/2]"));
+        run_targets(&config, &config.user, ExtractorKind::User)?;
+    } else {
+        println!("{} Skipping `user` targets.", style.apply_to("[1/2]"));
     }
 
     if !cli.skip_translations {
-        println!("{} Running translation targets...", style.apply_to("[2/2]"));
-
-        let (in_dir, out_dir) = setup(
-            config,
-            config.msg.prefix.as_deref(),
-            "translations".as_ref(),
-        )
-        .expect("Could not prep in/out dirs");
-
-        let extractor = MsgExtractor::new(&config.tools.msg_extractor).with_input_prefix(&in_dir);
-        let targets = get_file_targets(&in_dir, &config.msg.files);
-
-        let progress = ProgressBar::new(targets.len() as u64);
-
-        targets
-            .into_par_iter()
-            .try_for_each(|in_path| -> anyhow::Result<()> {
-                progress.inc(1);
-
-                let out_path = out_dir
-                    .join(in_path.file_name().unwrap())
-                    .with_extension("")
-                    .with_extension("json");
-
-                // If the output file exists and is newer than the source, we can skip extraction.
-                if is_out_path_newer(&in_path, &out_path)? {
-                    return Ok(());
-                }
-
-                extractor.run(&in_path, Some(&out_path))?;
-                Ok(())
-            })?;
-
-        progress.finish_and_clear();
+        println!("{} Running `msg` targets...", style.apply_to("[2/2]"));
+        run_targets(&config, &config.msg, ExtractorKind::Msg)?;
+    } else {
+        println!("{} Skipping `msg` targets.", style.apply_to("[2/2]"));
     }
 
     Ok(())
 }
 
-fn get_file_targets(prefix: &Path, items: &[String]) -> Vec<PathBuf> {
-    items
+enum ExtractorKind {
+    User,
+    Msg,
+}
+
+impl ExtractorKind {
+    fn create(&self, config: &Config, input_prefix: &Path) -> Box<dyn Extractor> {
+        match self {
+            Self::User => UserExtractor::create(&config.tools.user, input_prefix),
+            Self::Msg => MsgExtractor::create(&config.tools.msg, input_prefix),
+        }
+    }
+
+    fn get_output_prefix(&self) -> &Path {
+        match self {
+            Self::User => Path::new("user"),
+            Self::Msg => Path::new("msg"),
+        }
+    }
+}
+
+fn run_targets(
+    config: &Config,
+    section: &Files,
+    extractor_kind: ExtractorKind,
+) -> anyhow::Result<()> {
+    let out_dir = config.io.output.join(extractor_kind.get_output_prefix());
+
+    if !fs::exists(&out_dir)? {
+        fs::create_dir_all(&out_dir)?;
+    }
+
+    let in_dir = config.io.data.join_opt(section.input_prefix.as_ref());
+    let extractor = extractor_kind.create(config, &in_dir);
+
+    let targets: Vec<_> = section
+        .targets
+        .iter()
+        .map(|v| get_target_files(&in_dir, v))
+        .collect();
+
+    let progress = ProgressBar::new(targets.len_all_files() as u64);
+
+    targets.into_par_iter().try_for_each(
+        |ExpandedTarget { target, files }| -> anyhow::Result<()> {
+            files
+                .into_par_iter()
+                .try_for_each(|in_path| -> anyhow::Result<()> {
+                    progress.inc(1);
+
+                    let transform = target.find_transform(in_path.to_str().unwrap());
+                    let out_dir = out_dir.join_opt(target.output_prefix.as_ref());
+
+                    if !fs::exists(&out_dir)? {
+                        fs::create_dir_all(&out_dir)?;
+                    }
+
+                    let out_path = out_dir
+                        .join(
+                            in_path
+                                .file_name()
+                                .context("could not extract file name from in_path")?,
+                        )
+                        .with_extension("")
+                        .with_extension("json");
+
+                    // If the file exists and is newer than the source file, there's no need to
+                    // extract it again.
+                    if is_out_path_newer(&in_path, &out_path)? {
+                        return Ok(());
+                    }
+
+                    extractor.extract(
+                        &in_path,
+                        &out_path,
+                        transform.map(|v| v.rsz.as_slice()).unwrap_or_default(),
+                    )?;
+
+                    Ok(())
+                })
+        },
+    )?;
+
+    progress.finish_and_clear();
+
+    Ok(())
+}
+
+struct ExpandedTarget<'a> {
+    target: &'a Target,
+    files: Vec<PathBuf>,
+}
+
+fn get_target_files<'a>(prefix: &Path, target: &'a Target) -> ExpandedTarget<'a> {
+    let files = target
+        .files
         .par_iter()
         .flat_map(|item| -> Vec<_> {
-            let glob = Glob::new(item).expect(&format!("Invalid glob of file path {}", item));
+            let glob = Glob::new(item).unwrap_or_else(|_| panic!("Invalid glob '{item}'"));
+
             glob.walk(prefix)
-                .flat_map(|v| v.and_then(|v| Ok(v.into_path())))
+                .flat_map(|v| v.map(|v| v.into_path()))
                 .collect()
         })
-        .collect()
+        .collect();
+
+    ExpandedTarget { target, files }
+}
+
+trait ExpandedTargetExt {
+    fn len_all_files(&self) -> usize;
+}
+
+impl ExpandedTargetExt for Vec<ExpandedTarget<'_>> {
+    fn len_all_files(&self) -> usize {
+        self.iter().fold(0, |counter, v| counter + v.files.len())
+    }
 }
 
 fn is_out_path_newer(in_path: &Path, out_path: &Path) -> anyhow::Result<bool> {
     Ok(out_path.exists() && in_path.metadata()?.modified()? <= out_path.metadata()?.modified()?)
+}
+
+trait PathExt {
+    fn join_opt<P: AsRef<Path>>(&self, opt: Option<P>) -> PathBuf;
+}
+
+impl PathExt for Path {
+    fn join_opt<P: AsRef<Path>>(&self, opt: Option<P>) -> PathBuf {
+        opt.map_or_else(|| self.to_path_buf(), |v| self.join(v))
+    }
 }

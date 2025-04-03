@@ -1,6 +1,6 @@
 use std::ffi::OsStr;
 use std::fmt::Debug;
-use std::path::Path;
+use std::path::{Path, PathBuf};
 use std::process::{Command, Stdio};
 
 mod user_extractor;
@@ -52,4 +52,9 @@ pub enum Error {
     CommandFailed,
     #[error("io: {0}")]
     Io(#[from] std::io::Error),
+}
+
+pub trait Extractor: Sync {
+    fn create(tool_path: &Path, input_prefix: &Path) -> Box<dyn Extractor> where Self: Sized;
+    fn extract(&self, in_path: &Path, out_path: &Path, indexes: &[u8]) -> Result<Vec<PathBuf>>;
 }

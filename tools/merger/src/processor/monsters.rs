@@ -28,14 +28,12 @@ const STRINGS: &str = "translations/EnemyText.json";
 const SPECIES_STRINGS: &str = "translations/EnemySpeciesName.json";
 
 const LARGE_OUTPUT: &str = "merged/LargeMonsters.json";
-const SMALL_OUTPUT: &str = "merged/SmallMonsters.json";
-const ENDEMIC_OUTPUT: &str = "merged/Endemic.json";
 const SPECIES_OUTPUT: &str = "merged/Species.json";
 
 pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
-    let species_strings = Msg::read_file(config.io.output_dir.join(SPECIES_STRINGS))?;
+    let species_strings = Msg::read_file(config.io.output.join(SPECIES_STRINGS))?;
     let mut species: Vec<Species> = Vec::with_capacity(species_strings.entries.len());
 
     for kind in SpeciesKind::iter() {
@@ -55,10 +53,10 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     species.sort_by_key(|v| v.kind);
-    species.write_file(config.io.output_dir.join(SPECIES_OUTPUT))?;
+    species.write_file(config.io.output.join(SPECIES_OUTPUT))?;
 
-    let data: Vec<CommonData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let data_strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
+    let data: Vec<CommonData> = Vec::read_file(config.io.output.join(DATA))?;
+    let data_strings = Msg::read_file(config.io.output.join(STRINGS))?;
 
     let mut large: Vec<Large> = Vec::new();
     let mut large_lookup = LookupMap::new();
@@ -97,14 +95,14 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
         large.push(monster);
     }
 
-    let data: Vec<SizeData> = Vec::read_file(config.io.output_dir.join(SIZE_DATA))?;
+    let data: Vec<SizeData> = Vec::read_file(config.io.output.join(SIZE_DATA))?;
 
     for data in data {
         let monster = large_lookup.find_or_panic_mut(data.id, &mut large);
         monster.size = data.into();
     }
 
-    let data: Vec<IdentifierData> = Vec::read_file(config.io.output_dir.join(ID_DATA))?;
+    let data: Vec<IdentifierData> = Vec::read_file(config.io.output.join(ID_DATA))?;
     let fixed_id_map: HashMap<MonsterId, Identifier> = data
         .into_iter()
         .filter_map(|v| {
@@ -121,10 +119,9 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
             .get(&monster.game_id)
             .context("Could not find identifier by game ID")?;
 
-        let path = ident.name.get_path_to(
-            config.io.output_dir.join(PART_DATA_PREFIX),
-            PART_DATA_SUFFIX,
-        );
+        let path = ident
+            .name
+            .get_path_to(config.io.output.join(PART_DATA_PREFIX), PART_DATA_SUFFIX);
 
         if !path.exists() {
             panic!(
@@ -137,9 +134,9 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
         monster.base_health = data.base_health;
     }
 
-    let stages: Vec<Stage> = Vec::read_file(config.io.output_dir.join(locations::OUTPUT))?;
+    let stages: Vec<Stage> = Vec::read_file(config.io.output.join(locations::OUTPUT))?;
 
-    let data: Vec<ReportBossData> = Vec::read_file(config.io.output_dir.join(REPORT_BOSS_DATA))?;
+    let data: Vec<ReportBossData> = Vec::read_file(config.io.output.join(REPORT_BOSS_DATA))?;
 
     for data in data {
         let Some(monster) = large_lookup.find_in_mut(data.monster_id, &mut large) else {
@@ -156,7 +153,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     large.sort_by_key(|v| v.game_id);
-    large.write_file(config.io.output_dir.join(LARGE_OUTPUT))?;
+    large.write_file(config.io.output.join(LARGE_OUTPUT))?;
 
     Ok(())
 }
@@ -238,10 +235,6 @@ struct CommonData {
     tips_guid: String,
     #[serde(rename = "_BossIconType")]
     large_monster_icon: u8,
-    #[serde(rename = "_ZakoIconType")]
-    small_monster_icon: u8,
-    #[serde(rename = "_AnimalIconType")]
-    endemic_icon: u8,
     #[serde(rename = "_Species")]
     species_kind: SpeciesKind,
 }
@@ -366,7 +359,6 @@ impl From<IdentifierData> for Identifier {
 
 #[derive(Debug)]
 struct IdentifierName {
-    full: String,
     primary_id: u16,
     sub_id: u8,
 }
@@ -425,11 +417,7 @@ impl TryFrom<String> for IdentifierName {
 
         let sub_id: u8 = value[offset..(offset + pos)].parse()?;
 
-        Ok(Self {
-            full: value,
-            primary_id,
-            sub_id,
-        })
+        Ok(Self { primary_id, sub_id })
     }
 }
 

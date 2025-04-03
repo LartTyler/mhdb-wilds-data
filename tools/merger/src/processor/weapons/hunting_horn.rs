@@ -60,7 +60,7 @@ impl SubProcess for Process {
             return Ok(());
         }
 
-        let strings = Msg::read_file(config.io.output_dir.join(WAVE_STRINGS))?;
+        let strings = Msg::read_file(config.io.output.join(WAVE_STRINGS))?;
         let mut waves: Vec<EchoWave> = Vec::with_capacity(EchoWaveKind::COUNT);
 
         for wave in EchoWaveKind::iter() {
@@ -74,7 +74,7 @@ impl SubProcess for Process {
             waves.push(wave);
         }
 
-        let strings = Msg::read_file(config.io.output_dir.join(BUBBLE_STRINGS))?;
+        let strings = Msg::read_file(config.io.output.join(BUBBLE_STRINGS))?;
         let mut bubbles: Vec<EchoBubble> = Vec::with_capacity(EchoBubbleKind::COUNT);
 
         for bubble in EchoBubbleKind::iter() {
@@ -88,8 +88,8 @@ impl SubProcess for Process {
             bubbles.push(bubble);
         }
 
-        let data: Vec<SongData> = Vec::read_file(config.io.output_dir.join(SONGS))?;
-        let strings = Msg::read_file(config.io.output_dir.join(SONG_STRINGS))?;
+        let data: Vec<SongData> = Vec::read_file(config.io.output.join(SONGS))?;
+        let strings = Msg::read_file(config.io.output.join(SONG_STRINGS))?;
 
         let mut songs: Vec<Song> = Vec::with_capacity(data.len());
 
@@ -108,7 +108,7 @@ impl SubProcess for Process {
             songs.push(song);
         }
 
-        let data: Vec<NoteSet> = Vec::read_file(config.io.output_dir.join(TONES))?;
+        let data: Vec<NoteSet> = Vec::read_file(config.io.output.join(TONES))?;
 
         let mut melodies: Vec<Melody> = Vec::with_capacity(data.len());
         let mut melody_lookup: LookupMap<MelodyId> = LookupMap::new();
@@ -131,16 +131,16 @@ impl SubProcess for Process {
         self.processed = true;
 
         waves.sort_by_key(|v| v.game_id);
-        waves.write_file(config.io.output_dir.join(OUTPUT_WAVES))?;
+        waves.write_file(config.io.output.join(OUTPUT_WAVES))?;
 
         bubbles.sort_by_key(|v| v.game_id);
-        bubbles.write_file(config.io.output_dir.join(OUTPUT_BUBBLES))?;
+        bubbles.write_file(config.io.output.join(OUTPUT_BUBBLES))?;
 
         songs.sort_by_key(|v| v.effect_id);
-        songs.write_file(config.io.output_dir.join(OUTPUT_SONGS))?;
+        songs.write_file(config.io.output.join(OUTPUT_SONGS))?;
 
         melodies.sort_by_key(|v| v.game_id);
-        melodies.write_file(config.io.output_dir.join(OUTPUT_MELODIES))
+        melodies.write_file(config.io.output.join(OUTPUT_MELODIES))
     }
 }
 

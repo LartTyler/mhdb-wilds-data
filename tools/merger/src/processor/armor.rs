@@ -26,8 +26,8 @@ pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Armor);
 
-    let data: Vec<SeriesData> = Vec::read_file(config.io.output_dir.join(SERIES_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(SERIES_STRINGS))?;
+    let data: Vec<SeriesData> = Vec::read_file(config.io.output.join(SERIES_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(SERIES_STRINGS))?;
 
     let mut merged: Vec<Set> = Vec::with_capacity(data.len());
     let mut set_lookup = LookupMap::with_capacity(data.len());
@@ -51,7 +51,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let data: Vec<UpgradeData> = Vec::read_file(config.io.output_dir.join(UPGRADE_DATA))?;
+    let data: Vec<UpgradeData> = Vec::read_file(config.io.output.join(UPGRADE_DATA))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     // A map of rarities to the matching upgrade info.
@@ -78,8 +78,8 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let data: Vec<ArmorData> = Vec::read_file(config.io.output_dir.join(ARMOR_DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(ARMOR_STRINGS))?;
+    let data: Vec<ArmorData> = Vec::read_file(config.io.output.join(ARMOR_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(ARMOR_STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -119,7 +119,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let data: Vec<CraftingData> = Vec::read_file(config.io.output_dir.join(RECIPE_DATA))?;
+    let data: Vec<CraftingData> = Vec::read_file(config.io.output.join(RECIPE_DATA))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     for data in data {
@@ -152,14 +152,14 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     let mut upgrades: Vec<_> = upgrades.values().collect();
     upgrades.sort_by_key(|v| v.rarity);
 
-    upgrades.write_file(config.io.output_dir.join(UPGRADE_OUTPUT))?;
+    upgrades.write_file(config.io.output.join(UPGRADE_OUTPUT))?;
 
     for set in merged.iter_mut() {
         set.pieces.sort_by_key(|v| v.kind);
     }
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))
+    merged.write_file(config.io.output.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize, Deserialize)]

@@ -1,5 +1,5 @@
 use crate::maybe_prefix;
-use crate::tools::{needs_refresh, run_command, Error, Result};
+use crate::tools::{needs_refresh, run_command, Error, Extractor, Result};
 use std::path::{Path, PathBuf};
 
 pub struct UserExtractor {
@@ -87,5 +87,23 @@ impl UserExtractor {
         }
 
         Ok(result_paths)
+    }
+}
+
+impl Extractor for UserExtractor {
+    fn create(tool_path: &Path, input_prefix: &Path) -> Box<dyn Extractor>
+    where
+        Self: Sized,
+    {
+        Box::new(Self::new(tool_path).with_input_prefix(input_prefix))
+    }
+
+    fn extract(&self, in_path: &Path, out_path: &Path, indexes: &[u8]) -> Result<Vec<PathBuf>> {
+        if indexes.is_empty() {
+            let result = self.run(in_path, out_path, None)?;
+            Ok(vec![result])
+        } else {
+            self.run_indexes(in_path, out_path, indexes)
+        }
     }
 }

@@ -105,7 +105,7 @@ impl Ammo {
             .zip(capacities)
             .enumerate()
             .filter_map(|(index, (level, capacity))| {
-                let level = level.to_level_number();
+                let level = level.as_level_number();
 
                 if level == 0 {
                     return None;
@@ -134,7 +134,7 @@ pub(super) enum AmmoLevel {
 }
 
 impl AmmoLevel {
-    fn to_level_number(&self) -> u8 {
+    fn as_level_number(&self) -> u8 {
         match self {
             Self::None => 0,
             Self::LV1 => 1,

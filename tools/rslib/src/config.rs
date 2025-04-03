@@ -4,101 +4,34 @@ use std::fs::File;
 use std::path::{Path, PathBuf};
 use std::{fs, io};
 
-pub type Result<T> = std::result::Result<T, Error>;
-
 #[derive(Debug, Deserialize, Default)]
 pub struct Config {
-    pub tools: ToolsSection,
-    pub io: IoSection,
-    pub user: FilesSection,
-    pub msg: FilesSection,
-}
-
-#[derive(Debug, Deserialize)]
-pub struct ToolsSection {
-    pub msg_extractor: PathBuf,
-    pub user_extractor: PathBuf,
-}
-
-impl Default for ToolsSection {
-    fn default() -> Self {
-        Self {
-            msg_extractor: "tools/REMSG_Converter/msg2json.bat".into(),
-            user_extractor: "tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe".into(),
-        }
-    }
-}
-
-#[derive(Debug, Deserialize)]
-pub struct IoSection {
-    pub data_dir: PathBuf,
-    pub output_dir: PathBuf,
-}
-
-impl Default for IoSection {
-    fn default() -> Self {
-        Self {
-            data_dir: "./data".into(),
-            output_dir: "./output".into(),
-        }
-    }
-}
-
-#[derive(Debug, Deserialize, Default)]
-pub struct FilesSection {
-    pub prefix: Option<PathBuf>,
-    pub files: Vec<String>,
-    #[serde(default)]
-    pub rules: Vec<ExtractorRule>,
-    #[serde(default)]
-    default_rule: ExtractorRule,
-}
-
-impl FilesSection {
-    pub fn get_matching_rule<S: AsRef<str>>(&self, path: S) -> &ExtractorRule {
-        self.rules
-            .iter()
-            .find(|&rule| rule.matches(&path))
-            .unwrap_or(&self.default_rule)
-    }
-}
-
-#[derive(Debug, Deserialize, Default)]
-pub struct ExtractorRule {
-    #[serde(with = "serde_regex", rename = "match")]
-    pub match_regex: Option<Regex>,
-    #[serde(default)]
-    pub rsz_indexes: Vec<u8>,
-    pub output_prefix: Option<PathBuf>,
-}
-
-impl ExtractorRule {
-    pub fn matches<S: AsRef<str>>(&self, path: S) -> bool {
-        match &self.match_regex {
-            Some(regex) => regex.is_match(path.as_ref()),
-            None => true,
-        }
-    }
+    pub tools: Tools,
+    pub io: Io,
+    pub user: Files,
+    pub msg: Files,
 }
 
 impl Config {
     pub fn load(path: Option<&Path>) -> Self {
-        if let Some(path) = path {
-            match Self::try_load(path) {
-                Ok(Some(v)) => v,
-                Ok(None) => panic!("Config file does not exist: {:?}", path),
-                Err(e) => panic!("Could not load config file: {}", e),
+        let config_path = path.unwrap_or_else(|| Path::new("config.toml"));
+
+        match Self::try_load(config_path) {
+            Ok(Some(v)) => v,
+            Ok(None) => {
+                // If load() was called with a path, and we got None back from try_load(), the file
+                // didn't exist and we should panic.
+                if path.is_some() {
+                    panic!("Config file does not exist: {path:?}");
+                }
+
+                Self::default()
             }
-        } else {
-            match Self::try_load("config.toml") {
-                Ok(Some(v)) => v,
-                Ok(None) => Self::default(),
-                Err(e) => panic!("Could not load config file: {}", e),
-            }
+            Err(e) => panic!("Could not load config file: {e}"),
         }
     }
 
-    pub fn try_load<P: AsRef<Path>>(path: P) -> Result<Option<Self>> {
+    pub fn try_load<P: AsRef<Path>>(path: P) -> Result<Option<Self>, Error> {
         let path = path.as_ref();
 
         if !fs::exists(path)? {
@@ -111,10 +44,77 @@ impl Config {
     }
 }
 
+#[derive(Debug, Deserialize)]
+pub struct Tools {
+    pub user: PathBuf,
+    pub msg: PathBuf,
+}
+
+impl Default for Tools {
+    fn default() -> Self {
+        Self {
+            user: PathBuf::from("tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe"),
+            msg: PathBuf::from("tools/REMSG_Converter/REMSG_Converter.exe"),
+        }
+    }
+}
+
+#[derive(Debug, Deserialize)]
+pub struct Io {
+    pub data: PathBuf,
+    pub output: PathBuf,
+}
+
+impl Default for Io {
+    fn default() -> Self {
+        Self {
+            data: PathBuf::from("data"),
+            output: PathBuf::from("output"),
+        }
+    }
+}
+
+#[derive(Debug, Deserialize, Default)]
+pub struct Files {
+    pub input_prefix: Option<PathBuf>,
+    pub targets: Vec<Target>,
+}
+
+#[derive(Debug, Deserialize)]
+pub struct Target {
+    pub files: Vec<String>,
+    pub output_prefix: Option<PathBuf>,
+
+    #[serde(default)]
+    pub transform: Vec<Transform>,
+}
+
+impl Target {
+    pub fn find_transform<P: AsRef<str>>(&self, path: P) -> Option<&Transform> {
+        self.transform.iter().find(|v| v.matches(&path))
+    }
+}
+
+#[derive(Debug, Deserialize)]
+pub struct Transform {
+    #[serde(rename = "match", with = "serde_regex")]
+    pub pattern: Regex,
+
+    #[serde(default)]
+    pub rsz: Vec<u8>,
+}
+
+impl Transform {
+    pub fn matches<P: AsRef<str>>(&self, path: P) -> bool {
+        self.pattern.is_match(path.as_ref())
+    }
+}
+
 #[derive(Debug, thiserror::Error)]
 pub enum Error {
-    #[error("io error: {0}")]
+    #[error("io: {0}")]
     Io(#[from] io::Error),
-    #[error("toml error: {0}")]
+
+    #[error("toml: {0}")]
     Toml(#[from] toml::de::Error),
 }

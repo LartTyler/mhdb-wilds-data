@@ -24,8 +24,8 @@ const IGNORED_IDS: &[isize] = &[
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Items);
 
-    let data: Vec<ItemData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
+    let data: Vec<ItemData> = Vec::read_file(config.io.output.join(DATA))?;
+    let strings = Msg::read_file(config.io.output.join(STRINGS))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     let mut merged: Vec<Item> = Vec::with_capacity(data.len());
@@ -47,7 +47,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let recipes: Vec<RecipeData> = Vec::read_file(config.io.output_dir.join(RECIPES))?;
+    let recipes: Vec<RecipeData> = Vec::read_file(config.io.output.join(RECIPES))?;
     let progress = ProgressBar::new(recipes.len() as u64);
 
     for recipe in recipes {
@@ -67,7 +67,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     progress.finish_and_clear();
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))
+    merged.write_file(config.io.output.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize)]

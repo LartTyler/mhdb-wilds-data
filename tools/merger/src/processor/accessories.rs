@@ -17,8 +17,8 @@ const OUTPUT: &str = "merged/Accessory.json";
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Accessories);
 
-    let data: Vec<AccessoryData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
+    let data: Vec<AccessoryData> = Vec::read_file(config.io.output.join(DATA))?;
+    let strings = Msg::read_file(config.io.output.join(STRINGS))?;
 
     let progress = ProgressBar::new(data.len() as u64);
 
@@ -44,7 +44,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     progress.finish_and_clear();
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))
+    merged.write_file(config.io.output.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize)]

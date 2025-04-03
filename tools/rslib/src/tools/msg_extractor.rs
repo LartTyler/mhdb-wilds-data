@@ -1,5 +1,5 @@
 use crate::maybe_prefix;
-use crate::tools::{needs_refresh, run_command, Result};
+use crate::tools::{needs_refresh, run_command, Extractor, Result};
 use std::fs;
 use std::path::{Path, PathBuf};
 
@@ -35,11 +35,15 @@ impl MsgExtractor {
         self
     }
 
-    pub fn run(&self, input: &Path, output: Option<&Path>) -> Result<PathBuf> {
-        let input = maybe_prefix!(&self.input_prefix, input);
+    pub fn run<I, O>(&self, input: I, output: Option<O>) -> Result<PathBuf>
+    where
+        I: AsRef<Path>,
+        O: AsRef<Path>,
+    {
+        let input = maybe_prefix!(&self.input_prefix, input.as_ref());
         let tool_out_path = input.with_extension("23.json");
-        let output = if let Some(path) = output {
-            maybe_prefix!(&self.output_prefix, path)
+        let output = if let Some(path) = output.as_ref() {
+            maybe_prefix!(&self.output_prefix, path.as_ref())
         } else {
             &tool_out_path
         };
@@ -59,5 +63,19 @@ impl MsgExtractor {
         }
 
         Ok(output.to_owned())
+    }
+}
+
+impl Extractor for MsgExtractor {
+    fn create(tool_path: &Path, input_prefix: &Path) -> Box<dyn Extractor>
+    where
+        Self: Sized,
+    {
+        Box::new(Self::new(tool_path).with_input_prefix(input_prefix))
+    }
+
+    fn extract(&self, in_path: &Path, out_path: &Path, _indexes: &[u8]) -> Result<Vec<PathBuf>> {
+        let result = self.run(in_path, Some(out_path))?;
+        Ok(vec![result])
     }
 }

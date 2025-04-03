@@ -1,0 +1,116 @@
+[tools]
+msg = "tools/REMSG_Converter/REMSG_Converter.exe"
+user = "tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe"
+
+[io]
+data = "data/"
+output = "output/"
+
+[user]
+input_prefix = "natives/STM/GameDesign"
+
+[[user.targets]]
+files = [
+    "Common/Equip/AccessoryData.user.3",
+    "Common/Equip/AmuletData.user.3",
+    "Common/Equip/AmuletRecipeData.user.3",
+    "Common/Equip/ArmorData.user.3",
+    "Common/Equip/ArmorRecipeData.user.3",
+    "Common/Equip/ArmorSeriesData.user.3",
+    "Common/Equip/ArmorUpgradeData.user.3",
+    "Common/Equip/Charm.user.3",
+    "Common/Equip/SkillCommonData.user.3",
+    "Common/Equip/SkillData.user.3",
+    "Common/Item/itemData.user.3",
+    "Common/Item/ItemRecipe.user.3",
+    "Common/Gimmick/GimmickBasicData.user.3",
+    "Common/Gimmick/GimmickTextData.user.3",
+    "Gimmick/_Develop/EnumMaker/GmID.user.3",
+]
+
+[[user.targets.transform]]
+match = "GmID.user.3$"
+rsz = [0]
+
+[[user.targets]]
+output_prefix = "weapons/"
+files = [
+    "Common/Equip/RodInsectRecipeData.user.3",
+    "Common/Equip/WeaponSeriesData.user.3",
+    "Common/Equip/BowgunCustomizeData.user.3",
+    "Common/Equip/BowgunCustomizeItemData.user.3",
+    "Common/Weapon/*.user.3",
+    "Player/ActionData/Wp05/UserData/*.user.3",
+]
+
+[[user.targets.transform]]
+match = "Tree.user.3$"
+rsz = [2]
+
+[[user.targets]]
+output_prefix = "monsters/"
+files = [
+    "Enemy/CommonData/EnumMaker/EmID.user.3",
+    "Enemy/CommonData/Data/EmCommonSize.user.3",
+    "Enemy/CommonData/Data/EmCommonRandomSize.user.3",
+    "Common/Enemy/EnemyData.user.3",
+    "Common/Enemy/EnemyReportBossData.user.3",
+    "Enemy/Em*/*/Data/Em*_Param_Parts.user.3",
+    "Enemy/CommonData/Data/EmParamBadCondition2.user.3",
+    "Enemy/CommonData/Data/EmParamBadConditionPreset.user.3",
+]
+
+[[user.targets.transform]]
+match = "Em(ID|CommonSize|ParamBadCondition2).user.3$"
+rsz = [0]
+
+[[user.targets]]
+output_prefix = "locations/"
+files = [
+    "Stage/Common/EnumMaker/Stage.user.3",
+    "Stage/Common/DarkAreaSetting.user.3",
+    "Gimmick/Gm800/Gm800_???_??/*_AaaUniqueParam.user.3",
+]
+
+[[user.targets.transform]]
+match = "DarkAreaSetting.user.3$"
+rsz = [0]
+
+[msg]
+input_prefix = "natives/STM/GameDesign/Text"
+
+[[msg.targets]]
+files = [
+    "Excel_Equip/Accessory.msg.23",
+    "Excel_Equip/Amulet.msg.23",
+    "Excel_Equip/Armor.msg.23",
+    "Excel_Equip/ArmorSeries.msg.23",
+    "Excel_Equip/Charm.msg.23",
+    "Excel_Equip/Skill.msg.23",
+    "Excel_Equip/SkillCommon.msg.23",
+    "Excel_Data/Item.msg.23",
+    "Excel_Equip/Bow.msg.23",
+    "Excel_Equip/BowgunCustomize.msg.23",
+    "Excel_Equip/ChargeAxe.msg.23",
+    "Excel_Equip/GunLance.msg.23",
+    "Excel_Equip/Hammer.msg.23",
+    "Excel_Equip/HeavyBowgun.msg.23",
+    "Excel_Equip/Lance.msg.23",
+    "Excel_Equip/LightBowgun.msg.23",
+    "Excel_Equip/LongSword.msg.23",
+    "Excel_Equip/Rod.msg.23",
+    "Excel_Equip/RodInsect.msg.23",
+    "Excel_Equip/ShortSword.msg.23",
+    "Excel_Equip/SlashAxe.msg.23",
+    "Excel_Equip/Tachi.msg.23",
+    "Excel_Equip/TwinSword.msg.23",
+    "Excel_Equip/WeaponSeries.msg.23",
+    "Excel_Equip/Whistle.msg.23",
+    "Excel_Action/HibikiDataText_Wp05.msg.23",
+    "Excel_Action/HighFreqDataText_Wp05.msg.23",
+    "Excel_Action/MusicSkillDataText_Wp05.msg.23",
+    "Excel_Data/EnemyText.msg.23",
+    "Excel_Data/EnemySpeciesName.msg.23",
+    "Reference/RefEnvironment.msg.23",
+    "Excel_Data/Gimmick.msg.23",
+]

@@ -18,8 +18,8 @@ const OUTPUT: &str = "merged/Amulet.json";
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Amulets);
 
-    let data: Vec<AmuletData> = Vec::read_file(config.io.output_dir.join(DATA))?;
-    let strings = Msg::read_file(config.io.output_dir.join(STRINGS))?;
+    let data: Vec<AmuletData> = Vec::read_file(config.io.output.join(DATA))?;
+    let strings = Msg::read_file(config.io.output.join(STRINGS))?;
 
     let mut merged: Vec<Amulet> = Vec::with_capacity(data.len());
     let mut lookup: HashMap<isize, usize> = HashMap::new();
@@ -61,7 +61,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
-    let data: Vec<RecipeData> = Vec::read_file(config.io.output_dir.join(RECIPES))?;
+    let data: Vec<RecipeData> = Vec::read_file(config.io.output.join(RECIPES))?;
     let progress = ProgressBar::new(data.len() as u64);
 
     for data in data {
@@ -97,7 +97,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     }
 
     merged.sort_by_key(|v| v.game_id);
-    merged.write_file(config.io.output_dir.join(OUTPUT))
+    merged.write_file(config.io.output.join(OUTPUT))
 }
 
 #[derive(Debug, Serialize)]
