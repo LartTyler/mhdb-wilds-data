@@ -77,7 +77,59 @@
       "gold_multiplier": 1.23
     },
     "base_health": 9000,
-    "locations": []
+    "locations": [],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ]
   },
   {
     "game_id": -1916429696,
@@ -179,6 +231,60 @@
     "base_health": 5800,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
     ]
   },
   {
@@ -281,6 +387,62 @@
     "base_health": 5000,
     "locations": [
       -1226157568
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -384,6 +546,62 @@
     "locations": [
       -859829056,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -487,6 +705,62 @@
     "locations": [
       -859829056,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -610,6 +884,83 @@
       -1251081216,
       327401792,
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": {
+          "ja": "外套膜の破壊後は、さらに効果的です。",
+          "en": "More effective once the mantle is broken.",
+          "fr": "Plus efficace une fois le manteau brisé.",
+          "it": "Più efficace se il mantello non è intatto.",
+          "de": "Effektiver nach Zerstören des Mantels.",
+          "es": "Más efectivo una vez destrozado el manto.",
+          "ru": "Эффективнее, если накидка порвана.",
+          "pl": "Większa efektywość po zniszczeniu opończy.",
+          "pt-BR": "Mais eficaz após quebrar o manto.",
+          "ko": "외투막을 파괴하면 더 효과적입니다.",
+          "zh-Hant": "破壞外套膜後更有效。",
+          "zh-Hans": "破坏外套膜后，效果更加明显。",
+          "ar": "أكثر فاعلية حين تتعطل العباءة.",
+          "es-419": "Surte un mejor efecto una vez roto el manto."
+        }
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -712,6 +1063,66 @@
     "base_health": 5100,
     "locations": [
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -815,6 +1226,68 @@
     "locations": [
       -1251081216,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -850,7 +1323,53 @@
       "gold_multiplier": 0.0
     },
     "base_health": 50000,
-    "locations": []
+    "locations": [],
+    "weaknesses": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ]
   },
   {
     "game_id": -283654400,
@@ -932,6 +1451,60 @@
     "base_health": 5200,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
     ]
   },
   {
@@ -1035,6 +1608,62 @@
     "locations": [
       -1226157568,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -1158,6 +1787,62 @@
       -1226157568,
       -859829056,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -1260,7 +1945,79 @@
     "base_health": 4400,
     "locations": [
       -1226157568
-    ]
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "noise",
+        "level": 1,
+        "condition": {
+          "ja": "地中に潜っている間のみ有効です。",
+          "en": "Effective only while burrowing.",
+          "fr": "Efficace seulement pendant qu'il creuse.",
+          "it": "Efficace solo se sottoterra.",
+          "de": "Nur im eingegrabenen Zustand effektiv.",
+          "es": "Efectivo solo al enterrarse.",
+          "ru": "Эффективно только при зарывании.",
+          "pl": "Efektywne jedynie podczas zagrzebywania.",
+          "pt-BR": "Eficaz apenas ao se enterrar.",
+          "ko": "땅속에 숨어 있을 때만 유효합니다.",
+          "zh-Hant": "僅在潛入地底時有效。",
+          "zh-Hans": "仅在潜入地下时有效。",
+          "ar": "فعّال في حالة الحفر فقط.",
+          "es-419": "Surte efecto solo al excavar."
+        }
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": []
   },
   {
     "game_id": 26,
@@ -1364,6 +2121,62 @@
       -1251081216,
       -1226157568,
       -859829056
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -1466,6 +2279,62 @@
     "base_health": 4000,
     "locations": [
       -1226157568
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -1568,6 +2437,60 @@
     "base_health": 5000,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
     ]
   },
   {
@@ -1690,6 +2613,62 @@
     "locations": [
       327401792,
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -1812,7 +2791,79 @@
     "locations": [
       -859829056,
       1182228864
-    ]
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "noise",
+        "level": 1,
+        "condition": {
+          "ja": "怒り時以外の状態で有効です。",
+          "en": "Effective against any state but enraged.",
+          "fr": "Efficace, sauf lorsqu'il est enragé.",
+          "it": "Efficace in tutti gli stati tranne infuriato.",
+          "de": "Effektiv gegen jeden Zustand außer wütend.",
+          "es": "Efectivo contra todo estado salvo enfurecido.",
+          "ru": "Эффективно, если монстр не разъярён.",
+          "pl": "Efektywne przeciwko wszystkim stanom\r\nz wyjątkiem rozwścieczenia.",
+          "pt-BR": "Eficaz contra qualquer estado, fora enfurecido.",
+          "ko": "분노 이외의 상태일 때 유효합니다.",
+          "zh-Hant": "僅在非憤怒狀態時有效。",
+          "zh-Hans": "仅在非愤怒状态时有效。",
+          "ar": "فعّال في أي حالة ماعدا حالة الغضب.",
+          "es-419": "Eficaz contra cualquier estado menos enfurecido."
+        }
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": []
   },
   {
     "game_id": 567628288,
@@ -1914,6 +2965,62 @@
     "base_health": 4500,
     "locations": [
       -1251081216
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2020,6 +3127,62 @@
       -859829056,
       327401792,
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2123,6 +3286,62 @@
     "locations": [
       -1251081216,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2247,6 +3466,60 @@
       -1226157568,
       327401792,
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2349,6 +3622,60 @@
     "base_health": 4500,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2451,6 +3778,60 @@
     "base_health": 5000,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
     ]
   },
   {
@@ -2553,6 +3934,62 @@
     "base_health": 5500,
     "locations": [
       -859829056
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2655,6 +4092,62 @@
     "base_health": 7400,
     "locations": [
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2757,6 +4250,60 @@
     "base_health": 5250,
     "locations": [
       -1251081216
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -2859,6 +4406,60 @@
     "base_health": 5000,
     "locations": [
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
     ]
   },
   {
@@ -2963,6 +4564,62 @@
       -1251081216,
       -859829056,
       327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   },
   {
@@ -3084,6 +4741,62 @@
     "base_health": 4500,
     "locations": [
       1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
     ]
   }
 ]

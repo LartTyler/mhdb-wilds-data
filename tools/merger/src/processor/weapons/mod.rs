@@ -373,9 +373,9 @@ struct Special {
     hidden: bool,
 }
 
-#[derive(Debug, Serialize, Copy, Clone)]
+#[derive(Debug, Serialize, Copy, Clone, PartialEq, Eq)]
 #[serde(tag = "kind", rename_all = "lowercase")]
-enum SpecialKind {
+pub enum SpecialKind {
     Element(Element),
     Status(Status),
 }
@@ -401,9 +401,9 @@ impl From<AttributeData> for SpecialKind {
     }
 }
 
-#[derive(Debug, Serialize, Copy, Clone)]
+#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq)]
 #[serde(tag = "element", rename_all = "lowercase")]
-enum Element {
+pub enum Element {
     Fire,
     Water,
     Thunder,
@@ -411,9 +411,9 @@ enum Element {
     Dragon,
 }
 
-#[derive(Debug, Serialize, Copy, Clone)]
+#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq)]
 #[serde(tag = "status", rename_all = "lowercase")]
-enum Status {
+pub enum Status {
     Paralysis,
     Poison,
     Sleep,

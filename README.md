@@ -500,6 +500,8 @@ seems to include settings for each camp, so it _should_ be suitable.
 - `natives/STM/GameDesign/Enemy/Em*/*/Data/Em*_Param_Parts.user.3`
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EmParamBadCondition2.user.3`
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EmParamBadConditionPreset.user.3`
+- `natives/STM/GameDesign/Enemy/CommonData/Data/EnemyWeakAttrData.user.3`
+- `natives/STM/GameDesign/Common/Enemy/EnemyReportMeasureFreeInfoData.user.3`
 
 ### Translation Files
 - `natives/STM/GameDesign/Text/Excel_Data/EnemyText.msg.23`
@@ -564,6 +566,10 @@ maps the value of that field to the effectiveness rating of the status (the star
 Additionally, for statuses or conditions that the monster is fully resistant to, the `EmParamBadCondition2.user.3` file
 uses a GUID of all zeroes (`00000000-0000-0000-0000-000000000000`) in place of a valid GUID to indicate that the status
 is not effective at all (such as flash effects on Gore Magala and Gypceros).
+
+`EnemyWeakAttrData.user.3` contains a mapping of fixed monster IDs to boolean values indicating which elements they
+are weak to. This can be combined with `EnemyReportMeasureFreeInfoData.user.3` to add the conditions under which the
+monster is weak to that element (such as Nerscylla being weak to thunder once its mantle is broken).
 
 ## Locations (Stages)
 ### Data Files

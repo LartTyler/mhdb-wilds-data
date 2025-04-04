@@ -420,3 +420,16 @@ fn create_id_map(ids: &[isize], values: &[u8]) -> IdMap {
         .filter(|(id, _)| *id != 0)
         .collect()
 }
+
+#[derive(Debug, Deserialize, derive_more::Deref)]
+#[repr(transparent)]
+#[serde(transparent)]
+struct Guid(String);
+
+impl Guid {
+    const EMPTY: &'static str = "00000000-0000-0000-0000-000000000000";
+
+    fn is_empty(&self) -> bool {
+        self.0 == Self::EMPTY
+    }
+}

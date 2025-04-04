@@ -2,7 +2,7 @@
   "profiles": {
     "WildsExtractor": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Users\\lartt\\Downloads\\REtool\\mhwilds\\re_chunk_000\\natives\\STM\\GameDesign\\Gimmick\\Gm800\\Gm800_000_00\\Gm800_000_00_AaaUniqueParam.user.3",
+      "commandLineArgs": "D:\\Users\\lartt\\Downloads\\REtool\\mhwilds\\re_chunk_000\\natives\\STM\\GameDesign\\Enemy\\CommonData\\Data\\EmParamBadConditionPreset.user.3",
       "workingDirectory": "E:\\Development\\mhdb\\wilds-data"
     }
   }

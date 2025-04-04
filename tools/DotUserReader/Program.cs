@@ -90,7 +90,7 @@ class Program
         }
         else if (value is RszInstance child)
         {
-            if (child.Values.Length == 1 && child.Values[0] is List<object>)
+            if (child.Values.Length == 1 && child.Values[0] is not List<object>)
                 return ProcessValue(child.Values[0]);
             else
                 return Flatten(ProcessInstance(child));
