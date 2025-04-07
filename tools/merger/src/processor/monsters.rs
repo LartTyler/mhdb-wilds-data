@@ -1,7 +1,8 @@
 use super::{
-    locations, Guid, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile,
-    WriteFile,
+    locations, Guid, HunterRank, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
+    ReadFile, WriteFile,
 };
+use crate::processor::items::ItemId;
 use crate::processor::locations::{Stage, StageId};
 use crate::processor::weapons::{Element, Status};
 use crate::serde::optional_ordered_map;
@@ -32,15 +33,21 @@ const WEAK_ELEMENT_DATA: &str = "user/monsters/EnemyWeakAttrData.json";
 const WEAK_CONDITION_DATA: &str = "user/monsters/EnemyReportMeasureFreeInfoData.json";
 const CONDITION_PRESET_DATA: &str = "user/monsters/EmParamBadConditionPreset.json";
 const CONDITIONS_DATA: &str = "user/monsters/EmParamBadCondition2.json";
+const REWARD_DATA_PREFIX: &str = "user/monsters/rewards";
+const REWARD_DATA_SUFFIX: &str = "_0.json";
+const PART_TYPE_DATA: &str = "user/monsters/EnemyPartsTypeData.json";
+const BREAKABLE_DATA_SUFFIX: &str = "_Param_PartsBreakReward.json";
 
 const STRINGS: &str = "msg/EnemyText.json";
 const SPECIES_STRINGS: &str = "msg/EnemySpeciesName.json";
 const WEAK_CONDITION_STRINGS: &str = "msg/EnemyReportMeasureFreeInfoText.json";
+const PART_NAME_STRINGS: &str = "msg/EnemyPartsTypeName.json";
 
 const LARGE_OUTPUT: &str = "merged/LargeMonsters.json";
 const SPECIES_OUTPUT: &str = "merged/Species.json";
 
-// add_condition!(data => monster, Status::Paralysis)
+const EXCLUDED_MONSTER_IDS: &[MonsterId] = &[-334290336];
+
 macro_rules! add_condition {
     ($presets:expr , $guid:expr => $monster:ident , $enum:ident :: $variant:ident) => {
         if $guid.is_empty() {
@@ -74,7 +81,7 @@ macro_rules! add_condition {
     };
 }
 
-pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
+pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
     // region Species
@@ -109,7 +116,10 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     let mut large_lookup = LookupMap::new();
 
     for data in data {
-        if data.large_monster_icon == 0 {
+        // We only care about large monsters.
+        // Additionally, "large monsters" also includes non-monster entities, like the barrel
+        // puncher in the gathering hub, which we want to exclude.
+        if data.large_monster_icon == 0 || EXCLUDED_MONSTER_IDS.contains(&data.id) {
             continue;
         }
 
@@ -235,6 +245,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
     // endregion
 
+    // region Status weaknesses
     let condition_presets =
         ConditionPresetTable::read_file(config.io.output.join(CONDITION_PRESET_DATA))?;
 
@@ -274,6 +285,104 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
 
         weakness.condition = Some(values);
     }
+    // endregion
+
+    // region Breakable parts
+    let data: Vec<PartTypeData> = Vec::read_file(config.io.output.join(PART_TYPE_DATA))?;
+    let part_type_lookup: HashMap<PartKind, PartTypeData> =
+        data.into_iter().map(|v| (v.kind, v)).collect();
+
+    let strings = Msg::read_file(config.io.output.join(PART_NAME_STRINGS))?;
+
+    for monster in &mut large {
+        let Some(id) = fixed_id_map.get(&monster.game_id) else {
+            panic!("Could not find identifier for monster {}", monster.game_id);
+        };
+
+        let path = config.io.output.join(PART_DATA_PREFIX);
+        let path = id.name.get_path_to(path, BREAKABLE_DATA_SUFFIX);
+        let data: Vec<PartBreakData> = Vec::read_file(path)?;
+
+        for data in data {
+            let mut part = Part::from(data);
+            let Some(guids) = part_type_lookup.get(&part.kind) else {
+                panic!("Could not find part type for {:?}", part.kind);
+            };
+
+            strings.populate(&guids.name_guid, &mut part.names);
+
+            monster.breakable_parts.push(part);
+        }
+    }
+    //endregion
+
+    // region Drop table
+    for monster in &mut large {
+        let Some(id) = fixed_id_map.get(&monster.game_id) else {
+            panic!("Could not find identifier for monster {}", monster.game_id);
+        };
+
+        let path = config.io.output.join(REWARD_DATA_PREFIX);
+        let path = id.name.get_path_to(path, REWARD_DATA_SUFFIX);
+        let data: Vec<RewardData> = Vec::read_file(path)?;
+
+        let mut state = RewardKind::Inherit;
+
+        for data in data {
+            if !data.kind.is_inherit() {
+                state = data.kind;
+            }
+
+            let source = if state == RewardKind::BrokenPart {
+                // Part indexes do not always start at zero. It looks like the game engine gets
+                // around this by storing the part index in the part break data file, which we can
+                // use to find the appropriate part, regardless of where it's located in the array.
+                let Some(part) = monster
+                    .breakable_parts
+                    .iter()
+                    .find(|v| (v.index as i8) == data.part_index)
+                else {
+                    panic!(
+                        "Could not find part for monster {} by index {}",
+                        monster.game_id, data.part_index
+                    );
+                };
+
+                RewardSource::BrokenPart(part.kind)
+            } else {
+                state
+                    .try_into()
+                    .expect("Could not directly translate reward kind into source")
+            };
+
+            if data.low_rank_item_id != 0 {
+                monster.rewards.push(Reward {
+                    source,
+                    rank: HunterRank::Low,
+                    item_id: data.low_rank_item_id,
+                    amount: data.low_rank_amount,
+                    chance: data.low_rank_chance,
+                });
+            }
+
+            for (index, item_id) in data.high_rank_item_ids.into_iter().enumerate() {
+                if item_id == 0 {
+                    continue;
+                }
+
+                monster.rewards.push(Reward {
+                    source,
+                    item_id,
+                    rank: HunterRank::High,
+                    amount: data.high_rank_amounts[index],
+                    chance: data.high_rank_chances[index],
+                });
+            }
+        }
+
+        monster.rewards.sort_by_key(|v| (v.item_id, v.chance));
+    }
+    // endregion
 
     large.sort_by_key(|v| v.game_id);
     large.write_file(config.io.output.join(LARGE_OUTPUT))?;
@@ -299,6 +408,8 @@ struct Large {
     locations: Vec<StageId>,
     weaknesses: Vec<Weakness>,
     resistances: Vec<Resistance>,
+    rewards: Vec<Reward>,
+    breakable_parts: Vec<Part>,
 }
 
 impl From<&CommonData> for Large {
@@ -316,6 +427,8 @@ impl From<&CommonData> for Large {
             locations: Vec::new(),
             weaknesses: Vec::new(),
             resistances: Vec::new(),
+            rewards: Vec::new(),
+            breakable_parts: Vec::new(),
         }
     }
 }
@@ -824,4 +937,245 @@ impl WeaknessConditionKind {
             Self::Noise => SpecialKind::Effect(Effect::Noise),
         }
     }
+}
+
+#[derive(Debug, Deserialize_repr, Copy, Clone, Eq, PartialEq)]
+#[repr(isize)]
+enum RewardKind {
+    Inherit = 10,
+    Carve = 2,
+    CarveSevered = 3,
+    EndemicCapture = 5,
+    TargetReward = 6,
+    BrokenPart = 7,
+    WoundDestroyed = 8,
+    CarveRotten = 911862272,
+    SlingerGather = 810441920,
+    CarveRottenSevered = -2122632576,
+    TemperedWoundDestroyed = -1024798784,
+    CarveCrystallized = 906321792,
+}
+
+impl RewardKind {
+    fn is_inherit(&self) -> bool {
+        *self == Self::Inherit
+    }
+}
+
+#[derive(Debug, Deserialize)]
+struct RewardData {
+    #[serde(rename = "_rewardType")]
+    kind: RewardKind,
+    #[serde(rename = "_partsIndex")]
+    part_index: i8,
+    #[serde(rename = "_IdStory")]
+    low_rank_item_id: ItemId,
+    #[serde(rename = "_RewardNumStory")]
+    low_rank_amount: u8,
+    #[serde(rename = "_probabilityStory")]
+    low_rank_chance: u8,
+    #[serde(rename = "_IdEx")]
+    high_rank_item_ids: [ItemId; 6],
+    #[serde(rename = "_RewardNumEx")]
+    high_rank_amounts: [u8; 6],
+    #[serde(rename = "_probabilityEx")]
+    high_rank_chances: [u8; 6],
+}
+
+#[derive(Debug, Serialize, Copy, Clone)]
+#[serde(tag = "kind", rename_all = "kebab-case")]
+enum RewardSource {
+    Carve,
+    CarveSevered,
+    EndemicCapture,
+    TargetReward,
+    BrokenPart(PartKind),
+    WoundDestroyed,
+    CarveRotten,
+    SlingerGather,
+    CarveRottenSevered,
+    TemperedWoundDestroyed,
+    CarveCrystallized,
+}
+
+impl TryFrom<RewardKind> for RewardSource {
+    type Error = ();
+
+    fn try_from(value: RewardKind) -> Result<Self, Self::Error> {
+        let result = match value {
+            RewardKind::Carve => Self::Carve,
+            RewardKind::CarveSevered => Self::CarveSevered,
+            RewardKind::EndemicCapture => Self::EndemicCapture,
+            RewardKind::TargetReward => Self::TargetReward,
+            RewardKind::WoundDestroyed => Self::WoundDestroyed,
+            RewardKind::CarveRotten => Self::CarveRotten,
+            RewardKind::SlingerGather => Self::SlingerGather,
+            RewardKind::CarveRottenSevered => Self::CarveRottenSevered,
+            RewardKind::TemperedWoundDestroyed => Self::TemperedWoundDestroyed,
+            RewardKind::CarveCrystallized => Self::CarveCrystallized,
+            _ => return Err(()),
+        };
+
+        Ok(result)
+    }
+}
+
+#[derive(Debug, Serialize)]
+struct Reward {
+    rank: HunterRank,
+    #[serde(flatten)]
+    source: RewardSource,
+    item_id: ItemId,
+    amount: u8,
+    chance: u8,
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone, Hash, Eq, PartialEq)]
+#[serde(rename_all = "kebab-case", tag = "part")]
+#[repr(isize)]
+pub enum PartKind {
+    Invalid = 486590176,
+    FullBody = 1733044864,
+    Head = -212024896,
+    UpperBody = -1382295680,
+    Body = -2054210560,
+    Tail = 2000370944,
+    TailTip = 1886418560,
+    Neck = -1466497792,
+    Torso = 1210068992,
+    Stomach = 1603494400,
+    Back = 18080514,
+    FrontLegs = 1777993216,
+    LeftFrontLeg = -891913216,
+    RightFrontLeg = 1920497920,
+    HindLegs = 1429619328,
+    LeftHindLeg = 304214656,
+    RightHindLeg = 591465408,
+    LeftLeg = 731472640,
+    RightLeg = -142058256,
+    LeftLegFrontAndRear = 102373496,
+    RightLegFrontAndRear = -5591398,
+    LeftWing = -240678336,
+    RightWing = 665420480,
+    Ass = -941150464,
+    Nail = -226704768,
+    LeftNail = 1750977664,
+    RightNail = 63041352,
+    Tongue = -526417856,
+    Petal = 1000875456,
+    Veil = -279541920,
+    Saw = 655333504,
+    Feather = -1137775744,
+    Tentacle = 499612832,
+    Umbrella = -1564619520,
+    LeftFrontArm = 1177888256,
+    RightFrontArm = -1885998720,
+    LeftSideArm = -1584832512,
+    RightSideArm = 1154422144,
+    LeftHindArm = -1605643392,
+    RightHindArm = 1925104512,
+    Head2 = 517550944,
+    Chest = -1314889600,
+    Mantle = 509608864,
+    MantleUnder = 789930048,
+    PoisonousThorn = -1222144512,
+    Antennae = -945112512,
+    LeftWingLegs = -1235127936,
+    RightWingLegs = 702074176,
+    WaterfilmRightHead = -101670456,
+    WaterfilmLeftHead = 1730846080,
+    WaterfilmRightBody = 1917146240,
+    WaterfilmLeftBody = -727805760,
+    WaterfilmRightFrontLeg = -15677196,
+    WaterfilmLeftFrontLeg = -445884256,
+    WaterfilmTail = -1410796160,
+    WaterfilmLeftTail = 1725614208,
+    Mouth = -1110329472,
+    Trunk = 1481421312,
+    LeftWingBlade = 767347712,
+    RightWingBlade = -1392586368,
+    FrozenCoreHead = 1395139584,
+    FrozenCoreTail = -912870400,
+    FrozenCoreWaist = 876321664,
+    FrozenBigcoreBefore = 1063213696,
+    FrozenBigcoreAfter = -1328528384,
+    Nose = -643264000,
+    HeadWear = 6538,
+    HeadHide = 30311,
+    WingArm = 10580,
+    WingArmWear = 23560,
+    LeftWingArmWear = 2383,
+    RightWingArmWear = 2323,
+    LeftWingArm = 22650,
+    RightWingArm = 30763,
+    LeftWingArmHide = 10831,
+    RightWingArmHide = 21608,
+    Chelicerae = 15433,
+    BothWings = 30838,
+    BothWingsBlade = 24658,
+    BothLeg = 15859,
+    Arm = 12265,
+    Leg = 23097,
+    Hide = 28141,
+    SharpCorners = 10456,
+    NeedleHair = 23256,
+    ParalysisCorners = 31285,
+    HeadOil = 8217,
+    UmbrellaOil = 1199,
+    TorsoOil = 19946,
+    ArmOil = 10275,
+    WaterfilmRightTail = 31953,
+    TailHair = 2015,
+    StomachSecond = 10869,
+    HeadSecond = 20534,
+    PoisonousThornSecond = 5823,
+    TailThird = 11977,
+    TailFifth = 9871,
+    DorsalFin = 1809,
+    HeadFirst = 26403,
+    Corner = 11138,
+    Fang = 25689,
+    FangFirst = 6609,
+    FangSecond = 29797,
+    LeftFrontLegarmor = 27651,
+    RightFrontLegarmor = 8246,
+    HeadArmor = 17094,
+    LeftWingArmArmor = 24769,
+    RightWingArmArmor = 15310,
+}
+
+#[derive(Debug, Deserialize)]
+struct PartBreakData {
+    #[serde(rename = "PartsType")]
+    kind: PartKind,
+    #[serde(rename = "RewardTableIndex")]
+    index: u8,
+}
+
+#[derive(Debug, Serialize)]
+struct Part {
+    #[serde(skip)]
+    index: u8,
+    #[serde(flatten)]
+    kind: PartKind,
+    #[serde(serialize_with = "ordered_map")]
+    names: LanguageMap,
+}
+
+impl From<PartBreakData> for Part {
+    fn from(value: PartBreakData) -> Self {
+        Self {
+            kind: value.kind,
+            index: value.index,
+            names: LanguageMap::new(),
+        }
+    }
+}
+
+#[derive(Debug, Deserialize)]
+struct PartTypeData {
+    #[serde(rename = "_EmPartsType")]
+    kind: PartKind,
+    #[serde(rename = "_EmPartsName")]
+    name_guid: String,
 }

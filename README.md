@@ -37,6 +37,7 @@
     - [Data Files](#data-files-6)
     - [Translation Files](#translation-files-6)
     - [Notes](#notes-6)
+      - [Reward Type State](#reward-type-state)
   - [Locations (Stages)](#locations-stages)
     - [Data Files](#data-files-7)
     - [Translation Files](#translation-files-7)
@@ -502,6 +503,8 @@ seems to include settings for each camp, so it _should_ be suitable.
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EmParamBadConditionPreset.user.3`
 - `natives/STM/GameDesign/Enemy/CommonData/Data/EnemyWeakAttrData.user.3`
 - `natives/STM/GameDesign/Common/Enemy/EnemyReportMeasureFreeInfoData.user.3`
+- `natives/STM/GameDesign/Enemy/Em*/*/Data/Em*_Param_PartsBreakReward.user.3`
+- `natives/STM/GameDesign/Common/Enemy/EnemyPartsTypeData.user.3`
 
 ### Translation Files
 - `natives/STM/GameDesign/Text/Excel_Data/EnemyText.msg.23`
@@ -531,7 +534,54 @@ non-zero value for the `_Species` field.
 
 The `EM*.user.3` files use the enumerated enemy IDs as their file name (derived from `EmID.user.3`), and appear to
 contain the drop rates for items from the monster. The `_IdEx` field is a list of item IDs, `_RewardNumEx` is the
-number of items rewarded, and `_probabilityEx` is the chance that the item will drop.
+number of items rewarded, and `_probabilityEx` is the chance that the item will drop. Additionally, `_StoryId`,
+`_RewardNumStory`, and `_probabilityStory` is the item ID, drop amount, and drop chance (respectively) for hunts against
+the monster during low rank.
+
+The `_rewardType` field indicates which category the drop falls into. The table below lists the value of the field, the
+enum variant name it matches to, and a description of what the category is.
+
+|Name|Value|Description|
+|---|---|---|
+|INVALID|10|See [Reward Type State](#reward-type-state) below|
+|RW000|2|Carving|
+|RW001|3|Carving (Severed Part)|
+|RW002|4|—|
+|RW003|5|Endemic Capture|
+|RW004|6|Target Rewards|
+|RW005|7|Broken Parts|
+|RW006|8|Wound Destroyed|
+|RW007|9|—|
+|RW008|911862272|Carving (Rotten)|
+|RW009|810441920|Slinger Gather|
+|RW010|-468628128|—|
+|RW011|-1946230784|—|
+|RW012|-2122632576|Carving (Rotten Severed Part)|
+|RW013|-275464864|—|
+|RW014|-1387333760|—|
+|RW015|-1024798784|Tempered Wound Destroyed|
+|RW016|906321792|Carving (Crystallized)|
+
+For `RW004` (Target Rewards) the value displayed in-game in the monster guide appears to use the smallest value of all
+RW004 entries in the drop tables. For example, Rathian actually has 3 `RW004` entries for Rathian Spike+, and the
+guide shows 8% drop chance for that category, which is the lowest of the 3 values. The `_partsIndex` field in each
+entry is "active" for RW005 reward types, and will be zero or more to indicate which entry in each monster's
+`Param_PartsBreakReward.user.3` file, which is located in their data directory (`GameDesign/Enemy/Em<id>`). The fixed
+IDs used in that file can be mapped to a part name using the `EnemyPartsTypeData.user.3` file.
+
+#### Reward Type State
+This had me confused for a very long time. I noticed that, for any given file, a large number of entries had
+`_rewardType` set to 10, which corresponds with INVALID in the enums file. Even entries that were very clearly for an
+entry I could see the monster guide (based on matching the item ID and drop chance) were marked INVALID.
+
+From what I can tell, `_rewardType` actually remembers the most recent non-"INVALID" entry, and applies that to entries
+where `_rewardType` is INVALID. For example: Rathian Spike+ has 7 entries in the drop table, but only one of them is set
+to a value other than INVALID. However, if you consider the file in its entirety and go backwards from each INVALID
+entry, the `_rewardType` value matches up to what you'd expect it to be.
+
+So basically, in order to parse out the drop table, you must:
+- Parse the file from start to finish.
+- Remember the last `_rewardType` that wasn't INVALID, and apply that to entries with the INVALID reward type.
 
 This isn't relevant to how data is extracted, but Guardian variants of monsters usually have a non-zero second "field"
 in the enumerated ID, e.g. Rathalos is `EM0002_00_0.user.3` and Guardian Rathalos is `EM0002_50_0.user.3`. They're

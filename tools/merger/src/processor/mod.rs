@@ -433,3 +433,10 @@ impl Guid {
         self.0 == Self::EMPTY
     }
 }
+
+#[derive(Debug, Serialize)]
+#[serde(rename_all = "kebab-case")]
+pub enum HunterRank {
+    Low,
+    High,
+}

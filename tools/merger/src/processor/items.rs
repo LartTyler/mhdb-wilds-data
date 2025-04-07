@@ -9,13 +9,15 @@ use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
+pub type ItemId = isize;
+
 const DATA: &str = "user/itemData.json";
 const RECIPES: &str = "user/ItemRecipe.json";
 const STRINGS: &str = "msg/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 
-const IGNORED_IDS: &[isize] = &[
+const IGNORED_IDS: &[ItemId] = &[
     1, 100, 280, 283, 284, 476, 690,
     // Special exclusions; see https://github.com/LartTyler/mhdb-wilds-data?tab=readme-ov-file#notes-2
     278, 409,
@@ -61,7 +63,8 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         };
 
         item.recipes.push(recipe.into());
-        item.recipes.sort_by_key(|v| v.inputs.iter().sum::<isize>());
+        item.recipes
+            .sort_by_key(|v| v.inputs.iter().sum::<ItemId>());
     }
 
     progress.finish_and_clear();
@@ -72,7 +75,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
 #[derive(Debug, Serialize)]
 struct Item {
-    game_id: isize,
+    game_id: ItemId,
     #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
@@ -129,7 +132,7 @@ impl From<RecipeData> for Recipe {
 #[derive(Debug, Deserialize)]
 struct ItemData {
     #[serde(rename = "_ItemId")]
-    id: isize,
+    id: ItemId,
     #[serde(rename = "_RawName")]
     name_guid: String,
     #[serde(rename = "_RawExplain")]
@@ -151,11 +154,11 @@ struct ItemData {
 #[derive(Debug, Deserialize)]
 struct RecipeData {
     #[serde(rename = "_ResultItem")]
-    output_id: isize,
+    output_id: ItemId,
     #[serde(rename = "_Num")]
     output_amount: u8,
     #[serde(rename = "_Item")]
-    input_ids: Vec<isize>,
+    input_ids: Vec<ItemId>,
 }
 
 #[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
