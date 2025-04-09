@@ -19,37 +19,6 @@ const RANK_STRINGS: &str = "msg/Skill.json";
 
 const OUTPUT: &str = "merged/Skill.json";
 
-const IGNORED_IDS: &[isize] = &[
-    0,
-    -1950413440,
-    -1724907776,
-    -1702725248,
-    -1577668736,
-    -1540920320,
-    -1478544256,
-    -1437098880,
-    -1203508096,
-    -1196219264,
-    -1110806016,
-    -812084224,
-    -774473472,
-    -285123456,
-    -111868368,
-    56719788,
-    309360992,
-    424767232,
-    457912640,
-    471964960,
-    504506560,
-    654153152,
-    1150634496,
-    1406914944,
-    1522720256,
-    1582392192,
-    1890580224,
-    1960395264,
-];
-
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Skill);
 
@@ -62,15 +31,17 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     let mut lookup = LookupMap::with_capacity(data.len());
 
     for data in data {
-        if IGNORED_IDS.contains(&data.id) {
-            continue;
-        }
-
         progress.inc(1);
 
         let mut skill = Skill::from(&data);
 
         strings.populate(&data.name_guid, &mut skill.names);
+
+        // Ignore skills with no names
+        if skill.names.is_empty() {
+            continue;
+        }
+
         strings.populate(&data.description_guid, &mut skill.descriptions);
 
         lookup.insert(skill.game_id, merged.len());
@@ -87,13 +58,11 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     for data in data {
         progress.inc(1);
 
-        if IGNORED_IDS.contains(&data.skill_id) {
+        let Some(skill) = lookup.find_in_mut(data.skill_id, &mut merged) else {
+            // This is almost certainly a skill rank for a skill we skipped for not having any names
+            // set in the translations file.
             continue;
-        }
-
-        let skill = lookup
-            .find_in_mut(data.skill_id, &mut merged)
-            .unwrap_or_else(|| panic!("Could not find skill {}", data.skill_id));
+        };
 
         let mut rank = Rank::from(&data);
 
