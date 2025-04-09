@@ -67,11 +67,17 @@ impl MsgExtractor {
 }
 
 impl Extractor for MsgExtractor {
-    fn create(tool_path: &Path, input_prefix: &Path) -> Box<dyn Extractor>
+    fn create(tool_path: &Path, input_prefix: Option<&Path>) -> Box<dyn Extractor>
     where
         Self: Sized,
     {
-        Box::new(Self::new(tool_path).with_input_prefix(input_prefix))
+        let extractor = Self::new(tool_path);
+        let extractor = match input_prefix {
+            Some(v) => extractor.with_input_prefix(v),
+            None => extractor,
+        };
+
+        Box::new(extractor)
     }
 
     fn extract(&self, in_path: &Path, out_path: &Path, _indexes: &[u8]) -> Result<Vec<PathBuf>> {

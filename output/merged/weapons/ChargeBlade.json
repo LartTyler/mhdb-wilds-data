@@ -5785,5 +5785,341 @@
     "skills": {
       "-307644128": 3
     }
+  },
+  {
+    "game_id": 75,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ゾ・エレームⅠ",
+      "en": "Zoh Yirmiya I",
+      "fr": "Zoh Yirmiya",
+      "it": "Zoh Yirmiya I",
+      "de": "Zoh Yirmiya I",
+      "es": "Zoh Yirmiya I",
+      "ru": "Зо Юрмия I",
+      "pl": "Zoh Yirmiya I",
+      "pt-BR": "Zoh Yirmiya I",
+      "ko": "조 예렘Ⅰ",
+      "zh-Hant": "熾・耶利米Ⅰ",
+      "zh-Hans": "白炽斧耶利米Ⅰ",
+      "ar": "زو يرمييا I",
+      "es-419": "Zoh Yirmiya I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n盾斧。冠するは純白たる償い。\r\n飛翔する白盾が隔てなく浄化する。",
+      "en": "A Zoh Shia charge blade with\r\na snow-white crown. Bestows\r\nredemption and purification\r\nwith every swing.",
+      "fr": "Volto-hache Zoh Shia ornée\r\nde sa couronne immaculée.\r\nConfère à chaque coup la\r\nrédemption et la purification.",
+      "it": "Una lama caricata Zoh Shia\r\ncon una candida corona bianca.\r\nSomministra redenzione e\r\npurificazione a ogni colpo.",
+      "de": "Eine Energieklinge aus Zoh-\r\nShia-Teilen mit schneeweißer\r\nKrone. Verleiht mit jedem Hieb\r\nErlösung und Läuterung.",
+      "es": "Hacha cargada de Zoh Shia\r\ncon una corona nívea. Otorga\r\nredención y purificación\r\ncon cada golpe.",
+      "ru": "Силовой клинок из Зо Шиа\r\nс белоснежной короной.\r\nКаждый его удар несёт\r\nотмщение и очищение.",
+      "pl": "Ładowane ostrze z Zoh Shia\r\nze śnieżnobiałą koroną.\r\nKażdy zamach niesie ze sobą\r\nodkupienie i oczyszczenie.",
+      "pt-BR": "Lâmina Dínamo de Zoh Shia com\r\numa coroa branca como a neve.\r\nConfere redenção e purificação\r\nem cada golpe.",
+      "ko": "조 시아 소재의 차지액스.\r\n순백의 속죄를 상징한다.\r\n날아오른 순백 방패가\r\n차별 없이 정화한다.",
+      "zh-Hant": "以白熾龍素材製作的充能斧。此斧以\r\n純白的贖罪為冠。飛翔的白盾將不分\r\n敵我淨化一切。",
+      "zh-Hans": "由白炽龙素材锻造，冠以纯白救赎\r\n之名的盾斧。翱翔的白盾将不分敌\r\n我净化一切。",
+      "ar": "نصل (زو شيا)\r\nالمشحون بتاج أبيض كالثلج.\r\nيمنح الفداء والتطهير\r\nمع كل ضربة.",
+      "es-419": "Hacha cargada de Zoh Shia\r\ncon una corona nívea. Otorga\r\nredención y purificación\r\ncon cada golpe."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 19
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 76,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "熾光たるエレーム",
+      "en": "Blazing Yirmiya",
+      "fr": "Yirmiya flamboyant",
+      "it": "Yirmiya fiammante",
+      "de": "Glühender Yirmiya",
+      "es": "Yirmiya calcinante",
+      "ru": "Пламенная Юрмия",
+      "pl": "Ogniska Yirmiya",
+      "pt-BR": "Yirmiya Escaldante",
+      "ko": "찬란한 예렘",
+      "zh-Hant": "熾光耶利米",
+      "zh-Hans": "炽光斧耶利米",
+      "ar": "يرمييا الملتهب",
+      "es-419": "Yirmiya ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしエレームは告げる。\r\n汝、償いを求めて憤る者よ。\r\n拡がる両翼が破滅すらも希わん。",
+      "en": "Yirmiya harketh from on high:\r\nThou who seekest recompense,\r\nmay thy wings spread even\r\nin the face of ruination.",
+      "fr": "Yirmiya déclara depuis les cieux :\r\n\"Toi qui as cherché une juste\r\nrétribution, puissent tes ailes\r\nse déployer même dans la ruine\".",
+      "it": "Yirmiya declama dall'alto:\r\nTu che cerchi un pegno,\r\npossano le tue ali spiegarsi\r\nanche nel momento più nero.",
+      "de": "Yirmiya ruft von oben herab:\r\nJene, die Wiedergutmachung\r\nsuchen! Mögen eure Flügel\r\nselbst dem Verderben trotzen!",
+      "es": "Yirmiya brama desde lo alto:\r\nQuienes buscáis recompensas,\r\nque vuestras alas se abran\r\nincluso frente a la ruina.",
+      "ru": "И воскликнула вознёсшаяся\r\nЮрмия: «Ты, что алчешь награды!\r\nПусть крылья твои будут простёрты\r\nдаже пред ликом погибели!»",
+      "pl": "Z wysoka rzecze Yirmiya:\r\nty, który szukasz zapłaty,\r\nniech twe skrzydła rozwiną się\r\nnawet w obliczu zagłady.",
+      "pt-BR": "Yirmiya brada das alturas:\r\nTu que buscas recompensa,\r\nque tuas asas se abram\r\nmesmo diante da ruína.",
+      "ko": "하늘에 올라 예렘이 고한다.\r\n그대, 속죄하고자 분투하는\r\n자여. 활짝 펼친 양 날개가\r\n파멸까지 바라리라.",
+      "zh-Hant": "天上的耶利米在此宣告：渴求贖罪而\r\n憤慨之輩啊，即使展開的雙翼破滅，\r\n仍得繼續祈望。",
+      "zh-Hans": "耶利米自天上传下意志——渴求赎\r\n罪的愤懑者啊，那张开的双翼连毁\r\n灭亦可实现。",
+      "ar": "ينادي (يرمييا) من الأعالي:\r\nأيها الساعي إلى الجزاء\r\nلتمتد أجنحتك\r\nحتى في وجه الفناء.",
+      "es-419": "Yirmiya brama desde lo alto:\r\nQuienes buscan recompensas,\r\nque sus alas se abran\r\nfrente a la ruina."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 19
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 78,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "狐衣斧ミズニヤドレルⅠ",
+      "en": "Mizuniya Drill I",
+      "fr": "Foreuse Mizuniya",
+      "it": "Trapano Mizuniya I",
+      "de": "Mizuniya-Bohrer I",
+      "es": "Taladro de Mizuniya I",
+      "ru": "Бур Мидзунии I",
+      "pl": "Wiertło Mizuniyi I",
+      "pt-BR": "Broca de Mizuniya I",
+      "ko": "호의부 미즈니야도레루Ⅰ",
+      "zh-Hant": "狐衣斧鏡花水月央Ⅰ",
+      "zh-Hans": "狐衣斧【镜花水月深】Ⅰ",
+      "ar": "مثقاب ميزونيا I",
+      "es-419": "Taladro de Mizuniya I"
+    },
+    "descriptions": {
+      "ja": "風雅の粋を究めた士が遺した\r\n雅なる衣斧。紅に染まる水に\r\n揺らめくは、白き衣の残影。",
+      "en": "An elegant charge blade\r\nknown for staining foes'\r\nclothing a deep blood red.",
+      "fr": "Volto-hache élégante connue\r\npour sa tendance à rougir de\r\nsang la tenue de ses proies.",
+      "it": "Elegante lama caricata\r\nche macchia di rosso le\r\nvesti delle sue vittime.",
+      "de": "Eine elegante Energieklinge,\r\ndie die Kleidung ihrer Gegner\r\nin ein tiefes Blutrot färbt.",
+      "es": "Elegante hacha cargada\r\nfamosa por teñir de rojo\r\nsangre las prendas enemigas.",
+      "ru": "Элегантный силовой клинок,\r\nкоторый известен тем, что\r\nоставляет на одежде врагов\r\nкроваво-красные отметины.",
+      "pl": "Eleganckie ładowane ostrze.\r\nBarwi odzież wrogów\r\nciemnoczerwoną krwią.",
+      "pt-BR": "Uma elegante lâmina dínamo\r\nfamosa por manchar as vestes\r\ndos inimigos de vermelho.",
+      "ko": "풍류의 끝을 추구한 이가 남긴\r\n우아한 의부. 붉게 물든 물에\r\n흔들리는 백의의 잔영.",
+      "zh-Hant": "徹底追求風流的雅士遺留的風雅\r\n衣斧。白裳殘影，輕曳朱水。",
+      "zh-Hans": "风雅名士留下的优雅衣斧。碧澜红\r\n波染尽，白衣孤影恸残。",
+      "ar": "نصل مشحون أنيق\r\nمشهور بقدرته على تلطيخ ملابس الأعداء\r\nباللون الأحمر الداكن.",
+      "es-419": "Elegante hacha cargada\r\nfamosa por teñir de rojo\r\nsangre las prendas enemigas."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 20
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 79,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "しろたへの衣斧の御帝",
+      "en": "Final Fieldblade",
+      "fr": "Lame de combat ultime",
+      "it": "Conflitto finale",
+      "de": "Finale Feldklinge",
+      "es": "Navaja definitiva",
+      "ru": "Финальный клинок",
+      "pl": "Ostrze Ostateczności",
+      "pt-BR": "Lâmina de Campo Final",
+      "ko": "새하얀 의부의 황제",
+      "zh-Hant": "潔白衣斧之御帝",
+      "zh-Hans": "白布衣斧之帝王",
+      "ar": "نصل الميدان الأخير",
+      "es-419": "Navaja definitiva"
+    },
+    "descriptions": {
+      "ja": "紅の海の前に、雅なる衣斧は\r\n翻り、残滓も無く立ち去る。\r\n狐衣斧ミズニヤドレル強化型。",
+      "en": "An upgraded Mizuniya Drill.\r\nIt creates a sea of crimson\r\nthat washes away all foes.",
+      "fr": "Foreuse Mizuniya améliorée.\r\nLaisse un fleuve de sang\r\ndans son sillage.",
+      "it": "Trapano Mizuniya potenziato.\r\nGenera un rosso mare\r\nseminando una scia di morte.",
+      "de": "Die verbesserte Version des\r\nMizuniya-Bohrers erzeugt ein\r\nMeer aus Purpur, das keinen\r\nFeind verschont.",
+      "es": "Taladro de Mizuniya\r\nmejorado. Acaba con tus\r\nenemigos con su mar carmesí.",
+      "ru": "Улучшенный «Бур Мидзунии».\r\nСоздаёт багровое море, которое\r\nсмывает врагов прочь.",
+      "pl": "Ulepszone Wiertło Mizuniyi.\r\nZalewa i zmywa wrogów\r\nszkarłatnymi falami.",
+      "pt-BR": "Broca de Mizuniya melhorada.\r\nEla cria um mar rubro que\r\nbanha todos os inimigos.",
+      "ko": "붉은 바다에 우아한 의부가\r\n휘날리니 흔적도 남지 않는다.\r\n미즈니야도레루의 강화형.",
+      "zh-Hant": "強化版狐衣斧鏡花水月央。茜海\r\n之前，翻弄優雅衣斧，使殘塵\r\n退去無蹤。",
+      "zh-Hans": "狐衣斧【镜花水月深】强化版。沧\r\n海红如血，水镜斧翻覆，波卷残滓\r\n尽。",
+      "ar": "مثقاب (ميزونيا) تمت ترقيته.\r\nيخلف وراءه بحرًا من اللون القرمزي\r\nيجرف كل الأعداء.",
+      "es-419": "Taladro de Mizuniya\r\nmejorado. Acaba con tus\r\nenemigos con su mar carmesí."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 78,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 20
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    }
   }
 ]

@@ -31,7 +31,7 @@
       "zh-Hant": "發動毒屬性強化技能的裝飾品。",
       "zh-Hans": "发动毒属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم السم.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque venenoso."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ venenoso."
     },
     "rarity": 3,
     "price": 150,
@@ -241,7 +241,7 @@
       "ko": "장비에 장착하면\r\n탄도 강화 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動彈道強化技能的裝飾品。",
       "zh-Hans": "发动弹道强化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة طلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارة المقذوفات.",
       "es-419": "Un adorno que otorga\r\nla habilidad Balística."
     },
     "rarity": 4,
@@ -283,7 +283,7 @@
       "ko": "장비에 장착하면 번개속성\r\n공격 강화 스킬과 탄도\r\n강화 스킬이 발동하는 장식품.",
       "zh-Hant": "發動雷屬性攻擊強化技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动雷属性攻击强化技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم الرعد\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم الرعد\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de rayo y\r\nBalística."
     },
     "rarity": 6,
@@ -388,13 +388,13 @@
       "it": "G affaticante III 3",
       "de": "Entzug-Jwl III 3",
       "es": "Joya débil III 3",
-      "ru": "Сам. иссушения III [3]",
+      "ru": "Самоцвет иссушения III [3]",
       "pl": "K. wyssania III [3]",
       "pt-BR": "Joia de Drenagem III 3",
       "ko": "탈기주Ⅲ【3】",
       "zh-Hant": "奪氣珠Ⅲ【3】",
       "zh-Hans": "夺气珠Ⅲ【3】",
-      "ar": "حلية الاستنزاف الصلبة+ [3]",
+      "ar": "حلية الاستنزاف [3]",
       "es-419": "J. débil III [3]"
     },
     "descriptions": {
@@ -478,7 +478,7 @@
       "ko": "적탄주Ⅲ【3】",
       "zh-Hant": "積彈珠Ⅲ【3】",
       "zh-Hans": "积弹珠Ⅲ【3】",
-      "ar": "حلية حزام الذخيرة الصلبة+ [3]",
+      "ar": "حلية حزام الذخيرة [3]",
       "es-419": "J. capacidad III [3]"
     },
     "descriptions": {
@@ -705,7 +705,7 @@
       "ko": "장비에 장착하면 불속성\r\n공격 강화 스킬과 탄도 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動火屬性攻擊強化技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动火属性攻击强化技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم النار\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم النار\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de fuego y\r\nBalística."
     },
     "rarity": 6,
@@ -1145,7 +1145,7 @@
       "ja": "沼渡珠【１】",
       "en": "Mirewalker Jewel [1]",
       "fr": "Joyau d'Atlantis [1]",
-      "it": "G guado 2",
+      "it": "G guado 1",
       "de": "Sumpfläufer-Jwl 1",
       "es": "Joya lodazal 1",
       "ru": "Самоцвет брода [1]",
@@ -1190,7 +1190,7 @@
       "it": "G caricatore II 2",
       "de": "Magazin-Jwl II 2",
       "es": "Joya cargador II 2",
-      "ru": "Сам. боезапаса II [2]",
+      "ru": "Самоцвет боезапаса II [2]",
       "pl": "Klejnot magazynka II [2]",
       "pt-BR": "Joia Aljava II 2",
       "ko": "증탄주Ⅱ【2】",
@@ -1238,7 +1238,7 @@
       "ko": "명검주Ⅲ【3】",
       "zh-Hant": "利刃珠Ⅲ【3】",
       "zh-Hans": "利刃珠Ⅲ【3】",
-      "ar": "حلية الشحذ الحاد الصلبة+ [3]",
+      "ar": "حلية الشحذ الحاد [3]",
       "es-419": "J. f. cuchilla III [3]"
     },
     "descriptions": {
@@ -1280,7 +1280,7 @@
       "ko": "수면주Ⅲ【3】",
       "zh-Hant": "睡眠珠Ⅲ【3】",
       "zh-Hans": "睡眠珠Ⅲ【3】",
-      "ar": "حلية النوم الصلبة+ [3]",
+      "ar": "حلية النوم [3]",
       "es-419": "J. sueño III [3]"
     },
     "descriptions": {
@@ -1322,7 +1322,7 @@
       "ko": "파룡주Ⅲ【3】",
       "zh-Hant": "破龍珠Ⅲ【3】",
       "zh-Hans": "破龙珠Ⅲ【3】",
-      "ar": "حلية التنين الصلبة+ [3]",
+      "ar": "حلية التنين [3]",
       "es-419": "J. draco III [3]"
     },
     "descriptions": {
@@ -1407,7 +1407,7 @@
       "ko": "특회주Ⅲ【3】",
       "zh-Hant": "特會珠Ⅲ【3】",
       "zh-Hans": "特会珠Ⅲ【3】",
-      "ar": "حلية الوضعية الحرجة الصلبة+ [3]",
+      "ar": "حلية الوضعية الحرجة [3]",
       "es-419": "J. est. crít. III [3]"
     },
     "descriptions": {
@@ -1551,7 +1551,7 @@
       "zh-Hant": "發動毒屬性強化技能的裝飾品。",
       "zh-Hans": "发动毒属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم السم.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque venenoso."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ venenoso."
     },
     "rarity": 4,
     "price": 200,
@@ -1570,7 +1570,7 @@
       "it": "G affaticante II 2",
       "de": "Entzug-Jwl II 2",
       "es": "Joya débil II 2",
-      "ru": "Сам. иссушения II [2]",
+      "ru": "Самоцвет иссушения II [2]",
       "pl": "Klejnot wyssania [2]",
       "pt-BR": "Joia de Drenagem II 2",
       "ko": "탈기주Ⅱ【2】",
@@ -1916,7 +1916,7 @@
       "ko": "속변주Ⅲ【3】",
       "zh-Hant": "速變珠Ⅲ【3】",
       "zh-Hans": "速变珠Ⅲ【3】",
-      "ar": "حلية التبديل السريع الصلبة+ [3]",
+      "ar": "حلية التبديل السريع [3]",
       "es-419": "J. mutación III [3]"
     },
     "descriptions": {
@@ -1932,7 +1932,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動高速變形技能的裝飾品。",
       "zh-Hans": "发动高速变形技能的装饰品。",
-      "ar": "جوهرة تمنح مهارة\r\nمورف السريع.",
+      "ar": "جوهرة تمنح مهارة\r\nالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Mutación rápida."
     },
     "rarity": 5,
@@ -2084,7 +2084,7 @@
       "ko": "뇌광주Ⅲ【3】",
       "zh-Hant": "雷光珠Ⅲ【3】",
       "zh-Hans": "雷光珠Ⅲ【3】",
-      "ar": "حلية الصاعقة الصلبة+ [3]",
+      "ar": "حلية الصاعقة [3]",
       "es-419": "J. rayo III [3]"
     },
     "descriptions": {
@@ -2675,7 +2675,7 @@
       "ko": "초탄주Ⅲ【3】",
       "zh-Hant": "初彈珠Ⅲ【3】",
       "zh-Hans": "初弹珠Ⅲ【3】",
-      "ar": "حلية الفاتح الصلبة+ [3]",
+      "ar": "حلية الفاتح [3]",
       "es-419": "J. apertura III [3]"
     },
     "descriptions": {
@@ -2929,7 +2929,7 @@
       "ko": "발도주Ⅲ【3】",
       "zh-Hant": "拔刀珠Ⅲ【3】",
       "zh-Hans": "拔刀珠Ⅲ【3】",
-      "ar": "حلية السحب الصلبة+ [3]",
+      "ar": "حلية السحب [3]",
       "es-419": "J. desenfunde III [3]"
     },
     "descriptions": {
@@ -2971,7 +2971,7 @@
       "ko": "수세주Ⅲ【3】",
       "zh-Hant": "守勢珠Ⅲ【3】",
       "zh-Hans": "守势珠Ⅲ【3】",
-      "ar": "حلية الوحش الحارس الصلبة+ [3]",
+      "ar": "حلية الوحش الحارس [3]",
       "es-419": "J. guardián III [3]"
     },
     "descriptions": {
@@ -3029,7 +3029,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬과 장인\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與匠技能的\r\n裝飾品。",
       "zh-Hans": "发动高速变形技能和匠技能的装饰\r\n品。",
-      "ar": "جوهرة تمنح مهارتي\r\nمورف السريع والحرفية.",
+      "ar": "جوهرة تمنح مهارتي\r\nالتحوّل السريع والحرفية.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y Artesanía."
     },
     "rarity": 7,
@@ -3156,7 +3156,7 @@
       "ko": "장비에 장착하면\r\n탄도 강화 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動彈道強化技能的裝飾品。",
       "zh-Hans": "发动弹道强化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة طلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارة المقذوفات.",
       "es-419": "Un adorno que otorga\r\nla habilidad Balística."
     },
     "rarity": 3,
@@ -3182,7 +3182,7 @@
       "ko": "둔기주Ⅲ【3】",
       "zh-Hant": "鈍器珠Ⅲ【3】",
       "zh-Hans": "钝器珠Ⅲ【3】",
-      "ar": "الحلية غير الحادة الصلبة+ [3]",
+      "ar": "الحلية الخشنة [3]",
       "es-419": "J. contundente III [3]"
     },
     "descriptions": {
@@ -3198,7 +3198,7 @@
       "ko": "장비에 장착하면\r\n둔기 사용 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動鈍器能手技能的裝飾品。",
       "zh-Hans": "发动钝器能手技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة مستخدم النبوت.",
+      "ar": "جوهرة تمنح مهارة القامع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Impacto mejorado."
     },
     "rarity": 5,
@@ -3257,7 +3257,7 @@
       "ja": "眠瓶珠【３】",
       "en": "Sleepcoat Jewel [3]",
       "fr": "Joyau sporifère [3]",
-      "it": "G stratosonno",
+      "it": "G stratosonno 3",
       "de": "Schlafüberzug-Jwl 3",
       "es": "Joya somnífera 3",
       "ru": "Сам. усып. покрытия [3]",
@@ -3393,7 +3393,7 @@
       "ko": "독주Ⅲ【3】",
       "zh-Hant": "毒珠Ⅲ【3】",
       "zh-Hans": "毒珠Ⅲ【3】",
-      "ar": "حلية السم الصلبة+ [3]",
+      "ar": "حلية السم [3]",
       "es-419": "J. venenosa III [3]"
     },
     "descriptions": {
@@ -3410,7 +3410,7 @@
       "zh-Hant": "發動毒屬性強化技能的裝飾品。",
       "zh-Hans": "发动毒属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم السم.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque venenoso."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ venenoso."
     },
     "rarity": 5,
     "price": 250,
@@ -3563,7 +3563,7 @@
       "ko": "달인주Ⅲ【3】",
       "zh-Hant": "達人珠Ⅲ【3】",
       "zh-Hans": "达人珠Ⅲ【3】",
-      "ar": "حلية الخبير الصلبة+ [3]",
+      "ar": "حلية الخبير [3]",
       "es-419": "J. experto III [3]"
     },
     "descriptions": {
@@ -3834,7 +3834,7 @@
       "zh-Hant": "發動爆破屬性強化技能的裝飾品。",
       "zh-Hans": "发动爆破属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الانفجار.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque nitro."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ nitro."
     },
     "rarity": 3,
     "price": 150,
@@ -4089,7 +4089,7 @@
       "zh-Hant": "發動爆破屬性強化技能的裝飾品。",
       "zh-Hans": "发动爆破属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الانفجار.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque nitro."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ nitro."
     },
     "rarity": 4,
     "price": 200,
@@ -4402,7 +4402,7 @@
       "ja": "麻痺珠【１】",
       "en": "Paralyzer Jewel [1]",
       "fr": "Joyau paralysant [1]",
-      "it": "G paralizzante 3",
+      "it": "G paralizzante 1",
       "de": "Lähm-Jwl 1",
       "es": "Joya paralizante 1",
       "ru": "Самоцвет паралича [1]",
@@ -4428,7 +4428,7 @@
       "zh-Hant": "發動麻痺屬性強化技能的裝飾品。",
       "zh-Hans": "发动麻痹属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الشلل.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque paralizante."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ paralizante."
     },
     "rarity": 3,
     "price": 150,
@@ -4453,7 +4453,7 @@
       "ko": "집중주Ⅲ【3】",
       "zh-Hant": "集中珠Ⅲ【3】",
       "zh-Hans": "集中珠Ⅲ【3】",
-      "ar": "حلية التركيز الصلبة+ [3]",
+      "ar": "حلية التركيز [3]",
       "es-419": "J. concentración III [3]"
     },
     "descriptions": {
@@ -5092,7 +5092,7 @@
       "ko": "마비주Ⅲ【3】",
       "zh-Hant": "麻痺珠Ⅲ【3】",
       "zh-Hans": "麻痹珠Ⅲ【3】",
-      "ar": "حلية الشلل الصلبة+ [3]",
+      "ar": "حلية الشلل [3]",
       "es-419": "J. paralizante III [3]"
     },
     "descriptions": {
@@ -5109,7 +5109,7 @@
       "zh-Hant": "發動麻痺屬性強化技能的裝飾品。",
       "zh-Hans": "发动麻痹属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الشلل.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque paralizante."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ paralizante."
     },
     "rarity": 5,
     "price": 250,
@@ -5277,7 +5277,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬과 가드 성능\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與防禦性能技能的\r\n裝飾品。",
       "zh-Hans": "发动高速变形技能和格挡性能技能\r\n的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nمورف السريع والتصدي.",
+      "ar": "جوهرة تمنح مهارتي\r\nالتحوّل السريع والتصدي.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nGuardia mejorada."
     },
     "rarity": 7,
@@ -6463,7 +6463,7 @@
       "ko": "장비에 장착하면\r\n퍼스트샷 스킬과 탄도 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動首發射擊技能與彈道強化技能的\r\n裝飾品。",
       "zh-Hans": "发动首发迅击技能和弹道强化技能\r\n的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nالطلقة الأولى وطلقات المنجنيق.",
+      "ar": "جوهرة تمنح مهارتي\r\nالطلقة الأولى والمقذوفات.",
       "es-419": "Un adorno que otorga las\r\nhabilidades Disparo de apertura\r\ny Balística."
     },
     "rarity": 7,
@@ -7020,7 +7020,7 @@
       "ko": "장비에 장착하면 고속 변형\r\n스킬과 용속성 공격 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與龍屬性攻擊強化\r\n技能的裝飾品。",
       "zh-Hans": "发动高速变形技能和龙属性攻击强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي مورف السريع\r\nوهجوم التنين.",
+      "ar": "جوهرة تمنح\r\nمهارتي التحوّل السريع\r\nوهجوم التنين.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nATQ de draco."
     },
     "rarity": 7,
@@ -7579,7 +7579,7 @@
       "ko": "장비에 장착하면 고속 변형\r\n스킬과 불속성 공격 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與火屬性攻擊強化\r\n技能的裝飾品。",
       "zh-Hans": "发动高速变形技能和火属性攻击强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي مورف السريع\r\nوهجوم النار.",
+      "ar": "جوهرة تمنح\r\nمهارتي التحوّل السريع\r\nوهجوم النار.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nATQ de fuego."
     },
     "rarity": 7,
@@ -7665,7 +7665,7 @@
       "ko": "장비에 장착하면 번개속성 공격\r\n강화 스킬과 고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動雷屬性攻擊強化技能與高速變形\r\n技能的裝飾品。",
       "zh-Hans": "发动雷属性攻击强化技能和高速变\r\n形技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم الرعد\r\nومورف السريع.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم الرعد\r\nوالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de rayo y\r\nMutación rápida."
     },
     "rarity": 6,
@@ -8439,7 +8439,7 @@
       "ko": "장비에 장착하면 고속 변형\r\n스킬과 얼음속성 공격 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與冰屬性攻擊強化\r\n技能的裝飾品。",
       "zh-Hans": "发动高速变形技能和冰属性攻击强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي مورف السريع\r\nوهجوم الثلج.",
+      "ar": "جوهرة تمنح\r\nمهارتي التحوّل السريع\r\nوهجوم الثلج.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nATQ de hielo."
     },
     "rarity": 7,
@@ -8525,7 +8525,7 @@
       "ko": "장비에 장착하면 용속성 공격\r\n강화 스킬과 고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動龍屬性攻擊強化技能與高速變形\r\n技能的裝飾品。",
       "zh-Hans": "发动龙属性攻击强化技能和高速变\r\n形技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم التنين\r\nومورف السريع.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم التنين\r\nوالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de draco y\r\nMutación rápida."
     },
     "rarity": 6,
@@ -9256,7 +9256,7 @@
       "ko": "장비에 장착하면 고속 변형\r\n스킬과 번개속성 공격 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與雷屬性攻擊強化\r\n技能的裝飾品。",
       "zh-Hans": "发动高速变形技能和雷属性攻击强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي مورف السريع\r\nوهجوم الرعد.",
+      "ar": "جوهرة تمنح\r\nمهارتي التحوّل السريع\r\nوهجوم الرعد.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nATQ de rayo."
     },
     "rarity": 7,
@@ -9299,7 +9299,7 @@
       "ko": "장비에 장착하면 얼음속성 공격\r\n강화 스킬과 고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動冰屬性攻擊強化技能與高速變形\r\n技能的裝飾品。",
       "zh-Hans": "发动冰属性攻击强化技能和高速变\r\n形技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم الثلج\r\nومورف السريع.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم الثلج\r\nوالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de hielo y\r\nMutación rápida."
     },
     "rarity": 6,
@@ -9729,7 +9729,7 @@
       "ko": "장비에 장착하면 고속 변형\r\n스킬과 물속성 공격 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與水屬性攻擊強化\r\n技能的裝飾品。",
       "zh-Hans": "发动高速变形技能和水属性攻击强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي مورف السريع\r\nوهجوم الماء.",
+      "ar": "جوهرة تمنح\r\nمهارتي التحوّل السريع\r\nوهجوم الماء.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida y\r\nATQ de agua."
     },
     "rarity": 7,
@@ -9987,7 +9987,7 @@
       "ko": "장비에 장착하면 물속성 공격\r\n강화 스킬과 고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動水屬性攻擊強化技能與高速變形\r\n技能的裝飾品。",
       "zh-Hans": "发动水属性攻击强化技能和高速变\r\n形技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم الماء\r\nومورف السريع.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم الماء\r\nوالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de agua y\r\nMutación rápida."
     },
     "rarity": 6,
@@ -10328,7 +10328,7 @@
       "ko": "장비에 장착하면\r\n독 대미지 강화 스킬과 탄도\r\n강화 스킬이 발동하는 장식품.",
       "zh-Hant": "發動毒傷害強化技能與彈道強化技能\r\n的裝飾品。",
       "zh-Hans": "发动毒伤害强化技能和弹道强化技\r\n能的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nزيادة مدة السم وطلقات المنجنيق.",
+      "ar": "جوهرة تمنح مهارتي\r\nزيادة مدة السم والمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Veneno extendido\r\ny Balística."
     },
     "rarity": 6,
@@ -10355,7 +10355,7 @@
       "ko": "발타주Ⅲ【3】",
       "zh-Hant": "拔打珠Ⅲ【3】",
       "zh-Hans": "拔打珠Ⅲ【3】",
-      "ar": "حلية المناورة الصلبة+ [3]",
+      "ar": "حلية المناورة [3]",
       "es-419": "J. gambito III [3]"
     },
     "descriptions": {
@@ -10709,7 +10709,7 @@
       "ko": "장비에 장착하면\r\n포스샷 스킬과 탄도 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動第四射擊技能與彈道強化技能的\r\n裝飾品。",
       "zh-Hans": "发动强四射击技能和弹道强化技能\r\n的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nالتسديدة الرباعية وطلقات المنجنيق.",
+      "ar": "جوهرة تمنح مهارتي\r\nالتسديدة الرباعية والمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Disparo tétrado\r\ny Balística."
     },
     "rarity": 7,
@@ -10863,7 +10863,7 @@
       "ko": "장인주Ⅲ【3】",
       "zh-Hant": "匠珠Ⅲ【3】",
       "zh-Hans": "匠珠Ⅲ【3】",
-      "ar": "حلية الحرفية الصلبة+ [3]",
+      "ar": "حلية الحرفية [3]",
       "es-419": "J. artesanía III [3]"
     },
     "descriptions": {
@@ -10964,7 +10964,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動高速變形技能的裝飾品。",
       "zh-Hans": "发动高速变形技能的装饰品。",
-      "ar": "جوهرة تمنح مهارة\r\nمورف السريع.",
+      "ar": "جوهرة تمنح مهارة\r\nالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Mutación rápida."
     },
     "rarity": 4,
@@ -11090,7 +11090,7 @@
       "ko": "장비에 장착하면 용속성 \r\n공격 강화 스킬과 탄도 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動龍屬性攻擊強化技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动龙属性攻击强化技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم التنين\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم التنين\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de draco y\r\nBalística."
     },
     "rarity": 6,
@@ -11159,7 +11159,7 @@
       "ko": "공격주Ⅲ【3】",
       "zh-Hant": "攻擊珠Ⅲ【3】",
       "zh-Hans": "攻击珠Ⅲ【3】",
-      "ar": "حلية الهجوم الصلبة+ [3]",
+      "ar": "حلية الهجوم [3]",
       "es-419": "J. ataque III [3]"
     },
     "descriptions": {
@@ -11286,7 +11286,7 @@
       "ko": "빙결주Ⅲ【3】",
       "zh-Hant": "冰結珠Ⅲ【3】",
       "zh-Hans": "冰结珠Ⅲ【3】",
-      "ar": "حلية الصقيع الصلبة+ [3]",
+      "ar": "حلية الصقيع [3]",
       "es-419": "J. hielo III [3]"
     },
     "descriptions": {
@@ -11413,7 +11413,7 @@
       "ko": "고양주Ⅲ【3】",
       "zh-Hant": "昂揚珠Ⅲ【3】",
       "zh-Hans": "昂扬珠Ⅲ【3】",
-      "ar": "حلية المحسّن الصلبة+ [3]",
+      "ar": "حلية المحسّن [3]",
       "es-419": "J. aumento III [3]"
     },
     "descriptions": {
@@ -11497,7 +11497,7 @@
       "ko": "유폭주Ⅲ【3】",
       "zh-Hant": "強蓄珠Ⅲ【3】",
       "zh-Hans": "蓄幅珠Ⅲ【3】",
-      "ar": "حلية الشحن الصلبة+ [3]",
+      "ar": "حلية الشحن [3]",
       "es-419": "J. carga III [3]"
     },
     "descriptions": {
@@ -11683,7 +11683,7 @@
       "ko": "장비에 장착하면\r\n회심격【특수】 스킬과 탄도\r\n강화 스킬이 발동하는 장식품.",
       "zh-Hant": "發動會心擊【特殊】技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动会心击【特殊】技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nالوضعية الحرجة وطلقات المنجنيق.",
+      "ar": "جوهرة تمنح مهارتي\r\nالوضعية الحرجة والمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Estado crítico y\r\nBalística."
     },
     "rarity": 6,
@@ -11710,7 +11710,7 @@
       "ko": "심안주Ⅲ【3】",
       "zh-Hant": "心眼珠Ⅲ【3】",
       "zh-Hans": "心眼珠Ⅲ【3】",
-      "ar": "حلية عين العقل الصلبة+ [3]",
+      "ar": "حلية عين العقل [3]",
       "es-419": "J. ojo mental III [3]"
     },
     "descriptions": {
@@ -11752,7 +11752,7 @@
       "ko": "KO주Ⅲ【3】",
       "zh-Hant": "KO珠Ⅲ【3】",
       "zh-Hans": "击晕珠Ⅲ【3】",
-      "ar": "حلية الضربة القاضية الصلبة+ [3]",
+      "ar": "حلية الضربة القاضية [3]",
       "es-419": "J. boxeo III [3]"
     },
     "descriptions": {
@@ -11854,7 +11854,7 @@
       "zh-Hant": "發動麻痺屬性強化技能的裝飾品。",
       "zh-Hans": "发动麻痹属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الشلل.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque paralizante."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ paralizante."
     },
     "rarity": 4,
     "price": 200,
@@ -12258,7 +12258,7 @@
       "ko": "포술주Ⅲ【3】",
       "zh-Hant": "砲術珠Ⅲ【3】",
       "zh-Hans": "炮术珠Ⅲ【3】",
-      "ar": "حلية المدفعية الصلبة+ [3]",
+      "ar": "حلية المدفعية [3]",
       "es-419": "J. artillería III [3]"
     },
     "descriptions": {
@@ -12469,7 +12469,7 @@
       "ko": "화염주Ⅲ【3】",
       "zh-Hant": "火炎珠Ⅲ【3】",
       "zh-Hans": "火炎珠Ⅲ【3】",
-      "ar": "حلية اللهيب الصلبة+ [3]",
+      "ar": "حلية اللهيب [3]",
       "es-419": "J. fuego III [3]"
     },
     "descriptions": {
@@ -12655,7 +12655,7 @@
       "ko": "장비에 장착하면 불속성 공격\r\n강화 스킬과 고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動火屬性攻擊強化技能與高速變形\r\n技能的裝飾品。",
       "zh-Hans": "发动火属性攻击强化技能和高速变\r\n形技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم النار\r\nومورف السريع.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم النار\r\nوالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de fuego y\r\nMutación rápida."
     },
     "rarity": 6,
@@ -12784,7 +12784,7 @@
       "ko": "장비에 장착하면\r\n회심격【속성】 스킬과 탄도\r\n강화 스킬이 발동하는 장식품.",
       "zh-Hant": "發動會心擊【屬性】技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动会心击【属性】技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي العناصر الحرجة\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي العناصر الحرجة\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Elemento crítico y\r\nBalística."
     },
     "rarity": 5,
@@ -12937,7 +12937,7 @@
       "ko": "초심주Ⅲ【3】",
       "zh-Hant": "超心珠Ⅲ【3】",
       "zh-Hans": "超心珠Ⅲ【3】",
-      "ar": "حلية الحسم الصلبة+ [3]",
+      "ar": "حلية الحسم [3]",
       "es-419": "J. crítica III [3]"
     },
     "descriptions": {
@@ -12995,7 +12995,7 @@
       "ko": "장비에 장착하면 얼음속성\r\n공격 강화 스킬과 탄도\r\n강화 스킬이 발동하는 장식품.",
       "zh-Hant": "發動冰屬性攻擊強化技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动冰属性攻击强化技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nهجوم الثلج وطلقات المنجنيق.",
+      "ar": "جوهرة تمنح مهارتي\r\nهجوم الثلج والمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de hielo\r\ny Balística."
     },
     "rarity": 6,
@@ -13107,7 +13107,7 @@
       "ko": "강벽주Ⅲ【3】",
       "zh-Hant": "強壁珠Ⅲ【3】",
       "zh-Hans": "强壁珠Ⅲ【3】",
-      "ar": "حلية الترس الصلبة+ [3]",
+      "ar": "حلية الترس [3]",
       "es-419": "J. escudo III [3]"
     },
     "descriptions": {
@@ -13192,7 +13192,7 @@
       "ko": "둔기주Ⅱ【2】",
       "zh-Hant": "鈍器珠Ⅱ【2】",
       "zh-Hans": "钝器珠Ⅱ【2】",
-      "ar": "الحلية غير الحادة+ [2]",
+      "ar": "الحلية الخشنة [2]",
       "es-419": "J. contundente II [2]"
     },
     "descriptions": {
@@ -13208,7 +13208,7 @@
       "ko": "장비에 장착하면\r\n둔기 사용 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動鈍器能手技能的裝飾品。",
       "zh-Hans": "发动钝器能手技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة مستخدم النبوت.",
+      "ar": "جوهرة تمنح مهارة القامع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Impacto mejorado."
     },
     "rarity": 4,
@@ -13276,7 +13276,7 @@
       "ko": "강인주Ⅲ【3】",
       "zh-Hant": "剛刃珠Ⅲ【3】",
       "zh-Hans": "刚刃珠Ⅲ【3】",
-      "ar": "الحلية الحادة الصلبة+ [3]",
+      "ar": "الحلية الحادة [3]",
       "es-419": "J. afilada III [3]"
     },
     "descriptions": {
@@ -13334,7 +13334,7 @@
       "ko": "장비에 장착하면\r\n집중 스킬과 탄도 강화 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動集中技能與彈道強化技能的\r\n裝飾品。",
       "zh-Hans": "发动集中技能和弹道强化技能的装\r\n饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي التركيز\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي التركيز\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Tiempo de carga\r\ny Balística."
     },
     "rarity": 7,
@@ -13445,7 +13445,7 @@
       "ko": "둔기주【1】",
       "zh-Hant": "鈍器珠【1】",
       "zh-Hans": "钝器珠【1】",
-      "ar": "الحلية غير الحادة [1]",
+      "ar": "الحلية الخشنة [1]",
       "es-419": "J. contundente [1]"
     },
     "descriptions": {
@@ -13461,7 +13461,7 @@
       "ko": "장비에 장착하면\r\n둔기 사용 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動鈍器能手技能的裝飾品。",
       "zh-Hans": "发动钝器能手技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة مستخدم النبوت.",
+      "ar": "جوهرة تمنح مهارة القامع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Impacto mejorado."
     },
     "rarity": 3,
@@ -13545,7 +13545,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動高速變形技能的裝飾品。",
       "zh-Hans": "发动高速变形技能的装饰品。",
-      "ar": "جوهرة تمنح مهارة\r\nمورف السريع.",
+      "ar": "جوهرة تمنح مهارة\r\nالتحوّل السريع.",
       "es-419": "Un adorno que otorga\r\nla habilidad Mutación rápida."
     },
     "rarity": 3,
@@ -13740,7 +13740,7 @@
       "ko": "사법주Ⅲ【3】",
       "zh-Hant": "射法珠Ⅲ【3】",
       "zh-Hans": "射法珠Ⅲ【3】",
-      "ar": "الحلية الدقيقة الصلبة+ [3]",
+      "ar": "الحلية الدقيقة [3]",
       "es-419": "J. precisa III [3]"
     },
     "descriptions": {
@@ -13756,7 +13756,7 @@
       "ko": "장비에 장착하면\r\n탄도 강화 스킬이\r\n발동하는 장식품.",
       "zh-Hant": "發動彈道強化技能的裝飾品。",
       "zh-Hans": "发动弹道强化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارة طلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارة المقذوفات.",
       "es-419": "Un adorno que otorga\r\nla habilidad Balística."
     },
     "rarity": 5,
@@ -14096,7 +14096,7 @@
       "zh-Hant": "發動迴避性能技能的裝飾品。",
       "zh-Hans": "发动回避性能技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة فترة التفادي.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Intervalo evasivo."
+      "es-419": "Un adorno que otorga la\r\nhabilidad Intervalo de evasión."
     },
     "rarity": 4,
     "price": 200,
@@ -14164,7 +14164,7 @@
       "ko": "유수주Ⅲ【3】",
       "zh-Hant": "流水珠Ⅲ【3】",
       "zh-Hans": "流水珠Ⅲ【3】",
-      "ar": "حلية التيار الصلبة+ [3]",
+      "ar": "حلية التيار [3]",
       "es-419": "J. agua III [3]"
     },
     "descriptions": {
@@ -14349,7 +14349,7 @@
       "ko": "장비에 장착하면\r\n고속 변형 스킬과 KO술\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動高速變形技能與KO術技能的\r\n裝飾品。",
       "zh-Hans": "发动高速变形技能和击晕术技能的\r\n装饰品。",
-      "ar": "جوهرة تمنح مهارتي\r\nمورف السريع والملاكم الشرس.",
+      "ar": "جوهرة تمنح مهارتي\r\nالتحوّل السريع والملاكم الشرس.",
       "es-419": "Un adorno que otorga\r\nlas habilidades Mutación rápida\r\ny Aturdir."
     },
     "rarity": 7,
@@ -14545,7 +14545,7 @@
       "ko": "속회주Ⅲ【3】",
       "zh-Hant": "屬會珠Ⅲ【3】",
       "zh-Hans": "属会珠Ⅲ【3】",
-      "ar": "حلية العناصر الحرجة الصلبة+ [3]",
+      "ar": "حلية العناصر الحرجة [3]",
       "es-419": "J. elem. crít. III [3]"
     },
     "descriptions": {
@@ -14587,7 +14587,7 @@
       "ko": "폭파주Ⅲ【3】",
       "zh-Hant": "爆破珠Ⅲ【3】",
       "zh-Hans": "爆破珠Ⅲ【3】",
-      "ar": "حلية الانفجار الصلبة+ [3]",
+      "ar": "حلية الانفجار [3]",
       "es-419": "J. nitro III [3]"
     },
     "descriptions": {
@@ -14604,7 +14604,7 @@
       "zh-Hant": "發動爆破屬性強化技能的裝飾品。",
       "zh-Hans": "发动爆破属性强化技能的装饰品。",
       "ar": "جوهرة تمنح\r\nمهارة هجوم الانفجار.",
-      "es-419": "Un adorno que otorga\r\nla habilidad Ataque nitro."
+      "es-419": "Un adorno que otorga la\r\nhabilidad ATQ nitro."
     },
     "rarity": 5,
     "price": 250,
@@ -14645,7 +14645,7 @@
       "ko": "장비에 장착하면 물속성\r\n공격 강화 스킬과 탄도 강화\r\n스킬이 발동하는 장식품.",
       "zh-Hant": "發動水屬性攻擊強化技能與彈道強化\r\n技能的裝飾品。",
       "zh-Hans": "发动水属性攻击强化技能和弹道强\r\n化技能的装饰品。",
-      "ar": "جوهرة تمنح\r\nمهارتي هجوم الماء\r\nوطلقات المنجنيق.",
+      "ar": "جوهرة تمنح\r\nمهارتي هجوم الماء\r\nوالمقذوفات.",
       "es-419": "Un adorno que otorga\r\nlas habilidades ATQ de agua y\r\nBalística."
     },
     "rarity": 6,
@@ -15011,7 +15011,7 @@
       "ko": "철벽주Ⅲ【3】",
       "zh-Hant": "鐵壁珠Ⅲ【3】",
       "zh-Hans": "铁壁珠Ⅲ【3】",
-      "ar": "حلية الجدار الحديدي الصلبة+ [3]",
+      "ar": "حلية الجدار الحديدي [3]",
       "es-419": "J. guardia III [3]"
     },
     "descriptions": {

@@ -31,9 +31,9 @@ type EchoBubbleId = u8;
 type MelodyId = u8;
 type SongEffectId = u16;
 
-const TONES: &str = "user/Wp05MusicSkillToneTable.json";
+const TONES: &str = "user/weapons/Wp05MusicSkillToneTable.json";
 
-const SONGS: &str = "user/Wp05MusicSkillToneColorTable.json";
+const SONGS: &str = "user/weapons/Wp05MusicSkillToneColorTable.json";
 const SONG_STRINGS: &str = "msg/MusicSkillDataText_Wp05.json";
 
 const WAVE_STRINGS: &str = "msg/HighFreqDataText_Wp05.json";

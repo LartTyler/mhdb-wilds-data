@@ -59,7 +59,7 @@
       "es": "El Zoh Shia comparte los rasgos básicos de\r\notros Guardianes. Si arrancas los cristales\r\nde sus alas y cabeza, anularás sus reservas\r\nde energía. El cristal blanco de su cuerpo\r\nse regenera, pero al hacerlo se vuelve más\r\nquebradizo, lo que facilita destruirlo por\r\nsegunda vez. Los cristales que crea estallan\r\nal recibir daño elemental: aprovéchalo con\r\nagilidad y munición elemental de la eslinga.",
       "ru": "Во многом Зо Шиа не отличается от других стражей. Сбив кристаллы с крыльев и головы монстра, можно лишить его энергии. На месте разбитых белых кристаллов вскоре появятся новые, но расколоть их будет намного проще. Кристаллы, которые создаёт Зо Шиа, взрываются под воздействием стихий. Однако опытный охотник может этим воспользоваться, осторожно двигаясь по полю боя и поражая их стихийными снарядами из самострела.",
       "pl": "Zoh Shia przypomina innych Strażników.\r\nUmieszczone na skrzydłach i głowie kryształy\r\nmożna usunąć, by wyczerpać jego zapasy\r\nenergii. Białe kryształy na jego ciele\r\nzregenerują się, ale będą bardziej kruche,\r\nco ułatwi ich kolejne zniszczenie. Tworzone\r\nprzez niego kryształy wybuchną, jeśli\r\notrzymają obrażenia od żywiołów, ale\r\ndobry łowca wykorzysta amunicję żywiołową\r\ndo procy i będzie sprytnie manewrować.",
-      "pt-BR": "Zoh Shia compartilha suas características básicas\r\ncom outros Guardiões. Os cristais em suas asas e\r\ncabeça podem ser arrancados para reduzir sua\r\nreserva de energia. Os cristais brancos em seu\r\ncorpo podem crescer de volta mais fracos, sendo\r\nmais facilmente destruídos da segunda vez. Os\r\ncristais criados podem ser detonados caso sofram\r\ndano elemental, mas um caçador talentoso pode usar\r\nmunição de atiradeira elemental e movimentação\r\ncautelosa para usar isso a seu favor.",
+      "pt-BR": "Zoh Shia compartilha suas características\r\nbásicas com outros Guardiões. Os cristais\r\nem suas asas e cabeça são arrancados para\r\nreduzir sua reserva de energia. Os cristais\r\nbrancos em seu corpo podem regenerar\r\nmais fracos, sendo facilmente destruídos\r\nda segunda vez. Os cristais criados são\r\ndetonáveis ao sofrer dano elemental, mas\r\num bom caçador com munição de atiradeira\r\nelemental e cautela pode usar isso a seu favor.",
       "ko": "수호룡으로서의 기본 특성은 다른 종과\r\n같으며, 에너지 방출 공격을 하는\r\n날갯죽지와 머리의 결정을 떼어내 깨뜨리면\r\n축적된 에너지를 고갈시킬 수 있다.\r\n몸에 두른 흰 결정은 파괴해도 재생되지만\r\n경도가 떨어져 다시 파괴하기 쉽다. 또\r\n에너지 방출 공격으로 형성되는 용유\r\n결정은 속성 공격에 반응해 폭발하므로\r\n이를 이용해 속성 슬링어 탄 등을\r\n활용한 주위 공격도 효과적일 것이다.",
       "zh-Hant": "白熾龍和其他護龍有相同的基本特性，會利用翼腳\r\n使出能量釋放攻擊。只要打掉翼腳和頭上的結晶，\r\n就能使牠身上積蓄的能量消耗殆盡。包覆在牠身上\r\n的白色結晶遭破壞後雖然會再生，但硬度會下降，\r\n能輕易再次破壞。此外，由於能量釋放攻擊所形成\r\n的龍乳結晶會與屬性攻擊起反應而爆炸，利用此特\r\n性善用屬性投射器彈等攻擊應該很有效。",
       "zh-Hans": "白炽龙的基本特性与其他护龙相似。如果破坏其\r\n翼臂和头部的结晶，就能使它积蓄的能量迅速枯\r\n竭。覆盖全身的白色结晶在破坏后虽然能够再生，\r\n但硬度会降低，变得更容易再次击碎。此外，白\r\n炽龙的能量攻击会产生龙乳结晶，其对属性攻击\r\n有很强的反应，能引发爆炸。因此，利用属性投\r\n射器弹药等武器对它进行攻击会非常有效。",
@@ -77,7 +77,9 @@
       "gold_multiplier": 1.23
     },
     "base_health": 9000,
-    "locations": [],
+    "locations": [
+      327401792
+    ],
     "weaknesses": [
       {
         "kind": "element",
@@ -233,6 +235,13 @@
         "chance": 100
       },
       {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 608,
+        "amount": 1,
+        "chance": 30
+      },
+      {
         "rank": "low",
         "kind": "target-reward",
         "item_id": 664,
@@ -266,6 +275,305 @@
         "kind": "broken-part",
         "part": "right-wing-arm",
         "item_id": 664,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 710,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 711,
+        "amount": 1,
+        "chance": 60
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 712,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 712,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 712,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 712,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 712,
+        "amount": 1,
+        "chance": 35
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 16
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-front-leg",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-front-leg",
+        "item_id": 713,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 714,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 714,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 714,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 714,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head",
+        "item_id": 714,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 715,
+        "amount": 1,
+        "chance": 93
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 7
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 7
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 717,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 719,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 719,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 719,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 719,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-wing-arm",
+        "item_id": 719,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-wing-arm",
+        "item_id": 719,
         "amount": 1,
         "chance": 100
       }
@@ -424,11 +732,11 @@
       "en": "Most Guardian Doshaguma attacks are big\r\nforelimb swings. While not agile, the\r\nattacks that carry Guardian energy will\r\ncause wide explosions. Watch out for the\r\nacid in their saliva, which temporarily\r\nlowers defense. By dealing with their forearm\r\nattacks properly, you can expose a weak point\r\nworth exploiting. The crystals formed by\r\ntheir attacks will explode from elemental\r\ninterference, making Slinger ammo effective.",
       "fr": "Le Doshaguma Gardien attaque avec ses pattes\r\nantérieures. Il est peu agile, mais ses attaques\r\nprovoquent des explosions grâce à son énergie\r\nde Gardien. Attention à l'acide de sa salive, qui\r\nréduit temporairement la défense. Anticiper\r\nses attaques permet d'exposer un point faible\r\nutile. Les interférences élémentaires font\r\nexploser les cristaux créés par leurs attaques.\r\nLes munitions pour fronde sont donc efficaces.",
       "it": "La gran parte degli attacchi del Doshaguma\r\nguardiano proviene dagli arti anteriori.\r\nSebbene non molto agili, gli attacchi con\r\nenergia da guardiano causano esplosioni e\r\nriducono temporaneamente la tua difesa con\r\nla saliva acida. Reagendo correttamente ai\r\nloro attacchi, potresti trovarne il punto debole.\r\nLe munizioni per fionda sono efficaci perché\r\ni cristalli sono attivati da interferenza elementale.",
-      "de": "Wächter-Doshaguma greifen vor allem mit schwe-\r\nren Vorderbeinhieben an, die zwar langsam, aber\r\ndafür mit Wächterenergie aufgeladen sind und\r\nweiträumig explodieren. Reagiert man richtig auf\r\ndie Angriffe, zeigt sich eventuell ihr Schwachpunkt.\r\nIhr säurehaltiger Speichel senkt temporär die Ver-\r\nteidigung, also Vorsicht.\r\nDie Kristalle, die ihre Angriffe hinterlassen, können\r\nmit Schleudermunition zur Explosion gebracht\r\nwerden.",
+      "de": "Wächter-Doshaguma greifen vor allem mit\r\nschweren Vorderbeinhieben an, die zwar lang-\r\nsam, aber dafür mit Wächterenergie aufgeladen\r\nsind und weiträumig explodieren. Reagiert man\r\nrichtig auf die Angriffe, zeigt sich eventuell ihr\r\nSchwachpunkt. Ihr säurehaltiger Speichel senkt\r\ntemporär die Verteidigung, also Vorsicht. Die\r\nKristalle, die ihre Angriffe hinterlassen, können\r\nmit Schleudermunition zur Explosion gebracht\r\nwerden.",
       "es": "El Doshaguma Guardián lanza la mayoría\r\nde sus ataques con las patas delanteras.\r\nPese a ser lentos, los ataques con energía\r\nde Guardián provocan grandes explosiones.\r\nEl ácido de su saliva es peligroso: reduce\r\ntemporalmente tu defensa. Desvía con\r\néxito los ataques de sus patas delanteras\r\ny revelarás un punto débil. Sus ataques\r\nforman cristales que puedes detonar\r\ncon munición de eslinga.",
       "ru": "Как правило, дошагумы-стражи атакуют врага длинными передними лапами. Эти монстры неповоротливы, зато их удары высвобождают энергию стражей, вызывая взрывы. Берегитесь их едкой слюны, которая на время снижает показатель защиты. Отражая удары передних лап в нужный момент, вы заставите монстра обнажить уязвимое место. Кристаллы, образующиеся при его атаках, можно взрывать, пуская стихийные снаряды из самострела.",
       "pl": "Doshaguma Strażnik atakuje głównie przednimi\r\nkończynami. Choć nie jest zwinny, jego ataki\r\nnasycone strażniczą energią powodują duże\r\neksplozje. Kwas w jego ślinie tymczasowo\r\nobniża obronę. Odpierając jego ataki, można\r\nodsłonić jego słaby punkt - warto to\r\nwykorzystac. Kryształy powstałe w wyniku\r\nataków eksplodują pod wpływem żywiołów,\r\nco czyni amunicję do procy skuteczną.",
-      "pt-BR": "A maioria dos ataques do Doshaguma Guardião são\r\ngolpes amplos com os braços. Embora pouco ágeis,\r\nos ataques com energia de Guardião causam grandes\r\nexplosões. Cuidado com o ácido em sua saliva, pois\r\nela diminui a defesa temporariamente. Ao lidar de\r\nforma correta com seus ataques braçais, é possível\r\nexpor um importante ponto fraco. Os cristais criados\r\npor seus ataques explodem em caso de interferência\r\nelemental, tornando eficaz o uso da Atiradeira.",
+      "pt-BR": "A maioria dos ataques do Doshaguma Guardião\r\nsão golpes amplos com os braços. São lentos,\r\nmas os ataques com energia de Guardião causam\r\ngrandes explosões. Cuidado com o ácido em sua\r\nsaliva, pois diminui a defesa temporariamente.\r\nAo lidar de forma correta com seus ataques\r\nbraçais, é possível expor um importante ponto\r\nfraco. Os cristais criados por seus ataques\r\nexplodem em caso de interferência elemental,\r\ntornando eficaz o uso da Atiradeira.",
       "ko": "팔을 크게 휘두르는 공격이 많아 결코\r\n민첩하다고 할 수 없지만, 수호룡의\r\n에너지를 띤 일격에 의한 폭발 범위가\r\n넓어 방심할 수 없다. 또 산성 타액을\r\n분비해 접촉 시 일시적으로 방어력이\r\n낮아지는 등의 영향을 받을 수 있으니\r\n주의하자. 대신 팔 공격을 잘 대처하면\r\n'약점'을 노출하니 적극 공략해야 한다.\r\n공격에 따라 형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어 탄이 효과적이다.",
       "zh-Hant": "護闢獸主要以大幅揮動前臂施展攻擊，雖然算不上\r\n敏捷，但帶護龍能量的攻擊會引發大範圍爆炸，絕\r\n對不能大意。除此之外，牠還會分泌酸性唾液，只\r\n要接觸到唾液，防禦力就會暫時下降，需要多加小\r\n心。不過只要好好應付牠的前臂攻擊，牠就會露出\r\n弱點，要好好把握機會。牠的攻擊形成的結晶會對\r\n屬性攻擊起反應並爆炸，因此屬性投射器彈等攻擊\r\n手段也很有效。",
       "zh-Hans": "护辟兽主要使用前肢发动大开大阖的攻击。尽管\r\n行动不算敏捷，但其带有护龙能量的攻击能引发\r\n大范围爆炸，威力不容忽视。此外，它还会分泌\r\n酸性唾液，一旦敌人接触到唾液，防御力将暂时\r\n下降。不过，只要谨慎应对它的前肢攻击，便能\r\n让护辟兽暴露出弱点，提供反击的机会，建议多\r\n加利用这一点。它攻击形成的结晶也会对属性攻\r\n击起反应并爆炸，因此属性投射器弹药等攻击手\r\n段也会非常有效。",
@@ -1064,19 +1372,19 @@
     },
     "tips": {
       "ja": "帯電した翼や尻尾が砂を主とした地表に接する\r\nことで反応し、フルグライトが形成される。\r\n身にまとったフルグライトは、その部位の攻撃\r\n範囲が広がるだけではなく帯電能力までも増幅\r\nさせるため、部位破壊が有効。\r\nまた、強力な放電攻撃を発射直後の頭部は弱点と\r\nなることもある。氷属性の武器や雷耐性の高い\r\n防具が有効である。",
-      "en": "When a Rey Dau's wing or tail touches the\r\nground while charged, it causes a reaction\r\nthat produces a mantle of fulgurite. Not\r\nonly does this widen the appendage's attack\r\nrange, but it also increases the monster's\r\ncharging capacity—so make a point of\r\nbreaking these parts. Their heads may also\r\nbe vulnerable after a discharge attack.\r\nHunters are advised to bring thunder-\r\nresistant armor and water-based weaponry.",
-      "fr": "Lorsque le Rey Dau frappe le sol avec ses ailes\r\nou sa queue chargées en électricité, ce contact\r\ngénère de la fulgurite. Sa portée augmente alors\r\net sa capacité de charge s'améliore, d'où l'intérêt\r\nde briser ces parties. Sa tête peut être vulnérable\r\naprès une attaque de foudre. Il est recommandé\r\nde se munir d'une armure résistant à la foudre et\r\nd'une arme infligeant des dégâts d'eau.",
-      "it": "Quando l'ala o la coda carica di un Rey Dau\r\ntocca il terreno, causa una reazione che\r\nproduce un manto di folgorite. Questo\r\nnon solo amplia il raggio d'attacco, ma\r\naumenta anche la capacità di carica del\r\nmostro, pertanto assicurati di rompere\r\nqueste parti. La testa può diventare\r\nvulnerabile dopo una scarica. Si consiglia\r\nl'uso di armature resistenti ai fulmini e\r\ndi armi a base d'acqua.",
-      "de": "Berühren Flügel oder Schwanz eines Rey Dau im\r\naufgeladenen Zustand den Boden, erzeugt die\r\nReaktion mit dem Sand einen Mantel aus Fulgurit.\r\nDies vergrößert sowohl die Reichweite der Glied-\r\nmaßen als auch die Ladekapazität des Monsters –\r\nman sollte diese Teile also schnell brechen. Sein\r\nKopf ist nach der Entladung manchmal verwundbar.\r\nJägern seien donnersichere Rüstung und Waffen\r\nmit Wasserelement empfohlen.",
-      "es": "Si el ala o la cola de un Rey Dau tocan el\r\nsuelo mientras están cargadas, reaccionan\r\ngenerando una capa de fulgorita. Esto no\r\nsolo aumenta el radio de ataque del\r\napéndice, sino también la capacidad de carga\r\ndel monstruo. Destruir ambas partes es\r\nprimordial. La cabeza también suele ser\r\nvulnerable tras una descarga. Se recomienda\r\nel uso de armadura resistente al rayo\r\ny armamento con elemento agua.",
-      "ru": "Когда рей дау касается земли заряженным\r\nкрылом или хвостом, происходит реакция и\r\nместо соприкосновения обрастает\r\nфульгуритом. Это не только увеличивает\r\nдистанцию атак рей дау, но и позволяет\r\nмонстру накопить более мощный заряд.\r\nПоэтому разбивайте эти наросты в первую\r\nочередь. После атаки с разрядом голова\r\nрей дау может стать уязвима. Для охоты\r\nна этого монстра желательно иметь доспех\r\nс защитой от грозы и оружие водной стихии.",
-      "pl": "Kiedy naładowane skrzydło lub ogon Rey Dau\r\ndotyka ziemi, w reakcji tworzy się opończa\r\nz piorunowca. Nie tylko zwiększa to zasięg\r\nrażenia z wypustek, ale także zwiększa\r\npojemność ładowania potwora – warto więc\r\nzłamać te części jego ciała. Głowa również\r\nmoże być podatna na atak po wyładowaniu.\r\nŁowcom zaleca się zabranie ze sobą\r\npiorunoodpornego pancerza i broni wodnej.",
-      "pt-BR": "Quando a asa ou a cauda carregada de um Rey\r\nDau toca o chão, elas causam uma reação que\r\nproduz um manto de fulgurita. Isso não apenas\r\naumenta o alcance do ataque, mas também a\r\ncapacidade de carga do monstro, o que torna\r\ndestruir essas partes uma prioridade. Sua\r\ncabeça às vezes também fica vulnerável após\r\num ataque de descarga. Recomenda-se o uso de\r\narmaduras resistentes a raio e armas baseadas\r\nem água.",
+      "en": "When a Rey Dau's wing or tail touches the\r\nground while charged, it causes a reaction\r\nthat produces a mantle of fulgurite. This\r\nwidens the appendage's attack range and\r\nincreases the monster's charging capacity—\r\nso make it a point to break these parts.\r\nTheir heads may also be vulnerable after\r\na discharge attack. Hunters are advised\r\nto bring thunder-resistant armor and\r\nice-based weaponry.",
+      "fr": "Lorsque le Rey Dau frappe le sol avec ses ailes\r\nou sa queue chargées en électricité, ce contact\r\ngénère de la fulgurite. Sa portée augmente alors\r\net sa capacité de charge s'améliore, d'où l'intérêt\r\nde briser ces parties. Sa tête peut être vulnérable\r\naprès une attaque de foudre. Il est recommandé\r\nde se munir d'une armure résistant à la foudre et\r\nd'une arme infligeant des dégâts de glace.",
+      "it": "Quando l'ala o la coda carica di un Rey Dau\r\ntocca il terreno, causa una reazione che\r\nproduce un manto di folgorite. Questo\r\nnon solo amplia il raggio d'attacco, ma\r\naumenta anche la capacità di carica del\r\nmostro, pertanto assicurati di rompere\r\nqueste parti. La testa può diventare\r\nvulnerabile dopo una scarica. Si consiglia\r\nl'uso di armature resistenti ai fulmini e\r\ndi armi a base di ghiaccio.",
+      "de": "Berühren Flügel oder Schwanz eines Rey Dau im\r\naufgeladenen Zustand den Boden, erzeugt die\r\nReaktion mit dem Sand einen Mantel aus Fulgurit.\r\nDies vergrößert sowohl die Reichweite der Glied-\r\nmaßen als auch die Ladekapazität des Monsters –\r\nman sollte diese Teile also schnell brechen. Sein\r\nKopf ist nach der Entladung manchmal verwund-\r\nbar. Jägern seien donnersichere Rüstung und\r\nWaffen mit Eiselement empfohlen.",
+      "es": "Si el ala o la cola de un Rey Dau tocan el\r\nsuelo mientras están cargadas, reaccionan\r\ngenerando una capa de fulgorita. Esto\r\nno solo aumenta el radio de alcance del\r\napéndice, sino también la capacidad de\r\ncarga del monstruo. Destruir ambas partes\r\nes primordial. La cabeza también suele\r\nser vulnerable tras una descarga. Se\r\nrecomienda el uso de armadura resistente\r\nal rayo y armamento con elemento hielo.",
+      "ru": "Когда рей дау касается земли заряженным\r\nкрылом или хвостом, происходит реакция\r\nи место соприкосновения обрастает\r\nфульгуритом. Это не только увеличивает\r\nнакапливаемый монстром заряд, но и\r\nрадиус атаки этих частей тела, поэтому\r\nпостарайтесь сломать их в первую очередь.\r\nГолова монстра также может стать уязвима\r\nпосле атаки с разрядом. Желательно иметь\r\nдоспех с защитой от грозы и оружие стихии\r\nльда.",
+      "pl": "Kiedy naładowane skrzydło lub ogon Rey Dau\r\ndotyka ziemi, w reakcji tworzy się opończa\r\nz piorunowca. Nie tylko zwiększa to zasięg\r\nrażenia z wypustek, ale także zwiększa\r\npojemność ładowania potwora – warto więc\r\nzłamać te części jego ciała. Głowa również\r\nmoże być podatna na atak po wyładowaniu.\r\nŁowcom zaleca się zabranie ze sobą\r\npiorunoodpornego pancerza i broni lodowej.",
+      "pt-BR": "Quando a asa ou a cauda carregada de um Rey\r\nDau toca o chão, elas causam uma reação que\r\nproduz um manto de fulgurita. Isso não apenas\r\naumenta o alcance do ataque, mas também a\r\ncapacidade de carga do monstro, o que torna\r\ndestruir essas partes uma prioridade. Sua\r\ncabeça às vezes também fica vulnerável após\r\num ataque de descarga. Recomenda-se o uso de\r\narmaduras resistentes a raio e armas baseadas\r\nem gelo.",
       "ko": "전기를 띤 날개나 꼬리가 모래 지표면에\r\n닿으면 반응을 일으켜 섬전암이 만들어진다.\r\n섬전암을 두른 부위는 공격 범위가\r\n넓어지는 데다 대전 능력까지 증폭되므로\r\n부위 파괴가 효과적이다.\r\n강력한 방전 공격을 발사한 직후에는\r\n머리가 약점이 되기도 한다.\r\n번개 내성이 높은 방어구와 얼음속성 무기가\r\n효과적이다.",
       "zh-Hant": "帶電的翅膀或尾巴接觸以沙為主的地面時會發生反\r\n應，形成蒼雷晶。覆蓋在身上的蒼雷晶不僅會擴大\r\n該部位的攻擊範圍，還會增強帶電能力，因此推薦\r\n破壞牠的各個部位。頭部發射強力的放電攻擊後會\r\n暫時變成弱點。狩獵時建議使用雷耐性高的防具和\r\n冰屬性的武器。",
       "zh-Hans": "它带电的双翼和尾巴接触地面后，会与沙砾中的\r\n成分发生反应，生成苍雷晶。覆盖在它身上的苍\r\n雷晶不仅可以扩大相应部位的攻击范围，还能增\r\n强其带电能力，因此推荐破坏它的相应部位。在\r\n释出强烈的放电攻击后，其头部会暂时成为弱点。\r\n狩猎时，推荐装备具有高雷耐性的防具和冰属性\r\n的武器。",
-      "ar": "عندما يلمس جناح (راي داو) أو ذيله الأرض\r\nأثناء الشحن، يحدث تفاعل ينتج عنه عباءة\r\nمن عيدان الصواعق. لا يؤدي ذلك إلى توسيع\r\nنطاق هجوم الذيل الملحق فحسب، بل يزيد\r\nأيضًا من قدرة الوحش على الشحن، لذا\r\nسيتعين <LSNR \"عليكَ\" \"عليكِ\"> تحطيم هذين الجزأين.\r\nقد تكون رؤوسها ضعيفة أحيانًا بعد هجوم\r\nتفريغ الشحنات. يُنصح الصيادون بإحضار\r\nدروع مقاومة للرعد وأسلحة مائية.",
-      "es-419": "Si el ala o la cola del Rey Dau tocan el\r\nsuelo mientras están cargadas, provocan una\r\nreacción que genera una capa de fulgorita.\r\nEsto no solo aumenta el radio de ataque de\r\nla extremidad, sino también la capacidad de\r\ncarga del monstruo. Por ello, destruir ambas\r\npartes es esencial. Tras una descarga, la\r\ncabeza puede quedar vulnerable. Se aconseja\r\na los cazadores usar armaduras resistentes a\r\nlos rayos y armas con base acuosa."
+      "ar": "عندما يلمس جناح (راي داو) أو ذيله الأرض\r\nأثناء الشحن، يحدث تفاعل ينتج عنه عباءة\r\nمن عيدان الصواعق. يؤدي ذلك إلى توسيع\r\nنطاق هجوم الذيل الملحق ويزيد من قدرة\r\nالوحش على الشحن، لذا <LSNR \"تأكد\" \"تأكدي\"> من تحطيم\r\nهذه الأجزاء.\r\nقد تكون رؤوسها ضعيفة أحيانًا بعد هجوم\r\nتفريغ الشحنات. يُنصح الصيادون بإحضار\r\nدروع مقاومة للرعد وأسلحة جليدية.",
+      "es-419": "Cuando el ala o la cola de un Rey Dau\r\ntocan el suelo mientras están cargadas,\r\ncausan una reacción que genera una capa de\r\nfulgurita. Esto amplía el alcance de\r\nataque del apéndice y aumenta la capacidad\r\nde carga del monstruo; procura destruir\r\nestas partes. Sus cabezas también son\r\nvulnerables tras un ataque de descarga.\r\nLos cazadores deben llevar armadura\r\nresistente al rayo y armamento de hielo."
     },
     "variants": [
       {
@@ -3032,7 +3340,7 @@
           "it": "Più efficace se il mantello non è intatto.",
           "de": "Effektiver nach Zerstören des Mantels.",
           "es": "Más efectivo una vez destrozado el manto.",
-          "ru": "Эффективнее, если накидка порвана.",
+          "ru": "Эффективнее, если покров порван.",
           "pl": "Większa efektywość po zniszczeniu opończy.",
           "pt-BR": "Mais eficaz após quebrar o manto.",
           "ko": "외투막을 파괴하면 더 효과적입니다.",
@@ -3215,7 +3523,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "poisonous-thorn",
+        "part": "poisonous-thorn-second",
         "item_id": 516,
         "amount": 1,
         "chance": 100
@@ -3336,7 +3644,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "poisonous-thorn",
+        "part": "poisonous-thorn-second",
         "item_id": 520,
         "amount": 1,
         "chance": 100
@@ -3458,22 +3766,22 @@
     ],
     "breakable_parts": [
       {
-        "part": "poisonous-thorn",
+        "part": "poisonous-thorn-second",
         "names": {
-          "ja": "毒トゲ",
-          "en": "Stinger",
-          "fr": "Dard",
-          "it": "Pungiglione",
-          "de": "Stachel",
-          "es": "Aguijón",
-          "ru": "Жало",
-          "pl": "Żądło",
-          "pt-BR": "Ferrão",
-          "ko": "독가시",
-          "zh-Hant": "毒刺",
-          "zh-Hans": "毒刺",
-          "ar": "إبرة",
-          "es-419": "Aguijón"
+          "ja": "毒トゲ(二段階目)",
+          "en": "Poison Spike II",
+          "fr": "Pointe venimeuse II",
+          "it": "Spuntone velenoso II",
+          "de": "Giftstachel (St. II)",
+          "es": "Púa venenosa II",
+          "ru": "Ядовитый шип II",
+          "pl": "Zatruty kolec II",
+          "pt-BR": "Espinho Venenoso II",
+          "ko": "독가시(2단계째)",
+          "zh-Hant": "毒刺（第二階段）",
+          "zh-Hans": "毒刺（第二阶段）",
+          "ar": "شوكة السم 2",
+          "es-419": "Púa venenosa II"
         }
       },
       {
@@ -3615,6 +3923,7 @@
     },
     "base_health": 5100,
     "locations": [
+      327401792,
       1182228864
     ],
     "weaknesses": [
@@ -4080,7 +4389,7 @@
       "es": "Wyverns gigantescos de la Cuenca Oleosa.\r\nPoseen una constitución muy desarrollada,\r\nrayos abrasadores y gas que expulsan desde\r\nsus cuerpos. Sus corazas óseas destacan por\r\nsu dureza, pero una vez destruidas, dejan al\r\ndescubierto un interior sorprendentemente\r\nfrágil.",
       "ru": "Крупные виверны, обитающие в Нефтяной\r\nнизине. Обладают развитой мускулатурой,\r\nатакуют испепеляющими лучами и испускают\r\nиз-под панциря облака газа. Броню\r\nгравиоса сложно пробить, но под ней\r\nего тело на удивление уязвимо.",
       "pl": "Duże wiwerny spotykane w Kotlinie\r\nOleju. Mają silnie rozwiniętą budowę\r\nciała, emitują potężne promienie\r\ncieplne i wydzielają wiele gazów.\r\nIch kostne pancerze są znane\r\nz wyjątkowej wytrzymałości, \r\nale po zniszczeniu odsłaniają\r\nzaskakująco kruche wnętrze.",
-      "pt-BR": "Grandes serpes encontradas na Bacia Oleídea.\r\nPossuem físico desenvolvido, poderosos raios\r\nde calor e muitos gases que podem ser emitidos\r\nde seus corpos. Suas carapaças ósseas são\r\nfamosas por sua dureza, mas expõem um interior\r\nbem frágil quando destruídas.",
+      "pt-BR": "Grandes serpes encontradas na Bacia Oleídea.\r\nPossuem físico desenvolvido, poderosos raios\r\nde calor e muitos gases emitidos de seus\r\ncorpos. Suas carapaças ósseas são famosas\r\npor sua dureza, mas expõem um interior bem\r\nfrágil quando destruídas.",
       "ko": "기름 솟는 계곡에 나타나는 대형 비룡.\r\n몸집이 크게 발달했고 강력한 열선을 쏘며\r\n몸에서 다양한 가스를 분출한다.\r\n특이한 껍데기는 매우 딱딱해서\r\n웬만한 공격은 통하지 않으나,\r\n껍데기가 파괴되면\r\n예상치 못한 약점을 드러내기도 한다.",
       "zh-Hant": "湧油山谷中出現的大型飛龍。具引以為傲的巨大身\r\n軀，除了能射出強力熱線外，還能從身體表面噴出\r\n各種瓦斯。獨特的外殼極為堅固，一般攻擊難以擊\r\n破，但一旦外殼被破壞，便會暴露出意外脆弱的一\r\n面。",
       "zh-Hans": "出现在涌油谷的大型飞龙。拥有引以为傲的庞大\r\n身躯，除了强力的高热射线，还能从体表喷出各\r\n种瓦斯。独特的外壳非常坚固，一般的攻击都不\r\n能伤其分毫。然而，一旦这层外壳被破坏，它的\r\n脆弱便会显现出来。",
@@ -4369,7 +4678,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "stomach",
+        "part": "stomach-second",
         "item_id": 544,
         "amount": 1,
         "chance": 100
@@ -4590,22 +4899,22 @@
         }
       },
       {
-        "part": "stomach",
+        "part": "stomach-second",
         "names": {
-          "ja": "腹部",
-          "en": "Belly",
-          "fr": "Ventre",
-          "it": "Pancia",
-          "de": "Bauch",
-          "es": "Barriga",
-          "ru": "Брюхо",
-          "pl": "Brzuch",
-          "pt-BR": "Barriga",
-          "ko": "복부",
-          "zh-Hant": "腹部",
-          "zh-Hans": "腹部",
-          "ar": "بطن",
-          "es-419": "Barriga"
+          "ja": "腹部(二段階目)",
+          "en": "Belly II",
+          "fr": "Ventre II",
+          "it": "Pancia II",
+          "de": "Bauch (St. II)",
+          "es": "Barriga II",
+          "ru": "Брюхо II",
+          "pl": "Brzuch II",
+          "pt-BR": "Barriga II",
+          "ko": "복부(2단계째)",
+          "zh-Hant": "腹部（第二階段）",
+          "zh-Hans": "腹部（第二阶段）",
+          "ar": "بطن 2",
+          "es-419": "Barriga II"
         }
       },
       {
@@ -4765,7 +5074,7 @@
       "es": "El Arkveld Guardián suele atacar con los\r\ncadenáculos retráctiles de sus alas, que no\r\nsolo absorben y liberan energía como otros\r\nGuardianes, sino que además la transforman\r\nen draco y la proyectan, lo que provoca una\r\nexplosión de dicho elemento al entrar en\r\ncontacto con petrowylact. Los cristales\r\nformados por sus ataques explotarán con\r\ncontacto elemental: tu munición de eslinga\r\npuede ser efectiva.",
       "ru": "Арквельд-страж атакует цепными клинками,\r\nрасположенными на крыльях. С их помощью\r\nон не только поглощает и высвобождает\r\nэнергию подобно другим стражам, но\r\nи преобразует её в силу дракона. Контакт\r\nсилы дракона с кристаллами вивлока\r\nпровоцирует взрыв соответствующей стихии.\r\nКроме того, эти кристаллы можно взорвать\r\nи самостоятельно, пустив в них снаряд\r\nиз самострела.",
       "pl": "Arkveld Strażnik do ataku wykorzystuje\r\nchowane ostrza łańcuchowe na skrzydłach.\r\nOstrza te służą nie tylko do pochłaniania\r\ni uwalniania energii jak u innych Strażników,\r\nale mogą również przekształcać energię\r\nw żywioł smoka i uwalniać ją, co powoduje\r\neksplozję tego żywiołu, jeśli wejdzie w kontakt\r\nz wylkryształami. Kryształy utworzone podczas\r\njego ataków eksplodują w skutek oddziaływania\r\nżywiołów, czyniąc amunicję do procy skuteczną.",
-      "pt-BR": "O Arkveld Guardião usa correlâminas retráteis em\r\nsuas asas para atacar. Como em outros Guardiões,\r\nas lâminas são usadas para absorver e liberar\r\nenergia, mas também podem converter a energia em\r\nelemento dragão e descarregá-la, causando uma\r\nexplosão do mesmo elemento se o ataque entrar em\r\ncontato com Cristais de Serpileite. Os cristais\r\ncriados por seus ataques explodem em caso de\r\ninterferência elemental, tornando eficaz o uso\r\nda Atiradeira.",
+      "pt-BR": "O Arkveld Guardião usa correlâminas retráteis\r\nem suas asas para atacar. Como em outros\r\nGuardiões, as lâminas são usadas para\r\nabsorver e liberar energia, mas também\r\nconverter a energia em elemento dragão e\r\ndescarregá-la, causando uma explosão do\r\nmesmo elemento se o ataque entrar em contato\r\ncom Cristais de Serpil. Os cristais criados por\r\nseus ataques explodem com a interferência\r\nelemental, tornando eficaz o uso da Atiradeira.",
       "ko": "양 날개에 달린 신축성 좋은 사슬날을\r\n이용한 공격이 특징이다. 이 사슬날은\r\n수호룡 특유의 에너지 방출과 흡수에도\r\n사용하며, 흡수한 에너지를 용속성으로\r\n변환해 방출하기도 한다. 이 에너지가\r\n용유 결정에 닿으면 발생하는 같은 속성\r\n폭발에 주의가 필요하다. 공격에 따라\r\n형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어 탄 등이 효과적이다.",
       "zh-Hant": "護鎖刃龍的特徵是會使用雙翼上能自由伸縮的鎖刃\r\n施展攻擊。鎖刃除了能用於釋放和吸收護龍特有的\r\n能量，有時還能將吸收的能量轉化成龍屬性並再次\r\n釋放。若能量擊中龍乳結晶，會引起同屬性爆炸，\r\n要多加小心。牠的攻擊形成的結晶會對屬性攻擊起\r\n反應並爆炸，因此屬性投射器彈等攻擊手段也很有\r\n效。",
       "zh-Hans": "护锁刃龙的特点是会利用左右两翼上可自由伸缩\r\n的锁刃开展攻击。锁刃不仅能吸收和释放护龙特\r\n有的能量，还能将吸收的能量转化为龙属性并再\r\n次释出。转化后的能量如果命中龙乳结晶将会引\r\n起同属性的爆炸，需多加小心。它攻击形成的结\r\n晶也会对属性攻击起反应并爆炸，因此属性投射\r\n器弹药等攻击手段也会非常有效。",
@@ -7376,7 +7685,7 @@
       "zh-Hant": "兩棲種，會利用帶黏性的唾液將礦石等物質附著在\r\n前腳上，藉此強化自己。若瞄準並破壞附著物，\r\n就會出現攻擊的機會。弱點是舌頭。",
       "zh-Hans": "两栖种。会利用有粘性的唾液将矿石等附着在前肢\r\n上，从而强化自身。瞄准附着物加以破坏，即可创\r\n造攻击良机。弱点是舌头。",
       "ar": "وحوش برمائية تُثبِّت الصخور على أطرافها الأمامية\r\nلتقوية الهجمات. <LSNR \"عليكَ\" \"عليكِ\"> بتدمير هذا 'الدرع' لفتح مجال\r\nللهجوم. اللسان هو المنطقة الأكثر ضعفًا.",
-      "es-419": "Anfibios que adhieren rocas a sus patas delanteras\r\npara potenciar ataques. Destruye esta \"armadura\"\r\npara atacar. Su punto débil es la lengua."
+      "es-419": "Anfibios que adhieren rocas a sus patas delanteras\r\npara potenciar ataques. Rompe esta \"armadura\" para\r\nexponerlos a ataques. Su punto débil es la lengua."
     },
     "features": {
       "ja": "長い舌で様々なものを舐めとり食らう両生種で、\r\nブブラチカなどを捕食する。発達した前脚には\r\n粘着性の唾液を保持する構造を備え、興奮時は\r\n地面にこすりつけることで石や土砂を付着させ\r\n攻撃範囲と破壊力を増大させる。\r\nこうした性質から、≪纏蛙（まといがえる）≫\r\nとも称される。",
@@ -7837,6 +8146,603 @@
           "zh-Hans": "右前肢",
           "ar": "قدم يمنى أمامية",
           "es-419": "Pata delantera der."
+        }
+      }
+    ]
+  },
+  {
+    "game_id": 32634,
+    "species": "leviathan",
+    "names": {
+      "ja": "タマミツネ",
+      "en": "Mizutsune",
+      "fr": "Mizutsune",
+      "it": "Mizutsune",
+      "de": "Mizutsune",
+      "es": "Mizutsune",
+      "ru": "Мидзуцунэ",
+      "pl": "Mizutsune",
+      "pt-BR": "Mizutsune",
+      "ko": "타마미츠네",
+      "zh-Hant": "泡狐龍",
+      "zh-Hans": "泡狐龙",
+      "ar": "ميزوتسوني",
+      "es-419": "Mizutsune"
+    },
+    "descriptions": {
+      "ja": "独自の進化を遂げ、特殊な分泌液と体毛をこすり\r\n合わせて作り出す泡を巧みに使う。その姿から\r\n≪泡狐竜（ほうこりゅう）≫と呼ばれている。",
+      "en": "Specially evolved leviathans, Mizutsune\r\ncan secrete a peculiar foam that deftly\r\ncovers their foes in dangerous bubbles.",
+      "fr": "Léviathans évolués, les Mizutsune peuvent\r\nsécréter une mousse étrange recouvrant\r\nleurs proies de bulles dangereuses.",
+      "it": "Il Mizutsune, un leviathan dall'evoluzione\r\nparticolare, può secernere una schiuma che copre\r\nrapidamente i nemici di pericolose bolle.",
+      "de": "Mizutsune sind speziell entwickelte Leviathane,\r\ndie einen eigentümlichen Schaum absondern, um\r\nihre Feinde in gefährliche Blasen einzuhüllen.",
+      "es": "Leviatanes evolucionados de forma única.\r\nSegregan una espuma peculiar que cubre\r\na los enemigos con peligrosas burbujas.",
+      "ru": "Мидзуцунэ — уникальные левиафаны,\r\nвыделяющие необычную пену, опасные\r\nпузыри которой облепляют врагов.",
+      "pl": "Wyjątkowa ewolucyjna forma lewiatanów, Mizutsune,\r\npotrafi wydzielać osobliwą pianę, która szybko\r\npokrywa wrogów niebezpiecznymi bąblami.",
+      "pt-BR": "Leviatãs muito evoluídos, os Mizutsunes podem\r\nsoltar uma espuma peculiar, envolvendo inimigos\r\nem bolhas perigosas.",
+      "ko": "독자적인 진화를 이뤘으며 특수한 분비액과\r\n체모를 비벼서 만든 거품을 잘 다룬다.\r\n그 모습 덕에 《포호룡》이라고 불린다.",
+      "zh-Hant": "經歷獨特的進化，能利用體毛摩擦特殊分泌液來\r\n製造泡沫，並巧妙運用，因此得泡狐龍之名。",
+      "zh-Hans": "经历独特的进化，能够利用特殊的分泌液与体毛\r\n摩擦产生泡沫，并巧妙地加以运用。由于这种奇\r\n特的生态特征，得名泡狐龙。",
+      "ar": "وحوش (ليفياثان) المتطورة للغاية، (ميزوتسوني)\r\nيمكنها إفراز رغوة غريبة تغطي أعداءها\r\nبفقاعات خطيرة بمهارة.",
+      "es-419": "Los Mizutsune son leviatanes evolucionados\r\nque segregan una peculiar espuma que cubre\r\na sus enemigos con burbujas peligrosas."
+    },
+    "features": {
+      "ja": "独自の進化を遂げ、特殊な分泌液と体毛をこすり\r\n合わせて作り出す泡を巧みに使う。その姿から\r\n≪泡狐竜（ほうこりゅう）≫と呼ばれる。\r\n海竜種でありながら陸上においても俊敏かつ\r\n柔軟な動きをみせており、軽やかな動きで生み\r\n出した泡を獲物に絡めて自由を奪い、まるで舞う\r\nような様子で狩りを行う姿が報告されている。",
+      "en": "Specially evolved leviathans with sleek,\r\nlithe bodies, Mizutsune can secrete\r\na peculiar foam that covers their foes\r\nin immobilizing bubbles. Once their prey's\r\nmovement is impaired, they'll close\r\nin with spry, dance-like movements.",
+      "fr": "Léviathans évolués au corps agile et élégant,\r\nles Mizutsune peuvent sécréter une mousse\r\nétrange qui recouvre leurs proies de bulles\r\nparalysantes. Une fois leur victime affaiblie,\r\nils s'en rapprochent par des mouvements\r\nsemblables à une danse.",
+      "it": "Leviathan evoluto con un elegante\r\ncorpo sinuoso, il Mizutsune è in grado di\r\nsecernere una schiuma speciale che copre\r\ni nemici di bolle immobilizzanti.\r\nUna volta bloccati, si avvicina con\r\nagili ed eleganti movimenti.",
+      "de": "Speziell entwickelte Leviathane mit biegsamen\r\nKörpern. Sie können einen eigentümlichen\r\nSchaum absondern, der ihre Feinde in Blasen\r\nhüllt und bewegungsunfähig macht. Wenn sich\r\nihre Beute nicht mehr rühren kann, geben sie\r\nihr mit tanzartigen Bewegungen den Rest.",
+      "es": "Los Mizutsune, leviatanes evolucionados con\r\ncuerpos flexibles y alisados, segregan una\r\npeculiar espuma que cubre a sus enemigos\r\ncon una especie de burbujas inmovilizadoras.\r\nUna vez que la víctima está incapacitada,\r\nse acercan a ella danzando.",
+      "ru": "Мидзуцунэ — уникальным образом\r\nэволюционировавшие левиафаны,\r\nвыделяющие необычную и весьма\r\nопасную пену, пузыри которой\r\nоблепляют врагов со всех сторон,\r\nмешая им двигаться. Когда жертва\r\nобездвижена, монстр грациозно\r\nприближается к ней и атакует.",
+      "pl": "Mizutsune, wyjątkowa ewolucyjna forma\r\nlewiatanów o smukłych, gibkich ciałach.\r\nWydziela osobliwą pianę, która pokrywa\r\nwrogów unieruchamiającymi bąblami.\r\nGdy ofiara jest unieszkodliwiona, zbliża się\r\nku niej żwawym, przypominającym\r\ntaniec krokiem.",
+      "pt-BR": "Leviatãs muito evoluídos, com corpos\r\nesguios e ágeis, os Mizutsune podem\r\nsoltar uma espuma peculiar que cobre\r\ninimigos com bolhas imobilizadoras.\r\nQuando a presa é paralisada, eles se \r\naproximam com movimentos rápidos\r\ne dançantes.",
+      "ko": "독자적인 진화를 이뤘으며 특수한 분비액과\r\n체모를 비벼서 만든 거품을 잘 다룬다.\r\n그 모습 덕에 《포호룡》이라고 불린다.\r\n해룡종임에도 육지에서 민첩하고\r\n유연하게 움직이며, 가벼운 움직임으로\r\n만든 거품으로 사냥감을 휘감아 제압한다.\r\n보고에 의하면 그 모습은 마치 춤 같다고.",
+      "zh-Hant": "經歷獨特的進化，能利用體毛摩擦特殊分泌液來製\r\n造泡沫，並巧妙運用，因此得泡狐龍之名。雖為海\r\n龍種，但在陸地上的行動也相當敏捷靈活，有報告\r\n指出牠會以輕快動作製造出泡沫來纏住獵物，使獵\r\n物無法自由活動，狩獵時的姿態宛如舞蹈。",
+      "zh-Hans": "经历独特的进化，能够利用特殊的分泌液与体毛\r\n摩擦产生泡沫，并巧妙地加以运用。由于这种奇\r\n特的生态特征，得名泡狐龙。尽管属于海龙种，\r\n其在陆地上依然能够迅捷、灵活地移动。通过轻\r\n盈的动作，制造出大量泡沫，使猎物无法自由活\r\n动，其优雅的狩猎姿态宛如舞蹈。",
+      "ar": "وحوش (ليفياثان) رشيقة الجسد\r\nالمتطورة للغاية، (ميزوتسوني)\r\nيمكنها إفراز رغوة غريبة تغطي أعداءها\r\nبفقاعات تعيق حركتهم.\r\nوبمجرد تقييد حركة فريستها\r\nتقترب منها بحركات رشيقة تشبه الرقص.",
+      "es-419": "Leviatanes evolucionados con cuerpos\r\nflexibles y alisados. Estos segregan\r\nuna peculiar espuma que cubre a sus\r\nenemigos con una especie de burbujas\r\ninmovilizadoras. Una vez que la víctima está\r\nincapacitada, se acercan a ella danzando."
+    },
+    "tips": {
+      "ja": "自ら作り出した泡による滑りやすさを利用し\r\n陸上においても敏捷性に優れ、回り込むような\r\n動きや、前脚の爪を利用した急停止などを行う。\r\n一部の攻撃でも用いられる泡には「泡状態」や\r\n回復効果、攻撃力UPなどの様々な効果があり、\r\n加えて怒り時には爆発性の特殊な泡も使用する\r\nため、そうした各種の泡に応じた対処が重要。\r\nなお、ハンターが「泡状態」となった場合には\r\n攻撃を受けた直後の隙が大きくなってしまうが\r\n「消散剤」を使うことでこれを解除できる。",
+      "en": "The foam of a Mizutsune allows it to move\r\nwith incredible agility even on land, but\r\nthat's not all. Different kinds of foam\r\nproduce unique effects, such as inflicting\r\nbubbleblight, healing hunters, or boosting\r\nyour attacks. They can even employ an\r\nexplosive foam when angered. If you are\r\ninflicted with bubbleblight, you'll be left\r\nopen for longer after taking an attack,\r\nso fix yourself up quickly with a cleanser.",
+      "fr": "Grâce à leur mousse, les Mizutsune se déplacent\r\navec agilité même sur terre. Par ailleurs, il existe\r\nplusieurs mousses aux effets différents, qui sont\r\ncapables d'infliger des fléaux-bulles, de soigner\r\nou de renforcer vos attaques. Ils utilisent même\r\nune mousse explosive lorsqu'ils sont en colère.\r\nSi vous êtes victime du fléau-bulles, vous serez\r\nvulnérable plus longtemps après une attaque,\r\nalors utilisez vite un nettoyant.",
+      "it": "La schiuma permette al Mizutsune di\r\nmuoversi con incredibile agilità anche a\r\nterra, ma non solo. Schiume diverse hanno\r\neffetti unici sul cacciatore; infliggono\r\nmalus da bolle, forniscono cure o potenziano\r\ngli attacchi. Se furibondo, secerne\r\nanche una schiuma esplosiva. Se subisci un\r\nmalus da bolle, sarai vulnerabile agli\r\nattacchi più a lungo, quindi liberatene\r\ncon un pulitore.",
+      "de": "Mizutsune können sich mithilfe ihres Schaums\r\nselbst an Land erstaunlich schnell bewegen, aber\r\ndas ist noch nicht alles: Verschiedene Arten von\r\nSchaum haben unterschiedliche Effekte auf\r\nJäger wie Selbstheilung oder verstärkte Angriffe,\r\naber auch Blasenpest. Sind sie wütend, setzen sie\r\nsogar einen explosiven Schaum ein. Vor allem bei\r\nBlasenpest sollte schnellstmöglich zu einem\r\nReiniger gegriffen werden, da sie das Verwund-\r\nbarkeitsfenster nach dem Erleiden von Schaden\r\nverlängert.",
+      "es": "La espuma de un Mizutsune le permite moverse\r\ncon increíble agilidad por tierra, pero eso\r\nno es todo. Los diferentes tipos de espuma\r\nproducen efectos únicos, como infligir plaga\r\nde burbujas, curarse o potenciar sus\r\nataques. Incluso usan una espuma explosiva\r\ncuando están enfurecidos. Si te infligen\r\nplaga de burbujas, serás vulnerable durante\r\nun período más largo tras un ataque, así que\r\ncúrate rápidamente con un limpiador.",
+      "ru": "Пена мидзуцунэ позволяет монстру ловко\r\nпередвигаться даже по земле. Кроме того,\r\nразные виды пены обладают уникальными\r\nсвойствами: накладывают пузырьковую\r\nпорчу, исцеляют вас или усиливают ваши\r\nатаки. Впав в ярость, монстр пускает\r\nвзрывную пену. Под действием пузырьковой\r\nпорчи вы дольше уязвимы после каждого\r\nпропущенного удара, поэтому старайтесь\r\nскорее снять порчу при помощи очистителя.",
+      "pl": "Dzięki pianie Mizutsune porusza się\r\nz niesamowitą zwinnością nawet na lądzie,\r\nale to nie wszystko. Różne rodzaje piany\r\nwywołują unikalne efekty, takie jak\r\nwywołanie bąblowej plagi, leczenie łowców\r\nlub wzmacnianie twoich ataków. Rozwścieczony\r\nużywa nawet wybuchowej piany. Jeśli masz\r\nbąblową plagę, czas wystawienia się na ataki\r\npo byciu zaatakowanym wydłuża się,\r\nwięc szybko użyj czyścidła.",
+      "pt-BR": "A espuma de um Mizutsune permite que\r\nse mova com agilidade até em terra, mas\r\nnão só isso. Diferentes tipos de espuma\r\ncausam efeitos nos caçadores, como\r\nflagelo de bolha, cura ou aumento de\r\npoder nos ataques. Quando irritado,\r\nusa até uma espuma explosiva. Se você\r\nsofrer flagelo de bolha, ficará vulnerável\r\npor mais tempo após um ataque, então\r\nse cure rápido com um Limpador.",
+      "ko": "직접 만든 거품으로 육지에서도 미끄러지듯\r\n민첩히 행동한다. 등 뒤로 돌아가거나\r\n앞다리 발톱을 이용해 급정지한다. 일부\r\n공격에 사용하는 거품에는 거품 상태,\r\n회복 효과, 공격력 UP 등 효과가 있고\r\n분노 상태일 때는 폭발하는 특수 거품도\r\n사용하므로 거품에 잘 대처해야 한다.\r\n또한, '거품 상태'인 헌터는 공격받은\r\n직후에 빈틈이 커지지만\r\n'세정제'로 상태를 해제할 수 있다.",
+      "zh-Hant": "泡狐龍會利用自己製造的泡沫使地面變滑，在地上\r\n也能迅速繞到獵物後背，並利用前腳的爪子急停。\r\n牠在部分攻擊使用的泡沫有各種效果，包括使獵人\r\n陷入泡沫狀態，回復獵人體力和使獵人的攻擊力上\r\n升。此外，泡狐龍憤怒時，還會使用帶爆炸效果的\r\n特殊泡沫，因此狩獵時要懂得各種泡沫採取不同策\r\n略。另外，當獵人陷入泡沫狀態，受攻擊後會露出\r\n較大破綻，但使用消散劑即可解除狀態。",
+      "zh-Hans": "泡狐龙制造的泡沫会使地面变得湿滑，这一特性\r\n赋予它在陆地上超群的敏捷性，使其能够绕到猎\r\n人背后进行攻击，并利用前爪急停。泡狐龙的一\r\n部分攻击会使用泡沫，产生不同效果，包括触发\r\n“泡沫状态”或使猎人回复体力、提升攻击力等。\r\n若猎人陷入泡沫状态，受到攻击时将暴露较大的\r\n破绽，使用消散剂可以解除这一状态。泡狐龙愤\r\n怒时，还会使用带有爆炸效果的特殊泡沫。面对\r\n不同类型的泡沫，猎人需要采取相应的策略。",
+      "ar": "تتيح رغوة وحوش (ميزوتسوني) لها بالتحرك\r\nبمرونة مذهلة حتى على اليابسة ولكن هذا ليس كل\r\nشيء. تنتج أنواع مختلفة من الرغوة تأثيرات\r\nفريدة، مثل إلحاق وباء الفقاعات أو شفاء\r\nنفسها، أو زيادة قوة هجماتها. كما تطلق رغوة\r\nمتفجرة عند الغضب. إذا <LSNR \"أُصبتَ\" \"أُصبتِ\"> بوباء الفقاعات <LSNR \"فستظل\" \"فستظلين\"> عرضة\r\nللهجوم لفترة أطول بعد الهجوم <LSNR \"عليكَ\" \"عليكِ\"> لذلك تجب\r\nمعالجة <LSNR \"نفسكَ\" \"نفسكِ\"> بسرعة باستخدام المنظف.",
+      "es-419": "La espuma de un Mizutsune le permite moverse\r\ncon gran agilidad aun en tierra. Además, sus\r\nburbujas producen una variedad de efectos\r\ncomo obtener autocuración, potenciación de\r\nataques o infligir a los cazadores plaga de\r\nburbujas. Ten cuidado si se enfurece, ya que\r\nusará una espuma explosiva. Si la plaga de\r\nburbujas te afecta, quedarás vulnerable por\r\nmás tiempo tras recibir ataques, por lo es\r\nmejor usar rápido un limpiador."
+    },
+    "variants": [
+      {
+        "kind": "tempered",
+        "names": {
+          "ja": "タマミツネ（歴戦の個体）",
+          "en": "Tempered Mizutsune",
+          "fr": "Mizutsune alpha",
+          "it": "Mizutsune temprato",
+          "de": "Gehärteter Mizutsune",
+          "es": "Mizutsune curtido",
+          "ru": "Закалённый мидзуцунэ",
+          "pl": "Zahartowany Mizutsune",
+          "pt-BR": "Mizutsune Aguerrido",
+          "ko": "타마미츠네(역전의 개체)",
+          "zh-Hant": "泡狐龍（歷戰個體）",
+          "zh-Hans": "泡狐龙（历战个体）",
+          "ar": "ميزوتسوني الغاضب ",
+          "es-419": "Mizutsune curtido"
+        }
+      }
+    ],
+    "size": {
+      "base": 1923.434,
+      "mini": 1731.0906,
+      "mini_multiplier": 0.9,
+      "silver": 2211.949,
+      "silver_multiplier": 1.15,
+      "gold": 2365.8237,
+      "gold_multiplier": 1.23
+    },
+    "base_health": 5500,
+    "locations": [
+      -859829056,
+      327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
+    "rewards": [
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 655,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 702,
+        "amount": 1,
+        "chance": 85
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 703,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 720,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 721,
+        "amount": 1,
+        "chance": 60
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "tail",
+        "item_id": 722,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-nail",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-nail",
+        "item_id": 723,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head-first",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "dorsal-fin",
+        "item_id": 724,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 726,
+        "amount": 1,
+        "chance": 94
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 727,
+        "amount": 1,
+        "chance": 16
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 727,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 727,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 727,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 727,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 3
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 6
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 7
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 728,
+        "amount": 1,
+        "chance": 100
+      }
+    ],
+    "breakable_parts": [
+      {
+        "part": "head-first",
+        "names": {
+          "ja": "頭(一段階目)",
+          "en": "Head I",
+          "fr": "Tête I",
+          "it": "Testa I",
+          "de": "Kopf (St. I)",
+          "es": "Cabeza I",
+          "ru": "Голова I",
+          "pl": "Głowa I",
+          "pt-BR": "Cabeça I",
+          "ko": "머리(1단계째)",
+          "zh-Hant": "頭部（第一階段）",
+          "zh-Hans": "头部（第一阶段）",
+          "ar": "رأس 1",
+          "es-419": "Cabeza I"
+        }
+      },
+      {
+        "part": "head-second",
+        "names": {
+          "ja": "頭(二段階目)",
+          "en": "Head II",
+          "fr": "Tête II",
+          "it": "Testa II",
+          "de": "Kopf (St. II)",
+          "es": "Cabeza II",
+          "ru": "Голова II",
+          "pl": "Głowa II",
+          "pt-BR": "Cabeça II",
+          "ko": "머리(2단계째)",
+          "zh-Hant": "頭部（第二階段）",
+          "zh-Hans": "头部（第二阶段）",
+          "ar": "رأس 2",
+          "es-419": "Cabeza II"
+        }
+      },
+      {
+        "part": "dorsal-fin",
+        "names": {
+          "ja": "背ビレ",
+          "en": "Dorsal Fin",
+          "fr": "Nageoire dorsale",
+          "it": "Pinna dorsale",
+          "de": "Rückenflosse",
+          "es": "Aleta dorsal",
+          "ru": "Спинной плавник",
+          "pl": "Płetwa grzbietowa",
+          "pt-BR": "Barbatana Dorsal",
+          "ko": "등지느러미",
+          "zh-Hant": "背鰭",
+          "zh-Hans": "背鳍",
+          "ar": "زعنفة شوكة ظهرية",
+          "es-419": "Aleta dorsal"
+        }
+      },
+      {
+        "part": "left-nail",
+        "names": {
+          "ja": "左爪",
+          "en": "Left Claw",
+          "fr": "Griffe gauche",
+          "it": "Artiglio sinistro",
+          "de": "Linke Klaue",
+          "es": "Garra izquierda",
+          "ru": "Коготь левой лапы",
+          "pl": "Lewy pazur",
+          "pt-BR": "Garra Esquerda",
+          "ko": "왼쪽 발톱",
+          "zh-Hant": "左爪",
+          "zh-Hans": "左爪",
+          "ar": "مخلب أيسر",
+          "es-419": "Garra izquierda"
+        }
+      },
+      {
+        "part": "right-nail",
+        "names": {
+          "ja": "右爪",
+          "en": "Right Claw",
+          "fr": "Griffe droite",
+          "it": "Artiglio destro",
+          "de": "Rechte Klaue",
+          "es": "Garra derecha",
+          "ru": "Коготь правой лапы",
+          "pl": "Prawy pazur",
+          "pt-BR": "Garra Direita",
+          "ko": "오른쪽 발톱",
+          "zh-Hant": "右爪",
+          "zh-Hans": "右爪",
+          "ar": "مخلب أيمن",
+          "es-419": "Garra derecha"
+        }
+      },
+      {
+        "part": "tail",
+        "names": {
+          "ja": "尻尾",
+          "en": "Tail",
+          "fr": "Queue",
+          "it": "Coda",
+          "de": "Schwanz",
+          "es": "Cola",
+          "ru": "Хвост",
+          "pl": "Ogon",
+          "pt-BR": "Cauda",
+          "ko": "꼬리",
+          "zh-Hant": "尾巴",
+          "zh-Hans": "尾巴",
+          "ar": "ذيل",
+          "es-419": "Cola"
         }
       }
     ]
@@ -8447,7 +9353,7 @@
       "en": "Hirabami can remain aloft as they maneuver\r\nskillfully between the ground and the sky.\r\nYou'll need to watch out for those tail\r\nclaws, but handle an attack well to turn it\r\ninto a counterstrike opportunity. Destroying\r\nthe membrane on their necks will lower their\r\nguards while aloft. Furthermore, you can\r\ntarget the membrane wound to knock them out\r\nof the air, making this a prime target.",
       "fr": "Un Hirabami peut rester dans les airs\r\nen se déplaçant habilement entre le sol\r\net le ciel. Il faut se méfier de sa queue\r\ngriffue et réussir à faire de ses attaques\r\ndes opportunités de contre-attaque.\r\nDétruire la membrane sur son cou le pousse\r\nà baisser sa garde lorsqu'il plane, et viser\r\nune blessure sur cette membrane fera\r\ntomber le Hirabami au sol.",
       "it": "Gli Hirabami possono volare mentre\r\nsi spostano abilmente tra la terra e il\r\ncielo. Dovrai fare attenzione agli artigli\r\ndella coda, ma se gestisci bene l'attacco\r\npuoi effettuare un contrattacco. Distruggi\r\nla membrana sul collo per fargli abbassare\r\nla guardia in aria. Inoltre, puoi prendere\r\ndi mira la ferita sulla membrana per\r\nabbatterlo.",
-      "de": "Der Hirabami hält sich geschickt in der Schwebe,\r\nwährend er zwischen Luft und Boden manövriert.\r\nDie Schweifkrallen sind gefährlich, vorausschau-\r\nendes Agieren ermöglicht jedoch Gegenangriffe.\r\nWird die Membran am Hals zerstört, wird er in der\r\nLuft verwundbar. Angriffe auf die Membranwunde\r\nzwingen ihn zur Landung und machen ihn so zu\r\neinem leichten Ziel.",
+      "de": "Der Hirabami hält sich geschickt in der Schwebe,\r\nwährend er zwischen Luft und Boden manövriert.\r\nDie Schweifkrallen sind gefährlich, vorausschau-\r\nendes Agieren ermöglicht jedoch Gegenangriffe.\r\nWird die Membran am Hals zerstört, wird er in\r\nder Luft verwundbar. Angriffe auf die Membran-\r\nwunde zwingen ihn zur Landung und machen\r\nihn so zu einem leichten Ziel.",
       "es": "Los Hirabami pueden quedarse en vuelo\r\nmaniobrando hábilmente entre el suelo\r\ny el cielo. Vigila las garras de la cola:\r\nsi actúas bien ante un ataque, podrás\r\ncontraatacar. Destruye la membrana de\r\nsu cuello y bajará la guardia mientras\r\nvuela. Además, puedes apuntar a la\r\nherida de la membrana para hacerlo caer.\r\nHaz de ello tu objetivo principal.",
       "ru": "Хирабами умеют передвигаться как по земле,\r\nтак и по воздуху. Берегитесь похожих на\r\nжвала когтей на их хвостах, но помните, что\r\nпосле удара хвостом хирабами уязвим для\r\nконтратаки. Если разорвать перепонку на шее\r\nмонстра, он не сможет эффективно вам\r\nпротивостоять во время парения. Продолжая\r\nбить по повреждённой перепонке, можно\r\nвынудить хирабами спуститься.",
       "pl": "Hirabami potrafi utrzymywać się w powietrzu,\r\nmanewrując zręcznie między ziemią a niebem.\r\nStrzeż się pazurów na ogonie, ale poprowadź\r\natak sprytnie, by wykorzystać możliwość\r\nkontrataku. Zniszczenie błony na jego szyi\r\nspowoduje, że w powietrzu obniży gardę.\r\nMożesz także celować w ranę w błonie,\r\nby go strącić, co sprawia, że jest to\r\nnajważniejszy cel.",
@@ -8706,7 +9612,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "tail",
+        "part": "tail-third",
         "item_id": 356,
         "amount": 1,
         "chance": 100
@@ -8714,7 +9620,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "tail",
+        "part": "tail-fifth",
         "item_id": 356,
         "amount": 1,
         "chance": 100
@@ -8870,7 +9776,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "tail",
+        "part": "tail-third",
         "item_id": 361,
         "amount": 1,
         "chance": 100
@@ -8878,7 +9784,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "tail",
+        "part": "tail-fifth",
         "item_id": 361,
         "amount": 1,
         "chance": 100
@@ -8968,41 +9874,41 @@
         }
       },
       {
-        "part": "tail",
+        "part": "tail-third",
         "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
+          "ja": "尻尾(三段階目)",
+          "en": "Tail III",
+          "fr": "Queue III",
+          "it": "Coda III",
+          "de": "Schwanz (St. III)",
+          "es": "Cola III",
+          "ru": "Хвост III",
+          "pl": "Ogon III",
+          "pt-BR": "Cauda III",
+          "ko": "꼬리(3단계째)",
+          "zh-Hant": "尾巴（第三階段）",
+          "zh-Hans": "尾巴（第三阶段）",
+          "ar": "ذيل 3",
+          "es-419": "Cola III"
         }
       },
       {
-        "part": "tail",
+        "part": "tail-fifth",
         "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
+          "ja": "尻尾(五段階目)",
+          "en": "Tail V",
+          "fr": "Queue V",
+          "it": "Coda V",
+          "de": "Schwanz (St. V)",
+          "es": "Cola V",
+          "ru": "Хвост V",
+          "pl": "Ogon V",
+          "pt-BR": "Cauda V",
+          "ko": "꼬리(5단계째)",
+          "zh-Hant": "尾巴（第五階段）",
+          "zh-Hans": "尾巴（第五阶段）",
+          "ar": "ذيل 5",
+          "es-419": "Cola V"
         }
       }
     ]
@@ -10350,7 +11256,7 @@
       "es": "Cuanta más energía absorbe este monstruo,\r\nmás feroces son sus ataques. Con los tanques\r\nde energía llenos, sus afilados cadenáculos se\r\ndespliegan para llegar más lejos. A su vez,\r\ndado que sus alas tienen órganos que\r\nabsorben energía, es posible derramarla\r\nconcentrando tus ataques sobre ellos.\r\nLos ataques elementales continuos\r\nsobrecargan los órganos, lo que devuelve\r\nal monstruo a su estado normal.",
       "ru": "Чем больше энергии поглощает этот монстр,\r\nтем свирепее становятся его атаки. Накопив\r\nдостаточно энергии, он разворачивает цепные\r\nклинки и начинает наносить удары в ещё\r\nбольшем радиусе. Поглощающие энергию\r\nорганы находятся в крыльях монстра,\r\nпоэтому, сосредоточив атаки на них, можно\r\nвызвать утечку этой энергии. А непрерывные\r\nатаки со стихийным эффектом приведут к\r\nперегрузке энергетических органов, что\r\nвынудит монстра вернуться в обычное\r\nсостояние.",
       "pl": "Im więcej energii pochłonie ten potwór, tym\r\nbardziej zaciekłe staną się jego ataki. Gdy\r\nnapełni swoje zbiorniki energii, jego ostrza\r\nłańcuchowe zaczną atakować w jeszcze\r\nwiększym zakresie. W jego skrzydłach są\r\norgany pochłaniające energię, więc łowca\r\nmoże spowodować wyciek energii, skupiając\r\nna nich ataki. Ciągły atak żywiołami ostatecznie\r\nprzeciąży organy, zmuszając potwora\r\ndo wyjścia z jego wzmocnionego stanu.",
-      "pt-BR": "Quanto mais energia este monstro absorve, mais\r\nferozes são seus ataques. Quando eles enchem seus\r\ntanques de energia, suas correlâminas cobrem\r\numa área ainda maior. Por outro lado, como suas\r\nasas possuem órgãos que absorvem energia,\r\ncaçadores podem focar seus ataques nelas e causar\r\num vazamento de energia. Atacá-los repetidamente\r\ncom golpes elementais pode sobrecarregar os órgãos\r\ne retirar o monstro do seu estado aprimorado.",
+      "pt-BR": "Quanto mais energia este monstro absorve,\r\nmais ferozes são seus ataques. Quando eles\r\nenchem seus tanques de energia, as suas\r\ncorrelâminas cobrem uma área ainda maior.\r\nPor outro lado, como suas asas possuem órgãos\r\nque absorvem energia, caçadores podem focar\r\nseus ataques nelas e causar um vazamento de\r\nenergia. Atacá-los repetidamente com golpes\r\nelementais pode sobrecarregar os órgãos e\r\nretirar o monstro do seu estado aprimorado.",
       "ko": "에너지를 흡수할수록 모든 공격이 더\r\n격렬해지는 성질을 가졌다. 또 에너지가\r\n풍부한 상태에서는 사슬날이 좌우로\r\n갈라지듯 펼쳐져 더 넓은 범위를 공격할\r\n수 있다. 한편, 흡수 기관이기도 한\r\n날개의 날에 공격을 집중하면 에너지가\r\n새어 나오기도 한다. 이 점을 이용해\r\n속성 공격을 퍼부어 속성 에너지를 넘치게\r\n하면 강화 상태를 해제할 수도 있다.",
       "zh-Hant": "鎖刃龍吸收的能量越多，各種攻擊會變得越猛烈。\r\n能量充裕時，鎖刃會朝左右展開，擴大攻擊範圍。\r\n另外，只要把攻擊集中在會吸收能量的鎖刃，有時\r\n候能造成能量洩漏。只要利用這一特點不斷施加屬\r\n性攻擊，使屬性能量溢出，也許就能解除牠的強化\r\n狀態。",
       "zh-Hans": "锁刃龙吸收的能量越多，攻击也会变得更加凶猛。\r\n能量充沛时，它的锁刃会左右展开，攻击范围随\r\n之扩大。然而，它翅膀上的刀刃也用于吸收能量，\r\n只要集中攻击，就可能导致能量外泄。利用这一\r\n点，不断施加属性攻击，使属性能量溢出，就有\r\n机会解除它的强化状态。",
@@ -10850,11 +11756,11 @@
       "en": "Characteristic by their highly developed\r\ncarapaces, Ajarakan wrap themselves in\r\nmolten metal that they rub together to heat\r\nup and create explosions. Presumably due\r\nto the friction of the metal, they can reach\r\nhigh enough temperatures to melt even the\r\nground or bullets. They can also use their\r\nstrong limbs to grip onto the ceiling and\r\nmove around freely, so a hunter must watch\r\nout from every angle, including above.",
       "fr": "Caractérisé par sa carapace très développée,\r\nl'Ajarakan s'enrobe dans du métal en fusion qu'il\r\nfrotte pour le chauffer et créer des explosions.\r\nEn raison de la friction du métal, il peut atteindre\r\ndes températures assez hautes pour faire fondre\r\nle sol ou les balles.\r\nIl peut aussi utiliser ses membres puissants pour\r\ns'accrocher au plafond et se déplacer librement.\r\nSoyez donc sur vos gardes, l'Ajarakan peut surgir\r\nde n'importe où... même d'en haut.",
       "it": "Gli Ajarakan si distinguono per un carapace\r\nben sviluppato, ricoperto di metallo fuso\r\nche sfregano per riscaldarsi e generare\r\nesplosioni. Grazie alla frizione, possono\r\nraggiungere temperature tali da fondere\r\nil terreno e i proiettili. Inoltre, le robuste\r\nzampe anteriori permettono loro di\r\nmuoversi con agilità sui soffitti, quindi\r\nè fondamentale tenere d'occhio ogni\r\nangolazione.",
-      "de": "Reißzahn-Bestien mit typischer Panzerung,\r\ndie ihren ganzen Rücken bedeckt. Indem sie\r\nsich in geschmolzenes Metall hüllen und es\r\naneinander reiben, können sie genügend Hitze\r\nerzeugen, um Explosionen auszulösen. Sie\r\nerreichen dabei Temperaturen, die den Boden und\r\nGeschosse zum Schmelzen bringen können.\r\nMit ihren hochentwickelten Vorderbeinen\r\nkönnen sie an der Decke laufen; man sollte\r\nalso immer auf Angriffe von oben achten.",
+      "de": "Reißzahn-Bestien, deren ganzer Rücken von\r\neinem hochentwickelten Panzer bedeckt ist.\r\nIndem sie sich in geschmolzenes Metall hüllen\r\nund es aneinanderreiben, können sie genügend\r\nHitze erzeugen, um Explosionen auszulösen. Sie\r\nerreichen dabei Temperaturen, die den Boden\r\nund Geschosse zum Schmelzen bringen können.\r\nMit ihren starken Vorderbeinen können sie an\r\nder Decke laufen; Jäger sollten also stets auf\r\nAngriffe von oben achten.",
       "es": "Bestias de colmillos con una coraza\r\ninconfundible que protege por completo su\r\nlomo. Adhieren metal fundido a sus cuerpos y\r\na continuación se frotan para generar calor\r\nsuficiente para provocar explosiones e\r\nincluso fundir el suelo y los proyectiles.\r\nAdemás, sus extremidades anteriores les\r\npermiten desplazarse por el techo, así que\r\nnunca hay que perder de vista las alturas.",
       "ru": "Клыкастые звери, спина которых защищена\r\nхарактерным панцирем. Покрывают тело\r\nрасплавленным металлом, а затем\r\nразогревают этот металл посредством\r\nтрения. Выделяемый жар провоцирует\r\nвзрывы. Он настолько силён, что от него\r\nплавится земля и даже подлетающие\r\nснаряды. С помощью развитых передних\r\nконечностей ажараканы ловко перемещаются\r\nпо сводам пещер, поэтому охотникам следует\r\nопасаться атаки сверху.",
       "pl": "Charakteryzujący się wysoko rozwiniętym\r\npancerzem, Ajarakan owija się w roztopiony\r\nmetal i pociera nim generując dość ciepła,\r\nby wywołać eksplozję oraz osiągać\r\ntemperatury na tyle wysokie, by topić\r\nziemię i pociski. Jego rozwinięte kończyny\r\nprzednie pozwalają mu poruszać się po suficie,\r\nwięc łowca musi mieć się na baczności\r\ni uważać na ataki z każdej strony,\r\nw tym z góry.",
-      "pt-BR": "Ajarakan, conhecidos por suas carapaças bem\r\ndesenvolvidas, se envolvem em metal derretido,\r\nesfregando-o para aquecer e criar explosões.\r\nGraças à fricção, conseguem atingir temperaturas\r\nelevadas que podem derreter o chão e até munição.\r\nTambém usam seus membros fortes para se agarrar\r\nao teto e se movimentar livremente, por isso\r\ncaçadores devem ficar atentos a todos os ângulos,\r\ninclusive de cima.",
+      "pt-BR": "Ajarakan, conhecidos por suas carapaças\r\nbem desenvolvidas, se envolvem em metal\r\nderretido, esfregando-o para aquecer e criar\r\nexplosões. Graças à fricção, conseguem\r\natingir temperaturas elevadas que podem\r\nderreter o chão e até munição. Também\r\nusam seus membros fortes para se agarrar\r\nao teto e se movimentar livremente,\r\npor isso caçadores devem ficar atentos\r\na todos os ângulos, inclusive de cima.",
       "ko": "등을 뒤덮듯 발달한 갑각이 특징인\r\n《혁원수》. 녹은 금속을 몸에 붙이고\r\n계속 비벼서 자신에게 열을 축적해\r\n폭발을 일으킨다. 고온 상태에서는\r\n접촉한 지면이나 탄알조차 녹일 정도이며,\r\n그만한 열을 축적할 수 있는 원인은\r\n금속 간의 마찰로 추측된다.\r\n발달한 팔로 천장에 매달려 자유롭게\r\n움직일 수 있어서 위쪽도 경계해야 한다.",
       "zh-Hant": "赫猿獸的特徵是包覆著背部的發達甲殼。牠會將熔\r\n化的金屬附著在身上，再不斷磨擦來蓄積熱量並引\r\n發爆炸。牠的身體處於高溫狀態時，甚至可以融化\r\n接觸到的地面和子彈。根據推測，這種高溫可能由\r\n金屬摩擦引起。牠們手臂發達，可以在高處攀爬，\r\n因此狩獵時也需注意上方。",
       "zh-Hans": "赫猿兽的特征是其背部覆盖着发达的甲壳。它会\r\n将融化的金属附着在体表，通过连续摩擦积蓄热\r\n能，引发爆炸。在高温状态下，甚至能够熔化地\r\n面和子弹。据推测，正是赫猿兽甲壳上的金属成\r\n分，才使其能在摩擦时积蓄如此之高的热能。其\r\n手臂也极为强壮，能够攀附高处进行立体式移动，\r\n因此在狩猎时务必警惕上方。",
@@ -11497,7 +12403,7 @@
       "ko": "머리에 달린 볏이 특징인 몬스터.\r\n볏을 맞부딪쳐 강력한 섬광을 발산해\r\n적을 눈 부시게 한다. 고무 질감 비슷한\r\n피부는 신축성이 있어 타격에 강하고\r\n마비덫에 대한 내성도 있다.\r\n독성을 지닌 오물을 주위에 내뿜기 때문에\r\n오물이 흐르기 쉬운 천장이나 경사면에서는\r\n특히 조심히 움직여야 한다.",
       "zh-Hant": "毒怪鳥的特徵是頭冠。牠們會敲打頭冠發出閃光，\r\n剝奪外敵的視野。另外，牠們的皮膚伸縮性強，質\r\n感類似橡膠，能對抗打擊，對麻痺陷阱也具抗性。\r\n牠們會向四周吐出有毒污物，污物附在高處或傾斜\r\n面等容易流動的地形時，就要注意立足點。",
       "zh-Hans": "毒怪鸟拥有独特的头冠，它们会敲击头冠释放闪\r\n光，使外敌短暂目眩。其皮肤如橡胶般富有弹性，\r\n耐打击性强，并且对麻痹陷阱有一定的耐性。此\r\n外，毒怪鸟还会向四周喷吐有毒污物。污物附着\r\n在高处或斜坡等易流动的地方时，需格外注意走\r\n位。",
-      "ar": "الـ وايفرن يمكنها صعق الأعداء من خلال\r\nضرب أعرافها البارزة لإنتاج ومضات ضوئية\r\nقوية. يقاوم جلدها المطاطي القابل للتمدد الضربات\r\nغير الحادة ويقلل من فاعلية فخاخ الصدمة.\r\n<LSNR \"يعرف الصياد الذكي\" \"تعرف الصيادة الذكية\"> كيفية المناورة بحذر حول\r\nالقذارة السامة التي ينفثونها، والتي يمكنها أن\r\nتتساقط من الأسقف أو تتدفق إلى أسفل المنحدرات.",
+      "ar": "الـ وايفرن يمكنها صعق الأعداء من خلال\r\nضرب أعرافها البارزة لإنتاج ومضات ضوئية\r\nقوية. يقاوم جلدها المطاطي القابل للتمدد الضربات\r\nالخشنة ويقلل من فاعلية فخاخ الصدمة.\r\n<LSNR \"يعرف الصياد الذكي\" \"تعرف الصيادة الذكية\"> كيفية المناورة بحذر حول\r\nالقذارة السامة التي ينفثونها، والتي يمكنها أن\r\nتتساقط من الأسقف أو تتدفق إلى أسفل المنحدرات.",
       "es-419": "Wyverns que aturden a sus enemigos mediante\r\ndestellos luminosos generados al golpear\r\nsus prominentes crestas. Su elástica y gomosa\r\npiel resiste impactos contundentes y reduce\r\nla efectividad de las trampas eléctricas.\r\nUn cazador inteligente sabe cómo evadir\r\nsu saliva venenosa, que puede gotear desde\r\nlos techos o bajar por las pendientes."
     },
     "tips": {
@@ -11770,7 +12676,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-second",
         "item_id": 531,
         "amount": 1,
         "chance": 70
@@ -11778,7 +12684,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-second",
         "item_id": 531,
         "amount": 1,
         "chance": 70
@@ -11933,7 +12839,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-second",
         "item_id": 579,
         "amount": 1,
         "chance": 30
@@ -11941,7 +12847,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-second",
         "item_id": 579,
         "amount": 1,
         "chance": 30
@@ -12012,22 +12918,22 @@
     ],
     "breakable_parts": [
       {
-        "part": "head",
+        "part": "head-second",
         "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
+          "ja": "頭(二段階目)",
+          "en": "Head II",
+          "fr": "Tête II",
+          "it": "Testa II",
+          "de": "Kopf (St. II)",
+          "es": "Cabeza II",
+          "ru": "Голова II",
+          "pl": "Głowa II",
+          "pt-BR": "Cabeça II",
+          "ko": "머리(2단계째)",
+          "zh-Hant": "頭部（第二階段）",
+          "zh-Hans": "头部（第二阶段）",
+          "ar": "رأس 2",
+          "es-419": "Cabeza II"
         }
       }
     ]
@@ -12056,7 +12962,7 @@
       "en": "Cephalopods that roam the Ruins of Wyveria and\r\nprey on Guardians. This often leads to conflicts\r\nbetween the two monsters.",
       "fr": "Céphalopode errant dans les Ruines de Wyveria\r\net qui s'attaque aux Gardiens. Cela conduit\r\nsouvent à des conflits entre les deux monstres.",
       "it": "I cefalopodi vagano per le Rovine di Wyveria\r\ne cacciano i guardiani. Per questo motivo,\r\ni due mostri sono spesso in conflitto.",
-      "de": "Cephalopoden, die in den Ruinen von Wyveria\r\nleben und Wächter fressen, wodurch es oft zu\r\nKämpfen zwischen Monstern und Wächtern kommt.",
+      "de": "Cephalopoden, die in den Ruinen von Wyveria\r\nleben und Wächter fressen, wodurch es oft zu\r\nKämpfen zwischen ihnen und Wächtern kommt.",
       "es": "Cefalópodos que deambulan por las Ruinas de\r\nWyveria atacando a los Guardianes. Esto suele dar\r\nlugar a enfrentamientos entre los monstruos.",
       "ru": "Головоногие монстры, обитающие в руинах\r\nВиверии. Охотятся на стражей и часто\r\nвступают с ними в стычки.",
       "pl": "Cefalopody, które wędrują po Ruinach Wiwierii\r\ni polują na Strażników. Często prowadzi to\r\ndo konfliktów między tymi dwoma gatunkami.",
@@ -13504,7 +14410,7 @@
       "es": "Leviatán que ejerce su supremacía en el\r\necosistema del Bosque Escarlata. Se ha adaptado\r\na entornos con mucha agua y suele aparecer\r\ndurante el aguacero. Al combinarse con agua,\r\nlas secreciones del Uth Duna forman un velo\r\nprotector que no solo absorbe los golpes, sino\r\nque le añade peso. El monstruo lo usa para\r\ngolpear con tanta fuerza que puede erradicar\r\nlas amenazas con la onda resultante.",
       "ru": "Исполинский левиафан из Багряного леса.\r\nУт дуна приспособлен к жизни в водной\r\nсреде и чаще всего показывается во время\r\nпроливных дождей. Выделения ут дуны\r\nпри смешивании с водой образуют защитную\r\nоболочку, которая не только поглощает удары,\r\nно и добавляет монстру тяжести. Ударяясь\r\nоб землю, ут дуна поднимает мощную волну,\r\nкоторая сметает оказавшихся рядом врагов.",
       "pl": "Lewiatan królujący nad ekosystemem\r\nSzkarłatnego Lasu. Przystosował się do\r\nśrodowisk bogatych w wodę i najczęściej\r\nmożna go spotkać podczas ulewy. Wydzieliny\r\nUth Duny w połączeniu z wodą tworzą\r\nochronną zasłonę, która nie tylko pochłania\r\nwrogie ciosy, ale także dodaje masy, którą\r\nuderza z wystarczającą siłą, aby zmieść\r\notaczające zagrożenia w powstałej fali.",
-      "pt-BR": "O leviatã que reina supremo sobre o ecossistema\r\nda Floresta Escarlate. Adaptado a ambientes\r\nricos em água, costuma ser mais avistado durante\r\no Temporal. As secreções do Uth Duna, quando\r\ncombinadas com água, formam um véu protetor que\r\nnão apenas absorve golpes inimigos, mas também\r\nadiciona peso, o qual ele choca contra o chão\r\ncom força suficiente para gerar uma onda capaz\r\nde eliminar ameaças em seu entorno.",
+      "pt-BR": "O leviatã que reina sobre o ecossistema\r\nda Floresta Escarlate. Adaptado a ambientes\r\nricos em água, costuma ser mais avistado\r\ndurante o Temporal. As secreções do Uth\r\nDuna, quando combinadas com água,\r\nformam um véu protetor que não apenas\r\nabsorve golpes inimigos, mas também adiciona\r\npeso, o qual ele choca contra o chão com\r\nforça suficiente para gerar uma onda capaz\r\nde eliminar ameaças em seu entorno.",
       "ko": "주홍빛 숲 생태계의 정점에 선 해룡종.\r\n풍부한 물에 적응하였으며 집중 호우 때\r\n자주 목격된다. 몸에서 분비되는 성분과\r\n물을 섞어 만든 베일로 몸을 덮는다.\r\n그 베일은 적의 공격을 흡수하고 본체를\r\n보호할 뿐만 아니라 중량을 늘려 묵직한\r\n일격을 날릴 수 있게 하며 파도를 일으켜\r\n주위를 휩쓸어 버린다.",
       "zh-Hant": "君臨緋紅森林生態系頂點的海龍種。已適應水源豐\r\n富的生態，目擊情報多出現在集中暴雨期間。身體\r\n分泌的物質會與水混合，形成膜狀結構覆蓋身體。\r\n液膜不僅能吸收外敵的攻擊保護本體，還能增加重\r\n量，助其使出重擊，以此引發波浪將周圍的東西沖\r\n走。",
       "zh-Hans": "君临绯红森林生态系统顶点的海龙种。已完全适\r\n应了水源丰富的环境，通常在局部暴雨期间被目\r\n击到。其身体分泌物与水混合后形成纱状结构，\r\n覆盖在体表。这层液纱不仅能吸收外敌的攻击，\r\n保护其本体，还能增加自身体重，助其发动强力\r\n重击，并引发波浪，将周围的敌人一并冲走。",
@@ -14228,7 +15134,7 @@
       "es": "Un leviatán que está en la cima del ecosistema\r\nde los Acantilados del Témpano. Mantiene toda\r\nsu envergadura a baja temperatura a través de\r\nlas crestas refrigerantes de su cuerpo. La\r\nescarcha de sus patas funciona como arma\r\npoderosa y método para desplazarse por muros\r\ny rocas flotantes.",
       "ru": "Исполинский левиафан с Ледяных утёсов.\r\nВ своём регионе находится на вершине\r\nпищевой цепи. Может резко охлаждать\r\nвоздух вокруг себя при помощи гребней,\r\nрастущих по всему телу. Использует лапы,\r\nчтобы замораживать добычу, а также\r\nлазать по стенам и висящим в воздухе\r\nкамням.",
       "pl": "Lewiatan, który znajduje się na szczycie\r\nekosystemu Lodowcowych Klifów. Otacza\r\nswoje potężne ciało zimnym powietrzem\r\nwytwarzanym za pomocą wypustek chłodzących\r\nna całej powierzchni ciała. Mróz wytwarzany\r\nprzez jego kończyny pełni podwójną rolę:\r\npotężnej broni oraz środka umożliwiającego\r\nporuszanie się po ścianach i unoszących\r\nsię skałach.",
-      "pt-BR": "Leviatã do topo do ecossistema das Escarpas\r\nFrígidas. Diminui sua temperatura através\r\nde órgãos resfriadores em forma de cristas\r\nespalhadas por todo seu enorme corpo. O gelo\r\nproduzido por seus membros não só serve como\r\numa arma potente, mas também como uma forma\r\nde se mover por paredes e rochas flutuantes.",
+      "pt-BR": "Leviatã do topo do ecossistema das Escarpas\r\nFrígidas. Diminui sua temperatura através\r\nde órgãos resfriadores em forma de cristas\r\nespalhadas por todo seu enorme corpo.\r\nO gelo produzido por seus membros não só\r\nserve como uma arma potente, mas também\r\ncomo uma forma de se mover por paredes e\r\nrochas flutuantes.",
       "ko": "빙무의 절벽, 생태계의 정점에 군림하는\r\n해룡종. 거대한 몸집에 초저온을 두르고\r\n이동하는 모습에서 《동봉룡》이라고도\r\n불린다. 그 초저온은 각 부위에 있는\r\n냉각 기관에서 만들어내며, 손발에\r\n발생시킨 서리는 벽이나 부유암을\r\n이동하거나 강력한 공격을 할 때도\r\n사용된다.",
       "zh-Hant": "君臨冰霧斷崖生態系頂點的海龍種。以超低溫的巨\r\n大身軀行走，因此得名為凍峰龍。其超低溫來自身\r\n體各部位的冷卻器官，除了能用於透過手腳產生冰\r\n霜，在牆上或飄浮岩石上移動，也能用來發動猛烈\r\n的攻擊。",
       "zh-Hans": "君临冰雾断崖生态系统顶点的海龙种。以在超低\r\n温中缓缓移动的巨大身躯著称，因此得名冻峰龙。\r\n其利用全身各处的冷却器官制造超低温，这不仅\r\n能使其四肢凝结冰霜，在陡峭的山壁和漂浮的岩\r\n石上自如移动，还成为其发动猛烈攻击的利器。",
@@ -14240,7 +15146,7 @@
       "en": "Every part of Jin Dahaad's massive\r\nbody is capable of powerful freezing\r\nattacks. Diminish their offensive\r\ncapabilities by attacking the ridges\r\nthat they use for cooling. The largest\r\nridges on their back are particularly\r\npowerful and should be destroyed, but\r\nthe hide there is very tough unless\r\nthe other ridges are dealt with first.",
       "fr": "Chaque partie de l'énorme corps du Jin Dahaad\r\nest capable d'effectuer de puissantes attaques\r\nde glace. Il est possible de réduire ses capacités\r\noffensives en attaquant directement ses crêtes\r\nde refroidissement. Les grandes crêtes sur son\r\ndos sont les plus redoutables. Elles doivent être\r\ndétruites au plus vite, mais pour pouvoir percer\r\nleur peau résistante, il faut d'abord s'occuper\r\ndes autres crêtes.",
       "it": "Ogni parte dell'enorme corpo del Jin Dahaad\r\nè capace di potenti attacchi raggelanti.\r\nRiduci le loro capacità offensive attaccando\r\nle creste che usano per raffreddare. Le\r\ngrandi creste che hanno sulla schiena\r\nsono molto potenti e andrebbero\r\ndistrutte, ma la pelle in quel punto\r\nè molto dura, a meno che tu non\r\ndistrugga prima le altre creste.",
-      "de": "Jeder Körperteil dieses gewaltigen Monsters kann\r\nmächtige Eisangriffe entfesseln. Angriffe auf die\r\nKämme, mit denen er sich kühlt, verringern seine\r\nAngriffskraft.\r\nDer große Rückenkamm ist besonders gefährlich\r\nund bietet ein vielversprechendes Ziel für Angriffe,\r\nallerdings ist er auch sehr robust, solange die\r\nanderen Kämme noch intakt sind.",
+      "de": "Jeder Körperteil dieses gewaltigen Monsters kann\r\nmächtige Eisangriffe entfesseln. Angriffe auf die\r\nKämme, mit denen er sich kühlt, verringern seine\r\nAngriffskraft.\r\nDer große Rückenkamm ist besonders gefährlich\r\nund bietet ein vielversprechendes Ziel, allerdings\r\nist er auch sehr robust, solange die anderen\r\nKämme noch intakt sind.",
       "es": "Cada parte del gigantesco cuerpo del Jin\r\nDahaad puede lanzar potentes ataques\r\ncongelantes. Reduce su capacidad ofensiva\r\natacando las crestas que usa para congelar.\r\nDebes destruir las crestas más grandes de su\r\nlomo, ya que son especialmente poderosas,\r\npero la piel que las protege es durísima si\r\nno destruyes primero las otras crestas.",
       "ru": "Джин дахаад умеет замораживать добычу\r\nлюбой частью своего исполинского тела.\r\nЕго можно ослабить, сломав охлаждающие\r\nгребни. Мощнейшие и самые крупные из них\r\nрасположены у него на спине, но они надёжно\r\nзащищены. Чтобы их сломать, сначала нужно\r\nуничтожить остальные гребни.",
       "pl": "Każda część masywnego ciała Jin Dahaada\r\njest zdolna do silnych ataków zamrażających.\r\nZmniejsz jego możliwości ofensywne,\r\natakując wypustki, których używa\r\ndo chłodzenia. Największe wypustki\r\nna grzbiecie są szczególnie potężne\r\ni powinno się je zniszczyć, jednak skóra\r\nw tym miejscu jest bardzo wytrzymała,\r\nchyba że najpierw rozprawisz się\r\nz pozostałymi wypustkami.",
@@ -15042,7 +15948,7 @@
       "es": "Cefalópodo que ejerce su supremacía en el\r\necosistema de la Cuenca Oleosa. Suele estar\r\nrecubierto de un fango oleoso al que prende\r\nfuego cuando se altera, transformándose\r\nen una bestia flamígera. Los óculos que\r\naparecen en su cuerpo y los muchos\r\ntentáculos podrían ser órganos sensoriales,\r\npero aún no se ha demostrado.",
       "ru": "Крупнейшее головоногое в экосистеме\r\nНефтяной низины. Покрывает себя донной\r\nнефтью, а впадая в ярость, поджигает её\r\nи загорается. Считается, что отверстия\r\nна туловище и многочисленные конечности\r\nслужат ну удре органами чувств, но\r\nдоподлинно это неизвестно.",
       "pl": "Cefalopod, który panuje nad ekosystemem Kotliny Oleju.\r\nNu Udra zazwyczaj jest pokryty oleistym mułem,\r\nale w chwili wzburzenia zapala powłokę,\r\nprzekształcając się w ogniste straszydło.\r\nOczy, które pojawiają się na jego ciele\r\ni licznych ramionach, są prawdopodobnie organami\r\nsensorycznymi, ale prawdziwość tej tezy\r\nwciąż jest w fazie badań.",
-      "pt-BR": "Cefalópode que reina supremo sobre o ecossistema\r\nda Bacia Oleídea. Geralmente, quando avistado,\r\nNu Udra está coberto de limóleo, mas quando é\r\nenfurecido, incendeia esse revestimento, virando\r\numa monstruosidade em chamas. Supõe-se que os\r\nolhos que aparecem em seu corpo, assim como os\r\nmuitos braços, sejam órgãos sensoriais, mas\r\na verdade ainda está sendo investigada.",
+      "pt-BR": "Cefalópode que reina supremo sobre o\r\necossistema da Bacia Oleídea. Geralmente,\r\nquando avistado, Nu Udra está coberto\r\nde limóleo, mas quando é enfurecido,\r\nincendeia esse revestimento, virando uma\r\nmonstruosidade em chamas. Supõe-se\r\nque os olhos que aparecem em seu corpo,\r\nassim como os muitos braços, sejam órgãos\r\nsensoriais, mas a verdade ainda está\r\nsendo investigada.",
       "ko": "기름 솟는 계곡 생태계의 정점에 군림하는\r\n두족종. 평소에는 전신이 기름 진흙으로\r\n뒤덮여 있고 흥분하면 몸 표면을 발화시켜\r\n거친 화염을 두른 모습으로 변한다.\r\n흥분하면 드러나는 눈알이나 팔 끝에 달린\r\n눈 같은 부위는 주변 정보를 파악하는\r\n감각 기관으로 추측되나, 정체는 아직\r\n밝혀지지 않았다.",
       "zh-Hant": "君臨湧油山谷生態系頂點的頭足種。平時全身會被\r\n油泥覆蓋，但興奮時會將油泥點燃，變成身披猛烈\r\n火焰的姿態，更會露出眼球以及每隻觸手末端類似\r\n眼睛的構造，目前推測這些構造是用於感知周圍環\r\n境的感覺器官，但尚有待查明。",
       "zh-Hans": "君临涌油谷生态系统顶点的头足种。通常全身被\r\n油泥覆盖，但一旦进入兴奋状态，这些油泥便会\r\n被点燃，转而化身为熊熊燃烧的烈焰状态。据推\r\n测，它在兴奋时露出的眼球以及触手尖端类似眼\r\n睛的部分，可能是用来掌握周围情况的感知器官，\r\n但这一点尚未得到证实。",
@@ -15922,7 +16828,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-first",
         "item_id": 429,
         "amount": 1,
         "chance": 100
@@ -16199,7 +17105,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "head",
+        "part": "head-first",
         "item_id": 436,
         "amount": 1,
         "chance": 100
@@ -16375,22 +17281,22 @@
     ],
     "breakable_parts": [
       {
-        "part": "head",
+        "part": "head-first",
         "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
+          "ja": "頭(一段階目)",
+          "en": "Head I",
+          "fr": "Tête I",
+          "it": "Testa I",
+          "de": "Kopf (St. I)",
+          "es": "Cabeza I",
+          "ru": "Голова I",
+          "pl": "Głowa I",
+          "pt-BR": "Cabeça I",
+          "ko": "머리(1단계째)",
+          "zh-Hant": "頭部（第一階段）",
+          "zh-Hans": "头部（第一阶段）",
+          "ar": "رأس 1",
+          "es-419": "Cabeza I"
         }
       },
       {
@@ -16451,22 +17357,22 @@
         }
       },
       {
-        "part": "head",
+        "part": "head-second",
         "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
+          "ja": "頭(二段階目)",
+          "en": "Head II",
+          "fr": "Tête II",
+          "it": "Testa II",
+          "de": "Kopf (St. II)",
+          "es": "Cabeza II",
+          "ru": "Голова II",
+          "pl": "Głowa II",
+          "pt-BR": "Cabeça II",
+          "ko": "머리(2단계째)",
+          "zh-Hant": "頭部（第二階段）",
+          "zh-Hans": "头部（第二阶段）",
+          "ar": "رأس 2",
+          "es-419": "Cabeza II"
         }
       }
     ]
@@ -16495,7 +17401,7 @@
       "en": "Fearsome wyverns known as \"Kings of the Skies.\"\r\nArmed with powerful poison claws, they use their\r\naerial prowess to descend on prey from above.",
       "fr": "Forts de leurs griffes empoisonnées,\r\nles \"Rois des cieux\" n'ont pas leur\r\npareil pour attaquer depuis les airs.",
       "it": "Temibili wyvern noti come \"sovrani dei cieli\".\r\nDotati di potenti artigli velenosi, sono soliti\r\npiombare abilmente dall'alto sulle loro prede.",
-      "de": "Furchterregende Wyvern, die als „Könige der\r\nLüfte“ bekannt sind. Sie stürzen sich mit\r\nGiftklauen aus dem Himmel auf ihre Beute.",
+      "de": "Furchterregende Wyvern, die als „Könige der\r\nLüfte“ bekannt sind. Mit ihren Giftklauen\r\ngehen sie im Sturzflug auf Beutejagd.",
       "es": "Wyverns temibles conocidos como los \"reyes de\r\nlos cielos\". Provistos de fuertes garras venenosas,\r\nse lanzan en picado sobre sus presas desde arriba.",
       "ru": "Виверны, прозванные «королями небес»,\r\nвысматривают добычу сверху и пикируют,\r\nпронзая её покрытыми ядом когтями.",
       "pl": "Straszliwe wiwerny, ci „Królowie Przestworzy”\r\nsą uzbrojeni w silne, trujące pazury. Swoją\r\npowietrzną sprawność przejawiają atakami z góry.",
@@ -17013,7 +17919,7 @@
       "es": "Bestias enormes y blancas que controlan\r\na los otros Blango y atacan a los intrusos\r\nen manada. Su musculatura y movilidad\r\nles permite atacar con rapidez, incluso\r\nen una nevada reciente, así como saltar\r\ngrandes distancias.\r\nLos cazadores de larga distancia deben\r\nir con cuidado. La seña de un líder son\r\nlos grandes colmillos.",
       "ru": "Эти крупные клыкастые звери с белым\r\nмехом — вожаки бланго. Они нападают\r\nсо стаей на тех, кто окажется на их\r\nтерритории. Блангонги очень сильны и\r\nбыстро передвигаются даже по свежевы-\r\nпавшему снегу. Они могут преодолеть\r\nвнушительное расстояние одним прыжком,\r\nтак что будьте начеку, даже если используете\r\nдальнобойное оружие. Крупные бивни\r\nблангонги — символ могучего вожака.",
       "pl": "Duże, białe, zębate bestie, które rządzą innymi\r\nBlango, atakując intruzów stadem. Ich\r\nmuskularność i mobilność sprawiają, że mogą\r\nuderzać błyskawicznie, nawet poruszając się\r\npo świeżym śniegu i przypuszczać atak z dużych\r\nodległości – zatem łowcy korzystający z broni\r\ndalekiego zasięgu muszą mieć się \r\nna baczności. Duże kły są oznaką potężnego\r\nprzywódcy.",
-      "pt-BR": "Grandes feras brancas de presas que dominam\r\noutros Blangos, atacando intrusos em bando. Sua\r\nmusculatura e mobilidade permitem que ataquem\r\nrápido, até na neve fresca e a longas distâncias.\r\nCaçadores com armas de longo alcance ainda\r\nprecisam ficar atentos. Presas grandes são sinal\r\nde um líder poderoso.",
+      "pt-BR": "Grandes feras brancas de presas que dominam\r\noutros Blangos, e costumam atacar em bando.\r\nSua musculatura e mobilidade permitem que\r\nataquem rápido, saltando a longas distâncias\r\ne até na neve fresca. Mesmo caçadores com\r\narmas de longo alcance ainda precisam ficar\r\natentos. As presas grandes são indicativo\r\nde um líder poderoso.",
       "ko": "블랑고를 이끄는 하얀 대형 아수종.\r\n영역을 침범하면 무리 지어 공격한다.\r\n힘이 강하며 눈 속을 이동해 급습하거나\r\n떨어진 위치에서 뛰어올라 덤비는 등\r\n기동력을 살린 공격을 펼치므로,\r\n사격 무기 사용 시에도 주의가 필요하다.\r\n커다란 이빨은 무리의 리더라는 증표.",
       "zh-Hant": "統率雪獅子的大型白色牙獸。會率領群體攻擊入侵\r\n地盤的生物。臂力強大，機動力強，會在雪中移動\r\n發動奇襲，或從遠處大幅跳躍攻擊，使用遠程武器\r\n時也要多加小心。巨大的牙齒是領袖的身份象徵。",
       "zh-Hans": "统率着雪狮子的白色大型牙兽种。会率领族群对\r\n入侵领地的生物发起攻击。臂力惊人，机动力极\r\n强，善于在雪下移动以发动奇袭，或是从远处一\r\n跃而至展开攻击。因此即使是使用远程武器，也\r\n要格外注意。巨大的獠牙是它身为首领的身份象\r\n征。",

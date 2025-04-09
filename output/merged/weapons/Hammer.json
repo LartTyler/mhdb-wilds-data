@@ -389,7 +389,7 @@
       "ko": "록본Ⅰ",
       "zh-Hant": "岩骨錘Ⅰ",
       "zh-Hans": "大骨锤Ⅰ",
-      "ar": "نبوت العظام 1",
+      "ar": "دبّوس العظام 1",
       "es-419": "Cachiporra ósea I"
     },
     "descriptions": {
@@ -461,7 +461,7 @@
       "ko": "록본Ⅱ",
       "zh-Hant": "岩骨錘Ⅱ",
       "zh-Hans": "大骨锤Ⅱ",
-      "ar": "نبوت العظام 2",
+      "ar": "دبّوس العظام 2",
       "es-419": "Cachiporra ósea II"
     },
     "descriptions": {
@@ -535,7 +535,7 @@
       "ko": "록본Ⅲ",
       "zh-Hant": "岩骨錘Ⅲ",
       "zh-Hans": "大骨锤Ⅲ",
-      "ar": "نبوت العظام 3",
+      "ar": "دبّوس العظام 3",
       "es-419": "Cachiporra ósea III"
     },
     "descriptions": {
@@ -608,7 +608,7 @@
       "ko": "록본Ⅳ",
       "zh-Hant": "岩骨錘Ⅳ",
       "zh-Hans": "大骨锤Ⅳ",
-      "ar": "نبوت العظام 4",
+      "ar": "دبّوس العظام 4",
       "es-419": "Cachiporra ósea IV"
     },
     "descriptions": {
@@ -683,7 +683,7 @@
       "ko": "헤비록본",
       "zh-Hant": "重岩骨錘",
       "zh-Hans": "沉重岩骨锤",
-      "ar": "نبوت العظام الثقيل",
+      "ar": "دبّوس العظام الثقيل",
       "es-419": "Cachiporra ósea pesada"
     },
     "descriptions": {
@@ -699,7 +699,7 @@
       "ko": "수수한 모습을 하고 있지만\r\n망치의 성능을 비약적으로\r\n올렸다. 록본의 강화판.",
       "zh-Hant": "強化版岩骨錘。保留了粗野的風貌，\r\n性能卻大幅提升。",
       "zh-Hans": "大骨锤的强化版，保留了粗野的风\r\n貌，同时性能也有飞跃性的提升。",
-      "ar": "نبوت عظام تمت ترقيته.\r\nلا يزال بدائيًا،\r\nلكنه خضع لتحسينات كبيرة.",
+      "ar": "دبّوس عظام تمت ترقيته.\r\nلا يزال بدائيًا،\r\nلكنه خضع لتحسينات كبيرة.",
       "es-419": "¿Sigue siendo sólo un hueso? Sí.\r\nPero como martillo, Cachiporra\r\nósea mejorada nunca ha golpeado\r\ntan fuerte."
     },
     "rarity": 8,
@@ -1768,7 +1768,7 @@
       "de": "Ein Rompopolo-Hammer.\r\nEr erinnert an medizinische\r\nGeräte aus einer Zeit, in der\r\neine Seuche durchs Land zog.",
       "es": "Martillo de Rompopolo. Su forma\r\nextraña recuerda al material\r\nmédico en la época de una\r\nhorrible plaga.",
       "ru": "Молот из ромпополо. Необычной\r\nформой напоминает врачебный\r\nинструмент из тех времён, когда\r\nвсюду бушевала эпидемия.",
-      "pl": "Młot wykonany z materiałów z Rompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny\r\nz okresu straszliwej plagi.",
+      "pl": "Młot wykonany z materiałów z\r\nRompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny z\r\nokresu straszliwej plagi.",
       "pt-BR": "Um martelo de Rompopolo.\r\nSeu formato peculiar lembra\r\nequipamentos médicos\r\nda época de peste.",
       "ko": "푸푸로포루 소재로 만든 해머.\r\n섬뜩한 외견은 역병이 만연했던\r\n시대의 의료 장비를 본뜬 것.",
       "zh-Hant": "以沼噴龍素材製作的大錘。據說詭異\r\n的形狀仿照了瘟疫大流行時代的醫療\r\n裝備。",
@@ -1847,7 +1847,7 @@
       "de": "Ein Rompopolo-Hammer.\r\nEr erinnert an medizinische\r\nGeräte aus einer Zeit, in der\r\neine Seuche durchs Land zog.",
       "es": "Martillo de Rompopolo. Su forma\r\nextraña recuerda al material\r\nmédico en la época de una\r\nhorrible plaga.",
       "ru": "Молот из ромпополо. Необычной\r\nформой напоминает врачебный\r\nинструмент из тех времён, когда\r\nвсюду бушевала эпидемия.",
-      "pl": "Młot wykonany z materiałów z Rompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny\r\nz okresu straszliwej plagi.",
+      "pl": "Młot wykonany z materiałów z\r\nRompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny z\r\nokresu straszliwej plagi.",
       "pt-BR": "Um martelo de Rompopolo.\r\nSeu formato peculiar lembra\r\nequipamentos médicos\r\nda época de peste.",
       "ko": "푸푸로포루 소재로 만든 해머.\r\n섬뜩한 외견은 역병이 만연했던\r\n시대의 의료 장비를 본뜬 것.",
       "zh-Hant": "以沼噴龍素材製作的大錘。據說詭異\r\n的形狀仿照了瘟疫大流行時代的醫療\r\n裝備。",
@@ -1929,7 +1929,7 @@
       "de": "Ein Rompopolo-Hammer.\r\nEr erinnert an medizinische\r\nGeräte aus einer Zeit, in der\r\neine Seuche durchs Land zog.",
       "es": "Martillo de Rompopolo. Su forma\r\nextraña recuerda al material\r\nmédico en la época de una\r\nhorrible plaga.",
       "ru": "Молот из ромпополо. Необычной\r\nформой напоминает врачебный\r\nинструмент из тех времён, когда\r\nвсюду бушевала эпидемия.",
-      "pl": "Młot wykonany z materiałów z Rompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny\r\nz okresu straszliwej plagi.",
+      "pl": "Młot wykonany z materiałów z\r\nRompopola. Nietypowy kształt\r\nprzypomina sprzęt medyczny z\r\nokresu straszliwej plagi.",
       "pt-BR": "Um martelo de Rompopolo.\r\nSeu formato peculiar lembra\r\nequipamentos médicos\r\nda época de peste.",
       "ko": "푸푸로포루 소재로 만든 해머.\r\n섬뜩한 외견은 역병이 만연했던\r\n시대의 의료 장비를 본뜬 것.",
       "zh-Hant": "以沼噴龍素材製作的大錘。據說詭異\r\n的形狀仿照了瘟疫大流行時代的醫療\r\n裝備。",
@@ -2660,7 +2660,7 @@
       "ko": "알라스비트Ⅰ",
       "zh-Hant": "白斑火龍衝擊Ⅰ",
       "zh-Hans": "白炎碎Ⅰ",
-      "ar": "نبوت ألبيراث 1",
+      "ar": "دبّوس ألبيراث 1",
       "es-419": "Mazo de Albirath I"
     },
     "descriptions": {
@@ -2743,7 +2743,7 @@
       "ko": "알라스비트Ⅱ",
       "zh-Hant": "白斑火龍衝擊Ⅱ",
       "zh-Hans": "白炎碎Ⅱ",
-      "ar": "نبوت ألبيراث 2",
+      "ar": "دبّوس ألبيراث 2",
       "es-419": "Mazo de Albirath II"
     },
     "descriptions": {
@@ -2843,7 +2843,7 @@
       "ko": "강화된 알라스비트.\r\n하얀 힘의 흐름 속에서\r\n왕의 자부심과 고귀한 혼을\r\n느낄 수 있다.",
       "zh-Hant": "強化版白斑火龍衝擊。在皓白之力\r\n的奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
       "zh-Hans": "强化后的白炎碎。在皓白之力的涌\r\n流中，可以感受到高贵的王者之魂。",
-      "ar": "نبوت (ألبيراث) مطوَّرة.\r\nتقبع روح راقية وسط\r\nفيض قوتها الخالصة.",
+      "ar": "دبّوس (ألبيراث) مطوَّرة.\r\nتقبع روح راقية وسط\r\nفيض قوتها الخالصة.",
       "es-419": "Un mazo de Albirath\r\nmejorado. Dentro de su flujo\r\nde poder, se percibe un alma\r\ndigna de la realeza."
     },
     "rarity": 8,
@@ -4572,7 +4572,7 @@
       "ko": "레드비트Ⅰ",
       "zh-Hant": "紅色衝擊Ⅰ",
       "zh-Hans": "赤色冲击Ⅰ",
-      "ar": "الهراوة الحمراء 1",
+      "ar": "دبّوس أحمر 1",
       "es-419": "Cachiporra roja I"
     },
     "descriptions": {
@@ -4668,11 +4668,11 @@
       "es": "Cachiporra roja mejorada.\r\nEs indomable y arde como\r\nuna tea.",
       "ru": "Улучшенная «Красная палица».\r\nЭто оружие раскалено до предела\r\nи не желает никому подчиняться.",
       "pl": "Ulepszony czerwona pałka.\r\nOgnisty żar, teraz zjeżony\r\nna myśl o służeniu\r\njakiemukolwiek panu.",
-      "pt-BR": "Tacape Vermelho melhorado.\r\nArdente como fogo, agora se\r\nenfurece só de pensar em\r\nobedecer a qualquer mestre.",
+      "pt-BR": "Tacape Rubro melhorado.\r\nArdente como fogo, agora se\r\nenfurece só de pensar em\r\nobedecer a qualquer mestre.",
       "ko": "강화를 거듭해 만든 맹렬한\r\n레드비트. 늠름한 혼은\r\n누구에게도 구속되지 않는다.",
       "zh-Hant": "不斷強化的成果便是這把烈火的紅色\r\n衝擊。任何人都無法拘束其雄健的\r\n魂魄。",
       "zh-Hans": "不断强化的成果便是这把烈火的赤\r\n色冲击。其雄健魂魄不受任何拘束。",
-      "ar": "مطرقة حمراء مطوَّرة. شديدة\r\nالحرارة وهي الآن تستشيط غضبًا\r\nعند التفكير في الانصياع لأي سيد.",
+      "ar": "دبّوس أحمر مطوَّر. شديد\r\nالحرارة وهو الآن يستشيط غضبًا\r\nعند التفكير في الانصياع لأي سيد.",
       "es-419": "Una Cachiporra roja mejorada.\r\nCon un calor abrasador, ahora\r\nse eriza ante la idea de hacer\r\ncaso a cualquier maestro."
     },
     "rarity": 8,
@@ -4994,7 +4994,7 @@
       "en": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
       "fr": "Marteau unique utilisant les\r\ndécharges électriques des\r\nfoudrinsectes pour électrocuter\r\net paralyser les monstres.",
       "it": "Martello dal design unico che\r\nusa scariche di insetto tuono\r\nper dare la scossa e paralizzare\r\ni mostri.",
-      "de": "Ein einzigartiges Hammerdesign,\r\ndas mit Donnerkäfer-Entladungen\r\nMonster schockt und lähmt.",
+      "de": "Ein einzigartiges Hammer-\r\ndesign, das mit Donnerkäfer-\r\nEntladungen Monster schockt\r\nund lähmt.",
       "es": "Diseño único de martillo que\r\nemplea descargas de electrobicho\r\npara electrocutar y paralizar\r\na los monstruos.",
       "ru": "Молот необычной конструкции,\r\nкоторый позволяет парализовывать\r\nмонстров с помощью разрядов\r\nгрозовых жуков.",
       "pl": "Unikatowa konstrukcja młota\r\nwykorzystuje wyładowania\r\nelektryczne gromuszków, do\r\nrażenia i paraliżowania potworów.",
@@ -5073,7 +5073,7 @@
       "en": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
       "fr": "Marteau unique utilisant les\r\ndécharges électriques des\r\nfoudrinsectes pour électrocuter\r\net paralyser les monstres.",
       "it": "Martello dal design unico che\r\nusa scariche di insetto tuono\r\nper dare la scossa e paralizzare\r\ni mostri.",
-      "de": "Ein einzigartiges Hammerdesign,\r\ndas mit Donnerkäfer-Entladungen\r\nMonster schockt und lähmt.",
+      "de": "Ein einzigartiges Hammer-\r\ndesign, das mit Donnerkäfer-\r\nEntladungen Monster schockt\r\nund lähmt.",
       "es": "Diseño único de martillo que\r\nemplea descargas de electrobicho\r\npara electrocutar y paralizar\r\na los monstruos.",
       "ru": "Молот необычной конструкции,\r\nкоторый позволяет парализовывать\r\nмонстров с помощью разрядов\r\nгрозовых жуков.",
       "pl": "Unikatowa konstrukcja młota\r\nwykorzystuje wyładowania\r\nelektryczne gromuszków, do\r\nrażenia i paraliżowania potworów.",
@@ -5152,7 +5152,7 @@
       "en": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
       "fr": "Marteau unique utilisant les\r\ndécharges électriques des\r\nfoudrinsectes pour électrocuter\r\net paralyser les monstres.",
       "it": "Martello dal design unico che\r\nusa scariche di insetto tuono\r\nper dare la scossa e paralizzare\r\ni mostri.",
-      "de": "Ein einzigartiges Hammerdesign,\r\ndas mit Donnerkäfer-Entladungen\r\nMonster schockt und lähmt.",
+      "de": "Ein einzigartiges Hammer-\r\ndesign, das mit Donnerkäfer-\r\nEntladungen Monster schockt\r\nund lähmt.",
       "es": "Diseño único de martillo que\r\nemplea descargas de electrobicho\r\npara electrocutar y paralizar\r\na los monstruos.",
       "ru": "Молот необычной конструкции,\r\nкоторый позволяет парализовывать\r\nмонстров с помощью разрядов\r\nгрозовых жуков.",
       "pl": "Unikatowa konstrukcja młota\r\nwykorzystuje wyładowania\r\nelektryczne gromuszków, do\r\nrażenia i paraliżowania potworów.",
@@ -5234,7 +5234,7 @@
       "en": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
       "fr": "Marteau unique utilisant les\r\ndécharges électriques des\r\nfoudrinsectes pour électrocuter\r\net paralyser les monstres.",
       "it": "Martello dal design unico che\r\nusa scariche di insetto tuono\r\nper dare la scossa e paralizzare\r\ni mostri.",
-      "de": "Ein einzigartiges Hammerdesign,\r\ndas mit Donnerkäfer-Entladungen\r\nMonster schockt und lähmt.",
+      "de": "Ein einzigartiges Hammer-\r\ndesign, das mit Donnerkäfer-\r\nEntladungen Monster schockt\r\nund lähmt.",
       "es": "Diseño único de martillo que\r\nemplea descargas de electrobicho\r\npara electrocutar y paralizar\r\na los monstruos.",
       "ru": "Молот необычной конструкции,\r\nкоторый позволяет парализовывать\r\nмонстров с помощью разрядов\r\nгрозовых жуков.",
       "pl": "Unikatowa konstrukcja młota\r\nwykorzystuje wyładowania\r\nelektryczne gromuszków, do\r\nrażenia i paraliżowania potworów.",
@@ -5798,6 +5798,338 @@
     },
     "skills": {
       "-283334048": 3
+    }
+  },
+  {
+    "game_id": 76,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ゾ・ウーリアⅠ",
+      "en": "Zoh Uria I",
+      "fr": "Zoh Uria",
+      "it": "Zoh Uria I",
+      "de": "Zoh Uria I",
+      "es": "Zoh Uria I",
+      "ru": "Зо Урия I",
+      "pl": "Zoh Uria I",
+      "pt-BR": "Zoh Uria I",
+      "ko": "조 우리아Ⅰ",
+      "zh-Hant": "熾・烏列爾Ⅰ",
+      "zh-Hans": "白炽锤乌列尔Ⅰ",
+      "ar": "زو أوريا 1",
+      "es-419": "Zoh Uria I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n鎚。冠するは純然たる事象。\r\n分厚い外殻は無慈悲に暗影を隠す。",
+      "en": "A Zoh Shia hammer with a thick\r\nouter shell that conceals the\r\nmerciless darkness within.",
+      "fr": "Marteau Zoh Shia. Son épaisse\r\ncoque externe dissimule une\r\nobscurité impitoyable.",
+      "it": "Un martello Zoh Shia con un\r\nsolido guscio esterno che\r\ncela un'oscurità implacabile.",
+      "de": "Ein Hammer aus Zoh-Shia-\r\nTeilen, dessen gnadenlose\r\ninnere Dunkelheit unter einer\r\ndicken Hülle verborgen ist.",
+      "es": "Martillo de Zoh Shia con\r\nun caparazón exterior grueso\r\nque oculta la oscuridad\r\ninterior sin piedad.",
+      "ru": "Молот из Зо Шиа, под толстой\r\nоболочкой которого скрывается\r\nбезжалостная тьма.",
+      "pl": "Młot Zoh Shia z grubą powłoką,\r\nktóra skrywa bezlitosną ciemność.",
+      "pt-BR": "Martelo de Zoh Shia com uma\r\ncamada externa espessa que\r\nesconde uma escuridão interior.",
+      "ko": "조 시아 소재의 해머.\r\n온전한 사실을 상징한다.\r\n두터운 껍데기는 무자비하게\r\n어두운 그림자를 숨긴다.",
+      "zh-Hant": "以白熾龍素材製作的大錘。此錘\r\n以純粹的真實為冠。厚重的外殼\r\n將無情地掩埋一切暗影。",
+      "zh-Hans": "由白炽龙素材锻造，冠以纯正本质\r\n之名的大锤。坚厚外壳匿于暗影之\r\n中，对待敌人毫不留情。",
+      "ar": "مطرقة (زو شيا)\r\nذات هيكل خارجي سميك\r\nيحجب الظلام القاسي بداخلها.",
+      "es-419": "Un martillo de Zoh Shia.\r\nSu resistente exterior esconde\r\nuna oscuridad implacable dentro\r\nsuyo."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        77
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 77,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "熾光たるウーリア",
+      "en": "Blazing Uria",
+      "fr": "Uria flamboyant",
+      "it": "Uria fiammante",
+      "de": "Glühender Uria",
+      "es": "Uria calcinante",
+      "ru": "Пламенная Урия",
+      "pl": "Ognista Uria",
+      "pt-BR": "Uria Escaldante",
+      "ko": "찬란한 우리아",
+      "zh-Hant": "熾光烏列爾",
+      "zh-Hans": "炽光锤乌列尔",
+      "ar": "أوريا الملتهبة",
+      "es-419": "Uria ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしウーリアは告げる。\r\n汝、事象を求めて眺める者よ。\r\n振り下ろす鎚が静寂を与えよう。",
+      "en": "Uria harketh from on high:\r\nThou who seekest phenomena,\r\nmay thy hammer bring thee\r\nstillness.",
+      "fr": "Uria déclara depuis les cieux :\r\n\"Toi qui as cherché à voir les faits\r\nde tes propres yeux, puisse ton\r\nmarteau t'apporter la sérénité\".",
+      "it": "Uria declama dall'alto:\r\nTu che cerchi la singolarità,\r\npossa il tuo martello\r\ndonarti quiete.",
+      "de": "Uria ruft von oben herab:\r\nJene, die Zeichen suchen!\r\nMöge euer Hammer für Stille\r\nsorgen!",
+      "es": "Uria brama desde lo alto:\r\nQuienes buscáis fenómenos,\r\nque vuestro martillo os traiga\r\nquietud.",
+      "ru": "И воскликнула вознёсшаяся\r\nУрия: «Ты, что алчешь чуда!\r\nПусть молот твой принесёт\r\nтебе спокойствие!»",
+      "pl": "Z wysoka rzecze Uria: ty,\r\nktóry chwały szukasz\r\nfenomenu, niech twój młot\r\nbędzie twym spokojem.",
+      "pt-BR": "Uria brada das alturas:\r\nTu que buscas fenômenos,\r\nque teu martelo te traga a\r\nquietude.",
+      "ko": "하늘에 올라 우리아가 고한다.\r\n그대, 현상을 추구해 바라보는\r\n자여. 후려친 해머가\r\n정적을 가져올지니.",
+      "zh-Hant": "天上的烏列爾在此宣告：渴求真實\r\n而遠觀之輩啊，揮擊而下的大錘將\r\n帶來無邊寂靜。",
+      "zh-Hans": "乌列尔自天上传下意志——渴求本\r\n质的守望者啊，便叫这挥下的大锤\r\n赐予汝寂静罢。",
+      "ar": "تنادي (أوريا) من الأعالي:\r\nأيها الساعي إلى الخوارق\r\nلعل مطرقتك\r\nتمنحك السكينة.",
+      "es-419": "Uria brama desde lo alto:\r\nQuienes buscan fenómenos,\r\nque su martillo les conceda\r\nquietud."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 76,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 21
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 79,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "狐鎚ツキヲイザナイⅠ",
+      "en": "Purity Hammer I",
+      "fr": "Marteau de pureté",
+      "it": "Martello di purezza I",
+      "de": "Reinheitshammer I",
+      "es": "Martillo de pureza I",
+      "ru": "Молот чистоты I",
+      "pl": "Młot Czystości I",
+      "pt-BR": "Martelo da Pureza I",
+      "ko": "호추 츠키오이자나이Ⅰ",
+      "zh-Hant": "狐錘月落棄塵世Ⅰ",
+      "zh-Hans": "狐锤【玉落弃尘世】Ⅰ",
+      "ar": "مطرقة النقاء 1",
+      "es-419": "Martillo de pureza I"
+    },
+    "descriptions": {
+      "ja": "政に長け、世に安定を齎した\r\n姫が遺した雅なる鎚。邪念に\r\n塗れた現世を打ち払う狐鎚。",
+      "en": "A hammer passed down\r\nfrom a princess who brought\r\npeace by dispelling evil.",
+      "fr": "L'héritage d'une princesse\r\nqui triompha du mal et\r\nramena la paix.",
+      "it": "Lasciato in eredità da una\r\nprincipessa che disperse il\r\nmale e riportò la pace.",
+      "de": "Ein Hammer aus dem Erbe\r\neiner Prinzessin, die das\r\nLand vom Bösen befreite.",
+      "es": "Perteneció a una princesa\r\nque trajo la paz a la tierra\r\ntras acabar con el mal.",
+      "ru": "Молот, вооружившись которым\r\nпринцесса некогда искоренила\r\nзло и установила мир.",
+      "pl": "Młot po księżniczce,\r\nktóra przywróciła pokój,\r\nrozpędzając zło.",
+      "pt-BR": "Martelo passado adiante por\r\numa princesa, que trouxe a\r\npaz afastando o mal.",
+      "ko": "어진 정치로 태평성대를 이룬\r\n공주가 남긴 우아한 해머.\r\n더럽혀진 현세를 정화할 해머.",
+      "zh-Hant": "善於理政、開創治世的公主所遺留的\r\n風雅大錘。此狐錘會擊碎現今惡貫滿\r\n盈之世。",
+      "zh-Hans": "长于政事、创造了和平世界的公主\r\n留下的风雅大锤。可驱散现世弥漫\r\n的邪念。",
+      "ar": "مطرقة موروثة عن أميرة\r\nنشرت السلام\r\nبالقضاء على الشر.",
+      "es-419": "Perteneció a una princesa\r\nque trajo la paz a la tierra\r\ntras acabar con el mal."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 22
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 80,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "おきつなみ撓鎚の華石",
+      "en": "Sinter Hammer",
+      "fr": "Marteau de Sinter",
+      "it": "Martello di scorie",
+      "de": "Sinterhammer",
+      "es": "Martillo de Sinter",
+      "ru": "Молот озарения",
+      "pl": "Młot Światłości",
+      "pt-BR": "Martelo de Sínter",
+      "ko": "어지러운 요추의 화석",
+      "zh-Hant": "波濤撓錘之華石",
+      "zh-Hans": "海波挠锤之华石",
+      "ar": "مطرقة التلبيد",
+      "es-419": "Martillo de Sinter"
+    },
+    "descriptions": {
+      "ja": "宵月の導きにより雅なる鎚は\r\n妄執を払う現世の光となる。\r\n狐鎚ツキヲイザナイ強化型。",
+      "en": "The Purity Hammer's enhanced\r\nform is a guiding light for\r\na world lost in darkness.",
+      "fr": "Marteau de pureté amélioré.\r\nIncarne la lueur qui guide\r\net perce les ténèbres.",
+      "it": "Potenziamento del martello\r\ndi purezza. Luce guida per i\r\nmondi persi nel buio.",
+      "de": "Die verbesserte Version des\r\nReinheitshammers ist ein Licht,\r\ndas der Welt den Weg aus dem\r\nDunkel zeigt.",
+      "es": "Martillo de pureza mejorado.\r\nSirve de faro para un mundo\r\nsumido en la oscuridad.",
+      "ru": "Улучшенный «Молот чистоты»,\r\nпутеводный свет которого поможет\r\nмиру вырваться из тьмы.",
+      "pl": "Ulepszony Młot Czystości\r\njest światłem przewodnim dla\r\nświata w ciemności.",
+      "pt-BR": "Martelo da Pureza melhorado.\r\nTraz luz a um mundo perdido\r\nna escuridão.",
+      "ko": "초저녁 달을 따라 그 해머는\r\n망집을 정화해 현세에 빛나리.\r\n츠키오이자나이의 강화형.",
+      "zh-Hant": "強化版狐錘月落棄塵世。典雅大錘\r\n仰承宵月指引，化作祓除妄念的\r\n世道之光。",
+      "zh-Hans": "狐锤【玉落弃尘世】强化型。遵循\r\n新月的指引，风雅大锤化为驱散妄\r\n执的现世之光。",
+      "ar": "شكل مطرقة النقاء المُحسَّن\r\nبمثابة منارة مضيئة\r\nلعالم غارق في الظلمات.",
+      "es-419": "Martillo de pureza mejorado.\r\nSirve de faro para un mundo\r\nsumido en la oscuridad."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
     }
   }
 ]

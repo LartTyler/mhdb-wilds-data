@@ -1850,7 +1850,7 @@
       "es": "Gran espada de Jin Dahaad.\r\nEl hielo de su enorme filo\r\ndoble es capaz de congelar\r\nhasta el aire.",
       "ru": "Двуручный меч из джина дахаада.\r\nЛютый холод, исходящий от его\r\nогромного обоюдоострого клинка,\r\nзамораживает окружающий воздух.",
       "pl": "Miecz dwuręczny z Jin Dahaada.\r\nLód z jego masywnego,\r\npodwójnego ostrza jest w stanie\r\nzamrozić nawet powietrze.",
-      "pt-BR": "Espadão de Jin Dahaad. O gelo\r\nde sua lâmina dupla é capaz\r\nde congelar até mesmo o ar\r\nao seu redor.",
+      "pt-BR": "Espadão de Jin Dahaad.\r\nO gelo de sua lâmina dupla é\r\ncapaz de congelar até mesmo\r\no ar ao seu redor.",
       "ko": "진 다하드 소재로 만든 대검.\r\n거대한 양날이 뿜어내는\r\n강력한 냉기에 주변 공기마저\r\n얼어붙는다.",
       "zh-Hant": "以凍峰龍素材製作的大劍。巨大的\r\n雙刃釋放著極強的寒氣，甚至能凍\r\n結周遭的空氣。",
       "zh-Hans": "以冻峰龙素材制作的大剑。巨大的\r\n双刃释放出的强大寒气，连周围的\r\n空气也会被冻结。",
@@ -2429,7 +2429,7 @@
       "it": "Gli esclusivi materiali di\r\nNerscylla danno vita a\r\nquesto originale spadone\r\nche sfida i limiti della forgia.",
       "de": "Einzigartige Nerscylla-Materialien\r\nhaben dieses unglaubliche Groß-\r\nschwert entstehen lassen, das die\r\nGrenzen der Schmiede sprengt.",
       "es": "Gran espada que exprime al\r\nmáximo los materiales únicos\r\ndel Nerscylla para superar las\r\ncapacidades de la forja.",
-      "ru": "Двуручный меч из уникальных\r\nматериалов — трофеев\r\nс нерскиллы. Такой клинок сможет\r\nвыковать не каждый кузнец.",
+      "ru": "Двуручный меч из уникальных\r\nматериалов с нерскиллы.\r\nТакой клинок сможет\r\nвыковать не каждый кузнец.",
       "pl": "Unikalne materiały z Nerscylli\r\ndały początek temu genialnemu\r\nmieczowi druwęcznemu, który\r\ntestuje limity kuźni.",
       "pt-BR": "Espadão engenhoso que usa\r\nos materiais únicos de Nerscylla\r\npara exceder todos os limites da\r\nforja.",
       "ko": "네르스큐라 소재의\r\n특이한 성질 덕에\r\n공방의 기술 수준을 뛰어넘는\r\n최첨단 대검이 완성됐다.",
@@ -2510,7 +2510,7 @@
       "it": "Gli esclusivi materiali di\r\nNerscylla danno vita a\r\nquesto originale spadone\r\nche sfida i limiti della forgia.",
       "de": "Einzigartige Nerscylla-Materialien\r\nhaben dieses unglaubliche Groß-\r\nschwert entstehen lassen, das die\r\nGrenzen der Schmiede sprengt.",
       "es": "Gran espada que exprime al\r\nmáximo los materiales únicos\r\ndel Nerscylla para superar las\r\ncapacidades de la forja.",
-      "ru": "Двуручный меч из уникальных\r\nматериалов — трофеев\r\nс нерскиллы. Такой клинок сможет\r\nвыковать не каждый кузнец.",
+      "ru": "Двуручный меч из уникальных\r\nматериалов с нерскиллы.\r\nТакой клинок сможет\r\nвыковать не каждый кузнец.",
       "pl": "Unikalne materiały z Nerscylli\r\ndały początek temu genialnemu\r\nmieczowi druwęcznemu, który\r\ntestuje limity kuźni.",
       "pt-BR": "Espadão engenhoso que usa\r\nos materiais únicos de Nerscylla\r\npara exceder todos os limites da\r\nforja.",
       "ko": "네르스큐라 소재의\r\n특이한 성질 덕에\r\n공방의 기술 수준을 뛰어넘는\r\n최첨단 대검이 완성됐다.",
@@ -2675,7 +2675,7 @@
       "en": "The Immane Blade's upgraded\r\nform, a hulk of devastation\r\nwith a keen edge that sunders\r\nprey in twain.",
       "fr": "Lame du sacrificateur améliorée,\r\ndont les coups sont si tranchants\r\nqu'ils taillent les proies en pièces.",
       "it": "Lama immane potenziata,\r\ncosì affilata e devastante\r\nda tagliare in due la preda.",
-      "de": "Eine verbesserte Immense Klinge.\r\nEin Rohling der Verwüstung mit\r\neiner scharfen Schneide,\r\ndie Beute in zwei Hälften teilt.",
+      "de": "Eine verbesserte Immense\r\nKlinge. Ein Bringer des Chaos\r\nmit einer scharfen Schneide,\r\ndie Beute in zwei Hälften teilt.",
       "es": "Espada imponente mejorada.\r\nSus afilados tajos despedazan\r\na cualquier objetivo.",
       "ru": "Улучшенный вариант «Лютого\r\nклинка». Такой острый, что легко\r\nразрубает врагов напополам.",
       "pl": "Ulepszone Monstrualne ostrze.\r\nKolosalna, ostra niczym brzytwa\r\nbroń, która rozdziera ofiary\r\nna pół.",
@@ -3464,7 +3464,7 @@
       "es": "Nu Krake mejorado. Cógelo:\r\ndesciende ya al infierno y\r\nreclama el poder absoluto\r\nsobre la vida y la muerte.",
       "ru": "Улучшенный вариант «Удрового\r\nкракена». Спуститесь в преисподнюю\r\nс этим оружием в руке и получите\r\nвласть над жизнью и смертью.",
       "pl": "Ulepszony Nu Krake. Dobądź go,\r\nzstąp do piekieł i zdobądź całkowitą\r\nwładzę nad życiem i śmiercią.",
-      "pt-BR": "Krake de Nu melhorado. Pegue-o e\r\ndesça ao inferno para conquistar\r\no controle total sobre a vida e\r\na morte.",
+      "pt-BR": "Nu Krake melhorado. Pegue-o e\r\ndesça ao inferno para conquistar\r\no controle total sobre a vida e\r\na morte.",
       "ko": "적에게 불길한 기운을 주는\r\n누 폴뤼프의 강화형. 연옥에\r\n군림하는 자에게 생살여탈의\r\n권한을 준다.",
       "zh-Hant": "強化版獄焰大劍。會給予君臨煉獄者\r\n生殺予奪之權，使對峙者感到災厄\r\n降臨。",
       "zh-Hans": "狱焰蛸之剑的强化形态。宛若执掌\r\n了生杀予夺之权的炼狱君主，令对\r\n手不由怀疑自己是否遭遇了恶魔。",
@@ -5568,6 +5568,89 @@
     "skills": {}
   },
   {
+    "game_id": 73,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ゾ・ヴィヤーⅠ",
+      "en": "Zoh Veiah I",
+      "fr": "Zoh Veiah",
+      "it": "Zoh Veiah I",
+      "de": "Zoh Veiah I",
+      "es": "Zoh Veiah I",
+      "ru": "Зо Вейа I",
+      "pl": "Zoh Veiah I",
+      "pt-BR": "Zoh Veiah I",
+      "ko": "조 비야Ⅰ",
+      "zh-Hant": "熾・維烏亞Ⅰ",
+      "zh-Hans": "白炽剑维亚Ⅰ",
+      "ar": "زو فييا 1",
+      "es-419": "Zoh Veiah I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n大剣。冠するは純粋な栄光。\r\n曝け出された刀身が貪欲に求める。",
+      "en": "A Zoh Shia great sword with\r\na bared blade that thirsts\r\nfor glory.",
+      "fr": "Grande épée Zoh Shia dont\r\nla lame nue est assoiffée de\r\ngloire.",
+      "it": "Uno spadone Zoh Shia con\r\nuna lama nuda assetata \r\ndi gloria.",
+      "de": "Ein Großschwert aus Zoh-Shia-\r\nTeilen, dessen Klinge sich nach\r\nRuhm verzehrt.",
+      "es": "Gran espada de Zoh Shia con\r\nuna hoja desnuda que ansía\r\nla gloria.",
+      "ru": "Двуручный меч из Зо Шиа.\r\nКлинок этого оружия всегда\r\nобнажён и жаждет славы.",
+      "pl": "Miecz dwuręczny Zoh Shia\r\nz obnażonym ostrzem,\r\nktóry pragnie chwały.",
+      "pt-BR": "Espadão de Zoh Shia.\r\nSua lâmina exposta anseia\r\npor glória.",
+      "ko": "조 시아 소재의 대검.\r\n순수한 영광을 상징한다.\r\n드러난 칼날이 탐욕스레\r\n적을 갈구한다.",
+      "zh-Hant": "以白熾龍素材製作的大劍。此劍以\r\n純淨的榮光為冠，亮出的刀身將\r\n貪婪地渴求鮮血。",
+      "zh-Hans": "由白炽龙素材锻造，冠以纯粹荣光\r\n之名的大剑。裸露的剑身渴求着献\r\n血，永不知足。",
+      "ar": "سيف (زو شيا) عظيم\r\nبنصل مكشوف\r\nمتعطش لجلب المجد.",
+      "es-419": "Una gran espada de Zoh Shia\r\ncon un filo expuesto\r\ncon sed de gloria."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        92
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
     "game_id": 76,
     "kind": "great-sword",
     "sharpness": {
@@ -5639,6 +5722,173 @@
     "skills": {
       "-2096489472": 2,
       "1444935552": 2
+    }
+  },
+  {
+    "game_id": 77,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "狐大剣ハナヤコヨヒノⅠ",
+      "en": "Hanayako Yohino I",
+      "fr": "Hanayako Yohino",
+      "it": "Hanayako Yohino I",
+      "de": "Hanayako Yohino I",
+      "es": "Hanayako Yohino I",
+      "ru": "Ханаяко Йохино I",
+      "pl": "Hanayako Yohino I",
+      "pt-BR": "Hanayako Yohino I",
+      "ko": "호대검 하나야코요히노Ⅰ",
+      "zh-Hant": "狐大劍東道宿夜花Ⅰ",
+      "zh-Hans": "狐大剑【夜宿樱花树】Ⅰ",
+      "ar": "هاناياكو يوهينو 1",
+      "es-419": "Hanayako Yohino I"
+    },
+    "descriptions": {
+      "ja": "文武に優れた士が遺した雅なる\r\n大剣。咲き乱れる桜の下、獲物は\r\nその身を裂かれ、息絶える。",
+      "en": "A great sword of a refined,\r\neducated samurai. These\r\npetals blossom with death.",
+      "fr": "La lame d'un samouraï érudit\r\net raffiné. Ces pétales éclosent\r\navec la mort.",
+      "it": "Spadone di un samurai colto\r\ne raffinato. I petali\r\nfioriscono con la morte.",
+      "de": "Großschwert eines gelehrten\r\nSamurai. Die Blüten lassen\r\nden Tod erblühen.",
+      "es": "Gran espada de un samurái\r\nbien entrenado. Sus pétalos\r\nflorecen con la muerte.",
+      "ru": "Двуручный меч благородного\r\nи просвещённого самурая.\r\nЛепестки на клинке расцветают\r\nс приближением смерти.",
+      "pl": "Miecz dwuręczny nobliwego\r\nsamuraja. Te płatki zakwitają\r\nw obliczu śmierci.",
+      "pt-BR": "Espadão de um refinado\r\ne educado samurai. Estas\r\npétalas florescem com morte.",
+      "ko": "문무가 뛰어난 사람이 남긴\r\n우아한 대검. 흩날리는 벚꽃\r\n아래 사냥감은 찢겨 절명한다.",
+      "zh-Hant": "文武雙全之士遺留的典雅大劍。獵物\r\n將在狂亂盛放的櫻花下粉身碎骨，\r\n氣絕而亡。",
+      "zh-Hans": "文武双全的剑士遗留下来的风雅大\r\n剑。猎物将在怒放的樱花下身首异\r\n处，断绝气息。",
+      "ar": "سيف عظيم\r\nلساموراي مثقف ومهذب.\r\nتتفتح هذه البتلات مع الموت.",
+      "es-419": "Una gran espada de un samurái\r\nbien entrenado. Sus pétalos\r\nflorecen con la muerte."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 23
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 78,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "あかねさす紫剣の朝斬",
+      "en": "Akanesasu",
+      "fr": "Akanesasu",
+      "it": "Akanesasu",
+      "de": "Akanesasu",
+      "es": "Akanesasu",
+      "ru": "Аканэсасу",
+      "pl": "Akanesasu",
+      "pt-BR": "Akanesasu",
+      "ko": "보랏빛 자검의 조참",
+      "zh-Hant": "紅光紫劍之朝斬",
+      "zh-Hans": "茜霞紫剑之朝斩",
+      "ar": "أكانيساسو",
+      "es-419": "Akanesasu"
+    },
+    "descriptions": {
+      "ja": "眼前に散るは儚き命。雅なる剣は\r\n旭に照らされ薄色に輝いた。\r\n狐大剣ハナヤコヨヒノ強化型。",
+      "en": "A Hanayako Yohino upgrade.\r\nShines pale in the dawn\r\nlike the lives it snatches.",
+      "fr": "Hanayako Yohino améliorée.\r\nSa lueur à l'aube reflète les\r\nâmes qu'elle a fauchées.",
+      "it": "Hanayako Yohino potenziato.\r\nSi rispecchia pallido nelle\r\nvite che recide.",
+      "de": "Die verbesserte Version des\r\nHanayako Yohino schimmert\r\nbleich im Morgengrauen.",
+      "es": "Hanayako Yohino mejorada.\r\nEmite un brillo al alba como\r\nlas vidas que se cobra.",
+      "ru": "Улучшенный вариант «Ханаяко\r\nЙохино». Слабо сияет в лучах\r\nрассвета, подобно душам тех,\r\nчьи жизни оборвал.",
+      "pl": "Ulepszenie Hanayako Yohino.\r\nO świcie lśni blado jak\r\nżywoty, które odbiera.",
+      "pt-BR": "Hanayako Yohino melhorada.\r\nBrilha pálida na alvorada\r\ncomo as vidas que toma.",
+      "ko": "눈앞에 흩어지는 덧없는 생명.\r\n우아한 검은 희미하게 빛난다.\r\n하나야코요히노의 강화형.",
+      "zh-Hant": "強化版狐大劍東道宿夜花。脆弱的\r\n生命消逝於眼前，雅練劍身在旭日\r\n的照射下閃耀著紫灰色光輝。",
+      "zh-Hans": "狐大剑【夜宿樱花树】强化型。短\r\n暂生命在眼前凋零。风雅大剑在旭\r\n日照射下，散发淡紫光芒。",
+      "ar": "(هاناياكو يوهينو) تمت ترقيته.\r\nيلمع ببياض شديد في الفجر\r\nمثل الأرواح التي ينتزعها.",
+      "es-419": "Hanayako Yohino mejorada.\r\nEmite un brillo al alba como\r\nlas vidas que se cobra."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 45,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 77,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
     }
   },
   {
@@ -5951,6 +6201,88 @@
     "skills": {
       "-283334048": 2,
       "1500129152": 2
+    }
+  },
+  {
+    "game_id": 92,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "熾光たるヴィヤー",
+      "en": "Blazing Veiah",
+      "fr": "Veiah flamboyant",
+      "it": "Veiah fiammante",
+      "de": "Glühender Veiah",
+      "es": "Veiah calcinante",
+      "ru": "Пламенная Вейа",
+      "pl": "Ognista Veiah",
+      "pt-BR": "Veiah Escaldante",
+      "ko": "찬란한 비야",
+      "zh-Hant": "熾光維烏亞",
+      "zh-Hans": "炽光剑维亚",
+      "ar": "فييا الملتهب",
+      "es-419": "Veiah ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしヴィヤーは告げる。\r\n汝、栄光を求めて彷徨う者よ。\r\n巨刃でもって光明を吞み込まん。",
+      "en": "Veiah harketh from on high:\r\nThou who seekest glory,\r\nmay thy blade devour all\r\nlight.",
+      "fr": "Veiah déclara depuis les cieux :\r\n\"Toi qui as cherché la gloire,\r\npuisse ta lame dévorer jusqu'au\r\nplus petit éclat de lumière\".",
+      "it": "Veiah declama dall'alto:\r\nTu che cerchi il fasto, possa\r\nla tua lama inghiottire tutta \r\nla luce.",
+      "de": "Veiah ruft von oben herab:\r\nJene, die Anerkennung suchen!\r\nMöge eure Klinge alles Licht\r\nverschlingen!",
+      "es": "Veiah brama desde lo alto:\r\nQuienes buscáis la gloria,\r\nque vuestra espada devore\r\ntoda la luz.",
+      "ru": "И воскликнула вознёсшаяся\r\nВейа: «Ты, что алчешь славы!\r\nПусть клинок твой поглотит\r\nвсякий свет!»",
+      "pl": "Z wysoka rzecze Veiah:\r\nTy, który szukasz chwały,\r\nniech twe ostrze\r\npochłonie całe światło.",
+      "pt-BR": "Veiah brada das alturas:\r\nTu que buscas a glória, que\r\ntua lâmina devore toda a luz.",
+      "ko": "하늘에 올라 비야가 고한다.\r\n그대, 영광을 바라고 헤매는\r\n자여. 거대한 칼날이\r\n광명을 삼키리.",
+      "zh-Hant": "天上的維烏亞在此宣告：渴求榮光而\r\n徬徨之輩啊，巨刃將吞噬一切光明。",
+      "zh-Hans": "维亚自天上传下意志——渴求荣光\r\n的彷徨者啊，便用汝之巨刃将光明\r\n吞噬殆尽罢。",
+      "ar": "ينادي (فييا) من الأعالي:\r\nأيها الساعي إلى المجد\r\nليبدد نصلك كل الضوء.",
+      "es-419": "Veiah brama desde lo alto:\r\nQuienes buscan la gloria,\r\nque su espada acabe\r\ncon toda luz."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 73,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 22
+    },
+    "skills": {
+      "576193792": 1
     }
   }
 ]

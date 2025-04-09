@@ -204,7 +204,7 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
         };
 
         for stage in &stages {
-            if data.stage.bits & stage.bitmask_value > 0 {
+            if data.stage.bits() & stage.bitmask_value > 0 {
                 monster.locations.push(stage.game_id);
             }
         }
@@ -750,7 +750,13 @@ struct ReportBossData {
 #[derive(Debug, Deserialize)]
 struct ReportBossDataStage {
     #[serde(rename = "_Value")]
-    bits: u32,
+    bits: [u32; 1],
+}
+
+impl ReportBossDataStage {
+    fn bits(&self) -> u32 {
+        self.bits[0]
+    }
 }
 
 #[derive(Debug, Deserialize)]

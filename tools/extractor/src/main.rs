@@ -46,10 +46,10 @@ enum ExtractorKind {
 }
 
 impl ExtractorKind {
-    fn create(&self, config: &Config, input_prefix: &Path) -> Box<dyn Extractor> {
+    fn create(&self, config: &Config) -> Box<dyn Extractor> {
         match self {
-            Self::User => UserExtractor::create(&config.tools.user, input_prefix),
-            Self::Msg => MsgExtractor::create(&config.tools.msg, input_prefix),
+            Self::User => UserExtractor::create(&config.tools.user, None),
+            Self::Msg => MsgExtractor::create(&config.tools.msg, None),
         }
     }
 
@@ -72,13 +72,12 @@ fn run_targets(
         fs::create_dir_all(&out_dir)?;
     }
 
-    let in_dir = config.io.data.join_opt(section.input_prefix.as_ref());
-    let extractor = extractor_kind.create(config, &in_dir);
+    let extractor = extractor_kind.create(config);
 
     let targets: Vec<_> = section
         .targets
         .iter()
-        .map(|v| get_target_files(&in_dir, v))
+        .map(|v| get_target_files(&config.io.data, section.input_prefix.as_ref(), v))
         .collect();
 
     let progress = ProgressBar::new(targets.len_all_files() as u64);
@@ -86,9 +85,11 @@ fn run_targets(
     targets.into_par_iter().try_for_each(
         |ExpandedTarget { target, files }| -> anyhow::Result<()> {
             files
-                .into_par_iter()
+                .into_iter()
                 .try_for_each(|in_path| -> anyhow::Result<()> {
                     progress.inc(1);
+
+                    let in_path = in_path.canonicalize()?;
 
                     let transform = target.find_transform(in_path.to_str().unwrap());
                     let out_dir = out_dir.join_opt(target.output_prefix.as_ref());
@@ -133,15 +134,29 @@ struct ExpandedTarget<'a> {
     files: Vec<PathBuf>,
 }
 
-fn get_target_files<'a>(prefix: &Path, target: &'a Target) -> ExpandedTarget<'a> {
+fn get_target_files<'a>(
+    paths: &[PathBuf],
+    prefix: Option<&PathBuf>,
+    target: &'a Target,
+) -> ExpandedTarget<'a> {
     let files = target
         .files
         .par_iter()
         .flat_map(|item| -> Vec<_> {
-            let glob = Glob::new(item).unwrap_or_else(|_| panic!("Invalid glob '{item}'"));
+            paths
+                .iter()
+                .flat_map(|path| -> Vec<_> {
+                    let path = match prefix {
+                        Some(v) => &path.join(v),
+                        None => path,
+                    };
 
-            glob.walk(prefix)
-                .flat_map(|v| v.map(|v| v.into_path()))
+                    let glob = Glob::new(item).unwrap_or_else(|_| panic!("Invalid glob '{item}'"));
+
+                    glob.walk(path)
+                        .flat_map(|v| v.map(|v| v.into_path()))
+                        .collect()
+                })
                 .collect()
         })
         .collect();

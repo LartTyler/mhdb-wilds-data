@@ -27,7 +27,7 @@
       "en": "Health Regeneration",
       "fr": "Régénération de vie",
       "it": "Rigenerazione salute",
-      "de": "Verlängerte Gesundheitserh.",
+      "de": "Gesundheitsregen.",
       "es": "Recuperación de salud",
       "ru": "Восстановление здоровья",
       "pl": "Regeneracja zdrowia",
@@ -47,7 +47,7 @@
       "en": "Stamina Regeneration",
       "fr": "Régénération d'endurance",
       "it": "Rigenerazione resistenza",
-      "de": "Ausdauererholung",
+      "de": "Ausdauerregeneration",
       "es": "Recuperación de resistencia",
       "ru": "Восстановление выносливости",
       "pl": "Regeneracja wytrzymałości",
@@ -96,7 +96,7 @@
       "zh-Hant": "防禦力及屬性耐性上升",
       "zh-Hans": "防御力＆属性耐性提升",
       "ar": "زيادة الدفاع والمقاومة العناصرية",
-      "es-419": "Mejora de res. elemental y de defensa"
+      "es-419": "Mejora res. element. y defensa"
     }
   },
   {
@@ -116,7 +116,7 @@
       "zh-Hant": "狀態異常及屬性異常無效",
       "zh-Hans": "状态异常＆属性异常无效",
       "ar": "إبطال الإعتلالات/الأوبئة",
-      "es-419": "Estados alterados/Plagas anulados"
+      "es-419": "Anula plagas y estados alt."
     }
   }
 ]

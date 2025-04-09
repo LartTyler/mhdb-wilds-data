@@ -61,14 +61,14 @@ impl Default for Tools {
 
 #[derive(Debug, Deserialize)]
 pub struct Io {
-    pub data: PathBuf,
+    pub data: Vec<PathBuf>,
     pub output: PathBuf,
 }
 
 impl Default for Io {
     fn default() -> Self {
         Self {
-            data: PathBuf::from("data"),
+            data: Vec::new(),
             output: PathBuf::from("output"),
         }
     }

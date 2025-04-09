@@ -5627,6 +5627,171 @@
     "skills": {}
   },
   {
+    "game_id": 74,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ゾ・ラフィルⅠ",
+      "en": "Zoh Rafel I",
+      "fr": "Zoh Rafel",
+      "it": "Zoh Rafel I",
+      "de": "Zoh Rafel I",
+      "es": "Zoh Rafel I",
+      "ru": "Зо Рафель I",
+      "pl": "Zoh Rafel I",
+      "pt-BR": "Zoh Rafel I",
+      "ko": "조 라필Ⅰ",
+      "zh-Hant": "熾・拉斐爾Ⅰ",
+      "zh-Hans": "白炽太刀拉斐尔Ⅰ",
+      "ar": "زو رافيل 1",
+      "es-419": "Zoh Rafel I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n太刀。冠するは純乎たる守護。\r\n纏わる骸布は死をも遠ざける。",
+      "en": "A Zoh Shia long sword with\r\na shroud that wards against\r\ndeath.",
+      "fr": "Épée longue Zoh Shia.\r\nSon voile protège de la mort.",
+      "it": "Un spada lunga Zoh Shia\r\navvolta da un velo\r\nche protegge dalla morte.",
+      "de": "Ein Langschwert aus Zoh-Shia-\r\nTeilen mit einem Schleier, der\r\nden Tod abwehrt.",
+      "es": "Espada larga de Zoh Shia\r\ncon un manto que protege\r\nde la muerte.",
+      "ru": "Бастард из Зо Шиа, который\r\nокружает пелена, оберегающая\r\nот гибели.",
+      "pl": "Miecz długi Zoh Shia\r\nz całunem chroniącym\r\nprzed śmiercią.",
+      "pt-BR": "Espada longa de Zoh Shia com\r\num véu que protege contra a\r\nmorte.",
+      "ko": "조 시아 소재의 태도.\r\n순수한 수호를 상징한다.\r\n휘감기는 수의는\r\n죽음조차 물리친다.",
+      "zh-Hant": "以白熾龍素材製作的太刀。此刀以\r\n完全的守護為冠。裹纏刀身的骸布\r\n甚至能令死神敬而遠之。",
+      "zh-Hans": "由白炽龙素材锻造，冠以纯粹守护\r\n之名的太刀。缠绕刀身之裹尸布，\r\n连死神亦要敬而远之。",
+      "ar": "سيف (زو شيا) طويل\r\nمع غطاء يقي من الموت.",
+      "es-419": "Una espada larga de Zoh Shia\r\ncon un sudario que protege\r\ncontra la muerte."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 20
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 75,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "熾光たるラフィル",
+      "en": "Blazing Rafel",
+      "fr": "Rafel flamboyant",
+      "it": "Rafel fiammante",
+      "de": "Glühender Rafel",
+      "es": "Rafel calcinante",
+      "ru": "Пламенная Рафель",
+      "pl": "Ognisty Rafel",
+      "pt-BR": "Rafel Escaldante",
+      "ko": "찬란한 라필",
+      "zh-Hant": "熾光拉斐爾",
+      "zh-Hans": "炽光太刀拉斐尔",
+      "ar": "رافيل الملتهب",
+      "es-419": "Rafel ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしラフィルは告げる。\r\n汝、守護を求めて臥せる者よ。\r\n振るう斬影が輪廻からも庇わん。",
+      "en": "Rafel harketh from on high:\r\nThou who seekest protection,\r\nmay thy swinging blade guard\r\nagainst even thy reincarnation.",
+      "fr": "Rafel déclara depuis les cieux :\r\n\"Toi qui as cherché la protection,\r\npuisse ta lame te protéger même\r\nde la réincarnation\".",
+      "it": "Rafel declama dall'alto:\r\nTu che cerchi la protezione,\r\npossa la tua lama tranciante\r\nschermarti dalla reincarnazione.",
+      "de": "Rafel ruft von oben herab:\r\nJene, die Schutz suchen!\r\nMöge eure Klinge selbst eure\r\nWiederauferstehung vereiteln!",
+      "es": "Rafel brama desde lo alto:\r\nQuienes buscáis protección,\r\nque vuestra espada os proteja\r\nincluso ante vuestra reencarnación.",
+      "ru": "И воскликнула вознёсшаяся\r\nРафель: «Ты, что алчешь защиты!\r\nПусть острый меч твой оберегает\r\nтебя даже от перерождения!»",
+      "pl": "Z wysoka rzecze Rafel: ty,\r\nktóry szukasz ochrony, niech\r\ntwe wirujące ostrze chroni cię\r\nnawet przed twą reinkarnacją.",
+      "pt-BR": "Rafel brada das alturas:\r\nTu que buscas proteção, que o\r\nbalançar de tua lâmina abriga-te\r\naté mesmo da reencarnação.",
+      "ko": "하늘에 올라 라필이 고한다.\r\n그대, 수호를 바라며 누운\r\n자여. 휘두르는 참영이\r\n내세에도 그대를 비호하리라.",
+      "zh-Hant": "天上的拉斐爾在此宣告：渴求守護而\r\n倒臥之輩啊，舞動的刀影將阻斷汝的\r\n輪迴之路。",
+      "zh-Hans": "拉斐尔自天上传下意志——渴求守\r\n护的匍匐者啊，吾之剑影自当从轮\r\n回中将汝庇佑。",
+      "ar": "ينادي (رافيل) من الأعالي:\r\nأيها الساعي إلى الحماية\r\nلعل نصلك المتأرجح\r\nيقيك حتى من تناسخك.",
+      "es-419": "Rafel brama desde lo alto:\r\nQuienes buscan protección, que\r\nsu espada los libere incluso\r\ndel ciclo de la reencarnación."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 74,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 20
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
     "game_id": 78,
     "kind": "long-sword",
     "sharpness": {
@@ -5855,6 +6020,173 @@
     },
     "skills": {
       "-283334048": 3
+    }
+  },
+  {
+    "game_id": 81,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "狐刀カカルクモナキⅠ",
+      "en": "Kakaru Kumo Naki I",
+      "fr": "Kakaru Kumo Naki",
+      "it": "Kakaru Kumo Naki I",
+      "de": "Kakaru Kumo Naki I",
+      "es": "Kakaru Kumo Naki I",
+      "ru": "Какару Кумо Наки I",
+      "pl": "Kakaru Kumo Naki I",
+      "pt-BR": "Kakaru Kumo Naki I",
+      "ko": "호도 카카루쿠모나키Ⅰ",
+      "zh-Hant": "狐刀無雲照明月Ⅰ",
+      "zh-Hans": "狐刀【月照心自明】Ⅰ",
+      "ar": "كاكارو كومو ناكي 1",
+      "es-419": "Kakaru Kumo Naki I"
+    },
+    "descriptions": {
+      "ja": "軍神と謳われた士が遺した\r\n雅なる刀。有明の如き麗しさを\r\nたたえた刃が阻む者を斬る。",
+      "en": "The katana of a samurai war\r\nhero. Beautiful and deadly\r\nin equal measure.",
+      "fr": "Katana d'un samouraï héros\r\nde guerre. Incarne la beauté\r\net la mort.",
+      "it": "Katana di un eroe di guerra\r\nsamurai. Splendida e letale\r\nin egual misura.",
+      "de": "Das Katana eines Samurai-\r\nKriegshelden, gleichzeitig\r\nschön und tödlich.",
+      "es": "Katana de un héroe de guerra\r\nsamurái. Bella y letal a\r\npartes iguales.",
+      "ru": "Катана героического\r\nсамурая. Одинаково\r\nпрекрасна и смертоносна.",
+      "pl": "Katana samuraja, który\r\nzasłużył się w wojnie. Tak\r\npiękna, jak mordercza.",
+      "pt-BR": "A katana de um samurai herói\r\nde guerra. Bonita e mortal\r\nem igual medida.",
+      "ko": "군신이라 불린 무사가 남긴\r\n우아한 태도. 여명처럼 아름다운\r\n칼날이 가로막는 자를 벤다.",
+      "zh-Hant": "被譽為軍神之人遺留下來的雅致\r\n之刀。那有如在讚頌拂曉之美的\r\n刀刃會斬殺所有阻其去路之人。",
+      "zh-Hans": "被誉为军神者遗留的雅致之刀。那\r\n有如在赞颂拂晓之美的刀刃会斩杀\r\n所有阻挡去路之人。",
+      "ar": "سيف كاتانا يعود لبطل\r\nحرب ساموراي. جميل ومميت\r\nفي الوقت ذاته.",
+      "es-419": "Katana de un héroe de guerra\r\nsamurái. Bella y letal a\r\npartes iguales."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 21
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 82,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "たまのをの絶刀の斬振",
+      "en": "Tamonowo",
+      "fr": "Tamonowo",
+      "it": "Tamonowo",
+      "de": "Tamonowo",
+      "es": "Tamonowo",
+      "ru": "Тамоно-о",
+      "pl": "Tamonowo",
+      "pt-BR": "Tamonowo",
+      "ko": "끊어내는 절도의 참진",
+      "zh-Hant": "玉環絕刀之揮斬",
+      "zh-Hans": "玉绳绝刀之斩振",
+      "ar": "تامونوو",
+      "es-419": "Tamonowo"
+    },
+    "descriptions": {
+      "ja": "斬るは命脈、絶つは定め。\r\n雅なる刀に映るは月痕のみ。\r\n狐刀カカルクモナキ強化型。",
+      "en": "The upgraded Kakaru Kumo\r\nNaki. Cuts life's threads with\r\ndecisiveness.",
+      "fr": "Kakaru Kumo Naki améliorée.\r\nTranche le fil de la vie sans\r\nmarquer d'hésitation.",
+      "it": "Forma potenziata della Kakaru\r\nKumo Naki. Taglia di netto\r\nil filo della vita.",
+      "de": "Die verbesserte Version des\r\nKakaru Kumo Naki durchtrennt\r\njeden Lebensfaden mit Leichtig-\r\nkeit.",
+      "es": "Kakaru Kumo Naki mejorada.\r\nSiega el hilo vital con\r\nfirmeza.",
+      "ru": "Улучшенный «Какару Кумо\r\nНаки». Перерезает нити\r\nжизни без колебаний.",
+      "pl": "Ulepszona wersja Kakaru Kumo\r\nNaki. Sprawnie przecina\r\nnić żywota.",
+      "pt-BR": "Kakaru Kumo Naki melhorada.\r\nCorta os fios da vida com\r\ndeterminação.",
+      "ko": "명맥을 베어 숙명을 끊는다.\r\n칼날에는 달그림자만 비추리.\r\n카카루쿠모나키의 강화형.",
+      "zh-Hant": "強化版狐刀無雲照明月。斬斷的\r\n是命脈，除絕的是命運。映在雅致\r\n刀身上的只有月痕。",
+      "zh-Hans": "狐刀【月照心自明】强化型。断绝\r\n的是命脉，斩除的是命运。映在雅\r\n致刀身上的只有月痕。",
+      "ar": "كاكارو كومو ناكي\r\nمطوّر. يقطع أوصال\r\nالحياة بحزم.",
+      "es-419": "Kakaru Kumo Naki mejorada.\r\nSiega los hilos de la vida\r\ncon firmeza."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
     }
   }
 ]

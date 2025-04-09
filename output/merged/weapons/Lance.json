@@ -2508,7 +2508,7 @@
       "de": "Schon ein einziger Stich mit\r\ndiesem Rompopolo-Speer\r\nreicht aus, um massenhaft\r\nGift in sein Opfer zu pumpen.",
       "es": "Lanza impregnada de veneno de\r\nRompopolo. Con un solo pinchazo,\r\ninyecta en la víctima una dosis\r\nletal de veneno.",
       "ru": "Копьё, наконечник которого\r\nисточает яд ромпополо. Одного\r\nукола достаточно, чтобы ввести\r\nсмертельную дозу.",
-      "pl": "Włócznia nasączona jadem Rompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
+      "pl": "Włócznia nasączona jadem\r\nRompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
       "pt-BR": "Lança imbuída com veneno de\r\nRompopolo. Basta uma picada\r\npara injetar uma dose letal de\r\nveneno na vítima.",
       "ko": "푸푸로포루의 독액이 충전된\r\n창. 주사기 바늘 같은 칼날로\r\n찌르면 대상에게 적정량의\r\n독을 주입할 수 있다.",
       "zh-Hant": "裝滿沼噴龍毒液的長槍。槍刃形似\r\n注射器的針頭，穿刺可對目標注射\r\n適量毒液。",
@@ -2588,7 +2588,7 @@
       "de": "Schon ein einziger Stich mit\r\ndiesem Rompopolo-Speer\r\nreicht aus, um massenhaft\r\nGift in sein Opfer zu pumpen.",
       "es": "Lanza impregnada de veneno de\r\nRompopolo. Con un solo pinchazo,\r\ninyecta en la víctima una dosis\r\nletal de veneno.",
       "ru": "Копьё, наконечник которого\r\nисточает яд ромпополо. Одного\r\nукола достаточно, чтобы ввести\r\nсмертельную дозу.",
-      "pl": "Włócznia nasączona jadem Rompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
+      "pl": "Włócznia nasączona jadem\r\nRompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
       "pt-BR": "Lança imbuída com veneno de\r\nRompopolo. Basta uma picada\r\npara injetar uma dose letal de\r\nveneno na vítima.",
       "ko": "푸푸로포루의 독액이 충전된\r\n창. 주사기 바늘 같은 칼날로\r\n찌르면 대상에게 적정량의\r\n독을 주입할 수 있다.",
       "zh-Hant": "裝滿沼噴龍毒液的長槍。槍刃形似\r\n注射器的針頭，穿刺可對目標注射\r\n適量毒液。",
@@ -2670,7 +2670,7 @@
       "de": "Schon ein einziger Stich mit\r\ndiesem Rompopolo-Speer\r\nreicht aus, um massenhaft\r\nGift in sein Opfer zu pumpen.",
       "es": "Lanza impregnada de veneno de\r\nRompopolo. Con un solo pinchazo,\r\ninyecta en la víctima una dosis\r\nletal de veneno.",
       "ru": "Копьё, наконечник которого\r\nисточает яд ромпополо. Одного\r\nукола достаточно, чтобы ввести\r\nсмертельную дозу.",
-      "pl": "Włócznia nasączona jadem Rompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
+      "pl": "Włócznia nasączona jadem\r\nRompopola. Wystarczy jedno\r\nukłucie, by wstrzyknąć ofierze\r\nśmiertelną dawkę trucizny.",
       "pt-BR": "Lança imbuída com veneno de\r\nRompopolo. Basta uma picada\r\npara injetar uma dose letal de\r\nveneno na vítima.",
       "ko": "푸푸로포루의 독액이 충전된\r\n창. 주사기 바늘 같은 칼날로\r\n찌르면 대상에게 적정량의\r\n독을 주입할 수 있다.",
       "zh-Hant": "裝滿沼噴龍毒液的長槍。槍刃形似\r\n注射器的針頭，穿刺可對目標注射\r\n適量毒液。",
@@ -4707,7 +4707,7 @@
       "en": "A giant lance worthy of Gravios's\r\nname. The wielder must be extra\r\ncautious of its blast capabilities.",
       "fr": "Épieu géant aussi féroce qu'un\r\nGravios. Le porteur doit faire très\r\nattention à son potentiel explosif.",
       "it": "Una lancia degna del Gravios. \r\nDa maneggiare con cautela\r\nper le sue capacità esplosive.",
-      "de": "Riesige Lanze, die Gravios’ Namen\r\nalle Ehre macht. Ihr Explosions-\r\nelement macht sie besonders\r\ngefährlich für Träger.",
+      "de": "Eine riesige Lanze, die Gravios’\r\nNamen alle Ehre macht. Ihre\r\nExplosivität macht sie für den\r\nTräger besonders gefährlich.",
       "es": "Lanza gigante digna del nombre\r\nGravios. Hay que tener especial\r\ncuidado con sus propiedades\r\nde nitro.",
       "ru": "Огромное копьё, отражающее\r\nхарактер гравиоса и достойное\r\nсвоего названия. Осторожно: его\r\nвзрывная мощь очень опасна.",
       "pl": "Olbrzymia lanca godna Graviosa.\r\nZe względu na właściwości\r\nwybuchowe, należy zachować\r\nszczególną ostrożność.",
@@ -5684,6 +5684,338 @@
     },
     "skills": {
       "-307644128": 3
+    }
+  },
+  {
+    "game_id": 75,
+    "kind": "lance",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ゾ・シタールⅠ",
+      "en": "Zoh Sital I",
+      "fr": "Zoh Sital",
+      "it": "Zoh Sital I",
+      "de": "Zoh Sital I",
+      "es": "Zoh Sital I",
+      "ru": "Зо Ситаль I",
+      "pl": "Zoh Sital I",
+      "pt-BR": "Zoh Sital I",
+      "ko": "조 시탈Ⅰ",
+      "zh-Hant": "熾・席塔爾Ⅰ",
+      "zh-Hans": "白炽枪西塔尔Ⅰ",
+      "ar": "زو سيتال 1",
+      "es-419": "Zoh Sital I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n槍。冠するは無雑たる成就。\r\n不均衡な大盾が障害を一掃する。",
+      "en": "A Zoh Shia lance that sweeps\r\naway all who dare stand\r\nbefore it.",
+      "fr": "Lance Zoh Shia qui terrasse\r\ntous ceux qui osent se dresser\r\ndevant elle.",
+      "it": "Una lancia Zoh Shia che spazza \r\nvia chiunque osi sbarrarti \r\nla strada.",
+      "de": "Eine Lanze aus Zoh-Shia-Teilen,\r\ndie jeden hinwegfegt, der\r\nsich ihr in den Weg stellt.",
+      "es": "Lanza de Zoh Shia que barre\r\na todos los que osen hacerle\r\nfrente.",
+      "ru": "Копьё из Зо Шиа, сметающее\r\nвсех, кто посмеет встать на пути\r\nу его хозяина.",
+      "pl": "Lanca Zoh Shia,\r\nktóra zmiata wszystkich,\r\nktórzy ośmielą się przed nią stanąć.",
+      "pt-BR": "Lança de Zoh Shia que derruba\r\ntodos que ousam ficar à sua\r\nfrente.",
+      "ko": "조 시아 소재의 창.\r\n무난한 성취를 상징한다.\r\n불균형한 큰 방패가\r\n방해물을 소탕한다.",
+      "zh-Hant": "以白熾龍素材製作的長槍。此槍以\r\n純粹的成就為冠。不對稱的大盾將\r\n一掃前方障礙。",
+      "zh-Hans": "由白炽龙素材锻造，冠以无暇成就\r\n之名的长枪。不对称设计的大盾将\r\n扫平一切障碍。",
+      "ar": "رمح (زو شيا)\r\nالذي يقضي على كل مَن يجرؤ\r\nعلى مواجهته.",
+      "es-419": "Una lanza de Zoh Shia que arrasa\r\ncon todos los que se interponen\r\nen su camino."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 20
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 76,
+    "kind": "lance",
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "熾光たるシタール",
+      "en": "Blazing Sital",
+      "fr": "Sital flamboyant",
+      "it": "Sital fiammante",
+      "de": "Glühender Sital",
+      "es": "Sital calcinante",
+      "ru": "Пламенная Ситаль",
+      "pl": "Ognisty Sital",
+      "pt-BR": "Sital Escaldante",
+      "ko": "찬란한 시탈",
+      "zh-Hant": "熾光席塔爾",
+      "zh-Hans": "炽光枪西塔尔",
+      "ar": "سيتال الملتهب",
+      "es-419": "Sital ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしシタールは告げる。\r\n汝、成就を求めて留まる者よ。\r\n不動の壁が挫折をも封じよう。",
+      "en": "Sital harketh from on high:\r\nThou who seekest fulfillment,\r\nmay this immovable wall\r\ndeny all hindrances.",
+      "fr": "Sital déclara depuis les cieux :\r\n\"Toi qui as cherché la plénitude,\r\npuisse ce mur inébranlable\r\nte libérer des entraves\".",
+      "it": "Sital declama dall'alto:\r\nTu che cerchi adempimento,\r\npossa questo muro inamovibile\r\nbloccare ogni interferenza.",
+      "de": "Sital ruft von oben herab:\r\nJene, die Erfüllung suchen!\r\nMöget ihr mit eisernem Wall\r\njedes Hindernis beseitigen!",
+      "es": "Sital brama desde lo alto:\r\nQuienes busquéis satisfacción,\r\nque es muro inamovible\r\nanule todas las molestias.",
+      "ru": "И воскликнула вознёсшаяся Ситаль:\r\n«Ты, что алчешь свершений!\r\nПусть эта непоколебимая стена\r\nзаслонит тебя от помех!»",
+      "pl": "Z wysoka rzecze Sital: ty,\r\nktóry szukasz chwały spełnienia,\r\nniech ta niewzruszona ściana\r\nzaprzeczy wszelkim przeszkodom.",
+      "pt-BR": "Sital brada das alturas:\r\nTu que buscas realização,\r\nque esta muralha impenetrável\r\nderrube todos os obstáculos.",
+      "ko": "하늘에 올라 시탈이 고한다.\r\n그대, 성취를 바라고 머무는\r\n자여. 철옹성의 벽이\r\n좌절조차 봉인하리.",
+      "zh-Hant": "天上的席塔爾在此宣告：渴求成就\r\n而裹足之輩啊，不動的鐵壁將阻擋\r\n一切挫折。",
+      "zh-Hans": "西塔尔自天上传下意志——渴功成\r\n名就的驻守者啊，吾之铜墙铁壁当\r\n可阻挡一切挫折。",
+      "ar": "ينادي (سيتال) من الأعالي:\r\nأيها الساعي إلى الكمال\r\nليكن هذا الجدار الراسخ\r\nمانعًا لكل العراقيل.",
+      "es-419": "Sital brama desde lo alto:\r\nQue este muro inamovible remueva\r\ntodos los obstáculos de quienes\r\nbuscan realización."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 20
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 78,
+    "kind": "lance",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "狐槍ハナモハナナレⅠ",
+      "en": "Hana Mo Hana Nare I",
+      "fr": "Hana mo Hana Nare",
+      "it": "Hana Mo Hana Nare I",
+      "de": "Hana Mo Hana Nare I",
+      "es": "Hana Mo Hana Nare I",
+      "ru": "Хана Мо Хана Нарэ I",
+      "pl": "Hana Mo Hana Nare I",
+      "pt-BR": "Hana Mo Hana Nare I",
+      "ko": "호창 하나모하나나레Ⅰ",
+      "zh-Hant": "狐槍花凋方可憶Ⅰ",
+      "zh-Hans": "狐枪【知谢芬芳益】Ⅰ",
+      "ar": "هانا مو هانا ناري 1",
+      "es-419": "Hana Mo Hana Nare I"
+    },
+    "descriptions": {
+      "ja": "神に祈りを捧げた姫が遺した\r\n雅なる槍。散りゆく花の如き\r\n美しき死を獲物にもたらす。",
+      "en": "Like flower petals in the\r\nwind, this lance reminds all\r\nof life's ephemeral nature.",
+      "fr": "Lance qui, comme des pétales\r\nlancés au vent, rappelle que\r\nla vie est courte.",
+      "it": "Come petali nel vento,\r\nquesta lancia ricorda la\r\nnatura effimera della vita.",
+      "de": "Wie die Blätter im Wind\r\nerinnert diese Lanze an die\r\nKurzlebigkeit der Natur.",
+      "es": "Como pétalos al viento,\r\nesta lanza recuerda a todo\r\nlo efímero de la existencia.",
+      "ru": "Подобно цветочным лепесткам\r\nна ветру, это копьё служит\r\nнапоминанием о скоротечности\r\nжизни.",
+      "pl": "Jak płatki kwiatu na\r\nwietrze, ta lanca przypomina\r\no ulotności życia.",
+      "pt-BR": "Como pétalas de flores ao\r\nvento, esta lança lembra\r\na natureza efêmera da vida.",
+      "ko": "신에게 기도하는 공주가 남긴\r\n우아한 창. 흩어지는 꽃처럼\r\n아름다운 죽음을 선사한다.",
+      "zh-Hant": "一心向神祝禱的公主所遺留的典雅\r\n長槍。凡槍過身，命殞如繁花凋落。",
+      "zh-Hans": "对神祈祷的公主留下的风雅长枪。\r\n为猎物带来死亡，优美如群芳凋谢。",
+      "ar": "مثل بتلات الزهور التي تحملها الرياح\r\nيذكِّر هذا الرمح الجميع\r\nبطبيعة الحياة الزائلة.",
+      "es-419": "Como pétalos al viento,\r\nesta lanza recuerda a todo\r\nlo efímero de la existencia."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 21
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 79,
+    "kind": "lance",
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "きみがきる笠槍の突刺",
+      "en": "Kimi Ga Kiru",
+      "fr": "Kimi ga Kiru",
+      "it": "Kimi Ga Kiru",
+      "de": "Kimi Ga Kiru",
+      "es": "Kimi ga Kiru",
+      "ru": "Кими Га Киру",
+      "pl": "Kimi Ga Kiru",
+      "pt-BR": "Kimi Ga Kiru",
+      "ko": "삿갓 쓴 입창의 돌자",
+      "zh-Hant": "君著笠槍之突刺",
+      "zh-Hans": "君着笠枪之突刺",
+      "ar": "كيمي جا كيرو",
+      "es-419": "Kimi ga Kiru"
+    },
+    "descriptions": {
+      "ja": "雅なる槍が華を刺す。乱れ散る\r\n花片は、舞姫の如く麗しい。\r\n狐槍ハナモハナナレ強化型。",
+      "en": "The Hana Mo Hana Nare's\r\nevolved form. Beautifully\r\ndispenses with life.",
+      "fr": "Hana mo Hana Nare améliorée.\r\nFait des cadavres exquis.",
+      "it": "Hana Mo Hana Nare\r\npotenziata. La vita lascia\r\nplacidamente le sue vittime.",
+      "de": "Die verbesserte Version der\r\nHana Mo Hana Nare löscht das\r\nLeben mit der Anmut der Natur\r\naus.",
+      "es": "Hana Mo Hana Nare\r\nmejorada. Arrebata la\r\nvida con gran belleza.",
+      "ru": "Улучшенный вариант «Хана\r\nМо Хана Нарэ». Красота,\r\nкоторая губит жизнь.",
+      "pl": "Podrasowana forma\r\nHana Mo Hana Nare.\r\nPięknie pozbawia życia.",
+      "pt-BR": "A forma evoluída de Hana\r\nMo Hana Nare. Acaba com\r\na vida maravilhosamente.",
+      "ko": "창이 꽃을 찌른다. 흩날리는\r\n꽃잎은 춤추듯 아름답다.\r\n하나모하나나레의 강화형.",
+      "zh-Hant": "強化版狐槍花凋方可憶。風雅長槍\r\n刺向繁花，花瓣亂舞猶如綺麗舞姬。",
+      "zh-Hans": "狐枪【知谢芬芳益】强化型。风雅\r\n长枪刺中花朵。凋零的花瓣如舞女\r\n般绚烂。",
+      "ar": "الشكل المطور من (هانا مو هانا ناري).\r\nيقضي على الحياة\r\nبطريقة بديعة.",
+      "es-419": "Hana Mo Hana Nare mejorada.\r\nArrebata la vida con gran\r\nbelleza."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 78,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
     }
   },
   {

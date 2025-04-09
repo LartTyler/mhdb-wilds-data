@@ -263,7 +263,7 @@
       "zh-Hant": "節省耐力【短】",
       "zh-Hans": "耐力节约【短】",
       "ar": "تقليل استخدام قوة التحمل (ص)",
-      "es-419": "Menos gasto de res. (P)"
+      "es-419": "Antigasto de resistencia (P)"
     }
   },
   {
@@ -287,7 +287,7 @@
       "zh-Hant": "節省耐力【短】",
       "zh-Hans": "耐力节约【短】",
       "ar": "تقليل استخدام قوة التحمل (ص)",
-      "es-419": "Menos gasto de res. (P)"
+      "es-419": "Antigasto de resistencia (P)"
     }
   },
   {
@@ -311,7 +311,7 @@
       "zh-Hant": "節省耐力【短】",
       "zh-Hans": "耐力节约【短】",
       "ar": "تقليل استخدام قوة التحمل (ص)",
-      "es-419": "Menos gasto de res. (P)"
+      "es-419": "Antigasto de resistencia (P)"
     }
   },
   {
@@ -434,7 +434,7 @@
       "zh-Hant": "攻擊力上升【小】",
       "zh-Hans": "攻击力提升【小】",
       "ar": "زيادة الهجوم (ص)",
-      "es-419": "Ataque+ (P)"
+      "es-419": "Mejora de ataque (P)"
     }
   },
   {
@@ -458,7 +458,7 @@
       "zh-Hant": "攻擊力上升【小】",
       "zh-Hans": "攻击力提升【小】",
       "ar": "زيادة الهجوم (ص)",
-      "es-419": "Ataque+ (P)"
+      "es-419": "Mejora de ataque (P)"
     }
   },
   {
@@ -483,7 +483,7 @@
       "zh-Hant": "攻擊力上升【大】",
       "zh-Hans": "攻击力提升【大】",
       "ar": "زيادة الهجوم (ك)",
-      "es-419": "Ataque+ (G)"
+      "es-419": "Mejora de ataque (G)"
     }
   },
   {
@@ -508,7 +508,7 @@
       "zh-Hant": "攻擊力上升【大】",
       "zh-Hans": "攻击力提升【大】",
       "ar": "زيادة الهجوم (ك)",
-      "es-419": "Ataque+ (G)"
+      "es-419": "Mejora de ataque (G)"
     }
   },
   {
@@ -533,7 +533,7 @@
       "zh-Hant": "攻擊力上升【大】",
       "zh-Hans": "攻击力提升【大】",
       "ar": "زيادة الهجوم (ك)",
-      "es-419": "Ataque+ (G)"
+      "es-419": "Mejora de ataque (G)"
     }
   },
   {
@@ -558,7 +558,7 @@
       "zh-Hant": "攻擊力上升【大】",
       "zh-Hans": "攻击力提升【大】",
       "ar": "زيادة الهجوم (ك)",
-      "es-419": "Ataque+ (G)"
+      "es-419": "Mejora de ataque (G)"
     }
   },
   {
@@ -576,14 +576,14 @@
       "it": "Aumenta attacco elementale",
       "de": "Elementangriffsbonus",
       "es": "Bonus ataque elemental",
-      "ru": "Усиление стихийного урона",
+      "ru": "Усиление стихийных атак",
       "pl": "Żywiołowe wzmocnienie ataku",
       "pt-BR": "Ref. de Ataque Elemental",
       "ko": "속성 공격력 UP",
       "zh-Hant": "屬性攻擊力上升",
       "zh-Hans": "属性攻击力提升",
       "ar": "تعزيز الهجوم العنصري",
-      "es-419": "Bonus ataques elem."
+      "es-419": "Bonus ataque elemental"
     }
   },
   {
@@ -601,14 +601,14 @@
       "it": "Aumenta attacco elementale",
       "de": "Elementangriffsbonus",
       "es": "Bonus ataque elemental",
-      "ru": "Усиление стихийного урона",
+      "ru": "Усиление стихийных атак",
       "pl": "Żywiołowe wzmocnienie ataku",
       "pt-BR": "Ref. de Ataque Elemental",
       "ko": "속성 공격력 UP",
       "zh-Hant": "屬性攻擊力上升",
       "zh-Hans": "属性攻击力提升",
       "ar": "تعزيز الهجوم العنصري",
-      "es-419": "Bonus ataques elem."
+      "es-419": "Bonus ataque elemental"
     }
   },
   {
@@ -626,14 +626,14 @@
       "it": "Aumenta attacco elementale",
       "de": "Elementangriffsbonus",
       "es": "Bonus ataque elemental",
-      "ru": "Усиление стихийного урона",
+      "ru": "Усиление стихийных атак",
       "pl": "Żywiołowe wzmocnienie ataku",
       "pt-BR": "Ref. de Ataque Elemental",
       "ko": "속성 공격력 UP",
       "zh-Hant": "屬性攻擊力上升",
       "zh-Hans": "属性攻击力提升",
       "ar": "تعزيز الهجوم العنصري",
-      "es-419": "Bonus ataques elem."
+      "es-419": "Bonus ataque elemental"
     }
   },
   {
@@ -1170,7 +1170,7 @@
       "zh-Hant": "麻痺無效",
       "zh-Hans": "麻痹无效",
       "ar": "تم إبطال الشلل",
-      "es-419": "Niega parálisis"
+      "es-419": "Anula parálisis"
     }
   },
   {
@@ -1194,7 +1194,7 @@
       "zh-Hant": "麻痺無效",
       "zh-Hans": "麻痹无效",
       "ar": "تم إبطال الشلل",
-      "es-419": "Niega parálisis"
+      "es-419": "Anula parálisis"
     }
   },
   {
@@ -1315,7 +1315,7 @@
       "zh-Hant": "風壓完全無效",
       "zh-Hans": "风压完全无效",
       "ar": "تم إبطال كل ضغط الرياح",
-      "es-419": "Niega toda ráfaga de viento"
+      "es-419": "Anula toda ráfaga de viento"
     }
   },
   {
@@ -1339,7 +1339,7 @@
       "zh-Hant": "風壓完全無效",
       "zh-Hans": "风压完全无效",
       "ar": "تم إبطال كل ضغط الرياح",
-      "es-419": "Niega toda ráfaga de viento"
+      "es-419": "Anula toda ráfaga de viento"
     }
   },
   {
@@ -1387,7 +1387,7 @@
       "zh-Hant": "地形傷害無效",
       "zh-Hans": "地形伤害无效",
       "ar": "البيئة تم إبطال الضرر",
-      "es-419": "Niega daño por entorno"
+      "es-419": "Anula daño por entorno"
     }
   },
   {
@@ -1486,7 +1486,7 @@
       "zh-Hant": "高周波",
       "zh-Hans": "高周波",
       "ar": "موجات صوتية",
-      "es-419": "Olas sónicas"
+      "es-419": "Ondas sónicas"
     }
   },
   {
@@ -1524,7 +1524,7 @@
     "names": {
       "ja": "攻撃＆防御強化【小】",
       "en": "Attack/Defense Up (S)",
-      "fr": "Attaque/Défense (P)",
+      "fr": "Bonus attaque + défense (P)",
       "it": "Aumenta attacco/difesa (S)",
       "de": "Angr. & Vert. hoch (S)",
       "es": "Mejora de ataque/defensa (P)",
@@ -1535,7 +1535,7 @@
       "zh-Hant": "攻擊＆防禦強化【小】",
       "zh-Hans": "攻击＆防御强化【小】",
       "ar": "هجوم/زيادة الدفاع (ص)",
-      "es-419": "Mejora de ataque/defensa (P)"
+      "es-419": "Mejora ataque/defensa (P)"
     }
   },
   {
@@ -1549,11 +1549,11 @@
     "names": {
       "ja": "会心率UP＆体力回復",
       "en": "Affinity Up/Health Recovery",
-      "fr": "Affinité/Récupération",
+      "fr": "Bonus affinité/Récupération vie",
       "it": "Aumenta affinità/recupero salute",
       "de": "Affin. hoch&GesundErh.",
       "es": "Recuperación salud/afinidad+",
-      "ru": "Усил. маст-ва/Восст. здоровья",
+      "ru": "Усил. маст-ва / Восст. здоровья",
       "pl": "Wzrost zgodności / Regen. zdrowia",
       "pt-BR": "Aum. Afinidade/Reg. de Vida",
       "ko": "회심률 UP&체력 회복",

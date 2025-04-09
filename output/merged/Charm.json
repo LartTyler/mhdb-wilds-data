@@ -57,6 +57,25 @@
     }
   },
   {
+    "game_id": -1552970880,
+    "names": {
+      "ja": "背伸びしろねこハニワ",
+      "en": "Stretched White Cat",
+      "fr": "Chat blanc étiré",
+      "it": "Gatto bianco rilassato",
+      "de": "Weiße Katze (lang)",
+      "es": "Gato blanco estirado",
+      "ru": "Потягивающийся белый кот",
+      "pl": "Rozciągnięty biały kot",
+      "pt-BR": "Gato Branco Alongado",
+      "ko": "길쭉 하얀 고양이 모형",
+      "zh-Hant": "長長白貓陶偶",
+      "zh-Hans": "长身白猫陶俑",
+      "ar": "قطة بيضاء متمطّطة",
+      "es-419": "Gato blanco estirándose"
+    }
+  },
+  {
     "game_id": -1314967296,
     "names": {
       "ja": "決意の証【鎖刃竜】",
@@ -64,7 +83,7 @@
       "fr": "Arkveld : gage de détermination",
       "it": "Arkveld: Marchio risoluzione",
       "de": "Arkveld: Entschluss",
-      "es": "Arkveld: Señal de determinación",
+      "es": "Arkveld: Señal de determ.",
       "ru": "Арквельд: знак решимости",
       "pl": "Arkveld: Symbol determ.",
       "pt-BR": "Arkveld: Resolução",
@@ -190,6 +209,44 @@
     }
   },
   {
+    "game_id": 154,
+    "names": {
+      "ja": "フェアリーライト・緑輝",
+      "en": "Green Fairy Light",
+      "fr": "Lumière féérique verte",
+      "it": "Luce di fata verde",
+      "de": "Feenlicht (grün)",
+      "es": "Luz feérica verde",
+      "ru": "Зелёный фонарик",
+      "pl": "Zielone światełka",
+      "pt-BR": "Luz Fádica Verde",
+      "ko": "페어리라이트 그린",
+      "zh-Hant": "妖精之光・綠輝",
+      "zh-Hans": "精灵之光·绿辉",
+      "ar": "ضوء الجنية الأخضر",
+      "es-419": "Luz feérica verde"
+    }
+  },
+  {
+    "game_id": 610,
+    "names": {
+      "ja": "花舞のブーケ・白",
+      "en": "Sakura Posy: White",
+      "fr": "Bouquet blanc",
+      "it": "Bouquet sakura: bianco",
+      "de": "Sakura-Strauß (weiß)",
+      "es": "Ramo de Sakura: blanco",
+      "ru": "Букет сакуры: белый",
+      "pl": "Wiązanka białych sakur",
+      "pt-BR": "Ramo de Cerejeira: Branco",
+      "ko": "화무 부케/화이트",
+      "zh-Hant": "花舞捧花・白",
+      "zh-Hans": "花舞之束・白",
+      "ar": "باقة أزهار ساكورا: بيضاء",
+      "es-419": "Sakura blanca"
+    }
+  },
+  {
     "game_id": 981,
     "names": {
       "ja": "希望のスカーフＧ・青紫",
@@ -206,6 +263,82 @@
       "zh-Hans": "希望领巾G·紫蓝",
       "ar": "وشاح الأمل G: وردي/أزرق",
       "es-419": "Pañuelo G: Rosa/azul"
+    }
+  },
+  {
+    "game_id": 1321,
+    "names": {
+      "ja": "フェアリーライト・赤輝",
+      "en": "Red Fairy Light",
+      "fr": "Lumière féérique rouge",
+      "it": "Luce di fata rossa",
+      "de": "Feenlicht (rot)",
+      "es": "Luz feérica roja",
+      "ru": "Красный фонарик",
+      "pl": "Czerwone światełka",
+      "pt-BR": "Luz Fádica Vermelha",
+      "ko": "페어리라이트 레드",
+      "zh-Hant": "妖精之光・赤輝",
+      "zh-Hans": "精灵之光·赤辉",
+      "ar": "ضوء الجنية الأحمر",
+      "es-419": "Luz feérica roja"
+    }
+  },
+  {
+    "game_id": 2352,
+    "names": {
+      "ja": "覇者の証【闢獣】",
+      "en": "Doshaguma: Mark of Mastery",
+      "fr": "Doshaguma : gage de maîtrise",
+      "it": "Dosha: Marchio mistero",
+      "de": "Dosha: Dominanz",
+      "es": "Dosha: Señal de dominio",
+      "ru": "Дошагума: знак мастера",
+      "pl": "Doshaguma: Symbol mistrzostwa",
+      "pt-BR": "Doshaguma: Maestria",
+      "ko": "패자의 증표【벽수】",
+      "zh-Hant": "霸者之證【闢獸】",
+      "zh-Hans": "霸者之证【辟兽】",
+      "ar": "دوشاغوما: رمز الإتقان",
+      "es-419": "Doshaguma: dominio"
+    }
+  },
+  {
+    "game_id": 4166,
+    "names": {
+      "ja": "アイルーテディ・花舞",
+      "en": "Sakura Felyne Teddy",
+      "fr": "Peluche Felyne sakura",
+      "it": "Orso sakura F",
+      "de": "Felynen-Teddy (Sakura)",
+      "es": "Peluche Felyne Sakura",
+      "ru": "Плюшевый котт (сакура)",
+      "pl": "Sakurowy pluszowy felin",
+      "pt-BR": "Pelúcia de Felyno Cerejeira",
+      "ko": "아이루 테디/화무",
+      "zh-Hant": "泰迪艾路・花舞",
+      "zh-Hans": "泰迪艾露猫・花舞",
+      "ar": "دمية فيلاين ساكورا محشوة",
+      "es-419": "Peluche Felyne Sakura"
+    }
+  },
+  {
+    "game_id": 4243,
+    "names": {
+      "ja": "フェアリーライト・白輝",
+      "en": "White Fairy Light",
+      "fr": "Lumière féérique blanche",
+      "it": "Luce di fata bianca",
+      "de": "Feenlicht (weiß)",
+      "es": "Luz feérica blanca",
+      "ru": "Белый фонарик",
+      "pl": "Białe światełka",
+      "pt-BR": "Luz Fádica Branca",
+      "ko": "페어리라이트 화이트",
+      "zh-Hant": "妖精之光・白輝",
+      "zh-Hans": "精灵之光·白辉",
+      "ar": "ضوء الجنية الأبيض",
+      "es-419": "Luz feérica blanca"
     }
   },
   {
@@ -228,6 +361,101 @@
     }
   },
   {
+    "game_id": 8496,
+    "names": {
+      "ja": "フェアリーライト・青輝",
+      "en": "Blue Fairy Light",
+      "fr": "Lumière féérique bleue",
+      "it": "Luce di fata blu",
+      "de": "Feenlicht (blau)",
+      "es": "Luz feérica azul",
+      "ru": "Синий фонарик",
+      "pl": "Niebieskie światełka",
+      "pt-BR": "Luz Fádica Azul",
+      "ko": "페어리라이트 블루",
+      "zh-Hant": "妖精之光・青輝",
+      "zh-Hans": "精灵之光·青辉",
+      "ar": "ضوء الجنية الأزرق",
+      "es-419": "Luz feérica azul"
+    }
+  },
+  {
+    "game_id": 8623,
+    "names": {
+      "ja": "くろねこの土鈴",
+      "en": "Black Cat Bell",
+      "fr": "Chat noir à grelot",
+      "it": "Campanella gatto nero",
+      "de": "Katzenglocke (schwarz)",
+      "es": "Cascabel de gato negro",
+      "ru": "Чёрный кот-колокольчик",
+      "pl": "Dzwoneczek czarnego kota",
+      "pt-BR": "Sino de Gato Preto",
+      "ko": "검은고양이 방울",
+      "zh-Hant": "黑貓土鈴",
+      "zh-Hans": "黑猫陶铃",
+      "ar": "جرس قطة سوداء",
+      "es-419": "Cascabel de gato negro"
+    }
+  },
+  {
+    "game_id": 10471,
+    "names": {
+      "ja": "勇者の証【煌雷竜】",
+      "en": "Rey Dau: Mark of Bravery",
+      "fr": "Rey Dau : gage de bravoure",
+      "it": "Rey Dau: simbolo dell'audacia",
+      "de": "Rey Dau: Mut",
+      "es": "Rey Dau: Señal de valor",
+      "ru": "Рей дау: знак героя",
+      "pl": "Rey Dau: symbol bohatera",
+      "pt-BR": "Rey Dau: Bravura",
+      "ko": "용사의 증표【황뢰룡】",
+      "zh-Hant": "勇者之證【煌雷龍】",
+      "zh-Hans": "勇者之证【煌雷龙】",
+      "ar": "راي داو: رمز الشجاعة",
+      "es-419": "Rey Dau: símbolo heroico"
+    }
+  },
+  {
+    "game_id": 11148,
+    "names": {
+      "ja": "フェアリーライト・桃輝",
+      "en": "Pink Fairy Light",
+      "fr": "Lumière féérique rose",
+      "it": "Luce di fata rosa",
+      "de": "Feenlicht (pink)",
+      "es": "Luz feérica rosa",
+      "ru": "Розовый фонарик",
+      "pl": "Różowe światełka",
+      "pt-BR": "Luz Fádica Rosa",
+      "ko": "페어리라이트 핑크",
+      "zh-Hant": "妖精之光・桃輝",
+      "zh-Hans": "精灵之光·桃辉",
+      "ar": "ضوء الجنية الزهري",
+      "es-419": "Luz feérica rosa"
+    }
+  },
+  {
+    "game_id": 11189,
+    "names": {
+      "ja": "タルコロトロフィー",
+      "en": "Barrel Bowling Trophy",
+      "fr": "Trophée Bowling baril",
+      "it": "Trofeo Fusti rotolanti",
+      "de": "Fass-Bowling-Trophäe",
+      "es": "Trofeo Bolera Barril",
+      "ru": "Приз за боулинг",
+      "pl": "Trofeum za kręgle becz.",
+      "pt-BR": "Troféu de Boliche de Barril",
+      "ko": "나무통 굴리기 트로피",
+      "zh-Hant": "滾滾木桶獎盃",
+      "zh-Hans": "滚桶挑战奖杯",
+      "ar": "جائزة بولينغ البراميل",
+      "es-419": "Trofeo de bolos"
+    }
+  },
+  {
     "game_id": 15071,
     "names": {
       "ja": "アイルー・チョコレートミント",
@@ -244,6 +472,120 @@
       "zh-Hans": "艾露猫：薄荷巧克力",
       "ar": "فيلاين: شوكولاتة بالنعناع",
       "es-419": "Chocomenta Felyne"
+    }
+  },
+  {
+    "game_id": 16560,
+    "names": {
+      "ja": "フェアリーライト・紫輝",
+      "en": "Violet Fairy Light",
+      "fr": "Lumière féérique violette",
+      "it": "Luce di fata viola",
+      "de": "Feenlicht (violett)",
+      "es": "Luz feérica violeta",
+      "ru": "Фиолетовый фонарик",
+      "pl": "Fioletowe światełka",
+      "pt-BR": "Luz Fádica Violeta",
+      "ko": "페어리라이트 퍼플",
+      "zh-Hant": "妖精之光・紫輝",
+      "zh-Hans": "精灵之光·紫辉",
+      "ar": "ضوء الجنية البنفسجي",
+      "es-419": "Luz feérica violeta"
+    }
+  },
+  {
+    "game_id": 16629,
+    "names": {
+      "ja": "覇者の証【煌雷竜】",
+      "en": "Rey Dau: Mark of Mastery",
+      "fr": "Rey Dau : gage de maîtrise",
+      "it": "Rey Dau: simbolo del maestro",
+      "de": "Rey Dau: Dominanz",
+      "es": "Rey Dau: Señal de dominio",
+      "ru": "Рей дау: знак мастера",
+      "pl": "Rey Dau: symbol mistrza",
+      "pt-BR": "Ray Dau: Maestria",
+      "ko": "패자의 증표【황뢰룡】",
+      "zh-Hant": "霸者之證【煌雷龍】",
+      "zh-Hans": "霸者之证【煌雷龙】",
+      "ar": "راي داو: رمز الإتقان",
+      "es-419": "Rey Dau: símbolo maestro"
+    }
+  },
+  {
+    "game_id": 17601,
+    "names": {
+      "ja": "背伸びくろねこハニワ",
+      "en": "Stretched Black Cat",
+      "fr": "Chat noir étiré",
+      "it": "Gatto nero rilassato",
+      "de": "Schwarze Katze (lang)",
+      "es": "Gato negro estirado",
+      "ru": "Потягивающийся чёрный кот",
+      "pl": "Rozciągnięty czarny kot",
+      "pt-BR": "Gato Preto Alongado",
+      "ko": "길쭉 검은 고양이 모형",
+      "zh-Hant": "長長黑貓陶偶",
+      "zh-Hans": "长身黑猫陶俑",
+      "ar": "قطة سوداء متمطّطة",
+      "es-419": "Gato negro estirándose"
+    }
+  },
+  {
+    "game_id": 18700,
+    "names": {
+      "ja": "挑戦者の証【煌雷竜】",
+      "en": "Rey Dau: Mark of Contest",
+      "fr": "Rey Dau : gage de lutte",
+      "it": "Rey Dau: Marchio sfida",
+      "de": "Rey Dau: Wagnis",
+      "es": "Rey Dau: marca de lucha",
+      "ru": "Рей дау: знак претендента",
+      "pl": "Rey Dau: Symbol pojedynku",
+      "pt-BR": "Rey Dau: Contestação",
+      "ko": "도전자의 증표【황뢰룡】",
+      "zh-Hant": "挑戰者之證【煌雷龍】",
+      "zh-Hans": "挑战者之证【煌雷龙】",
+      "ar": "راي داو: رمز المنافسة",
+      "es-419": "Rey Dau: lucha"
+    }
+  },
+  {
+    "game_id": 19481,
+    "names": {
+      "ja": "花舞のブーケ・彩",
+      "en": "Sakura Posy: Colorful",
+      "fr": "Bouquet coloré",
+      "it": "Bouquet sakura: colori",
+      "de": "Sakura-Strauß (bunt)",
+      "es": "Ramo de Sakura: colorido",
+      "ru": "Букет сакуры: яркий",
+      "pl": "Wiązanka kolorowych sakur",
+      "pt-BR": "Ramo de Cerejeira: Colorido",
+      "ko": "화무 부케/컬러풀",
+      "zh-Hant": "花舞捧花・彩",
+      "zh-Hans": "花舞之束・彩",
+      "ar": "باقة أزهار ساكورا: ملونة",
+      "es-419": "Sakura colorida"
+    }
+  },
+  {
+    "game_id": 19964,
+    "names": {
+      "ja": "しろねこの土鈴",
+      "en": "White Cat Bell",
+      "fr": "Chat blanc à grelot",
+      "it": "Campanella gatto bianco",
+      "de": "Katzenglocke (weiß)",
+      "es": "Cascabel de gato blanco",
+      "ru": "Белый кот-колокольчик",
+      "pl": "Dzwoneczek białego kota",
+      "pt-BR": "Sino de Gato Branco",
+      "ko": "하얀고양이 방울",
+      "zh-Hant": "白貓土鈴",
+      "zh-Hans": "白猫陶铃",
+      "ar": "جرس قطة بيضاء",
+      "es-419": "Cascabel de gato blanco"
     }
   },
   {
@@ -266,6 +608,25 @@
     }
   },
   {
+    "game_id": 25269,
+    "names": {
+      "ja": "挑戦者の証【闢獣】",
+      "en": "Doshaguma: Mark of Contest",
+      "fr": "Doshaguma : gage de lutte",
+      "it": "Dosha: Marchio sfida",
+      "de": "Dosha: Wagnis",
+      "es": "Dosha: Señal de lucha",
+      "ru": "Дошагума: знак претендента",
+      "pl": "Doshaguma: Symbol pojedynku",
+      "pt-BR": "Doshaguma: Contestação",
+      "ko": "도전자의 증표【벽수】",
+      "zh-Hant": "挑戰者之證【闢獸】",
+      "zh-Hans": "挑战者之证【辟兽】",
+      "ar": "دوشاغوما: رمز المنافسة",
+      "es-419": "Doshaguma: lucha"
+    }
+  },
+  {
     "game_id": 25538,
     "names": {
       "ja": "アイルー・キャラメル",
@@ -282,6 +643,63 @@
       "zh-Hans": "艾露猫：焦糖",
       "ar": "فيلاين كراميل",
       "es-419": "Caramelo Felyne"
+    }
+  },
+  {
+    "game_id": 26281,
+    "names": {
+      "ja": "勇者の証【闢獣】",
+      "en": "Doshaguma: Mark of Bravery",
+      "fr": "Doshaguma : gage de bravoure",
+      "it": "Dosha: Marchio valore",
+      "de": "Dosha: Mut",
+      "es": "Dosha: Señal de valor",
+      "ru": "Дошагума: знак героя",
+      "pl": "Doshaguma: Symbol odwagi",
+      "pt-BR": "Doshaguma: Bravura",
+      "ko": "용사의 증표【벽수】",
+      "zh-Hant": "勇者之證【闢獸】",
+      "zh-Hans": "勇者之证【辟兽】",
+      "ar": "دوشاغوما: رمز الشجاعة",
+      "es-419": "Doshaguma: valor"
+    }
+  },
+  {
+    "game_id": 27172,
+    "names": {
+      "ja": "タルコロストラップ",
+      "en": "Barrel Bowling Strap",
+      "fr": "Gri-gri Bowling baril",
+      "it": "Cordino Fusti rotolanti",
+      "de": "Fass-Bowling-Kordel",
+      "es": "Colgante Bolera Barril",
+      "ru": "Ремешок за боулинг",
+      "pl": "Kręglowy wisiorek",
+      "pt-BR": "Enfeite de Boliche de Barril",
+      "ko": "나무통 굴리기 스트랩",
+      "zh-Hant": "滾滾木桶飾帶",
+      "zh-Hans": "滚桶挑战饰带",
+      "ar": "شريط بولينغ البراميل",
+      "es-419": "Colgante de bolos"
+    }
+  },
+  {
+    "game_id": 30420,
+    "names": {
+      "ja": "踊るくろねこハニワ",
+      "en": "Dancing Black Cat",
+      "fr": "Chat noir dansant",
+      "it": "Gatto nero danzante",
+      "de": "Schwarze Katze (tanzend)",
+      "es": "Gato negro bailarín",
+      "ru": "Танцующий чёрный кот",
+      "pl": "Tańczący czarny kot",
+      "pt-BR": "Gato Preto Dançante",
+      "ko": "춤추는 검은 고양이 모형",
+      "zh-Hant": "跳舞黑貓陶偶",
+      "zh-Hans": "跳舞的黑猫陶俑",
+      "ar": "القطة السوداء الراقصة",
+      "es-419": "Gato negro bailarín"
     }
   },
   {
@@ -396,6 +814,25 @@
       "zh-Hans": "希望领巾·绿",
       "ar": "وشاح الأمل: أخضر",
       "es-419": "Pañuelo: Verde"
+    }
+  },
+  {
+    "game_id": 1425890176,
+    "names": {
+      "ja": "踊るしろねこハニワ",
+      "en": "Dancing White Cat",
+      "fr": "Chat blanc dansant",
+      "it": "Gatto bianco danzante",
+      "de": "Weiße Katze (tanzend)",
+      "es": "Gato blanco bailarín",
+      "ru": "Танцующий белый кот",
+      "pl": "Tańczący biały kot",
+      "pt-BR": "Gato Branco Dançante",
+      "ko": "춤추는 하얀 고양이 모형",
+      "zh-Hant": "跳舞白貓陶偶",
+      "zh-Hans": "跳舞的白猫陶俑",
+      "ar": "القطة البيضاء الراقصة",
+      "es-419": "Gato blanco bailarín"
     }
   },
   {

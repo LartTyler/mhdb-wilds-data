@@ -5005,6 +5005,155 @@
     "skills": {}
   },
   {
+    "game_id": 74,
+    "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
+    "names": {
+      "ja": "ゾ・サミーラⅠ",
+      "en": "Zoh Samira I",
+      "fr": "Zoh Samira",
+      "it": "Zoh Samira I",
+      "de": "Zoh Samira I",
+      "es": "Zoh Samira I",
+      "ru": "Зо Самира I",
+      "pl": "Zoh Samira I",
+      "pt-BR": "Zoh Samira I",
+      "ko": "조 사미라Ⅰ",
+      "zh-Hant": "熾・薩麥爾Ⅰ",
+      "zh-Hans": "白炽弓萨麦尔Ⅰ",
+      "ar": "زو سميرة I",
+      "es-419": "Zoh Samira I"
+    },
+    "descriptions": {
+      "ja": "ゾ・シアの素材から生み出された\r\n弓。冠するは至純な栄誉。\r\n翔ける征矢は毒心により降り注ぐ。",
+      "en": "A Zoh Shia bow with the purest\r\nessence of grace. Its arrows\r\nrain down all the fiercer on\r\nthe spiteful.",
+      "fr": "Arc Zoh Shia doté de l'essence\r\nmême de la grâce. Ses flèches\r\nsont d'autant plus féroces avec\r\nles êtres malveillants.",
+      "it": "Un arco Zoh Shia intriso di\r\npura essenza della grazia.\r\nLe sue frecce calano con forza\r\nraddoppiata sui maligni.",
+      "de": "Ein Bogen aus Zoh-Shia-Teilen\r\nerfüllt von reinster Anmut.\r\nSeine Pfeile regnen nur noch\r\nhärter auf die Boshaften herab.",
+      "es": "Arco de Zoh Shia con la\r\nesencia de gracia más pura.\r\nSus flechas llueven sobre\r\nlos fieros y los malvados.",
+      "ru": "Лук из Зо Шиа, который отличается\r\nневероятным изяществом. Его\r\nстрелы разят тем сильнее, чем\r\nзлонравнее цель.",
+      "pl": "Łuk z Zoh Shia, zawiera\r\nnajczystszą istotę łaski.\r\nJego strzały zaciekle\r\nspadają na mścicieli.",
+      "pt-BR": "Arco de Zoh Shia com a mais\r\npura essência da elegância. Suas\r\nflechas atingem os perversos\r\ncom ainda mais ferocidade.",
+      "ko": "조 시아 소재의 활.\r\n지고지순한 명예를 상징한다.\r\n날아가는 화살이\r\n독심을 품고 쏟아진다.",
+      "zh-Hant": "以白熾龍素材製作的弓。此弓以無瑕\r\n的榮譽為冠，翔空的利箭會帶著敵意\r\n從天而降。",
+      "zh-Hans": "由白炽龙素材锻造，冠以至纯荣誉之\r\n名的长弓。其箭矢划破长空，伴随敌\r\n意倾泻而下。",
+      "ar": "قوس (زو شيا) يحمل في طياته\r\nجوهر النعم الخالصة\r\nوسهامه تمطر على الحاقدين\r\nكوابل مطر غاضب.",
+      "es-419": "Arco de Zoh Shia con la esencia\r\nmás pura de la gracia.\r\nSus flechas llueven ferozmente\r\nsobre los malvados."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 10,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
+    "game_id": 75,
+    "kind": "bow",
+    "coatings": [
+      "power",
+      "paralysis"
+    ],
+    "names": {
+      "ja": "熾光たるサミーラ",
+      "en": "Blazing Samira",
+      "fr": "Samira flamboyant",
+      "it": "Samira fiammante",
+      "de": "Glühender Samira",
+      "es": "Samira calcinante",
+      "ru": "Пламенная Самира",
+      "pl": "Ognista Samira I",
+      "pt-BR": "Samira Escaldante",
+      "ko": "찬란한 사미라",
+      "zh-Hant": "熾光薩麥爾",
+      "zh-Hans": "炽光弓萨麦尔",
+      "ar": "سميرة الملتهب",
+      "es-419": "Samira ardiente"
+    },
+    "descriptions": {
+      "ja": "天に上りしサミーラは告げる。\r\n汝、栄誉を求めて堕ちる者よ。\r\n弾く弦が全ての威光に弓引かん。",
+      "en": "Samira harketh from on high:\r\nThou who seekest glory,\r\nmay thy bow strike all held\r\nin prestige.",
+      "fr": "Samira déclara depuis les cieux :\r\n\"Toi qui as cherché la gloire en\r\nvain, puissent tes flèches\r\nfrapper les puissants\".",
+      "it": "Samira declama dall'alto:\r\nTu che cerchi la gloria,\r\npossa il tuo arco colpire\r\nchi già la detiene.",
+      "de": "Samira ruft von oben herab:\r\nJene, die Ruhm suchen!\r\nMöge euer Bogen glorreich\r\ntreffen!",
+      "es": "Samira brama desde lo alto:\r\nQuienes buscáis la gloria,\r\nque vuestro arco golpee a todos\r\nlos atrapados por la fama.",
+      "ru": "И воскликнула вознёсшаяся\r\nСамира: «Ты, что алчешь славы!\r\nПусть лук твой карает власть\r\nпредержащих!»",
+      "pl": "Z wysoka rzecze Samira:\r\nty, który chwały szukasz,\r\nniech łuk twój uderzy\r\nw cieszących się poważaniem.",
+      "pt-BR": "Samira brada das alturas:\r\nTu que buscas a glória, que\r\nteu arco atinja todos aqueles\r\ndotados de prestígio.",
+      "ko": "하늘에 올라 사미라가 고한다.\r\n그대, 명예를 추구해 타락하는\r\n자여. 당긴 시위가\r\n온갖 권세에 맞서리.",
+      "zh-Hant": "天上的薩麥爾在此宣告：渴求榮譽而\r\n墮落之輩啊，顫動的弓弦會對一切\r\n威光抗爭到底。",
+      "zh-Hans": "萨麦尔自天上传下意志——渴求荣\r\n光的堕落之辈啊，吾之弓弦将抵御\r\n天下一切威光。",
+      "ar": "ينادي (سميرة) من الأعالي:\r\nأيها الساعي إلى المجد\r\nليصيب قوسك\r\nكل ما يحظى بالهيبة.",
+      "es-419": "Samira brama desde lo alto:\r\nQuienes buscan la gloria,\r\nque su arco acierte a todos\r\naquellos atrapados por la fama."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 74,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 21
+    },
+    "skills": {
+      "576193792": 1
+    }
+  },
+  {
     "game_id": 78,
     "kind": "bow",
     "coatings": [
@@ -5207,6 +5356,157 @@
     },
     "skills": {
       "-283334048": 3
+    }
+  },
+  {
+    "game_id": 81,
+    "kind": "bow",
+    "coatings": [
+      "pierce",
+      "exhaust"
+    ],
+    "names": {
+      "ja": "狐弓ツユノタマノヲⅠ",
+      "en": "Blessed Rain I",
+      "fr": "Pluie bénie",
+      "it": "Pioggia benedetta I",
+      "de": "Gesegneter Regen I",
+      "es": "Lluvia bendita I",
+      "ru": "Блаженный дождь I",
+      "pl": "Zbawienny Deszcz I",
+      "pt-BR": "Chuva Abençoada I",
+      "ko": "호궁 츠유노타마노오Ⅰ",
+      "zh-Hant": "狐弓露珠亂世情Ⅰ",
+      "zh-Hans": "狐弓【露湿乱世情】Ⅰ",
+      "ar": "مطر مبارك I",
+      "es-419": "Lluvia bendita I"
+    },
+    "descriptions": {
+      "ja": "愛しき者を支え続けた姫が\r\n遺した雅なる弓。乱れ飛ぶ雫の\r\n矢は、やがて天の慈雨となる。",
+      "en": "Once owned by a princess\r\nwho fought for love. Showers\r\narrows like the spring rain.",
+      "fr": "Arc d'une princesse s'étant\r\nbattue par amour. Déchaîne\r\ndes giboulées de flèches.",
+      "it": "Arco di una principessa che\r\nlottò per amore. Le frecce\r\nsgorgano come acqua.",
+      "de": "Der Bogen einer Prinzessin,\r\ndie für die Liebe kämpfte.\r\nLässt Pfeilschauer regnen.",
+      "es": "Perteneció a una princesa\r\nque luchó por amor. Dispara\r\nligeras cortinas de flechas.",
+      "ru": "Раньше принадлежал бившейся\r\nза любовь принцессе. Хлещет\r\nливнем стрел.",
+      "pl": "Należał do księżniczki\r\nwalczącej o miłość. Strzały\r\nprzypominają wiosenną ulewę.",
+      "pt-BR": "Pertenceu a uma princesa que\r\nlutou por amor. Suas flechas\r\ncaem como chuva vernal.",
+      "ko": "사랑하는 이를 지지한 공주가\r\n남긴 우아한 활. 물의 화살이\r\n하늘의 단비가 되어 쏟아진다.",
+      "zh-Hant": "一直支持著戀人的公主所遺留的\r\n風雅之弓。飛散而出的水滴之箭\r\n將化作天上的慈雨。",
+      "zh-Hans": "一直支持着恋人的公主所遗留的风\r\n雅之弓。飞散而出的水滴之箭将化\r\n作天上的慈雨。",
+      "ar": "امتلكته أميرة قاتلت من أجل\r\nالحب ذات مرة. يُطلق وابلًا\r\nمن السهام كمطر الربيع.",
+      "es-419": "Perteneció a una princesa\r\nque luchó por amor. Dispara\r\nligeras cortinas de flechas."
+    },
+    "rarity": 6,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 13,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 22
+    },
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    }
+  },
+  {
+    "game_id": 82,
+    "kind": "bow",
+    "coatings": [
+      "pierce",
+      "exhaust"
+    ],
+    "names": {
+      "ja": "なぐるやの遠弓の真弦",
+      "en": "Heaven's Manna",
+      "fr": "Manne céleste",
+      "it": "Manna dal cielo",
+      "de": "Himmelsmanna",
+      "es": "Maná celestial",
+      "ru": "Манна небесная",
+      "pl": "Manna z Nieba",
+      "pt-BR": "Maná Celestial",
+      "ko": "멀어지는 원궁의 진현",
+      "zh-Hant": "投箭遠弓之真弦",
+      "zh-Hans": "投箭远弓之真弦",
+      "ar": "مداد من السماء",
+      "es-419": "Maná celestial"
+    },
+    "descriptions": {
+      "ja": "雅なる弓の慈雨は、月輪を覆う\r\n黒雨にいずれ転じ、降り注ぐ。\r\n狐弓ツユノタマノヲ強化型。",
+      "en": "The upgrade of Blessed Rain.\r\nIts arrows form a dark sea,\r\nblotting out the sun itself.",
+      "fr": "Pluie bénie améliorée.\r\nObscurcit le ciel et\r\nassombrit même le soleil.",
+      "it": "Pioggia benedetta\r\npotenziata. I suoi dardi di\r\ntenebra oscurano la luna.",
+      "de": "Die verbesserte Version von\r\nGesegneter Regen lässt ein\r\nMeer aus Pfeilen niedergehen,\r\ndas den Mond verdunkelt.",
+      "es": "Lluvia bendita mejorada.\r\nSus flechas forman un mar\r\noscuro que ennegrece el sol.",
+      "ru": "Улучшение «Блаженного дождя».\r\nЕго стрелы образуют темную\r\nтучу, затмевающую солнце.",
+      "pl": "Ulepszony Zbawienny Deszcz.\r\nStrzały tworzą ciemną chmurę\r\ni przesłaniają słońce.",
+      "pt-BR": "Chuva Abençoada melhorada.\r\nA saraivada de flechas é capaz\r\nde tapar o sol.",
+      "ko": "우아하게 내리는 단비는 이내\r\n달을 감싸는 폭우가 되리니.\r\n츠유노타마노오의 강화형.",
+      "zh-Hant": "強化版狐弓露珠亂世情。風雅之弓的\r\n慈雨終將化成掩住月輪的黑雨，傾注\r\n而下。",
+      "zh-Hans": "狐弓【露湿乱世情】强化型。风雅\r\n之弓的慈雨，终将化成遮住月亮的\r\n黑雨，倾注而下。",
+      "ar": "ترقية المطر المبارك؛ تُشكل\r\nأسهمه بحرًا مظلمًا\r\nيحجب الشمس نفسها.",
+      "es-419": "Lluvia bendita mejorada. Sus\r\nflechas forman un mar oscuro\r\nque ennegrece al sol."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "water",
+        "raw": 19,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
     }
   }
 ]

@@ -1573,7 +1573,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo evasión."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
         },
         "rarity": 4,
         "level": 1,
@@ -1621,7 +1621,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo evasión."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
         },
         "rarity": 5,
         "level": 2,
@@ -1683,6 +1683,54 @@
             "556": 6,
             "558": 4,
             "560": 1
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "回避の護石Ⅳ",
+          "en": "Evasion Charm IV",
+          "fr": "Talisman d'esquive IV",
+          "it": "Amuleto evasione IV",
+          "de": "Ausweich-Talisman IV",
+          "es": "Amuleto evasión IV",
+          "ru": "Оберег уклонения IV",
+          "pl": "Amulet uniku IV",
+          "pt-BR": "Amuleto de Evasão IV",
+          "ko": "회피의 호석Ⅳ",
+          "zh-Hant": "迴避護石Ⅳ",
+          "zh-Hans": "回避护石Ⅳ",
+          "ar": "تميمة التفادي 4",
+          "es-419": "Amuleto de evasión IV"
+        },
+        "descriptions": {
+          "ja": "装備することで回避性能スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Evade\r\nWindow skill.",
+          "fr": "Un talisman qui confère\r\nle talent Fenêtre d'invulnérabilité.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Schivata.",
+          "de": "Dieses Amulett gewährt die\r\nUnverwundbarkeit-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"intervalo de evasión\".",
+          "ru": "Оберег, дарующий навык\r\n«Окно уклонения».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Czas na unik.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nTempo de Esquiva.",
+          "ko": "장비하면 회피 성능 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動迴避性能技能的護身符。",
+          "zh-Hans": "发动回避性能技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
+        },
+        "rarity": 7,
+        "level": 4,
+        "price": 9000,
+        "skills": {
+          "144660544": 4
+        },
+        "recipe": {
+          "inputs": {
+            "661": 5,
+            "721": 6,
+            "723": 4,
+            "728": 1
           }
         }
       }
@@ -2480,6 +2528,54 @@
             "560": 1
           }
         }
+      },
+      {
+        "names": {
+          "ja": "耳栓の護石Ⅱ",
+          "en": "Earplugs Charm II",
+          "fr": "Talisman de banshee II",
+          "it": "Amuleto udito II",
+          "de": "OhrstöpselTalisman II",
+          "es": "Amuleto antirrugidos II",
+          "ru": "Оберег ушей II",
+          "pl": "Amulet zatyczek II",
+          "pt-BR": "Amuleto Abafador II",
+          "ko": "귀마개의 호석Ⅱ",
+          "zh-Hant": "耳塞護石Ⅱ",
+          "zh-Hans": "耳塞护石Ⅱ",
+          "ar": "تميمة سدادات الأذن 2",
+          "es-419": "Amuleto antirrugidos II"
+        },
+        "descriptions": {
+          "ja": "装備することで耳栓スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Earplugs\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Bouchon d'oreilles.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Protezione udito.",
+          "de": "Dieses Amulett gewährt die\r\nOhrstöpsel-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"antirrugidos\".",
+          "ru": "Оберег, дарующий навык\r\n«Беруши».",
+          "pl": "Po użyciu przyznaje\r\numiejętność Zatyczki do uszu.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nAbafadores.",
+          "ko": "장비하면 귀마개 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動耳塞技能的護身符。",
+          "zh-Hans": "发动耳塞技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nسدادات الأذن.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Antirrugidos."
+        },
+        "rarity": 7,
+        "level": 2,
+        "price": 9000,
+        "skills": {
+          "192746944": 2
+        },
+        "recipe": {
+          "inputs": {
+            "711": 6,
+            "713": 4,
+            "717": 1,
+            "719": 3
+          }
+        }
       }
     ]
   },
@@ -2878,6 +2974,54 @@
             "661": 5
           }
         }
+      },
+      {
+        "names": {
+          "ja": "全開の護石Ⅲ",
+          "en": "Power Charm III",
+          "fr": "Talisman de puissance III",
+          "it": "Amuleto forza III",
+          "de": "Kraft-Talisman III",
+          "es": "Amuleto de poder III",
+          "ru": "Оберег энергии III",
+          "pl": "Amulet mocy III",
+          "pt-BR": "Amuleto de Poder III",
+          "ko": "전개의 호석Ⅲ",
+          "zh-Hant": "全開護石Ⅲ",
+          "zh-Hans": "全开护石Ⅲ",
+          "ar": "تميمة القوة 3",
+          "es-419": "Amuleto de poder III"
+        },
+        "descriptions": {
+          "ja": "装備することで力の解放スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Latent\r\nPower skill.",
+          "fr": "Un talisman qui confère\r\nle talent Force latente.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Forza latente.",
+          "de": "Dieses Amulett gewährt die\r\nKraftentfesselung-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"poder latente\".",
+          "ru": "Оберег, дарующий навык\r\n«Скрытая сила».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Uśpiona moc.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nPoder Latente.",
+          "ko": "장비하면 힘의 해방 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動力量解放技能的護身符。",
+          "zh-Hans": "发动力量解放技能的护身符。",
+          "ar": "تميمة تمنح مهارة القوة الكامنة.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Poder latente."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "1763191040": 3
+        },
+        "recipe": {
+          "inputs": {
+            "347": 6,
+            "349": 4,
+            "465": 1,
+            "758": 3
+          }
+        }
       }
     ]
   },
@@ -2915,7 +3059,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Potenciador de\r\ndefensa."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 2,
         "level": 1,
@@ -2963,7 +3107,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Potenciador de\r\ndefensa."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 4,
         "level": 2,
@@ -3011,7 +3155,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Potenciador de\r\ndefensa."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 5,
         "level": 3,
@@ -3059,7 +3203,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
-          "es-419": "Un amuleto que otorga la\r\nhabilidad Potenciador de\r\ndefensa."
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 6,
         "level": 4,
@@ -3073,6 +3217,54 @@
             "397": 2,
             "542": 2,
             "546": 2
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "防御の護石Ⅴ",
+          "en": "Defense Charm V",
+          "fr": "Talisman de défense V",
+          "it": "Amuleto difesa V ",
+          "de": "VerteidigTalisman V",
+          "es": "Amuleto defensa V",
+          "ru": "Оберег защиты V",
+          "pl": "Amulet obrony V",
+          "pt-BR": "Amuleto de Defesa V",
+          "ko": "방어의 호석Ⅴ",
+          "zh-Hant": "防禦護石Ⅴ",
+          "zh-Hans": "防御护石Ⅴ",
+          "ar": "تميمة الدفاع 5",
+          "es-419": "Amuleto de defensa V"
+        },
+        "descriptions": {
+          "ja": "装備することで防御スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Defense\r\nBoost skill.",
+          "fr": "Un talisman qui confère\r\nle talent Bastion.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Bonus difesa.",
+          "de": "Dieses Amulett gewährt die\r\nVerteidigungsboost-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"bonus de defensa\".",
+          "ru": "Оберег, дарующий навык\r\n«Усиление защиты».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Wzmocnienie obrony.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nReforço de Defesa.",
+          "ko": "장비하면 방어 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動防禦技能的護身符。",
+          "zh-Hans": "发动防御技能的护身符。",
+          "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
+        },
+        "rarity": 7,
+        "level": 5,
+        "price": 9000,
+        "skills": {
+          "1077686656": 5
+        },
+        "recipe": {
+          "inputs": {
+            "372": 3,
+            "543": 2,
+            "660": 3,
+            "758": 3
           }
         }
       }
@@ -5897,7 +6089,7 @@
           "zh-Hant": "發動屬性轉換技能的護身符。",
           "zh-Hans": "发动属性变换技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nعنصر التحويل.",
-          "es-419": "Un amuleto que otorga\r\nla habilidad Conversión de\r\nelementos."
+          "es-419": "Un amuleto que otorga\r\nla habilidad Conversión de\r\nelemento."
         },
         "rarity": 7,
         "level": 1,
@@ -5911,6 +6103,54 @@
             "464": 3,
             "465": 1,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "属変の護石Ⅱ",
+          "en": "Convert Charm II",
+          "fr": "Talisman de conversion II",
+          "it": "Amuleto conversione II",
+          "de": "Umwandeln-Talisman II",
+          "es": "Amuleto de conversión II",
+          "ru": "Оберег преобразования II",
+          "pl": "Am. przekształcenia II",
+          "pt-BR": "Amuleto da Conversão II",
+          "ko": "속변의 호석Ⅱ",
+          "zh-Hant": "屬變護石Ⅱ",
+          "zh-Hans": "属变护石Ⅱ",
+          "ar": "تميمة التحويل 2",
+          "es-419": "Amuleto de conversión II"
+        },
+        "descriptions": {
+          "ja": "装備することで属性変換スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Convert\r\nElement skill.",
+          "fr": "Un talisman qui confère\r\nle talent Conversion élémentaire.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Conversione elementale.",
+          "de": "Dieses Amulett gewährt die\r\nElemente-umwandeln-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"convierte elemento\".",
+          "ru": "Оберег, дарующий навык\r\n«Преобразование стихии».",
+          "pl": "Amulet przyznający umiejętność\r\nPrzekształcenie żywiołu.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nConversão de Elemento.",
+          "ko": "장비하면 속성 변환 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動屬性轉換技能的護身符。",
+          "zh-Hans": "发动属性变换技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nعنصر التحويل.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Conversión de\r\nelemento."
+        },
+        "rarity": 8,
+        "level": 2,
+        "price": 16000,
+        "skills": {
+          "2083363072": 2
+        },
+        "recipe": {
+          "inputs": {
+            "712": 6,
+            "714": 4,
+            "715": 2,
+            "717": 1
           }
         }
       }
@@ -7007,6 +7247,54 @@
             "564": 4,
             "566": 2,
             "568": 1
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "体術の護石Ⅴ",
+          "en": "Fitness Charm V",
+          "fr": "Talisman de vitalité V",
+          "it": "Amuleto tonico V",
+          "de": "Fitness-Talisman V",
+          "es": "Amuleto en forma V",
+          "ru": "Оберег стройности V",
+          "pl": "Amulet sprawności V",
+          "pt-BR": "Amuleto do Exercício V",
+          "ko": "체술의 호석Ⅴ",
+          "zh-Hant": "體術護石Ⅴ",
+          "zh-Hans": "体术护石Ⅴ",
+          "ar": "تميمة اللياقة 5",
+          "es-419": "Amuleto en forma V"
+        },
+        "descriptions": {
+          "ja": "装備することで体術スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nConstitution skill.",
+          "fr": "Un talisman qui confère\r\nle talent Athlète.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Atleta.",
+          "de": "Dieses Amulett gewährt die\r\nKonstitution-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"constitución\".",
+          "ru": "Оберег, дарующий навык\r\n«Телосложение».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Tężyzna.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nConstituição.",
+          "ko": "장비하면 체술 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動體術技能的護身符。",
+          "zh-Hans": "发动体术技能的护身符。",
+          "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
+        },
+        "rarity": 8,
+        "level": 5,
+        "price": 16000,
+        "skills": {
+          "-1689391744": 5
+        },
+        "recipe": {
+          "inputs": {
+            "661": 5,
+            "722": 6,
+            "724": 4,
+            "728": 1
           }
         }
       }

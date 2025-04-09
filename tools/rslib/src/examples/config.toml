@@ -3,7 +3,10 @@ msg = "tools/REMSG_Converter/REMSG_Converter.exe"
 user = "tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe"
 
 [io]
-data = "data/"
+data = [
+    "data/re_chunk_000.pak.patch_001",
+    "data/re_chunk_000",
+]
 output = "output/"
 
 [user]
@@ -57,6 +60,9 @@ files = [
     "Common/Enemy/EnemyReportBossData.user.3",
     "Enemy/CommonData/Data/EmParamBadCondition2.user.3",
     "Enemy/CommonData/Data/EmParamBadConditionPreset.user.3",
+    "Common/Enemy/EnemyReportMeasureFreeInfoData.user.3",
+    "Enemy/CommonData/Data/EnemyWeakAttrData.user.3",
+    "Common/Enemy/EnemyPartsTypeData.user.3",
 ]
 
 [[user.targets.transform]]
@@ -67,6 +73,13 @@ rsz = [0]
 output_prefix = "monsters/parts"
 files = [
     "Enemy/Em*/*/Data/Em*_Param_Parts.user.3",
+    "Enemy/Em*/*/Data/Em*_Param_PartsBreakReward.user.3",
+]
+
+[[user.targets]]
+output_prefix = "monsters/rewards"
+files = [
+    "Common/Enemy/EM????_*.user.3"
 ]
 
 [[user.targets]]
@@ -123,4 +136,6 @@ files = [
     "Excel_Data/EnemySpeciesName.msg.23",
     "Reference/RefEnvironment.msg.23",
     "Excel_Data/Gimmick.msg.23",
+    "Excel_Data/EnemyReportMeasureFreeInfoText.msg.23",
+    "Excel_Data/EnemyPartsTypeName.msg.23",
 ]

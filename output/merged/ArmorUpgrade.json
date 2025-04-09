@@ -303,6 +303,36 @@
         "extra_defense": 2,
         "point_cost": 2000,
         "zenny_cost": 8000
+      },
+      {
+        "level": 14,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      },
+      {
+        "level": 15,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      },
+      {
+        "level": 16,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      },
+      {
+        "level": 17,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
+      },
+      {
+        "level": 18,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
       }
     ]
   },
@@ -362,6 +392,30 @@
         "extra_defense": 2,
         "point_cost": 5000,
         "zenny_cost": 12000
+      },
+      {
+        "level": 11,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 12,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 13,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
+      },
+      {
+        "level": 14,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
       }
     ]
   },
@@ -403,6 +457,18 @@
         "extra_defense": 2,
         "point_cost": 10000,
         "zenny_cost": 16000
+      },
+      {
+        "level": 8,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 16000
+      },
+      {
+        "level": 9,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 16000
       }
     ]
   },
@@ -441,6 +507,12 @@
       },
       {
         "level": 7,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 20000
+      },
+      {
+        "level": 8,
         "extra_defense": 2,
         "point_cost": 10000,
         "zenny_cost": 20000
