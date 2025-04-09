@@ -890,12 +890,6 @@
     "kind": "set"
   },
   {
-    "game_id": -1754225280,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -1716324608,
     "names": {
       "ja": "毒属性強化",
@@ -1863,12 +1857,6 @@
       }
     ],
     "kind": "weapon"
-  },
-  {
-    "game_id": -1578573696,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": -1507579776,
@@ -4402,12 +4390,6 @@
     "kind": "set"
   },
   {
-    "game_id": -542666496,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": -481419552,
     "names": {
       "ja": "キノコ大好き",
@@ -6331,12 +6313,6 @@
     "kind": "weapon"
   },
   {
-    "game_id": 414,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
-  },
-  {
     "game_id": 2237,
     "names": {
       "ja": "栄光の誉れ",
@@ -6449,12 +6425,6 @@
       }
     ],
     "kind": "group"
-  },
-  {
-    "game_id": 25348,
-    "names": {},
-    "ranks": [],
-    "kind": "armor"
   },
   {
     "game_id": 27684744,
