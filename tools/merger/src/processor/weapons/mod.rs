@@ -158,7 +158,10 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
             );
         };
 
-        weapon.series_id = *series_id;
+        // Series ID of zero indicates that the weapon does not belong to a series.
+        if *series_id != 0 {
+            weapon.series_id = Some(*series_id);
+        }
 
         if !data.previous_guid.is_empty() {
             // The unwrap() here ensures we don't accidentally assign None if the GUID couldn't be
@@ -237,7 +240,7 @@ struct Weapon {
     crafting: Crafting,
     #[serde(serialize_with = "ordered_map")]
     skills: IdMap,
-    series_id: SeriesId,
+    series_id: Option<SeriesId>,
 }
 
 impl From<&WeaponData> for Weapon {
@@ -255,7 +258,7 @@ impl From<&WeaponData> for Weapon {
             specials: Vec::new(),
             crafting: Crafting::default(),
             skills: create_id_map(&value.skill_ids, &value.skill_levels),
-            series_id: 0,
+            series_id: None,
         }
     }
 }

@@ -5565,7 +5565,7 @@
       "row": 0
     },
     "skills": {},
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 71,
@@ -5635,7 +5635,7 @@
       "row": 0
     },
     "skills": {},
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 72,
@@ -5705,7 +5705,7 @@
       "row": 0
     },
     "skills": {},
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 73,
@@ -6025,7 +6025,7 @@
     "skills": {
       "576193792": 1
     },
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 77,
@@ -6109,7 +6109,7 @@
     "skills": {
       "576193792": 1
     },
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 79,
@@ -6193,7 +6193,7 @@
       "-847539392": 2,
       "313598432": 1
     },
-    "series_id": 0
+    "series_id": null
   },
   {
     "game_id": 80,
@@ -6278,6 +6278,6 @@
       "-847539392": 3,
       "313598432": 1
     },
-    "series_id": 0
+    "series_id": null
   }
 ]
