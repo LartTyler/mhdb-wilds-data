@@ -1,5 +1,5 @@
 use crate::maybe_prefix;
-use crate::tools::{needs_refresh, run_command, Extractor, Result};
+use crate::tools::{is_output_newer, run_command, Extractor, Result};
 use std::fs;
 use std::path::{Path, PathBuf};
 
@@ -48,7 +48,7 @@ impl MsgExtractor {
             &tool_out_path
         };
 
-        if !self.force && !needs_refresh(input, output)? {
+        if !self.force && is_output_newer(input, output)? {
             return Ok(output.to_owned());
         }
 

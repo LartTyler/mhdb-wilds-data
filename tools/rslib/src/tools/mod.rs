@@ -27,8 +27,8 @@ where
     }
 }
 
-fn needs_refresh(input: &Path, output: &Path) -> Result<bool> {
-    Ok(!output.exists() || input.metadata()?.modified()? <= output.metadata()?.modified()?)
+fn is_output_newer(input: &Path, output: &Path) -> Result<bool> {
+    Ok(output.exists() && input.metadata()?.modified()? <= output.metadata()?.modified()?)
 }
 
 #[macro_export]

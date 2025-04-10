@@ -107,12 +107,6 @@ fn run_targets(
                         .with_extension("")
                         .with_extension("json");
 
-                    // If the file exists and is newer than the source file, there's no need to
-                    // extract it again.
-                    if is_out_path_newer(&in_path, &out_path)? {
-                        return Ok(());
-                    }
-
                     extractor.extract(
                         &in_path,
                         &out_path,
@@ -172,10 +166,6 @@ impl ExpandedTargetExt for Vec<ExpandedTarget<'_>> {
     fn len_all_files(&self) -> usize {
         self.iter().fold(0, |counter, v| counter + v.files.len())
     }
-}
-
-fn is_out_path_newer(in_path: &Path, out_path: &Path) -> anyhow::Result<bool> {
-    Ok(out_path.exists() && in_path.metadata()?.modified()? <= out_path.metadata()?.modified()?)
 }
 
 trait PathExt {

@@ -1,5 +1,5 @@
 use crate::maybe_prefix;
-use crate::tools::{needs_refresh, run_command, Error, Extractor, Result};
+use crate::tools::{is_output_newer, run_command, Error, Extractor, Result};
 use std::path::{Path, PathBuf};
 
 pub struct UserExtractor {
@@ -43,7 +43,7 @@ impl UserExtractor {
         let input = maybe_prefix!(&self.input_prefix, input);
         let output = maybe_prefix!(&self.output_prefix, output);
 
-        if !self.force && !needs_refresh(input, output)? {
+        if !self.force && is_output_newer(input, output)? {
             return Ok(output.to_owned());
         }
 
