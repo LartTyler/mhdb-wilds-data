@@ -1,12 +1,12 @@
 use crate::processor::{
-    IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
-    create_id_map, to_ingame_rarity, values_until_first_zero,
+    create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
+    ReadFile, Result, WriteFile,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
-use serde::{Deserialize, Deserializer, Serialize, de};
+use serde::{de, Deserialize, Deserializer, Serialize};
 use serde_json::Value;
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
@@ -26,6 +26,13 @@ mod light_bowgun;
 mod long_sword;
 mod switch_axe;
 mod sword_shield;
+
+const SERIES_DATA: &str = "user/weapons/WeaponSeriesData.json";
+const SERIES_STRINGS: &str = "msg/WeaponSeries.json";
+
+const SERIES_OUTPUT: &str = "merged/WeaponSeries.json";
+
+type SeriesId = isize;
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     do_process(config, filters, bow::definition())?;
@@ -48,6 +55,21 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
 fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefinition) -> Result {
     should_run!(filters, def.processor);
+
+    let data: Vec<SeriesData> = Vec::read_file(config.io.output.join(SERIES_DATA))?;
+    let strings = Msg::read_file(config.io.output.join(SERIES_STRINGS))?;
+
+    let mut series: Vec<Series> = Vec::with_capacity(data.len());
+
+    for data in data {
+        let mut item = Series::from(&data);
+        strings.populate(&data.name_guid, &mut item.names);
+
+        series.push(item);
+    }
+
+    series.sort_by_key(|v| v.id);
+    series.write_file(config.io.output.join(SERIES_OUTPUT))?;
 
     let data: Vec<WeaponData> = Vec::read_file(config.io.output.join(def.data_path()))?;
     let strings = Msg::read_file(config.io.output.join(def.strings_path()))?;
@@ -102,11 +124,27 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         .map(|v| (v.guid.as_ref(), v.weapon_id))
         .collect();
 
+    let path = config.io.output.join(def.series_path());
+    let series_lookup: Vec<SeriesRowData> = Vec::read_file(path)?;
+    let series_lookup: HashMap<u8, SeriesId> = series_lookup
+        .into_iter()
+        .map(|v| (v.row, v.series_id))
+        .collect();
+
     for data in &data {
         let weapon = lookup.find_or_panic_mut(data.weapon_id, &mut merged);
 
         weapon.crafting.column = data.column;
         weapon.crafting.row = data.row;
+
+        let Some(series_id) = series_lookup.get(&weapon.crafting.row) else {
+            panic!(
+                "Weapon series must exist; something is very wrong (for weapon {})",
+                weapon.game_id
+            );
+        };
+
+        weapon.series_id = *series_id;
 
         if !data.previous_guid.is_empty() {
             // The unwrap() here ensures we don't accidentally assign None if the GUID couldn't be
@@ -148,7 +186,11 @@ impl ProcessorDefinition {
     }
 
     fn tree_path(&self) -> PathBuf {
-        PathBuf::from(format!("user/weapons/{}Tree.json", self.input_prefix))
+        PathBuf::from(format!("user/weapons/{}Tree_2.json", self.input_prefix))
+    }
+
+    fn series_path(&self) -> PathBuf {
+        PathBuf::from(format!("user/weapons/{}Tree_4.json", self.input_prefix))
     }
 
     fn strings_path(&self) -> PathBuf {
@@ -181,6 +223,7 @@ struct Weapon {
     crafting: Crafting,
     #[serde(serialize_with = "ordered_map")]
     skills: IdMap,
+    series_id: SeriesId,
 }
 
 impl From<&WeaponData> for Weapon {
@@ -198,6 +241,7 @@ impl From<&WeaponData> for Weapon {
             specials: Vec::new(),
             crafting: Crafting::default(),
             skills: create_id_map(&value.skill_ids, &value.skill_levels),
+            series_id: 0,
         }
     }
 }
@@ -534,4 +578,36 @@ where
     } else {
         Err(de::Error::custom(format!("_Type must be {code:?}")))
     }
+}
+
+#[derive(Debug, Serialize)]
+struct Series {
+    id: SeriesId,
+    #[serde(serialize_with = "ordered_map")]
+    names: LanguageMap,
+}
+
+impl From<&SeriesData> for Series {
+    fn from(value: &SeriesData) -> Self {
+        Self {
+            id: value.id,
+            names: LanguageMap::new(),
+        }
+    }
+}
+
+#[derive(Debug, Deserialize)]
+struct SeriesData {
+    #[serde(rename = "_Series")]
+    id: SeriesId,
+    #[serde(rename = "_Name")]
+    name_guid: String,
+}
+
+#[derive(Debug, Deserialize)]
+struct SeriesRowData {
+    #[serde(rename = "_Series")]
+    series_id: SeriesId,
+    #[serde(rename = "_RowLevel")]
+    row: u8,
 }

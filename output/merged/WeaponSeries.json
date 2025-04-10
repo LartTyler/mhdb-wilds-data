@@ -1,0 +1,724 @@
+[
+  {
+    "id": -2118986496,
+    "names": {
+      "ja": "雌火竜派生",
+      "en": "Rathian Tree",
+      "fr": "Rathian",
+      "it": "Rathian",
+      "de": "Rathian",
+      "es": "Árbol de Rathian",
+      "ru": "Древо ратианы",
+      "pl": "Drzewo Rathiany",
+      "pt-BR": "Rathian",
+      "ko": "자화룡 파생",
+      "zh-Hant": "雌火龍衍生",
+      "zh-Hans": "雌火龙衍生",
+      "ar": "شجرة راثيان",
+      "es-419": "Árbol de Rathian"
+    }
+  },
+  {
+    "id": -1830241664,
+    "names": {
+      "ja": "沙海竜派生",
+      "en": "Balahara Tree",
+      "fr": "Balahara",
+      "it": "Balahara",
+      "de": "Balahara",
+      "es": "Árbol de Balahara",
+      "ru": "Древо балахары",
+      "pl": "Drzewo Balahary",
+      "pt-BR": "Balahara",
+      "ko": "사해룡 파생",
+      "zh-Hant": "沙海龍衍生",
+      "zh-Hans": "沙海龙衍生",
+      "ar": "شجرة بالاهارا",
+      "es-419": "Árbol de Balahara"
+    }
+  },
+  {
+    "id": -1680519296,
+    "names": {
+      "ja": "暗器蛸派生",
+      "en": "Xu Wu Tree",
+      "fr": "Xu Wu",
+      "it": "Xu Wu",
+      "de": "Xu Wu",
+      "es": "Árbol de Xu Wu",
+      "ru": "Древо сю ву",
+      "pl": "Drzewo Xu Wu",
+      "pt-BR": "Xu Wu",
+      "ko": "암기소 파생",
+      "zh-Hant": "暗器鱆衍生",
+      "zh-Hans": "暗器蛸衍生",
+      "ar": "شجرة شو وو",
+      "es-419": "Árbol de Xu Wu"
+    }
+  },
+  {
+    "id": -1616428288,
+    "names": {
+      "ja": "麻痺属性派生",
+      "en": "Paralysis Tree",
+      "fr": "Paralysie",
+      "it": "Paralisi",
+      "de": "Lähmung",
+      "es": "Árbol de parálisis",
+      "ru": "Древо паралича",
+      "pl": "Drzewo paraliżu",
+      "pt-BR": "Paralisia",
+      "ko": "마비속성 파생",
+      "zh-Hant": "麻痺屬性衍生",
+      "zh-Hans": "麻痹属性衍生",
+      "ar": "شجرة الشلل",
+      "es-419": "Árbol de parálisis"
+    }
+  },
+  {
+    "id": -1365154048,
+    "names": {
+      "ja": "骨素材派生",
+      "en": "Bone Tree",
+      "fr": "Os",
+      "it": "Osso",
+      "de": "Knochen",
+      "es": "Árbol de hueso",
+      "ru": "Древо костей",
+      "pl": "Drzewo kości",
+      "pt-BR": "Óssea",
+      "ko": "뼈 소재 파생",
+      "zh-Hant": "骨素材衍生",
+      "zh-Hans": "骨素材衍生",
+      "ar": "شجرة العظام",
+      "es-419": "Árbol de hueso"
+    }
+  },
+  {
+    "id": -1346940416,
+    "names": {
+      "ja": "凍峰竜派生",
+      "en": "Jin Dahaad Tree",
+      "fr": "Jin Dahaad",
+      "it": "Jin D'haad",
+      "de": "Jin Dahaad",
+      "es": "Árbol de Jin Dahaad",
+      "ru": "Древо джина дахаада",
+      "pl": "Drzewo Jin Dahaada",
+      "pt-BR": "Jin D'haad",
+      "ko": "동봉룡 파생",
+      "zh-Hant": "凍峰龍衍生",
+      "zh-Hans": "冻峰龙衍生",
+      "ar": "شجرة جين دهاد",
+      "es-419": "Árbol de Jin Dahaad"
+    }
+  },
+  {
+    "id": -1281946368,
+    "names": {
+      "ja": "炎尾竜派生",
+      "en": "Quematrice Tree",
+      "fr": "Quematrice",
+      "it": "Quematrice",
+      "de": "Quematrice",
+      "es": "Árbol de Quematrice",
+      "ru": "Древо кематриса",
+      "pl": "Drzewo Chematrice'a",
+      "pt-BR": "Quematrice",
+      "ko": "염미룡 파생",
+      "zh-Hant": "炎尾龍衍生",
+      "zh-Hans": "炎尾龙衍生",
+      "ar": "شجرة كيماتريس",
+      "es-419": "Árbol de Quematrice"
+    }
+  },
+  {
+    "id": -1272948352,
+    "names": {
+      "ja": "ダイオウカジキ派生",
+      "en": "Speartuna Tree",
+      "fr": "Makaire royal",
+      "it": "Marlin ghiacciato",
+      "de": "Speerthun",
+      "es": "Árbol de pez arpón",
+      "ru": "Древо тунца-меча",
+      "pl": "Drzewo dziduńczyka",
+      "pt-BR": "Lançatum",
+      "ko": "대왕청새치 파생",
+      "zh-Hant": "大王旗魚衍生",
+      "zh-Hans": "大王旗鱼衍生",
+      "ar": "شجرة تونة رمحية",
+      "es-419": "Árbol de pez arpón"
+    }
+  },
+  {
+    "id": -1246963200,
+    "names": {
+      "ja": "刺花蜘蛛派生",
+      "en": "Lala Barina Tree",
+      "fr": "Lala Barina",
+      "it": "Lala Barina",
+      "de": "Lala Barina",
+      "es": "Árbol de Lala Barina",
+      "ru": "Древо лалы барины",
+      "pl": "Drzewo Lala Bariny",
+      "pt-BR": "Lala Barina",
+      "ko": "자화지주 파생",
+      "zh-Hant": "刺花蜘蛛衍生",
+      "zh-Hans": "刺花蜘蛛衍生",
+      "ar": "شجرة لالا بارينا",
+      "es-419": "Árbol de Lala Barina"
+    }
+  },
+  {
+    "id": -1175600512,
+    "names": {
+      "ja": "泡狐竜派生",
+      "en": "Mizutsune Tree",
+      "fr": "Mizutsune",
+      "it": "Mizutsune",
+      "de": "Mizutsune",
+      "es": "Árbol de Mizutsune",
+      "ru": "Древо мидзуцунэ",
+      "pl": "Drzewo Mizutsune",
+      "pt-BR": "Mizutsune",
+      "ko": "포호룡 파생",
+      "zh-Hant": "泡狐龍衍生",
+      "zh-Hans": "泡狐龙衍生",
+      "ar": "شجرة ميزوتسوني",
+      "es-419": "Árbol de Mizutsune"
+    }
+  },
+  {
+    "id": -1032609600,
+    "names": {
+      "ja": "水属性派生",
+      "en": "Water Element Tree",
+      "fr": "Élément eau",
+      "it": "Acqua",
+      "de": "Wasserelement",
+      "es": "Árbol de agua",
+      "ru": "Древо стихии воды",
+      "pl": "Drzewo żywiołu wody",
+      "pt-BR": "Elemento Água",
+      "ko": "물속성 파생",
+      "zh-Hant": "水屬性衍生",
+      "zh-Hans": "水属性衍生",
+      "ar": "شجرة عنصر المياه",
+      "es-419": "Árbol de agua"
+    }
+  },
+  {
+    "id": -772890752,
+    "names": {
+      "ja": "桃毛獣派生",
+      "en": "Congalala Tree",
+      "fr": "Congalala",
+      "it": "Congalala",
+      "de": "Congalala",
+      "es": "Árbol de Congalala",
+      "ru": "Древо конгалалы",
+      "pl": "Drzewo Kongalali",
+      "pt-BR": "Congalala",
+      "ko": "도모수 파생",
+      "zh-Hant": "桃毛獸王衍生",
+      "zh-Hans": "桃毛兽王衍生",
+      "ar": "شجرة كونغالالا",
+      "es-419": "Árbol de Congalala"
+    }
+  },
+  {
+    "id": -622134208,
+    "names": {
+      "ja": "火竜派生",
+      "en": "Rathalos Tree",
+      "fr": "Rathalos",
+      "it": "Rathalos",
+      "de": "Rathalos",
+      "es": "Árbol de Rathalos",
+      "ru": "Древо раталоса",
+      "pl": "Drzewo Rathalosa",
+      "pt-BR": "Rathalos",
+      "ko": "화룡 파생",
+      "zh-Hant": "火龍衍生",
+      "zh-Hans": "火龙衍生",
+      "ar": "شجرة راثالوس",
+      "es-419": "Árbol de Rathalos"
+    }
+  },
+  {
+    "id": -621613632,
+    "names": {
+      "ja": "煌雷竜派生",
+      "en": "Rey Dau Tree",
+      "fr": "Rey Dau",
+      "it": "Rey Dau",
+      "de": "Rey Dau",
+      "es": "Árbol de Rey Dau",
+      "ru": "Древо рей дау",
+      "pl": "Drzewo Rey Dau",
+      "pt-BR": "Rey Dau",
+      "ko": "황뢰룡 파생",
+      "zh-Hant": "煌雷龍衍生",
+      "zh-Hans": "煌雷龙衍生",
+      "ar": "شجرة راي داو",
+      "es-419": "Árbol de Rey Dau"
+    }
+  },
+  {
+    "id": -547584512,
+    "names": {
+      "ja": "工房武器派生",
+      "en": "Workshop Tree",
+      "fr": "Atelier",
+      "it": "Armeria",
+      "de": "Werkstatt",
+      "es": "Árbol de taller",
+      "ru": "Древо мастерской",
+      "pl": "Drzewo warsztatu",
+      "pt-BR": "Oficina",
+      "ko": "공방무기 파생",
+      "zh-Hant": "工房武器衍生",
+      "zh-Hans": "工房武器衍生",
+      "ar": "شجرة الورشة",
+      "es-419": "Árbol de forja"
+    }
+  },
+  {
+    "id": -492617504,
+    "names": {
+      "ja": "闢獣派生",
+      "en": "Doshaguma Tree",
+      "fr": "Doshaguma",
+      "it": "Doshaguma",
+      "de": "Doshaguma",
+      "es": "Árbol de Doshaguma",
+      "ru": "Древо дошагумы",
+      "pl": "Drzewo Doshagumy",
+      "pt-BR": "Doshaguma",
+      "ko": "벽수 파생",
+      "zh-Hant": "闢獸衍生",
+      "zh-Hans": "辟兽衍生",
+      "ar": "شجرة دوشاغوما",
+      "es-419": "Árbol de Doshaguma"
+    }
+  },
+  {
+    "id": -89415872,
+    "names": {
+      "ja": "沼噴竜派生",
+      "en": "Rompopolo Tree",
+      "fr": "Rompopolo",
+      "it": "Rompopolo",
+      "de": "Rompopolo",
+      "es": "Árbol de Rompopolo",
+      "ru": "Древо ромпополо",
+      "pl": "Drzewo Rompopola",
+      "pt-BR": "Rompopolo",
+      "ko": "소분룡 파생",
+      "zh-Hant": "沼噴龍衍生",
+      "zh-Hans": "沼喷龙衍生",
+      "ar": "شجرة رومبوبولو",
+      "es-419": "Árbol de Rompopolo"
+    }
+  },
+  {
+    "id": -6931531,
+    "names": {
+      "ja": "風鋏竜派生",
+      "en": "Hirabami Tree",
+      "fr": "Hirabami",
+      "it": "Hirabami",
+      "de": "Hirabami",
+      "es": "Árbol de Hirabami",
+      "ru": "Древо хирабами",
+      "pl": "Drzewo Hirabami",
+      "pt-BR": "Hirabami",
+      "ko": "풍협룡 파생",
+      "zh-Hant": "風鋏龍衍生",
+      "zh-Hans": "风铗龙衍生",
+      "ar": "شجرة هيرابامي",
+      "es-419": "Árbol de Hirabami"
+    }
+  },
+  {
+    "id": 1,
+    "names": {
+      "ja": "調査隊派生",
+      "en": "Expedition Tree",
+      "fr": "Expédition",
+      "it": "Spedizione",
+      "de": "Expedition",
+      "es": "Árbol de expedición",
+      "ru": "Древо экспедиции",
+      "pl": "Drzewo ekspedycji",
+      "pt-BR": "Expedição",
+      "ko": "조사대 파생",
+      "zh-Hant": "調查隊衍生",
+      "zh-Hans": "调查队衍生",
+      "ar": "شجرة البعثات",
+      "es-419": "Árbol de expedición"
+    }
+  },
+  {
+    "id": 2,
+    "names": {
+      "ja": "鉱石素材派生",
+      "en": "Ore Tree",
+      "fr": "Minerai",
+      "it": "Minerale",
+      "de": "Erz",
+      "es": "Árbol de mineral",
+      "ru": "Древо руды",
+      "pl": "Drzewo rudy",
+      "pt-BR": "Minério",
+      "ko": "광석 소재 파생",
+      "zh-Hant": "礦石素材衍生",
+      "zh-Hans": "矿石素材衍生",
+      "ar": "شجرة المعدن الخام",
+      "es-419": "Árbol de mineral"
+    }
+  },
+  {
+    "id": 128739328,
+    "names": {
+      "ja": "影蜘蛛派生",
+      "en": "Nerscylla Tree",
+      "fr": "Nerscylla",
+      "it": "Nerscylla",
+      "de": "Nerscylla",
+      "es": "Árbol de Nerscylla",
+      "ru": "Древо нерскиллы",
+      "pl": "Drzewo Nerscylli",
+      "pt-BR": "Nerscylla",
+      "ko": "영지주 파생",
+      "zh-Hant": "影蜘蛛衍生",
+      "zh-Hans": "影蜘蛛衍生",
+      "ar": "شجرة نيرسكيلا",
+      "es-419": "Árbol de Nerscylla"
+    }
+  },
+  {
+    "id": 146353744,
+    "names": {
+      "ja": "白熾龍派生",
+      "en": "Zoh Shia Tree",
+      "fr": "Zoh Shia",
+      "it": "Zoh Shia",
+      "de": "Zoh Shia",
+      "es": "Árbol de Zoh Shia",
+      "ru": "Древо Зо Шиа",
+      "pl": "Drzewo Zoh Shia",
+      "pt-BR": "Zoh Shia",
+      "ko": "백열룡 파생",
+      "zh-Hant": "白熾龍衍生",
+      "zh-Hans": "白炽龙衍生",
+      "ar": "شجرة زو شيا",
+      "es-419": "Árbol de Zoh Shia"
+    }
+  },
+  {
+    "id": 401764448,
+    "names": {
+      "ja": "獄焔蛸派生",
+      "en": "Nu Udra Tree",
+      "fr": "Nu Udra",
+      "it": "Nu Udra",
+      "de": "Nu Udra",
+      "es": "Árbol de Nu Udra",
+      "ru": "Древо ну удры",
+      "pl": "Drzewo Nu Udry",
+      "pt-BR": "Nu Udra",
+      "ko": "염옥소 파생",
+      "zh-Hant": "獄焰鱆衍生",
+      "zh-Hans": "狱焰蛸衍生",
+      "ar": "شجرة نو أودرا",
+      "es-419": "Árbol de Nu Udra"
+    }
+  },
+  {
+    "id": 501778656,
+    "names": {
+      "ja": "波衣竜派生",
+      "en": "Uth Duna Tree",
+      "fr": "Uth Duna",
+      "it": "Uth Duna",
+      "de": "Uth Duna",
+      "es": "Árbol de Uth Duna",
+      "ru": "Древо ут дуны",
+      "pl": "Drzewo Uth Duny",
+      "pt-BR": "Uth Duna",
+      "ko": "파의룡 파생",
+      "zh-Hant": "波衣龍衍生",
+      "zh-Hans": "波衣龙衍生",
+      "ar": "شجرة أوث دونا",
+      "es-419": "Árbol de Uth Duna"
+    }
+  },
+  {
+    "id": 520158048,
+    "names": {
+      "ja": "護火竜派生",
+      "en": "G. Rathalos Tree",
+      "fr": "Rathalos Gardien",
+      "it": "Rathalos G.",
+      "de": "W.-Rathalos",
+      "es": "Árbol de Rathalos G.",
+      "ru": "Древо раталоса-стража",
+      "pl": "Drzewo Rathalosa S.",
+      "pt-BR": "Rathalos Guardião",
+      "ko": "호화룡 파생",
+      "zh-Hant": "護火龍衍生",
+      "zh-Hans": "护火龙衍生",
+      "ar": "شجرة راثالوس حارس",
+      "es-419": "Árbol de Rathalos G."
+    }
+  },
+  {
+    "id": 555478144,
+    "names": {
+      "ja": "護闢獣派生",
+      "en": "G. Doshaguma Tree",
+      "fr": "Doshaguma Gardien",
+      "it": "Doshaguma G.",
+      "de": "W.-Doshaguma",
+      "es": "Árbol de Doshaguma G.",
+      "ru": "Древо дошагумы-стража",
+      "pl": "Drzewo Doshagumy S.",
+      "pt-BR": "Doshaguma Guardião",
+      "ko": "호벽수 파생",
+      "zh-Hant": "護闢獸衍生",
+      "zh-Hans": "护辟兽衍生",
+      "ar": "شجرة دوشاغوما حارس",
+      "es-419": "Árbol de Doshaguma G."
+    }
+  },
+  {
+    "id": 559385600,
+    "names": {
+      "ja": "護鎖刃竜派生",
+      "en": "G. Arkveld Tree",
+      "fr": "Arkveld Gardien",
+      "it": "Arkveld G.",
+      "de": "W.-Arkveld",
+      "es": "Árbol de Arkveld G.",
+      "ru": "Древо арквельда-стража",
+      "pl": "Drzewo Arkvelda S.",
+      "pt-BR": "Arkveld Guardião",
+      "ko": "호쇄인룡 파생",
+      "zh-Hant": "護鎖刃龍衍生",
+      "zh-Hans": "护锁刃龙衍生",
+      "ar": "شجرة آركفيلد حارس",
+      "es-419": "Árbol de Arkveld G."
+    }
+  },
+  {
+    "id": 756004224,
+    "names": {
+      "ja": "護兇爪竜派生",
+      "en": "G. Ebony Tree",
+      "fr": "Odo désastre Gardien",
+      "it": "Ebano G.",
+      "de": "W.-Vulkan",
+      "es": "Árbol de Ébano G.",
+      "ru": "Древо эбен. стража",
+      "pl": "Drzewo Hebanowego S.",
+      "pt-BR": "Odogaron N. Guardião",
+      "ko": "호흉조룡 파생",
+      "zh-Hant": "護兇爪龍衍生",
+      "zh-Hans": "护凶爪龙衍生",
+      "ar": "شجرة وحش أسمر حارس",
+      "es-419": "Árbol de Ébano G."
+    }
+  },
+  {
+    "id": 769195136,
+    "names": {
+      "ja": "鎖刃竜派生",
+      "en": "Arkveld Tree",
+      "fr": "Arkveld",
+      "it": "Arkveld",
+      "de": "Arkveld",
+      "es": "Árbol de Arkveld",
+      "ru": "Древо арквельда",
+      "pl": "Drzewo Arkvelda",
+      "pt-BR": "Arkveld",
+      "ko": "쇄인룡 파생",
+      "zh-Hant": "鎖刃龍衍生",
+      "zh-Hans": "锁刃龙衍生",
+      "ar": "شجرة آركفيلد",
+      "es-419": "Árbol de Arkveld"
+    }
+  },
+  {
+    "id": 861502784,
+    "names": {
+      "ja": "黒蝕竜派生",
+      "en": "Gore Magala Tree",
+      "fr": "Gore Magala",
+      "it": "Gore Magala",
+      "de": "Gore Magala",
+      "es": "Árbol de Gore Magala",
+      "ru": "Древо кровавой магалы",
+      "pl": "Drzewo Gore Magali",
+      "pt-BR": "Gore Magala",
+      "ko": "흑식룡 파생",
+      "zh-Hant": "黑蝕龍衍生",
+      "zh-Hans": "黑蚀龙衍生",
+      "ar": "شجرة جور ماجالا",
+      "es-419": "Árbol de Gore Magala"
+    }
+  },
+  {
+    "id": 948173312,
+    "names": {
+      "ja": "赫猿獣派生",
+      "en": "Ajarakan Tree",
+      "fr": "Ajarakan",
+      "it": "Ajarakan",
+      "de": "Ajarakan",
+      "es": "Árbol de Ajarakan",
+      "ru": "Древо ажаракана",
+      "pl": "Drzewo Ajarakana",
+      "pt-BR": "Ajarakan",
+      "ko": "혁원수 파생",
+      "zh-Hant": "赫猿獸衍生",
+      "zh-Hans": "赫猿兽衍生",
+      "ar": "شجرة أجاراكان",
+      "es-419": "Árbol de Ajarakan"
+    }
+  },
+  {
+    "id": 1002649728,
+    "names": {
+      "ja": "護雷顎竜派生",
+      "en": "G. Fulgur Tree",
+      "fr": "Anja tonnerre Gardien",
+      "it": "Tonante G.",
+      "de": "W.-Fulgur",
+      "es": "Árbol Fulgúreo G.",
+      "ru": "Древо громового стража",
+      "pl": "Drzewo S. Fulgura",
+      "pt-BR": "Anjanath F. Guardião",
+      "ko": "호뢰악룡 파생",
+      "zh-Hant": "護雷顎龍衍生",
+      "zh-Hans": "护雷颚龙衍生",
+      "ar": "شجرة رعدي حارس",
+      "es-419": "Árbol Fulgúreo G."
+    }
+  },
+  {
+    "id": 1028911680,
+    "names": {
+      "ja": "纏蛙派生",
+      "en": "Chatacabra Tree",
+      "fr": "Chatacabra",
+      "it": "Chatacabra",
+      "de": "Chatacabra",
+      "es": "Árbol de Chatacabra",
+      "ru": "Древо чатакабры",
+      "pl": "Drzewo Chatacabry",
+      "pt-BR": "Chatacabra",
+      "ko": "전와 파생",
+      "zh-Hant": "纏蛙衍生",
+      "zh-Hans": "缠蛙衍生",
+      "ar": "شجرة تشاتاكابرا",
+      "es-419": "Árbol de Chatacabra"
+    }
+  },
+  {
+    "id": 1049075776,
+    "names": {
+      "ja": "毒怪鳥派生",
+      "en": "Gypceros Tree",
+      "fr": "Gypceros",
+      "it": "Gypceros",
+      "de": "Gypceros",
+      "es": "Árbol de Gypceros",
+      "ru": "Древо гипцероса",
+      "pl": "Drzewo Gypcerosa",
+      "pt-BR": "Gypceros",
+      "ko": "독괴조 파생",
+      "zh-Hant": "毒怪鳥衍生",
+      "zh-Hans": "毒怪鸟衍生",
+      "ar": "شجرة جيبسيروس",
+      "es-419": "Árbol de Gypceros"
+    }
+  },
+  {
+    "id": 1094733056,
+    "names": {
+      "ja": "鎧竜派生",
+      "en": "Gravios Tree",
+      "fr": "Gravios",
+      "it": "Gravios",
+      "de": "Gravios",
+      "es": "Árbol de Gravios",
+      "ru": "Древо гравиоса",
+      "pl": "Drzewo Graviosa",
+      "pt-BR": "Gravios",
+      "ko": "개룡 파생",
+      "zh-Hant": "鎧龍衍生",
+      "zh-Hans": "铠龙衍生",
+      "ar": "شجرة غرافيوس",
+      "es-419": "Árbol de Gravios"
+    }
+  },
+  {
+    "id": 1226118784,
+    "names": {
+      "ja": "雪獅子派生",
+      "en": "Blangonga Tree",
+      "fr": "Blangonga",
+      "it": "Blangonga",
+      "de": "Blangonga",
+      "es": "Árbol de Blangonga",
+      "ru": "Древо блангонги",
+      "pl": "Drzewo Blangongi",
+      "pt-BR": "Blangonga",
+      "ko": "눈사자 파생",
+      "zh-Hant": "雪獅子王衍生",
+      "zh-Hans": "雪狮子王衍生",
+      "ar": "شجرة بلانجونجا",
+      "es-419": "Árbol de Blangonga"
+    }
+  },
+  {
+    "id": 1239485824,
+    "names": {
+      "ja": "怪鳥派生",
+      "en": "Yian Kut-Ku Tree",
+      "fr": "Yian Kut-Ku",
+      "it": "Yian Kut-Ku",
+      "de": "Yian Kut-Ku",
+      "es": "Árbol de Yian Kut-Ku",
+      "ru": "Древо йан-кут-ку",
+      "pl": "Drzewo Yian Kut-Ku",
+      "pt-BR": "Yian Kut-Ku",
+      "ko": "괴조 파생",
+      "zh-Hant": "怪鳥衍生",
+      "zh-Hans": "怪鸟衍生",
+      "ar": "شجرة يان كوت-كو",
+      "es-419": "Árbol de Yian Kut-Ku"
+    }
+  },
+  {
+    "id": 1496386176,
+    "names": {
+      "ja": "ランゴスタ派生",
+      "en": "Vespoid Tree",
+      "fr": "Vespoid",
+      "it": "Vespoid",
+      "de": "Vespoid",
+      "es": "Árbol de Vespoid",
+      "ru": "Древо осоида",
+      "pl": "Drzewo Vespoida",
+      "pt-BR": "Vespoidea",
+      "ko": "랑고스타 파생",
+      "zh-Hant": "巨蜂衍生",
+      "zh-Hans": "巨蜂衍生",
+      "ar": "شجرة فيسبويد",
+      "es-419": "Árbol de Vespoide"
+    }
+  }
+]
