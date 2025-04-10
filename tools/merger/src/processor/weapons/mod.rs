@@ -68,7 +68,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         series.push(item);
     }
 
-    series.sort_by_key(|v| v.id);
+    series.sort_by_key(|v| v.game_id);
     series.write_file(config.io.output.join(SERIES_OUTPUT))?;
 
     let data: Vec<WeaponData> = Vec::read_file(config.io.output.join(def.data_path()))?;
@@ -582,7 +582,7 @@ where
 
 #[derive(Debug, Serialize)]
 struct Series {
-    id: SeriesId,
+    game_id: SeriesId,
     #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
 }
@@ -590,7 +590,7 @@ struct Series {
 impl From<&SeriesData> for Series {
     fn from(value: &SeriesData) -> Self {
         Self {
-            id: value.id,
+            game_id: value.id,
             names: LanguageMap::new(),
         }
     }
