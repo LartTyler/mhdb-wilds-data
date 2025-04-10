@@ -5931,15 +5931,17 @@
         "715": 1
       },
       "previous_id": null,
-      "branches": [],
+      "branches": [
+        76
+      ],
       "is_shortcut": false,
-      "column": 0,
-      "row": 0
+      "column": 8,
+      "row": 19
     },
     "skills": {
       "576193792": 1
     },
-    "series_id": null
+    "series_id": 146353744
   },
   {
     "game_id": 76,
@@ -6014,16 +6016,16 @@
         "717": 1,
         "719": 4
       },
-      "previous_id": null,
+      "previous_id": 75,
       "branches": [],
       "is_shortcut": false,
-      "column": 0,
-      "row": 0
+      "column": 9,
+      "row": 19
     },
     "skills": {
       "576193792": 1
     },
-    "series_id": null
+    "series_id": 146353744
   },
   {
     "game_id": 78,
@@ -6098,16 +6100,18 @@
         "726": 1
       },
       "previous_id": null,
-      "branches": [],
+      "branches": [
+        79
+      ],
       "is_shortcut": false,
-      "column": 0,
-      "row": 0
+      "column": 6,
+      "row": 20
     },
     "skills": {
       "-847539392": 2,
       "313598432": 1
     },
-    "series_id": null
+    "series_id": -1175600512
   },
   {
     "game_id": 79,
@@ -6182,16 +6186,16 @@
         "727": 4,
         "728": 1
       },
-      "previous_id": null,
+      "previous_id": 78,
       "branches": [],
       "is_shortcut": false,
-      "column": 0,
-      "row": 0
+      "column": 8,
+      "row": 20
     },
     "skills": {
       "-847539392": 3,
       "313598432": 1
     },
-    "series_id": null
+    "series_id": -1175600512
   }
 ]
