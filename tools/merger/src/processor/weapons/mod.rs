@@ -27,6 +27,7 @@ mod long_sword;
 mod switch_axe;
 mod sword_shield;
 
+const SERIES_ID_DATA: &str = "user/weapons/WeaponSeries.json";
 const SERIES_DATA: &str = "user/weapons/WeaponSeriesData.json";
 const SERIES_STRINGS: &str = "msg/WeaponSeries.json";
 
@@ -124,11 +125,24 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         .map(|v| (v.guid.as_ref(), v.weapon_id))
         .collect();
 
-    let path = config.io.output.join(def.series_path());
-    let series_lookup: Vec<SeriesRowData> = Vec::read_file(path)?;
-    let series_lookup: HashMap<u8, SeriesId> = series_lookup
+    let path = config.io.output.join(SERIES_ID_DATA);
+    let series_fixed_id_lookup: Vec<SeriesIdData> = Vec::read_file(path)?;
+    let series_fixed_id_lookup: HashMap<u16, SeriesId> = series_fixed_id_lookup
         .into_iter()
-        .map(|v| (v.row, v.series_id))
+        .map(|v| (v.value, v.fixed))
+        .collect();
+
+    let path = config.io.output.join(def.series_path());
+    let row_lookup: Vec<SeriesRowData> = Vec::read_file(path)?;
+    let row_lookup: HashMap<u8, SeriesId> = row_lookup
+        .into_iter()
+        .map(|v| {
+            let Some(series_id) = series_fixed_id_lookup.get(&v.simple_id) else {
+                panic!("Could not find series ID from index {}", v.simple_id);
+            };
+
+            (v.row, *series_id)
+        })
         .collect();
 
     for data in &data {
@@ -137,7 +151,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         weapon.crafting.column = data.column;
         weapon.crafting.row = data.row;
 
-        let Some(series_id) = series_lookup.get(&weapon.crafting.row) else {
+        let Some(series_id) = row_lookup.get(&weapon.crafting.row) else {
             panic!(
                 "Weapon series must exist; something is very wrong (for weapon {})",
                 weapon.game_id
@@ -597,6 +611,14 @@ impl From<&SeriesData> for Series {
 }
 
 #[derive(Debug, Deserialize)]
+struct SeriesIdData {
+    #[serde(rename = "_FixedID")]
+    fixed: SeriesId,
+    #[serde(rename = "_EnumValue")]
+    value: u16,
+}
+
+#[derive(Debug, Deserialize)]
 struct SeriesData {
     #[serde(rename = "_Series")]
     id: SeriesId,
@@ -607,7 +629,7 @@ struct SeriesData {
 #[derive(Debug, Deserialize)]
 struct SeriesRowData {
     #[serde(rename = "_Series")]
-    series_id: SeriesId,
+    simple_id: u16,
     #[serde(rename = "_RowLevel")]
     row: u8,
 }
