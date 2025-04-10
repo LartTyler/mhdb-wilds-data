@@ -47,6 +47,7 @@ pub enum Processor {
     HuntingHorn,
     Monsters,
     Locations,
+    WeaponSeries,
 }
 
 impl Processor {
@@ -68,6 +69,7 @@ impl Processor {
                 | LongSword
                 | DualBlades
                 | HuntingHorn
+                | WeaponSeries
         )
     }
 }

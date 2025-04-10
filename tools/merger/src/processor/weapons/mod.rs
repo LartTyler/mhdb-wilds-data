@@ -1,3 +1,4 @@
+use crate::processor::weapons::series::SeriesId;
 use crate::processor::{
     create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
     ReadFile, Result, WriteFile,
@@ -24,18 +25,13 @@ mod insect_glaive;
 mod lance;
 mod light_bowgun;
 mod long_sword;
+mod series;
 mod switch_axe;
 mod sword_shield;
 
-const SERIES_ID_DATA: &str = "user/weapons/WeaponSeries.json";
-const SERIES_DATA: &str = "user/weapons/WeaponSeriesData.json";
-const SERIES_STRINGS: &str = "msg/WeaponSeries.json";
-
-const SERIES_OUTPUT: &str = "merged/WeaponSeries.json";
-
-type SeriesId = isize;
-
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
+    series::process(config, filters)?;
+
     do_process(config, filters, bow::definition())?;
     do_process(config, filters, charge_blade::definition())?;
     do_process(config, filters, gunlance::definition())?;
@@ -56,21 +52,6 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
 fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefinition) -> Result {
     should_run!(filters, def.processor);
-
-    let data: Vec<SeriesData> = Vec::read_file(config.io.output.join(SERIES_DATA))?;
-    let strings = Msg::read_file(config.io.output.join(SERIES_STRINGS))?;
-
-    let mut series: Vec<Series> = Vec::with_capacity(data.len());
-
-    for data in data {
-        let mut item = Series::from(&data);
-        strings.populate(&data.name_guid, &mut item.names);
-
-        series.push(item);
-    }
-
-    series.sort_by_key(|v| v.game_id);
-    series.write_file(config.io.output.join(SERIES_OUTPUT))?;
 
     let data: Vec<WeaponData> = Vec::read_file(config.io.output.join(def.data_path()))?;
     let strings = Msg::read_file(config.io.output.join(def.strings_path()))?;
@@ -125,25 +106,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         .map(|v| (v.guid.as_ref(), v.weapon_id))
         .collect();
 
-    let path = config.io.output.join(SERIES_ID_DATA);
-    let series_fixed_id_lookup: Vec<SeriesIdData> = Vec::read_file(path)?;
-    let series_fixed_id_lookup: HashMap<u16, SeriesId> = series_fixed_id_lookup
-        .into_iter()
-        .map(|v| (v.value, v.fixed))
-        .collect();
-
-    let path = config.io.output.join(def.series_path());
-    let row_lookup: Vec<SeriesRowData> = Vec::read_file(path)?;
-    let row_lookup: HashMap<u8, SeriesId> = row_lookup
-        .into_iter()
-        .map(|v| {
-            let Some(series_id) = series_fixed_id_lookup.get(&v.simple_id) else {
-                panic!("Could not find series ID from index {}", v.simple_id);
-            };
-
-            (v.row, *series_id)
-        })
-        .collect();
+    let row_lookup = series::get_id_map(config, &def.series_path())?;
 
     for data in &data {
         let weapon = lookup.find_or_panic_mut(data.weapon_id, &mut merged);
@@ -595,44 +558,4 @@ where
     } else {
         Err(de::Error::custom(format!("_Type must be {code:?}")))
     }
-}
-
-#[derive(Debug, Serialize)]
-struct Series {
-    game_id: SeriesId,
-    #[serde(serialize_with = "ordered_map")]
-    names: LanguageMap,
-}
-
-impl From<&SeriesData> for Series {
-    fn from(value: &SeriesData) -> Self {
-        Self {
-            game_id: value.id,
-            names: LanguageMap::new(),
-        }
-    }
-}
-
-#[derive(Debug, Deserialize)]
-struct SeriesIdData {
-    #[serde(rename = "_FixedID")]
-    fixed: SeriesId,
-    #[serde(rename = "_EnumValue")]
-    value: u16,
-}
-
-#[derive(Debug, Deserialize)]
-struct SeriesData {
-    #[serde(rename = "_Series")]
-    id: SeriesId,
-    #[serde(rename = "_Name")]
-    name_guid: String,
-}
-
-#[derive(Debug, Deserialize)]
-struct SeriesRowData {
-    #[serde(rename = "_Series")]
-    simple_id: u16,
-    #[serde(rename = "_RowLevel")]
-    row: u8,
 }
