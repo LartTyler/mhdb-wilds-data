@@ -299,7 +299,7 @@ Fields listed below are my best guess, based on which items have the flag set.
 |`_OutBox`|boolean|Currently unknown|–|
 
 |Type ID|Engine Enum Name|Meaning|
-|---|---|
+|---|---|---|
 |0|EXPENDABLE|Consumables|
 |1|TOOL|Tools, such as mantles and the capture net|
 |2|MATERIAL|Materials|
