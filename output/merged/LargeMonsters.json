@@ -106,26 +106,26 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
         "kind": "status",
         "status": "blastblight",
         "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
     "resistances": [
       {
         "kind": "effect",
-        "effect": "flash"
+        "effect": "noise"
       },
       {
         "kind": "effect",
-        "effect": "noise"
+        "effect": "flash"
       },
       {
         "kind": "effect",
@@ -580,25 +580,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        }
-      },
-      {
         "part": "left-front-leg",
         "names": {
           "ja": "左前脚",
@@ -618,22 +599,22 @@
         }
       },
       {
-        "part": "right-front-leg",
+        "part": "head",
         "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
+          "ja": "頭",
+          "en": "Head",
+          "fr": "Tête",
+          "it": "Testa",
+          "de": "Kopf",
+          "es": "Cabeza",
+          "ru": "Голова",
+          "pl": "Głowa",
+          "pt-BR": "Cabeça",
+          "ko": "머리",
+          "zh-Hant": "頭部",
+          "zh-Hans": "头部",
+          "ar": "رأس",
+          "es-419": "Cabeza"
         }
       },
       {
@@ -672,6 +653,25 @@
           "zh-Hans": "右翼臂",
           "ar": "جناح أيمن",
           "es-419": "Brazo ala derecho"
+        }
+      },
+      {
+        "part": "right-front-leg",
+        "names": {
+          "ja": "右前脚",
+          "en": "Right Foreleg",
+          "fr": "Patte avant droite",
+          "it": "Zampa anteriore dx",
+          "de": "Vorderbein (R)",
+          "es": "Pata delantera dcha.",
+          "ru": "Правая передняя лапа",
+          "pl": "P przednia noga",
+          "pt-BR": "Perna Dianteira Dir.",
+          "ko": "오른쪽 앞다리",
+          "zh-Hant": "右前腳",
+          "zh-Hans": "右前肢",
+          "ar": "قدم يمنى أمامية",
+          "es-419": "Pata delantera der."
         }
       }
     ]
@@ -803,9 +803,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -815,9 +815,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
@@ -1261,25 +1261,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        }
-      },
-      {
         "part": "left-front-leg",
         "names": {
           "ja": "左前脚",
@@ -1315,6 +1296,25 @@
           "zh-Hans": "尾毛",
           "ar": "شعر الذيل",
           "es-419": "Pelo de la cola"
+        }
+      },
+      {
+        "part": "right-front-leg",
+        "names": {
+          "ja": "右前脚",
+          "en": "Right Foreleg",
+          "fr": "Patte avant droite",
+          "it": "Zampa anteriore dx",
+          "de": "Vorderbein (R)",
+          "es": "Pata delantera dcha.",
+          "ru": "Правая передняя лапа",
+          "pl": "P przednia noga",
+          "pt-BR": "Perna Dianteira Dir.",
+          "ko": "오른쪽 앞다리",
+          "zh-Hant": "右前腳",
+          "zh-Hans": "右前肢",
+          "ar": "قدم يمنى أمامية",
+          "es-419": "Pata delantera der."
         }
       }
     ]
@@ -1446,9 +1446,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -1458,9 +1458,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -1471,6 +1471,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -1941,25 +1945,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "corner",
-        "names": {
-          "ja": "角",
-          "en": "Horn",
-          "fr": "Corne",
-          "it": "Corno",
-          "de": "Horn",
-          "es": "Cuerno",
-          "ru": "Рог",
-          "pl": "Róg",
-          "pt-BR": "Chifre",
-          "ko": "뿔",
-          "zh-Hant": "角",
-          "zh-Hans": "角",
-          "ar": "قرن",
-          "es-419": "Cuerno"
-        }
-      },
-      {
         "part": "left-wing",
         "names": {
           "ja": "左翼",
@@ -1976,6 +1961,25 @@
           "zh-Hans": "左翼",
           "ar": "جناح أيسر",
           "es-419": "Ala izquierda"
+        }
+      },
+      {
+        "part": "corner",
+        "names": {
+          "ja": "角",
+          "en": "Horn",
+          "fr": "Corne",
+          "it": "Corno",
+          "de": "Horn",
+          "es": "Cuerno",
+          "ru": "Рог",
+          "pl": "Róg",
+          "pt-BR": "Chifre",
+          "ko": "뿔",
+          "zh-Hant": "角",
+          "zh-Hans": "角",
+          "ar": "قرن",
+          "es-419": "Cuerno"
         }
       },
       {
@@ -2127,9 +2131,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -2139,9 +2143,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -2152,6 +2156,14 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -2559,25 +2571,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "left-nail",
-        "names": {
-          "ja": "左爪",
-          "en": "Left Claw",
-          "fr": "Griffe gauche",
-          "it": "Artiglio sinistro",
-          "de": "Linke Klaue",
-          "es": "Garra izquierda",
-          "ru": "Коготь левой лапы",
-          "pl": "Lewy pazur",
-          "pt-BR": "Garra Esquerda",
-          "ko": "왼쪽 발톱",
-          "zh-Hant": "左爪",
-          "zh-Hans": "左爪",
-          "ar": "مخلب أيسر",
-          "es-419": "Garra izquierda"
-        }
-      },
-      {
         "part": "right-nail",
         "names": {
           "ja": "右爪",
@@ -2613,6 +2606,25 @@
           "zh-Hans": "花瓣状部位",
           "ar": "بتلات",
           "es-419": "Pétalos"
+        }
+      },
+      {
+        "part": "left-nail",
+        "names": {
+          "ja": "左爪",
+          "en": "Left Claw",
+          "fr": "Griffe gauche",
+          "it": "Artiglio sinistro",
+          "de": "Linke Klaue",
+          "es": "Garra izquierda",
+          "ru": "Коготь левой лапы",
+          "pl": "Lewy pazur",
+          "pt-BR": "Garra Esquerda",
+          "ko": "왼쪽 발톱",
+          "zh-Hant": "左爪",
+          "zh-Hans": "左爪",
+          "ar": "مخلب أيسر",
+          "es-419": "Garra izquierda"
         }
       }
     ]
@@ -2745,9 +2757,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -2757,9 +2769,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -3123,25 +3135,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        }
-      },
-      {
         "part": "left-front-leg",
         "names": {
           "ja": "左前脚",
@@ -3158,6 +3151,25 @@
           "zh-Hans": "左前肢",
           "ar": "قدم يسرى أمامية",
           "es-419": "Pata delantera izq."
+        }
+      },
+      {
+        "part": "head",
+        "names": {
+          "ja": "頭",
+          "en": "Head",
+          "fr": "Tête",
+          "it": "Testa",
+          "de": "Kopf",
+          "es": "Cabeza",
+          "ru": "Голова",
+          "pl": "Głowa",
+          "pt-BR": "Cabeça",
+          "ko": "머리",
+          "zh-Hant": "頭部",
+          "zh-Hans": "头部",
+          "ar": "رأس",
+          "es-419": "Cabeza"
         }
       },
       {
@@ -3369,9 +3381,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -3381,9 +3393,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -3394,6 +3406,14 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -3958,15 +3978,15 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
         "kind": "status",
         "status": "blastblight",
         "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -3978,12 +3998,16 @@
     ],
     "resistances": [
       {
-        "kind": "effect",
-        "effect": "flash"
+        "kind": "element",
+        "element": "water"
       },
       {
         "kind": "effect",
         "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
       }
     ],
     "rewards": [
@@ -4479,9 +4503,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -4491,9 +4515,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -4880,6 +4904,25 @@
     ],
     "breakable_parts": [
       {
+        "part": "left-wing",
+        "names": {
+          "ja": "左翼",
+          "en": "Left Wing",
+          "fr": "Aile gauche",
+          "it": "Ala sinistra",
+          "de": "Linker Flügel",
+          "es": "Ala izquierda",
+          "ru": "Левое крыло",
+          "pl": "Lewe skrzydło",
+          "pt-BR": "Asa Esquerda",
+          "ko": "왼쪽 날개",
+          "zh-Hant": "左翼",
+          "zh-Hans": "左翼",
+          "ar": "جناح أيسر",
+          "es-419": "Ala izquierda"
+        }
+      },
+      {
         "part": "head",
         "names": {
           "ja": "頭",
@@ -4896,6 +4939,25 @@
           "zh-Hans": "头部",
           "ar": "رأس",
           "es-419": "Cabeza"
+        }
+      },
+      {
+        "part": "right-leg",
+        "names": {
+          "ja": "右脚",
+          "en": "Right Leg",
+          "fr": "Patte droite",
+          "it": "Zampa destra",
+          "de": "Rechtes Bein",
+          "es": "Pata derecha",
+          "ru": "Правая лапа",
+          "pl": "Prawa noga",
+          "pt-BR": "Perna Direita",
+          "ko": "오른쪽 다리",
+          "zh-Hant": "右腳",
+          "zh-Hans": "右腿",
+          "ar": "قدم يمنى",
+          "es-419": "Pata derecha"
         }
       },
       {
@@ -4937,63 +4999,6 @@
         }
       },
       {
-        "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        }
-      },
-      {
-        "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        }
-      },
-      {
-        "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        }
-      },
-      {
         "part": "right-wing",
         "names": {
           "ja": "右翼",
@@ -5010,6 +5015,25 @@
           "zh-Hans": "右翼",
           "ar": "جناح أيمن",
           "es-419": "Ala derecha"
+        }
+      },
+      {
+        "part": "left-leg",
+        "names": {
+          "ja": "左脚",
+          "en": "Left Leg",
+          "fr": "Patte gauche",
+          "it": "Zampa sinistra",
+          "de": "Linkes Bein",
+          "es": "Pata izquierda",
+          "ru": "Левая лапа",
+          "pl": "Lewa noga",
+          "pt-BR": "Perna Esquerda",
+          "ko": "왼쪽 다리",
+          "zh-Hant": "左腳",
+          "zh-Hans": "左腿",
+          "ar": "قدم يسرى",
+          "es-419": "Pata izquierda"
         }
       }
     ]
@@ -5121,9 +5145,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -5133,9 +5157,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
@@ -5282,6 +5306,25 @@
     ],
     "breakable_parts": [
       {
+        "part": "right-wing-blade",
+        "names": {
+          "ja": "右鎖翼刃",
+          "en": "Right Chainblade",
+          "fr": "Chaîne-lame droite",
+          "it": "Catena destra",
+          "de": "Kettenklinge (R)",
+          "es": "Cadenáculo derecho",
+          "ru": "Правый цепной клинок",
+          "pl": "P ostrze łańcuch.",
+          "pt-BR": "Correlâmina Dir.",
+          "ko": "오른쪽 사슬날개",
+          "zh-Hant": "右鎖翼刃",
+          "zh-Hans": "右锁翼刃",
+          "ar": "شفرة سلسلة يمنى",
+          "es-419": "Hoja cadena der."
+        }
+      },
+      {
         "part": "head",
         "names": {
           "ja": "頭",
@@ -5317,25 +5360,6 @@
           "zh-Hans": "左锁翼刃",
           "ar": "شفرة سلسلة يسرى",
           "es-419": "Hoja cadena izq."
-        }
-      },
-      {
-        "part": "right-wing-blade",
-        "names": {
-          "ja": "右鎖翼刃",
-          "en": "Right Chainblade",
-          "fr": "Chaîne-lame droite",
-          "it": "Catena destra",
-          "de": "Kettenklinge (R)",
-          "es": "Cadenáculo derecho",
-          "ru": "Правый цепной клинок",
-          "pl": "P ostrze łańcuch.",
-          "pt-BR": "Correlâmina Dir.",
-          "ko": "오른쪽 사슬날개",
-          "zh-Hant": "右鎖翼刃",
-          "zh-Hans": "右锁翼刃",
-          "ar": "شفرة سلسلة يمنى",
-          "es-419": "Hoja cadena der."
         }
       }
     ]
@@ -5468,9 +5492,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -5480,9 +5504,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -5493,6 +5517,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -6078,9 +6106,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -6090,9 +6118,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -6454,25 +6482,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        }
-      },
-      {
         "part": "left-front-leg",
         "names": {
           "ja": "左前脚",
@@ -6508,6 +6517,25 @@
           "zh-Hans": "尾毛",
           "ar": "شعر الذيل",
           "es-419": "Pelo de la cola"
+        }
+      },
+      {
+        "part": "right-front-leg",
+        "names": {
+          "ja": "右前脚",
+          "en": "Right Foreleg",
+          "fr": "Patte avant droite",
+          "it": "Zampa anteriore dx",
+          "de": "Vorderbein (R)",
+          "es": "Pata delantera dcha.",
+          "ru": "Правая передняя лапа",
+          "pl": "P przednia noga",
+          "pt-BR": "Perna Dianteira Dir.",
+          "ko": "오른쪽 앞다리",
+          "zh-Hant": "右前腳",
+          "zh-Hans": "右前肢",
+          "ar": "قدم يمنى أمامية",
+          "es-419": "Pata delantera der."
         }
       }
     ]
@@ -6639,15 +6667,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -6672,9 +6694,15 @@
         }
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -6684,7 +6712,12 @@
         "condition": null
       }
     ],
-    "resistances": [],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      }
+    ],
     "rewards": [
       {
         "rank": "low",
@@ -7283,9 +7316,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -7295,9 +7328,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -7308,6 +7341,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -7779,9 +7816,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -7791,9 +7828,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -7804,6 +7841,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -8278,9 +8319,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -8290,9 +8331,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -8303,6 +8344,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -8497,7 +8542,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "head-first",
+        "part": "head-second",
         "item_id": 724,
         "amount": 1,
         "chance": 100
@@ -8632,22 +8677,22 @@
     ],
     "breakable_parts": [
       {
-        "part": "head-first",
+        "part": "dorsal-fin",
         "names": {
-          "ja": "頭(一段階目)",
-          "en": "Head I",
-          "fr": "Tête I",
-          "it": "Testa I",
-          "de": "Kopf (St. I)",
-          "es": "Cabeza I",
-          "ru": "Голова I",
-          "pl": "Głowa I",
-          "pt-BR": "Cabeça I",
-          "ko": "머리(1단계째)",
-          "zh-Hant": "頭部（第一階段）",
-          "zh-Hans": "头部（第一阶段）",
-          "ar": "رأس 1",
-          "es-419": "Cabeza I"
+          "ja": "背ビレ",
+          "en": "Dorsal Fin",
+          "fr": "Nageoire dorsale",
+          "it": "Pinna dorsale",
+          "de": "Rückenflosse",
+          "es": "Aleta dorsal",
+          "ru": "Спинной плавник",
+          "pl": "Płetwa grzbietowa",
+          "pt-BR": "Barbatana Dorsal",
+          "ko": "등지느러미",
+          "zh-Hant": "背鰭",
+          "zh-Hans": "背鳍",
+          "ar": "زعنفة شوكة ظهرية",
+          "es-419": "Aleta dorsal"
         }
       },
       {
@@ -8670,41 +8715,22 @@
         }
       },
       {
-        "part": "dorsal-fin",
+        "part": "head-first",
         "names": {
-          "ja": "背ビレ",
-          "en": "Dorsal Fin",
-          "fr": "Nageoire dorsale",
-          "it": "Pinna dorsale",
-          "de": "Rückenflosse",
-          "es": "Aleta dorsal",
-          "ru": "Спинной плавник",
-          "pl": "Płetwa grzbietowa",
-          "pt-BR": "Barbatana Dorsal",
-          "ko": "등지느러미",
-          "zh-Hant": "背鰭",
-          "zh-Hans": "背鳍",
-          "ar": "زعنفة شوكة ظهرية",
-          "es-419": "Aleta dorsal"
-        }
-      },
-      {
-        "part": "left-nail",
-        "names": {
-          "ja": "左爪",
-          "en": "Left Claw",
-          "fr": "Griffe gauche",
-          "it": "Artiglio sinistro",
-          "de": "Linke Klaue",
-          "es": "Garra izquierda",
-          "ru": "Коготь левой лапы",
-          "pl": "Lewy pazur",
-          "pt-BR": "Garra Esquerda",
-          "ko": "왼쪽 발톱",
-          "zh-Hant": "左爪",
-          "zh-Hans": "左爪",
-          "ar": "مخلب أيسر",
-          "es-419": "Garra izquierda"
+          "ja": "頭(一段階目)",
+          "en": "Head I",
+          "fr": "Tête I",
+          "it": "Testa I",
+          "de": "Kopf (St. I)",
+          "es": "Cabeza I",
+          "ru": "Голова I",
+          "pl": "Głowa I",
+          "pt-BR": "Cabeça I",
+          "ko": "머리(1단계째)",
+          "zh-Hant": "頭部（第一階段）",
+          "zh-Hans": "头部（第一阶段）",
+          "ar": "رأس 1",
+          "es-419": "Cabeza I"
         }
       },
       {
@@ -8724,6 +8750,25 @@
           "zh-Hans": "右爪",
           "ar": "مخلب أيمن",
           "es-419": "Garra derecha"
+        }
+      },
+      {
+        "part": "left-nail",
+        "names": {
+          "ja": "左爪",
+          "en": "Left Claw",
+          "fr": "Griffe gauche",
+          "it": "Artiglio sinistro",
+          "de": "Linke Klaue",
+          "es": "Garra izquierda",
+          "ru": "Коготь левой лапы",
+          "pl": "Lewy pazur",
+          "pt-BR": "Garra Esquerda",
+          "ko": "왼쪽 발톱",
+          "zh-Hant": "左爪",
+          "zh-Hans": "左爪",
+          "ar": "مخلب أيسر",
+          "es-419": "Garra izquierda"
         }
       },
       {
@@ -8874,9 +8919,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -8886,13 +8931,17 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -9258,25 +9307,6 @@
         }
       },
       {
-        "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        }
-      },
-      {
         "part": "right-leg",
         "names": {
           "ja": "右脚",
@@ -9293,6 +9323,25 @@
           "zh-Hans": "右腿",
           "ar": "قدم يمنى",
           "es-419": "Pata derecha"
+        }
+      },
+      {
+        "part": "left-leg",
+        "names": {
+          "ja": "左脚",
+          "en": "Left Leg",
+          "fr": "Patte gauche",
+          "it": "Zampa sinistra",
+          "de": "Linkes Bein",
+          "es": "Pata izquierda",
+          "ru": "Левая лапа",
+          "pl": "Lewa noga",
+          "pt-BR": "Perna Esquerda",
+          "ko": "왼쪽 다리",
+          "zh-Hant": "左腳",
+          "zh-Hans": "左腿",
+          "ar": "قدم يسرى",
+          "es-419": "Pata izquierda"
         }
       }
     ]
@@ -9444,9 +9493,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -9456,9 +9505,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -9469,6 +9518,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -9874,25 +9927,6 @@
         }
       },
       {
-        "part": "tail-third",
-        "names": {
-          "ja": "尻尾(三段階目)",
-          "en": "Tail III",
-          "fr": "Queue III",
-          "it": "Coda III",
-          "de": "Schwanz (St. III)",
-          "es": "Cola III",
-          "ru": "Хвост III",
-          "pl": "Ogon III",
-          "pt-BR": "Cauda III",
-          "ko": "꼬리(3단계째)",
-          "zh-Hant": "尾巴（第三階段）",
-          "zh-Hans": "尾巴（第三阶段）",
-          "ar": "ذيل 3",
-          "es-419": "Cola III"
-        }
-      },
-      {
         "part": "tail-fifth",
         "names": {
           "ja": "尻尾(五段階目)",
@@ -9909,6 +9943,25 @@
           "zh-Hans": "尾巴（第五阶段）",
           "ar": "ذيل 5",
           "es-419": "Cola V"
+        }
+      },
+      {
+        "part": "tail-third",
+        "names": {
+          "ja": "尻尾(三段階目)",
+          "en": "Tail III",
+          "fr": "Queue III",
+          "it": "Coda III",
+          "de": "Schwanz (St. III)",
+          "es": "Cola III",
+          "ru": "Хвост III",
+          "pl": "Ogon III",
+          "pt-BR": "Cauda III",
+          "ko": "꼬리(3단계째)",
+          "zh-Hant": "尾巴（第三階段）",
+          "zh-Hans": "尾巴（第三阶段）",
+          "ar": "ذيل 3",
+          "es-419": "Cola III"
         }
       }
     ]
@@ -10060,15 +10113,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -10093,9 +10140,15 @@
         }
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -10651,9 +10704,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -10663,9 +10716,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -11119,25 +11172,6 @@
     ],
     "breakable_parts": [
       {
-        "part": "front-legs",
-        "names": {
-          "ja": "前脚",
-          "en": "Foreleg",
-          "fr": "Patte avant",
-          "it": "Zampa anteriore",
-          "de": "Vorderbein",
-          "es": "Pata delantera",
-          "ru": "Передняя лапа",
-          "pl": "Przednia noga",
-          "pt-BR": "Perna Dianteira",
-          "ko": "앞다리",
-          "zh-Hant": "前腳",
-          "zh-Hans": "前腿",
-          "ar": "قدم أمامية",
-          "es-419": "Pata delantera"
-        }
-      },
-      {
         "part": "head",
         "names": {
           "ja": "頭",
@@ -11173,6 +11207,25 @@
           "zh-Hans": "背部",
           "ar": "ظهر",
           "es-419": "Espalda"
+        }
+      },
+      {
+        "part": "front-legs",
+        "names": {
+          "ja": "前脚",
+          "en": "Foreleg",
+          "fr": "Patte avant",
+          "it": "Zampa anteriore",
+          "de": "Vorderbein",
+          "es": "Pata delantera",
+          "ru": "Передняя лапа",
+          "pl": "Przednia noga",
+          "pt-BR": "Perna Dianteira",
+          "ko": "앞다리",
+          "zh-Hant": "前腳",
+          "zh-Hans": "前腿",
+          "ar": "قدم أمامية",
+          "es-419": "Pata delantera"
         }
       },
       {
@@ -11327,9 +11380,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -11339,9 +11392,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -11658,6 +11711,25 @@
     ],
     "breakable_parts": [
       {
+        "part": "right-wing-blade",
+        "names": {
+          "ja": "右鎖翼刃",
+          "en": "Right Chainblade",
+          "fr": "Chaîne-lame droite",
+          "it": "Catena destra",
+          "de": "Kettenklinge (R)",
+          "es": "Cadenáculo derecho",
+          "ru": "Правый цепной клинок",
+          "pl": "P ostrze łańcuch.",
+          "pt-BR": "Correlâmina Dir.",
+          "ko": "오른쪽 사슬날개",
+          "zh-Hant": "右鎖翼刃",
+          "zh-Hans": "右锁翼刃",
+          "ar": "شفرة سلسلة يمنى",
+          "es-419": "Hoja cadena der."
+        }
+      },
+      {
         "part": "head",
         "names": {
           "ja": "頭",
@@ -11693,25 +11765,6 @@
           "zh-Hans": "左锁翼刃",
           "ar": "شفرة سلسلة يسرى",
           "es-419": "Hoja cadena izq."
-        }
-      },
-      {
-        "part": "right-wing-blade",
-        "names": {
-          "ja": "右鎖翼刃",
-          "en": "Right Chainblade",
-          "fr": "Chaîne-lame droite",
-          "it": "Catena destra",
-          "de": "Kettenklinge (R)",
-          "es": "Cadenáculo derecho",
-          "ru": "Правый цепной клинок",
-          "pl": "P ostrze łańcuch.",
-          "pt-BR": "Correlâmina Dir.",
-          "ko": "오른쪽 사슬날개",
-          "zh-Hant": "右鎖翼刃",
-          "zh-Hans": "右锁翼刃",
-          "ar": "شفرة سلسلة يمنى",
-          "es-419": "Hoja cadena der."
         }
       }
     ]
@@ -11844,9 +11897,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -11856,9 +11909,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -11869,6 +11922,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -12504,15 +12561,15 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
         "kind": "status",
         "status": "blastblight",
         "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -12524,12 +12581,16 @@
     ],
     "resistances": [
       {
-        "kind": "effect",
-        "effect": "flash"
+        "kind": "element",
+        "element": "thunder"
       },
       {
         "kind": "effect",
         "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
       }
     ],
     "rewards": [
@@ -13065,15 +13126,15 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
         "kind": "status",
         "status": "blastblight",
         "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -13085,12 +13146,16 @@
     ],
     "resistances": [
       {
-        "kind": "effect",
-        "effect": "flash"
+        "kind": "element",
+        "element": "dragon"
       },
       {
         "kind": "effect",
         "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
       }
     ],
     "rewards": [
@@ -13590,22 +13655,22 @@
     ],
     "breakable_parts": [
       {
-        "part": "head",
+        "part": "right-front-arm",
         "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
+          "ja": "右第１腕",
+          "en": "Front Right Arm",
+          "fr": "Patte avant droite",
+          "it": "Zampa dx ant",
+          "de": "Vorderarm (R)",
+          "es": "Brazo dcho. delantero",
+          "ru": "Передн. прав. щупальце",
+          "pl": "Przód prawego ramienia",
+          "pt-BR": "Braço Posterior Dir.",
+          "ko": "오른쪽 첫 번째 팔",
+          "zh-Hant": "第一右觸手",
+          "zh-Hans": "第一右触手",
+          "ar": "ذراع يمنى أمامية",
+          "es-419": "Brazo frontal der."
         }
       },
       {
@@ -13628,6 +13693,25 @@
         }
       },
       {
+        "part": "head",
+        "names": {
+          "ja": "頭",
+          "en": "Head",
+          "fr": "Tête",
+          "it": "Testa",
+          "de": "Kopf",
+          "es": "Cabeza",
+          "ru": "Голова",
+          "pl": "Głowa",
+          "pt-BR": "Cabeça",
+          "ko": "머리",
+          "zh-Hant": "頭部",
+          "zh-Hans": "头部",
+          "ar": "رأس",
+          "es-419": "Cabeza"
+        }
+      },
+      {
         "part": "left-front-arm",
         "names": {
           "ja": "左第１腕",
@@ -13644,25 +13728,6 @@
           "zh-Hans": "第一左触手",
           "ar": "ذراع يسرى أمامية",
           "es-419": "Brazo frontal izq."
-        }
-      },
-      {
-        "part": "right-front-arm",
-        "names": {
-          "ja": "右第１腕",
-          "en": "Front Right Arm",
-          "fr": "Patte avant droite",
-          "it": "Zampa dx ant",
-          "de": "Vorderarm (R)",
-          "es": "Brazo dcho. delantero",
-          "ru": "Передн. прав. щупальце",
-          "pl": "Przód prawego ramienia",
-          "pt-BR": "Braço Posterior Dir.",
-          "ko": "오른쪽 첫 번째 팔",
-          "zh-Hant": "第一右觸手",
-          "zh-Hans": "第一右触手",
-          "ar": "ذراع يمنى أمامية",
-          "es-419": "Brazo frontal der."
         }
       }
     ]
@@ -13794,9 +13859,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -13806,13 +13871,17 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -14493,9 +14562,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -14505,9 +14574,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -14518,6 +14587,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -15013,6 +15086,25 @@
     ],
     "breakable_parts": [
       {
+        "part": "left-front-leg",
+        "names": {
+          "ja": "左前脚",
+          "en": "Left Foreleg",
+          "fr": "Patte avant gauche",
+          "it": "Zampa anteriore sx",
+          "de": "Vorderbein (L)",
+          "es": "Pata delantera izq.",
+          "ru": "Левая передняя лапа",
+          "pl": "L przednia noga",
+          "pt-BR": "Perna Dianteira Esq.",
+          "ko": "왼쪽 앞다리",
+          "zh-Hant": "左前腳",
+          "zh-Hans": "左前肢",
+          "ar": "قدم يسرى أمامية",
+          "es-419": "Pata delantera izq."
+        }
+      },
+      {
         "part": "head",
         "names": {
           "ja": "頭",
@@ -15048,25 +15140,6 @@
           "zh-Hans": "右前肢",
           "ar": "قدم يمنى أمامية",
           "es-419": "Pata delantera der."
-        }
-      },
-      {
-        "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
         }
       },
       {
@@ -15217,9 +15290,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -15229,9 +15302,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -15242,6 +15315,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -15751,6 +15828,120 @@
     ],
     "breakable_parts": [
       {
+        "part": "frozen-bigcore-after",
+        "names": {
+          "ja": "大凍成殻（露出後）",
+          "en": "Lg. Iceplate (Exposed)",
+          "fr": "Gde plaque gelée (visible)",
+          "it": "Criopiastra gr. (esposta)",
+          "de": "Rückenplatte (freigel.)",
+          "es": "Placa hielo gr. (externa)",
+          "ru": "Б. лед. пласт. (откр.)",
+          "pl": "Dł. lodopłytka (widoczna)",
+          "pt-BR": "Placa Gélida G. (Exposta)",
+          "ko": "대동성갑각(노출 후)",
+          "zh-Hant": "大凍成殼（露出後）",
+          "zh-Hans": "大冻凝壳（露出后）",
+          "ar": "لوحة جليدية كبيرة (مكشوفة)",
+          "es-419": "Placa hielo gde. (expuesta)"
+        }
+      },
+      {
+        "part": "frozen-core-tail",
+        "names": {
+          "ja": "凍成殻（尻尾）",
+          "en": "Tail Iceplate",
+          "fr": "Plaque gelée (queue)",
+          "it": "Criopiastra (coda)",
+          "de": "Schwanz-Eisplatte",
+          "es": "Cola: Placa de hielo",
+          "ru": "Хвостовая лед. пластина",
+          "pl": "Lodopłytka (ogon)",
+          "pt-BR": "Placa Gélida (Cauda)",
+          "ko": "동성갑각(꼬리)",
+          "zh-Hant": "凍成殼（尾巴）",
+          "zh-Hans": "冻凝壳（尾巴）",
+          "ar": "لوحة جليدية (ذيل)",
+          "es-419": "Placa hielo cola"
+        }
+      },
+      {
+        "part": "left-front-leg",
+        "names": {
+          "ja": "左前脚",
+          "en": "Left Foreleg",
+          "fr": "Patte avant gauche",
+          "it": "Zampa anteriore sx",
+          "de": "Vorderbein (L)",
+          "es": "Pata delantera izq.",
+          "ru": "Левая передняя лапа",
+          "pl": "L przednia noga",
+          "pt-BR": "Perna Dianteira Esq.",
+          "ko": "왼쪽 앞다리",
+          "zh-Hant": "左前腳",
+          "zh-Hans": "左前肢",
+          "ar": "قدم يسرى أمامية",
+          "es-419": "Pata delantera izq."
+        }
+      },
+      {
+        "part": "left-hind-leg",
+        "names": {
+          "ja": "左後脚",
+          "en": "Left Hind Leg",
+          "fr": "Patte arrière gauche",
+          "it": "Zampa posteriore sx",
+          "de": "Hinterbein (L)",
+          "es": "Garra trasera izq.",
+          "ru": "Левая задняя лапа",
+          "pl": "Lewa tylna noga",
+          "pt-BR": "Perna Traseira Esq.",
+          "ko": "왼쪽 뒷다리",
+          "zh-Hant": "左後腳",
+          "zh-Hans": "左后肢",
+          "ar": "ساق خلفية يسرى",
+          "es-419": "Pata trasera izquierda"
+        }
+      },
+      {
+        "part": "right-hind-leg",
+        "names": {
+          "ja": "右後脚",
+          "en": "Right Hind Leg",
+          "fr": "Patte arrière droite",
+          "it": "Zampa posteriore dx",
+          "de": "Hinterbein (R)",
+          "es": "Garra trasera dcha.",
+          "ru": "Правая задняя лапа",
+          "pl": "Prawa tylna noga",
+          "pt-BR": "Perna Traseira Dir.",
+          "ko": "오른쪽 뒷다리",
+          "zh-Hant": "右後腳",
+          "zh-Hans": "右后肢",
+          "ar": "ساق خلفية يمنى",
+          "es-419": "Pata trasera derecha"
+        }
+      },
+      {
+        "part": "frozen-core-waist",
+        "names": {
+          "ja": "凍成殻（腰部）",
+          "en": "Abdominal Iceplate",
+          "fr": "Plaque gelée (flancs)",
+          "it": "Criopiastra (fianchi)",
+          "de": "Bauch-Eisplatte",
+          "es": "Placa hielo abdominal",
+          "ru": "Брюшная лед. пластина",
+          "pl": "Lodopłytka (pas)",
+          "pt-BR": "Placa Gélida (Cintura)",
+          "ko": "동성갑각(허리)",
+          "zh-Hant": "凍成殼（腰部）",
+          "zh-Hans": "冻凝壳（腰部）",
+          "ar": "لوحة جليدية (خاصرة)",
+          "es-419": "Placa hielo abdominal"
+        }
+      },
+      {
         "part": "frozen-core-head",
         "names": {
           "ja": "凍成殻（頭部）",
@@ -15786,120 +15977,6 @@
           "zh-Hans": "右前肢",
           "ar": "قدم يمنى أمامية",
           "es-419": "Pata delantera der."
-        }
-      },
-      {
-        "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        }
-      },
-      {
-        "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        }
-      },
-      {
-        "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        }
-      },
-      {
-        "part": "frozen-core-tail",
-        "names": {
-          "ja": "凍成殻（尻尾）",
-          "en": "Tail Iceplate",
-          "fr": "Plaque gelée (queue)",
-          "it": "Criopiastra (coda)",
-          "de": "Schwanz-Eisplatte",
-          "es": "Cola: Placa de hielo",
-          "ru": "Хвостовая лед. пластина",
-          "pl": "Lodopłytka (ogon)",
-          "pt-BR": "Placa Gélida (Cauda)",
-          "ko": "동성갑각(꼬리)",
-          "zh-Hant": "凍成殼（尾巴）",
-          "zh-Hans": "冻凝壳（尾巴）",
-          "ar": "لوحة جليدية (ذيل)",
-          "es-419": "Placa hielo cola"
-        }
-      },
-      {
-        "part": "frozen-core-waist",
-        "names": {
-          "ja": "凍成殻（腰部）",
-          "en": "Abdominal Iceplate",
-          "fr": "Plaque gelée (flancs)",
-          "it": "Criopiastra (fianchi)",
-          "de": "Bauch-Eisplatte",
-          "es": "Placa hielo abdominal",
-          "ru": "Брюшная лед. пластина",
-          "pl": "Lodopłytka (pas)",
-          "pt-BR": "Placa Gélida (Cintura)",
-          "ko": "동성갑각(허리)",
-          "zh-Hant": "凍成殼（腰部）",
-          "zh-Hans": "冻凝壳（腰部）",
-          "ar": "لوحة جليدية (خاصرة)",
-          "es-419": "Placa hielo abdominal"
-        }
-      },
-      {
-        "part": "frozen-bigcore-after",
-        "names": {
-          "ja": "大凍成殻（露出後）",
-          "en": "Lg. Iceplate (Exposed)",
-          "fr": "Gde plaque gelée (visible)",
-          "it": "Criopiastra gr. (esposta)",
-          "de": "Rückenplatte (freigel.)",
-          "es": "Placa hielo gr. (externa)",
-          "ru": "Б. лед. пласт. (откр.)",
-          "pl": "Dł. lodopłytka (widoczna)",
-          "pt-BR": "Placa Gélida G. (Exposta)",
-          "ko": "대동성갑각(노출 후)",
-          "zh-Hant": "大凍成殼（露出後）",
-          "zh-Hans": "大冻凝壳（露出后）",
-          "ar": "لوحة جليدية كبيرة (مكشوفة)",
-          "es-419": "Placa hielo gde. (expuesta)"
         }
       }
     ]
@@ -16031,14 +16108,14 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
+        "kind": "status",
+        "status": "blastblight",
         "level": 1,
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
+        "kind": "effect",
+        "effect": "stun",
         "level": 1,
         "condition": null
       },
@@ -16051,12 +16128,16 @@
     ],
     "resistances": [
       {
-        "kind": "effect",
-        "effect": "flash"
+        "kind": "element",
+        "element": "fire"
       },
       {
         "kind": "effect",
         "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
       }
     ],
     "rewards": [
@@ -16681,9 +16762,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -16693,9 +16774,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       }
     ],
@@ -16828,7 +16909,7 @@
       {
         "rank": "low",
         "kind": "broken-part",
-        "part": "head-first",
+        "part": "head-second",
         "item_id": 429,
         "amount": 1,
         "chance": 100
@@ -17105,7 +17186,7 @@
       {
         "rank": "high",
         "kind": "broken-part",
-        "part": "head-first",
+        "part": "head-second",
         "item_id": 436,
         "amount": 1,
         "chance": 100
@@ -17281,6 +17362,25 @@
     ],
     "breakable_parts": [
       {
+        "part": "head-second",
+        "names": {
+          "ja": "頭(二段階目)",
+          "en": "Head II",
+          "fr": "Tête II",
+          "it": "Testa II",
+          "de": "Kopf (St. II)",
+          "es": "Cabeza II",
+          "ru": "Голова II",
+          "pl": "Głowa II",
+          "pt-BR": "Cabeça II",
+          "ko": "머리(2단계째)",
+          "zh-Hant": "頭部（第二階段）",
+          "zh-Hans": "头部（第二阶段）",
+          "ar": "رأس 2",
+          "es-419": "Cabeza II"
+        }
+      },
+      {
         "part": "head-first",
         "names": {
           "ja": "頭(一段階目)",
@@ -17297,25 +17397,6 @@
           "zh-Hans": "头部（第一阶段）",
           "ar": "رأس 1",
           "es-419": "Cabeza I"
-        }
-      },
-      {
-        "part": "front-legs",
-        "names": {
-          "ja": "前脚",
-          "en": "Foreleg",
-          "fr": "Patte avant",
-          "it": "Zampa anteriore",
-          "de": "Vorderbein",
-          "es": "Pata delantera",
-          "ru": "Передняя лапа",
-          "pl": "Przednia noga",
-          "pt-BR": "Perna Dianteira",
-          "ko": "앞다리",
-          "zh-Hant": "前腳",
-          "zh-Hans": "前腿",
-          "ar": "قدم أمامية",
-          "es-419": "Pata delantera"
         }
       },
       {
@@ -17338,6 +17419,25 @@
         }
       },
       {
+        "part": "front-legs",
+        "names": {
+          "ja": "前脚",
+          "en": "Foreleg",
+          "fr": "Patte avant",
+          "it": "Zampa anteriore",
+          "de": "Vorderbein",
+          "es": "Pata delantera",
+          "ru": "Передняя лапа",
+          "pl": "Przednia noga",
+          "pt-BR": "Perna Dianteira",
+          "ko": "앞다리",
+          "zh-Hant": "前腳",
+          "zh-Hans": "前腿",
+          "ar": "قدم أمامية",
+          "es-419": "Pata delantera"
+        }
+      },
+      {
         "part": "tail",
         "names": {
           "ja": "尻尾",
@@ -17354,25 +17454,6 @@
           "zh-Hans": "尾巴",
           "ar": "ذيل",
           "es-419": "Cola"
-        }
-      },
-      {
-        "part": "head-second",
-        "names": {
-          "ja": "頭(二段階目)",
-          "en": "Head II",
-          "fr": "Tête II",
-          "it": "Testa II",
-          "de": "Kopf (St. II)",
-          "es": "Cabeza II",
-          "ru": "Голова II",
-          "pl": "Głowa II",
-          "pt-BR": "Cabeça II",
-          "ko": "머리(2단계째)",
-          "zh-Hant": "頭部（第二階段）",
-          "zh-Hans": "头部（第二阶段）",
-          "ar": "رأس 2",
-          "es-419": "Cabeza II"
         }
       }
     ]
@@ -17506,9 +17587,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -17518,9 +17599,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -17531,6 +17612,10 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
       {
         "kind": "effect",
         "effect": "noise"
@@ -18021,9 +18106,9 @@
         "condition": null
       },
       {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
         "condition": null
       },
       {
@@ -18033,9 +18118,9 @@
         "condition": null
       },
       {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
         "condition": null
       },
       {
@@ -18046,6 +18131,14 @@
       }
     ],
     "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
       {
         "kind": "effect",
         "effect": "noise"
