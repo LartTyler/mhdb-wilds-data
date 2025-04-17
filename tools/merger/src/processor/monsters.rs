@@ -191,6 +191,8 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
 
         let data: PartData = serde_json::from_reader(File::open(path)?)?;
         monster.base_health = data.base_health;
+
+        monster.resistances.extend(data.get_immunities());
     }
     // endregion
 
@@ -531,6 +533,12 @@ impl Resistance {
             kind: SpecialKind::Effect(effect),
         }
     }
+
+    fn element(element: Element) -> Self {
+        Self {
+            kind: SpecialKind::Element(element),
+        }
+    }
 }
 
 #[derive(Debug, Deserialize)]
@@ -647,6 +655,83 @@ fn percentage_to_multiplier(value: u8) -> f32 {
 struct PartData {
     #[serde(rename = "_BaseHealth")]
     base_health: u16,
+    #[serde(rename = "_MeatArray")]
+    part_damage: Vec<PartDamageData>,
+}
+
+impl PartData {
+    fn get_immunities(&self) -> Vec<Resistance> {
+        let immunities = self
+            .part_damage
+            .iter()
+            .fold(Immunities::default(), |mut totals, v| {
+                totals.fire = totals.fire && v.fire == 0;
+                totals.water = totals.water && v.water == 0;
+                totals.thunder = totals.thunder && v.thunder == 0;
+                totals.ice = totals.ice && v.ice == 0;
+                totals.dragon = totals.dragon && v.dragon == 0;
+
+                totals
+            });
+
+        let mut output = Vec::new();
+
+        if immunities.fire {
+            output.push(Resistance::element(Element::Fire));
+        }
+
+        if immunities.water {
+            output.push(Resistance::element(Element::Water));
+        }
+
+        if immunities.thunder {
+            output.push(Resistance::element(Element::Thunder));
+        }
+
+        if immunities.ice {
+            output.push(Resistance::element(Element::Ice));
+        }
+
+        if immunities.dragon {
+            output.push(Resistance::element(Element::Dragon));
+        }
+
+        output
+    }
+}
+
+struct Immunities {
+    fire: bool,
+    water: bool,
+    thunder: bool,
+    ice: bool,
+    dragon: bool,
+}
+
+impl Default for Immunities {
+    fn default() -> Self {
+        Self {
+            fire: true,
+            water: true,
+            thunder: true,
+            ice: true,
+            dragon: true,
+        }
+    }
+}
+
+#[derive(Debug, Deserialize)]
+struct PartDamageData {
+    #[serde(rename = "_Fire")]
+    fire: u8,
+    #[serde(rename = "_Water")]
+    water: u8,
+    #[serde(rename = "_Thunder")]
+    thunder: u8,
+    #[serde(rename = "_Ice")]
+    ice: u8,
+    #[serde(rename = "_Dragon")]
+    dragon: u8,
 }
 
 #[derive(Debug, Deserialize)]
