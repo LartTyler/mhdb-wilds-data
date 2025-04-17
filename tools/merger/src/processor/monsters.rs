@@ -315,6 +315,8 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
 
             monster.breakable_parts.push(part);
         }
+
+        monster.breakable_parts.sort_by_key(|v| v.kind);
     }
     //endregion
 
@@ -385,6 +387,11 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
         monster.rewards.sort_by_key(|v| (v.item_id, v.chance));
     }
     // endregion
+
+    for monster in &mut large {
+        monster.weaknesses.sort_by_key(|v| v.kind);
+        monster.resistances.sort_by_key(|v| v.kind);
+    }
 
     large.sort_by_key(|v| v.game_id);
     large.write_file(config.io.output.join(LARGE_OUTPUT))?;
@@ -463,7 +470,7 @@ struct Species {
     names: LanguageMap,
 }
 
-#[derive(Debug, Serialize, Eq, PartialEq)]
+#[derive(Debug, Serialize, Eq, PartialEq, Ord, PartialOrd, Copy, Clone)]
 #[serde(tag = "kind", rename_all = "lowercase")]
 enum SpecialKind {
     Element(Element),
@@ -471,7 +478,7 @@ enum SpecialKind {
     Effect(Effect),
 }
 
-#[derive(Debug, Serialize, Eq, PartialEq)]
+#[derive(Debug, Serialize, Eq, PartialEq, Ord, PartialOrd, Copy, Clone)]
 #[serde(tag = "effect", rename_all = "lowercase")]
 enum Effect {
     Noise,
@@ -1121,7 +1128,7 @@ struct Reward {
     chance: u8,
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone, Hash, Eq, PartialEq)]
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone, Hash, Eq, PartialEq, Ord, PartialOrd)]
 #[serde(rename_all = "kebab-case", tag = "part")]
 #[repr(isize)]
 pub enum PartKind {

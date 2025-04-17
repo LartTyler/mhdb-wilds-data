@@ -425,7 +425,7 @@ impl From<AttributeData> for SpecialKind {
     }
 }
 
-#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq)]
+#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq, Ord, PartialOrd)]
 #[serde(tag = "element", rename_all = "lowercase")]
 pub enum Element {
     Fire,
@@ -435,7 +435,7 @@ pub enum Element {
     Dragon,
 }
 
-#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq)]
+#[derive(Debug, Serialize, Copy, Clone, Eq, PartialEq, Ord, PartialOrd)]
 #[serde(tag = "status", rename_all = "lowercase")]
 pub enum Status {
     Paralysis,
