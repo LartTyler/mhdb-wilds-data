@@ -150,6 +150,7 @@ struct Skill {
     ranks: Vec<Rank>,
     kind: SkillKind,
     icon: IconKind,
+    icon_id: u8,
 }
 
 impl From<&SkillData> for Skill {
@@ -161,6 +162,7 @@ impl From<&SkillData> for Skill {
             ranks: Vec::new(),
             kind: value.kind,
             icon: value.icon,
+            icon_id: value.icon as u8,
         }
     }
 }
