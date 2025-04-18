@@ -1735,7 +1735,7 @@
     "buy_price": 0,
     "recipes": [],
     "out_box": true,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "white",
     "icon_color_id": 1
@@ -1781,7 +1781,7 @@
     "buy_price": 0,
     "recipes": [],
     "out_box": true,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "blue",
     "icon_color_id": 17
@@ -1827,7 +1827,7 @@
     "buy_price": 0,
     "recipes": [],
     "out_box": true,
-    "icon": "slug-ammo",
+    "icon": "ammo-slug",
     "icon_id": 67,
     "icon_color": "moss-green",
     "icon_color_id": 13
@@ -1887,7 +1887,7 @@
       }
     ],
     "out_box": false,
-    "icon": "utility-ammo",
+    "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "vermilion",
     "icon_color_id": 6
@@ -1940,7 +1940,7 @@
       }
     ],
     "out_box": false,
-    "icon": "heavy-ammo",
+    "icon": "ammo-heavy",
     "icon_id": 70,
     "icon_color": "rose",
     "icon_color_id": 3
@@ -1994,7 +1994,7 @@
       }
     ],
     "out_box": false,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "red",
     "icon_color_id": 5
@@ -2048,7 +2048,7 @@
       }
     ],
     "out_box": false,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "ultramarine",
     "icon_color_id": 18
@@ -2102,7 +2102,7 @@
       }
     ],
     "out_box": false,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "yellow",
     "icon_color_id": 10
@@ -2156,7 +2156,7 @@
       }
     ],
     "out_box": false,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "white",
     "icon_color_id": 1
@@ -2210,7 +2210,7 @@
       }
     ],
     "out_box": false,
-    "icon": "special-ammo",
+    "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "rose",
     "icon_color_id": 3
@@ -2264,7 +2264,7 @@
       }
     ],
     "out_box": false,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "purple",
     "icon_color_id": 20
@@ -2318,7 +2318,7 @@
       }
     ],
     "out_box": false,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "lemon",
     "icon_color_id": 11
@@ -2372,7 +2372,7 @@
       }
     ],
     "out_box": false,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "sky",
     "icon_color_id": 16
@@ -2432,7 +2432,7 @@
       }
     ],
     "out_box": false,
-    "icon": "utility-ammo",
+    "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "white",
     "icon_color_id": 1
@@ -6202,7 +6202,7 @@
       }
     ],
     "out_box": false,
-    "icon": "heavy-ammo",
+    "icon": "ammo-heavy",
     "icon_id": 70,
     "icon_color": "brown",
     "icon_color_id": 8
@@ -8945,7 +8945,7 @@
     "buy_price": 2000,
     "recipes": [],
     "out_box": false,
-    "icon": "cheese",
+    "icon": "cooking-cheese",
     "icon_id": 77,
     "icon_color": "ivory",
     "icon_color_id": 9
@@ -8991,7 +8991,7 @@
     "buy_price": 3000,
     "recipes": [],
     "out_box": false,
-    "icon": "cheese",
+    "icon": "cooking-cheese",
     "icon_id": 77,
     "icon_color": "ivory",
     "icon_color_id": 9
@@ -9129,7 +9129,7 @@
     "buy_price": 2000,
     "recipes": [],
     "out_box": false,
-    "icon": "shellfish",
+    "icon": "cooking-shellfish",
     "icon_id": 79,
     "icon_color": "pink",
     "icon_color_id": 4
@@ -9175,7 +9175,7 @@
     "buy_price": 3000,
     "recipes": [],
     "out_box": false,
-    "icon": "shellfish",
+    "icon": "cooking-shellfish",
     "icon_id": 79,
     "icon_color": "pink",
     "icon_color_id": 4
@@ -9313,7 +9313,7 @@
     "buy_price": 2000,
     "recipes": [],
     "out_box": false,
-    "icon": "garlic",
+    "icon": "cooking-garlic",
     "icon_id": 80,
     "icon_color": "ivory",
     "icon_color_id": 9
@@ -9359,7 +9359,7 @@
     "buy_price": 3000,
     "recipes": [],
     "out_box": false,
-    "icon": "garlic",
+    "icon": "cooking-garlic",
     "icon_id": 80,
     "icon_color": "ivory",
     "icon_color_id": 9
@@ -17785,7 +17785,7 @@
       }
     ],
     "out_box": false,
-    "icon": "utility-ammo",
+    "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "red",
     "icon_color_id": 5
@@ -17839,7 +17839,7 @@
       }
     ],
     "out_box": false,
-    "icon": "utility-ammo",
+    "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "orange",
     "icon_color_id": 7
@@ -17893,7 +17893,7 @@
       }
     ],
     "out_box": false,
-    "icon": "utility-ammo",
+    "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "green",
     "icon_color_id": 14
@@ -17947,7 +17947,7 @@
       }
     ],
     "out_box": false,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "pink",
     "icon_color_id": 4
@@ -18001,7 +18001,7 @@
       }
     ],
     "out_box": false,
-    "icon": "basic-ammo",
+    "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "emerald",
     "icon_color_id": 15
