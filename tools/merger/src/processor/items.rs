@@ -87,6 +87,10 @@ struct Item {
     buy_price: usize,
     recipes: Vec<Recipe>,
     out_box: bool,
+    icon: IconKind,
+    icon_id: u8,
+    icon_color: IconColor,
+    icon_color_id: u8,
 }
 
 impl From<&ItemData> for Item {
@@ -102,6 +106,10 @@ impl From<&ItemData> for Item {
             descriptions: LanguageMap::new(),
             recipes: Vec::new(),
             out_box: value.out_box,
+            icon: value.icon,
+            icon_id: value.icon as u8,
+            icon_color: value.icon_color,
+            icon_color_id: value.icon_color as u8,
         }
     }
 }
@@ -149,6 +157,10 @@ struct ItemData {
     buy_price: usize,
     #[serde(rename = "_OutBox")]
     out_box: bool,
+    #[serde(rename = "_IconType")]
+    icon: IconKind,
+    #[serde(rename = "_IconColor")]
+    icon_color: IconColor,
 }
 
 #[derive(Debug, Deserialize)]
@@ -172,4 +184,103 @@ enum ItemKind {
     BowCoating,
     Point,
     Mystery,
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all = "kebab-case")]
+#[repr(u8)]
+enum IconKind {
+    MysteryArtian = 0,
+    MysteryMaterial = 1,
+    Question = 2,
+    Mushroom = 6,
+    Egg = 7,
+    Honey = 8,
+    Plant = 9,
+    Potion = 10,
+    Powder = 11,
+    Whetstone = 12,
+    Pill = 13,
+    Fish = 14,
+    Meat = 15,
+    Barrel = 16,
+    Bomb = 17,
+    TrapTool = 18,
+    Trap = 19,
+    Gem = 20,
+    Smoke = 21,
+    FishingRod = 22,
+    Binoculars = 25,
+    Knife = 26,
+    Grill = 27,
+    Voucher = 29,
+    Certificate = 30,
+    Coin = 31,
+    Nut = 32,
+    BasicAmmo = 33,
+    Phial = 35,
+    Web = 36,
+    Seed = 37,
+    Ore = 38,
+    Bug = 39,
+    Poop = 40,
+    Medulla = 41,
+    Bone = 42,
+    Scale = 43,
+    Hide = 44,
+    Claw = 45,
+    Shell = 46,
+    Tail = 47,
+    Wing = 48,
+    Skull = 49,
+    Plate = 50,
+    Crystal = 52,
+    ArmorSphere = 55,
+    MysteryDecoration = 56,
+    CampingKit = 61,
+    SlingerAmmo = 62,
+    CaptureNet = 63,
+    SlugAmmo = 67,
+    SpecialAmmo = 68,
+    UtilityAmmo = 69,
+    HeavyAmmo = 70,
+    Curative = 71,
+    Drug = 72,
+    Extract = 73,
+    Mantle = 74,
+    Cheese = 77,
+    CookingMushroom = 78,
+    Shellfish = 79,
+    Garlic = 80,
+    CookingEgg = 81,
+    Sprout = 87,
+    #[serde(other)]
+    Unknown = u8::MAX,
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all = "kebab-case")]
+#[repr(u8)]
+enum IconColor {
+    White = 1,
+    Gray = 2,
+    Rose = 3,
+    Pink = 4,
+    Red = 5,
+    Vermilion = 6,
+    Orange = 7,
+    Brown = 8,
+    Ivory = 9,
+    Yellow = 10,
+    Lemon = 11,
+    SageGreen = 12,
+    MossGreen = 13,
+    Green = 14,
+    Emerald = 15,
+    Sky = 16,
+    Blue = 17,
+    Ultramarine = 18,
+    BluePurple = 19,
+    Purple = 20,
+    DarkPurple = 21,
 }
