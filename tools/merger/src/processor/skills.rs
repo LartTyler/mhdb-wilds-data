@@ -149,6 +149,7 @@ struct Skill {
     descriptions: LanguageMap,
     ranks: Vec<Rank>,
     kind: SkillKind,
+    icon: IconKind,
 }
 
 impl From<&SkillData> for Skill {
@@ -159,6 +160,7 @@ impl From<&SkillData> for Skill {
             descriptions: LanguageMap::new(),
             ranks: Vec::new(),
             kind: value.kind,
+            icon: value.icon,
         }
     }
 }
@@ -196,6 +198,8 @@ struct SkillData {
     description_guid: String,
     #[serde(rename = "_skillCategory")]
     kind: SkillKind,
+    #[serde(rename = "_SkillIconType")]
+    icon: IconKind,
 }
 
 #[derive(Debug, Deserialize)]
@@ -224,4 +228,25 @@ impl SkillKind {
     fn is_armor_bonus(&self) -> bool {
         matches!(self, Self::Set | Self::Group)
     }
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all(serialize = "kebab-case"))]
+#[repr(u8)]
+pub enum IconKind {
+    None = 0,
+    Attack = 1,
+    Affinity = 2,
+    Element = 3,
+    Handicraft = 4,
+    Ranged = 5,
+    Defense = 6,
+    Health = 7,
+    Stamina = 8,
+    Offense = 9,
+    Utility = 10,
+    Item = 11,
+    Gathering = 12,
+    Group = 13,
+    Set = 14,
 }

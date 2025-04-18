@@ -92,7 +92,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": -2123993856,
@@ -149,7 +150,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -2096489472,
@@ -282,7 +284,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "affinity"
   },
   {
     "game_id": -2041451904,
@@ -339,7 +342,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -2022542848,
@@ -396,7 +400,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -1961297152,
@@ -453,7 +458,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -1961116288,
@@ -548,7 +554,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -1946345856,
@@ -643,7 +650,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -1863702144,
@@ -738,7 +746,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -1769550080,
@@ -795,7 +804,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -1768553344,
@@ -887,7 +897,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -1716324608,
@@ -982,7 +993,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -1700743296,
@@ -1077,7 +1089,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": -1689391744,
@@ -1210,7 +1223,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "stamina"
   },
   {
     "game_id": -1684613760,
@@ -1305,7 +1319,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": -1674114176,
@@ -1400,7 +1415,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "utility"
   },
   {
     "game_id": -1664678272,
@@ -1457,7 +1473,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -1662120192,
@@ -1552,7 +1569,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": -1648695680,
@@ -1609,7 +1627,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -1642078720,
@@ -1666,7 +1685,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -1629629184,
@@ -1723,7 +1743,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -1607763456,
@@ -1856,7 +1877,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "affinity"
   },
   {
     "game_id": -1507579776,
@@ -1913,7 +1935,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -1475134080,
@@ -2008,7 +2031,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -1468066176,
@@ -2100,7 +2124,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -1432692352,
@@ -2192,7 +2217,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -1305836672,
@@ -2249,7 +2275,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": -1304512512,
@@ -2306,7 +2333,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -1237438336,
@@ -2382,7 +2410,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -1235658624,
@@ -2477,7 +2506,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "health"
   },
   {
     "game_id": -1121468544,
@@ -2572,7 +2602,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "health"
   },
   {
     "game_id": -1073401280,
@@ -2667,7 +2698,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -964369920,
@@ -2759,7 +2791,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -911441792,
@@ -2851,7 +2884,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -895828480,
@@ -2946,7 +2980,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -893407296,
@@ -3041,7 +3076,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -857543744,
@@ -3136,7 +3172,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": -856322816,
@@ -3269,7 +3306,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": -847539392,
@@ -3364,7 +3402,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "affinity"
   },
   {
     "game_id": -844978880,
@@ -3459,7 +3498,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -776946176,
@@ -3554,7 +3594,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -692636288,
@@ -3611,7 +3652,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -682586176,
@@ -3706,7 +3748,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "stamina"
   },
   {
     "game_id": -676967744,
@@ -3763,7 +3806,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -632440576,
@@ -3820,7 +3864,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -609509888,
@@ -3915,7 +3960,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -596764096,
@@ -4010,7 +4056,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -593005376,
@@ -4105,7 +4152,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "health"
   },
   {
     "game_id": -568838336,
@@ -4200,7 +4248,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": -562534336,
@@ -4295,7 +4344,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -555494336,
@@ -4387,7 +4437,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -481419552,
@@ -4482,7 +4533,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": -420608864,
@@ -4577,7 +4629,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -418246240,
@@ -4669,7 +4722,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -411441344,
@@ -4745,7 +4799,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": -403054144,
@@ -4837,7 +4892,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -397570464,
@@ -4970,7 +5026,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": -315492576,
@@ -5065,7 +5122,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "stamina"
   },
   {
     "game_id": -307644128,
@@ -5160,7 +5218,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "utility"
   },
   {
     "game_id": -283334048,
@@ -5255,7 +5314,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": -257693696,
@@ -5312,7 +5372,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": -215826112,
@@ -5404,7 +5465,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -201445760,
@@ -5480,7 +5542,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": -193031552,
@@ -5575,7 +5638,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": -181774400,
@@ -5632,7 +5696,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -181127504,
@@ -5727,7 +5792,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "attack"
   },
   {
     "game_id": -171796848,
@@ -5822,7 +5888,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": -168922880,
@@ -5917,7 +5984,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": -160562336,
@@ -5993,7 +6061,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": -62248528,
@@ -6085,7 +6154,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": -3666104,
@@ -6177,7 +6247,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 1,
@@ -6310,7 +6381,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "attack"
   },
   {
     "game_id": 2237,
@@ -6367,7 +6439,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 13941,
@@ -6424,7 +6497,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 27684744,
@@ -6557,7 +6631,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 78208296,
@@ -6614,7 +6689,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 144660544,
@@ -6747,7 +6823,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 166057120,
@@ -6842,7 +6919,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": 169998480,
@@ -6899,7 +6977,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": 192746944,
@@ -6994,7 +7073,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 280489184,
@@ -7089,7 +7169,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 313598432,
@@ -7184,7 +7265,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": 353114912,
@@ -7241,7 +7323,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": 383104832,
@@ -7336,7 +7419,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 397306144,
@@ -7431,7 +7515,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 402237312,
@@ -7488,7 +7573,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": 422666624,
@@ -7621,7 +7707,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 424768352,
@@ -7697,7 +7784,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 451472896,
@@ -7754,7 +7842,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 469540352,
@@ -7887,7 +7976,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": 508916704,
@@ -7982,7 +8072,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": 522288832,
@@ -8077,7 +8168,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 539707072,
@@ -8169,7 +8261,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 552982656,
@@ -8226,7 +8319,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": 565867136,
@@ -8359,7 +8453,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 576193792,
@@ -8416,7 +8511,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "attack"
   },
   {
     "game_id": 583598144,
@@ -8473,7 +8569,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 595870656,
@@ -8568,7 +8665,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "gathering"
   },
   {
     "game_id": 632127488,
@@ -8663,7 +8761,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 634068352,
@@ -8758,7 +8857,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 652161472,
@@ -8853,7 +8953,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 673822976,
@@ -8948,7 +9049,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 686533440,
@@ -9043,7 +9145,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "affinity"
   },
   {
     "game_id": 691199232,
@@ -9138,7 +9241,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": 705317568,
@@ -9233,7 +9337,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 722735744,
@@ -9325,7 +9430,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 741102208,
@@ -9417,7 +9523,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 742695104,
@@ -9512,7 +9619,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 802725120,
@@ -9588,7 +9696,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "utility"
   },
   {
     "game_id": 820385792,
@@ -9683,7 +9792,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 850626240,
@@ -9778,7 +9888,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": 860517760,
@@ -9892,7 +10003,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "gathering"
   },
   {
     "game_id": 894530496,
@@ -10025,7 +10137,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "item"
   },
   {
     "game_id": 898284480,
@@ -10082,7 +10195,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "gathering"
   },
   {
     "game_id": 918165056,
@@ -10174,7 +10288,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 919683456,
@@ -10231,7 +10346,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": 1050520384,
@@ -10326,7 +10442,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 1077686656,
@@ -10497,7 +10614,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1160639488,
@@ -10630,7 +10748,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 1174975744,
@@ -10763,7 +10882,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 1268070400,
@@ -10858,7 +10978,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": 1346775424,
@@ -10953,7 +11074,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1359821952,
@@ -11086,7 +11208,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 1389859584,
@@ -11143,7 +11266,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 1425756032,
@@ -11238,7 +11362,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1444935552,
@@ -11314,7 +11439,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "item"
   },
   {
     "game_id": 1452140672,
@@ -11409,7 +11535,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "element"
   },
   {
     "game_id": 1459579264,
@@ -11504,7 +11631,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1470960256,
@@ -11599,7 +11727,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1472632704,
@@ -11694,7 +11823,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "utility"
   },
   {
     "game_id": 1484575872,
@@ -11751,7 +11881,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 1487598336,
@@ -11808,7 +11939,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 1489568384,
@@ -11903,7 +12035,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1500129152,
@@ -11998,7 +12131,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 1522518528,
@@ -12093,7 +12227,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1594792704,
@@ -12188,7 +12323,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "handicraft"
   },
   {
     "game_id": 1613139840,
@@ -12283,7 +12419,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": 1639440000,
@@ -12340,7 +12477,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1685697920,
@@ -12397,7 +12535,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 1711950720,
@@ -12492,7 +12631,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "ranged"
   },
   {
     "game_id": 1758661504,
@@ -12587,7 +12727,8 @@
         }
       }
     ],
-    "kind": "weapon"
+    "kind": "weapon",
+    "icon": "offense"
   },
   {
     "game_id": 1763191040,
@@ -12720,7 +12861,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1845834112,
@@ -12777,7 +12919,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "gathering"
   },
   {
     "game_id": 1865909632,
@@ -12910,7 +13053,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1934955136,
@@ -13043,7 +13187,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "offense"
   },
   {
     "game_id": 1940820864,
@@ -13138,7 +13283,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1966172160,
@@ -13233,7 +13379,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   },
   {
     "game_id": 1968728576,
@@ -13290,7 +13437,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 1980404096,
@@ -13382,7 +13530,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 1998066176,
@@ -13439,7 +13588,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 2045149568,
@@ -13534,7 +13684,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "stamina"
   },
   {
     "game_id": 2083363072,
@@ -13629,7 +13780,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 2104075392,
@@ -13721,7 +13873,8 @@
         }
       }
     ],
-    "kind": "set"
+    "kind": "set",
+    "icon": "set"
   },
   {
     "game_id": 2106877312,
@@ -13854,7 +14007,8 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "attack"
   },
   {
     "game_id": 2107855744,
@@ -13911,7 +14065,8 @@
         }
       }
     ],
-    "kind": "group"
+    "kind": "group",
+    "icon": "group"
   },
   {
     "game_id": 2143068800,
@@ -14006,6 +14161,7 @@
         }
       }
     ],
-    "kind": "armor"
+    "kind": "armor",
+    "icon": "defense"
   }
 ]
