@@ -597,7 +597,7 @@
         "kind": "flaming",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -609,7 +609,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "adhesive",
@@ -714,7 +714,7 @@
         "kind": "flaming",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -726,7 +726,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "adhesive",
@@ -830,7 +830,7 @@
         "kind": "flaming",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -842,7 +842,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "adhesive",
@@ -932,7 +932,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "dragon",
@@ -1036,7 +1036,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "dragon",
@@ -1151,7 +1151,7 @@
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -1258,7 +1258,7 @@
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -1368,7 +1368,7 @@
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -1479,7 +1479,7 @@
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -1890,7 +1890,7 @@
         "kind": "water",
         "level": 1,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -1999,7 +1999,7 @@
         "kind": "water",
         "level": 1,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -2109,7 +2109,7 @@
         "kind": "water",
         "level": 1,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -2654,7 +2654,7 @@
         "kind": "sleep",
         "level": 2,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -2776,7 +2776,7 @@
         "kind": "sleep",
         "level": 2,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -2891,7 +2891,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "recover",
@@ -2909,7 +2909,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "wyvernblast",
@@ -3006,7 +3006,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "recover",
@@ -3024,7 +3024,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "wyvernblast",
@@ -3123,7 +3123,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "recover",
@@ -3141,7 +3141,7 @@
         "kind": "tranq",
         "level": 1,
         "capacity": 4,
-        "rapid": true
+        "rapid": false
       }
     ],
     "special_ammo": "wyvernblast",
@@ -3239,13 +3239,13 @@
         "kind": "poison",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -3350,13 +3350,13 @@
         "kind": "poison",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -3453,7 +3453,7 @@
         "kind": "paralysis",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -3560,7 +3560,7 @@
         "kind": "paralysis",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -3672,7 +3672,7 @@
         "kind": "paralysis",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -3787,7 +3787,7 @@
         "kind": "freeze",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -3891,7 +3891,7 @@
         "kind": "freeze",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -3994,7 +3994,7 @@
         "kind": "poison",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -4106,7 +4106,7 @@
         "kind": "poison",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -4217,7 +4217,7 @@
         "kind": "poison",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "flaming",
@@ -4828,13 +4828,13 @@
         "kind": "paralysis",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "thunder",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -4932,13 +4932,13 @@
         "kind": "paralysis",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "thunder",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "tranq",
@@ -5041,7 +5041,7 @@
         "kind": "dragon",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -5149,7 +5149,7 @@
         "kind": "dragon",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -5259,7 +5259,7 @@
         "kind": "dragon",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -5687,7 +5687,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 6,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -5789,7 +5789,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 6,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -5893,7 +5893,7 @@
         "kind": "flaming",
         "level": 1,
         "capacity": 6,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -6002,7 +6002,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -6110,7 +6110,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -6220,7 +6220,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -6330,7 +6330,7 @@
         "kind": "freeze",
         "level": 1,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "exhaust",
@@ -6439,7 +6439,7 @@
         "kind": "water",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "freeze",
@@ -6555,7 +6555,7 @@
         "kind": "water",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "freeze",
@@ -6672,7 +6672,7 @@
         "kind": "water",
         "level": 2,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "freeze",
@@ -6799,7 +6799,7 @@
         "kind": "dragon",
         "level": 1,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -7167,25 +7167,25 @@
         "kind": "flaming",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "dragon",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "recover",
         "level": 1,
         "capacity": 2,
-        "rapid": true
+        "rapid": false
       },
       {
         "kind": "tranq",
@@ -7289,25 +7289,25 @@
         "kind": "flaming",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "thunder",
         "level": 2,
         "capacity": 4,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "dragon",
         "level": 1,
         "capacity": 2,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "recover",
         "level": 1,
         "capacity": 2,
-        "rapid": true
+        "rapid": false
       },
       {
         "kind": "tranq",
@@ -7638,7 +7638,7 @@
         "kind": "dragon",
         "level": 1,
         "capacity": 3,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "demon",
@@ -7753,7 +7753,7 @@
         "kind": "water",
         "level": 2,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "armor",
@@ -7864,7 +7864,7 @@
         "kind": "water",
         "level": 2,
         "capacity": 5,
-        "rapid": false
+        "rapid": true
       },
       {
         "kind": "armor",

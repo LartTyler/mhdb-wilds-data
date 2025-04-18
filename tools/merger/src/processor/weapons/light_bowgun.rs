@@ -69,14 +69,24 @@ impl Ammo {
         capacities: AmmoCapacityData,
         rapid: AmmoRapidData,
     ) -> Vec<Self> {
-        let mut ammo: Vec<_> = heavy_bowgun::Ammo::from_data(levels, capacities)
-            .into_iter()
+        let mut ammo: Vec<_> = levels
+            .iter()
+            .zip(capacities)
             .zip(rapid)
-            .map(|(ammo, rapid)| {
-                let mut ammo = Self::from(ammo);
-                ammo.rapid = rapid;
+            .enumerate()
+            .filter_map(|(index, ((level, capacity), rapid))| {
+                let level = level.as_level_number();
 
-                ammo
+                if level == 0 {
+                    return None;
+                }
+
+                Some(Ammo {
+                    kind: AmmoKind::from_index(index),
+                    level,
+                    capacity,
+                    rapid,
+                })
             })
             .collect();
 

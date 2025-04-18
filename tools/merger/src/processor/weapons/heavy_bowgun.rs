@@ -1,6 +1,6 @@
 use crate::is_weapon;
-use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use crate::processor::Processor;
+use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
@@ -64,7 +64,9 @@ pub(super) enum AmmoKind {
 }
 
 impl AmmoKind {
-    fn from_index(index: usize) -> Self {
+    pub fn from_index(index: usize) -> Self {
+        assert!(index < 20);
+
         match index {
             0 => Self::Normal,
             1 => Self::Pierce,
@@ -86,7 +88,7 @@ impl AmmoKind {
             17 => Self::Recover,
             18 => Self::Exhaust,
             19 => Self::Tranq,
-            _ => panic!("Value out of range: {index}"),
+            _ => unreachable!("Value out of range: {index}"),
         }
     }
 }
@@ -134,7 +136,7 @@ pub(super) enum AmmoLevel {
 }
 
 impl AmmoLevel {
-    fn as_level_number(&self) -> u8 {
+    pub fn as_level_number(&self) -> u8 {
         match self {
             Self::None => 0,
             Self::LV1 => 1,
