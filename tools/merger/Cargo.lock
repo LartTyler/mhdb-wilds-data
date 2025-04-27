@@ -462,6 +462,7 @@ dependencies = [
  "serde_with",
  "strum",
  "thiserror",
+ "unicode-segmentation",
 ]
 
 [[package]]
@@ -582,6 +583,7 @@ dependencies = [
  "serde_with",
  "thiserror",
  "toml",
+ "unicode-segmentation",
 ]
 
 [[package]]

@@ -1,3 +1,4 @@
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::weapons::series::SeriesId;
 use crate::processor::{
     create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
@@ -63,7 +64,9 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         let mut weapon = Weapon::from(&data);
 
         strings.populate(&data.name_guid, &mut weapon.names);
+
         strings.populate(&data.description_guid, &mut weapon.descriptions);
+        Placeholder::process(&mut weapon.descriptions, &ApplyContext::empty());
 
         if data.attribute.is_present() {
             weapon.specials.push(Special {

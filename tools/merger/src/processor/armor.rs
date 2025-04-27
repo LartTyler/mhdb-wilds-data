@@ -1,3 +1,4 @@
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::{
     to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
     WriteFile,
@@ -94,7 +95,9 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         let mut armor = Armor::from(&data);
 
         strings.populate(&data.name_guid, &mut armor.names);
+
         strings.populate(&data.description_guid, &mut armor.descriptions);
+        Placeholder::process(&mut armor.descriptions, &ApplyContext::empty());
 
         for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
             if id != 0 {

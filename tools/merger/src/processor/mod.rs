@@ -97,7 +97,7 @@ macro_rules! should_run {
 
 /// A map of RFC 639 language codes to a string value. Used to hold translations for an object
 /// field.
-type LanguageMap = HashMap<Language, String>;
+pub type LanguageMap = HashMap<Language, String>;
 
 /// A map of object IDs to a level or quantity indicator. Used for things like skill ranks granted
 /// by decorations, or inputs in recipes.
@@ -166,7 +166,7 @@ pub enum Error {
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
 #[derive(Debug, PartialEq, Eq, Deserialize, Copy, Clone, Serialize, Hash, Ord, PartialOrd)]
-enum Language {
+pub enum Language {
     #[serde(rename = "")]
     Disabled,
     #[serde(rename = "ja")]
@@ -281,6 +281,53 @@ impl From<LanguageCode> for Language {
             LanguageCode::Hindi => Self::Hindi,
             LanguageCode::LatinAmericanSpanish => Self::LatinAmericanSpanish,
         }
+    }
+}
+
+impl From<Language> for LanguageCode {
+    fn from(value: Language) -> Self {
+        match value {
+            Language::Disabled => LanguageCode::Disabled,
+            Language::Japanese => LanguageCode::Japanese,
+            Language::English => LanguageCode::English,
+            Language::French => LanguageCode::French,
+            Language::Italian => LanguageCode::Italian,
+            Language::German => LanguageCode::German,
+            Language::Spanish => LanguageCode::Spanish,
+            Language::Russian => LanguageCode::Russian,
+            Language::Polish => LanguageCode::Polish,
+            Language::Dutch => LanguageCode::Dutch,
+            Language::Portuguese => LanguageCode::Portuguese,
+            Language::BrazilianPortuguese => LanguageCode::BrazilianPortuguese,
+            Language::Korean => LanguageCode::Korean,
+            Language::TraditionalChinese => LanguageCode::TraditionalChinese,
+            Language::SimplifiedChinese => LanguageCode::SimplifiedChinese,
+            Language::Finnish => LanguageCode::Finnish,
+            Language::Swedish => LanguageCode::Swedish,
+            Language::Danish => LanguageCode::Danish,
+            Language::Norwegian => LanguageCode::Norwegian,
+            Language::Czech => LanguageCode::Czech,
+            Language::Hungarian => LanguageCode::Hungarian,
+            Language::Slovak => LanguageCode::Slovak,
+            Language::Arabic => LanguageCode::Arabic,
+            Language::Turkish => LanguageCode::Turkish,
+            Language::Bulgarian => LanguageCode::Bulgarian,
+            Language::Greek => LanguageCode::Greek,
+            Language::Romanian => LanguageCode::Romanian,
+            Language::Thai => LanguageCode::Thai,
+            Language::Ukrainian => LanguageCode::Ukrainian,
+            Language::Vietnamese => LanguageCode::Vietnamese,
+            Language::Indonesian => LanguageCode::Indonesian,
+            Language::Fiction => LanguageCode::Fiction,
+            Language::Hindi => LanguageCode::Hindi,
+            Language::LatinAmericanSpanish => LanguageCode::LatinAmericanSpanish,
+        }
+    }
+}
+
+impl From<&Language> for LanguageCode {
+    fn from(value: &Language) -> Self {
+        (*value).into()
     }
 }
 

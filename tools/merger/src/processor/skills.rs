@@ -1,3 +1,4 @@
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::armor::{Bonus, BonusRank};
 use crate::processor::{
     armor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
@@ -30,6 +31,8 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     let mut merged: Vec<Skill> = Vec::with_capacity(data.len());
     let mut lookup = LookupMap::with_capacity(data.len());
 
+    let placeholder_context = ApplyContext::empty();
+
     for data in data {
         progress.inc(1);
 
@@ -43,6 +46,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         }
 
         strings.populate(&data.description_guid, &mut skill.descriptions);
+        Placeholder::process(&mut skill.descriptions, &placeholder_context);
 
         lookup.insert(skill.game_id, merged.len());
         merged.push(skill);
@@ -67,7 +71,9 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         let mut rank = Rank::from(&data);
 
         strings.populate(&data.name_guid, &mut rank.names);
+
         strings.populate(&data.description_guid, &mut rank.descriptions);
+        Placeholder::process(&mut rank.descriptions, &placeholder_context);
 
         skill.ranks.push(rank);
     }

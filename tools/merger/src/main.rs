@@ -3,6 +3,7 @@ use clap::Parser;
 use rslib::config::Config;
 
 mod cli;
+mod placeholders;
 mod processor;
 mod serde;
 

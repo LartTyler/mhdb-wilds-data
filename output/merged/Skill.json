@@ -380,7 +380,7 @@
       "ko": "활 장비 중, 폭파병을\r\n장착할 수 있게 한다.",
       "zh-Hant": "裝備弓時可裝填爆破瓶。",
       "zh-Hans": "装备弓时，可装填爆破瓶。",
-      "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> باستخدام أغطية الانفجار.",
+      "ar": "تسمح لكَ باستخدام أغطية الانفجار.",
       "es-419": "Permite equiparte viales de\r\nnitro con un arco equipado."
     },
     "ranks": [
@@ -2767,7 +2767,7 @@
           "ko": "지속적으로 몬스터에게 공격을\r\n명중시키면 체력을 조금 회복한다\r\n(무기 종류에 따라 회복량 다름)",
           "zh-Hant": "攻擊不斷命中魔物時回復少量體力。\r\n（回復量依武器種類而不同）",
           "zh-Hans": "攻击不断命中怪物时，小幅回复体力\r\n（回复量依武器种类而异）",
-          "ar": "تجدّد مقدار صغير من <LSNR \"صحتكَ\" \"صحتكِ\">\r\nعند <LSNR \"مهاجمتكَ\" \"مهاجمتكِ\"> لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
+          "ar": "تجدّد مقدار صغير من صحتكَ\r\nعند مهاجمتكَ لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
           "es-419": "Regenera una pequeña cantidad de salud\r\nal atacar continuamente a un monstruo.\r\nLa salud recuperada depende del arma."
         },
         "names": {
@@ -2802,7 +2802,7 @@
           "ko": "지속적으로 몬스터에게 공격을\r\n명중시키면 체력을 회복한다\r\n(무기 종류에 따라 회복량 다름)",
           "zh-Hant": "攻擊不斷命中魔物時回復體力。\r\n（回復量依武器種類而不同）",
           "zh-Hans": "攻击不断命中怪物时，回复体力\r\n（回复量依武器种类而异）",
-          "ar": "تجدّد صحتك عند <LSNR \"مهاجمتكَ\" \"مهاجمتكِ\"> لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
+          "ar": "تجدّد صحتك عند مهاجمتكَ لوحش باستمرار.\r\nيتنوع التعافي حسب السلاح.",
           "es-419": "Regenera salud mientras atacas\r\ncontinuamente a un monstruo.\r\nLa salud recuperada depende del arma."
         },
         "names": {
@@ -3825,7 +3825,7 @@
       "ko": "활 장비 중, 마비병을\r\n장착할 수 있게 한다.",
       "zh-Hant": "裝備弓時可裝填麻痺瓶。",
       "zh-Hans": "装备弓时，可装填麻痹瓶。",
-      "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> باستخدام أغطية الشلل.",
+      "ar": "تسمح لكَ باستخدام أغطية الشلل.",
       "es-419": "Permite equiparte viales de\r\nparalizantes con un arco\r\nequipado."
     },
     "ranks": [
@@ -3884,7 +3884,7 @@
       "ko": "동행한 동료에게 공격을 맞히거나\r\n동료의 공격에 맞았을 때\r\n대미지 리액션을 무효화한다.",
       "zh-Hant": "攻擊命中同行的夥伴，或被夥伴的攻擊\r\n命中時，消除受傷反應。",
       "zh-Hans": "攻击命中同伴，或受到同伴的攻击时，\r\n均不会产生受击反应。",
-      "ar": "تعطل تفاعلات الضرر عند إصابة\r\nصديق أو عند إصابة الصديق <LSNR \"لكَ\" \"لكِ\">.",
+      "ar": "تعطل تفاعلات الضرر عند إصابة\r\nصديق أو عند إصابة الصديق لكَ.",
       "es-419": "Desactiva la reacción al daño\r\ncuando golpeas a un aliado o viceversa."
     },
     "ranks": [
@@ -4541,7 +4541,7 @@
           "ko": "푸른버섯과 독광대버섯을\r\n먹을 수 있게 된다",
           "zh-Hant": "可進食青菇與毒菇",
           "zh-Hans": "可食用蓝蘑菇与毒菇",
-          "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> بهضم\r\nالفطر الأزرق والكمأة.",
+          "ar": "تسمح لكَ بهضم\r\nالفطر الأزرق والكمأة.",
           "es-419": "Permite digerir hongos azules\r\ny champiñones."
         }
       },
@@ -4560,7 +4560,7 @@
           "ko": "추가로 니트로버섯과\r\n마비버섯을 먹을 수 있게 된다",
           "zh-Hant": "可進食青菇、毒菇、爆炸菇與麻痺菇",
           "zh-Hans": "追加可食用硝化伞菇与麻痹菇",
-          "ar": "وإضافة لذلك، تسمح <LSNR \"لكَ\" \"لكِ\">\r\nبهضم فطر النيترو\r\nوفطر الشلل.",
+          "ar": "وإضافة لذلك، تسمح لكَ\r\nبهضم فطر النيترو\r\nوفطر الشلل.",
           "es-419": "Adicionalmente, permite digerir\r\nnitrohongos y paralifungos."
         }
       },
@@ -4579,7 +4579,7 @@
           "ko": "추가로 만드라고라,\r\n도깨비 니트로버섯, 두근두근버섯을\r\n먹을 수 있게 된다",
           "zh-Hant": "可進食青菇、毒菇、爆炸菇、麻痺菇、\r\n風茄、鬼爆炸菇與心跳加速菇",
           "zh-Hans": "追加可食用曼陀罗、鬼硝化伞菇与心跳\r\n加速菇。",
-          "ar": "وإضافة لذلك، تسمح <LSNR \"لكَ\" \"لكِ\">\r\nبهضم تفاح الجن ووباء الشيطان\r\nوفطر التشويق.",
+          "ar": "وإضافة لذلك، تسمح لكَ\r\nبهضم تفاح الجن ووباء الشيطان\r\nوفطر التشويق.",
           "es-419": "Adicionalmente, te permite digerir\r\nmandrágoras, mancha del diablo\r\ny hongos excitantes."
         }
       }
@@ -4719,7 +4719,7 @@
           "ko": "체력이 최대일 때\r\n받는 대미지를 5% 경감한다",
           "zh-Hant": "體力全滿時，所受傷害減少5%。",
           "zh-Hans": "体力全满时，所受伤害减少5%",
-          "ar": "تقلل الضرر الذي <LSNR \"تتلقاه\" \"تتلقينه\"> بنسبة 5%\r\nعند اكتمال مقياس <LSNR \"صحتكَ\" \"صحتكِ\">.",
+          "ar": "تقلل الضرر الذي تتلقاه بنسبة 5%\r\nعند اكتمال مقياس صحتكَ.",
           "es-419": "Reduce el daño que recibes un 5 %\r\ncuando la salud está completa."
         },
         "names": {
@@ -4754,7 +4754,7 @@
           "ko": "체력이 최대일 때\r\n받는 대미지를 10% 경감한다",
           "zh-Hant": "體力全滿時，所受傷害減少10%。",
           "zh-Hans": "体力全满时，所受伤害减少10%",
-          "ar": "تقلل الضرر الذي <LSNR \"تتلقاه\" \"تتلقينه\"> بنسبة 10%\r\nعند اكتمال مقياس <LSNR \"صحتكَ\" \"صحتكِ\">.",
+          "ar": "تقلل الضرر الذي تتلقاه بنسبة 10%\r\nعند اكتمال مقياس صحتكَ.",
           "es-419": "Reduce el daño que recibes un 10 %\r\ncuando la salud está completa."
         },
         "names": {
@@ -4926,7 +4926,7 @@
           "ko": "거품 상태【대】가 되지 않는다. 거품 상태\r\n일 때 회피 능력 강화. 추가로 회피 행동\r\n을 여러 번 하면 거품 상태【소】가 된다.",
           "zh-Hant": "不會陷入泡沫狀態【大】，並於陷入泡沫\r\n狀態時強化迴避能力。迴避數次後將陷入\r\n泡沫狀態【小】。",
           "zh-Hans": "不会进入泡沫状态【大】，强化泡沫状\r\n态下的回避能力。回避数次后将陷入泡\r\n沫状态【小】。",
-          "ar": "يمنع وباء الفقاعات الكبير ويزيد المراوغة أثناء\r\nالإصابة به. كما يتيح أيضًا إصابة <LSNR \"نفسكَ\" \"نفسكِ\"> بوباء\r\nالفقاعات البسيط عن طريق المراوغة عدة مرات.",
+          "ar": "يمنع وباء الفقاعات الكبير ويزيد المراوغة أثناء\r\nالإصابة به. كما يتيح أيضًا إصابة نفسكَ بوباء\r\nالفقاعات البسيط عن طريق المراوغة عدة مرات.",
           "es-419": "Previene la plaga de burbujas mayor. \r\nLa plaga de burbujas menor aumenta tu\r\nevasión y se activa con varias evaciones."
         },
         "names": {
@@ -5561,7 +5561,7 @@
       "ko": "물가나 기름 진흙의 행동 제한,\r\n물의 흐름으로 받는 행동 제한에\r\n대한 내성을 얻는다.",
       "zh-Hant": "擁有對水域、油泥和水流的\r\n行動限制耐性。",
       "zh-Hans": "获得对水域、油泥及水流造成的移动限\r\n制的耐性。",
-      "ar": "تمنح مقاومة ضد ضعف الحركة\r\nأثناء <LSNR \"وجودكَ\" \"وجودكِ\"> في الماء\r\nأو طمي النفط أو الجداول.",
+      "ar": "تمنح مقاومة ضد ضعف الحركة\r\nأثناء وجودكَ في الماء\r\nأو طمي النفط أو الجداول.",
       "es-419": "Otorga resistencia contra el impedimento\r\na la movilidad mientras estás en el agua,\r\nel fango oleoso o los arroyos."
     },
     "ranks": [
@@ -5736,7 +5736,7 @@
       "ko": "활 장비 중, 멸기병을\r\n장착할 수 있게 한다.",
       "zh-Hant": "裝備弓時可裝填減氣瓶。",
       "zh-Hans": "装备弓时，可装填减气瓶。",
-      "ar": "تتيح <LSNR \"لكَ\" \"لكِ\"> تطبيق أغطية الإرهاق.",
+      "ar": "تتيح لكَ تطبيق أغطية الإرهاق.",
       "es-419": "Permite equiparte viales de fatiga."
     },
     "ranks": [
@@ -5755,7 +5755,7 @@
           "ko": "멸기병을 장착할 수 있게 된다",
           "zh-Hant": "可裝填減氣瓶",
           "zh-Hans": "将可装备减气瓶",
-          "ar": "تتيح <LSNR \"لكَ\" \"لكِ\"> استخدام أغطية الإرهاق.",
+          "ar": "تتيح لكَ استخدام أغطية الإرهاق.",
           "es-419": "Permite equiparte viales de fatiga."
         }
       }
@@ -6549,7 +6549,7 @@
           "ko": "퀘스트 중 소재 갈무리 횟수+1\r\n(퀘스트 도중 참가 시 발동하지 않음)",
           "zh-Hant": "任務期間素材剝取次數+1\r\n（不會從任務中途發動）",
           "zh-Hans": "任务期间素材剥取次数+1\r\n（任务途中无法发动）",
-          "ar": "تتيح <LSNR \"لكَ\" \"لكِ\"> التقطيع لمرة إضافية واحدة\r\nمن الجثث أثناء المهام.\r\n(ليس لها تأثير عند الانضمام في منتصف المَهمة).",
+          "ar": "تتيح لكَ التقطيع لمرة إضافية واحدة\r\nمن الجثث أثناء المهام.\r\n(ليس لها تأثير عند الانضمام في منتصف المَهمة).",
           "es-419": "Te permite obtener materiales una vez\r\nmás de restos en misiones. (No tiene\r\nefecto si te unes a mitad de la misión)."
         },
         "names": {
@@ -7031,7 +7031,7 @@
       "ko": "활 장비 중, 수면병을\r\n장착할 수 있게 한다.",
       "zh-Hant": "裝備弓時可裝填睡眠瓶。",
       "zh-Hans": "装备弓时，可装填睡眠瓶。",
-      "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> باستخدام أغطية النوم.",
+      "ar": "تسمح لكَ باستخدام أغطية النوم.",
       "es-419": "Permite equiparte viales de\r\nsedantes con un arco equipado."
     },
     "ranks": [
@@ -8644,7 +8644,7 @@
           "ko": "공격을 명중시키면\r\n몬스터의 주의를\r\n더욱 강하게 끈다",
           "zh-Hant": "攻擊命中時更能吸引魔物的注意。",
           "zh-Hans": "攻击命中时，能更加吸引怪物的注意",
-          "ar": "تزيد من الانتباه <LSNR \"إليكَ\" \"إليكِ\">\r\nعند الهجوم على وحش.",
+          "ar": "تزيد من الانتباه إليكَ\r\nعند الهجوم على وحش.",
           "es-419": "Llamarás más la atención\r\nal atacar a un monstruo."
         },
         "names": {
@@ -8700,7 +8700,7 @@
       "ko": "채취 포인트의\r\n아이템 획득 수가 증가한다.",
       "zh-Hant": "增加採集點的道具取得數。",
       "zh-Hans": "增加从采集点获得的道具数量。",
-      "ar": "تزيد عدد العناصر التي <LSNR \"تحصل\" \"تحصلين\"> عليها\r\nعند تجميع النقاط.",
+      "ar": "تزيد عدد العناصر التي تحصل عليها\r\nعند تجميع النقاط.",
       "es-419": "Aumenta el número de objetos que\r\nconsigues al recolectar puntos."
     },
     "ranks": [
@@ -9479,7 +9479,7 @@
           "ko": "대형 몬스터와 대치 시\r\n광룡증에 감염된다.",
           "zh-Hant": "狩獵大型魔物時感染狂龍病毒。",
           "zh-Hans": "狩猎大型怪物时会感染狂龙病毒",
-          "ar": "<LSNR \"تصيبكَ\" \"تصيبكِ\"> بفيروس الجنون\r\nعند مواجهة الوحوش الكبيرة.",
+          "ar": "تصيبكَ بفيروس الجنون\r\nعند مواجهة الوحوش الكبيرة.",
           "es-419": "Te infecta con cólera cuando luches\r\ncontra monstruos grandes."
         },
         "names": {
@@ -9514,7 +9514,7 @@
           "ko": "대형 몬스터와 대치 시 광룡증에\r\n감염되며 공격력이 상승한다.\r\n극복하면 추가로 공격력이 상승한다.",
           "zh-Hant": "狩獵大型魔物時感染狂龍病毒，\r\n並提升攻擊力；克服狂龍症後\r\n進一步提升攻擊力。",
           "zh-Hans": "狩猎大型怪物时会感染狂龙病毒，并提\r\n升攻击力；克服狂龙症后，攻击力进一\r\n步提升",
-          "ar": "<LSNR \"تصيبكَ\" \"تصيبكِ\"> بفيروس الجنون وتزيد\r\nقوة الهجوم عند مواجهة الوحوش الكبيرة.\r\nتزيد قوة الهجوم عند التعافي.",
+          "ar": "تصيبكَ بفيروس الجنون وتزيد\r\nقوة الهجوم عند مواجهة الوحوش الكبيرة.\r\nتزيد قوة الهجوم عند التعافي.",
           "es-419": "Te infecta con cólera y aumenta el\r\nataque contra monstruos grandes. La\r\npotencia de ataque aumenta al recuperarte."
         },
         "names": {
@@ -9562,19 +9562,19 @@
         "level": 1,
         "descriptions": {
           "ja": "ジェスチャー「雄叫び」をした時、一定\r\n時間、周囲の攻撃力が少し上昇。オトモ\r\nとサポートハンターには効果が大きい。",
-          "en": "Using the <BOLD>To Victory!</BOLD> gesture moderately \r\nincreases attack temporarily to nearby allies.\r\nGreatly effects Palicoes and Support Hunters.",
-          "fr": "Utiliser l'émote <BOLD>[Victoire !]</BOLD> augmente\r\nmodérément l'attaque des alliés proches.\r\n(Accru sur Palicos/Chasseurs de soutien.)",
-          "it": "Aumenta di poco e brevemente l'attacco\r\ncon il gesto: <BOLD>Per la vittoria!</BOLD> Ha effetto\r\nsul Compagno e cacciatori di supporto.",
+          "en": "Using the To Victory! gesture moderately \r\nincreases attack temporarily to nearby allies.\r\nGreatly effects Palicoes and Support Hunters.",
+          "fr": "Utiliser l'émote [Victoire !] augmente\r\nmodérément l'attaque des alliés proches.\r\n(Accru sur Palicos/Chasseurs de soutien.)",
+          "it": "Aumenta di poco e brevemente l'attacco\r\ncon il gesto: Per la vittoria! Ha effetto\r\nsul Compagno e cacciatori di supporto.",
           "de": "Die Geste „Zum Sieg!“ erhöht kurz-\r\nzeitig den Angriff naher Verbündeter\r\nwie Palicos und Hilfsjägern etwas.",
-          "es": "El gesto <BOLD>¡hacia la victoria!</BOLD> mejora bastante\r\npor un tiempo el ataque de aliados cercanos\r\n(sobre todo camaradas/cazadores de apoyo).",
-          "ru": "Умеренно повышает силу атаки в области\r\nдействия после жеста <BOLD>«К победе!»</BOLD>.\r\nЭффективнее для палико и помощников.",
-          "pl": "Tymczasowo nieznacznie zwiększa siłę ataku\r\nw okolicy po użyciu gestu: <BOLD>Ku zwycięstwu!</BOLD> Ma\r\nduży wpływ na koleżkoty i łowców wspierających.",
-          "pt-BR": "Aumenta um pouco o ataque dos aliados por um\r\ntempo ao usar o gesto <BOLD>Rumo à Vitória!</BOLD> Afeta\r\nmuito Caçadores de Suporte e Amigatos.",
+          "es": "El gesto ¡hacia la victoria! mejora bastante\r\npor un tiempo el ataque de aliados cercanos\r\n(sobre todo camaradas/cazadores de apoyo).",
+          "ru": "Умеренно повышает силу атаки в области\r\nдействия после жеста «К победе!».\r\nЭффективнее для палико и помощников.",
+          "pl": "Tymczasowo nieznacznie zwiększa siłę ataku\r\nw okolicy po użyciu gestu: Ku zwycięstwu! Ma\r\nduży wpływ na koleżkoty i łowców wspierających.",
+          "pt-BR": "Aumenta um pouco o ataque dos aliados por um\r\ntempo ao usar o gesto Rumo à Vitória! Afeta\r\nmuito Caçadores de Suporte e Amigatos.",
           "ko": "제스처 '우렁찬 외침' 시 일정\r\n시간 동안 주위의 공격력이 조금 상승.\r\n동반자/서포트 헌터에게 효과가 크다.",
           "zh-Hant": "使用動作「吼叫」時，小幅提升周圍成員\r\n一定時間內的攻擊力。隨從與支援獵人所\r\n受的效果較大。",
           "zh-Hans": "使用肢体动作“咆哮”时，在一定时间\r\n内小幅提升周围成员的攻击力。随从与\r\n支援猎人所受的效果较大。",
-          "ar": "استخدام إيماءة <BOLD>نحو النصر!</BOLD> يزيد الهجوم\r\nبشكل معتدل مؤقتًا على الحلفاء القريبين.\r\nتؤثر بشكل كبير على الباليكو وصيادي الدعم.",
-          "es-419": "Aumenta moderadamente el ataque de los aliados\r\ntras usar el gesto <BOLD>¡A la victoria!</BOLD>\r\n(sobre todo camaradas y cazadores de apoyo)."
+          "ar": "استخدام إيماءة نحو النصر! يزيد الهجوم\r\nبشكل معتدل مؤقتًا على الحلفاء القريبين.\r\nتؤثر بشكل كبير على الباليكو وصيادي الدعم.",
+          "es-419": "Aumenta moderadamente el ataque de los aliados\r\ntras usar el gesto ¡A la victoria!\r\n(sobre todo camaradas y cazadores de apoyo)."
         },
         "names": {
           "ja": "ウォークライⅠ",
@@ -9597,19 +9597,19 @@
         "level": 2,
         "descriptions": {
           "ja": "ジェスチャー「雄叫び」をした時、一定\r\n時間、周囲の攻撃力が上昇。オトモと\r\nサポートハンターには効果が大きい。",
-          "en": "Using the <BOLD>To Victory!</BOLD> gesture increases\r\nattack temporarily to nearby allies. Greatly\r\neffects Palicoes and Support Hunters.",
-          "fr": "Utiliser l'émote <BOLD>[Victoire !]</BOLD> augmente\r\nl'attaque des alliés proches.\r\n(Accru sur Palicos/Chasseurs de soutien.)",
-          "it": "Aumenta temporaneamente l'attacco con\r\nil gesto: <BOLD>Per la vittoria!</BOLD> Ha effetto\r\nsul Compagno e cacciatori di supporto.",
+          "en": "Using the To Victory! gesture increases\r\nattack temporarily to nearby allies. Greatly\r\neffects Palicoes and Support Hunters.",
+          "fr": "Utiliser l'émote [Victoire !] augmente\r\nl'attaque des alliés proches.\r\n(Accru sur Palicos/Chasseurs de soutien.)",
+          "it": "Aumenta temporaneamente l'attacco con\r\nil gesto: Per la vittoria! Ha effetto\r\nsul Compagno e cacciatori di supporto.",
           "de": "Die Geste „Zum Sieg!“ erhöht kurz-\r\nzeitig den Angriff naher Verbündeter\r\nwie Palicos und Hilfsjägern.",
-          "es": "El gesto <BOLD>¡hacia la victoria!</BOLD> mejora por\r\nun tiempo el ataque de aliados cercanos\r\n(esp. camaradas y cazadores de apoyo).",
-          "ru": "Повышает силу атаки в области\r\nдействия после жеста <BOLD>«К победе!»</BOLD>.\r\nЭффективнее для палико и помощников.",
-          "pl": "Tymczasowo zwiększa siłę ataku w okolicy\r\npo użyciu gestu: <BOLD>Ku zwycięstwu</BOLD>! Ma duży\r\nwpływ na koleżkoty i łowców wspierających.",
-          "pt-BR": "Aumenta o ataque dos aliados por um tempo\r\nao usar o gesto <BOLD>Rumo à Vitória!</BOLD> Afeta muito\r\nCaçadores de Suporte e Amigatos.",
+          "es": "El gesto ¡hacia la victoria! mejora por\r\nun tiempo el ataque de aliados cercanos\r\n(esp. camaradas y cazadores de apoyo).",
+          "ru": "Повышает силу атаки в области\r\nдействия после жеста «К победе!».\r\nЭффективнее для палико и помощников.",
+          "pl": "Tymczasowo zwiększa siłę ataku w okolicy\r\npo użyciu gestu: Ku zwycięstwu! Ma duży\r\nwpływ na koleżkoty i łowców wspierających.",
+          "pt-BR": "Aumenta o ataque dos aliados por um tempo\r\nao usar o gesto Rumo à Vitória! Afeta muito\r\nCaçadores de Suporte e Amigatos.",
           "ko": "제스처 '우렁찬 외침' 시 일정\r\n시간 동안 주위의 공격력이 상승.\r\n동반자/서포트 헌터에게 효과가 크다.",
           "zh-Hant": "使用動作「吼叫」時，提升周圍成員\r\n一定時間內的攻擊力。隨從與支援獵人\r\n所受的效果較大。",
           "zh-Hans": "使用肢体动作“咆哮”时，在一定时间\r\n内提升周围成员的攻击力。随从与支援\r\n猎人所受的效果较大。",
-          "ar": "استخدام إيماءة <BOLD>نحو النصر!</BOLD> يزيد الهجوم\r\nمؤقتًا على الحلفاء القريبين. تؤثر بشكل\r\nكبير على الباليكو وصيادي الدعم.",
-          "es-419": "Aumenta el ataque de los aliados al\r\nusar el gesto <BOLD>¡A la victoria!</BOLD>\r\n(sobre todo camaradas y cazadores de apoyo)."
+          "ar": "استخدام إيماءة نحو النصر! يزيد الهجوم\r\nمؤقتًا على الحلفاء القريبين. تؤثر بشكل\r\nكبير على الباليكو وصيادي الدعم.",
+          "es-419": "Aumenta el ataque de los aliados al\r\nusar el gesto ¡A la victoria!\r\n(sobre todo camaradas y cazadores de apoyo)."
         },
         "names": {
           "ja": "ウォークライⅡ",
@@ -10437,7 +10437,7 @@
       "ko": "활 장비 중, 독병을 장착할 수 있게 한다.",
       "zh-Hant": "裝備弓時可裝填毒瓶。",
       "zh-Hans": "装备弓时，可装填毒瓶。",
-      "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> باستخدام أغطية السم.",
+      "ar": "تسمح لكَ باستخدام أغطية السم.",
       "es-419": "Permite equiparte viales de\r\nveneno con un arco equipado."
     },
     "ranks": [
@@ -10456,7 +10456,7 @@
           "ko": "독병을 장착할 수 있게 된다",
           "zh-Hant": "可裝填毒瓶",
           "zh-Hans": "将可装填毒瓶",
-          "ar": "تسمح <LSNR \"لكَ\" \"لكِ\"> باستخدام أغطية السم.",
+          "ar": "تسمح لكَ باستخدام أغطية السم.",
           "es-419": "Permite equiparte viales de\r\nveneno."
         }
       }
@@ -11365,7 +11365,7 @@
       "ko": "회심 발생 시\r\n예리도 소모를 억제한다.",
       "zh-Hant": "會心攻擊時，抑制銳利度消耗。",
       "zh-Hans": "抑制会心攻击时的锋利度消耗。",
-      "ar": "تمنع <LSNR \"سلاحكَ\" \"سلاحكِ\"> من فقدان\r\nحدته أثناء الضربات الحاسمة.",
+      "ar": "تمنع سلاحكَ من فقدان\r\nحدته أثناء الضربات الحاسمة.",
       "es-419": "Evita que el arma pierda filo\r\ncon los ataques críticos."
     },
     "ranks": [
@@ -11890,7 +11890,7 @@
       "ko": "소형 몬스터에게 들켜도\r\n전투 상태가 될 확률이 낮아진다.\r\n(갑충종 등 일부에겐 효과 없음)",
       "zh-Hant": "即使被小型魔物發現也不容易進入戰鬥\r\n狀態。（對甲蟲種等部分魔物無效）",
       "zh-Hans": "即使被小型怪物发现，也不容易进入战\r\n斗状态。（对甲虫种等部分怪物无效）",
-      "ar": "تقلل من فرصة هجوم الوحوش الصغيرة\r\nبعد رصدها <LSNR \"لكَ\" \"لكِ\">.\r\n(لا تؤثر على بعض الوحوش).",
+      "ar": "تقلل من فرصة هجوم الوحوش الصغيرة\r\nبعد رصدها لكَ.\r\n(لا تؤثر على بعض الوحوش).",
       "es-419": "Reduce las probabilidades de que los\r\nmonstruos pequeños ataquen al verte\r\n(no afecta a ciertos monstruos)."
     },
     "ranks": [
@@ -11909,7 +11909,7 @@
           "ko": "들켜도 전투 상태가 될\r\n확률이 낮다",
           "zh-Hant": "即使被發現也不容易進入戰鬥狀態",
           "zh-Hans": "即使被发现也不容易进入战斗状态",
-          "ar": "تثني الوحوش عن <LSNR \"مقاتلتكَ\" \"مقاتلتكِ\">\r\nحتى لو تم <LSNR \"رصدكَ\" \"رصدكِ\">.",
+          "ar": "تثني الوحوش عن مقاتلتكَ\r\nحتى لو تم رصدكَ.",
           "es-419": "Disuade a los monstruos de atacarte,\r\nincluso si te vieron."
         }
       },
@@ -11928,7 +11928,7 @@
           "ko": "들켜도 전투 상태가 될\r\n확률이 매우 낮다",
           "zh-Hant": "即使被發現也幾乎不會進入戰鬥狀態",
           "zh-Hans": "即使被发现也几乎不会进入战斗状态",
-          "ar": "تثني الوحوش بنسبة كبيرة عن <LSNR \"مقاتلتكَ\" \"مقاتلتكِ\">\r\nحتى لو تم <LSNR \"رصدكَ\" \"رصدكِ\">.",
+          "ar": "تثني الوحوش بنسبة كبيرة عن مقاتلتكَ\r\nحتى لو تم رصدكَ.",
           "es-419": "Disuade mucho a los monstruos\r\nde atacarte, incluso si te vieron."
         }
       },
@@ -11947,7 +11947,7 @@
           "ko": "들켜도 전투 상태가 되지 않는다",
           "zh-Hant": "即使被發現也不會進入戰鬥狀態",
           "zh-Hans": "即使被发现也不会进入战斗状态",
-          "ar": "تمنع الوحوش من <LSNR \"مقاتلتكَ\" \"مقاتلتكِ\">\r\nحتى لو تم <LSNR \"رصدكَ\" \"رصدكِ\">.",
+          "ar": "تمنع الوحوش من مقاتلتكَ\r\nحتى لو تم رصدكَ.",
           "es-419": "Evita que los monstruos te ataquen,\r\nincluso si te vieron."
         }
       }
@@ -11990,7 +11990,7 @@
           "ko": "치명적인 큰 대미지를 한 번만 경감\r\n발동 전엔 공격력 상승, 방어력 하락\r\n발동 후엔 방어력과 내성치 상승",
           "zh-Hant": "減輕致命傷害一次，並於傷害減輕效果\r\n發動前提升攻擊力、降低防禦力；\r\n發動後提升防禦力與耐性值",
           "zh-Hans": "减轻致命伤害一次，并于发动前提升\r\n攻击力、降低防御力；发动后提升防\r\n御力与耐性值",
-          "ar": "تعزز الهجوم وتقلل الدفاع\r\nولكنها تتيح <LSNR \"لكَ\" \"لكِ\"> النجاة من ضربة مميتة واحدة.\r\nوبعد ذلك تعزز الدفاع والمقاومة.",
+          "ar": "تعزز الهجوم وتقلل الدفاع\r\nولكنها تتيح لكَ النجاة من ضربة مميتة واحدة.\r\nوبعد ذلك تعزز الدفاع والمقاومة.",
           "es-419": "Mejora el ataque, baja la defensa, y\r\nte permite sobrevivir a un golpe letal.\r\nTras eso, mejora defensa y resistencia."
         },
         "names": {
@@ -12652,7 +12652,7 @@
           "ko": "앉아 이동 속도가 상승하며\r\n대형 몬스터에게\r\n쉽게 발견되지 않게 된다",
           "zh-Hant": "提升蹲下時的移動速度，不容易\r\n被大型魔物發現。",
           "zh-Hans": "加快蹲下移动的速度，\r\n更难被大型怪物发现",
-          "ar": "تزيد من سرعة الحركة\r\nأثناء الجثوم، وتجعل من السهل\r\nتفادي رصد الوحوش الكبيرة <LSNR \"لكَ\" \"لكِ\">.",
+          "ar": "تزيد من سرعة الحركة\r\nأثناء الجثوم، وتجعل من السهل\r\nتفادي رصد الوحوش الكبيرة لكَ.",
           "es-419": "Aumenta la velocidad de movimiento\r\nal agacharte y hace más fácil evitar\r\nque los monstruos grandes te detecten."
         },
         "names": {
@@ -13563,7 +13563,7 @@
           "ko": "필드에서 벌꿀을 채취했을 때의\r\n획득 수가 증가한다.",
           "zh-Hant": "增加在原野採集蜂蜜的取得數。",
           "zh-Hans": "提升在原野采集蜂蜜时的取得数",
-          "ar": "تزيد كمية العسل التي <LSNR \"تحصل\" \"تحصلين\"> عليها\r\nمن جمع النقاط.",
+          "ar": "تزيد كمية العسل التي تحصل عليها\r\nمن جمع النقاط.",
           "es-419": "Aumenta la cantidad de miel que\r\nobtienes de los puntos de recolección."
         },
         "names": {
@@ -13869,7 +13869,7 @@
       "ko": "속성 공격을 받으면 발동하고, 일정\r\n시간 동안 용속성 계열 효과를 얻는다.\r\n(효과 종료 후 일정 시간 미발동)",
       "zh-Hant": "受到屬性攻擊後發動，於一定時間內獲得\r\n和龍屬性相關的效果（效果結束後於一定\r\n時間內不會再發動）。",
       "zh-Hans": "受到属性攻击后会发动，在一定时间内\r\n获得与龙属性相关的效果。（效果结束\r\n后，需要经过一定时间才能再次发动）",
-      "ar": "بعد تلقي ضرر عناصري،\r\n<LSNR \"تمنحكَ\" \"تمنحكِ\"> عنصر التنين مؤقتًا. (فترة الخمود بعد الاستخدام)",
+      "ar": "بعد تلقي ضرر عناصري،\r\nتمنحكَ عنصر التنين مؤقتًا. (فترة الخمود بعد الاستخدام)",
       "es-419": "Tras recibir daño elemental, otorga\r\ntemporalmente el elemento draco\r\n(tarda en recargarse tras usarse)."
     },
     "ranks": [

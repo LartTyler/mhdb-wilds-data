@@ -2,6 +2,7 @@ use super::{
     locations, Guid, HunterRank, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
     ReadFile, WriteFile,
 };
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::items::ItemId;
 use crate::processor::locations::{Stage, StageId};
 use crate::processor::weapons::{Element, Status};
@@ -22,6 +23,8 @@ use std::path::{Path, PathBuf};
 use strum::{EnumIter, IntoEnumIterator};
 
 type MonsterId = isize;
+
+const REFS_FIELD: &str = "msg/RefEnvironment.json";
 
 const DATA: &str = "user/monsters/EnemyData.json";
 const SIZE_DATA: &str = "user/monsters/EmCommonSize.json";
@@ -108,6 +111,9 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
     species.write_file(config.io.output.join(SPECIES_OUTPUT))?;
     // endregion
 
+    let field_references = Msg::read_file(config.io.output.join(REFS_FIELD))?;
+    let placeholder_context = ApplyContext::new(vec![&field_references]);
+
     // region Common Data
     let data: Vec<CommonData> = Vec::read_file(config.io.output.join(DATA))?;
     let data_strings = Msg::read_file(config.io.output.join(STRINGS))?;
@@ -133,8 +139,13 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
         }
 
         data_strings.populate(&data.description_guid, &mut monster.descriptions);
+        Placeholder::process(&mut monster.descriptions, &placeholder_context);
+
         data_strings.populate(&data.features_guid, &mut monster.features);
+        Placeholder::process(&mut monster.features, &placeholder_context);
+
         data_strings.populate(&data.tips_guid, &mut monster.tips);
+        Placeholder::process(&mut monster.tips, &placeholder_context);
 
         for variant in VariantKind::iter() {
             let mut names = LanguageMap::new();

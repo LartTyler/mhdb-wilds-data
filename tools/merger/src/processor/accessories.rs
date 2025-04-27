@@ -1,3 +1,4 @@
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::{
     to_ingame_rarity, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
@@ -30,7 +31,9 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         let mut accessory = Accessory::from(&data);
 
         strings.populate(&data.name_guid, &mut accessory.names);
+
         strings.populate(&data.description_guid, &mut accessory.descriptions);
+        Placeholder::process(&mut accessory.descriptions, &ApplyContext::empty());
 
         for (id, level) in data.skill_ids.iter().zip(data.skill_levels) {
             if *id != 0 {

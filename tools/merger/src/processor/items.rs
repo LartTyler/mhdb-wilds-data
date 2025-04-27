@@ -1,3 +1,4 @@
+use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::{
     to_ingame_rarity, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
@@ -42,7 +43,9 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         let mut item = Item::from(&data);
 
         strings.populate(&data.name_guid, &mut item.names);
+
         strings.populate(&data.description_guid, &mut item.descriptions);
+        Placeholder::process(&mut item.descriptions, &ApplyContext::empty());
 
         merged.push(item);
     }

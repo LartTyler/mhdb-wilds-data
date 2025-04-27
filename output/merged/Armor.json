@@ -1602,7 +1602,7 @@
           "ko": "별 부대 헌터의 허리 방어구.\r\n필요한 물건을 필요할 때\r\n간편하게 꺼낼 수 있도록\r\n디자인되어 있다.",
           "zh-Hant": "星辰隊獵人的腰部防具。經過調整，\r\n必要時能輕易拿出必要的物品。",
           "zh-Hans": "星之队猎人的腰部防具。经过精心\r\n调整，能在需要时随时轻易取出所\r\n需之物。",
-          "ar": "عتاد خصر ترتديها\r\nصيادة وحدة (أستروم). تضمن <LSNR \"وصولكَ\" \"وصولكِ\"> إلى ما <LSNR \"تحتاجه\" \"تحتاجينه\">،\r\nعندما <LSNR \"تحتاجه\" \"تحتاجينه\">.",
+          "ar": "عتاد خصر ترتديها\r\nصيادة وحدة (أستروم). تضمن وصولكَ إلى ما تحتاجه،\r\nعندما تحتاجه.",
           "es-419": "Faja de la unidad Astrum.\r\nDiseñada para que obtengas lo\r\nque necesitas, cuando lo\r\nnecesitas."
         },
         "defense": {
@@ -20105,7 +20105,7 @@
           "ko": "타마미츠네 소재로 만든\r\n허리 방어구. 누구나 숨을\r\n삼킬 만큼 아리따운\r\n네 번째 혼례 의상.",
           "zh-Hant": "以泡狐龍素材製作的腰部防具，婚禮\r\n裝束之四。造型豔麗，觀者必為其\r\n嘆服。",
           "zh-Hans": "以泡狐龙素材制作的腰部防具。婚\r\n礼装束其之四，华美无匹，令见者\r\n无不凝神屏息。",
-          "ar": "عتاد خصر (ميزوتسوني). ملابس\r\nزفاف مذهلة للغاية لدرجة أن\r\nأحدًا لن يلاحظ إذا نمى <LSNR \"لكَ\" \"لكِ\"> رأس\r\nثانٍ.",
+          "ar": "عتاد خصر (ميزوتسوني). ملابس\r\nزفاف مذهلة للغاية لدرجة أن\r\nأحدًا لن يلاحظ إذا نمى لكَ رأس\r\nثانٍ.",
           "es-419": "Armadura para la cintura de\r\nMizutsune. Un atuendo nupcial\r\ntan increíble que nadie se daría\r\ncuenta si tuvieras dos cabezas."
         },
         "defense": {
@@ -21956,7 +21956,7 @@
           "ko": "가공점의 센스가 돋보이는\r\n머리 방어구. 채집, 사냥,\r\n운반까지 거침없이 수행하자.",
           "zh-Hant": "彰顯著工匠品味的頭部防具。讓你在\r\n採集、狩獵或搬運時，都能擺出一副\r\n酷酷的撲克臉。",
           "zh-Hans": "彰显加工商匠心的头部防具。无论\r\n是采集、狩猎还是搬运，戴上它都\r\n能令人保持高冷，喜怒不形于色。",
-          "ar": "نظارة شمسية عملية. <LSNR \"ستبدو رائعًا\" \"ستبدين رائعة\"> بها دائمًا\r\nفي جميع المواقف!",
+          "ar": "نظارة شمسية عملية. ستبدو رائعًا بها دائمًا\r\nفي جميع المواقف!",
           "es-419": "Unos lentes de sol con los que\r\nsiempre te verás genial,\r\n¡no importa dónde estés!"
         },
         "defense": {
@@ -22247,7 +22247,7 @@
           "ko": "타마미츠네 소재로 만든\r\n허리 방어구. 누구나 숨을\r\n삼킬 만큼 아리따운\r\n네 번째 혼례 의상.",
           "zh-Hant": "以泡狐龍素材製作的腰部防具，婚禮\r\n裝束之四。造型豔麗，觀者必為其\r\n嘆服。",
           "zh-Hans": "以泡狐龙素材制作的腰部防具。婚\r\n礼装束其之四，华美无匹，令见者\r\n无不凝神屏息。",
-          "ar": "عتاد خصر (ميزوتسوني). ملابس\r\nزفاف مذهلة للغاية لدرجة أن\r\nأحدًا لن يلاحظ إذا نمى <LSNR \"لكَ\" \"لكِ\"> رأس\r\nثانٍ.",
+          "ar": "عتاد خصر (ميزوتسوني). ملابس\r\nزفاف مذهلة للغاية لدرجة أن\r\nأحدًا لن يلاحظ إذا نمى لكَ رأس\r\nثانٍ.",
           "es-419": "Armadura para la cintura de\r\nMizutsune. Un atuendo nupcial\r\ntan increíble que nadie se daría\r\ncuenta si tuvieras dos cabezas."
         },
         "defense": {
@@ -28779,7 +28779,7 @@
           "ko": "광석을 넉넉히 사용해 두껍게\r\n만든 머리 방어구.\r\n공기도 물론 잘 통한다.",
           "zh-Hant": "使用大量礦石製作而成的重型頭部\r\n防具。當然也具備良好的透氣性。",
           "zh-Hans": "使用大量矿石制作而成的重型头部\r\n防具。当然也具备良好的透气性。",
-          "ar": "درع مصنوع من كمية نفيسة\r\nمن المعدن الخام. لا <LSNR \"تقلق\" \"تقلقي\">،\r\nتهويته جيدة جدًا.",
+          "ar": "درع مصنوع من كمية نفيسة\r\nمن المعدن الخام. لا تقلق،\r\nتهويته جيدة جدًا.",
           "es-419": "Armadura hecha con un pedazo\r\ngrande de mineral. Lo creas\r\no no, transpira superbién."
         },
         "defense": {
@@ -33156,7 +33156,7 @@
           "ko": "푸푸로포루의 소재로 만든\r\n다리 방어구. 예비 독액 팩을\r\n터뜨리지 않도록 조심할 것.",
           "zh-Hant": "以沼噴龍素材製作的足部防具。\r\n千萬別壓爆備用的毒液包。",
           "zh-Hans": "使用沼喷龙素材制作的脚部防具。\r\n需要小心，不要弄破备用的毒液包。",
-          "ar": "درع ساق من (رومبوبولو).\r\n<LSNR \"احذر، لا تتكئ\" \"احذري، لا تتكئي\"> بالخطأ\r\nعلى قوارير السم الاحتياطية...",
+          "ar": "درع ساق من (رومبوبولو).\r\nاحذر، لا تتكئ بالخطأ\r\nعلى قوارير السم الاحتياطية...",
           "es-419": "Armadura para las piernas hecha\r\nde Rompopolo. Hay que tener\r\ncuidado de no apoyarse sobre los\r\nviales de veneno de reserva..."
         },
         "defense": {
@@ -40194,7 +40194,7 @@
           "ko": "푸푸로포루의 소재로 만든\r\n다리 방어구. 예비 독액 팩을\r\n터뜨리지 않도록 조심할 것.",
           "zh-Hant": "以沼噴龍素材製作的足部防具。\r\n千萬別壓爆備用的毒液包。",
           "zh-Hans": "使用沼喷龙素材制作的脚部防具。\r\n需要小心，不要弄破备用的毒液包。",
-          "ar": "درع ساق من (رومبوبولو).\r\n<LSNR \"احذر، لا تتكئ\" \"احذري، لا تتكئي\"> بالخطأ\r\nعلى قوارير السم الاحتياطية...",
+          "ar": "درع ساق من (رومبوبولو).\r\nاحذر، لا تتكئ بالخطأ\r\nعلى قوارير السم الاحتياطية...",
           "es-419": "Armadura para las piernas hecha\r\nde Rompopolo. Hay que tener\r\ncuidado de no apoyarse sobre los\r\nviales de veneno de reserva..."
         },
         "defense": {
@@ -40362,9 +40362,9 @@
           "pl": "Dodatek, dzięki któremu będziesz\r\nolśniewać i imponować wyglądem.\r\nWydobądź swoją mroczną stronę.",
           "pt-BR": "Acessório que em um instante\r\nevoca elegância e imponência.\r\nTraga seu lado sombrio à tona.",
           "ko": "쓰기만 해도 기품과 박력이\r\n배로 느는 멋내기 아이템.\r\n와일드한 멋을 낼 때 필수.",
-          "zh-Hant": "光是戴上就能令人感受到穩重感及氣\r\n魄倍增的道具。推薦給想要稍微使壞\r\n的<LSNR \"你\" \"妳\" \"你\">。",
+          "zh-Hant": "光是戴上就能令人感受到穩重感及氣\r\n魄倍增的道具。推薦給想要稍微使壞\r\n的你。",
           "zh-Hans": "光是戴上它就能令人感受到稳重及倍\r\n增的压迫感。想要尝试反派角色就不\r\n妨一试。",
-          "ar": "إكسسوار <LSNR \"يجعلكَ تبدو جذابًا ومهيبًا\" \"يجعلكِ تبدين جذابة ومهيبة\">\r\nعلى الفور. <LSNR \"أظهر جانبكَ\" \"أظهري جانبكِ\"> المظلم\r\nالذي ينمو <LSNR \"بداخلكَ\" \"بداخلكِ\">.",
+          "ar": "إكسسوار يجعلكَ تبدو جذابًا ومهيبًا\r\nعلى الفور. أظهر جانبكَ المظلم\r\nالذي ينمو بداخلكَ.",
           "es-419": "Un accesorio singular que luce\r\nelegante e imponente al\r\ninstante. Para el villano que\r\nmora en el interior de cada uno."
         },
         "defense": {
@@ -40698,7 +40698,7 @@
           "ko": "푸푸로포루의 소재로 만든\r\n다리 방어구. 예비 독액 팩을\r\n터뜨리지 않도록 조심할 것.",
           "zh-Hant": "以沼噴龍素材製作的足部防具。\r\n千萬別壓爆備用的毒液包。",
           "zh-Hans": "使用沼喷龙素材制作的脚部防具。\r\n需要小心，不要弄破备用的毒液包。",
-          "ar": "درع ساق من (رومبوبولو).\r\n<LSNR \"احذر، لا تتكئ\" \"احذري، لا تتكئي\"> بالخطأ\r\nعلى قوارير السم الاحتياطية...",
+          "ar": "درع ساق من (رومبوبولو).\r\nاحذر، لا تتكئ بالخطأ\r\nعلى قوارير السم الاحتياطية...",
           "es-419": "Armadura para las piernas hecha\r\nde Rompopolo. Hay que tener\r\ncuidado de no apoyarse sobre los\r\nviales de veneno de reserva..."
         },
         "defense": {
