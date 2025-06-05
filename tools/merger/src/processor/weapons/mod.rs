@@ -22,7 +22,7 @@ mod gunlance;
 mod hammer;
 mod heavy_bowgun;
 mod hunting_horn;
-mod insect_glaive;
+pub mod insect_glaive;
 mod lance;
 mod light_bowgun;
 mod long_sword;

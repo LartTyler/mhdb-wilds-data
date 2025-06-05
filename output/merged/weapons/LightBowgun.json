@@ -3701,7 +3701,7 @@
       "it": "Conga da combattimento",
       "de": "Kampf-Conga",
       "es": "Conga de combate",
-      "ru": "Боевой конга",
+      "ru": "Тактический конга",
       "pl": "Bitewny Konga",
       "pt-BR": "Congacombate",
       "ko": "컴뱃콩가",
@@ -5630,7 +5630,7 @@
       "ko": "본명을 하사받은 혁염의\r\n갑경노. 소재에 익숙하지 않은\r\n자가 만들면 열을 제어하지\r\n못해 폭발한다.",
       "zh-Hant": "獲授真名的赫炎甲輕弩。若由不精通\r\n處理素材的工匠打造，將無法控制\r\n熱度而引起爆炸。",
       "zh-Hans": "得授真名的赫炎甲弩。若是让不精\r\n通该素材特性的工匠来打造，很可\r\n能会导致热能失控，引起爆炸。",
-      "ar": "بندقية قذائف (أجاراا) مطوَّرة.\r\nبين يدَي صانع أسلحة قليل الخبرة\r\nستسخن المواد وتنفجر.",
+      "ar": "بندقية قذائف (أجارا) مطوَّرة.\r\nبين يدَي صانع أسلحة قليل الخبرة\r\nستسخن المواد وتنفجر.",
       "es-419": "Cortante Ajara mejorada. En\r\nmanos de un herrero inferior,\r\nlos materiales se\r\nsobrecalentarían y explotarían."
     },
     "rarity": 8,
@@ -6849,7 +6849,7 @@
       "pt-BR": "Fuzilarco leve de Arkveld. Em\r\ntempos antigos, um cavaleiro\r\no usou para ganhar fama como\r\ncaçador de serpes.",
       "ko": "알슈베르도 소재로 만든\r\n라이트보우건. 용 사냥으로\r\n이름을 떨친 기사가\r\n썼다는 고대 무기.",
       "zh-Hant": "以鎖刃龍素材製作的輕弩槍。據傳是\r\n曾因獵龍而揚名天下的騎士所使用的\r\n古代武器。",
-      "zh-Hans": "使用锁刃龙素材制作的重弩炮。据\r\n说它曾为古代骑士所用，骑士以猎\r\n龙而名扬天下。",
+      "zh-Hans": "使用锁刃龙素材制作的轻弩炮。据\r\n说它曾为古代骑士所用，骑士以猎\r\n龙而名扬天下。",
       "ar": "بندقية قوس (آركفيلد) خفيفة. في سالف الزمان،\r\nكان الفارس يستخدم مثل هذا السلاح\r\nلاكتساب لقب صائد وايفرن.",
       "es-419": "Una ballesta ligera de Arkveld.\r\nAntaño, los caballeros usaban\r\narmas así para ser reconocidos\r\ncomo cazadores de wyverns."
     },

@@ -324,7 +324,7 @@
           "ko": "용도의 폐허에 있을 시,\r\n속성 대미지와 특수 대미지가\r\n감소한다",
           "zh-Hant": "位於龍都遺跡時，減輕屬性傷害與\r\n特殊傷害。",
           "zh-Hans": "位于龙都遗迹时，\r\n减轻受到的属性伤害及特殊伤害",
-          "ar": "تقلل الضرر العنصري والفريد أثناء التواجد\r\nفي أطلال وايفيريا.",
+          "ar": "تقلل الضرر العناصري والفريد أثناء التواجد\r\nفي أطلال وايفيريا.",
           "es-419": "Reduce el daño elemental y único\r\ncuando estás en las Ruinas de Wyveria,"
         },
         "names": {
@@ -458,7 +458,7 @@
           "ko": "대상의 탄, 화살의\r\n위력이 약간 상승",
           "zh-Hant": "稍微提升上述彈藥和箭的威力",
           "zh-Hans": "略微提升上述弹药和箭矢的威力",
-          "ar": "تزيد بشكل طفيف جدًا من قوة\r\nذخيرة وأسهم معينة.",
+          "ar": "تزيد بشكل طفيف من قوة\r\nذخيرة وأسهم معينة.",
           "es-419": "Aumenta ligeramente la potencia\r\nde ciertas municiones y flechas."
         }
       }
@@ -536,7 +536,7 @@
           "ko": "속도가 1.2배가 되며\r\n변형 공격의 대미지가\r\n1.1배가 된다",
           "zh-Hant": "變形速度1.2倍，變形攻擊傷害1.1倍",
           "zh-Hans": "速度变为1.2倍\r\n变形攻击的伤害变为1.1倍",
-          "ar": "السرعة +20%\r\nتحوّل ضرر الهجوم +10%",
+          "ar": "السرعة +20%\r\nضرر الهجوم التحوّلي +10%",
           "es-419": "Velocidad +20 %\r\nDaño por mutación +10 %"
         }
       },
@@ -555,7 +555,7 @@
           "ko": "속도가 1.3배가 되며\r\n변형 공격의 대미지가\r\n1.2배가 된다",
           "zh-Hant": "變形速度1.3倍，變形攻擊傷害1.2倍",
           "zh-Hans": "速度变为1.3倍\r\n变形攻击的伤害变为1.2倍",
-          "ar": "السرعة +30%\r\nتحوّل ضرر الهجوم +20%",
+          "ar": "السرعة +30%\r\nضرر الهجوم التحوّلي +20%",
           "es-419": "Velocidad +30 %\r\nDaño por mutación +20 %"
         }
       }
@@ -1058,7 +1058,7 @@
           "ko": "스킬 발동 중, 속성 대미지와\r\n상태 이상 축적치가 약간 상승",
           "zh-Hant": "技能發動時，屬性傷害和\r\n狀態異常累積值小幅上升",
           "zh-Hans": "技能发动时，略微提升属性伤害\r\n和状态异常累积值",
-          "ar": "عند التنشيط، يمنح زيادة طفيفة\r\nللضرر العناصري وتراكم الحالة.",
+          "ar": "عند التنشيط، تمنح زيادة طفيفة\r\nللضرر العناصري وتصاعد الحالة.",
           "es-419": "Mientras está activo, aumenta\r\nligeramente el daño elemental\r\ny los efectos de estado."
         }
       },
@@ -1077,7 +1077,7 @@
           "ko": "스킬 발동 중, 속성 대미지와\r\n상태 이상 축적치가 상승",
           "zh-Hant": "技能發動時，屬性傷害和\r\n狀態異常累積值上升",
           "zh-Hans": "技能发动时，提升属性伤害\r\n和状态异常累积值",
-          "ar": "عند التنشيط، يمنح زيادة\r\nللضرر العناصري وتراكم الحالة.",
+          "ar": "عند التنشيط، تمنح زيادة للضرر\r\nالعناصري وتصاعد الحالة.",
           "es-419": "Mientras está activo, aumenta\r\nel daño elemental y los efectos\r\nde estado."
         }
       },
@@ -1096,7 +1096,7 @@
           "ko": "스킬 발동 중, 속성 대미지와\r\n상태 이상 축적치가 크게 상승",
           "zh-Hant": "技能發動時，屬性傷害和\r\n狀態異常累積值大幅上升",
           "zh-Hans": "技能发动时，大幅提升属性伤害\r\n和状态异常累积值",
-          "ar": "عند التنشيط، يمنح زيادة كبيرة\r\nللضرر العناصري وتراكم الحالة.",
+          "ar": "عند التنشيط، تمنح زيادة كبيرة\r\nللضرر العناصري وتصاعد الحالة.",
           "es-419": "Mientras está activo, aumenta\r\nmucho el daño elemental\r\ny los efectos de estado."
         }
       }
@@ -1465,7 +1465,7 @@
           "ru": "На время снижает расход\r\nвыносливости, если запас здоровья\r\nопускается до 40% и ниже.",
           "pl": "Tymczasowo zmniejsza spadek\r\nwytrzymałości, gdy zdrowie jest\r\nna poziomie 40% lub niższym.",
           "pt-BR": "Reduz temporariamente o consumo\r\nde vigor quando estiver com menos\r\nde 40% de vida.",
-          "ko": "체력이 40% 이하가 되면\r\n스태미나 소비량이 감소한다",
+          "ko": "체력이 40% 이하가 되면 일정시간\r\n스태미나 소비량이 감소한다",
           "zh-Hant": "體力降至40%或以下時，\r\n減少一定時間內的耐力消耗量。",
           "zh-Hans": "体力降低至40%或以下时，\r\n减少一定时间内的耐力消耗量",
           "ar": "تقلل استهلاك قوة التحمل مؤقتًا\r\nحين تكون الصحة 40% أو أقل.",
@@ -1543,7 +1543,7 @@
           "ko": "광룡 바이러스 감염 시\r\n약간 극복하기 쉬워짐.\r\n극복 상태일 때, 추가로 회심률+3%",
           "zh-Hant": "感染狂龍病毒時稍微容易克服，\r\n克服時會心率+3%",
           "zh-Hans": "感染狂龙病毒时会略微容易克服，\r\n克服状态时的会心率+3%",
-          "ar": "يزداد معدل الاستشفاء بشكل طفيف\r\nبعد الإصابة بالجنون.   تزيد نسبة\r\nالضرر بمقدار +3% إذا تم الشفاء.",
+          "ar": "يزيد معدل الاستشفاء بشكل طفيف\r\nبعد الإصابة بالجنون. تزيد نسبة\r\nالضرر بمقدار 3% إذا تم الشفاء.",
           "es-419": "Al contraer la cólera, sube un poco\r\nel ritmo de consumo de la barra de\r\ninfección. Afinidad +3 % al curarse."
         }
       },
@@ -1570,19 +1570,19 @@
         "level": 3,
         "descriptions": {
           "ja": "狂竜ウイルスに感染した時、\r\nかなり克服しやすくなる。\r\n克服状態の時、さらに会心率＋１０％",
-          "en": "Greatly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +15% if cured.",
-          "fr": "Accélère grandement la guérison\r\naprès avoir contracté la Furie.\r\nAugmente ensuite l'affinité de 15 %.",
-          "it": "Dopo aver contratto la frenesia,\r\nvelocizza il recupero dell'infezione.\r\nAumento affinità dopo guarigione: +15%",
-          "de": "Erhöht die Erholungsrate bei einer\r\nRaserei-Infektion deutlich.\r\nNach der Heilung Affinität +15 %.",
-          "es": "Al contraer la cólera, acelera mucho\r\nel consumo de la barra de infección.\r\nAfinidad +15 % si te curas.",
-          "ru": "Значительно увеличивает скорость\r\nвыздоровления после заражения.\r\n+15% к мастерству при излечении.",
-          "pl": "Po zarażeniu się szałem znacznie zwiększa\r\ntempo wyczerpywania się paska infekcji\r\ni zwiększa zgodność o 15% po zarażeniu.",
-          "pt-BR": "Ao contrair a Cólera, aumenta muito\r\na taxa de recuperação do vírus.\r\nConcede +15% de afinidade se curada.",
+          "en": "Greatly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +10% if cured.",
+          "fr": "Accélère grandement la guérison\r\naprès avoir contracté la Furie.\r\nAugmente ensuite l'affinité de 10 %.",
+          "it": "Dopo aver contratto la frenesia,\r\nvelocizza il recupero dell'infezione.\r\nAumento affinità dopo guarigione: +10%",
+          "de": "Erhöht die Erholungsrate bei einer\r\nRaserei-Infektion deutlich.\r\nNach der Heilung Affinität +10 %.",
+          "es": "Al contraer la cólera, acelera mucho\r\nel consumo de la barra de infección.\r\nAfinidad +10 % si te curas.",
+          "ru": "Значительно увеличивает скорость\r\nвыздоровления после заражения.\r\n+10% к мастерству при излечении.",
+          "pl": "Po zarażeniu się szałem znacznie zwiększa\r\ntempo wyczerpywania się paska infekcji\r\ni zwiększa zgodność o 10% po zarażeniu.",
+          "pt-BR": "Ao contrair a Cólera, aumenta muito\r\na taxa de recuperação do vírus.\r\nConcede +10% de afinidade se curada.",
           "ko": "광룡 바이러스 감염 시\r\n상당히 극복하기 쉬워짐. 극복\r\n상태일 때, 추가로 회심률+10%",
           "zh-Hant": "感染狂龍病毒時更容易克服，\r\n克服時會心率+10%",
           "zh-Hans": "感染狂龙病毒时会非常容易克服，\r\n克服状态时的会心率+10%",
-          "ar": "عند الإصابة بالجنون،\r\nيزيد معدل استنفاد مقياس العدوى كثيرًا\r\nوتزيد نسبة الضرر بمقدار 15% إذا تم الشفاء.",
-          "es-419": "Al contraer la cólera, sube mucho\r\nel consumo de la barra de infección.\r\nAfinidad +15 % al curarse."
+          "ar": "يزيد معدل الاستشفاء بشكل كبير\r\nبعد الإصابة بالجنون. تزيد نسبة\r\nالضرر بمقدار 10% إذا تم الشفاء.",
+          "es-419": "Al contraer la cólera, sube mucho\r\nel consumo de la barra de infección.\r\nAfinidad +10 % al curarse."
         }
       }
     ],
@@ -2011,7 +2011,7 @@
           "ko": "모으기 공격 속성 대미지와\r\n상태 이상 축적치가 약간 상승",
           "zh-Hant": "小幅提升蓄力攻擊的屬性傷害與\r\n狀態異常累積值",
           "zh-Hans": "略微提升蓄力攻击的属性伤害\r\n与状态异常累积值",
-          "ar": "زيادة اشتداد طفيفة في الضرر العناصري\r\nوالوضعية للهجمات المشحونة.",
+          "ar": "تزيد بشكل طفيف من الضرر العناصري\r\nوتصاعد حالة الهجمات المشحونة.",
           "es-419": "Aumenta ligeramente el daño\r\nelemental y los efectos de estado\r\npara los ataques cargados."
         }
       },
@@ -2030,7 +2030,7 @@
           "ko": "모으기 공격 속성 대미지와\r\n상태 이상 축적치가 상승",
           "zh-Hant": "提升蓄力攻擊的屬性傷害與\r\n狀態異常累積值",
           "zh-Hans": "提升蓄力攻击的属性伤害\r\n与状态异常累积值",
-          "ar": "زيادة اشتداد الضرر العناصري\r\nوالوضعية للهجمات المشحونة.",
+          "ar": "تزيد من الضرر العناصري وتصاعد\r\nحالة الهجمات المشحونة.",
           "es-419": "Aumenta el daño elemental y\r\nlos efectos de estado para\r\nlos ataques cargados."
         }
       },
@@ -2049,7 +2049,7 @@
           "ko": "모으기 공격 속성 대미지와\r\n상태 이상 축적치가 크게 상승",
           "zh-Hant": "大幅提升蓄力攻擊的屬性傷害與\r\n狀態異常累積值",
           "zh-Hans": "大幅提升蓄力攻击的属性伤害\r\n与状态异常累积值",
-          "ar": "زيادة اشتداد كبيرة في الضرر العناصري\r\nوالوضعية للهجمات المشحونة.",
+          "ar": "تزيد بشكل كبير من الضرر العناصري\r\nوتصاعد حالة الهجمات المشحونة.",
           "es-419": "Aumenta mucho el daño\r\nelemental y los efectos de estado\r\npara los ataques cargados."
         }
       }
@@ -2181,7 +2181,7 @@
           "de": "Stellt etwas Gesundheit wieder her,\r\nwenn die Wunde eines großen Mons-\r\nters maximiert wird.",
           "es": "Restablece bastante salud cuando\r\nrematas la herida de un monstruo\r\ngrande.",
           "ru": "Восстанавливает умеренную часть\r\nзапаса здоровья при иссечении раны\r\nкрупного монстра.",
-          "pl": "Przywraca nieznaczną ilość zdrowia\r\npo zniszczeniu rany\r\ndużego potwora.",
+          "pl": "Przywraca nieznaczną ilość\r\nzdrowia po zniszczeniu rany\r\ndużego potwora.",
           "pt-BR": "Restaura um pouco de vida ao\r\ndestruir um ferimento em um\r\nmonstro grande.",
           "ko": "대형 몬스터의 상처를 파괴하면\r\n체력을 조금 회복한다",
           "zh-Hant": "破壞大型魔物的傷口時回復少量體力。",
@@ -2862,7 +2862,7 @@
           "zh-Hant": "於花舞之儀期間追加特別道具至\r\n任務報酬（不會從任務中途發動）",
           "zh-Hans": "在花舞之仪期间，任务报酬中将追加\r\n特殊道具（任务途中无法发动）",
           "ar": "أثناء مهرجان رقصة الزهرة\r\nتضيف عناصر مميزة إلى مكافآت المهام.\r\n(ليس لها تأثير عند الانضمام في منتصف المَهمة).",
-          "es-419": "Durante la Floradanza, agrega\r\nobjetos especiales a las recompensas\r\nde misión."
+          "es-419": "Añade objetos especiales a las\r\nrecompensas durante la Floradanza (sin\r\nefecto si te unes a media misión)."
         },
         "names": {
           "ja": "地の恵み【花舞】Ⅰ",
@@ -2891,7 +2891,7 @@
           "de": "Fügt Quest-Belohnungen während des\r\nBlütentanzes Spezialobjekte hinzu und\r\nerhöht Angriff + Verteidigung deutlich.",
           "es": "Durante la floradanza, añade objetos\r\nespeciales para las recompensas de misión\r\ny aumenta bastante el ataque y la defensa.",
           "ru": "Во время Танца цветов прибавляет к\r\nнаградам за поруч-я особые предметы.\r\nПовышает показатели атаки и защиты.",
-          "pl": "Podczas Tańca Kwiatów dodaje\r\nspecjalny przedmiot do nagród za zadanie\r\noraz znacznie zwiększa siłę ataku i obronę.",
+          "pl": "Podczas Tańca Kwiatów dodaje specjalny\r\nprzedmiot do nagród za zadanie oraz\r\nznacznie zwiększa siłę ataku i obronę.",
           "pt-BR": "Durante a Floridança, adiciona itens\r\nespeciais a prêmios de missão e\r\naumenta muito o ataque e a defesa.",
           "ko": "화무 의식 기간 중 퀘스트 보수에\r\n특별한 아이템이 추가되며\r\n공격력과 방어력이 크게 상승",
           "zh-Hant": "於花舞之儀期間追加特別道具至\r\n任務報酬，並大幅增加攻擊力與\r\n防禦力",
@@ -3231,20 +3231,20 @@
       "es-419": "Desuelle"
     },
     "descriptions": {
-      "ja": "傷をつけやすくなる。攻撃でダメージを\r\n蓄積させると、追加で無属性ダメージが\r\n発生する。",
-      "en": "Makes it easier to inflict wounds. Upon\r\ninflicting enough damage, also deals\r\nadditional non-elemental damage.",
-      "fr": "Facilite la création d'une blessure.\r\nInfligez assez de dégâts pour un\r\nbonus de dégâts non élémentaires.",
-      "it": "Rende più semplice infliggere ferite\r\ne aggiunge danni non elementali\r\na quelli già causati.",
-      "de": "Erleichtert das Verursachen von Wun-\r\nden. Verursacht bei genug Schaden\r\nzusätzlichen Nicht-Element-Schaden.",
-      "es": "Facilita infligir heridas.\r\nSi causas daño suficiente, también\r\ninflige daño no elemental adicional.",
-      "ru": "Наносить раны становится легче.\r\nПри нанесении достаточного урона,\r\nнаносится бонусный нестихийный урон.",
-      "pl": "Ułatwia zadawanie ran. Po zadaniu\r\nwystarczającej ilości obrażeń,\r\npowoduje też obrażenia nieżywiołowe.",
-      "pt-BR": "Facilita infligir ferimentos. Ao\r\ncausar dano o bastante, inflige\r\ndano adicional não elemental.",
-      "ko": "상처를 입히기 쉬워지며,\r\n공격으로 대미지를 축적하면\r\n추가로 무속성 대미지가 발생한다.",
-      "zh-Hant": "容易造成創傷，並於以攻擊累積傷害後\r\n造成額外無屬性傷害。",
-      "zh-Hans": "更容易造成创伤。以攻击累积伤害后，\r\n会追加造成无属性伤害。",
-      "ar": "تجعل إحداث الجروح أسهل.\r\nكما تلحق ضررًا إضافيًا غير عناصري\r\nعند إلحاق قدر كافٍ من الضرر.",
-      "es-419": "Hace que sea más fácil infligir heridas.\r\nAl infligir daño suficiente, también\r\ninflige daño no elemental adicional."
+      "ja": "傷をつけやすくなる。攻撃でダメージを\r\n蓄積させると、追加で無属性ダメージが\r\n発生する。（一部特定の攻撃は対象外）",
+      "en": "Makes it easier to inflict wounds. Can\r\nalso deal extra non-elemental damage\r\nupon buildup. (Excludes some attacks.)",
+      "fr": "Facilite la création de blessures. Infligez\r\nassez de dégâts pour un bonus de dégâts\r\nnon élémentaires. (Sauf certaines attaques.)",
+      "it": "È più semplice ferire. Aggiunge danni \r\nnon elementali dopo un certo accumulo \r\ndi danni. (Alcuni attacchi esclusi.)",
+      "de": "Erleichtert Verursachen von Wunden.\r\nBei genug Schaden zusätzlich Nicht-\r\nElement-Schaden (außer best. Angr.).",
+      "es": "Facilita infligir heridas. También\r\npuede infligir daño extra no elemental\r\nsi se acumula (salvo con ciertos ataques).",
+      "ru": "Наносить раны становится легче.\r\nПри накоплении урона добавляется доп.\r\nнестих. урон (за искл. некоторых атак).",
+      "pl": "Ułatwia zadawanie ran. Może powodować\r\nobrażenia nieżywiołowe po zgromadzeniu.\r\n(Z wyjątkiem niektórych ataków).",
+      "pt-BR": "Facilita infligir ferimentos. Pode\r\ncausar dano não elemental adicional\r\nse acumular (exceto certos ataques).",
+      "ko": "상처를 입히기 쉬워지며, 공격으로 대미지\r\n를 축적하면 추가로 무속성 대미지가\r\n발생한다.(일부 특정 공격은 제외)",
+      "zh-Hant": "容易造成創傷，並於以攻擊累積傷害後\r\n造成額外無屬性傷害。（部分攻擊除外）",
+      "zh-Hans": "更容易造成创伤。以攻击累积伤害后，\r\n会追加造成无属性伤害。\r\n（部分攻击除外）",
+      "ar": "تجعل إحداث الجروح أسهل. يمكنها أيضًا\r\nاحداث ضرر إضافي غير عناصري عند\r\nالتراكم. (باستثناء بعض الهجمات.)",
+      "es-419": "Hace que sea más fácil infligir heridas.\r\nPuede infligir daño no elemental adicional\r\nal acumularse. (Excluye algunos ataques.)"
     },
     "ranks": [
       {
@@ -3373,12 +3373,12 @@
       "de": "Erhöht kurzzeitig die Affinität, wenn\r\ndu nass bist oder unter Blasenpest\r\nleidest. (Beide Effekte stapeln sich.)",
       "es": "Aumenta temporalmente la afinidad\r\ncuando estás mojado o tienes plaga de\r\nburbujas. (El efecto es acumulable).",
       "ru": "Временно повышает мастерство, когда\r\nвы под действием пузырьковой порчи\r\nили промокли (эффекты суммируются).",
-      "pl": "Tymczasowo zwiększa zgodność\r\nw trakcie zmoknięcia lub gdy nałożone są efekty bąblowej plagi.\r\n(Efekt zmoknięcia i bąblowej plagi nakładają się).",
+      "pl": "Tymczasowo zwiększa zgodność po\r\nzmoknięciu lub przy bąblowej pladze.\r\n(Efekty nakładają się).",
       "pt-BR": "Aumenta a afinidade temporariamente\r\nquando molhado ou sob flagelo de\r\nbolha. (Efeitos cumulativos.)",
       "ko": "물에 젖었거나 거품 상태일 때\r\n일정 시간 동안 회심률이 상승한다.\r\n(각 조건에서 중복하여 효과 발동)",
       "zh-Hant": "被水沾濕或陷入泡沫狀態時，增加一定\r\n時間內的會心率。（滿足各個條件後可\r\n重複發動）",
       "zh-Hans": "身体淋湿或在泡沫状态下时，一定时\r\n间内提高会心率。\r\n（满足对应条件后，效果可重复发动）",
-      "ar": "تزيد نسبة الضرر موقتًا\r\nأثناء التبلل والإصابة بوباء الفقاعات.\r\n(تتكدس تأثيرات التبلل ووباء الفقاعات).",
+      "ar": "تزيد نسبة الضرر موقتًا\r\nأثناء التبلل أو الإصابة بوباء الفقاعات.\r\n(تتكدس تأثيرات التبلل ووباء الفقاعات).",
       "es-419": "Aumenta temporalmente la afinidad al\r\nmojarse o al estar afectado por la plaga\r\nde burbujas (ambos son acumulables)."
     },
     "ranks": [
@@ -3392,7 +3392,7 @@
           "de": "Affinität +3 %, wenn du nass bist,\r\nund +7 %, wenn du unter Blasen-\r\npest leidest.",
           "es": "Afinidad +3 % con mojado y +7 %\r\ncon plaga de burbujas.",
           "ru": "+3% к мастерству, если промокли,\r\nи +7% под действием пузырьковой\r\nпорчи.",
-          "pl": "Zgodność +3% w trakcie zmoknięcia, +7%\r\nlub gdy nałożone są efekty bąblowej plagi.",
+          "pl": "Zgodność +3% w trakcie zmoknięcia, lub\r\n+7% gdy nałożone są efekty bąblowej plagi.",
           "pt-BR": "Afinidade +3% quando molhado e\r\n+7% sob efeito de flagelo de bolha.",
           "ko": "물에 젖은 상태일 때 회심률 UP+3%\r\n거품 상태일 때 회심률 UP+7%",
           "zh-Hant": "被水沾濕時，會心率+3%；\r\n陷入泡沫狀態時，會心率+7%",
@@ -3411,7 +3411,7 @@
           "de": "Affinität +6 %, wenn du nass bist,\r\nund +14 %, wenn du unter Blasen-\r\npest leidest.",
           "es": "Afinidad +6 % con mojado y +14 %\r\ncon plaga de burbujas.",
           "ru": "+6% к мастерству, если промокли,\r\nи +14% под действием пузырьковой\r\nпорчи.",
-          "pl": "Zgodność +6% w trakcie zmoknięcia, +14%,\r\nlub gdy nałożone są efekty bąblowej plagi.",
+          "pl": "Zgodność +6% w trakcie zmoknięcia, lub\r\n+14% gdy nałożone są efekty bąblowej plagi.",
           "pt-BR": "Afinidade +6% quando molhado e\r\n+14% sob efeito de flagelo de bolha.",
           "ko": "물에 젖은 상태일 때 회심률 UP+6%\r\n거품 상태일 때 회심률 UP+14%",
           "zh-Hant": "被水沾濕時，會心率+6%；\r\n陷入泡沫狀態時，會心率+14%",
@@ -3430,7 +3430,7 @@
           "de": "Affinität +9 %, wenn du nass bist,\r\nund +21 %, wenn du unter Blasen-\r\npest leidest.",
           "es": "Afinidad +9 % con mojado y +21 %\r\ncon plaga de burbujas.",
           "ru": "+9% к мастерству, если промокли,\r\nи +21% под действием пузырьковой\r\nпорчи.",
-          "pl": "Zgodność +9% w trakcie zmoknięcia, +21%,\r\nlub gdy nałożone są efekty bąblowej plagi.",
+          "pl": "Zgodność +9% w trakcie zmoknięcia, lub\r\n+21% gdy nałożone są efekty bąblowej plagi.",
           "pt-BR": "Afinidade +9% quando molhado e\r\n+21% sob efeito de flagelo de bolha.",
           "ko": "물에 젖은 상태일 때 회심률 UP+9%\r\n거품 상태일 때 회심률 UP+21%",
           "zh-Hant": "被水沾濕時，會心率+9%；\r\n陷入泡沫狀態時，會心率+21%",
@@ -4054,7 +4054,7 @@
           "de": "Erhöht die Kraft von Angriffen und\r\nWyvernfeuer-Feuergeschwindigkeit\r\netwas. Beschuss-Feuerangriff +30.",
           "es": "Potencia bastante cada ataque y\r\nla velocidad de disparo del fuego\r\nde wyvern. Disparo de fuego +30.",
           "ru": "Умеренно усиливает каждую атаку\r\nи скорость пламени виверны.\r\n+30 к урону огнём от атаки-выстрела.",
-          "pl": "Nieznacznie zwiększa każdy atak\r\ni szybkość strzelania ogniem wiwerny.\r\nOstrzał ogniem +30.",
+          "pl": "Nieznacznie zwiększa każdy atak oraz\r\nszybkość strzelania ogniem wiwerny.\r\nOstrzał ogniem +30.",
           "pt-BR": "Aumenta um pouco os ataques e\r\nvelocidade de disparo do Fogo de\r\nSerpe. Dano de fogo do Morteiro +30.",
           "ko": "대상의 공격 위력이 조금 상승\r\n용격포 발사가 조금 빨라짐\r\n포격의 화속성 공격치+30",
           "zh-Hant": "小幅提升對象的攻擊威力和龍擊砲的\r\n發射速度，砲擊的火屬性攻擊值+30",
@@ -4073,7 +4073,7 @@
           "de": "Erhöht die Kraft von Angriffen und\r\nWyvernfeuer-Feuergeschwindig-\r\nkeit. Beschuss-Feuerangriff +60.",
           "es": "Potencia cada ataque y la velocidad\r\nde disparo del fuego de wyvern.\r\nDisparo de fuego +60.",
           "ru": "Усиливает каждую атаку\r\nи скорость пламени виверны.\r\n+60 к урону огнём от атаки-выстрела.",
-          "pl": "Zwiększa każdy atak i szybkość\r\nstrzelania ogniem wiwerny.\r\nOstrzał ogniem +60.",
+          "pl": "Zwiększa każdy atak oraz\r\nszybkość strzelania ogniem wiwerny.\r\nOstrzał ogniem +60.",
           "pt-BR": "Aumenta os ataques e velocidade\r\nde disparo do Fogo de Serpe. Dano\r\nde fogo do Morteiro +60.",
           "ko": "대상의 공격 위력이 상승\r\n용격포 발사가 빨라짐\r\n포격의 화속성 공격치+60",
           "zh-Hant": "提升對象的攻擊威力和龍擊砲的\r\n發射速度，砲擊的火屬性攻擊值+60",
@@ -4092,7 +4092,7 @@
           "de": "Erhöht die Kraft von Angriffen und\r\nWyvernfeuer-Feuergeschwindigkeit\r\ndeutlich. Beschuss-Feuerangriff +90.",
           "es": "Potencia mucho cada ataque y\r\nla velocidad de disparo del fuego\r\nde wyvern. Disparo de fuego +90.",
           "ru": "Значительно усиливает каждую атаку\r\nи скорость пламени виверны.\r\n+90 к урону огнём от атаки-выстрела.",
-          "pl": "Znacznie zwiększa każdy atak\r\ni szybkość strzelania ogniem wiwerny.\r\nOstrzał ogniem +90.",
+          "pl": "Znacznie zwiększa każdy atak oraz\r\nszybkość strzelania ogniem wiwerny.\r\nOstrzał ogniem +90.",
           "pt-BR": "Aumenta muito os ataques e\r\nvelocidade de disparo do Fogo de\r\nSerpe. Dano de fogo do Morteiro +90.",
           "ko": "대상의 공격 위력 크게 상승\r\n용격포 발사가 상당히 빨라짐\r\n포격의 화속성 공격치+90",
           "zh-Hant": "大幅提升對象的攻擊威力和龍擊砲的\r\n發射速度，砲擊的火屬性攻擊值+90",
@@ -4432,7 +4432,7 @@
           "zh-Hant": "即使體力計量表沒有紅色部分，\r\n仍會緩緩自動回復至上限",
           "zh-Hans": "持续缓慢回复体力，直至体力槽上限\r\n（体力槽即使没有红色部分也会回复）",
           "ar": "يسمح لمقياس الصحة بالاستمرار في\r\nالتعافي ببطء حتى الوصول للقيمة\r\nالقصوى، حتى لو لم يكن هناك جزء أحمر.",
-          "es-419": "Permite que la barra de salud siga\r\nrecuperándose lentamente hasta el valor\r\nmáximo, aunque no haya porción roja."
+          "es-419": "Permite que la barra de salud siga\r\nrecuperándose lentamente hasta el\r\nmáximo, aunque no haya partes rojas."
         },
         "names": {
           "ja": "超回復力Ⅰ",
@@ -4457,7 +4457,7 @@
           "ja": "体力に赤ゲージが無い状態でも\r\n最大値まで自動回復が継続する。",
           "en": "Allows the Health Gauge to continue\r\nto recover up to the max value,\r\neven if there is no red portion.",
           "fr": "La jauge de vie continue de se régénérer\r\njusqu'à la valeur maximale même s'il\r\nn'y a pas de portion rouge.",
-          "it": "In aggiunta agli effetti precedenti,\r\naumenta la velocità di recupero,\r\nanche in assenza della porzione rossa.",
+          "it": "Consente di recuperare salute\r\nfino al valore massimo, anche\r\nin assenza della porzione rossa.",
           "de": "Die Gesundheit erholt sich nach und\r\nnach bis zum Maximum, selbst wenn\r\nes keinen roten Abschnitt gibt.",
           "es": "Permite que la barra de salud se\r\nregenere hasta el máximo, aunque\r\nno tenga una parte en rojo.",
           "ru": "Позволяет восстанавливать здоровье\r\nдаже сверх красной части шкалы\r\nздоровья.",
@@ -4467,7 +4467,7 @@
           "zh-Hant": "即使體力計量表沒有紅色部分，\r\n仍會自動回復至上限",
           "zh-Hans": "持续回复体力，直至体力槽上限\r\n（体力槽即使没有红色部分也会回复）",
           "ar": "يسمح لمقياس الصحة بالاستمرار في\r\nالتعافي حتى الوصول للقيمة القصوى،\r\nحتى لو لم يكن هناك جزء أحمر.",
-          "es-419": "Permite que la barra de salud siga\r\nrecuperándose hasta el valor máximo,\r\naunque no haya porción roja."
+          "es-419": "Permite que la barra de salud siga\r\nrecuperándose hasta el máximo,\r\naunque no haya partes rojas."
         },
         "names": {
           "ja": "超回復力Ⅱ",
@@ -4883,15 +4883,15 @@
           "en": "Prevents major bubbleblight and\r\nincreases evasion while afflicted\r\nwith minor bubbleblight.",
           "fr": "Protège du fléau-bulles majeur\r\net augmente l'esquive en cas\r\nde fléau-bulles mineur.",
           "it": "Impedisce il malus da bolle intenso\r\ne aumenta la schivata durante\r\nl'effetto di malus da bolle lieve.",
-          "de": "Verhindert Schwere Blasenpest.\r\nBei Befall mit leichter Blasenpest\r\nAusweichen+.",
+          "de": "Verhindert Schwere Blasenpest.\r\nBei Befall mit Leichter Blasenpest\r\nAusweichen+.",
           "es": "Evita la plaga de burbujas y\r\naumenta la evasión mientras te afecte\r\nuna plaga de burbujas menor.",
           "ru": "Защищает от сильной пузырьковой порчи\r\nи повышает показатель уклонения под\r\nдействием слабой пузырьковой порчи.",
-          "pl": "Zmniejsza dużą bąblową plagę do małej i zwiększa\r\nmożliwość uników podczas\r\ndziałania jej efektów.",
+          "pl": "Zmniejsza dużą bąblową plagę w małą\r\ni zwiększa możliwość uników podczas\r\ndziałania jej efektów.",
           "pt-BR": "Previne flagelo de bolha maior e\r\naumenta a evasão quando está sob\r\nefeito de flagelo de bolha menor.",
           "ko": "거품 상태【대】가 되지 않는다.\r\n거품 상태일 때\r\n회피 능력을 강화한다.",
           "zh-Hant": "不會陷入泡沫狀態【大】，並於陷入泡沫\r\n狀態時強化迴避能力。",
           "zh-Hans": "不会进入泡沫状态【大】。\r\n强化泡沫状态下的回避能力。",
-          "ar": "يمنع الإصابة بوباء الفقاعات القوي\r\nويزيد المراوغة أثناء الإصابة\r\nبوباء الفقاعات البسيط.",
+          "ar": "تمنع الإصابة بوباء الفقاعات القوي\r\nوتزيد من المراوغة أثناء الإصابة\r\nبوباء الفقاعات البسيط.",
           "es-419": "Previene la plaga de burbujas mayor y\r\naumenta la evasión al estar afectado\r\npor la plaga de burbujas menor."
         },
         "names": {
@@ -4926,7 +4926,7 @@
           "ko": "거품 상태【대】가 되지 않는다. 거품 상태\r\n일 때 회피 능력 강화. 추가로 회피 행동\r\n을 여러 번 하면 거품 상태【소】가 된다.",
           "zh-Hant": "不會陷入泡沫狀態【大】，並於陷入泡沫\r\n狀態時強化迴避能力。迴避數次後將陷入\r\n泡沫狀態【小】。",
           "zh-Hans": "不会进入泡沫状态【大】，强化泡沫状\r\n态下的回避能力。回避数次后将陷入泡\r\n沫状态【小】。",
-          "ar": "يمنع وباء الفقاعات الكبير ويزيد المراوغة أثناء\r\nالإصابة به. كما يتيح أيضًا إصابة نفسكَ بوباء\r\nالفقاعات البسيط عن طريق المراوغة عدة مرات.",
+          "ar": "تمنع وباء الفقاعات القوي وتزيد من المراوغة أثناء\r\nالإصابة. كما تتيح أيضًا إمكانية تنشيط وباء\r\nالفقاعات البسيط عن طريق المراوغة عدة مرات.",
           "es-419": "Previene la plaga de burbujas mayor. \r\nLa plaga de burbujas menor aumenta tu\r\nevasión y se activa con varias evaciones."
         },
         "names": {
@@ -4996,12 +4996,12 @@
           "de": "Erhöht die Affinität für Treffer\r\nauf Schwachpunkte um 5 %,\r\nplus weitere 3 % auf Wunden.",
           "es": "Los ataques en puntos débiles\r\nganan afinidad +5 %, más un\r\n3 % adicional sobre heridas.",
           "ru": "При поражении уязвимых мест\r\nповышает мастерство на 5% (и ещё\r\nна 3% при попадании по ранам).",
-          "pl": "Zgodność ataków trafiających w\r\nsłabe punkty zwiększa się o 5%,\r\na w rany o dodatkowe 3%.",
+          "pl": "Zgodność ataków trafiających\r\nw słabe punkty zwiększa się o 5%,\r\na w rany o dodatkowe 3%.",
           "pt-BR": "Ataques em pontos fracos ganham\r\n+5% de afinidade, e 3% extra em\r\nferimentos.",
           "ko": "유효 부위 공격 시 회심률+5%\r\n상처 공격 시 회심률+3% 추가",
           "zh-Hant": "攻擊有效部位時，會心率+5%\r\n攻擊傷口時，會心率再+3%",
           "zh-Hans": "攻击有效部位时，会心率+5%\r\n攻击伤口时，会心率再+3%",
-          "ar": "تزيد الهجمات التي تصيب\r\nنقاط الضعف نسبة الضرر 5%\r\nمع 3% إضافية للأجزاء المُصابة.",
+          "ar": "تزيد نسبة ضرر الهجمات التي\r\nتصيب نقاط الضعف بمقدار 5%،\r\nمع 3% إضافية للأجزاء المُصابة.",
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +5 %, más\r\nun 3 % adicional sobre heridas."
         }
       },
@@ -5015,12 +5015,12 @@
           "de": "Erhöht die Affinität für Treffer\r\nauf Schwachpunkte um 10 %,\r\nplus weitere 5 % auf Wunden.",
           "es": "Los ataques en puntos débiles\r\nganan afinidad +10 %, más un\r\n5 % adicional sobre heridas.",
           "ru": "При поражении уязвимых мест\r\nповышает мастерство на 10% (и ещё\r\nна 5% при попадании по ранам).",
-          "pl": "Zgodność ataków trafiających w\r\nsłabe punkty zwiększa się o 10%,\r\na w rany o dodatkowe 5%.",
+          "pl": "Zgodność ataków trafiających\r\nw słabe punkty zwiększa się o 10%,\r\na w rany o dodatkowe 5%.",
           "pt-BR": "Ataques em pontos fracos ganham\r\n+10% de afinidade, e 5% extra em\r\nferimentos.",
           "ko": "유효 부위 공격 시 회심률+10%\r\n상처 공격 시 회심률+5% 추가",
           "zh-Hant": "攻擊有效部位時，會心率+10%\r\n攻擊傷口時，會心率再+5%",
           "zh-Hans": "攻击有效部位时，会心率+10%\r\n攻击伤口时，会心率再+5%",
-          "ar": "تزيد الهجمات التي تصيب\r\nنقاط الضعف نسبة الضرر +10%\r\nمع 5% إضافية للأجزاء المُصابة.",
+          "ar": "تزيد نسبة ضرر الهجمات التي\r\nتصيب نقاط الضعف بمقدار 10%،\r\nمع 5% إضافية للأجزاء المُصابة.",
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +10 %, más un\r\n5 % adicional sobre heridas."
         }
       },
@@ -5034,12 +5034,12 @@
           "de": "Erhöht die Affinität für Treffer\r\nauf Schwachpunkte um 15 %,\r\nplus weitere 10 % auf Wunden.",
           "es": "Los ataques en puntos débiles\r\nganan afinidad +15 %, más un\r\n10 % adicional sobre heridas.",
           "ru": "При поражении уязвимых мест\r\nповышает мастерство на 15% (и ещё\r\nна 10% при попадании по ранам).",
-          "pl": "Zgodność ataków trafiających w\r\nsłabe punkty zwiększa się o 15%,\r\na w rany o dodatkowe 10%.",
+          "pl": "Zgodność ataków trafiających\r\nw słabe punkty zwiększa się o 15%,\r\na w rany o dodatkowe 10%.",
           "pt-BR": "Ataques em pontos fracos ganham\r\n+15% de afinidade, e 10% extra em\r\nferimentos.",
           "ko": "유효 부위 공격 시 회심률+15%\r\n상처 공격 시 회심률+10% 추가",
           "zh-Hant": "攻擊有效部位時，會心率+15%\r\n攻擊傷口時，會心率再+10%",
           "zh-Hans": "攻击有效部位时，会心率+15%\r\n攻击伤口时，会心率再+10%",
-          "ar": "تزيد الهجمات التي تصيب\r\nنقاط الضعف نسبة الضرر +15%\r\nمع 10% إضافية للأجزاء المُصابة.",
+          "ar": "تزيد نسبة ضرر الهجمات التي\r\nتصيب نقاط الضعف بمقدار 15%،\r\nمع 10% إضافية للأجزاء المُصابة.",
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +15 %, más un\r\n10 % adicional sobre heridas."
         }
       },
@@ -5053,12 +5053,12 @@
           "de": "Erhöht die Affinität für Treffer\r\nauf Schwachpunkte um 20 %,\r\nplus weitere 15 % auf Wunden.",
           "es": "Los ataques en puntos débiles\r\ntienen afinidad +20 %, más un\r\n15 % adicional sobre heridas.",
           "ru": "При поражении уязвимых мест\r\nповышает мастерство на 20% (и ещё\r\nна 15% при попадании по ранам).",
-          "pl": "Zgodność ataków trafiających w\r\nsłabe punkty zwiększa się o 20%,\r\na w rany o dodatkowe 15%.",
+          "pl": "Zgodność ataków trafiających\r\nw słabe punkty zwiększa się o 20%,\r\na w rany o dodatkowe 15%.",
           "pt-BR": "Ataques em pontos fracos ganham\r\n+20% de afinidade, e 15% extra em\r\nferimentos.",
           "ko": "유효 부위 공격 시 회심률+20%\r\n상처 공격 시 회심률+15% 추가",
           "zh-Hant": "攻擊有效部位時，會心率+20%\r\n攻擊傷口時，會心率再+15%",
           "zh-Hans": "攻击有效部位时，会心率+20%\r\n攻击伤口时，会心率再+15%",
-          "ar": "تزيد الهجمات التي تصيب\r\nنقاط الضعف بنسبة 20%\r\nمع 15% إضافية للأجزاء المُصابة.",
+          "ar": "تزيد نسبة ضرر الهجمات التي\r\nتصيب نقاط الضعف بمقدار 20%،\r\nمع 15% إضافية للأجزاء المُصابة.",
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +20 %, más\r\nun 15 % adicional sobre heridas."
         }
       },
@@ -5072,12 +5072,12 @@
           "de": "Erhöht die Affinität für Treffer\r\nauf Schwachpunkte um 30 %,\r\nplus weitere 20 % auf Wunden.",
           "es": "Los ataques en puntos débiles\r\ntienen afinidad +30 %, más un\r\n20 % adicional sobre heridas.",
           "ru": "При поражении уязвимых мест\r\nповышает мастерство на 30% (и ещё\r\nна 20% при попадании по ранам).",
-          "pl": "Zgodność ataków trafiających w\r\nsłabe punkty zwiększa się o 30%,\r\na w rany o dodatkowe 20%.",
+          "pl": "Zgodność ataków trafiających\r\nw słabe punkty zwiększa się o 30%,\r\na w rany o dodatkowe 20%.",
           "pt-BR": "Ataques em pontos fracos ganham\r\n+30% de afinidade, e 20% extra em\r\nferimentos.",
           "ko": "유효 부위 공격 시 회심률+30%\r\n상처 공격 시 회심률+20% 추가",
           "zh-Hant": "攻擊有效部位時，會心率+30%\r\n攻擊傷口時，會心率再+20%",
           "zh-Hans": "攻击有效部位时，会心率+30%\r\n攻击伤口时，会心率再+20%",
-          "ar": "تزيد الهجمات التي تصيب\r\nنقاط الضعف بنسبة 30%\r\nمع 20% إضافية للأجزاء المُصابة.",
+          "ar": "تزيد نسبة ضرر الهجمات التي\r\nتصيب نقاط الضعف بمقدار 30%،\r\nمع 20% إضافية للأجزاء المُصابة.",
           "es-419": "Los ataques a puntos débiles\r\ntienen afinidad +30 %, más\r\nun 20 % adicional sobre heridas."
         }
       }
@@ -5271,7 +5271,7 @@
           "ko": "공격의 위력을 크게 감소.\r\n스태미나 소비량을 50％ 감소",
           "zh-Hant": "大幅減少攻擊威力，\r\n減少耐力消耗量50%",
           "zh-Hans": "大幅减少所受攻击的威力\r\n格挡的耐力消耗减少50％",
-          "ar": "تقلل من تأثير الهجمات بشكل\r\nكبير، وتقلل استنزاف قوة\r\nالتحمل بنسبة 50%.",
+          "ar": "تقلل من تأثير الهجمات بمقدار\r\nكبير، وتقلل من استهلاك قوة\r\nالتحمل بنسبة 50%.",
           "es-419": "Reduce mucho el impacto\r\nde los ataques y el gasto\r\nde resistencia un 50 %."
         }
       }
@@ -5496,13 +5496,13 @@
           "ja": "糸拘束状態、凍結状態の回復時、または\r\n拘束攻撃から解放された時、鍔迫り合い\r\nの後、一定時間、攻撃力が大きく上昇",
           "en": "Greatly increases attack after recovering\r\nfrom webbed status, frostblight, being\r\npinned, or a Power Clash.",
           "fr": "Augmente grandement l'attaque à la\r\nfin de l'état Toile, du fléau-givre, d'une\r\nimmobilisation ou d'un Duel de force.",
-          "it": "Aumenta notevolmente l'attacco\r\nquando ci si riprende da tela di\r\nragno, malus da gelo, blocco o\r\nscontro di forza.",
+          "it": "Aumenta notevolmente l'attacco quando \r\nci si riprende da tela di ragno, \r\nmalus da gelo, blocco o scontro di forza.",
           "de": "Erhöht nach Erholung von Eingenetzt,\r\nFrostpest, Machtkampf oder Gestellt-\r\nwerden kurzzeitig den Angriff deutlich.",
           "es": "Aumenta mucho el ataque tras recuperarte\r\nde los estados enmarañado, plaga de\r\nescarcha, inmovilización o un forcejeo.",
           "ru": "Значительно усиливает атаку после\r\nизбавления от паутины, морозной порчи,\r\nобездвиживания или волевой схватки.",
           "pl": "Znacznie zwiększa atak po wyjściu\r\nz zasieciowania, plagi mrozu,\r\nprzygwożdżenia lub Starcia mocy.",
           "pt-BR": "Aumenta muito o ataque após\r\nse recuperar de teias, flagélido,\r\nimobilidade ou Duelos de Poder.",
-          "ko": "실 속박 상태, 동결 상태 회복 시 또는\r\n속박 공격에서 해방됐을 때, 힘 겨루기\r\n후, 일정 시간 동안 공격력이 상승한다.",
+          "ko": "실 속박 상태, 동결 상태 회복 시 또는\r\n속박 공격에서 해방됐을 때, 힘 겨루기\r\n후, 일정 시간 동안 공격력이 크게 상승.",
           "zh-Hant": "從繩束縛狀態或凍結狀態回復後、\r\n從拘束攻擊解放後或角力後，大幅\r\n提升一定時間內的攻擊力。",
           "zh-Hans": "从丝线束缚状态或冻结状态回复，从\r\n束缚攻击解放，或者在角力后，大幅\r\n提升一定时间内的攻击力",
           "ar": "تزيد كثيرًا قوة الهجوم بعد التعافي\r\nمن حالة التكفّف بالنسيج أو لفحة الصقيع\r\nأو الوقوع في المحاصرة أو صدام القوة.",
@@ -6291,7 +6291,7 @@
           "de": "Erhöht den zusätzlichen Feuerschaden\r\nnach erfolgreichem Treffer.",
           "es": "Aumenta el daño de fuego adicional\r\nal conectar un golpe.",
           "ru": "Повышает дополнительный урон огнём\r\nпосле попадания атакой.",
-          "pl": "Zwiększa dodatkowe obrażenia od\r\nognia po celnym ataku.",
+          "pl": "Zwiększa dodatkowe obrażenia\r\nod ognia po celnym ataku.",
           "pt-BR": "Aumenta o dano adicional de fogo\r\napós acertar um ataque.",
           "ko": "추가로 주는 불속성 대미지가\r\n상승한다",
           "zh-Hant": "攻擊命中時，隨機造成更多\r\n額外火屬性傷害。",
@@ -6428,7 +6428,7 @@
           "ko": "공격력이 1.02배가 되고,\r\n기초 공격력+8",
           "zh-Hant": "攻擊力1.02倍後，基礎攻擊力+8",
           "zh-Hans": "攻击力变为1.02倍后，\r\n基础攻击力+8",
-          "ar": "الهجوم +2% المكافأة: +8",
+          "ar": "الهجوم +2%\r\nالمكافأة: +8",
           "es-419": "Ataque +2 %\r\nBonus adicional +8"
         }
       },
@@ -6447,7 +6447,7 @@
           "ko": "공격력이 1.04배가 되고,\r\n기초 공격력+9",
           "zh-Hant": "攻擊力1.04倍後，基礎攻擊力+9",
           "zh-Hans": "攻击力变为1.04倍后，\r\n基础攻击力+9",
-          "ar": "الهجوم +4% المكافأة: +9",
+          "ar": "الهجوم +4%\r\nالمكافأة: +9",
           "es-419": "Ataque +4 %\r\nBonus adicional +9"
         }
       }
@@ -6516,6 +6516,124 @@
     "icon_id": 13
   },
   {
+    "game_id": 4554,
+    "names": {
+      "ja": "拳を極めし者",
+      "en": "Master of the Fist",
+      "fr": "Le Maître du poing",
+      "it": "Maestro del pugno",
+      "de": "Meister der Faust",
+      "es": "Maestro del puño",
+      "ru": "Мастер кулака",
+      "pl": "Mistrz pięści",
+      "pt-BR": "Mestre do Punho",
+      "ko": "권의 극에 달한 자",
+      "zh-Hant": "拳法的極意者",
+      "zh-Hans": "拳之极者",
+      "ar": "ملك القبضات",
+      "es-419": "Maestro del puño"
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "特殊アクションの威力が強化される。\r\nドライブインパクトで相殺が可能になり\r\n成功すると一定時間さらに強化される。",
+          "en": "Increases power of special actions.\r\nDrive Impacts can trigger offset attacks.\r\nFurther increases power of offset attacks.",
+          "fr": "Actions spéciales renforcées. Les Drive\r\nImpacts peuvent neutraliser. Après une\r\nNeutralisation, augmente la puissance.",
+          "it": "Aumenta la potenza delle mosse speciali.\r\nIl Drive Impact può attivare attacchi\r\ndi reazione. Aumenta la potenza degli\r\nattacchi di reazione.",
+          "de": "Steigert die Kraft von Spezialaktionen.\r\nDrive Impacts lösen Gegenstoß-Angriffe\r\naus. Bei Erfolgt steigt Kraft kurzzeitig.",
+          "es": "Aumenta el poder de los ataques especiales:\r\nLos Drive Impact lanzan ataques interceptores.\r\nAumenta más el poder de ataques interceptores.",
+          "ru": "Повышает силу особых действий.\r\nDrive Impact может парировать атаки.\r\nПарирование даёт дополн. усиление.",
+          "pl": "Zwiększa siłę specjalnych działań. Drive\r\nImpact mogą wywołać ataki przełamujące,\r\ndodatkowo zwiększając ich siłę.",
+          "pt-BR": "Aumenta o poder das ações especiais.\r\nO Drive Impact causa ataque inibidor,\r\nque melhora mais quando acertado.",
+          "ko": "특수 액션의 위력이 강화된다.\r\n드라이브 임팩트로 상쇄할 수 있고\r\n성공하면 일정 시간 더 강화된다.",
+          "zh-Hant": "強化特殊動作的威力。對動力衝擊追加\r\n抵消效果，成功連消帶打後於一定時間\r\n內再度強化。",
+          "zh-Hans": "强化特殊动作的威力，可通过斗气迸放\r\n抵消，成功后一定时间内将获得进一步\r\n强化。",
+          "ar": "تزيد من قوة الحركات المميزة.\r\nيمكن لـ Drive Impacts شن هجمات مبطِلة،\r\nوالتي بدورها ستزيد قوة الهجمات المبطِلة أكثر.",
+          "es-419": "El poder de las acciones especiales\r\naumentará. Los Drive Impacts activan\r\nataques compensados. Los ataques\r\ncompensados aumentan el poder aún más."
+        },
+        "names": {
+          "ja": "殺意の波動",
+          "en": "Satsui no Hado",
+          "fr": "Satsui no Hado",
+          "it": "Satsui no Hado",
+          "de": "Satsui no Hado",
+          "es": "Satsui no Hado",
+          "ru": "Satsui no Hado",
+          "pl": "Satsui no Hado",
+          "pt-BR": "Satsui no Hado",
+          "ko": "살의의 파동",
+          "zh-Hant": "殺意波動",
+          "zh-Hans": "杀意之波动",
+          "ar": "Satsui no Hado",
+          "es-419": "Satsui no Hado"
+        }
+      }
+    ],
+    "kind": "group",
+    "icon": "group",
+    "icon_id": 13
+  },
+  {
+    "game_id": 10503,
+    "names": {
+      "ja": "にぎりめし",
+      "en": "Rice Ball",
+      "fr": "Onigiri",
+      "it": "Onigiri",
+      "de": "Onigiri",
+      "es": "Onigiri",
+      "ru": "Рисовый шарик",
+      "pl": "Onigiri",
+      "pt-BR": "Oniguiri",
+      "ko": "주먹밥",
+      "zh-Hant": "飯糰",
+      "zh-Hans": "饭团",
+      "ar": "أونيغيري",
+      "es-419": "Onigiri"
+    },
+    "descriptions": {
+      "ja": "豪鬼専用アクションの攻撃力と\r\n気絶を誘発する威力が上昇する。",
+      "en": "Increases the attack power of Akuma\r\nactions and stun damage.",
+      "fr": "Augmente la puissance des actions et\r\ndes dégâts d'étourdissement d'Akuma.",
+      "it": "Incrementa la potenza d'attacco\r\ndelle mosse e dei danni\r\nda stordimento di Akuma.",
+      "de": "Erhöht die Angriffskraft von\r\nAkuma-Aktionen und Betäubung.",
+      "es": "Aumenta el poder de ataque de Akuma\r\ny el daño por aturdimiento.",
+      "ru": "Повышает силу атаки всех действий\r\nAkuma, а также урон оглушением.",
+      "pl": "Zwiększa siłę ataku akcji i obrażeń\r\nod ogłuszenia Akumy.",
+      "pt-BR": "Aumenta o poder de ataque e o dano\r\nde atordoamento das ações do Akuma.",
+      "ko": "고우키 전용 액션의 공격력과\r\n기절을 유발하는 위력이 상승한다.",
+      "zh-Hant": "豪鬼專用動作的攻擊力與觸發昏厥的效果\r\n上升。",
+      "zh-Hans": "豪鬼专用动作的攻击力和造成昏厥的威力\r\n提升。",
+      "ar": "يُعزز قوة هجوم حركات Akuma\r\nويزيد ضرر الصدمة.",
+      "es-419": "Aumenta el poder de ataque\r\nde las acciones de Akuma y el daño\r\npor aturdimiento."
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "スキル効果発動",
+          "en": "Activates skill effect.",
+          "fr": "Active l'effet.",
+          "it": "Attiva l'effetto dell'abilità.",
+          "de": "Aktiviert den Fähigkeit-Effekt.",
+          "es": "Activa el efecto de la habilidad\r\ndel mismo nombre.",
+          "ru": "Задействует эффект навыка.",
+          "pl": "Aktywuje efekt umiejętności.",
+          "pt-BR": "Ativa o efeito da habilidade.",
+          "ko": "스킬 효과 발동",
+          "zh-Hant": "發動技能效果",
+          "zh-Hans": "发动技能效果",
+          "ar": "تفعِّل تأثير المهارة.",
+          "es-419": "Activa el efecto de la habilidad."
+        }
+      }
+    ],
+    "kind": "armor",
+    "icon": "offense",
+    "icon_id": 9
+  },
+  {
     "game_id": 13941,
     "names": {
       "ja": "祝祭の巡り",
@@ -6530,7 +6648,7 @@
       "ko": "축제 순례",
       "zh-Hant": "慶典巡禮",
       "zh-Hans": "祭典巡礼",
-      "ar": "روح احتفالية",
+      "ar": "روح المهرجان",
       "es-419": "Espíritu festivo"
     },
     "ranks": [
@@ -6544,7 +6662,7 @@
           "de": "Ermöglicht dir, Kadaver einmal\r\nzusätzlich zu zerlegen. (Keine Wirkung\r\nbei spätem Questbeitritt.)",
           "es": "Permite despiezar una vez más de lo\r\nnormal a los monstruos que abatas. (No\r\naplicable si la misión ya ha empezado).",
           "ru": "Позволяет разделывать останки ещё раз\r\nво время поручения. (Не действует, если\r\nприсоединиться посреди выполнения.)",
-          "pl": "Pozwala wycinać materiały ze zwłok\r\npodczas zadań o jeden raz więcej. (Nie\r\ndziała, gdy dołączasz w trakcie zadania).",
+          "pl": "Pozwala wycinać materiały z padliny\r\npodczas zadań o jeden raz więcej. (Nie\r\ndziała, gdy dołączasz w trakcie zadania).",
           "pt-BR": "Permite talhar carcaças mais uma\r\nvez em missões. (Sem efeito ao\r\nentrar no meio da missão.)",
           "ko": "퀘스트 중 소재 갈무리 횟수+1\r\n(퀘스트 도중 참가 시 발동하지 않음)",
           "zh-Hant": "任務期間素材剝取次數+1\r\n（不會從任務中途發動）",
@@ -6634,7 +6752,7 @@
           "ja": "毒、麻痺状態の大型モンスターに対して\r\n基礎攻撃力＋８、会心率＋５％",
           "en": "Attack +8 and affinity +5%\r\nagainst large monsters affected\r\nby poison or paralysis.",
           "fr": "Attaque +8 et affinité +5 %\r\ncontre les grands monstres\r\nempoisonnés ou paralysés.",
-          "it": "ATT Fisico: +8%\r\nAffinità: +5%\r\n(Se afflitto da veleno o paralisi.)",
+          "it": "ATT Fisico: +8\r\nAffinità: +5%\r\n(Se afflitto da veleno o paralisi.)",
           "de": "Angriff +8 und Affinität +5 % gegen\r\nvon Gift oder Lähmung betroffene\r\ngroße Monster.",
           "es": "Ataque +8 y afinidad +5 % contra\r\nmonstruos grandes afectados\r\npor veneno o parálisis.",
           "ru": "+8 к атаке и +5% к мастерству\r\nв боях с крупными монстрами,\r\nпоражёнными ядом или параличом.",
@@ -6653,7 +6771,7 @@
           "ja": "毒、麻痺状態の大型モンスターに対して\r\n基礎攻撃力＋１０、会心率＋１０％",
           "en": "Attack +10 and affinity +10%\r\nagainst large monsters affected\r\nby poison or paralysis.",
           "fr": "Attaque +10 et affinité +10 %\r\ncontre les grands monstres\r\nempoisonnés ou paralysés.",
-          "it": "ATT Fisico: +10%\r\nAffinità: +10%\r\n(Se afflitto da veleno o paralisi.)",
+          "it": "ATT Fisico: +10\r\nAffinità: +10%\r\n(Se afflitto da veleno o paralisi.)",
           "de": "Angriff +10 und Affinität +10 % gegen\r\nvon Gift oder Lähmung betroffene\r\ngroße Monster.",
           "es": "Ataque +10 y afinidad +10 % contra\r\nmonstruos grandes afectados\r\npor veneno o parálisis.",
           "ru": "+10 к атаке и +10% к мастерству\r\nв боях с крупными монстрами,\r\nпоражёнными ядом или параличом.",
@@ -6691,7 +6809,7 @@
           "ja": "毒、麻痺状態の大型モンスターに対して\r\n基礎攻撃力＋１５、会心率＋２０％",
           "en": "Attack +15 and affinity +20%\r\nagainst large monsters affected\r\nby poison or paralysis.",
           "fr": "Attaque +15 et affinité +20 %\r\ncontre les grands monstres\r\nempoisonnés ou paralysés.",
-          "it": "ATT Fisico: +15%\r\nAffinità: +20%\r\n(Se afflitto da veleno o paralisi.)",
+          "it": "ATT Fisico: +15\r\nAffinità: +20%\r\n(Se afflitto da veleno o paralisi.)",
           "de": "Angriff +15 und Affinität +20 % gegen\r\nvon Gift oder Lähmung betroffene\r\ngroße Monster.",
           "es": "Ataque +15 y afinidad +20 %\r\ncontra monstruos grandes\r\nafectados por veneno o parálisis.",
           "ru": "+15 к атаке и +20% к мастерству\r\nв боях с крупными монстрами,\r\nпоражёнными ядом или параличом.",
@@ -6875,7 +6993,7 @@
           "ko": "무적 시간이 크게 연장",
           "zh-Hant": "大幅延長無敵時間",
           "zh-Hans": "大幅延长无敌时间",
-          "ar": "تزيد مدة المناعة\r\nبدرجة كبيرة.",
+          "ar": "تزيد مدة المناعة\r\nبمقدار كبير.",
           "es-419": "Alarga mucho el momento\r\nde invulnerabilidad al hacer\r\nuna evasión."
         }
       },
@@ -6894,7 +7012,7 @@
           "ko": "무적 시간이 매우 크게 연장",
           "zh-Hant": "極大幅延長無敵時間",
           "zh-Hans": "极大幅延长无敌时间",
-          "ar": "تزيد مدة المناعة\r\nبشكل هائل.",
+          "ar": "تزيد مدة المناعة\r\nبمقدار هائل.",
           "es-419": "Alarga muchísimo el momento\r\nde invulnerabilidad al hacer\r\nuna evasión."
         }
       }
@@ -7341,7 +7459,7 @@
           "ko": "효과 발동 시,\r\n속성 대미지가 크게 상승",
           "zh-Hant": "效果發動時，大幅增加屬性傷害",
           "zh-Hans": "效果发动时，大幅提升属性伤害",
-          "ar": "تزيد الضرر العناصري بشكل كبير\r\nأثناء التفعيل.",
+          "ar": "تزيد نسبة الضرر العناصري\r\nبشكل كبير أثناء التفعيل.",
           "es-419": "Aumenta mucho el daño\r\nelemental mientras esté activo."
         }
       }
@@ -7525,77 +7643,77 @@
       "es-419": "Impacto mejorado"
     },
     "descriptions": {
-      "ja": "斬れ味が悪いとき攻撃力が上がる。",
-      "en": "Increases attack power when your\r\nweapon sharpness is low.",
-      "fr": "Augmente l'attaque lorsque\r\nvotre arme est émoussée.",
-      "it": "Aumenta la potenza d'attacco quando\r\nl'acutezza dell'arma è ridotta.",
-      "de": "Erhöht die Angriffskraft, wenn die\r\nSchärfe deiner Waffe niedrig ist.",
-      "es": "Aumenta la potencia de ataque cuando\r\nel afilado de tu arma esté bajo.",
-      "ru": "Усиливает атаку при низком\r\nуровне остроты оружия.",
-      "pl": "Zwiększa siłę ataku, gdy ostrość\r\ntwojej broni jest niska.",
-      "pt-BR": "Aumenta o poder de ataque quando\r\no medidor de fio da sua arma estiver\r\nbaixo.",
-      "ko": "예리도가 나쁠 때 공격력이 오른다.",
-      "zh-Hant": "銳利度較低時，增加攻擊力。",
-      "zh-Hans": "锋利度较差时攻击力提升。",
-      "ar": "تزيد قوة الهجوم عند\r\nانخفاض حِدة سلاحك.",
-      "es-419": "Aumenta la fuerza de ataque cuando\r\nel afilado de tu arma es bajo."
+      "ja": "斬れ味が悪い時、与えるダメージが\r\n上昇する。",
+      "en": "Increases damage dealt when\r\nyour weapon sharpness is low.",
+      "fr": "Augmente les dégâts infligés\r\nquand votre arme est émoussée.",
+      "it": "Aumenta i danni inflitti quando\r\nl'acutezza dell'arma è ridotta.",
+      "de": "Erhöht den verursachten\r\nSchaden, wenn die Schärfe\r\ndeiner Waffe niedrig ist.",
+      "es": "Aumenta el daño infligido cuando\r\nel afilado de tu arma esté bajo.",
+      "ru": "Увеличивает наносимый урон\r\nпри низком уровне остроты\r\nоружия.",
+      "pl": "Zwiększa obrażenia zadawane\r\nprzy niskiej ostrości broni.",
+      "pt-BR": "Aumenta o dano causado quando\r\no medidor de fio da sua arma estiver\r\nbaixo.",
+      "ko": "예리도가 나쁠 때 주는 대미지가 오른다.",
+      "zh-Hant": "銳利度較低時增加傷害。",
+      "zh-Hans": "锋利度较差时，造成的伤害提升。",
+      "ar": "تزيد من الضرر المُتَسبب\r\nعند انخفاض حِدة سلاحك.",
+      "es-419": "Aumenta el daño infligido cuando\r\nel afilado de tu arma es bajo."
     },
     "ranks": [
       {
         "level": 1,
         "descriptions": {
-          "ja": "斬れ味が黄色以下のとき\r\n攻撃力１．０５倍",
-          "en": "+5% attack power when\r\nyour sharpness gauge is\r\nyellow or lower.",
-          "fr": "Attaque +5 % lorsque la\r\njauge de tranchant est\r\ndans le jaune ou moins.",
-          "it": "ATT Fisico: +5%\r\n(Barra acutezza gialla o inferiore.)",
-          "de": "Erhöht die Angriffskraft um 5 %,\r\nwenn dein Schärfebalken im\r\ngelben Bereich oder darunter ist.",
-          "es": "Potencia de ataque +5 %\r\ncuando la barra de afilado\r\nesté en amarillo o peor.",
-          "ru": "+5% к силе атаки, когда ваша\r\nшкала остроты оружия жёлтая\r\nили ниже.",
-          "pl": "+5% siły ataku, gdy twój\r\npasek ostrości jest żółty\r\nlub niższy.",
-          "pt-BR": "+5% de poder de ataque quando\r\na barra de fio estiver amarela ou\r\nabaixo.",
-          "ko": "예리도가 황색 이하일 때\r\n공격력 1.05배",
-          "zh-Hant": "銳利度在黃色或以下時，\r\n攻擊力1.05倍",
-          "zh-Hans": "锋利度黄色或以下时，\r\n攻击力变为1.05倍",
-          "ar": "+5% من قوة الهجوم\r\nعندما يكون مقياس الحدّة\r\nأصفر أو أقل.",
-          "es-419": "Poder de ataque +5 % cuando\r\nla barra de afilado es amarilla\r\no menos."
+          "ja": "斬れ味が黄色以下の時、\r\n与えるダメージ１．０５倍",
+          "en": "+5% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+          "fr": "Dégâts +5 % lorsque la\r\njauge de tranchant est\r\ndans le jaune ou moins.",
+          "it": "Danni inflitti: +5%\r\n(Barra acutezza gialla o inferiore.)",
+          "de": "Erhöht verursachten Schaden um\r\n5 %, wenn dein Schärfebalken im\r\ngelben Bereich oder darunter ist.",
+          "es": "Inflige +5 % de daño\r\ncuando la barra de afilado\r\nesté en amarillo o peor.",
+          "ru": "+5% к урону, когда ваша\r\nшкала остроты оружия\r\nжёлтая или ниже.",
+          "pl": "+5% siły zadawania ataku,\r\ngdy twój pasek ostrości\r\njest żółty lub niższy.",
+          "pt-BR": "+5% de dano causado quando\r\na barra de fio estiver amarela ou\r\nabaixo.",
+          "ko": "예리도가 황색 이하일 때\r\n주는 대미지 1.05배",
+          "zh-Hant": "銳利度在黃色或以下時，\r\n傷害1.05倍",
+          "zh-Hans": "锋利度黄色或以下时，\r\n造成的伤害变为1.05倍",
+          "ar": "زيادة قدرها +5% في الضرر\r\nالمُتَسبب عندما يكون مقياس\r\nالحدّة أصفر أو أقل.",
+          "es-419": "Inflige +5 % de daño cuando\r\nla barra de afilado es amarilla\r\no menos."
         }
       },
       {
         "level": 2,
         "descriptions": {
-          "ja": "斬れ味が黄色以下のとき\r\n攻撃力１．１倍",
-          "en": "+10% attack power when\r\nyour sharpness gauge is\r\nyellow or lower.",
-          "fr": "Attaque +10 % lorsque\r\nla jauge de tranchant\r\nest dans le jaune ou moins.",
-          "it": "ATT Fisico: +10%\r\n(Barra acutezza gialla o inferiore.)",
-          "de": "Erhöht die Angriffskraft um 10 %,\r\nwenn dein Schärfebalken im\r\ngelben Bereich oder darunter ist.",
-          "es": "Potencia de ataque +10 %\r\ncuando la barra de afilado\r\nesté en amarillo o peor.",
-          "ru": "+10% к силе атаки, когда ваша\r\nшкала остроты оружия жёлтая\r\nили ниже.",
-          "pl": "+10% siły ataku, gdy twój\r\npasek ostrości jest żółty\r\nlub niższy.",
-          "pt-BR": "+10% de poder de ataque quando\r\na barra de fio estiver amarela ou\r\nabaixo.",
-          "ko": "예리도가 황색 이하일 때\r\n공격력 1.1배",
-          "zh-Hant": "銳利度在黃色或以下時，\r\n攻擊力1.1倍",
-          "zh-Hans": "锋利度黄色或以下时，\r\n攻击力变为1.1倍",
-          "ar": "+10% من قوة الهجوم\r\nعندما يكون مقياس الحدّة\r\nلديك أصفر أو أقل.",
-          "es-419": "Poder de ataque +10 % cuando\r\nla barra de afilado es amarilla\r\no menos."
+          "ja": "斬れ味が黄色以下の時、\r\n与えるダメージ１．１倍",
+          "en": "+10% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+          "fr": "Dégâts +10 % lorsque la\r\njauge de tranchant est\r\ndans le jaune ou moins.",
+          "it": "Danni inflitti: +10%\r\n(Barra acutezza gialla o inferiore.)",
+          "de": "Erhöht verursachten Schaden um\r\n10 %, wenn dein Schärfebalken im\r\ngelben Bereich oder darunter ist.",
+          "es": "Inflige +10 % de daño\r\ncuando la barra de afilado\r\nesté en amarillo o peor.",
+          "ru": "+10% к урону, когда ваша\r\nшкала остроты оружия\r\nжёлтая или ниже.",
+          "pl": "+10% siły zadawania ataku,\r\ngdy twój pasek ostrości\r\njest żółty lub niższy.",
+          "pt-BR": "+10% de dano causado quando\r\na barra de fio estiver amarela ou\r\nabaixo.",
+          "ko": "예리도가 황색 이하일 때\r\n주는 대미지 1.1배",
+          "zh-Hant": "銳利度在黃色或以下時，\r\n傷害1.1倍",
+          "zh-Hans": "锋利度黄色或以下时，\r\n造成的伤害变为1.1倍",
+          "ar": "زيادة قدرها +10% في الضرر\r\nالمُتَسبب عندما يكون مقياس\r\nالحدّة أصفر أو أقل.",
+          "es-419": "Inflige +10 % de daño cuando\r\nla barra de afilado es amarilla\r\no menos."
         }
       },
       {
         "level": 3,
         "descriptions": {
-          "ja": "斬れ味が緑色以下のとき\r\n攻撃力１．１倍",
-          "en": "+10% attack power when\r\nyour sharpness gauge is\r\ngreen or lower.",
-          "fr": "Attaque +10 % lorsque\r\nla jauge de tranchant\r\nest dans le vert ou moins.",
-          "it": "ATT Fisico: +10%\r\n(Barra acutezza verde o inferiore.)",
-          "de": "Erhöht die Angriffskraft um 10 %,\r\nwenn dein Schärfebalken im\r\ngrünen Bereich oder darunter ist.",
-          "es": "Potencia de ataque +10 %\r\ncuando la barra de afilado\r\nesté en verde o peor.",
-          "ru": "+10% к силе атаки, когда ваша\r\nшкала остроты оружия зелёная\r\nили ниже.",
-          "pl": "+10% siły ataku, gdy twój\r\npasek ostrości jest zielony\r\nlub niższy.",
-          "pt-BR": "+10% de poder de ataque quando\r\na barra de fio estiver verde ou\r\nabaixo.",
-          "ko": "예리도가 녹색 이하일 때\r\n공격력 1.1배",
-          "zh-Hant": "銳利度在綠色或以下時，\r\n攻擊力1.1倍",
-          "zh-Hans": "锋利度绿色或以下时，\r\n攻击力变为1.1倍",
-          "ar": "+10% من قوة الهجوم\r\nعندما يكون مقياس الحدّة\r\nأخضر أو أقل.",
-          "es-419": "Poder de ataque +10 % cuando\r\nla barra de afilado es verde\r\no menos."
+          "ja": "斬れ味が緑色以下の時、\r\n与えるダメージ１．１倍",
+          "en": "+10% damage dealt when\r\nyour sharpness gauge is\r\ngreen or lower.",
+          "fr": "Dégâts +10 % lorsque la\r\njauge de tranchant est\r\ndans le vert ou moins.",
+          "it": "Danni inflitti: +10%\r\n(Barra acutezza verde o inferiore.)",
+          "de": "Erhöht verursachten Schaden um\r\n10 %, wenn dein Schärfebalken im\r\ngrünen Bereich oder darunter ist.",
+          "es": "Inflige +10 % de daño\r\ncuando la barra de afilado\r\nesté en verde o peor.",
+          "ru": "+10% к урону, когда ваша\r\nшкала остроты оружия\r\nзелёная или ниже.",
+          "pl": "+10% siły zadawania ataku,\r\ngdy twój pasek ostrości\r\njest zielony lub niższy.",
+          "pt-BR": "+10% de dano causado quando\r\na barra de fio estiver verde ou\r\nabaixo.",
+          "ko": "예리도가 녹색 이하일 때\r\n주는 대미지 1.1배",
+          "zh-Hant": "銳利度在綠色或以下時，\r\n傷害1.1倍",
+          "zh-Hans": "锋利度绿色或以下时，\r\n造成的伤害变为1.1倍",
+          "ar": "زيادة قدرها +10% في الضرر\r\nالمُتَسبب عندما يكون مقياس\r\nالحدّة أخضر أو أقل.",
+          "es-419": "Inflige +10 % de daño cuando\r\nla barra de afilado es verde\r\no menos."
         }
       }
     ],
@@ -8596,7 +8714,7 @@
           "de": "Aktiviert den Fähigkeit-Effekt. (Kein\r\nStapeln bei Nutzung mit Versenger,\r\nerhöht aber den Feuerschaden.)",
           "es": "Activa el efecto de la habilidad. (No\r\nacumulable si se usa con abrasador,\r\npero añade daño de fuego adicional).",
           "ru": "Задействует эффект навыка.\r\n(Не суммируется с «Выжиганием»,\r\nно увеличивает урон огнём.)",
-          "pl": "Aktywuje efekt umiejętności. (Przy użyciu nie kumuluje się\r\nz podpalaczem,\r\nale zadaje dodatkowe obrażenia od ognia.)",
+          "pl": "Aktywuje efekt umiejętności. (W użyciu\r\nnie kumuluje się z przypalaczem, ale\r\nzadaje dodatkowe obrażenia od ognia.)",
           "pt-BR": "Ativa o efeito da habilidade. (Não é\r\ncumulativa com Tostador, mas\r\nadiciona dano de fogo extra.)",
           "ko": "스킬 효과 발동(작열화와 병용 시\r\n작열화 효과는 발동하지 않으나\r\n불속성 대미지가 추가됨)",
           "zh-Hant": "發動技能效果（與炎熱化並用時，將不會\r\n發動炎熱化效果，但將造成額外火屬性\r\n傷害）",
@@ -8738,7 +8856,7 @@
           "ko": "추가로 특산품 채취 포인트의\r\n취득 수+1",
           "zh-Hant": "骸骨、特產品採集點的取得數+1",
           "zh-Hans": "追加特产采集点的取得数+1",
-          "ar": "تضيف أيضًا عنصر إضافيًا واحد\r\nعند تجميع عناصر مميزة",
+          "ar": "تضيف أيضًا عنصرًا إضافيًا واحدًا\r\nعند تجميع عناصر مميزة.",
           "es-419": "Añade un objeto extra al\r\nrecolectar objetos especiales."
         }
       },
@@ -8757,7 +8875,7 @@
           "ko": "추가로 광석 채굴 포인트의\r\n취득 수+1",
           "zh-Hant": "骸骨、特產品、礦石採掘點的取得數+1",
           "zh-Hans": "追加矿石采掘点的取得数+1",
-          "ar": "تضيف أيضًا عنصر إضافيًا واحد\r\nعند التجميع من نتوءات التعدين.",
+          "ar": "تضيف أيضًا عنصرًا إضافيًا واحدًا\r\nعند التجميع من نتوءات التعدين.",
           "es-419": "Añade un objeto extra al\r\nrecolectar en afloramientos\r\nmineros."
         }
       }
@@ -9145,7 +9263,7 @@
           "ko": "회피 거리가 크게 연장",
           "zh-Hant": "大幅延長迴避距離",
           "zh-Hans": "大幅延长回避距离",
-          "ar": "توسّع مسافة التفادي\r\nبدرجة كبيرة.",
+          "ar": "توسّع مسافة التفادي\r\nبمقدار كبير.",
           "es-419": "Aumenta mucho la distancia\r\na la que evades."
         }
       }
@@ -9339,7 +9457,7 @@
           "ko": "강화 시간을 크게 연장",
           "zh-Hant": "大幅延長強化時間",
           "zh-Hans": "大幅延长强化时间",
-          "ar": "تعزز مدة تشغيل\r\nالأسلحة بدرجة كبيرة.",
+          "ar": "تعزز مدة تشغيل\r\nالأسلحة بمقدار كبير.",
           "es-419": "Aumenta mucho la duración\r\nde las bonificaciones de las\r\narmas."
         }
       }
@@ -10071,7 +10189,7 @@
           "ko": "추가로 열매, 씨앗 계열\r\n소비 아이템의 취득 수+1",
           "zh-Hant": "草系、果實、種子系消耗道具的取得數+1",
           "zh-Hans": "追加果实、种子系消耗道具的取得数+1",
-          "ar": "تضيف أيضًا عنصر إضافيًا واحد\r\nقابل للاستهلاك من فاكهة أو جوز\r\nأو بذرة لكل مجموعة.",
+          "ar": "تضيف أيضًا عنصرًا إضافيًا واحدًا\r\nقابل للاستهلاك من فاكهة أو جوز\r\nأو بذرة لكل مجموعة.",
           "es-419": "Cada vez que extraes frutas,\r\nnueces o semillas consigues\r\nuna extra adicional."
         }
       },
@@ -10090,7 +10208,7 @@
           "ko": "추가로 곤충 소비 아이템의\r\n취득 수+1",
           "zh-Hant": "草系、果實、種子系、蟲系消耗道具的\r\n取得數+1",
           "zh-Hans": "追加虫系消耗道具的取得数+1",
-          "ar": "تضيف أيضًا عنصر إضافيًا واحد\r\nمن حشرة قابل للاستهلاك\r\nلكل مجموعة.",
+          "ar": "تضيف أيضًا عنصرًا إضافيًا واحدًا\r\nقابل للاستهلاك من حشرة\r\nلكل مجموعة.",
           "es-419": "Cada vez que extraes insectos\r\nconsigues uno extra adicional."
         }
       },
@@ -10109,7 +10227,7 @@
           "ko": "추가로 버섯 소비 아이템의\r\n취득 수+1",
           "zh-Hant": "草系、果實、種子系、蟲系、菇系\r\n消耗道具的取得數+1",
           "zh-Hans": "追加菇系消耗道具的取得数+1",
-          "ar": "تضيف أيضًا عنصر إضافيًا واحد\r\nمن فطر قابل للاستهلاك\r\nلكل مجموعة.",
+          "ar": "تضيف أيضًا عنصرًا إضافيًا واحدًا\r\nقابل للاستهلاك من فطر\r\nلكل مجموعة.",
           "es-419": "Cada vez que extraes hongos\r\nconsigues uno extra adicional."
         }
       }
@@ -10337,7 +10455,7 @@
           "ja": "「連撃」スキルの効果発動時、\r\n有効時間を延長し、基礎攻撃力＋３",
           "en": "Extends the duration of the Burst\r\nskill and grants attack +3 while\r\nBurst is active.",
           "fr": "Augmente la durée du talent\r\nVendetta et confère Attaque +3\r\nquand Vendetta est actif. ",
-          "it": "Aumenta la durata dell'abilità\r\nScoppio e aumenta di +3\r\nl'attacco finché l'abilità è attiva.",
+          "it": "Aumenta la durata dell'abilità\r\nCatena e aumenta di +3\r\nl'attacco finché l'abilità è attiva.",
           "de": "Verlängert die Dauer der Salve-\r\nFähigkeit; und Angriff +3, wenn\r\nSalve aktiv ist.",
           "es": "Prolonga la duración de la habilidad\r\n\"ráfaga\" y da ataque +3 mientras\r\n\"ráfaga\" esté activa.",
           "ru": "Продлевает действие навыка «Шквал»\r\nи даёт +3 к атаке, пока он действует.",
@@ -10353,7 +10471,7 @@
           "ja": "連撃強化Ⅰ",
           "en": "Burst Boost I",
           "fr": "Bonus Vendetta I",
-          "it": "Bonus scoppio I",
+          "it": "Bonus catena I",
           "de": "Salve-Bonus I",
           "es": "Ráfaga potenciada I",
           "ru": "Усиление шквала I",
@@ -10372,7 +10490,7 @@
           "ja": "「連撃」スキルの効果発動時、\r\n有効時間をさらに延長し、\r\n基礎攻撃力＋１０",
           "en": "Further extends the duration of\r\nthe Burst skill and grants attack +10\r\nwhile Burst is active.",
           "fr": "Augmente encore la durée du talent\r\nVendetta et confère Attaque +10\r\nquand Vendetta est actif.",
-          "it": "Aumenta la durata dell'abilità\r\nScoppio e aumenta di +10\r\nl'attacco finché l'abilità è attiva.",
+          "it": "Aumenta la durata dell'abilità\r\nCatena e aumenta di +10\r\nl'attacco finché l'abilità è attiva.",
           "de": "Verlängert die Dauer der Salve-\r\nFähigkeit in hohem Maße; und\r\nAngriff +10, wenn Salve aktiv ist.",
           "es": "Prolonga más la duración de la\r\nhabilidad \"ráfaga\" y da ataque +10\r\nmientras \"ráfaga\" esté activa.",
           "ru": "Продлевает действие навыка «Шквал»\r\nещё сильнее и даёт +10 к атаке, пока\r\nон действует.",
@@ -10388,7 +10506,7 @@
           "ja": "連撃強化Ⅱ",
           "en": "Burst Boost II",
           "fr": "Bonus Vendetta II",
-          "it": "Bonus scoppio II",
+          "it": "Bonus catena II",
           "de": "Salve-Bonus II",
           "es": "Ráfaga potenciada II",
           "ru": "Усиление шквала II",
@@ -11812,7 +11930,7 @@
           "ko": "부위에 대한 축적 대미지와\r\n조건을 만족했을 때의\r\n대미지 1.1배",
           "zh-Hant": "部位破壞的積蓄值與滿足條件時\r\n造成的傷害1.1倍",
           "zh-Hans": "部位破坏的积蓄值与满足条件时\r\n造成的伤害变为1.1倍",
-          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nلحقت بالجروح عند تدميرها بواسطة\r\n\"الضربة المركزة\" بنسبة %10.",
+          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nتستوفي الشروط بنسبة %10.",
           "es-419": "Aumenta el daño en partes y el\r\ndaño infligido cuando se cumplan\r\nlas condiciones en un 10 %."
         }
       },
@@ -11831,7 +11949,7 @@
           "ko": "부위에 대한 축적 대미지와\r\n조건을 만족했을 때의\r\n대미지 1.2배",
           "zh-Hant": "部位破壞的積蓄值與滿足條件時\r\n造成的傷害1.2倍",
           "zh-Hans": "部位破坏的积蓄值与满足条件时\r\n造成的伤害变为1.2倍",
-          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nلحقت بالجروح عند تدميرها بواسطة\r\n\"الضربة المركزة\" بنسبة %20.",
+          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nتستوفي الشروط بنسبة %20.",
           "es-419": "Aumenta el daño en partes y el\r\ndaño infligido cuando se cumplan\r\nlas condiciones en un 20 %."
         }
       },
@@ -11850,7 +11968,7 @@
           "ko": "부위에 대한 축적 대미지와\r\n조건을 만족했을 때의\r\n대미지 1.3배",
           "zh-Hant": "部位破壞的積蓄值與滿足條件時\r\n造成的傷害1.3倍",
           "zh-Hans": "部位破坏的积蓄值与满足条件时\r\n造成的伤害变为1.3倍",
-          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nلحقت بالجروح عند تدميرها بواسطة\r\n\"الضربة المركزة\" بنسبة %30.",
+          "ar": "تزيد ضرر الأجزاء والأضرار التي\r\nتستوفي الشروط بنسبة %30.",
           "es-419": "Aumenta el daño en partes y el\r\ndaño infligido cuando se cumplan\r\nlas condiciones en un 30 %."
         }
       }
@@ -12484,7 +12602,7 @@
       "ja": "ボウガンに装填された弾、または弓に\r\n装填されたビンの４発目以降の会心率、\r\n４発目と６発目の攻撃力が上昇する。",
       "en": "Increases affinity of bowgun ammo/\r\ncoatings from the fourth shot and\r\nattack of the fourth and sixth shots.",
       "fr": "Augmente l'affinité des munitions\r\n(fusarbalète) et fioles (arc) dès le 4e\r\ntir et l'attaque pour les 4e et 6e tirs.",
-      "it": "Aumenta l'affinità di munizioni e\r\nrivestimento balestra dal quarto\r\ncolpo e l'attacco del quarto e sesto\r\ncolpo.",
+      "it": "Aumenta l'affinità di munizioni\r\ne rivestimenti dal quarto colpo\r\ne l'attacco del quarto e sesto colpo.",
       "de": "Erhöht Affinität von Bogengewehr-\r\nmuni/Pfeilbeschichtungen ab 4. Schuss\r\nsowie Angriff des 4. und 6. Schusses.",
       "es": "Aumenta la afinidad de munición y\r\nviales de ballesta desde el cuarto disparo,\r\ny el ataque de los disparos cuarto y sexto.",
       "ru": "Повышает мастерство для снарядов/\r\nпокрытий лукорудия с 4-го выстрела\r\nи атаку 4-го и 6-го выстрелов.",
@@ -12727,7 +12845,7 @@
           "ko": "보우건 장전 속도와 조건을 만족한\r\n탄의 위력이 조금 상승한다.",
           "zh-Hant": "小幅提升弩槍的裝填速度與\r\n滿足條件的彈藥威力",
           "zh-Hans": "小幅提升弩炮的装填速度\r\n及满足条件的弹药威力",
-          "ar": "تزيد بشكل معتدل من سرعة إعادة تلقيم\r\nبندقية القوس والقوة الهجومية للزخيرة\r\nعند استيفاء شروط معينة.",
+          "ar": "تزيد بشكل معتدل من سرعة إعادة تلقيم\r\nبندقية القوس والقوة الهجومية للذخيرة\r\nعند استيفاء شروط معينة.",
           "es-419": "Aumenta moderadamente la velocidad de\r\nrecarga de la ballesta y el ataque de\r\nmunición bajo ciertas condiciones."
         }
       },
@@ -12746,7 +12864,7 @@
           "ko": "보우건 장전 속도와 조건을 만족한\r\n탄의 위력이 상승한다.",
           "zh-Hant": "提升弩槍的裝填速度與\r\n滿足條件的彈藥威力",
           "zh-Hans": "提升弩炮的装填速度\r\n及满足条件的弹药威力",
-          "ar": "تزيد من سرعة إعادة تلقيم بندقية\r\nالقوس والقوة الهجومية للزخيرة\r\nعند استيفاء شروط معينة.",
+          "ar": "تزيد من سرعة إعادة تلقيم بندقية\r\nالقوس والقوة الهجومية للذخيرة\r\nعند استيفاء شروط معينة.",
           "es-419": "Aumenta la velocidad de recarga de\r\nla ballesta y el ataque de\r\nmunición bajo ciertas condiciones."
         }
       },
@@ -12765,7 +12883,7 @@
           "ko": "보우건 장전 속도와 조건을 만족한\r\n탄의 위력이 크게 상승한다.",
           "zh-Hant": "大幅提升弩槍的裝填速度與\r\n滿足條件的彈藥威力",
           "zh-Hans": "大幅提升弩炮的装填速度\r\n及满足条件的弹药威力",
-          "ar": "تزيد بشكل كبير من سرعة إعادة تلقيم\r\nبندقية القوس والقوة الهجومية للزخيرة\r\nعند استيفاء شروط معينة.",
+          "ar": "تزيد بشكل كبير من سرعة إعادة تلقيم\r\nبندقية القوس والقوة الهجومية للذخيرة\r\nعند استيفاء شروط معينة.",
           "es-419": "Aumenta mucho la velocidad de recarga\r\nde la ballesta y el poder de ataque de\r\nmunición cuando se dan las condiciones."
         }
       }
@@ -13617,9 +13735,9 @@
           "de": "Verursacht etwas zusätzlichen\r\nSchaden, wenn die Groll-Fähigkeit\r\naktiv ist.",
           "es": "Inflige bastante daño adicional\r\nmientras esté activa la habilidad\r\n\"resentimiento\".",
           "ru": "Вы наносите умеренный дополнительный\r\nурон, когда действует навык «Негодование».",
-          "pl": "Zadaje nieznaczne dodatkowe obrażenia,\r\ngdy umiejętność Uraza jest aktywna.",
+          "pl": "Zadaje nieznaczne dodatkowe\r\nobrażenia, gdy umiejętność\r\nUraza jest aktywna.",
           "pt-BR": "Causa um pouco de dano adicional\r\nenquanto a habilidade Indignação\r\nestá ativa.",
-          "ko": "'원망' 스킬 발동 중에\r\n추가로 대미지를 조금 준다",
+          "ko": "'앙심' 스킬 발동 중에\r\n추가로 대미지를 조금 준다",
           "zh-Hant": "技能「怨恨」發動時，造成少量\r\n額外傷害。",
           "zh-Hans": "“怨恨”技能发动时，造成少量额外伤害",
           "ar": "تلحق ضررًا إضافيًا معتدلًا\r\nأثناء تنشيط مهارة الاستياء.",
@@ -13654,7 +13772,7 @@
           "ru": "Вы наносите дополнительный урон,\r\nкогда действует навык «Негодование».",
           "pl": "Zadaje dodatkowe obrażenia,\r\ngdy umiejętność Uraza jest aktywna.",
           "pt-BR": "Causa dano adicional quando a habilidade\r\nIndignação está ativa.",
-          "ko": "'원망' 스킬 발동 중에\r\n추가로 대미지를 준다",
+          "ko": "'앙심' 스킬 발동 중에\r\n추가로 대미지를 준다",
           "zh-Hant": "技能「怨恨」發動時，造成額外傷害。",
           "zh-Hans": "“怨恨”技能发动时，造成额外伤害",
           "ar": "تلحق ضررًا إضافيًا\r\nأثناء تنشيط مهارة الاستياء.",
@@ -13921,9 +14039,9 @@
           "de": "Erhöht zusätzlichen Drachenschaden\r\nweiter und erhöht Drachenangriff\r\ndeutlich.",
           "es": "Aumenta más el daño de draco adicional\r\ny potencia mucho el ataque de draco.",
           "ru": "Сильнее увеличивает дополнительный\r\nдраконий урон и сильно увеличивает\r\nсилу драконьих атак.",
-          "pl": "Jeszcze bardziej zwiększa dodatkowe\r\nobrażenia smoków i znacząco\r\nzwiększa smoczy atak",
+          "pl": "Dalej zwiększa dodatkowe\r\nobrażenia smoków i znacząco\r\nzwiększa smoczy atak.",
           "pt-BR": "Aumenta ainda mais o dano adicional\r\nde dragão e aumenta muito o ataque\r\nde elemento dragão.",
-          "ko": "효과 발동 시, 용속성 대미지가\r\n추가로 상승한다.\r\n용속성 공격치가 크게 상승한다",
+          "ko": "추가로 발생하는 용속성 대미지가\r\n더욱 상승한다. 용속성 공격치가\r\n크게 상승한다.",
           "zh-Hant": "效果發動時，大幅提升龍屬性攻擊值，\r\n並於累積屬性傷害後造成更多額外龍屬性\r\n傷害",
           "zh-Hans": "效果发动时，进一步提升龙属性攻击值，\r\n累积属性伤害后，追加造成更多龙属性\r\n伤害",
           "ar": "أثناء التنشيط، تزيد هجوم التنين كثيرًا.\r\nكما تلحق المزيد من ضرر التنين الإضافي\r\nبنسبة كبيرة",

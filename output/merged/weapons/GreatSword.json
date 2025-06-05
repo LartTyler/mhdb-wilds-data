@@ -1646,7 +1646,7 @@
       "de": "Ein modifiziertes eisernes Groß-\r\nschwert; perfekt für Anfänger\r\ngeeignet. Es wird gemeinhin für\r\nseine Handhabung bewundert.",
       "es": "Gran espada de hierro modificada,\r\nperfecta para novatos y muy\r\nadmirada por su fácil manejo.",
       "ru": "Улучшенный железный двуручный\r\nмеч удобен в обращении и хорошо\r\nподходит для начинающих.",
-      "pl": "Żelazny miecz\r\ndwuręczny idealny\r\ndla początkujących. Ceniony\r\nza łatwość we władaniu.",
+      "pl": "Żelazny miecz dwuręczny\r\nidealny dla początkujących.\r\nCeniony za łatwość we władaniu.",
       "pt-BR": "Espadão de ferro modificado,\r\nperfeito para iniciantes e\r\namplamente admirado por\r\nseu manuseio.",
       "ko": "초보자용으로 다루기 쉽게\r\n개량한 대검. 다루기 쉬워\r\n애호가가 많다.",
       "zh-Hant": "為了讓初學者容易駕馭而經過改良\r\n的鐵製大劍。容易使用，有許多\r\n愛用者。",
@@ -1720,7 +1720,7 @@
       "de": "Ein modifiziertes eisernes Groß-\r\nschwert; perfekt für Anfänger\r\ngeeignet. Es wird gemeinhin für\r\nseine Handhabung bewundert.",
       "es": "Gran espada de hierro modificada,\r\nperfecta para novatos y muy\r\nadmirada por su fácil manejo.",
       "ru": "Улучшенный железный двуручный\r\nмеч удобен в обращении и хорошо\r\nподходит для начинающих.",
-      "pl": "Żelazny miecz\r\ndwuręczny idealny\r\ndla początkujących. Ceniony\r\nza łatwość we władaniu.",
+      "pl": "Żelazny miecz dwuręczny\r\nidealny dla początkujących.\r\nCeniony za łatwość we władaniu.",
       "pt-BR": "Espadão de ferro modificado,\r\nperfeito para iniciantes e\r\namplamente admirado por\r\nseu manuseio.",
       "ko": "초보자용으로 다루기 쉽게\r\n개량한 대검. 다루기 쉬워\r\n애호가가 많다.",
       "zh-Hant": "為了讓初學者容易駕馭而經過改良\r\n的鐵製大劍。容易使用，有許多\r\n愛用者。",
@@ -3511,7 +3511,7 @@
       "ko": "적에게 불길한 기운을 주는\r\n누 폴뤼프의 강화형. 연옥에\r\n군림하는 자에게 생살여탈의\r\n권한을 준다.",
       "zh-Hant": "強化版獄焰大劍。會給予君臨煉獄者\r\n生殺予奪之權，使對峙者感到災厄\r\n降臨。",
       "zh-Hans": "狱焰蛸之剑的强化形态。宛若执掌\r\n了生杀予夺之权的炼狱君主，令对\r\n手不由怀疑自己是否遭遇了恶魔。",
-      "ar": "(كريك نو) مطوَّر. <LSNR \"خذه وانزل\" \"خذيه وانزلي\">\r\nإلى الجحيم و<LSNR \"تمتع\" \"تمتعي\"> بسيطرة كاملة\r\nعلى الحياة والموت. ",
+      "ar": "(كريك نو) مطوَّر. خذه وانزل\r\nإلى الجحيم وتمتع بسيطرة كاملة\r\nعلى الحياة والموت. ",
       "es-419": "Nu Krake mejorado. Tómalo y\r\ndesciende ya al infierno a\r\nreclamar el poder absoluto\r\nsobre la vida y la muerte."
     },
     "rarity": 8,
@@ -3595,7 +3595,7 @@
       "ko": "입에 담기도 꺼려지는 악한 왕이\r\n사용했다는 도끼. 수천 겹의\r\n독을 발라 칼날 심지까지\r\n물들었다.",
       "zh-Hant": "據說是殘虐之王曾使用過的斧頭，\r\n人民忌諱提起他的名字。數千劇\r\n毒深深滲進了斧刃之中。",
       "zh-Hans": "据说是残虐之王曾使用过的斧头，\r\n人民忌讳提起他的名字。数千种剧\r\n毒已经深深浸染它的锋刃。",
-      "ar": "السيف العظيم مشبع بألف سم.\r\nمجرد وصف كيفية استخدام\r\nالملوك المستبدين لها سيكون أقرب إلى الوحشية.",
+      "ar": "سيف عظيم مشبع بألف سم.\r\nمجرد وصف كيفية استخدام\r\nالملوك المستبدين له سيكون\r\nأقرب إلى الوحشية.",
       "es-419": "Una gran espada con forma de\r\nhacha impregnada de mil venenos.\r\nDescribir cómo un rey tirano la\r\nusó sería un acto de brutalidad."
     },
     "rarity": 5,
@@ -3680,7 +3680,7 @@
       "ko": "입에 담기도 꺼려지는 악한 왕이\r\n사용했다는 도끼. 수천 겹의\r\n독을 발라 칼날 심지까지\r\n물들었다.",
       "zh-Hant": "據說是殘虐之王曾使用過的斧頭，\r\n人民忌諱提起他的名字。數千劇\r\n毒深深滲進了斧刃之中。",
       "zh-Hans": "据说是残虐之王曾使用过的斧头，\r\n人民忌讳提起他的名字。数千种剧\r\n毒已经深深浸染它的锋刃。",
-      "ar": "السيف العظيم مشبع بألف سم.\r\nمجرد وصف كيفية استخدام\r\nالملوك المستبدين لها سيكون أقرب إلى الوحشية.",
+      "ar": "سيف عظيم مشبع بألف سم.\r\nمجرد وصف كيفية استخدام\r\nالملوك المستبدين له سيكون\r\nأقرب إلى الوحشية.",
       "es-419": "Una gran espada con forma de\r\nhacha impregnada de mil venenos.\r\nDescribir cómo un rey tirano la\r\nusó sería un acto de brutalidad."
     },
     "rarity": 6,
@@ -5765,7 +5765,7 @@
       "ko": "현지 조사를 바탕으로 개량한\r\n호프블레이드. 전력을 다한\r\n일격이 희망에 이르는\r\n길을 개척한다.",
       "zh-Hant": "經實地調查後改良而成的希望大劍。\r\n全力一擊能開闢通往希望的道路。",
       "zh-Hans": "通过实地调查而改良的希望大剑。\r\n其全力之一击，将开辟通往希望之\r\n路。",
-      "ar": "نصل الأمل مُختبر بالكامل في الساحة.\r\nبضربة قوية واحدة، <LSNR \"شق طريقكَ\" \"شقي طريقكِ\">\r\nنحو مستقبل أفضل.",
+      "ar": "نصل الأمل مُختبر بالكامل في الساحة.\r\nبضربة قوية واحدة، شق طريقكَ\r\nنحو مستقبل أفضل.",
       "es-419": "Una hoja de esperanza probada\r\nen el campo. Con un solo y\r\npotente revés, ábrete camino a\r\nun futuro brillante."
     },
     "rarity": 8,

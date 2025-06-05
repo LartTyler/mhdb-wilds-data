@@ -3,7 +3,7 @@ use crate::processor::weapons::{
     HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, WeaponKindCode,
 };
 use crate::processor::{values_until_first_zero, Processor};
-use serde::{Deserialize, Serialize};
+use serde::{Deserialize, Serialize, Serializer};
 use serde_repr::Deserialize_repr;
 
 pub(super) fn definition() -> ProcessorDefinition {
@@ -76,4 +76,23 @@ impl KinsectLevel {
             Self::LV10 => 10,
         }
     }
+}
+
+#[derive(Debug, Deserialize_repr, Serialize)]
+#[serde(rename_all = "kebab-case")]
+#[repr(u8)]
+pub enum KinsectEssenceKind {
+    #[serde(serialize_with = "serialize_as_null")]
+    None = 0,
+    Red = 1,
+    Orange = 2,
+    White = 3,
+    Green = 4,
+}
+
+fn serialize_as_null<S>(serializer: S) -> Result<S::Ok, S::Error>
+where
+    S: Serializer,
+{
+    serializer.serialize_none()
 }

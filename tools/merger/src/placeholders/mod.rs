@@ -21,7 +21,7 @@ impl Placeholder {
             let placeholder = match item.kind() {
                 "REF" => Self::Reference(Reference::new(item.value)),
                 "LSNR" => Self::Listener(Listener::new(item.value)),
-                "BOLD" | "/BOLD" => Self::Remove(item.value),
+                "BOLD" | "/BOLD" | "COLOR" | "/COLOR" => Self::Remove(item.value),
                 v => panic!("Unrecognized placeholder name '{v}'"),
             };
 

@@ -149,6 +149,54 @@
     ]
   },
   {
+    "game_id": -2057181952,
+    "ranks": [
+      {
+        "names": {
+          "ja": "にぎりめしの護石",
+          "en": "Rice Ball Charm",
+          "fr": "Talisman onigiri",
+          "it": "Amuleto onigiri",
+          "de": "Onigiri-Talisman",
+          "es": "Talismán de onigiri",
+          "ru": "Оберег рисового шарика",
+          "pl": "Amulet onigiri",
+          "pt-BR": "Amuleto do Oniguiri",
+          "ko": "주먹밥의 호석",
+          "zh-Hant": "飯糰護石",
+          "zh-Hans": "饭团护石",
+          "ar": "تميمة أونيغيري",
+          "es-419": "Amuleto de onigiri"
+        },
+        "descriptions": {
+          "ja": "装備することでにぎりめしスキルが\r\n発動するお守り。\r\n（闘技大会クエスト専用）",
+          "en": "A charm that grants the\r\nRice Ball skill.\r\n(Arena Quests only.)",
+          "fr": "Un talisman qui confère\r\nle talent Onigiri.\r\n(Quêtes Arène uniquement.)",
+          "it": "Un amuleto che conferisce\r\nl'abilità Onigiri.\r\n(Solo missioni arena.)",
+          "de": "Dieses Amulett gewährt die\r\nOnigiri-Fähigkeit.\r\n(Nur Arenaquests.)",
+          "es": "Talismán que otorga la habilidad\r\n\"onigiri\".\r\n(Solo en misiones de la Arena).",
+          "ru": "Оберег, дарующий навык\r\n«Рисовый шарик».\r\n(Только для поручений на арене.)",
+          "pl": "Amulet, który zapewnia\r\numiejętność Onigiri.\r\n(Tylko w zadaniach na Arenie).",
+          "pt-BR": "Amuleto que concede a habilidade\r\nOniguiri.\r\n(Apenas em Missões de Arena.)",
+          "ko": "장비하면 주먹밥 스킬이\r\n발동하는 부적.\r\n(격투대회 퀘스트 전용)",
+          "zh-Hant": "發動飯糰技能的護身符。\r\n（鬥技大會任務專用）",
+          "zh-Hans": "发动饭团技能的护身符。\r\n（斗技大会任务专用）",
+          "ar": "تميمة تمنح مهارة \"أونيغيري\".\r\n(متاحة فقط في مهام الحلبة.)",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Onigiri.\r\n(Solo en misiones de la Arena)."
+        },
+        "rarity": 6,
+        "level": 1,
+        "price": 0,
+        "skills": {
+          "10503": 1
+        },
+        "recipe": {
+          "inputs": {}
+        }
+      }
+    ]
+  },
+  {
     "game_id": -1899364096,
     "ranks": [
       {
@@ -1764,7 +1812,7 @@
           "de": "Dieses Amulett gewährt die\r\nExplosionswiderstand-Fähigkeit.",
           "es": "Amuleto que otorga la habilidad\r\n\"antinitro\".",
           "ru": "Оберег, дарующий навык\r\n«Сопротивление взрыву».",
-          "pl": "Amulet, który zapewnia\r\numiejętność Odporność na wybuch.",
+          "pl": "Amulet, który daje umiejętność:\r\nodporność na wybuch.",
           "pt-BR": "Amuleto que concede a habilidade\r\nAntiexplosão.",
           "ko": "장비하면 폭파 피해 내성\r\n스킬이 발동하는 부적.",
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
@@ -1811,7 +1859,7 @@
           "de": "Dieses Amulett gewährt die\r\nExplosionswiderstand-Fähigkeit.",
           "es": "Amuleto que otorga la habilidad\r\n\"antinitro\".",
           "ru": "Оберег, дарующий навык\r\n«Сопротивление взрыву».",
-          "pl": "Amulet, który zapewnia\r\numiejętność Odporność na wybuch.",
+          "pl": "Amulet, który daje umiejętność:\r\nodporność na wybuch.",
           "pt-BR": "Amuleto que concede a habilidade\r\nAntiexplosão.",
           "ko": "장비하면 폭파 피해 내성\r\n스킬이 발동하는 부적.",
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
@@ -1859,7 +1907,7 @@
           "de": "Dieses Amulett gewährt die\r\nExplosionswiderstand-Fähigkeit.",
           "es": "Amuleto que otorga la habilidad\r\n\"antinitro\".",
           "ru": "Оберег, дарующий навык\r\n«Сопротивление взрыву».",
-          "pl": "Amulet, który zapewnia\r\numiejętność Odporność na wybuch.",
+          "pl": "Amulet, który daje umiejętność:\r\nodporność na wybuch.",
           "pt-BR": "Amuleto que concede a habilidade\r\nAntiexplosão.",
           "ko": "장비하면 폭파 피해 내성\r\n스킬이 발동하는 부적.",
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
@@ -1906,7 +1954,7 @@
         },
         "descriptions": {
           "ja": "装備することで渾身スキルが\r\n発動するお守り。",
-          "en": "A charm that grants the Maximum\r\nMight skill.",
+          "en": "A charm that grants the\r\nMaximum Might skill.",
           "fr": "Un talisman qui confère\r\nle talent Corps et âme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Massima potenza.",
           "de": "Dieses Amulett gewährt die\r\nHöchstmacht-Fähigkeit.",
@@ -1954,7 +2002,7 @@
         },
         "descriptions": {
           "ja": "装備することで渾身スキルが\r\n発動するお守り。",
-          "en": "A charm that grants the Maximum\r\nMight skill.",
+          "en": "A charm that grants the\r\nMaximum Might skill.",
           "fr": "Un talisman qui confère\r\nle talent Corps et âme.",
           "it": "Un amuleto che potenzia\r\nl'abilità Massima potenza.",
           "de": "Dieses Amulett gewährt die\r\nHöchstmacht-Fähigkeit.",
@@ -1980,6 +2028,54 @@
             "452": 1,
             "660": 3,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "渾身の護石Ⅲ",
+          "en": "Mighty Charm III",
+          "fr": "Talisman de ténacité III",
+          "it": "Amuleto possente III",
+          "de": "Macht-Talisman III",
+          "es": "Amuleto potente III",
+          "ru": "Оберег могущества III",
+          "pl": "Amulet mocarności III",
+          "pt-BR": "Amuleto Potente III",
+          "ko": "혼신의 호석Ⅲ",
+          "zh-Hant": "渾身護石Ⅲ",
+          "zh-Hans": "浑身护石Ⅲ",
+          "ar": "تميمة الهائل 3",
+          "es-419": "Amuleto potente III"
+        },
+        "descriptions": {
+          "ja": "装備することで渾身スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nMaximum Might skill.",
+          "fr": "Un talisman qui confère\r\nle talent Corps et âme.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Massima potenza.",
+          "de": "Dieses Amulett gewährt die\r\nHöchstmacht-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"poder máximo\".",
+          "ru": "Оберег, дарующий навык\r\n«Максимальная мощь».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Maksymalna moc.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nPoder Máximo.",
+          "ko": "장비하면 혼신 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動精神抖擻技能的護身符。",
+          "zh-Hans": "发动精神抖擞技能的护身符。",
+          "ar": "تميمة تمنح مهارة القوة القصوى.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Poder máximo."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "632127488": 3
+        },
+        "recipe": {
+          "inputs": {
+            "334": 1,
+            "371": 5,
+            "568": 1,
+            "781": 3
           }
         }
       }
@@ -5566,7 +5662,7 @@
           "it": "Amuleto frusta I",
           "de": "KettenklingTalismanI",
           "es": "Amuleto desollador I",
-          "ru": "Оберег цепного клинка 1",
+          "ru": "Оберег цепного клинка I",
           "pl": "Am. ostrza łańcuch. I",
           "pt-BR": "Amuleto Correlâmina I",
           "ko": "쇄인의 호석Ⅰ",
