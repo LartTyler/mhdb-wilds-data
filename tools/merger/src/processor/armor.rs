@@ -176,6 +176,7 @@ pub struct Set {
     pub pieces: Vec<Armor>,
     #[serde(skip)]
     price: usize,
+    model_id: usize,
 }
 
 impl From<&SeriesData> for Set {
@@ -188,6 +189,7 @@ impl From<&SeriesData> for Set {
             names: LanguageMap::new(),
             pieces: Vec::new(),
             price: value.price,
+            model_id: value.model_id,
         }
     }
 }
@@ -287,6 +289,8 @@ struct SeriesData {
     price: usize,
     #[serde(rename = "_Name")]
     name_guid: String,
+    #[serde(rename = "_ModId")]
+    model_id: usize,
 }
 
 #[derive(Debug, Deserialize)]
