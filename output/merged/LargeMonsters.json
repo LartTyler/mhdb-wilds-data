@@ -581,22 +581,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -613,22 +597,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -645,22 +613,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -677,22 +629,6 @@
       },
       {
         "part": "right-wing-arm-wear",
-        "names": {
-          "ja": "右翼腕（白纏晶）",
-          "en": "R Wingarm (Crystalized)",
-          "fr": "Patte ailée D (cristallisée)",
-          "it": "Z. alata dx (cristall.)",
-          "de": "Flügelarm (Krist, R)",
-          "es": "Brazo ala dcho. (vítreo)",
-          "ru": "П. лапа с кр. (крист.)",
-          "pl": "Prawe ramię skrzyd. (skrystalizowane)",
-          "pt-BR": "B. da Asa Dir. (Cris.)",
-          "ko": "오른쪽 날갯죽지(백전정)",
-          "zh-Hant": "右翼臂（白纏晶）",
-          "zh-Hans": "右翼臂（白缠晶）",
-          "ar": "جناح أيمن (بلوري)",
-          "es-419": "Brazo ala der. (crist.)"
-        },
         "base_health": 28,
         "kinsect_essence": "white",
         "multipliers": {
@@ -709,22 +645,6 @@
       },
       {
         "part": "left-wing-arm-wear",
-        "names": {
-          "ja": "左翼腕（白纏晶）",
-          "en": "L Wingarm (Crystalized)",
-          "fr": "Patte ailée G (cristallisée)",
-          "it": "Z. alata sx (cristall.)",
-          "de": "Flügelarm (Krist, L)",
-          "es": "Brazo ala izq. (vítreo)",
-          "ru": "Л. лапа с кр. (крист.)",
-          "pl": "Lewe ramię skrzyd. (skrystalizowane)",
-          "pt-BR": "B. da Asa Esq. (Cris.)",
-          "ko": "왼쪽 날갯죽지(백전정)",
-          "zh-Hant": "左翼臂（白纏晶）",
-          "zh-Hans": "左翼臂（白缠晶）",
-          "ar": "جناح أيسر (بلوري)",
-          "es-419": "Brazo ala izq. (crist.)"
-        },
         "base_health": 28,
         "kinsect_essence": "white",
         "multipliers": {
@@ -741,22 +661,6 @@
       },
       {
         "part": "head-wear",
-        "names": {
-          "ja": "頭（白纏晶）",
-          "en": "Head (Crystalized)",
-          "fr": "Tête (cristallisée)",
-          "it": "Testa (cristall.)",
-          "de": "Kopf (Kristall)",
-          "es": "Cabeza (vítrea)",
-          "ru": "Голова (крист.)",
-          "pl": "Głowa (skrystalizowana)",
-          "pt-BR": "Cabeça (Cristalizada)",
-          "ko": "머리(백전정)",
-          "zh-Hant": "頭（白纏晶）",
-          "zh-Hans": "头部（白缠晶）",
-          "ar": "رأس (بلوري)",
-          "es-419": "Cabeza (cristalizada)"
-        },
         "base_health": 55,
         "kinsect_essence": "red",
         "multipliers": {
@@ -773,22 +677,6 @@
       },
       {
         "part": "left-wing-arm-hide",
-        "names": {
-          "ja": "左翼腕",
-          "en": "Left Wingarm",
-          "fr": "Patte ailée gauche",
-          "it": "Z. alata sx",
-          "de": "Flügelarm (L)",
-          "es": "Brazo ala izquierdo",
-          "ru": "Левая лапа с крылом",
-          "pl": "Lewe ramię skrzydła",
-          "pt-BR": "Braço da Asa Esquerda",
-          "ko": "왼쪽 날갯죽지",
-          "zh-Hant": "左翼臂",
-          "zh-Hans": "左翼臂",
-          "ar": "جناح أيسر",
-          "es-419": "Brazo ala izquierdo"
-        },
         "base_health": 550,
         "kinsect_essence": "white",
         "multipliers": {
@@ -805,22 +693,6 @@
       },
       {
         "part": "right-wing-arm-hide",
-        "names": {
-          "ja": "右翼腕",
-          "en": "Right Wingarm",
-          "fr": "Patte ailée droite",
-          "it": "Z. alata dx",
-          "de": "Flügelarm (R)",
-          "es": "Brazo ala derecho",
-          "ru": "Правая лапа с крылом",
-          "pl": "Prawe ramię skrzydła",
-          "pt-BR": "Braço da Asa Direita",
-          "ko": "오른쪽 날갯죽지",
-          "zh-Hant": "右翼臂",
-          "zh-Hans": "右翼臂",
-          "ar": "جناح أيمن",
-          "es-419": "Brazo ala derecho"
-        },
         "base_health": 550,
         "kinsect_essence": "white",
         "multipliers": {
@@ -837,22 +709,6 @@
       },
       {
         "part": "left-wing-arm",
-        "names": {
-          "ja": "左翼腕",
-          "en": "Left Wingarm",
-          "fr": "Patte ailée gauche",
-          "it": "Z. alata sx",
-          "de": "Flügelarm (L)",
-          "es": "Brazo ala izquierdo",
-          "ru": "Левая лапа с крылом",
-          "pl": "Lewe ramię skrzydła",
-          "pt-BR": "Braço da Asa Esquerda",
-          "ko": "왼쪽 날갯죽지",
-          "zh-Hant": "左翼臂",
-          "zh-Hans": "左翼臂",
-          "ar": "جناح أيسر",
-          "es-419": "Brazo ala izquierdo"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -869,22 +725,6 @@
       },
       {
         "part": "head-hide",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -901,22 +741,6 @@
       },
       {
         "part": "right-wing-arm",
-        "names": {
-          "ja": "右翼腕",
-          "en": "Right Wingarm",
-          "fr": "Patte ailée droite",
-          "it": "Z. alata dx",
-          "de": "Flügelarm (R)",
-          "es": "Brazo ala derecho",
-          "ru": "Правая лапа с крылом",
-          "pl": "Prawe ramię skrzydła",
-          "pt-BR": "Braço da Asa Direita",
-          "ko": "오른쪽 날갯죽지",
-          "zh-Hant": "右翼臂",
-          "zh-Hans": "右翼臂",
-          "ar": "جناح أيمن",
-          "es-419": "Brazo ala derecho"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -933,22 +757,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -965,22 +773,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -997,22 +789,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -1029,22 +805,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1061,22 +821,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1679,22 +1423,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -1711,22 +1439,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1743,22 +1455,6 @@
       },
       {
         "part": "tail-hair",
-        "names": {
-          "ja": "尾毛",
-          "en": "Tail Hair",
-          "fr": "Poils de queue",
-          "it": "Peli di coda",
-          "de": "Schwanzhaar",
-          "es": "Pelo de cola",
-          "ru": "Хвостовая шерсть",
-          "pl": "Włosy z ogona",
-          "pt-BR": "Pelo de Cauda",
-          "ko": "꼬리털",
-          "zh-Hant": "尾毛",
-          "zh-Hans": "尾毛",
-          "ar": "شعر الذيل",
-          "es-419": "Pelo de la cola"
-        },
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -1775,22 +1471,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1807,22 +1487,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1839,22 +1503,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -1871,22 +1519,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -2530,22 +2162,6 @@
     "parts": [
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 260,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2562,22 +2178,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 700,
         "kinsect_essence": "red",
         "multipliers": {
@@ -2594,22 +2194,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2626,7 +2210,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2643,7 +2226,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2660,7 +2242,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2677,22 +2258,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 260,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2709,22 +2274,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2741,22 +2290,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 260,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -2773,22 +2306,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 200,
         "kinsect_essence": "green",
         "multipliers": {
@@ -3374,22 +2891,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3406,22 +2907,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -3438,22 +2923,6 @@
       },
       {
         "part": "right-nail",
-        "names": {
-          "ja": "右爪",
-          "en": "Right Claw",
-          "fr": "Griffe droite",
-          "it": "Artiglio destro",
-          "de": "Rechte Klaue",
-          "es": "Garra derecha",
-          "ru": "Коготь правой лапы",
-          "pl": "Prawy pazur",
-          "pt-BR": "Garra Direita",
-          "ko": "오른쪽 발톱",
-          "zh-Hant": "右爪",
-          "zh-Hans": "右爪",
-          "ar": "مخلب أيمن",
-          "es-419": "Garra derecha"
-        },
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -3470,22 +2939,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3502,22 +2955,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3534,22 +2971,6 @@
       },
       {
         "part": "petal",
-        "names": {
-          "ja": "花弁状部",
-          "en": "Petals",
-          "fr": "Pétales",
-          "it": "Petali",
-          "de": "Blütenblätter",
-          "es": "Pétalos",
-          "ru": "Лепестки",
-          "pl": "Płatki",
-          "pt-BR": "Pétalas",
-          "ko": "꽃잎 부분",
-          "zh-Hant": "花瓣狀部位",
-          "zh-Hans": "花瓣状部位",
-          "ar": "بتلات",
-          "es-419": "Pétalos"
-        },
         "base_health": 200,
         "kinsect_essence": "green",
         "multipliers": {
@@ -3566,22 +2987,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -3598,22 +3003,6 @@
       },
       {
         "part": "left-nail",
-        "names": {
-          "ja": "左爪",
-          "en": "Left Claw",
-          "fr": "Griffe gauche",
-          "it": "Artiglio sinistro",
-          "de": "Linke Klaue",
-          "es": "Garra izquierda",
-          "ru": "Коготь левой лапы",
-          "pl": "Lewy pazur",
-          "pt-BR": "Garra Esquerda",
-          "ko": "왼쪽 발톱",
-          "zh-Hant": "左爪",
-          "zh-Hans": "左爪",
-          "ar": "مخلب أيسر",
-          "es-419": "Garra izquierda"
-        },
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -3630,22 +3019,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3662,22 +3035,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -4201,22 +3558,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4233,22 +3574,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -4265,22 +3590,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4297,22 +3606,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4329,22 +3622,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -4361,22 +3638,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4393,22 +3654,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5000,22 +4245,6 @@
     "parts": [
       {
         "part": "poisonous-thorn",
-        "names": {
-          "ja": "毒トゲ",
-          "en": "Stinger",
-          "fr": "Dard",
-          "it": "Pungiglione",
-          "de": "Stachel",
-          "es": "Aguijón",
-          "ru": "Жало",
-          "pl": "Żądło",
-          "pt-BR": "Ferrão",
-          "ko": "독가시",
-          "zh-Hant": "毒刺",
-          "zh-Hans": "毒刺",
-          "ar": "إبرة",
-          "es-419": "Aguijón"
-        },
         "base_health": 300,
         "kinsect_essence": "green",
         "multipliers": {
@@ -5032,22 +4261,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5064,22 +4277,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5096,7 +4293,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5113,7 +4309,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -5130,22 +4325,6 @@
       },
       {
         "part": "right-nail",
-        "names": {
-          "ja": "右爪",
-          "en": "Right Claw",
-          "fr": "Griffe droite",
-          "it": "Artiglio destro",
-          "de": "Rechte Klaue",
-          "es": "Garra derecha",
-          "ru": "Коготь правой лапы",
-          "pl": "Prawy pazur",
-          "pt-BR": "Garra Direita",
-          "ko": "오른쪽 발톱",
-          "zh-Hant": "右爪",
-          "zh-Hans": "右爪",
-          "ar": "مخلب أيمن",
-          "es-419": "Garra derecha"
-        },
         "base_health": 100,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5162,22 +4341,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5194,22 +4357,6 @@
       },
       {
         "part": "mantle",
-        "names": {
-          "ja": "外套膜",
-          "en": "Mantle",
-          "fr": "Manteau",
-          "it": "Mantello",
-          "de": "Mantel",
-          "es": "Manto",
-          "ru": "Покров",
-          "pl": "Opończa",
-          "pt-BR": "Manto",
-          "ko": "외투막",
-          "zh-Hant": "外套膜",
-          "zh-Hans": "外套膜",
-          "ar": "عباءة",
-          "es-419": "Manto"
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5226,22 +4373,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5258,22 +4389,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5290,22 +4405,6 @@
       },
       {
         "part": "stomach",
-        "names": {
-          "ja": "腹部",
-          "en": "Belly",
-          "fr": "Ventre",
-          "it": "Pancia",
-          "de": "Bauch",
-          "es": "Barriga",
-          "ru": "Брюхо",
-          "pl": "Brzuch",
-          "pt-BR": "Barriga",
-          "ko": "복부",
-          "zh-Hant": "腹部",
-          "zh-Hans": "腹部",
-          "ar": "بطن",
-          "es-419": "Barriga"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5322,22 +4421,6 @@
       },
       {
         "part": "left-nail",
-        "names": {
-          "ja": "左爪",
-          "en": "Left Claw",
-          "fr": "Griffe gauche",
-          "it": "Artiglio sinistro",
-          "de": "Linke Klaue",
-          "es": "Garra izquierda",
-          "ru": "Коготь левой лапы",
-          "pl": "Lewy pazur",
-          "pt-BR": "Garra Esquerda",
-          "ko": "왼쪽 발톱",
-          "zh-Hant": "左爪",
-          "zh-Hans": "左爪",
-          "ar": "مخلب أيسر",
-          "es-419": "Garra izquierda"
-        },
         "base_health": 50,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5354,22 +4437,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5854,22 +4921,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5886,22 +4937,6 @@
       },
       {
         "part": "left-wing-legs",
-        "names": {
-          "ja": "左翼脚",
-          "en": "Left Wingarm",
-          "fr": "Patte ailée gauche",
-          "it": "Z. alata sx",
-          "de": "Flügelarm (L)",
-          "es": "Brazo ala izquierdo",
-          "ru": "Левая лапа с крылом",
-          "pl": "Lewe ramię skrzydła",
-          "pt-BR": "Braço da Asa Esq.",
-          "ko": "왼쪽 날개다리",
-          "zh-Hant": "左翼腳",
-          "zh-Hans": "左翼足",
-          "ar": "جناح أيسر",
-          "es-419": "Brazo ala izquierdo"
-        },
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5918,22 +4953,6 @@
       },
       {
         "part": "antennae",
-        "names": {
-          "ja": "触角",
-          "en": "Antenna",
-          "fr": "Antenne",
-          "it": "Antenna",
-          "de": "Fühler",
-          "es": "Antena",
-          "ru": "Усик",
-          "pl": "Czułek",
-          "pt-BR": "Antena",
-          "ko": "촉각",
-          "zh-Hant": "觸角",
-          "zh-Hans": "触角",
-          "ar": "قرن استشعار",
-          "es-419": "Antena"
-        },
         "base_health": 200,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5950,22 +4969,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5982,22 +4985,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 100,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6014,22 +5001,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -6046,22 +5017,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6078,22 +5033,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6110,22 +5049,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 100,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6142,22 +5065,6 @@
       },
       {
         "part": "right-wing-legs",
-        "names": {
-          "ja": "右翼脚",
-          "en": "Right Wingarm",
-          "fr": "Patte ailée droite",
-          "it": "Z. alata dx",
-          "de": "Flügelarm (R)",
-          "es": "Brazo ala derecho",
-          "ru": "Правая лапа с крылом",
-          "pl": "Prawe ramię skrzydła",
-          "pt-BR": "Braço da Asa Dir.",
-          "ko": "오른쪽 날개다리",
-          "zh-Hant": "右翼腳",
-          "zh-Hans": "右翼足",
-          "ar": "جناح أيمن",
-          "es-419": "Brazo ala derecho"
-        },
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -6174,22 +5081,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6206,22 +5097,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6238,22 +5113,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6810,22 +5669,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6842,22 +5685,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6874,22 +5701,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 450,
         "kinsect_essence": "red",
         "multipliers": {
@@ -6906,22 +5717,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6938,22 +5733,6 @@
       },
       {
         "part": "back",
-        "names": {
-          "ja": "背中",
-          "en": "Back",
-          "fr": "Dos",
-          "it": "Dorso",
-          "de": "Rücken",
-          "es": "Lomo",
-          "ru": "Спина",
-          "pl": "Plecy",
-          "pt-BR": "Costas",
-          "ko": "등",
-          "zh-Hant": "背部",
-          "zh-Hans": "背部",
-          "ar": "ظهر",
-          "es-419": "Espalda"
-        },
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6970,22 +5749,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7002,22 +5765,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7034,22 +5781,6 @@
       },
       {
         "part": "stomach",
-        "names": {
-          "ja": "腹部",
-          "en": "Belly",
-          "fr": "Ventre",
-          "it": "Pancia",
-          "de": "Bauch",
-          "es": "Barriga",
-          "ru": "Брюхо",
-          "pl": "Brzuch",
-          "pt-BR": "Barriga",
-          "ko": "복부",
-          "zh-Hant": "腹部",
-          "zh-Hans": "腹部",
-          "ar": "بطن",
-          "es-419": "Barriga"
-        },
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7066,22 +5797,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -7367,22 +6082,6 @@
     "parts": [
       {
         "part": "right-wing-blade",
-        "names": {
-          "ja": "右鎖翼刃",
-          "en": "Right Chainblade",
-          "fr": "Chaîne-lame droite",
-          "it": "Catena destra",
-          "de": "Kettenklinge (R)",
-          "es": "Cadenáculo derecho",
-          "ru": "Правый цепной клинок",
-          "pl": "P ostrze łańcuch.",
-          "pt-BR": "Correlâmina Dir.",
-          "ko": "오른쪽 사슬날개",
-          "zh-Hant": "右鎖翼刃",
-          "zh-Hans": "右锁翼刃",
-          "ar": "شفرة سلسلة يمنى",
-          "es-419": "Hoja cadena der."
-        },
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7399,22 +6098,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7431,22 +6114,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7463,22 +6130,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7495,7 +6146,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7512,22 +6162,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7544,22 +6178,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7576,22 +6194,6 @@
       },
       {
         "part": "left-wing-blade",
-        "names": {
-          "ja": "左鎖翼刃",
-          "en": "Left Chainblade",
-          "fr": "Chaîne-lame gauche",
-          "it": "Catena sinistra",
-          "de": "Kettenklinge (L)",
-          "es": "Cadenáculo izquierdo",
-          "ru": "Левый цепной клинок",
-          "pl": "L ostrze łańcuch.",
-          "pt-BR": "Correlâmina Esq.",
-          "ko": "왼쪽 사슬날개",
-          "zh-Hant": "左鎖翼刃",
-          "zh-Hans": "左锁翼刃",
-          "ar": "شفرة سلسلة يسرى",
-          "es-419": "Hoja cadena izq."
-        },
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7608,22 +6210,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7640,22 +6226,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8247,22 +6817,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8279,22 +6833,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -8311,22 +6849,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8343,22 +6865,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8375,22 +6881,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -8407,22 +6897,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8439,22 +6913,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 450,
         "kinsect_essence": "green",
         "multipliers": {
@@ -8996,22 +7454,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -9028,22 +7470,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -9060,22 +7486,6 @@
       },
       {
         "part": "tail-hair",
-        "names": {
-          "ja": "尾毛",
-          "en": "Tail Hair",
-          "fr": "Poils de queue",
-          "it": "Peli di coda",
-          "de": "Schwanzhaar",
-          "es": "Pelo de cola",
-          "ru": "Хвостовая шерсть",
-          "pl": "Włosy z ogona",
-          "pt-BR": "Pelo de Cauda",
-          "ko": "꼬리털",
-          "zh-Hant": "尾毛",
-          "zh-Hans": "尾毛",
-          "ar": "شعر الذيل",
-          "es-419": "Pelo de la cola"
-        },
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -9092,22 +7502,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9124,22 +7518,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9156,22 +7534,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -9188,22 +7550,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -9848,22 +8194,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -9880,22 +8210,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9912,22 +8226,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -9944,22 +8242,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9976,22 +8258,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10008,22 +8274,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 500,
         "kinsect_essence": "green",
         "multipliers": {
@@ -10040,22 +8290,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10072,22 +8306,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10568,22 +8786,6 @@
     "parts": [
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10600,22 +8802,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 440,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10632,22 +8818,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10664,22 +8834,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10696,22 +8850,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10728,22 +8866,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10760,22 +8882,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 440,
         "kinsect_essence": "green",
         "multipliers": {
@@ -11256,22 +9362,6 @@
     "parts": [
       {
         "part": "ass",
-        "names": {
-          "ja": "尻",
-          "en": "Rear",
-          "fr": "Arrière",
-          "it": "Retro",
-          "de": "Hinterteil",
-          "es": "Parte trasera",
-          "ru": "Крестец",
-          "pl": "Zad",
-          "pt-BR": "Traseira",
-          "ko": "엉덩이",
-          "zh-Hant": "臀部",
-          "zh-Hans": "臀部",
-          "ar": "خلفية",
-          "es-419": "Parte trasera"
-        },
         "base_health": 100,
         "kinsect_essence": "green",
         "multipliers": {
@@ -11288,22 +9378,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 750,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11320,22 +9394,6 @@
       },
       {
         "part": "tongue",
-        "names": {
-          "ja": "舌",
-          "en": "Tongue",
-          "fr": "Langue",
-          "it": "Lingua",
-          "de": "Zunge",
-          "es": "Lengua",
-          "ru": "Язык",
-          "pl": "Język",
-          "pt-BR": "Língua",
-          "ko": "혀",
-          "zh-Hant": "舌頭",
-          "zh-Hans": "舌头",
-          "ar": "لسان",
-          "es-419": "Lengua"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -11352,22 +9410,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 280,
         "kinsect_essence": "red",
         "multipliers": {
@@ -11384,22 +9426,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 120,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11416,22 +9442,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 120,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11448,22 +9458,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -11480,22 +9474,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 750,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11999,22 +9977,6 @@
     "parts": [
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 220,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12031,22 +9993,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12063,22 +10009,6 @@
       },
       {
         "part": "dorsal-fin",
-        "names": {
-          "ja": "背ビレ",
-          "en": "Dorsal Fin",
-          "fr": "Nageoire dorsale",
-          "it": "Pinna dorsale",
-          "de": "Rückenflosse",
-          "es": "Aleta dorsal",
-          "ru": "Спинной плавник",
-          "pl": "Płetwa grzbietowa",
-          "pt-BR": "Barbatana Dorsal",
-          "ko": "등지느러미",
-          "zh-Hant": "背鰭",
-          "zh-Hans": "背鳍",
-          "ar": "زعنفة شوكة ظهرية",
-          "es-419": "Aleta dorsal"
-        },
         "base_health": 540,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12095,22 +10025,6 @@
       },
       {
         "part": "right-nail",
-        "names": {
-          "ja": "右爪",
-          "en": "Right Claw",
-          "fr": "Griffe droite",
-          "it": "Artiglio destro",
-          "de": "Rechte Klaue",
-          "es": "Garra derecha",
-          "ru": "Коготь правой лапы",
-          "pl": "Prawy pazur",
-          "pt-BR": "Garra Direita",
-          "ko": "오른쪽 발톱",
-          "zh-Hant": "右爪",
-          "zh-Hans": "右爪",
-          "ar": "مخلب أيمن",
-          "es-419": "Garra derecha"
-        },
         "base_health": 300,
         "kinsect_essence": {
           "none": null
@@ -12129,22 +10043,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 540,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12161,22 +10059,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 540,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12193,22 +10075,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12225,22 +10091,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12257,22 +10107,6 @@
       },
       {
         "part": "left-nail",
-        "names": {
-          "ja": "左爪",
-          "en": "Left Claw",
-          "fr": "Griffe gauche",
-          "it": "Artiglio sinistro",
-          "de": "Linke Klaue",
-          "es": "Garra izquierda",
-          "ru": "Коготь левой лапы",
-          "pl": "Lewy pazur",
-          "pt-BR": "Garra Esquerda",
-          "ko": "왼쪽 발톱",
-          "zh-Hant": "左爪",
-          "zh-Hans": "左爪",
-          "ar": "مخلب أيسر",
-          "es-419": "Garra izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": {
           "none": null
@@ -12291,22 +10125,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 600,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12820,22 +10638,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": 210,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12852,22 +10654,6 @@
       },
       {
         "part": "nose",
-        "names": {
-          "ja": "鼻",
-          "en": "Nose",
-          "fr": "Nez",
-          "it": "Naso",
-          "de": "Nase",
-          "es": "Nariz",
-          "ru": "Нос",
-          "pl": "Nos",
-          "pt-BR": "Nariz",
-          "ko": "코",
-          "zh-Hant": "鼻子",
-          "zh-Hans": "鼻子",
-          "ar": "أنف",
-          "es-419": "Nariz"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12884,22 +10670,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12916,22 +10686,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 320,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12948,22 +10702,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12980,7 +10718,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12997,22 +10734,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13029,22 +10750,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13061,22 +10766,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13093,22 +10782,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 320,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13688,22 +11361,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -13720,22 +11377,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -13752,22 +11393,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -13784,22 +11409,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13816,22 +11425,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13848,22 +11441,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13880,22 +11457,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -13912,22 +11473,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 600,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14536,22 +12081,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -14568,22 +12097,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14600,22 +12113,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 520,
         "kinsect_essence": "red",
         "multipliers": {
@@ -14632,22 +12129,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 220,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14664,22 +12145,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14696,22 +12161,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 220,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14728,22 +12177,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14760,22 +12193,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 340,
         "kinsect_essence": "green",
         "multipliers": {
@@ -15388,22 +12805,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15420,22 +12821,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 750,
         "kinsect_essence": "green",
         "multipliers": {
@@ -15452,22 +12837,6 @@
       },
       {
         "part": "back",
-        "names": {
-          "ja": "背中",
-          "en": "Back",
-          "fr": "Dos",
-          "it": "Dorso",
-          "de": "Rücken",
-          "es": "Lomo",
-          "ru": "Спина",
-          "pl": "Plecy",
-          "pt-BR": "Costas",
-          "ko": "등",
-          "zh-Hant": "背部",
-          "zh-Hans": "背部",
-          "ar": "ظهر",
-          "es-419": "Espalda"
-        },
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15484,22 +12853,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15516,22 +12869,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15548,22 +12885,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15580,22 +12901,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15612,22 +12917,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16107,22 +13396,6 @@
     "parts": [
       {
         "part": "right-wing-blade",
-        "names": {
-          "ja": "右鎖翼刃",
-          "en": "Right Chainblade",
-          "fr": "Chaîne-lame droite",
-          "it": "Catena destra",
-          "de": "Kettenklinge (R)",
-          "es": "Cadenáculo derecho",
-          "ru": "Правый цепной клинок",
-          "pl": "P ostrze łańcuch.",
-          "pt-BR": "Correlâmina Dir.",
-          "ko": "오른쪽 사슬날개",
-          "zh-Hant": "右鎖翼刃",
-          "zh-Hans": "右锁翼刃",
-          "ar": "شفرة سلسلة يمنى",
-          "es-419": "Hoja cadena der."
-        },
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16139,22 +13412,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16171,22 +13428,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16203,22 +13444,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16235,7 +13460,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16252,22 +13476,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16284,22 +13492,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16316,22 +13508,6 @@
       },
       {
         "part": "left-wing-blade",
-        "names": {
-          "ja": "左鎖翼刃",
-          "en": "Left Chainblade",
-          "fr": "Chaîne-lame gauche",
-          "it": "Catena sinistra",
-          "de": "Kettenklinge (L)",
-          "es": "Cadenáculo izquierdo",
-          "ru": "Левый цепной клинок",
-          "pl": "L ostrze łańcuch.",
-          "pt-BR": "Correlâmina Esq.",
-          "ko": "왼쪽 사슬날개",
-          "zh-Hant": "左鎖翼刃",
-          "zh-Hans": "左锁翼刃",
-          "ar": "شفرة سلسلة يسرى",
-          "es-419": "Hoja cadena izq."
-        },
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16348,22 +13524,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16380,22 +13540,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17036,22 +14180,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -17068,22 +14196,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -17100,7 +14212,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": {
           "none": null
@@ -17119,7 +14230,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -17136,22 +14246,6 @@
       },
       {
         "part": "back",
-        "names": {
-          "ja": "背中",
-          "en": "Back",
-          "fr": "Dos",
-          "it": "Dorso",
-          "de": "Rücken",
-          "es": "Lomo",
-          "ru": "Спина",
-          "pl": "Plecy",
-          "pt-BR": "Costas",
-          "ko": "등",
-          "zh-Hant": "背部",
-          "zh-Hans": "背部",
-          "ar": "ظهر",
-          "es-419": "Espalda"
-        },
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17168,22 +14262,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17200,22 +14278,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17232,22 +14294,6 @@
       },
       {
         "part": "stomach",
-        "names": {
-          "ja": "腹部",
-          "en": "Belly",
-          "fr": "Ventre",
-          "it": "Pancia",
-          "de": "Bauch",
-          "es": "Barriga",
-          "ru": "Брюхо",
-          "pl": "Brzuch",
-          "pt-BR": "Barriga",
-          "ko": "복부",
-          "zh-Hant": "腹部",
-          "zh-Hans": "腹部",
-          "ar": "بطن",
-          "es-419": "Barriga"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17264,22 +14310,6 @@
       },
       {
         "part": "tail-tip",
-        "names": {
-          "ja": "尻尾先端",
-          "en": "Tail Tip",
-          "fr": "Bout de la queue",
-          "it": "Punta della coda",
-          "de": "Schwanzspitze",
-          "es": "Punta de la cola",
-          "ru": "Кончик хвоста",
-          "pl": "Koniec ogona",
-          "pt-BR": "Ponta da Cauda",
-          "ko": "꼬리 끝",
-          "zh-Hant": "尾巴前端",
-          "zh-Hans": "尾巴尖",
-          "ar": "طرف الذيل",
-          "es-419": "Punta de la cola"
-        },
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -17296,22 +14326,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -17328,22 +14342,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -17928,22 +14926,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -17960,22 +14942,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 180,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17992,22 +14958,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 440,
         "kinsect_essence": "red",
         "multipliers": {
@@ -18024,22 +14974,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 220,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18056,22 +14990,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 180,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18088,22 +15006,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 220,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18120,22 +15022,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18152,22 +15038,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 440,
         "kinsect_essence": "green",
         "multipliers": {
@@ -18841,22 +15711,6 @@
     "parts": [
       {
         "part": "right-front-arm",
-        "names": {
-          "ja": "右第１腕",
-          "en": "Front Right Arm",
-          "fr": "Patte avant droite",
-          "it": "Zampa dx ant",
-          "de": "Vorderarm (R)",
-          "es": "Brazo dcho. delantero",
-          "ru": "Передн. прав. щупальце",
-          "pl": "Przód prawego ramienia",
-          "pt-BR": "Braço Posterior Dir.",
-          "ko": "오른쪽 첫 번째 팔",
-          "zh-Hant": "第一右觸手",
-          "zh-Hans": "第一右触手",
-          "ar": "ذراع يمنى أمامية",
-          "es-419": "Brazo frontal der."
-        },
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18873,22 +15727,6 @@
       },
       {
         "part": "left-hind-arm",
-        "names": {
-          "ja": "左第３腕",
-          "en": "Rear Left Arm",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa sx post",
-          "de": "Hinterarm (L)",
-          "es": "Brazo izq. trasero",
-          "ru": "Задн. лев. щупальце",
-          "pl": "Tył lewego ramienia",
-          "pt-BR": "Braço Anterior Esq.",
-          "ko": "왼쪽 세 번째 팔",
-          "zh-Hant": "第三左觸手",
-          "zh-Hans": "第三左触手",
-          "ar": "ذراع يسرى خلفية",
-          "es-419": "Brazo trasero izq."
-        },
         "base_health": 180,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18905,22 +15743,6 @@
       },
       {
         "part": "left-side-arm",
-        "names": {
-          "ja": "左第２腕",
-          "en": "Middle Left Arm",
-          "fr": "Patte milieu gauche",
-          "it": "Zampa sx centr",
-          "de": "Mittelarm (L)",
-          "es": "Brazo izq. medio",
-          "ru": "Средн. лев. щупальце",
-          "pl": "Środek lewego ramienia",
-          "pt-BR": "Braço Medial Esq.",
-          "ko": "왼쪽 두 번째 팔",
-          "zh-Hant": "第二左觸手",
-          "zh-Hans": "第二左触手",
-          "ar": "ذراع يسرى وسطى",
-          "es-419": "Brazo medio izq."
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18937,22 +15759,6 @@
       },
       {
         "part": "umbrella",
-        "names": {
-          "ja": "傘膜",
-          "en": "Membrane",
-          "fr": "Membrane",
-          "it": "Membrana",
-          "de": "Membran",
-          "es": "Membrana",
-          "ru": "Перепонка",
-          "pl": "Błona",
-          "pt-BR": "Membrana",
-          "ko": "산막",
-          "zh-Hant": "腕間膜",
-          "zh-Hans": "腕间膜",
-          "ar": "غشاء",
-          "es-419": "Membrana"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18969,22 +15775,6 @@
       },
       {
         "part": "mouth",
-        "names": {
-          "ja": "口",
-          "en": "Mouth",
-          "fr": "Bouche",
-          "it": "Bocca",
-          "de": "Maul",
-          "es": "Boca",
-          "ru": "Пасть",
-          "pl": "Usta",
-          "pt-BR": "Boca",
-          "ko": "입",
-          "zh-Hant": "嘴巴",
-          "zh-Hans": "嘴巴",
-          "ar": "فم",
-          "es-419": "Boca"
-        },
         "base_health": 200,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19001,22 +15791,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19033,22 +15807,6 @@
       },
       {
         "part": "tentacle",
-        "names": {
-          "ja": "触腕",
-          "en": "Tentacle",
-          "fr": "Tentacule",
-          "it": "Tentacolo",
-          "de": "Tentakel",
-          "es": "Tentáculo",
-          "ru": "Щупальце",
-          "pl": "Macka",
-          "pt-BR": "Tentáculo",
-          "ko": "촉완",
-          "zh-Hant": "觸手",
-          "zh-Hans": "触手",
-          "ar": "مجس",
-          "es-419": "Tentáculo"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19065,22 +15823,6 @@
       },
       {
         "part": "right-side-arm",
-        "names": {
-          "ja": "右第２腕",
-          "en": "Middle Right Arm",
-          "fr": "Patte milieu droite",
-          "it": "Zampa dx centr.",
-          "de": "Mittelarm (R)",
-          "es": "Brazo dcho. medio",
-          "ru": "Средн. прав. щупальце",
-          "pl": "Środek prawego ramienia",
-          "pt-BR": "Braço Medial Dir.",
-          "ko": "오른쪽 두 번째 팔",
-          "zh-Hant": "第二右觸手",
-          "zh-Hans": "第二右触手",
-          "ar": "ذراع يمنى وسطى",
-          "es-419": "Brazo medio der."
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19097,22 +15839,6 @@
       },
       {
         "part": "left-front-arm",
-        "names": {
-          "ja": "左第１腕",
-          "en": "Front Left Arm",
-          "fr": "Patte avant gauche",
-          "it": "Zampa sx ant",
-          "de": "Vorderarm (L)",
-          "es": "Brazo izq. delantero",
-          "ru": "Передн. лев. щупальце",
-          "pl": "Przód lewego ramienia",
-          "pt-BR": "Braço Posterior Esq.",
-          "ko": "왼쪽 첫 번째 팔",
-          "zh-Hant": "第一左觸手",
-          "zh-Hans": "第一左触手",
-          "ar": "ذراع يسرى أمامية",
-          "es-419": "Brazo frontal izq."
-        },
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -19129,22 +15855,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19161,22 +15871,6 @@
       },
       {
         "part": "right-hind-arm",
-        "names": {
-          "ja": "右第３腕",
-          "en": "Rear Right Arm",
-          "fr": "Patte arrière droite",
-          "it": "Zampa dx post",
-          "de": "Hinterarm (R)",
-          "es": "Brazo dcho. trasero",
-          "ru": "Задн. прав. щупальце",
-          "pl": "Tył prawego ramienia",
-          "pt-BR": "Braço Anterior Dir.",
-          "ko": "오른쪽 세 번째 팔",
-          "zh-Hant": "第三右觸手",
-          "zh-Hans": "第三右触手",
-          "ar": "ذراع يمنى خلفية",
-          "es-419": "Brazo trasero der."
-        },
         "base_health": 180,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19858,22 +16552,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19890,22 +16568,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -19922,22 +16584,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19954,22 +16600,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19986,22 +16616,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20018,22 +16632,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20050,22 +16648,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20082,22 +16664,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -20766,22 +17332,6 @@
     "parts": [
       {
         "part": "waterfilm-tail",
-        "names": {
-          "ja": "水膜（尻尾）",
-          "en": "Veil: Tail (Middle)",
-          "fr": "Voile : queue (milieu)",
-          "it": "Velo (coda)",
-          "de": "Schleier: Schwanz (M)",
-          "es": "Velo: Cola (media)",
-          "ru": "Покров: хвост (середина)",
-          "pl": "Woal (środek ogona)",
-          "pt-BR": "Véu: Cauda (Medial)",
-          "ko": "수막(꼬리)",
-          "zh-Hant": "液膜（尾巴）",
-          "zh-Hans": "水膜（尾巴）",
-          "ar": "غشاء: ذيل (أوسط)",
-          "es-419": "Velo: Cola (centro)"
-        },
         "base_health": 130,
         "kinsect_essence": "green",
         "multipliers": {
@@ -20798,22 +17348,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20830,22 +17364,6 @@
       },
       {
         "part": "waterfilm-left-body",
-        "names": {
-          "ja": "水膜（左胴）",
-          "en": "Veil: Torso (Left)",
-          "fr": "Voile : tronc (gauche)",
-          "it": "Velo (torso sx)",
-          "de": "Schleier: Torso (L)",
-          "es": "Velo: Torso (izq.)",
-          "ru": "Покров: туловище (слева)",
-          "pl": "Woal (l. str. tułowia)",
-          "pt-BR": "Véu: Tronco (Esquerdo)",
-          "ko": "수막(왼쪽 몸통)",
-          "zh-Hant": "液膜（身體左側）",
-          "zh-Hans": "水膜（身体左侧）",
-          "ar": "غشاء: جذع (أيسر)",
-          "es-419": "Velo: Torso (izq.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20862,22 +17380,6 @@
       },
       {
         "part": "waterfilm-left-front-leg",
-        "names": {
-          "ja": "水膜（左前脚）",
-          "en": "Veil: Foreleg (Left)",
-          "fr": "Voile : patte avant (gauche)",
-          "it": "Velo (z ant sx)",
-          "de": "Schleier: V.Bein (L)",
-          "es": "Velo: Pata del. (izq.)",
-          "ru": "Покров: пер. лапа (лев.)",
-          "pl": "Woal (l. przednia noga)",
-          "pt-BR": "Véu: Perna Diant. (Esquerdo)",
-          "ko": "수막(왼쪽 앞다리)",
-          "zh-Hant": "液膜（左前腳）",
-          "zh-Hans": "水膜（左前腿）",
-          "ar": "غشاء: ساق أمامية (يسرى)",
-          "es-419": "Velo: Pata delantera (izq.)"
-        },
         "base_health": 130,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20894,22 +17396,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 450,
         "kinsect_essence": "red",
         "multipliers": {
@@ -20926,22 +17412,6 @@
       },
       {
         "part": "waterfilm-right-head",
-        "names": {
-          "ja": "水膜（右頭部）",
-          "en": "Veil: Head (Right)",
-          "fr": "Voile : tête (droite)",
-          "it": "Velo (testa dx)",
-          "de": "Schleier: Kopf (R)",
-          "es": "Velo: Cabeza (dcha.)",
-          "ru": "Покров: голова (справа)",
-          "pl": "Woal (p. str. głowy)",
-          "pt-BR": "Véu: Cabeça (Direito)",
-          "ko": "수막(오른쪽 머리)",
-          "zh-Hant": "液膜（頭部右側）",
-          "zh-Hans": "水膜（头部右侧）",
-          "ar": "غشاء: رأس (أيمن)",
-          "es-419": "Velo: Cabeza (der.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20958,22 +17428,6 @@
       },
       {
         "part": "waterfilm-right-front-leg",
-        "names": {
-          "ja": "水膜（右前脚）",
-          "en": "Veil: Foreleg (Right)",
-          "fr": "Voile : patte avant (droite)",
-          "it": "Velo (z ant dx)",
-          "de": "Schleier: V.Bein (R)",
-          "es": "Velo: Pata del. (dcha.)",
-          "ru": "Покров: пер. лапа (прав.)",
-          "pl": "Woal (p. przednia noga)",
-          "pt-BR": "Véu: Perna Diant. (Direito)",
-          "ko": "수막(오른쪽 앞다리)",
-          "zh-Hant": "液膜（右前腳）",
-          "zh-Hans": "水膜（右前腿）",
-          "ar": "غشاء: ساق أمامية (يمنى)",
-          "es-419": "Velo: Pata delantera (der.)"
-        },
         "base_health": 130,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20990,22 +17444,6 @@
       },
       {
         "part": "waterfilm-right-tail",
-        "names": {
-          "ja": "水膜（尻尾右部）",
-          "en": "Veil: Tail (Right)",
-          "fr": "Voile : queue (droite)",
-          "it": "Velo (coda sx)",
-          "de": "Schleier: Schwanz (R)",
-          "es": "Velo: Cola (derecha)",
-          "ru": "Покров: хвост (справа)",
-          "pl": "Woal (p. str. ogona)",
-          "pt-BR": "Véu: Cauda (Direito)",
-          "ko": "수막(꼬리 오른쪽)",
-          "zh-Hant": "液膜（尾巴右側）",
-          "zh-Hans": "水膜（尾巴右侧）",
-          "ar": "غشاء: ذيل (أيمن)",
-          "es-419": "Velo: Cola (der.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21022,22 +17460,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 800,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21054,22 +17476,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 800,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21086,22 +17492,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21118,22 +17508,6 @@
       },
       {
         "part": "waterfilm-left-tail",
-        "names": {
-          "ja": "水膜（尻尾左部）",
-          "en": "Veil: Tail (Left)",
-          "fr": "Voile : queue (gauche)",
-          "it": "Velo (coda sx)",
-          "de": "Schleier: Schwanz (L)",
-          "es": "Velo: Cola (izq.)",
-          "ru": "Покров: хвост (слева)",
-          "pl": "Woal (lewa str. ogona)",
-          "pt-BR": "Véu: Cauda (Esquerdo)",
-          "ko": "수막(꼬리 왼쪽)",
-          "zh-Hant": "液膜（尾巴左側）",
-          "zh-Hans": "水膜（尾巴左侧）",
-          "ar": "غشاء: ذيل (أيسر)",
-          "es-419": "Velo: Cola (izq.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21150,22 +17524,6 @@
       },
       {
         "part": "waterfilm-left-head",
-        "names": {
-          "ja": "水膜（左頭部）",
-          "en": "Veil: Head (Left)",
-          "fr": "Voile : tête (gauche)",
-          "it": "Velo (testa sx)",
-          "de": "Schleier: Kopf (L)",
-          "es": "Velo: Cabeza (izq.)",
-          "ru": "Покров: голова (слева)",
-          "pl": "Woal (lewa str. głowy)",
-          "pt-BR": "Véu: Cabeça (Esquerdo)",
-          "ko": "수막(왼쪽 머리)",
-          "zh-Hant": "液膜（頭部左側）",
-          "zh-Hans": "水膜（头部左侧）",
-          "ar": "غشاء: رأس (أيسر)",
-          "es-419": "Velo: Cabeza (izq.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21182,22 +17540,6 @@
       },
       {
         "part": "waterfilm-right-body",
-        "names": {
-          "ja": "水膜（右胴）",
-          "en": "Veil: Torso (Right)",
-          "fr": "Voile : tronc (droit)",
-          "it": "Velo (torso dx)",
-          "de": "Schleier: Torso (R)",
-          "es": "Velo: Torso (dcha.)",
-          "ru": "Покров: туловище (справа)",
-          "pl": "Woal (p. str. tułowia)",
-          "pt-BR": "Véu: Tronco (Direito)",
-          "ko": "수막(오른쪽 몸통)",
-          "zh-Hant": "液膜（身體右側）",
-          "zh-Hans": "水膜（身体右侧）",
-          "ar": "غشاء: جذع (أيمن)",
-          "es-419": "Velo: Torso (der.)"
-        },
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21214,22 +17556,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21246,22 +17572,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 270,
         "kinsect_essence": "green",
         "multipliers": {
@@ -21944,22 +18254,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21976,22 +18270,6 @@
       },
       {
         "part": "frozen-bigcore-after",
-        "names": {
-          "ja": "大凍成殻（露出後）",
-          "en": "Lg. Iceplate (Exposed)",
-          "fr": "Gde plaque gelée (visible)",
-          "it": "Criopiastra gr. (esposta)",
-          "de": "Rückenplatte (freigel.)",
-          "es": "Placa hielo gr. (externa)",
-          "ru": "Б. лед. пласт. (откр.)",
-          "pl": "Dł. lodopłytka (widoczna)",
-          "pt-BR": "Placa Gélida G. (Exposta)",
-          "ko": "대동성갑각(노출 후)",
-          "zh-Hant": "大凍成殼（露出後）",
-          "zh-Hans": "大冻凝壳（露出后）",
-          "ar": "لوحة جليدية كبيرة (مكشوفة)",
-          "es-419": "Placa hielo gde. (expuesta)"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22008,22 +18286,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22040,22 +18302,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 350,
         "kinsect_essence": "red",
         "multipliers": {
@@ -22072,22 +18318,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22104,22 +18334,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22136,22 +18350,6 @@
       },
       {
         "part": "frozen-core-waist",
-        "names": {
-          "ja": "凍成殻（腰部）",
-          "en": "Abdominal Iceplate",
-          "fr": "Plaque gelée (flancs)",
-          "it": "Criopiastra (fianchi)",
-          "de": "Bauch-Eisplatte",
-          "es": "Placa hielo abdominal",
-          "ru": "Брюшная лед. пластина",
-          "pl": "Lodopłytka (pas)",
-          "pt-BR": "Placa Gélida (Cintura)",
-          "ko": "동성갑각(허리)",
-          "zh-Hant": "凍成殼（腰部）",
-          "zh-Hans": "冻凝壳（腰部）",
-          "ar": "لوحة جليدية (خاصرة)",
-          "es-419": "Placa hielo abdominal"
-        },
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22168,22 +18366,6 @@
       },
       {
         "part": "frozen-bigcore-before",
-        "names": {
-          "ja": "大凍成殻（露出前）",
-          "en": "Lg. Iceplate (Hidden)",
-          "fr": "Gde plaque gelée (cachée)",
-          "it": "Criopiastra gr. (nascosta)",
-          "de": "Rückenplatte",
-          "es": "Placa hielo (interna)",
-          "ru": "Б. лед. пласт. (скр.)",
-          "pl": "Dł. lodopłytka (ukryta)",
-          "pt-BR": "Placa Gélida G. (Oculta)",
-          "ko": "대동성갑각(노출 전)",
-          "zh-Hant": "大凍成殼（露出前）",
-          "zh-Hans": "大冻凝壳（露出前）",
-          "ar": "لوحة جليدية كبيرة (مخفية)",
-          "es-419": "Placa hielo gde. (oculta)"
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22200,22 +18382,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22232,22 +18398,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22264,22 +18414,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -22931,22 +19065,6 @@
     "parts": [
       {
         "part": "right-front-arm",
-        "names": {
-          "ja": "右第１腕",
-          "en": "Front Right Arm",
-          "fr": "Patte avant droite",
-          "it": "Zampa dx ant",
-          "de": "Vorderarm (R)",
-          "es": "Brazo dcho. delantero",
-          "ru": "Передн. прав. щупальце",
-          "pl": "Przód prawego ramienia",
-          "pt-BR": "Braço Posterior Dir.",
-          "ko": "오른쪽 첫 번째 팔",
-          "zh-Hant": "第一右觸手",
-          "zh-Hans": "第一右触手",
-          "ar": "ذراع يمنى أمامية",
-          "es-419": "Brazo frontal der."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22963,22 +19081,6 @@
       },
       {
         "part": "left-hind-arm",
-        "names": {
-          "ja": "左第３腕",
-          "en": "Rear Left Arm",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa sx post",
-          "de": "Hinterarm (L)",
-          "es": "Brazo izq. trasero",
-          "ru": "Задн. лев. щупальце",
-          "pl": "Tył lewego ramienia",
-          "pt-BR": "Braço Anterior Esq.",
-          "ko": "왼쪽 세 번째 팔",
-          "zh-Hant": "第三左觸手",
-          "zh-Hans": "第三左触手",
-          "ar": "ذراع يسرى خلفية",
-          "es-419": "Brazo trasero izq."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22995,22 +19097,6 @@
       },
       {
         "part": "left-side-arm",
-        "names": {
-          "ja": "左第２腕",
-          "en": "Middle Left Arm",
-          "fr": "Patte milieu gauche",
-          "it": "Zampa sx centr",
-          "de": "Mittelarm (L)",
-          "es": "Brazo izq. medio",
-          "ru": "Средн. лев. щупальце",
-          "pl": "Środek lewego ramienia",
-          "pt-BR": "Braço Medial Esq.",
-          "ko": "왼쪽 두 번째 팔",
-          "zh-Hant": "第二左觸手",
-          "zh-Hans": "第二左触手",
-          "ar": "ذراع يسرى وسطى",
-          "es-419": "Brazo medio izq."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23027,22 +19113,6 @@
       },
       {
         "part": "umbrella",
-        "names": {
-          "ja": "傘膜",
-          "en": "Membrane",
-          "fr": "Membrane",
-          "it": "Membrana",
-          "de": "Membran",
-          "es": "Membrana",
-          "ru": "Перепонка",
-          "pl": "Błona",
-          "pt-BR": "Membrana",
-          "ko": "산막",
-          "zh-Hant": "腕間膜",
-          "zh-Hans": "腕间膜",
-          "ar": "غشاء",
-          "es-419": "Membrana"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23059,22 +19129,6 @@
       },
       {
         "part": "mouth",
-        "names": {
-          "ja": "口",
-          "en": "Mouth",
-          "fr": "Bouche",
-          "it": "Bocca",
-          "de": "Maul",
-          "es": "Boca",
-          "ru": "Пасть",
-          "pl": "Usta",
-          "pt-BR": "Boca",
-          "ko": "입",
-          "zh-Hant": "嘴巴",
-          "zh-Hans": "嘴巴",
-          "ar": "فم",
-          "es-419": "Boca"
-        },
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -23091,22 +19145,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -23123,7 +19161,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -23140,22 +19177,6 @@
       },
       {
         "part": "tentacle",
-        "names": {
-          "ja": "触腕",
-          "en": "Tentacle",
-          "fr": "Tentacule",
-          "it": "Tentacolo",
-          "de": "Tentakel",
-          "es": "Tentáculo",
-          "ru": "Щупальце",
-          "pl": "Macka",
-          "pt-BR": "Tentáculo",
-          "ko": "촉완",
-          "zh-Hant": "觸手",
-          "zh-Hans": "触手",
-          "ar": "مجس",
-          "es-419": "Tentáculo"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23172,22 +19193,6 @@
       },
       {
         "part": "right-side-arm",
-        "names": {
-          "ja": "右第２腕",
-          "en": "Middle Right Arm",
-          "fr": "Patte milieu droite",
-          "it": "Zampa dx centr.",
-          "de": "Mittelarm (R)",
-          "es": "Brazo dcho. medio",
-          "ru": "Средн. прав. щупальце",
-          "pl": "Środek prawego ramienia",
-          "pt-BR": "Braço Medial Dir.",
-          "ko": "오른쪽 두 번째 팔",
-          "zh-Hant": "第二右觸手",
-          "zh-Hans": "第二右触手",
-          "ar": "ذراع يمنى وسطى",
-          "es-419": "Brazo medio der."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23204,22 +19209,6 @@
       },
       {
         "part": "left-front-arm",
-        "names": {
-          "ja": "左第１腕",
-          "en": "Front Left Arm",
-          "fr": "Patte avant gauche",
-          "it": "Zampa sx ant",
-          "de": "Vorderarm (L)",
-          "es": "Brazo izq. delantero",
-          "ru": "Передн. лев. щупальце",
-          "pl": "Przód lewego ramienia",
-          "pt-BR": "Braço Posterior Esq.",
-          "ko": "왼쪽 첫 번째 팔",
-          "zh-Hant": "第一左觸手",
-          "zh-Hans": "第一左触手",
-          "ar": "ذراع يسرى أمامية",
-          "es-419": "Brazo frontal izq."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23236,22 +19225,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23268,22 +19241,6 @@
       },
       {
         "part": "right-hind-arm",
-        "names": {
-          "ja": "右第３腕",
-          "en": "Rear Right Arm",
-          "fr": "Patte arrière droite",
-          "it": "Zampa dx post",
-          "de": "Hinterarm (R)",
-          "es": "Brazo dcho. trasero",
-          "ru": "Задн. прав. щупальце",
-          "pl": "Tył prawego ramienia",
-          "pt-BR": "Braço Anterior Dir.",
-          "ko": "오른쪽 세 번째 팔",
-          "zh-Hant": "第三右觸手",
-          "zh-Hans": "第三右触手",
-          "ar": "ذراع يمنى خلفية",
-          "es-419": "Brazo trasero der."
-        },
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24028,22 +19985,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24060,22 +20001,6 @@
       },
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24092,22 +20017,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24124,22 +20033,6 @@
       },
       {
         "part": "back",
-        "names": {
-          "ja": "背中",
-          "en": "Back",
-          "fr": "Dos",
-          "it": "Dorso",
-          "de": "Rücken",
-          "es": "Lomo",
-          "ru": "Спина",
-          "pl": "Plecy",
-          "pt-BR": "Costas",
-          "ko": "등",
-          "zh-Hant": "背部",
-          "zh-Hans": "背部",
-          "ar": "ظهر",
-          "es-419": "Espalda"
-        },
         "base_health": 210,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24156,22 +20049,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24188,22 +20065,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24220,22 +20081,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24252,22 +20097,6 @@
       },
       {
         "part": "tail-tip",
-        "names": {
-          "ja": "尻尾先端",
-          "en": "Tail Tip",
-          "fr": "Bout de la queue",
-          "it": "Punta della coda",
-          "de": "Schwanzspitze",
-          "es": "Punta de la cola",
-          "ru": "Кончик хвоста",
-          "pl": "Koniec ogona",
-          "pt-BR": "Ponta da Cauda",
-          "ko": "꼬리 끝",
-          "zh-Hant": "尾巴前端",
-          "zh-Hans": "尾巴尖",
-          "ar": "طرف الذيل",
-          "es-419": "Punta de la cola"
-        },
         "base_health": 210,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24284,22 +20113,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24316,22 +20129,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 280,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24812,22 +20609,6 @@
     "parts": [
       {
         "part": "neck",
-        "names": {
-          "ja": "首",
-          "en": "Neck",
-          "fr": "Cou",
-          "it": "Collo",
-          "de": "Nacken",
-          "es": "Cuello",
-          "ru": "Шея",
-          "pl": "Szyja",
-          "pt-BR": "Pescoço",
-          "ko": "목",
-          "zh-Hant": "頸部",
-          "zh-Hans": "颈部",
-          "ar": "رقبة",
-          "es-419": "Cuello"
-        },
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24844,22 +20625,6 @@
       },
       {
         "part": "left-wing",
-        "names": {
-          "ja": "左翼",
-          "en": "Left Wing",
-          "fr": "Aile gauche",
-          "it": "Ala sinistra",
-          "de": "Linker Flügel",
-          "es": "Ala izquierda",
-          "ru": "Левое крыло",
-          "pl": "Lewe skrzydło",
-          "pt-BR": "Asa Esquerda",
-          "ko": "왼쪽 날개",
-          "zh-Hant": "左翼",
-          "zh-Hans": "左翼",
-          "ar": "جناح أيسر",
-          "es-419": "Ala izquierda"
-        },
         "base_health": 520,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24876,22 +20641,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24908,22 +20657,6 @@
       },
       {
         "part": "right-leg",
-        "names": {
-          "ja": "右脚",
-          "en": "Right Leg",
-          "fr": "Patte droite",
-          "it": "Zampa destra",
-          "de": "Rechtes Bein",
-          "es": "Pata derecha",
-          "ru": "Правая лапа",
-          "pl": "Prawa noga",
-          "pt-BR": "Perna Direita",
-          "ko": "오른쪽 다리",
-          "zh-Hant": "右腳",
-          "zh-Hans": "右腿",
-          "ar": "قدم يمنى",
-          "es-419": "Pata derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24940,7 +20673,6 @@
       },
       {
         "part": "hide",
-        "names": {},
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24957,22 +20689,6 @@
       },
       {
         "part": "right-wing",
-        "names": {
-          "ja": "右翼",
-          "en": "Right Wing",
-          "fr": "Aile droite",
-          "it": "Ala destra",
-          "de": "Rechter Flügel",
-          "es": "Ala derecha",
-          "ru": "Правое крыло",
-          "pl": "Prawe skrzydło",
-          "pt-BR": "Asa Direita",
-          "ko": "오른쪽 날개",
-          "zh-Hant": "右翼",
-          "zh-Hans": "右翼",
-          "ar": "جناح أيمن",
-          "es-419": "Ala derecha"
-        },
         "base_health": 520,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24989,22 +20705,6 @@
       },
       {
         "part": "left-leg",
-        "names": {
-          "ja": "左脚",
-          "en": "Left Leg",
-          "fr": "Patte gauche",
-          "it": "Zampa sinistra",
-          "de": "Linkes Bein",
-          "es": "Pata izquierda",
-          "ru": "Левая лапа",
-          "pl": "Lewa noga",
-          "pt-BR": "Perna Esquerda",
-          "ko": "왼쪽 다리",
-          "zh-Hant": "左腳",
-          "zh-Hans": "左腿",
-          "ar": "قدم يسرى",
-          "es-419": "Pata izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25021,22 +20721,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25053,22 +20737,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 520,
         "kinsect_essence": "green",
         "multipliers": {
@@ -25487,22 +21155,6 @@
     "parts": [
       {
         "part": "left-front-leg",
-        "names": {
-          "ja": "左前脚",
-          "en": "Left Foreleg",
-          "fr": "Patte avant gauche",
-          "it": "Zampa anteriore sx",
-          "de": "Vorderbein (L)",
-          "es": "Pata delantera izq.",
-          "ru": "Левая передняя лапа",
-          "pl": "L przednia noga",
-          "pt-BR": "Perna Dianteira Esq.",
-          "ko": "왼쪽 앞다리",
-          "zh-Hant": "左前腳",
-          "zh-Hans": "左前肢",
-          "ar": "قدم يسرى أمامية",
-          "es-419": "Pata delantera izq."
-        },
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25519,22 +21171,6 @@
       },
       {
         "part": "head",
-        "names": {
-          "ja": "頭",
-          "en": "Head",
-          "fr": "Tête",
-          "it": "Testa",
-          "de": "Kopf",
-          "es": "Cabeza",
-          "ru": "Голова",
-          "pl": "Głowa",
-          "pt-BR": "Cabeça",
-          "ko": "머리",
-          "zh-Hant": "頭部",
-          "zh-Hans": "头部",
-          "ar": "رأس",
-          "es-419": "Cabeza"
-        },
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25551,22 +21187,6 @@
       },
       {
         "part": "left-hind-leg",
-        "names": {
-          "ja": "左後脚",
-          "en": "Left Hind Leg",
-          "fr": "Patte arrière gauche",
-          "it": "Zampa posteriore sx",
-          "de": "Hinterbein (L)",
-          "es": "Garra trasera izq.",
-          "ru": "Левая задняя лапа",
-          "pl": "Lewa tylna noga",
-          "pt-BR": "Perna Traseira Esq.",
-          "ko": "왼쪽 뒷다리",
-          "zh-Hant": "左後腳",
-          "zh-Hans": "左后肢",
-          "ar": "ساق خلفية يسرى",
-          "es-419": "Pata trasera izquierda"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25583,22 +21203,6 @@
       },
       {
         "part": "right-hind-leg",
-        "names": {
-          "ja": "右後脚",
-          "en": "Right Hind Leg",
-          "fr": "Patte arrière droite",
-          "it": "Zampa posteriore dx",
-          "de": "Hinterbein (R)",
-          "es": "Garra trasera dcha.",
-          "ru": "Правая задняя лапа",
-          "pl": "Prawa tylna noga",
-          "pt-BR": "Perna Traseira Dir.",
-          "ko": "오른쪽 뒷다리",
-          "zh-Hant": "右後腳",
-          "zh-Hans": "右后肢",
-          "ar": "ساق خلفية يمنى",
-          "es-419": "Pata trasera derecha"
-        },
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25615,22 +21219,6 @@
       },
       {
         "part": "torso",
-        "names": {
-          "ja": "胴",
-          "en": "Torso",
-          "fr": "Torse",
-          "it": "Torso",
-          "de": "Torso",
-          "es": "Torso",
-          "ru": "Туловище",
-          "pl": "Tułów",
-          "pt-BR": "Tronco",
-          "ko": "몸통",
-          "zh-Hant": "軀幹",
-          "zh-Hans": "躯干",
-          "ar": "جذع",
-          "es-419": "Torso"
-        },
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25647,22 +21235,6 @@
       },
       {
         "part": "right-front-leg",
-        "names": {
-          "ja": "右前脚",
-          "en": "Right Foreleg",
-          "fr": "Patte avant droite",
-          "it": "Zampa anteriore dx",
-          "de": "Vorderbein (R)",
-          "es": "Pata delantera dcha.",
-          "ru": "Правая передняя лапа",
-          "pl": "P przednia noga",
-          "pt-BR": "Perna Dianteira Dir.",
-          "ko": "오른쪽 앞다리",
-          "zh-Hant": "右前腳",
-          "zh-Hans": "右前肢",
-          "ar": "قدم يمنى أمامية",
-          "es-419": "Pata delantera der."
-        },
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25679,22 +21251,6 @@
       },
       {
         "part": "tail",
-        "names": {
-          "ja": "尻尾",
-          "en": "Tail",
-          "fr": "Queue",
-          "it": "Coda",
-          "de": "Schwanz",
-          "es": "Cola",
-          "ru": "Хвост",
-          "pl": "Ogon",
-          "pt-BR": "Cauda",
-          "ko": "꼬리",
-          "zh-Hant": "尾巴",
-          "zh-Hans": "尾巴",
-          "ar": "ذيل",
-          "es-419": "Cola"
-        },
         "base_health": 300,
         "kinsect_essence": "green",
         "multipliers": {

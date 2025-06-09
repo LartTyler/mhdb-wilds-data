@@ -1,12 +1,13 @@
 use crate::processor::monsters::large::RunContext;
 use crate::processor::weapons::insect_glaive::KinsectEssenceKind;
-use crate::processor::{LanguageMap, PopulateStrings, ReadFile};
+use crate::processor::{LanguageMap, PopulateStrings, ReadFile, WriteFile};
 use crate::serde::ordered_map;
 use anyhow::Context;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::collections::hash_map::Entry;
 use std::collections::HashMap;
 
 const DATA_PREFIX: &str = "user/monsters/parts";
@@ -16,11 +17,14 @@ const BREAK_REWARDS_SUFFIX: &str = "_Param_PartsBreakReward.json";
 
 const STRINGS: &str = "msg/EnemyPartsTypeName.json";
 
+const PART_NAMES_OUTPUT: &str = "merged/PartNames.json";
+
 pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Result<()> {
     let types: Vec<TypeData> = Vec::read_file(config.io.output.join(TYPE_DATA))?;
     let types: HashMap<PartKind, TypeData> = types.into_iter().map(|v| (v.kind, v)).collect();
 
     let strings = Msg::read_file(config.io.output.join(STRINGS))?;
+    let mut part_names: HashMap<PartKind, PartName> = HashMap::new();
 
     for monster in context.monsters.iter_mut() {
         let prefix = config.io.output.join(DATA_PREFIX);
@@ -33,12 +37,18 @@ pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Resu
         monster.base_health = data.base_health;
 
         for data in data.parts {
-            let mut part = Part::from(data);
-            let type_data = types
-                .get(&part.kind)
-                .context("Could not find part type data")?;
+            let part = Part::from(data);
 
-            strings.populate(&type_data.name_guid, &mut part.names);
+            if let Entry::Vacant(entry) = part_names.entry(part.kind) {
+                let type_data = types
+                    .get(&part.kind)
+                    .context("Could not find part type data")?;
+
+                let mut part_name = PartName::new(part.kind);
+                strings.populate(&type_data.name_guid, &mut part_name.names);
+
+                entry.insert(part_name);
+            }
 
             monster.parts.push(part);
         }
@@ -100,6 +110,10 @@ pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Resu
         }
     }
 
+    let mut part_names: Vec<_> = part_names.values().collect();
+    part_names.sort_by_key(|v| v.kind);
+    part_names.write_file(config.io.output.join(PART_NAMES_OUTPUT))?;
+
     Ok(())
 }
 
@@ -116,8 +130,6 @@ pub(super) struct Part {
 
     #[serde(flatten)]
     pub kind: PartKind,
-    #[serde(serialize_with = "ordered_map")]
-    names: LanguageMap,
     base_health: Option<u16>,
     kinsect_essence: KinsectEssenceKind,
     pub multipliers: Multipliers,
@@ -184,7 +196,6 @@ impl From<PartData> for Part {
             break_guids: Vec::new(),
             break_reward_indexes: Vec::new(),
             kind: value.kind,
-            names: LanguageMap::new(),
             base_health: value.has_health.then_some(value.health[0]),
             kinsect_essence: value.kinsect_essence,
             multipliers: Multipliers::default(),
@@ -383,4 +394,21 @@ struct LinkedPartsData {
     guid: String,
     #[serde(rename = "_LinkPartsGuids")]
     targets: Vec<String>,
+}
+
+#[derive(Debug, Serialize)]
+struct PartName {
+    #[serde(flatten)]
+    kind: PartKind,
+    #[serde(serialize_with = "ordered_map")]
+    names: LanguageMap,
+}
+
+impl PartName {
+    fn new(kind: PartKind) -> Self {
+        Self {
+            kind,
+            names: LanguageMap::new(),
+        }
+    }
 }
