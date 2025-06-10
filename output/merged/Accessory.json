@@ -39,7 +39,9 @@
     "skills": {
       "-1716324608": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -2136274304,
@@ -81,7 +83,9 @@
     "skills": {
       "1160639488": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -2135118208,
@@ -123,7 +127,9 @@
     "skills": {
       "-856322816": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -2098600064,
@@ -166,7 +172,9 @@
       "-168922880": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -2092760832,
@@ -208,7 +216,9 @@
     "skills": {
       "166057120": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -2046315136,
@@ -250,7 +260,9 @@
     "skills": {
       "-420608864": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": -2040726144,
@@ -293,7 +305,9 @@
       "-420608864": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1958732416,
@@ -335,7 +349,9 @@
     "skills": {
       "383104832": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1957828352,
@@ -377,7 +393,9 @@
     "skills": {
       "166057120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1918136064,
@@ -419,7 +437,9 @@
     "skills": {
       "1758661504": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1911376000,
@@ -461,7 +481,9 @@
     "skills": {
       "1470960256": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1907467776,
@@ -503,7 +525,9 @@
     "skills": {
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1898312320,
@@ -545,7 +569,9 @@
     "skills": {
       "1966172160": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1890995072,
@@ -587,7 +613,9 @@
     "skills": {
       "-1475134080": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1843593600,
@@ -629,7 +657,9 @@
     "skills": {
       "1": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": -1838842752,
@@ -672,7 +702,9 @@
       "-307644128": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1826260608,
@@ -715,7 +747,9 @@
       "-562534336": 3,
       "-420608864": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1814261888,
@@ -757,7 +791,9 @@
     "skills": {
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1808385664,
@@ -799,7 +835,9 @@
     "skills": {
       "1940820864": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": -1801961088,
@@ -841,7 +879,9 @@
     "skills": {
       "1425756032": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1780766976,
@@ -884,7 +924,9 @@
       "1160639488": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1779241856,
@@ -926,7 +968,9 @@
     "skills": {
       "-1629629184": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1775008128,
@@ -968,7 +1012,9 @@
     "skills": {
       "2045149568": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": -1770074240,
@@ -1010,7 +1056,9 @@
     "skills": {
       "691199232": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": -1769520768,
@@ -1053,7 +1101,9 @@
       "1160639488": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1749412352,
@@ -1095,7 +1145,9 @@
     "skills": {
       "898284480": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "moss-green",
+    "icon_color_id": 13
   },
   {
     "game_id": -1730551168,
@@ -1137,7 +1189,9 @@
     "skills": {
       "-1507579776": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1726768640,
@@ -1179,7 +1233,9 @@
     "skills": {
       "-201445760": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1723727616,
@@ -1221,7 +1277,9 @@
     "skills": {
       "802725120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1720284416,
@@ -1263,7 +1321,9 @@
     "skills": {
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -1714653184,
@@ -1305,7 +1365,9 @@
     "skills": {
       "166057120": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1709840128,
@@ -1347,7 +1409,9 @@
     "skills": {
       "-776946176": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -1708108928,
@@ -1390,7 +1454,9 @@
       "-1237438336": 2,
       "1": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1706210176,
@@ -1432,7 +1498,9 @@
     "skills": {
       "-168922880": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -1693028992,
@@ -1474,7 +1542,9 @@
     "skills": {
       "1452140672": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1672815872,
@@ -1517,7 +1587,9 @@
       "-562534336": 3,
       "-181127504": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1669066368,
@@ -1559,7 +1631,9 @@
     "skills": {
       "-1716324608": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1664513664,
@@ -1601,7 +1675,9 @@
     "skills": {
       "1758661504": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1645940096,
@@ -1643,7 +1719,9 @@
     "skills": {
       "27684744": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1631437696,
@@ -1686,7 +1764,9 @@
       "-307644128": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1626218240,
@@ -1728,7 +1808,9 @@
     "skills": {
       "1522518528": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": -1622630272,
@@ -1771,7 +1853,9 @@
       "-893407296": 1,
       "-776946176": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -1609962496,
@@ -1814,7 +1898,9 @@
       "686533440": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1604621952,
@@ -1856,7 +1942,9 @@
     "skills": {
       "1711950720": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1581788032,
@@ -1899,7 +1987,9 @@
       "1": 1,
       "353114912": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1569165952,
@@ -1941,7 +2031,9 @@
     "skills": {
       "-1961116288": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1550869760,
@@ -1983,7 +2075,9 @@
     "skills": {
       "632127488": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1549794304,
@@ -2025,7 +2119,9 @@
     "skills": {
       "-181127504": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1545069696,
@@ -2067,7 +2163,9 @@
     "skills": {
       "1500129152": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -1518352896,
@@ -2109,7 +2207,9 @@
     "skills": {
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1489248128,
@@ -2152,7 +2252,9 @@
       "-307644128": 1,
       "-181127504": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1485261696,
@@ -2194,7 +2296,9 @@
     "skills": {
       "673822976": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1465477120,
@@ -2237,7 +2341,9 @@
       "-893407296": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1463543552,
@@ -2279,7 +2385,9 @@
     "skills": {
       "1594792704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -1452017024,
@@ -2322,7 +2430,9 @@
       "-307644128": 1,
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -1449268352,
@@ -2364,7 +2474,9 @@
     "skills": {
       "-1121468544": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "green",
+    "icon_color_id": 14
   },
   {
     "game_id": -1434375936,
@@ -2406,7 +2518,9 @@
     "skills": {
       "-193031552": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1416808832,
@@ -2448,7 +2562,9 @@
     "skills": {
       "-2125233152": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -1401571456,
@@ -2490,7 +2606,9 @@
     "skills": {
       "-1662120192": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1397276160,
@@ -2532,7 +2650,9 @@
     "skills": {
       "-160562336": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1394596736,
@@ -2574,7 +2694,9 @@
     "skills": {
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1392648576,
@@ -2616,7 +2738,9 @@
     "skills": {
       "192746944": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1381641984,
@@ -2658,7 +2782,9 @@
     "skills": {
       "-1689391744": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": -1374390656,
@@ -2700,7 +2826,9 @@
     "skills": {
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1345708800,
@@ -2743,7 +2871,9 @@
       "-562534336": 3,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -1340047744,
@@ -2785,7 +2915,9 @@
     "skills": {
       "1389859584": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1319399040,
@@ -2828,7 +2960,9 @@
       "-1946345856": 3,
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1318893952,
@@ -2870,7 +3004,9 @@
     "skills": {
       "-593005376": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1267187456,
@@ -2912,7 +3048,9 @@
     "skills": {
       "2143068800": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1220470528,
@@ -2954,7 +3092,9 @@
     "skills": {
       "686533440": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1218528128,
@@ -2996,7 +3136,9 @@
     "skills": {
       "-181127504": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1205597696,
@@ -3039,7 +3181,9 @@
       "-1961116288": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1188973056,
@@ -3081,7 +3225,9 @@
     "skills": {
       "508916704": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1178454912,
@@ -3123,7 +3269,9 @@
     "skills": {
       "402237312": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -1166585472,
@@ -3165,7 +3313,9 @@
     "skills": {
       "-420608864": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": -1163377152,
@@ -3207,7 +3357,9 @@
     "skills": {
       "397306144": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": -1161972480,
@@ -3249,7 +3401,9 @@
     "skills": {
       "919683456": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1159995904,
@@ -3291,7 +3445,9 @@
     "skills": {
       "169998480": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -1152759424,
@@ -3334,7 +3490,9 @@
       "313598432": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": -1139186816,
@@ -3376,7 +3534,9 @@
     "skills": {
       "78208296": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": -1133012096,
@@ -3418,7 +3578,9 @@
     "skills": {
       "-1716324608": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1113106688,
@@ -3460,7 +3622,9 @@
     "skills": {
       "424768352": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1108771200,
@@ -3503,7 +3667,9 @@
       "-307644128": 1,
       "-168922880": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -1082640896,
@@ -3546,7 +3712,9 @@
       "-2096489472": 1,
       "802725120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -1081371008,
@@ -3588,7 +3756,9 @@
     "skills": {
       "-2096489472": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -1072040640,
@@ -3630,7 +3800,9 @@
     "skills": {
       "652161472": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1055912640,
@@ -3673,7 +3845,9 @@
       "-1946345856": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1050453888,
@@ -3716,7 +3890,9 @@
       "-893407296": 1,
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": -1034943744,
@@ -3758,7 +3934,9 @@
     "skills": {
       "-1946345856": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -1016655360,
@@ -3800,7 +3978,9 @@
     "skills": {
       "522288832": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -1016332736,
@@ -3842,7 +4022,9 @@
     "skills": {
       "-844978880": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": -1003144960,
@@ -3884,7 +4066,9 @@
     "skills": {
       "-676967744": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -949824384,
@@ -3926,7 +4110,9 @@
     "skills": {
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -937758144,
@@ -3969,7 +4155,9 @@
       "-562534336": 3,
       "691199232": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -933830080,
@@ -4012,7 +4200,9 @@
       "-1946345856": 3,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -919326784,
@@ -4055,7 +4245,9 @@
       "402237312": 1,
       "686533440": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -857552768,
@@ -4097,7 +4289,9 @@
     "skills": {
       "-844978880": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": -848728960,
@@ -4139,7 +4333,9 @@
     "skills": {
       "-1607763456": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -790612736,
@@ -4182,7 +4378,9 @@
       "-307644128": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -777488128,
@@ -4225,7 +4423,9 @@
       "-562534336": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -773823488,
@@ -4268,7 +4468,9 @@
       "-1475134080": 3,
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -753381888,
@@ -4310,7 +4512,9 @@
     "skills": {
       "-181127504": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -749488896,
@@ -4352,7 +4556,9 @@
     "skills": {
       "313598432": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": -725659840,
@@ -4394,7 +4600,9 @@
     "skills": {
       "-895828480": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -714680256,
@@ -4436,7 +4644,9 @@
     "skills": {
       "-1863702144": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -712981504,
@@ -4478,7 +4688,9 @@
     "skills": {
       "-283334048": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": -706109632,
@@ -4521,7 +4733,9 @@
       "-1629629184": 1,
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -699699904,
@@ -4564,7 +4778,9 @@
       "1": 1,
       "402237312": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -693750528,
@@ -4606,7 +4822,9 @@
     "skills": {
       "-2022542848": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": -682377152,
@@ -4649,7 +4867,9 @@
       "-2096489472": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -677836288,
@@ -4692,7 +4912,9 @@
       "686533440": 1,
       "802725120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -673317952,
@@ -4734,7 +4956,9 @@
     "skills": {
       "-315492576": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": -645579072,
@@ -4777,7 +5001,9 @@
       "-562534336": 3,
       "-283334048": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -645377408,
@@ -4820,7 +5046,9 @@
       "-893407296": 1,
       "353114912": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -621608832,
@@ -4863,7 +5091,9 @@
       "-283334048": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": -595931264,
@@ -4906,7 +5136,9 @@
       "-1237438336": 2,
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -590616064,
@@ -4948,7 +5180,9 @@
     "skills": {
       "1639440000": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -557270784,
@@ -4990,7 +5224,9 @@
     "skills": {
       "1613139840": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -546783040,
@@ -5033,7 +5269,9 @@
       "-1674114176": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -534202944,
@@ -5075,7 +5313,9 @@
     "skills": {
       "1346775424": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -522458240,
@@ -5117,7 +5357,9 @@
     "skills": {
       "-1863702144": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -510575936,
@@ -5160,7 +5402,9 @@
       "-893407296": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -508830240,
@@ -5202,7 +5446,9 @@
     "skills": {
       "-1237438336": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -493483136,
@@ -5244,7 +5490,9 @@
     "skills": {
       "1050520384": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -487601632,
@@ -5287,7 +5535,9 @@
       "-1961116288": 3,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -477564992,
@@ -5330,7 +5580,9 @@
       "-776946176": 3,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -463114720,
@@ -5373,7 +5625,9 @@
       "-181127504": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -451614112,
@@ -5415,7 +5669,9 @@
     "skills": {
       "-2096489472": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -447558304,
@@ -5457,7 +5713,9 @@
     "skills": {
       "565867136": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -430198272,
@@ -5500,7 +5758,9 @@
       "802725120": 2,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -417484064,
@@ -5542,7 +5802,9 @@
     "skills": {
       "742695104": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -394478144,
@@ -5584,7 +5846,9 @@
     "skills": {
       "-1304512512": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -389889248,
@@ -5627,7 +5891,9 @@
       "-1629629184": 1,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -384925600,
@@ -5669,7 +5935,9 @@
     "skills": {
       "1459579264": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -325572000,
@@ -5711,7 +5979,9 @@
     "skills": {
       "-857543744": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": -316552800,
@@ -5753,7 +6023,9 @@
     "skills": {
       "595870656": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": -301443072,
@@ -5795,7 +6067,9 @@
     "skills": {
       "691199232": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": -292390464,
@@ -5838,7 +6112,9 @@
       "-893407296": 1,
       "-562534336": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -245086656,
@@ -5880,7 +6156,9 @@
     "skills": {
       "686533440": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -243518144,
@@ -5922,7 +6200,9 @@
     "skills": {
       "-1475134080": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": -198925264,
@@ -5964,7 +6244,9 @@
     "skills": {
       "-1073401280": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": -198819232,
@@ -6006,7 +6288,9 @@
     "skills": {
       "-1674114176": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": -177096704,
@@ -6048,7 +6332,9 @@
     "skills": {
       "850626240": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": -150840288,
@@ -6090,7 +6376,9 @@
     "skills": {
       "-776946176": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": -145991360,
@@ -6132,7 +6420,9 @@
     "skills": {
       "1050520384": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": -143560672,
@@ -6175,7 +6465,9 @@
       "-2096489472": 1,
       "-1237438336": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -140702464,
@@ -6218,7 +6510,9 @@
       "-1629629184": 1,
       "686533440": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -102120712,
@@ -6261,7 +6555,9 @@
       "-893407296": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": -98207152,
@@ -6303,7 +6599,9 @@
     "skills": {
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -92885912,
@@ -6346,7 +6644,9 @@
       "-1674114176": 1,
       "-562534336": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -87428912,
@@ -6388,7 +6688,9 @@
     "skills": {
       "-596764096": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": -35111916,
@@ -6430,7 +6732,9 @@
     "skills": {
       "-481419552": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": -19370102,
@@ -6473,7 +6777,9 @@
       "-420608864": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": -15284539,
@@ -6515,7 +6821,9 @@
     "skills": {
       "-562534336": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": -12878304,
@@ -6557,7 +6865,9 @@
     "skills": {
       "-562534336": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 276,
@@ -6600,7 +6910,9 @@
       "-1674114176": 3,
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 783,
@@ -6643,7 +6955,9 @@
       "1452140672": 3,
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 1508,
@@ -6686,7 +7000,9 @@
       "-776946176": 3,
       "-181127504": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 1570,
@@ -6729,7 +7045,9 @@
       "-776946176": 3,
       "-283334048": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 1591,
@@ -6772,7 +7090,9 @@
       "-562534336": 1,
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 1625,
@@ -6815,7 +7135,9 @@
       "1050520384": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1919,
@@ -6858,7 +7180,9 @@
       "-283334048": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 2186,
@@ -6901,7 +7225,9 @@
       "1050520384": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 2420,
@@ -6944,7 +7270,9 @@
       "-776946176": 3,
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 3416,
@@ -6987,7 +7315,9 @@
       "-283334048": 3,
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 3690,
@@ -7030,7 +7360,9 @@
       "-1961116288": 3,
       "-776946176": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 4514,
@@ -7073,7 +7405,9 @@
       "-562534336": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 4715,
@@ -7116,7 +7450,9 @@
       "508916704": 1,
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 4781,
@@ -7159,7 +7495,9 @@
       "-562534336": 3,
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 5173,
@@ -7202,7 +7540,9 @@
       "-283334048": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 5731,
@@ -7245,7 +7585,9 @@
       "-562534336": 1,
       "691199232": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 5876,
@@ -7288,7 +7630,9 @@
       "313598432": 3,
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 6393,
@@ -7331,7 +7675,9 @@
       "1050520384": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 6455,
@@ -7374,7 +7720,9 @@
       "691199232": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 6866,
@@ -7417,7 +7765,9 @@
       "313598432": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 7249,
@@ -7460,7 +7810,9 @@
       "-776946176": 3,
       "313598432": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 7817,
@@ -7503,7 +7855,9 @@
       "1268070400": 3,
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 8302,
@@ -7546,7 +7900,9 @@
       "-1674114176": 1,
       "-776946176": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 8988,
@@ -7589,7 +7945,9 @@
       "-1961116288": 3,
       "-562534336": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 9096,
@@ -7632,7 +7990,9 @@
       "-1674114176": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 11183,
@@ -7675,7 +8035,9 @@
       "-1961116288": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 12151,
@@ -7718,7 +8080,9 @@
       "313598432": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 12241,
@@ -7761,7 +8125,9 @@
       "-1674114176": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 12727,
@@ -7804,7 +8170,9 @@
       "508916704": 3,
       "1050520384": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 13386,
@@ -7847,7 +8215,9 @@
       "-1674114176": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 13550,
@@ -7890,7 +8260,9 @@
       "-283334048": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 14731,
@@ -7933,7 +8305,9 @@
       "313598432": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 14794,
@@ -7976,7 +8350,9 @@
       "1452140672": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 14855,
@@ -8019,7 +8395,9 @@
       "-776946176": 3,
       "691199232": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 14956,
@@ -8062,7 +8440,9 @@
       "-562534336": 1,
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 15379,
@@ -8105,7 +8485,9 @@
       "508916704": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 16193,
@@ -8148,7 +8530,9 @@
       "-562534336": 1,
       "-181127504": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 16930,
@@ -8191,7 +8575,9 @@
       "-283334048": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 17415,
@@ -8234,7 +8620,9 @@
       "691199232": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 17610,
@@ -8277,7 +8665,9 @@
       "-776946176": 1,
       "-283334048": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 17913,
@@ -8320,7 +8710,9 @@
       "-1674114176": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 17949,
@@ -8363,7 +8755,9 @@
       "508916704": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 18359,
@@ -8406,7 +8800,9 @@
       "1268070400": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 18958,
@@ -8449,7 +8845,9 @@
       "-1961116288": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 19383,
@@ -8492,7 +8890,9 @@
       "313598432": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 20183,
@@ -8535,7 +8935,9 @@
       "-1961116288": 1,
       "-776946176": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 20287,
@@ -8578,7 +8980,9 @@
       "-1674114176": 3,
       "-776946176": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 20306,
@@ -8621,7 +9025,9 @@
       "-181127504": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 20412,
@@ -8664,7 +9070,9 @@
       "-562534336": 3,
       "313598432": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 21045,
@@ -8707,7 +9115,9 @@
       "313598432": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 21328,
@@ -8750,7 +9160,9 @@
       "-776946176": 1,
       "-181127504": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 21515,
@@ -8793,7 +9205,9 @@
       "-776946176": 3,
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 21891,
@@ -8836,7 +9250,9 @@
       "-181127504": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 22048,
@@ -8879,7 +9295,9 @@
       "508916704": 3,
       "691199232": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 22310,
@@ -8922,7 +9340,9 @@
       "-181127504": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 22604,
@@ -8965,7 +9385,9 @@
       "1452140672": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 22673,
@@ -9008,7 +9430,9 @@
       "-181127504": 3,
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 22681,
@@ -9051,7 +9475,9 @@
       "508916704": 1,
       "691199232": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 23236,
@@ -9094,7 +9520,9 @@
       "1452140672": 3,
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 23494,
@@ -9137,7 +9565,9 @@
       "-776946176": 3,
       "1050520384": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 23522,
@@ -9180,7 +9610,9 @@
       "-562534336": 1,
       "-283334048": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 23556,
@@ -9223,7 +9655,9 @@
       "-181127504": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 23622,
@@ -9266,7 +9700,9 @@
       "-1961116288": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 23677,
@@ -9309,7 +9745,9 @@
       "-1961116288": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 24211,
@@ -9352,7 +9790,9 @@
       "-181127504": 3,
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 24561,
@@ -9395,7 +9835,9 @@
       "1268070400": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 24768,
@@ -9438,7 +9880,9 @@
       "508916704": 3,
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 24865,
@@ -9481,7 +9925,9 @@
       "-776946176": 1,
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 24927,
@@ -9524,7 +9970,9 @@
       "-562534336": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 25926,
@@ -9567,7 +10015,9 @@
       "-562534336": 3,
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 25952,
@@ -9610,7 +10060,9 @@
       "691199232": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 26003,
@@ -9653,7 +10105,9 @@
       "-1674114176": 3,
       "-562534336": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 26077,
@@ -9696,7 +10150,9 @@
       "-776946176": 1,
       "691199232": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 27036,
@@ -9739,7 +10195,9 @@
       "-1961116288": 3,
       "508916704": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 27791,
@@ -9782,7 +10240,9 @@
       "-776946176": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 28076,
@@ -9825,7 +10285,9 @@
       "-776946176": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 30137,
@@ -9868,7 +10330,9 @@
       "-776946176": 1,
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 30161,
@@ -9911,7 +10375,9 @@
       "1268070400": 3,
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 30405,
@@ -9954,7 +10420,9 @@
       "1050520384": 3,
       "1452140672": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 30490,
@@ -9997,7 +10465,9 @@
       "-1961116288": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 31893,
@@ -10040,7 +10510,9 @@
       "-1674114176": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 32288,
@@ -10083,7 +10555,9 @@
       "691199232": 1,
       "1452140672": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 32433,
@@ -10126,7 +10600,9 @@
       "-283334048": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 32676,
@@ -10169,7 +10645,9 @@
       "508916704": 3,
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 5028590,
@@ -10211,7 +10689,9 @@
     "skills": {
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 5672852,
@@ -10253,7 +10733,9 @@
     "skills": {
       "1077686656": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 7844454,
@@ -10295,7 +10777,9 @@
     "skills": {
       "1444935552": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 17525612,
@@ -10338,7 +10822,9 @@
       "-1629629184": 1,
       "-420608864": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 19401228,
@@ -10380,7 +10866,9 @@
     "skills": {
       "-1946345856": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 23951036,
@@ -10423,7 +10911,9 @@
       "-893407296": 1,
       "1050520384": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 34988560,
@@ -10465,7 +10955,9 @@
     "skills": {
       "-2123993856": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "moss-green",
+    "icon_color_id": 13
   },
   {
     "game_id": 44196940,
@@ -10507,7 +10999,9 @@
     "skills": {
       "-893407296": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 64300272,
@@ -10550,7 +11044,9 @@
       "-893407296": 1,
       "-283334048": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 67372504,
@@ -10592,7 +11088,9 @@
     "skills": {
       "1500129152": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 72596768,
@@ -10634,7 +11132,9 @@
     "skills": {
       "1845834112": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": 97814240,
@@ -10676,7 +11176,9 @@
     "skills": {
       "-596764096": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 103198480,
@@ -10719,7 +11221,9 @@
       "-420608864": 1,
       "1613139840": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 115284000,
@@ -10762,7 +11266,9 @@
       "-1475134080": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 124240896,
@@ -10804,7 +11310,9 @@
     "skills": {
       "-168922880": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 130724024,
@@ -10846,7 +11354,9 @@
     "skills": {
       "1": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": 146040608,
@@ -10888,7 +11398,9 @@
     "skills": {
       "1160639488": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 163043584,
@@ -10931,7 +11443,9 @@
       "-307644128": 1,
       "1711950720": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 183160800,
@@ -10973,7 +11487,9 @@
     "skills": {
       "-1961116288": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 186552368,
@@ -11015,7 +11531,9 @@
     "skills": {
       "1268070400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 213184688,
@@ -11057,7 +11575,9 @@
     "skills": {
       "2106877312": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 219173888,
@@ -11100,7 +11620,9 @@
       "-776946176": 3,
       "-420608864": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 248848256,
@@ -11142,7 +11664,9 @@
     "skills": {
       "-2096489472": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 280205024,
@@ -11184,7 +11708,9 @@
     "skills": {
       "1": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": 298345088,
@@ -11226,7 +11752,9 @@
     "skills": {
       "802725120": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 336866720,
@@ -11269,7 +11797,9 @@
       "-2096489472": 1,
       "-1629629184": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 386498304,
@@ -11311,7 +11841,9 @@
     "skills": {
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 391149760,
@@ -11354,7 +11886,9 @@
       "-1629629184": 1,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 435353600,
@@ -11396,7 +11930,9 @@
     "skills": {
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 446613472,
@@ -11438,7 +11974,9 @@
     "skills": {
       "691199232": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 454747104,
@@ -11480,7 +12018,9 @@
     "skills": {
       "-1235658624": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "green",
+    "icon_color_id": 14
   },
   {
     "game_id": 457280288,
@@ -11522,7 +12062,9 @@
     "skills": {
       "-1475134080": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 460437856,
@@ -11565,7 +12107,9 @@
       "-2096489472": 1,
       "402237312": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 499818016,
@@ -11608,7 +12152,9 @@
       "-1237438336": 2,
       "686533440": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 519959680,
@@ -11650,7 +12196,9 @@
     "skills": {
       "1359821952": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 520733824,
@@ -11693,7 +12241,9 @@
       "-420608864": 1,
       "-168922880": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 583988672,
@@ -11735,7 +12285,9 @@
     "skills": {
       "1594792704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 594204352,
@@ -11777,7 +12329,9 @@
     "skills": {
       "-893407296": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 618579264,
@@ -11820,7 +12374,9 @@
       "-307644128": 1,
       "802725120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 639622592,
@@ -11862,7 +12418,9 @@
     "skills": {
       "-1863702144": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 645053056,
@@ -11904,7 +12462,9 @@
     "skills": {
       "634068352": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 654954304,
@@ -11947,7 +12507,9 @@
       "-307644128": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 656487488,
@@ -11989,7 +12551,9 @@
     "skills": {
       "-171796848": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 668852032,
@@ -12031,7 +12595,9 @@
     "skills": {
       "-1700743296": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 694060672,
@@ -12073,7 +12639,9 @@
     "skills": {
       "705317568": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 701807872,
@@ -12115,7 +12683,9 @@
     "skills": {
       "820385792": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": 714935168,
@@ -12157,7 +12727,9 @@
     "skills": {
       "1758661504": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 759889920,
@@ -12199,7 +12771,9 @@
     "skills": {
       "1594792704": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 767051200,
@@ -12241,7 +12815,9 @@
     "skills": {
       "-397570464": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "dark-purple",
+    "icon_color_id": 21
   },
   {
     "game_id": 771935488,
@@ -12283,7 +12859,9 @@
     "skills": {
       "-596764096": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 795180288,
@@ -12325,7 +12903,9 @@
     "skills": {
       "353114912": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 797303936,
@@ -12367,7 +12947,9 @@
     "skills": {
       "-283334048": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 839957184,
@@ -12410,7 +12992,9 @@
       "353114912": 1,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 865685248,
@@ -12452,7 +13036,9 @@
     "skills": {
       "-632440576": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 886913856,
@@ -12494,7 +13080,9 @@
     "skills": {
       "-562534336": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 895028672,
@@ -12536,7 +13124,9 @@
     "skills": {
       "1268070400": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 897466048,
@@ -12579,7 +13169,9 @@
       "-776946176": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 910101056,
@@ -12622,7 +13214,9 @@
       "-307644128": 1,
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 912898176,
@@ -12665,7 +13259,9 @@
       "-1961116288": 1,
       "-562534336": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 914233472,
@@ -12708,7 +13304,9 @@
       "508916704": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 934416192,
@@ -12751,7 +13349,9 @@
       "-2096489472": 1,
       "353114912": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 944809600,
@@ -12794,7 +13394,9 @@
       "-420608864": 1,
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 948977536,
@@ -12836,7 +13438,9 @@
     "skills": {
       "1763191040": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 949857152,
@@ -12878,7 +13482,9 @@
     "skills": {
       "-411441344": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 954350400,
@@ -12920,7 +13526,9 @@
     "skills": {
       "469540352": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": 986212736,
@@ -12962,7 +13570,9 @@
     "skills": {
       "-1607763456": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 1024615424,
@@ -13005,7 +13615,9 @@
       "-420608864": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1031937152,
@@ -13048,7 +13660,9 @@
       "-562534336": 3,
       "1050520384": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 1067880832,
@@ -13090,7 +13704,9 @@
     "skills": {
       "-181774400": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": 1088947584,
@@ -13132,7 +13748,9 @@
     "skills": {
       "-1674114176": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 1096472320,
@@ -13175,7 +13793,9 @@
       "1": 1,
       "1444935552": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 1115345024,
@@ -13217,7 +13837,9 @@
     "skills": {
       "397306144": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 1150766464,
@@ -13259,7 +13881,9 @@
     "skills": {
       "-1607763456": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 1162934272,
@@ -13301,7 +13925,9 @@
     "skills": {
       "1500129152": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 1174071168,
@@ -13344,7 +13970,9 @@
       "-420608864": 1,
       "-283334048": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 1179637760,
@@ -13386,7 +14014,9 @@
     "skills": {
       "-1946345856": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1190642816,
@@ -13428,7 +14058,9 @@
     "skills": {
       "1613139840": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1194220032,
@@ -13470,7 +14102,9 @@
     "skills": {
       "397306144": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 1202986624,
@@ -13512,7 +14146,9 @@
     "skills": {
       "-1961297152": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1213481984,
@@ -13554,7 +14190,9 @@
     "skills": {
       "-1961116288": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1216872320,
@@ -13596,7 +14234,9 @@
     "skills": {
       "313598432": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 1230875008,
@@ -13638,7 +14278,9 @@
     "skills": {
       "-257693696": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 1287680640,
@@ -13681,7 +14323,9 @@
       "402237312": 1,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1305797760,
@@ -13723,7 +14367,9 @@
     "skills": {
       "280489184": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 1343145856,
@@ -13765,7 +14411,9 @@
     "skills": {
       "-420608864": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "pink",
+    "icon_color_id": 4
   },
   {
     "game_id": 1377760768,
@@ -13807,7 +14455,9 @@
     "skills": {
       "-160562336": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 1389113984,
@@ -13850,7 +14500,9 @@
       "-893407296": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1397927296,
@@ -13893,7 +14545,9 @@
       "-893407296": 1,
       "-168922880": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 1414248576,
@@ -13935,7 +14589,9 @@
     "skills": {
       "422666624": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 1427190272,
@@ -13977,7 +14633,9 @@
     "skills": {
       "-168922880": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 1443679488,
@@ -14020,7 +14678,9 @@
       "-1674114176": 3,
       "-307644128": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 1444555776,
@@ -14062,7 +14722,9 @@
     "skills": {
       "-1674114176": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 1478235520,
@@ -14104,7 +14766,9 @@
     "skills": {
       "144660544": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "sky",
+    "icon_color_id": 16
   },
   {
     "game_id": 1494637824,
@@ -14147,7 +14811,9 @@
       "1160639488": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1536980096,
@@ -14189,7 +14855,9 @@
     "skills": {
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1596720768,
@@ -14232,7 +14900,9 @@
       "-307644128": 1,
       "1268070400": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1597431680,
@@ -14274,7 +14944,9 @@
     "skills": {
       "686533440": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 1598502400,
@@ -14316,7 +14988,9 @@
     "skills": {
       "1174975744": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 1619248640,
@@ -14359,7 +15033,9 @@
       "-1961116288": 3,
       "-893407296": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1636575872,
@@ -14402,7 +15078,9 @@
       "1050520384": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "emerald",
+    "icon_color_id": 15
   },
   {
     "game_id": 1701043584,
@@ -14444,7 +15122,9 @@
     "skills": {
       "552982656": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1731714432,
@@ -14486,7 +15166,9 @@
     "skills": {
       "894530496": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 1738329216,
@@ -14528,7 +15210,9 @@
     "skills": {
       "-682586176": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 1789092864,
@@ -14570,7 +15254,9 @@
     "skills": {
       "313598432": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "ultramarine",
+    "icon_color_id": 18
   },
   {
     "game_id": 1832912384,
@@ -14612,7 +15298,9 @@
     "skills": {
       "-844978880": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "vermilion",
+    "icon_color_id": 6
   },
   {
     "game_id": 1833462144,
@@ -14655,7 +15343,9 @@
       "-420608864": 1,
       "508916704": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "blue",
+    "icon_color_id": 17
   },
   {
     "game_id": 1887590400,
@@ -14698,7 +15388,9 @@
       "691199232": 3,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "lemon",
+    "icon_color_id": 11
   },
   {
     "game_id": 1906356096,
@@ -14740,7 +15432,9 @@
     "skills": {
       "-283334048": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "brown",
+    "icon_color_id": 8
   },
   {
     "game_id": 1910118400,
@@ -14783,7 +15477,9 @@
       "353114912": 1,
       "686533440": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "yellow",
+    "icon_color_id": 10
   },
   {
     "game_id": 1933586560,
@@ -14825,7 +15521,9 @@
     "skills": {
       "-692636288": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": 1967618304,
@@ -14867,7 +15565,9 @@
     "skills": {
       "-307644128": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 1979979520,
@@ -14909,7 +15609,9 @@
     "skills": {
       "860517760": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "sage-green",
+    "icon_color_id": 12
   },
   {
     "game_id": 2003488640,
@@ -14951,7 +15653,9 @@
     "skills": {
       "1865909632": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "red",
+    "icon_color_id": 5
   },
   {
     "game_id": 2004238976,
@@ -14994,7 +15698,9 @@
       "1": 1,
       "802725120": 2
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 2005516288,
@@ -15036,7 +15742,9 @@
     "skills": {
       "-307644128": 3
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 2071836160,
@@ -15079,7 +15787,9 @@
       "-1237438336": 2,
       "1160639488": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 2074953216,
@@ -15121,7 +15831,9 @@
     "skills": {
       "-1684613760": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "ivory",
+    "icon_color_id": 9
   },
   {
     "game_id": 2088515968,
@@ -15163,7 +15875,9 @@
     "skills": {
       "-776946176": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "rose",
+    "icon_color_id": 3
   },
   {
     "game_id": 2092268800,
@@ -15205,7 +15919,9 @@
     "skills": {
       "1711950720": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "white",
+    "icon_color_id": 1
   },
   {
     "game_id": 2099419520,
@@ -15247,7 +15963,9 @@
     "skills": {
       "-609509888": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "gray",
+    "icon_color_id": 2
   },
   {
     "game_id": 2117714048,
@@ -15290,7 +16008,9 @@
       "-1629629184": 1,
       "1": 1
     },
-    "allowed_on": "weapon"
+    "allowed_on": "weapon",
+    "icon_color": "purple",
+    "icon_color_id": 20
   },
   {
     "game_id": 2145184512,
@@ -15332,6 +16052,8 @@
     "skills": {
       "1472632704": 1
     },
-    "allowed_on": "armor"
+    "allowed_on": "armor",
+    "icon_color": "white",
+    "icon_color_id": 1
   }
 ]

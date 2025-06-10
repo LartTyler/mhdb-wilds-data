@@ -1,6 +1,7 @@
 use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    to_ingame_rarity, IconColor, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result,
+    WriteFile,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
@@ -63,6 +64,8 @@ struct Accessory {
     #[serde(serialize_with = "ordered_map")]
     skills: IdMap,
     allowed_on: AllowedOn,
+    icon_color: IconColor,
+    icon_color_id: u8,
 }
 
 impl From<&AccessoryData> for Accessory {
@@ -76,6 +79,8 @@ impl From<&AccessoryData> for Accessory {
             descriptions: LanguageMap::new(),
             skills: IdMap::new(),
             allowed_on: value.allowed_on.into(),
+            icon_color: value.icon_color,
+            icon_color_id: value.icon_color as u8,
         }
     }
 }
@@ -100,6 +105,8 @@ struct AccessoryData {
     skill_levels: Vec<u8>,
     #[serde(rename = "_AccessoryType")]
     allowed_on: AllowedOnCode,
+    #[serde(rename = "_IconColor")]
+    icon_color: IconColor,
 }
 
 #[derive(Debug, Deserialize_repr, Copy, Clone)]

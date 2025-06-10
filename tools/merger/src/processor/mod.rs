@@ -4,6 +4,7 @@ use rslib::config::Config;
 use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};
+use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 use std::fmt::Display;
 use std::fs;
@@ -488,4 +489,31 @@ impl Guid {
 pub enum HunterRank {
     Low,
     High,
+}
+
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[serde(rename_all = "kebab-case")]
+#[repr(u8)]
+enum IconColor {
+    White = 1,
+    Gray = 2,
+    Rose = 3,
+    Pink = 4,
+    Red = 5,
+    Vermilion = 6,
+    Orange = 7,
+    Brown = 8,
+    Ivory = 9,
+    Yellow = 10,
+    Lemon = 11,
+    SageGreen = 12,
+    MossGreen = 13,
+    Green = 14,
+    Emerald = 15,
+    Sky = 16,
+    Blue = 17,
+    Ultramarine = 18,
+    BluePurple = 19,
+    Purple = 20,
+    DarkPurple = 21,
 }
