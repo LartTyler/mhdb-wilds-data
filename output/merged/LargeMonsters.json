@@ -10026,9 +10026,7 @@
       {
         "part": "right-nail",
         "base_health": 300,
-        "kinsect_essence": {
-          "none": null
-        },
+        "kinsect_essence": null,
         "multipliers": {
           "slash": 0.24,
           "blunt": 0.24,
@@ -10108,9 +10106,7 @@
       {
         "part": "left-nail",
         "base_health": 300,
-        "kinsect_essence": {
-          "none": null
-        },
+        "kinsect_essence": null,
         "multipliers": {
           "slash": 0.24,
           "blunt": 0.24,
@@ -14213,9 +14209,7 @@
       {
         "part": "hide",
         "base_health": null,
-        "kinsect_essence": {
-          "none": null
-        },
+        "kinsect_essence": null,
         "multipliers": {
           "slash": 0.0,
           "blunt": 0.0,

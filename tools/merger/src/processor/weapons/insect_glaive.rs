@@ -82,12 +82,12 @@ impl KinsectLevel {
 #[serde(rename_all = "kebab-case")]
 #[repr(u8)]
 pub enum KinsectEssenceKind {
-    #[serde(serialize_with = "serialize_as_null")]
-    None = 0,
     Red = 1,
     Orange = 2,
     White = 3,
     Green = 4,
+    #[serde(serialize_with = "serialize_as_null", untagged)]
+    None = 0,
 }
 
 fn serialize_as_null<S>(serializer: S) -> Result<S::Ok, S::Error>
