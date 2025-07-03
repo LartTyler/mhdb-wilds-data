@@ -1552,6 +1552,239 @@
     "series_id": -621613632
   },
   {
+    "game_id": 15,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 3,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "pierce",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "spread",
+        "level": 3,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "poison",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": true
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "adhesive",
+    "names": {
+      "ja": "ラサーサアルシアラⅠ",
+      "en": "Rasasa Bowgun I",
+      "fr": "Fusarbalète Rasasa",
+      "it": "Balestra Rasasa I",
+      "de": "Rasasa-Bogengewehr I",
+      "es": "Ballesta Rasasa I",
+      "ru": "Лукорудие Расасы I",
+      "pl": "Łukodziałko Rasasa I",
+      "pt-BR": "Fuzilarco Rasasa I",
+      "ko": "라사사알시아라Ⅰ",
+      "zh-Hant": "強彈尾宿八Ⅰ",
+      "zh-Hans": "轻弩尾宿八Ⅰ",
+      "ar": "بندقية قوس راساسا 1",
+      "es-419": "Ballesta Rasasa I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの尻尾のごとき軽弩。\r\n絶え間なく装填される弾丸は、輝く\r\n軌跡を描き、圧制者に降り注ぐ。",
+      "en": "A light bowgun resembling\r\nthe tail of a Seregios. Its\r\nbarrage of rounds rain down\r\non oppressors like falling stars.",
+      "fr": "Ressemble à la queue d'un\r\nSeregios. Son barrage de\r\nmunitions s'abat sur les tyrans\r\ncomme une pluie d'étoiles.",
+      "it": "Balestra leggera che ricorda la\r\ncoda di un Seregios. I colpi si\r\nabbattono sui nemici come\r\nstelle cadenti.",
+      "de": "Leichtes Bogengewehr, das dem\r\nSchwanz eines Seregios ähnelt.\r\nSein Sperrfeuer prasselt wie ein\r\nSternregen auf Gegner ein.",
+      "es": "Ballesta ligera parecida a una\r\ncola de Seregios. Descarga\r\nlluvias de proyectiles sobre sus\r\nvíctimas como estrellas fugaces.",
+      "ru": "Лёгкое лукорудие, напоминающее\r\nхвост серегиоса. Его снаряды\r\nсыплются с неба, подобно\r\nпадающим звёздам.",
+      "pl": "Lekkie łukodziałko na kształt\r\nogona Seregiosa. Wystrzeliwuje\r\nwe wroga grad pocisków w stylu\r\nspadających gwiazd.",
+      "pt-BR": "Fuzilarco leve similar à cauda\r\nde um Seregios. Sua saraivada de\r\ntiros chove sobre os opressores\r\ncomo estrelas cadentes.",
+      "ko": "셀레기오스의 꼬리 같은\r\n라이트보우건. 쉼 없이\r\n장전되는 탄환이 눈부신 궤적을\r\n그리며 압제자에게 쏟아진다.",
+      "zh-Hant": "宛如千刃龍尾巴的輕弩槍。不停裝填\r\n的彈藥會畫出閃耀的軌跡，傾瀉於\r\n壓制者。",
+      "zh-Hans": "与千刃龙的尾巴有百般相似的轻弩。\r\n源源不断装填的弹丸划出耀目的轨\r\n迹，倾泻在压迫者们的头上。",
+      "ar": "بندقية قوس خفيفة تشبه\r\nذيل (سيرجيوس). تُمطر الظالمين\r\nبوابل من الرصاص\r\nكالنجوم المتساقطة.",
+      "es-419": "Una ballesta ligera semejante a\r\nuna cola de Seregios. La ráfaga\r\nde balas llueve sobre los\r\nopresores como estrellas fugaces."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 16,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 3,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "pierce",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "spread",
+        "level": 3,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "poison",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": true
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "adhesive",
+    "names": {
+      "ja": "叛弩アルシアラ",
+      "en": "Rebel Stopper",
+      "fr": "Coupe-rebelle",
+      "it": "Scanna-ribelli",
+      "de": "Rebellen-Stopper",
+      "es": "Azote de rebeldes",
+      "ru": "Горе мятежника",
+      "pl": "Koniec rebelii",
+      "pt-BR": "Para-rebeldes",
+      "ko": "반노 알시아라",
+      "zh-Hant": "叛弩尾宿八",
+      "zh-Hans": "叛弩尾宿八",
+      "ar": "مكافح المتمردين",
+      "es-419": "Azote de rebeldes"
+    },
+    "descriptions": {
+      "ja": "昂ぶる想いを弾丸に込め、\r\n反逆への戦いに終止符を打て。\r\nラサーサアルシアラ強化形態。",
+      "en": "An upgraded Rasasa Bowgun.\r\nIts shots are guaranteed to end\r\nany rebellion that may arise.",
+      "fr": "Fusarbalète Rasasa amélioré.\r\nSes tirs anéantissent toute\r\nrébellion dans l'œuf.",
+      "it": "Forma potenziata della\r\nbalestra Rasasa.\r\nPuò reprimere qualunque rivolta.",
+      "de": "Ein verbessertes Rasasa-\r\nBogengewehr. Erstickt jede\r\nRebellion im Keim.",
+      "es": "Ballesta Rasasa mejorada.\r\nSus disparos acaban con\r\ncualquier intento de rebelión.",
+      "ru": "Улучшенное «Лукорудие Расасы».\r\nЕго выстрелы способны подавить\r\nлюбое восстание.",
+      "pl": "Ulepszone łukodziałko\r\nRasasa. Jego pociski\r\nzakończą każde powstanie.",
+      "pt-BR": "Fuzilarco Rasasa melhorado.\r\nSeus tiros encerram qualquer\r\nrebelião que possa surgir.",
+      "ko": "격앙된 감정을 탄환에 담아\r\n반역의 싸움을 끝내리라.\r\n라사사알시아라 강화형.",
+      "zh-Hant": "強化版強彈尾宿八。將昂揚的鬥志\r\n注入子彈裡，為叛逆的戰役打上\r\n休止符。",
+      "zh-Hans": "轻弩尾宿八的强化形态。将昂扬的\r\n信念注入子弹，为反抗的战役打上\r\n休止符。",
+      "ar": "بندقية قوس (راساسا) تمت ترقيتها.\r\nطلقاتها تضمن إخماد أي ثورة\r\nقد تنشب.",
+      "es-419": "Ballesta Rasasa mejorada.\r\nSus disparos acaban con\r\ncualquier rebelión que surja."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 15,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 17,
     "kind": "light-bowgun",
     "ammo": [
@@ -7941,5 +8174,238 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 81,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 1,
+        "capacity": 6,
+        "rapid": false
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 4,
+        "rapid": true
+      },
+      {
+        "kind": "spread",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "sticky",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "paralysis",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": true
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "wyvernblast",
+    "names": {
+      "ja": "雷砲サンダークルスⅠ",
+      "en": "Thundacrus I",
+      "fr": "Thundacrus",
+      "it": "Thundacrus I",
+      "de": "Thundacrus I",
+      "es": "Truenacrus I",
+      "ru": "Громакрус I",
+      "pl": "Thundacrus I",
+      "pt-BR": "Relâmpacrus I",
+      "ko": "뇌포 선더크루스Ⅰ",
+      "zh-Hant": "雷砲雷霆海龍Ⅰ",
+      "zh-Hans": "雷炮雷霆交叉Ⅰ",
+      "ar": "ثونداكروس 1",
+      "es-419": "Truenacrus I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの素材を用いた軽弩。\r\n王の威厳を感じさせる銃身からは、\r\n高出力の電撃が放たれる。",
+      "en": "A light bowgun made of\r\nLagiacrus parts. Its majestic\r\nbarrel can fire high voltage\r\nelectricity.",
+      "fr": "Fait à base de Lagiacrus.\r\nSon canon majestueux crache\r\nde l'électricité à haute tension.",
+      "it": "Balestra leggera fatta con parti\r\ndi Lagiacrus. La maestosa canna\r\npuò sparare elettricità ad\r\nalta tensione.",
+      "de": "Ein leichtes Bogengewehr aus\r\nLagiacrus-Material. Der\r\nmagnetische Lauf verschießt\r\nHochspannungsgeschosse.",
+      "es": "Ballesta ligera hecha con\r\npartes de Lagiacrus.\r\nSu majestuoso cañón dispara\r\nelectricidad de alto voltaje.",
+      "ru": "Лёгкое лукорудие из трофеев\r\nс лагиакруса. Из его роскошного\r\nствола вырываются разряды\r\nэлектричества.",
+      "pl": "Lekkie łukodziałko wykonane\r\nz części Lagiacrusa. Jego\r\nmajestatyczna lufa strzela\r\nprądem o wysokim napięciu.",
+      "pt-BR": "Fuzilarco leve feito de partes\r\nde Lagiacrus. Seu majestoso\r\ncano dispara eletricidade de\r\nalta voltagem.",
+      "ko": "라기아크루스 소재의\r\n라이트보우건. 왕의 위엄이\r\n느껴지는 총신에서 고출력\r\n전격이 발사된다.",
+      "zh-Hant": "使用海龍素材製作的輕弩槍。散發\r\n王者威嚴的槍身會釋放高壓電擊。",
+      "zh-Hans": "使用海龙素材打造的轻弩。从散发\r\n王之威严的枪身中释放出高输出的\r\n电击。",
+      "ar": "بندقية قوس خفيفة مصنوعة\r\nمن أجزاء (لاغياكروس).\r\nفوهتها المهيبة قادرة على إطلاق\r\nكهرباء ذات جهد عالٍ.",
+      "es-419": "Una ballesta ligera hecha con\r\npartes de Lagiacrus. Su barril\r\nmajestuoso dispara electricidad\r\nde alto voltaje."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 82,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 1,
+        "capacity": 6,
+        "rapid": false
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 4,
+        "rapid": true
+      },
+      {
+        "kind": "spread",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "sticky",
+        "level": 1,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "paralysis",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "freeze",
+        "level": 1,
+        "capacity": 5,
+        "rapid": false
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 4,
+        "rapid": true
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "wyvernblast",
+    "names": {
+      "ja": "雷迅砲サンダークルス",
+      "en": "Thundacrus Rex",
+      "fr": "Thundacrus Rex",
+      "it": "Thundacrus Rex",
+      "de": "Thundacrus Rex",
+      "es": "Truenacrus Rex",
+      "ru": "Громакрус Рекс",
+      "pl": "Thundacrus Rex",
+      "pt-BR": "Relâmpacrus Rex",
+      "ko": "뇌신포 선더크루스",
+      "zh-Hant": "雷迅砲雷霆海龍",
+      "zh-Hans": "雷迅炮雷霆交叉",
+      "ar": "ريكس ثونداكروس",
+      "es-419": "Truenacrus Rex"
+    },
+    "descriptions": {
+      "ja": "雷砲サンダークルスはさらなる\r\n強化を経て、迅雷の力を得る。\r\n海凶の恐怖がここに顕現した。",
+      "en": "An upgraded Thundacrus.\r\nElectrical power courses\r\nthrough it, making it the\r\nepitome of fear itself.",
+      "fr": "Thundacrus amélioré.\r\nParcouru par un puissant\r\ncourant électrique qui en\r\nfait l'incarnation de la peur.",
+      "it": "Un Thundacrus potenziato.\r\nÈ attraversato da una potenza\r\nelettrica tale da renderlo\r\nl'incarnazione della paura.",
+      "de": "Ein verbessertes Thundacrus.\r\nElektrizität fließt hindurch\r\nund macht es zum Inbegriff\r\nder Angst.",
+      "es": "Truenacrus mejorado.\r\nLa corriente eléctrica fluye por\r\nsu estructura, convirtiéndola\r\nen un arma terrorífica.",
+      "ru": "Улучшенный «Громакрус».\r\nСимвол страха, искрящийся\r\nзловещими молниями.",
+      "pl": "Ulepszony Thundacrus. Płynie\r\nprzez niego prąd elektryczny,\r\nsprawiając, że broń staje się\r\nuosobieniem przerażenia.",
+      "pt-BR": "Relâmpacrus melhorado.\r\nEnergia elétrica flui por ele,\r\ntransformando-o na epítome\r\ndo medo.",
+      "ko": "뇌포 선더크루스가 한층 강해져\r\n신뢰의 힘이 깃들었다.\r\n해흉의 공포가 여기 등장했다.",
+      "zh-Hant": "雷砲雷霆海龍進一步強化後獲得了\r\n迅雷之力。大海凶獸的恐怖在此\r\n顯露無遺。",
+      "zh-Hans": "雷炮雷霆交叉在经过进一步强化后\r\n获得了迅雷之力。海中凶煞的恐怖\r\n在此显现。",
+      "ar": "(ثونداكروس) مطوَّرة.\r\nتسري فيها قوة كهربائية هائلة،\r\nمما يجعلها تجسيدًا للرعب المطلق.",
+      "es-419": "Truenacrus mejorado.\r\nLa corriente eléctrica\r\nque lo recorre lo convierte\r\nen el epítome del miedo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
   }
 ]

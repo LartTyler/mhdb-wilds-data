@@ -2233,7 +2233,7 @@
       "es": "Glaive insecto imponente, dotado\r\ndel rayo de Rey Dau. Dice que\r\ninvoca al relámpago al sostenerlo\r\nhacia arriba.",
       "ru": "Устрашающая глефа насекомых,\r\nзаряженная грозовой энергией\r\nрей дау. По слухам, если поднять\r\nеё к небу, ударит молния.",
       "pl": "Posępna owadzia glewia nasycona\r\npiorunem Rey Dau. Podobno\r\nprzywołuje błyskawice, gdy jest\r\nuniesiona.",
-      "pt-BR": "Glaive de inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
+      "pt-BR": "Uma glaive inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
       "ko": "레 다우의 벼락을 두른\r\n조충곤. 비바람 속에서 들면\r\n낙뢰를 일으킨다고 하며,\r\n위압감을 발산한다.",
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
@@ -2315,7 +2315,7 @@
       "es": "Glaive insecto imponente, dotado\r\ndel rayo de Rey Dau. Dice que\r\ninvoca al relámpago al sostenerlo\r\nhacia arriba.",
       "ru": "Устрашающая глефа насекомых,\r\nзаряженная грозовой энергией\r\nрей дау. По слухам, если поднять\r\nеё к небу, ударит молния.",
       "pl": "Posępna owadzia glewia nasycona\r\npiorunem Rey Dau. Podobno\r\nprzywołuje błyskawice, gdy jest\r\nuniesiona.",
-      "pt-BR": "Glaive de inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
+      "pt-BR": "Uma glaive inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
       "ko": "레 다우의 벼락을 두른\r\n조충곤. 비바람 속에서 들면\r\n낙뢰를 일으킨다고 하며,\r\n위압감을 발산한다.",
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
@@ -2400,7 +2400,7 @@
       "es": "Glaive insecto imponente, dotado\r\ndel rayo de Rey Dau. Dice que\r\ninvoca al relámpago al sostenerlo\r\nhacia arriba.",
       "ru": "Устрашающая глефа насекомых,\r\nзаряженная грозовой энергией\r\nрей дау. По слухам, если поднять\r\nеё к небу, ударит молния.",
       "pl": "Posępna owadzia glewia nasycona\r\npiorunem Rey Dau. Podobno\r\nprzywołuje błyskawice, gdy jest\r\nuniesiona.",
-      "pt-BR": "Glaive de inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
+      "pt-BR": "Uma glaive inseto proibitiva\r\nimbuída do trovão de Rey Dau.\r\nDizem que conjura raios quando\r\né erguida em direção ao céu.",
       "ko": "레 다우의 벼락을 두른\r\n조충곤. 비바람 속에서 들면\r\n낙뢰를 일으킨다고 하며,\r\n위압감을 발산한다.",
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
@@ -5073,6 +5073,162 @@
     "series_id": 1094733056
   },
   {
+    "game_id": 63,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "kinsect_level": 9,
+    "names": {
+      "ja": "キーラアルティールⅠ",
+      "en": "Altair I",
+      "fr": "Altair",
+      "it": "Altair I",
+      "de": "Altair I",
+      "es": "Altair I",
+      "ru": "Альтаир I",
+      "pl": "Ołtarz I",
+      "pt-BR": "Altair I",
+      "ko": "킬러알타이르Ⅰ",
+      "zh-Hant": "蟲棍河鼓二Ⅰ",
+      "zh-Hans": "虫棍河鼓二Ⅰ",
+      "ar": "النسر الطائر 1",
+      "es-419": "Altair I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの鋭い刃が風をも裂く\r\n操虫棍。両端に突き出た鋭い爪が、\r\n立ち塞がる全てを薙ぎ払う。",
+      "en": "A Seregios insect glaive. The\r\nsharp blades that line both\r\nsides of this glaive can slash\r\nthrough anything in their path.",
+      "fr": "Insectoglaive Seregios. Les\r\nlames tranchantes de chaque\r\ncôté de ce glaive permettent\r\nde trancher tout obstacle.",
+      "it": "Falcione insetto di Seregios.\r\nLe lame affilate su entrambi i\r\nlati di questo falcione\r\nsquarciano ogni ostacolo.",
+      "de": "Eine Seregios-Insektenglefe.\r\nDie scharfen Klingen an\r\nbeiden Seiten zerschlitzen\r\nalles in ihrem Weg.",
+      "es": "Glaive insecto de Seregios.\r\nLas afiladas hojas a ambos\r\nlados del glaive cortan\r\ntodo lo que tocan.",
+      "ru": "Глефа насекомых из серегиоса.\r\nОстрые клинки по бокам глефы\r\nс лёгкостью рассекают всё,\r\nчего касаются.",
+      "pl": "Owadzia glewia Seregiosa.\r\nOstrza na obu stronach\r\ntej glewii rozdzierają wszystko\r\nna kawałki.",
+      "pt-BR": "Glaive inseto de Seregios.\r\nAs lâminas afiadas dos dois\r\nlados desta glaive cortam\r\nqualquer coisa no caminho.",
+      "ko": "셀레기오스의 예리한 칼날이\r\n바람을 가르는 조충곤.\r\n양쪽으로 돌출된 발톱이\r\n앞을 가로막는 적을 베어낸다.",
+      "zh-Hant": "附鋒利刀刃，銳可劈風的千刃龍操蟲\r\n棍。兩端突出的銳爪可將阻擋其去路\r\n者全數掃蕩。",
+      "zh-Hans": "其刀刃锐可劈风的千刃龙操虫棍。\r\n此棍的特征是两端侧突起的利爪，\r\n可扫空一切障碍。",
+      "ar": "سيف حشرة (سيرجيوس) عريض النصل.\r\nنصاله الحادة المبطنة على جانبيه\r\nقادرة على تمزيق أي شيء في طريقها.",
+      "es-419": "Glaive insecto de Seregios.\r\nLas afiladas hojas a ambos\r\nlados del glaive cortan\r\ntodo lo que tocan."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        64
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 64,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 10,
+    "names": {
+      "ja": "叛棍アルティール",
+      "en": "Alteal",
+      "fr": "Alteal",
+      "it": "Alteal",
+      "de": "Alteal",
+      "es": "Alteal",
+      "ru": "Альтил",
+      "pl": "Altarz",
+      "pt-BR": "Alteal",
+      "ko": "반곤 알타이르",
+      "zh-Hant": "叛棍河鼓二",
+      "zh-Hans": "叛棍河鼓二",
+      "ar": "ألتيل",
+      "es-419": "Alteal"
+    },
+    "descriptions": {
+      "ja": "キーラアルティール強化型。\r\n反逆者の棍は戦野を駆け抜け、\r\n不倶戴天の獲物を切り裂く。",
+      "en": "The upgraded form of the Altair.\r\nWhen wielded in battle, sworn\r\nenemies are cut down with ease.",
+      "fr": "Altair amélioré.\r\nDécoupe menu les ennemis\r\njurés au combat.",
+      "it": "Altair potenziato.\r\nIn battaglia, fa a pezzi\r\ni nemici giurati.",
+      "de": "Eine verbesserte Version der\r\nAltair. Mäht Erzfeinde mit\r\nLeichtigkeit nieder.",
+      "es": "Forma mejorada del Altair.\r\nHace pedazos a los enemigos\r\nacérrimos con facilidad.",
+      "ru": "Улучшенная версия «Альтаира».\r\nВ бою с лёгкостью разит\r\nзаклятых врагов.",
+      "pl": "Ulepszona wersja Ołtarza.\r\nPodczas walki rozcina\r\nzaprzysięgłych wrogów.",
+      "pt-BR": "Versão melhorada do Altair.\r\nEmpunhada em batalha, corta\r\ninimigos jurados com facilidade.",
+      "ko": "킬러알타이르 강화형.\r\n반역자의 곤봉은 싸움터를\r\n활보하며 철천지원수인\r\n사냥감을 찢어발긴다.",
+      "zh-Hant": "強化版蟲棍河鼓二。反逆者之棍奔馳\r\n於戰場，將不共戴天的獵物劈開。",
+      "zh-Hans": "虫棍河鼓二的强化型。反逆者之棍\r\n奔驰于战场，将不共戴天的猎物撕\r\n裂。",
+      "ar": "الشكل الذي تمت ترقيته للنسر الطائر.\r\nعند استخدامه في المعركة،\r\nيُقضى على الأعداء اللدودين بسهولة.",
+      "es-419": "Forma mejorada del Altair.\r\nHace pedazos a los enemigos\r\nacérrimos con facilidad."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 65,
     "kind": "insect-glaive",
     "sharpness": {
@@ -5265,7 +5421,7 @@
       "it": "Leumundslist",
       "de": "Leumundslist",
       "es": "Truco maestro",
-      "ru": "Лоймундслист",
+      "ru": "Лоймундслист I",
       "pl": "Leumundslist",
       "pt-BR": "Leumundslist",
       "ko": "에임of트릭Ⅰ",
@@ -6283,5 +6439,336 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 83,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 7,
+    "names": {
+      "ja": "雷棍トライクルスⅠ",
+      "en": "Thunder Glaive Triacrus I",
+      "fr": "Fulguroglaive Triacrus",
+      "it": "Falcione tuono Tricrus I",
+      "de": "Donnerglefe Triacrus I",
+      "es": "Glaive triacrus trueno I",
+      "ru": "Глефа гроз Триакрус I",
+      "pl": "Glewia gromu Triacrus I",
+      "pt-BR": "Glaive Trovão Triacrus I",
+      "ko": "뇌곤 트라이크루스Ⅰ",
+      "zh-Hant": "三叉海龍雷棍Ⅰ",
+      "zh-Hans": "雷棍三叉戟Ⅰ",
+      "ar": "سيف حشرة ترياكروس الرعدي 1",
+      "es-419": "Glaive triacrus trueno I"
+    },
+    "descriptions": {
+      "ja": "海竜ラギアクルスの三叉の棍。\r\nひとたび振るえば、山脈を二つに\r\n引き裂くほどの雷撃を巻き起こす。",
+      "en": "A three-pronged Lagiacrus insect\r\nglaive. A single swing unleashes a\r\nbolt of lightning powerful enough\r\nto cleave a mountain in two.",
+      "fr": "Insectoglaive Lagiacrus à trois\r\ndents. Chaque coup libère un\r\néclair assez puissant pour fendre\r\nune montagne en deux.",
+      "it": "Falcione insetto a tre punte di\r\nLagiacrus. Un solo colpo scaglia\r\nun fulmine in grado di spaccare\r\nuna montagna in due.",
+      "de": "Dreigezackte Lagiacrus-\r\nInsektenglefe. Ein einziger\r\nHieb entfesselt einen Blitz,\r\nder einen Berg spalten kann.",
+      "es": "Glaive insecto de tres puntas.\r\nUn solo tajo libera un relámpago\r\nlo bastante potente como para\r\npartir una montaña en dos.",
+      "ru": "Трёхзубчатая глефа насекомых\r\nиз лагиакруса. Взмахнув ей,\r\nможно создать разряд молнии,\r\nспособный расколоть гору надвое.",
+      "pl": "Trójzębna owadzia glewia\r\nLagiacrusa. Jeden zamach uwalnia\r\npiorun wystarczająco silny,\r\naby rozłupać górę na dwoje.",
+      "pt-BR": "Glaive inseto de três pontas de\r\nLagiacrus. Com um golpe, lança\r\num raio poderoso o bastante para\r\npartir uma montanha ao meio.",
+      "ko": "해룡 라기아크루스의 삼차곤.\r\n한 번 휘두르면 산맥을\r\n두 동강 낼 정도의\r\n뇌격을 일으킨다.",
+      "zh-Hant": "海龍的三叉棍。每當揮舞此棍便能引\r\n發雷擊，其威力甚至足以將山脈一劈\r\n為二。",
+      "zh-Hans": "海龙的三叉戟棍，随手一挥就能卷\r\n起足以劈山裂谷的雷霆万钧。",
+      "ar": "سيف حشرة (لاغياكروس) ثلاثي الرؤوس.\r\nضربة واحدة تُطلق صاعقة برق قوية\r\nبما يكفي لشق جبل إلى نصفين.",
+      "es-419": "Glaive insecto de Lagiacrus de\r\ntres puntas. Un solo tajo libera\r\nun relámpago tan potente como\r\npara partir una montaña en dos."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 84,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 8,
+    "names": {
+      "ja": "雷叉棍ヴォルトラギア",
+      "en": "Fractal Glaive Boltlagia",
+      "fr": "Glaive fractal Fulgurolagia",
+      "it": "Falcione Lagiatuono",
+      "de": "Fraktalglefe Voltlagia",
+      "es": "Glaive relampagia fractal",
+      "ru": "Фрактальная Громлагия",
+      "pl": "Glewia fraktalna Boltlagia",
+      "pt-BR": "Glaive Fractal Raiolagia",
+      "ko": "뇌차곤 볼트라기아",
+      "zh-Hant": "雷叉棍雷電海龍",
+      "zh-Hans": "雷叉棍海龙戟",
+      "ar": "سيف حشرة بولتلاغيا الكسري",
+      "es-419": "Glaive relampagia fractal"
+    },
+    "descriptions": {
+      "ja": "強化版雷棍トライクルス。\r\nその雷撃は海神の怒りを体現し、\r\n万物をたやすく破砕するという。",
+      "en": "An upgraded Thunder Glaive\r\nTriacrus. Its lightning bolts\r\nembody the wrath of a sea god,\r\ncrushing anything in its wake.",
+      "fr": "Fulguroglaive Triacrus amélioré.\r\nSes éclairs sont l'incarnation de\r\nla fureur du seigneur des mers\r\nqui annihile tout sur son passage.",
+      "it": "Falcione tuono Tricrus\r\npotenziato. Come l'ira di un\r\nSignore dei mari, i suoi fulmini si\r\nabbattono frantumando ogni cosa.",
+      "de": "Eine verbesserte Donnerglefe\r\nTriacrus. Ihre Blitze verkörpern\r\nden Zorn des Meeresgottes\r\nund vernichten alles um sich.",
+      "es": "Glaive triacrus trueno mejorado.\r\nSus relámpagos encarnan\r\nla ira de un dios del mar,\r\narrasando con todo a su paso.",
+      "ru": "Улучшенная «Глефа гроз Триакрус».\r\nРазряды молнии подобны гневу\r\nбога морей, сокрушающему всё,\r\nчто оказывается на пути.",
+      "pl": "Ulepszona Glewia gromu Triacrus.\r\nJej pioruny ucieleśniają gniew\r\nboga mórz, niszcząc wszystko\r\nna swojej drodze.",
+      "pt-BR": "Glaive Trovão Triacrus melhorada.\r\nSeus raios materializam a fúria\r\ndo Senhor dos Mares, destruindo\r\ntudo em seu caminho.",
+      "ko": "뇌곤 트라이크루스 강화판.\r\n해신의 분노를 형상화한 뇌격은\r\n만물을 쉬이 파괴한다고 한다.",
+      "zh-Hant": "強化版三叉海龍雷棍。據傳其雷擊\r\n體現了海神之怒，可輕易粉碎萬物。",
+      "zh-Hans": "强化版的雷棍三叉戟。雷击是海神\r\n怒火的具象，可轻而易举粉碎万物。",
+      "ar": "سيف حشرة (ترياكروس) الرعدي\r\nتمت ترقيته. صواعقه تُجسّد\r\nغضب إله البحر، وتسحق\r\nكل ما في طريقه.",
+      "es-419": "Glaive triacrus trueno mejorada.\r\nSus relámpagos encarnan la ira\r\nde un dios del mar, aplastándolo\r\ntodo a su paso."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 93,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 110,
+      "orange": 40,
+      "yellow": 110,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "kinsect_level": 9,
+    "names": {
+      "ja": "先駆け衆の長杖",
+      "en": "Vanguard's Glaive",
+      "fr": "Glaive de l'avant-garde",
+      "it": "Falcione avanguardia",
+      "de": "Glefe der Vorhut",
+      "es": "Glaive Vanguardia",
+      "ru": "Глефа Авангарда",
+      "pl": "Glewia straży przedniej",
+      "pt-BR": "Glaive da Vanguarda",
+      "ko": "선봉대의 장지팡이",
+      "zh-Hant": "衝鋒隊長杖",
+      "zh-Hans": "先锋团长杖",
+      "ar": "سيف الطليعة عريض النصل",
+      "es-419": "Glaive vanguardista"
+    },
+    "descriptions": {
+      "ja": "クナファ村のセクレト乗りが\r\n使用する杖を模して作成したもの。\r\n本来は一人前の証として渡される。",
+      "en": "An insect glaive resembling the\r\nstaff used by Kunafa Village's\r\nSeikret riders. Traditionally given\r\nas proof of one's coming of age.",
+      "fr": "Insectoglaive semblable au bâton\r\nutilisé par les chevaucheurs de\r\nSeikret de Kunafa. Généralement\r\nremis au passage à l'âge adulte.",
+      "it": "Falcione insetto simile al bastone \r\ndei cavalcatori di Seikret di\r\nKunafa, che viene conferito al\r\nraggiungimento dell'età adulta.",
+      "de": "Eine Glefe in Form des Stabs der\r\nSaikrii-Reiter von Kunafa. Wird\r\ntraditionell bei Erreichen des\r\nErwachsenenalters verliehen.",
+      "es": "Glaive insecto semejante a una\r\nvara empleada por los jinetes\r\nde Seikret de Kunafa. Se entrega\r\nal cumplir la mayoría de edad.",
+      "ru": "Глефа насекомых, напоминающая\r\nпосохи, которыми пользуются\r\nкунафские наездники на сейкретах.\r\nСлужит символом зрелости.",
+      "pl": "Owadzia glewia przypominająca laskę\r\nużywaną przez jeźdźców Seikretów\r\nz Kunafy. Tradycyjnie wręczana na\r\npotwierdzenie osiągnięcia dojrzałości.",
+      "pt-BR": "Uma glaive inseto semelhante ao\r\ncajado usado pelos montadores\r\nde Seikret de Kunafa. Costuma ser\r\ndada como prova de maioridade.",
+      "ko": "쿠나파 마을 세크레트 기수가\r\n사용하는 지팡이를 본떠\r\n만들었다. 원래는 어엿한\r\n기수의 증표로 주어진다.",
+      "zh-Hant": "以庫納法村的鷺鷹龍騎手使用的長杖\r\n為原型所製成。原本是贈予可獨當\r\n一面之騎手的證明。",
+      "zh-Hans": "模仿库纳法村鹭鹰龙骑手所用的长\r\n杖制作而成，原本是授予能够独当\r\n一面的骑手的证明。",
+      "ar": "سيف الحشرة يشبه العصا التي\r\nيستخدمها راكبو (سيكريت) في\r\nقرية (كُنافة). يُمنح وفق التقاليد\r\nكرمز لبلوغ سن الرشد.",
+      "es-419": "Glaive insecto similar a la vara\r\nusada por los jinetes de Seikret\r\nde Kunafa. Es habitual recibirla\r\nal cumplir la mayoría de edad."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 3,
+        "503": 3,
+        "550": 2,
+        "555": 1
+      },
+      "previous_id": null,
+      "branches": [
+        94
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 25
+    },
+    "skills": {
+      "402237312": 1,
+      "1444935552": 2
+    },
+    "series_id": 145862672
+  },
+  {
+    "game_id": 94,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 100,
+      "green": 100,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "kinsect_level": 10,
+    "names": {
+      "ja": "先駆け衆の長杖【皆伝】",
+      "en": "Vanguard's Pride",
+      "fr": "Fierté de l'avant-garde",
+      "it": "Alterigia avanguardia",
+      "de": "Stolz der Vorhut",
+      "es": "Orgullo de Vanguardia",
+      "ru": "Гордость Авангарда",
+      "pl": "Duma straży przedniej",
+      "pt-BR": "Orgulho da Vanguarda",
+      "ko": "선봉대의 장지팡이【전수】",
+      "zh-Hant": "衝鋒隊長杖【真傳】",
+      "zh-Hans": "先锋团长杖【皆传】",
+      "ar": "فخر الطليعة",
+      "es-419": "Orgullo vanguardista"
+    },
+    "descriptions": {
+      "ja": "使い込まれた先駆け衆の長杖の\r\n到達点。セクレトと心を通わせ\r\n打ち振るう姿は、まさに人竜一体。",
+      "en": "The ultimate form of the Vanguard's\r\nGlaive. When wielded in harmony\r\nwith a Seikret, one might as well\r\nbe fighting alongside a dragon.",
+      "fr": "Glaive de l'avant-garde amélioré.\r\nLe manier en harmonie avec un\r\nSeikret, c'est comme combattre\r\naux côtés d'un dragon.",
+      "it": "Falcione avanguardia nella sua\r\nforma finale. Se brandito in\r\narmonia con un Seikret, è come\r\ncombattere insieme a un drago.",
+      "de": "Die ultimative Form der Glefe\r\nder Vorhut. Damit wird jeder,\r\nder im Sattel eines Saikrii sitzt,\r\nzum echten Drachenreiter.",
+      "es": "Forma definitiva del glaive\r\nvanguardia. Cuando se blande\r\nen armonía con un Seikret, es\r\ncomo luchar junto a un dragón.",
+      "ru": "Лучшая версия «Глефы Авангарда».\r\nКогда всадник достигает гармонии\r\nс сейкретом, тот становится\r\nподобен дракону.",
+      "pl": "Ostateczna forma glewii straży\r\nprzedniej. Gdy jest używana\r\nrazem z Seikretem, równie dobrze\r\nmożna walczyć ze smokiem.",
+      "pt-BR": "A forma definitiva da Glaive da\r\nVanguarda. Usá-la em harmonia\r\ncom um Seikret é como lutar ao\r\nlado de um dragão.",
+      "ko": "오래 사용한 선봉대의 장지팡이\r\n최종판. 세크레트와 교감하고\r\n휘두르는 모습은 용과 인간이\r\n한 몸이 된 것처럼 보인다.",
+      "zh-Hant": "衝鋒隊長杖經長久使用後的的最終\r\n型態。與鷺鷹龍互通心靈的騎手\r\n揮舞長杖之姿宛如人龍一體。",
+      "zh-Hans": "长期使用的先锋团长杖达到极致。\r\n与鹭鹰龙心意相通时挥舞的姿态，\r\n可谓人龙一体。",
+      "ar": "الشكل النهائي لسيف الطليعة\r\nعريض النصل؛ وحين يُستخدم بتناغم\r\nمع (سيكريت)، فكأنّ حامله\r\nيقاتل إلى جانب تنين.",
+      "es-419": "Forma definitiva de la glaive\r\nvanguardista. Cuando se blande\r\nen armonía con un Seikret, es\r\ncomo luchar junto a un dragón."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "553": 2,
+        "582": 3,
+        "661": 5
+      },
+      "previous_id": 93,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 25
+    },
+    "skills": {
+      "402237312": 1,
+      "1444935552": 2
+    },
+    "series_id": 145862672
   }
 ]

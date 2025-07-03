@@ -852,6 +852,143 @@
     "series_id": -621613632
   },
   {
+    "game_id": 13,
+    "kind": "bow",
+    "coatings": [
+      "close-range",
+      "sleep"
+    ],
+    "names": {
+      "ja": "シャルラアルナスルⅠ",
+      "en": "Shalya Bow I",
+      "fr": "Arc Shalya",
+      "it": "Arco Shalya I",
+      "de": "Shalya-Bogen I",
+      "es": "Arco de Shalya I",
+      "ru": "Лук Шалии I",
+      "pl": "Łuk Shalya I",
+      "pt-BR": "Arco Shalya I",
+      "ko": "샬라알나슬Ⅰ",
+      "zh-Hant": "銳弓箕宿一Ⅰ",
+      "zh-Hans": "弓箭箕宿一Ⅰ",
+      "ar": "قوس شاليا 1",
+      "es-419": "Arco de Shalya I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの鋭くしなやかな\r\n運動性を取り入れた弓。放たれた\r\n矢は刃の如く、鋭く獲物を穿つ。",
+      "en": "A bow as limber as the Seregios.\r\nThe arrows it looses cut through\r\nprey like a thousand blades.",
+      "fr": "Arc aussi souple que le Seregios.\r\nLes flèches qu'il décoche peuvent\r\ntranspercer les proies comme un\r\nmillier de lames.",
+      "it": "Un arco flessibile come il\r\nSeregios. Le frecce che scaglia\r\ntrapassano la preda come\r\nfossero mille lame.",
+      "de": "Ein Bogen, der so geschmeidig\r\nist wie der Seregios selbst.\r\nSeine Pfeile durchbohren ihre\r\nBeute wie tausend Klingen.",
+      "es": "Arco tan flexible como el\r\nSeregios. Las flechas que\r\ndispara atraviesan a las presas\r\ncomo miles de cuchillas.",
+      "ru": "Гибкий, как серегиос. Стрелы,\r\nвыпущенные из этого лука, секут\r\nжертву подобно тысяче клинков.",
+      "pl": "Łuk giętki jak Seregios.\r\nWypuszczane z niego strzały\r\nprzebijają ofiarę niczym\r\ntysiąc ostrzy.",
+      "pt-BR": "Arco tão flexível quanto um\r\nSeregios. As flechas que dispara\r\ncortam a presa como mil lâminas.",
+      "ko": "셀레기오스의 예리하고 유연한\r\n특성이 담긴 활.\r\n발사된 화살은 칼날처럼\r\n날카롭게 사냥감을 꿰뚫는다.",
+      "zh-Hant": "這把弓結合了千刃龍動作迅速猛烈且\r\n靈活的特徵。射出的箭會如利刃般\r\n猛烈地貫穿獵物。",
+      "zh-Hans": "融入千刃龙敏捷而锐利的运动性能\r\n所打造的弓。射出的箭矢宛如利刃，\r\n锐不可当，贯穿猎物。",
+      "ar": "قوس بمرونة (سيرجيوس).\r\nالسهام التي يطلقها تقطع الفريسة\r\nكأنها ألف نصل.",
+      "es-419": "Un arco tan flexible como un\r\nSeregios. Las flechas que\r\ndispara atraviesan la presa como\r\nmil espadas."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "3504": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 14,
+    "kind": "bow",
+    "coatings": [
+      "close-range",
+      "sleep"
+    ],
+    "names": {
+      "ja": "叛弓アルナスル",
+      "en": "Insurgent Bow",
+      "fr": "Arc rebelle",
+      "it": "Arco rivoltoso",
+      "de": "Rebellen-Bogen",
+      "es": "Arco insurgente",
+      "ru": "Мятежный лук",
+      "pl": "Łuk Buntu",
+      "pt-BR": "Arco Insurgente",
+      "ko": "반궁 알나슬",
+      "zh-Hant": "叛弓箕宿一",
+      "zh-Hans": "叛弓箕宿一",
+      "ar": "قوس المتمرد",
+      "es-419": "Arco insurgente"
+    },
+    "descriptions": {
+      "ja": "強化型シャルラアルナスル。\r\n変革の日、大国の暴君を討ち\r\n取ったとされる反逆の大弓。",
+      "en": "An upgraded Shalya Bow,\r\nrenowned for loosing the arrow\r\nthat brought down a horrid tyrant.",
+      "fr": "Arc Shalya amélioré, connu\r\npour avoir décoché la flèche\r\nqui a mis fin au règne d'un tyran.",
+      "it": "Arco Shalya potenziato,\r\ncelebre per aver scoccato la\r\nfreccia che uccise un tiranno.",
+      "de": "Ein verbesserter Shalya-Bogen,\r\ndessen Pfeile einst einen üblen\r\nTyrannen zu Fall brachten.",
+      "es": "Arco de Shalya mejorado.\r\nFamoso por lanzar la flecha\r\nque acabó con un tirano.",
+      "ru": "Улучшенный «Лук Шалии».\r\nИменно из него была выпущена\r\nстрела, сразившая тирана.",
+      "pl": "Ulepszony łuk Shalya.\r\nSłynie z tego, że zabito z niego\r\nstrasznego tyrana.",
+      "pt-BR": "Arco Shalya melhorado, famoso\r\npor disparar a flecha que\r\nmatou um tirano horrível.",
+      "ko": "강화형 샬라알나슬.\r\n변혁의 날, 대국의 폭군을\r\n처치했다는 반역의 대궁.",
+      "zh-Hant": "強化版銳弓箕宿一。據說這把叛逆\r\n大弓在革命之日討伐了大國暴君。",
+      "zh-Hans": "弓箭箕宿一的强化版。此乃在变革\r\n掀起之日，讨伐了统治大国的暴君\r\n的反抗大弓。",
+      "ar": "قوس (شاليا) تمت ترقيته،\r\nمشهور بإطلاقه السهم\r\nالذي أسقط طاغية مروع.",
+      "es-419": "Arco de Shalya mejorado.\r\nFamoso por proyectar la flecha\r\nque terminó con un tirano."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "3504": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 15,
     "kind": "bow",
     "coatings": [
@@ -1463,7 +1600,7 @@
       "pt-BR": "Leviora Trilhafogo",
       "ko": "염미궁 리비오라",
       "zh-Hant": "炎尾引火弓",
-      "zh-Hans": "燎火炎尾弓Ⅳ",
+      "zh-Hans": "燎火炎尾弓",
       "ar": "ليفيورا الذيل الناري",
       "es-419": "Leviora de fuego"
     },
@@ -4179,7 +4316,7 @@
       "it": "Arco potere selvaggio\r\npotenziato. Centra sempre il\r\nbersaglio, anche se incontra\r\nalberi sulla traiettoria.",
       "de": "Eine verbesserte Version des\r\nWilden Kraftbogens. Nicht ein-\r\nmal Bäume in der Schusslinie\r\nkönnen seine Pfeile aufhalten.",
       "es": "Arco poder salvaje mejorado.\r\nSus flechas pueden partir en\r\ndos el tronco de un árbol\r\nsin que ello detenga su camino.",
-      "ru": "Улучшенный вариант «Дикарского\r\nзверолука». Пущенная из него\r\nстрела может расколоть ствол\r\nдерева и при этом поразить цель.",
+      "ru": "Улучшенный «Лук неукротимой\r\nсилы». Пущенная из него стрела\r\nможет расколоть ствол дерева\r\nи при этом поразить цель.",
       "pl": "Ulepszony łuk dzikiej mocy.\r\nNawet grube pnie drzew nie mogą\r\nspowolnić lotu nieokiełzanych\r\nstrzał ku zdobyczy.",
       "pt-BR": "Arco Poder Selvagem melhorado.\r\nNem mesmo grandes árvores são\r\ncapazes de impedir suas flechas\r\nde atingir sua presa.",
       "ko": "파워와일드보우의 강화형.\r\n쏘아진 화살은 나무를 부수고\r\n사냥감을 간단히 포착한다.",
@@ -5166,7 +5303,7 @@
       "de": "Glühender Samira",
       "es": "Samira calcinante",
       "ru": "Пламенная Самира",
-      "pl": "Ognista Samira I",
+      "pl": "Ognista Samira",
       "pt-BR": "Samira Escaldante",
       "ko": "찬란한 사미라",
       "zh-Hant": "熾光薩麥爾",
@@ -5586,5 +5723,156 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 86,
+    "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
+    "names": {
+      "ja": "ボルトアローⅠ",
+      "en": "Boltsender I",
+      "fr": "Lanceur d'éclairs",
+      "it": "Lancialampi I",
+      "de": "Blitzbote I",
+      "es": "Lanzarrayos I",
+      "ru": "Громострел I",
+      "pl": "Miotacz gromów I",
+      "pt-BR": "Voltarco I",
+      "ko": "볼트애로우Ⅰ",
+      "zh-Hant": "雷光弓Ⅰ",
+      "zh-Hans": "雷光弓Ⅰ",
+      "ar": "قاذف الصواعق 1",
+      "es-419": "Lanzarrayos I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスのしなやかな素材を\r\n生かした狩猟弓。渦巻く弓腹が\r\n矢の推力を乗算させる。",
+      "en": "A bow made from supple Lagiacrus\r\nparts. The coils do wonders for\r\narrow velocity.",
+      "fr": "Un arc fait à partir des parties\r\nsouples d'un Lagiacrus. Les\r\nbobines décuplent la vitesse\r\ndes flèches.",
+      "it": "Un arco ricavato da parti\r\nelastiche di Lagiacrus. Le spire\r\nmigliorano notevolmente\r\nla velocità delle frecce.",
+      "de": "Ein Bogen aus biegsamem\r\nLagiacrus-Material. Die Spulen\r\nerhöhen die Pfeilgeschwindig-\r\nkeit um ein Vielfaches.",
+      "es": "Arco hecho con partes\r\nflexibles de Lagiacrus. Las\r\nbobinas hacen maravillas con\r\nla velocidad de las flechas.",
+      "ru": "Лук из упругих частей тела\r\nлагиакруса. Завихряющиеся\r\nплечи позволяют стрелам\r\nлететь невероятно быстро.",
+      "pl": "Łuk z giętkich części Lagiacrusa.\r\nGwarantuje świetną prędkość\r\nstrzał.",
+      "pt-BR": "Arco feito de partes flexíveis de\r\nLagiacrus. As bobinas são ótimas\r\npara a velocidade da flecha.",
+      "ko": "라기아크루스의 유연한 소재를\r\n살린 사냥용 활.\r\n소용돌이치는 활이\r\n화살의 추진력을 배가시킨다.",
+      "zh-Hant": "活用柔韌的海龍素材製作的獵弓。\r\n呈漩渦狀的弓腹會增加箭的推力。",
+      "zh-Hans": "用海龙的柔软素材制成的狩猎弓。\r\n漩涡状的弓腹可加强箭矢射出时的\r\n推力。",
+      "ar": "قوس مصنوع من أجزاء (لاغياكروس) المرنة.\r\nتعزز لفائفه سرعة السهام\r\nبشكل مذهل.",
+      "es-419": "Un arco hecho con partes\r\nflexibles del Lagiacrus.\r\nLas bobinas hacen maravillas\r\ncon la velocidad de las flechas."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        87
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 87,
+    "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
+    "names": {
+      "ja": "ハイボルトアロー",
+      "en": "High Voltsender",
+      "fr": "Lanceur haute tension",
+      "it": "Lanciavolt alto",
+      "de": "Hochvoltbote",
+      "es": "Lanzarrayos masivo",
+      "ru": "Высший громострел",
+      "pl": "Miotacz woltów",
+      "pt-BR": "Voltarco Superior",
+      "ko": "하이볼트애로우",
+      "zh-Hant": "高壓雷光弓",
+      "zh-Hans": "高压雷光弓",
+      "ar": "قاذف الفولت العالي",
+      "es-419": "Alto lanzavoltios"
+    },
+    "descriptions": {
+      "ja": "内部に帯電機構を組み込んだ、\r\nボルトアロー強化型。高圧電流と\r\n共に矢を高速発射する雷弓。",
+      "en": "An upgraded Boltsender equipped\r\nwith an internal generator that\r\nfires bolts of electricity as well\r\nas arrows.",
+      "fr": "Lanceur d'éclairs amélioré.\r\nIl est équipé d'un générateur\r\ninterne qui libère des décharges\r\nélectriques en plus des flèches.",
+      "it": "Un lancialampi potenziato,\r\ndotato di un generatore interno\r\nche scaglia sia scariche\r\nelettriche che frecce.",
+      "de": "Ein verbesserter Blitzbote mit\r\neinem eingebauten Generator,\r\nder zusätzlich zu Pfeilen elek-\r\ntrische Entladungen verschießt.",
+      "es": "Lanzarrayos mejorado con\r\nun generador interno que\r\ndispara virotes y flechas\r\neléctricos.",
+      "ru": "Улучшенный «Громострел»,\r\nоборудованный генератором.\r\nСтреляет не только стрелами,\r\nно и электричеством.",
+      "pl": "Ulepszony miotacz gromów.\r\nZawiera wewnętrzny generator\r\nwystrzeliwujący pioruny\r\noraz strzały.",
+      "pt-BR": "Voltarco melhorado, equipado\r\ncom um gerador interno que\r\ndispara raios elétricos além\r\nde flechas.",
+      "ko": "대전 장치를 내장한\r\n볼트애로우 강화형.\r\n고압 전류와 함께 화살을\r\n고속으로 발사하는 뇌궁.",
+      "zh-Hant": "內部裝有帶電構造的強化版雷光弓。\r\n此雷弓會將箭連同高壓電流快速\r\n射出。",
+      "zh-Hans": "内置带电机构的强化型雷光弓。\r\n能伴随高压电流高速射出箭矢。",
+      "ar": "قاذف بولت عالٍ تمت ترقيته،\r\nمزود بمولد داخلي يطلق صواعق\r\nكهربائية بالإضافة إلى السهام.",
+      "es-419": "Un lanzarrayos mejorado con un\r\ngenerador interno que dispara\r\nrayos de electricidad además de\r\nflechas."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 86,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
   }
 ]

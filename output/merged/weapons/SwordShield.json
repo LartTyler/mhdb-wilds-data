@@ -701,6 +701,160 @@
     "series_id": -621613632
   },
   {
+    "game_id": 10,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "ナーブアルファルドⅠ",
+      "en": "Naab Sword I",
+      "fr": "Épée Naab",
+      "it": "Spada Naab I",
+      "de": "Naab-Schwert I",
+      "es": "Espada Naab I",
+      "ru": "Меч Нааба I",
+      "pl": "Miecz Naaby I",
+      "pt-BR": "Espada Naab I",
+      "ko": "나브알파르드Ⅰ",
+      "zh-Hant": "銳牙星宿一Ⅰ",
+      "zh-Hans": "单手剑星宿一Ⅰ",
+      "ar": "سيف الناب 1",
+      "es-419": "Espada Naab I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの鱗を重ねた片手剣。\r\n複数仕込まれた棘状の刃が、\r\n対象の肉に食い込み引き裂く。",
+      "en": "A sword & shield created\r\nfrom Seregios scales.\r\nIts spiked blade penetrates\r\ndeep into flesh.",
+      "fr": "À base d'écailles de Seregios.\r\nSa lame pénètre profondément\r\ndans la chair.",
+      "it": "Spada e scudo creati con squame\r\ndi Seregios. La lama chiodata\r\npenetra a fondo la carne.",
+      "de": "Schwert & Schild aus Seregios-\r\nSchuppen. Die stachelige\r\nKlinge dringt tief ins Fleisch.",
+      "es": "Espada y escudo hechos con\r\nescamas de Seregios. Su hoja\r\ncon púas se hunde en la carne.",
+      "ru": "Меч, изготовленный из чешуи\r\nсерегиоса. Его шипованный\r\nклинок разрывает плоть,\r\nглубоко вгрызаясь в неё.",
+      "pl": "Miecz z łusek Seregiosa.\r\nSzpiczaste ostrze głęboko\r\nwbija się w ciało ofiary.",
+      "pt-BR": "Espada e escudo feitas a partir\r\ndas escamas de um Seregios.\r\nA lâmina espinhosa penetra\r\nfundo na carne.",
+      "ko": "셀레기오스의 비늘을 덧댄\r\n한손검. 가시처럼 달린\r\n여러 개의 날이 대상의\r\n살점을 파고들어 찢는다.",
+      "zh-Hant": "疊合千刃龍鱗片製作的單手劍。劍身\r\n有大量棘狀刀刃，能咬進目標肉體，\r\n將對象撕裂殆盡。",
+      "zh-Hans": "重叠千刃龙鳞片制成的单手剑。带\r\n有许多棘状刃，可深深刺入目标的\r\n体内，撕裂其血肉。",
+      "ar": "سيف مصنوع من قشور\r\n(سيرجيوس)، نصله المدبب\r\nيخترق اللحم بعمق.",
+      "es-419": "Espada y escudo hechos con\r\nescamas de Seregios. Su hoja\r\ncon púas se hunde en la carne."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 11,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛牙アルファルド",
+      "en": "Feral Fangs",
+      "fr": "Crocs sauvages",
+      "it": "Zanne feroci",
+      "de": "Wilde Reißzähne",
+      "es": "Colmillos salvajes",
+      "ru": "Звериные клыки",
+      "pl": "Wściekłe kły",
+      "pt-BR": "Presas Ferais",
+      "ko": "반아 알파르드",
+      "zh-Hant": "叛牙星宿一",
+      "zh-Hans": "叛牙星宿一",
+      "ar": "الأنياب الوحشية",
+      "es-419": "Colmillos salvajes"
+    },
+    "descriptions": {
+      "ja": "不朽の革命剣を携えし者は、\r\n世界を変革する宿命を背負う。\r\nナーブアルファルドの強化版。",
+      "en": "Those that wield this enhanced\r\nNaab Sword lead revolutions to\r\nvictory.",
+      "fr": "Épée Naab améliorée.\r\nSes porteurs mènent\r\nleurs révolutions à bien.",
+      "it": "Spada Naab potenziata.\r\nChi la brandisce ha la\r\ntempra del rivoluzionario.",
+      "de": "Wer dieses verbesserte\r\nNaab-Schwert trägt, führt\r\nRevolutionen zum Sieg.",
+      "es": "Quien empuña la Espada Naab\r\nmejorada lidera rebeliones\r\nhasta la victoria.",
+      "ru": "Улучшенный «Меч Нааба»,\r\nвладельцу которого суждено\r\nвозглавить революцию.",
+      "pl": "Ci, którzy władają ulepszonym\r\nmieczem Naaby, stoją na\r\nczele zwycięskich rewolucji.",
+      "pt-BR": "Quem porta esta Espada Naab\r\nmelhorada lidera revoluções\r\nrumo à vitória.",
+      "ko": "영원한 혁명검을 지닌 자는\r\n세상을 바꿀 숙명을 짊어진다.\r\n나브알파르드 강화판.",
+      "zh-Hant": "強化版銳牙星宿一。手持不朽革命劍\r\n之人肩負著改變世界的宿命。",
+      "zh-Hans": "单手剑星宿一的强化版。手持不朽\r\n的革命剑之人，肩负着改变世界的\r\n宿命。",
+      "ar": "أولئك الذين يحملون\r\nسيف الناب المُحسَّن هذا\r\nيقودون الثورات نحو النصر.",
+      "es-419": "Quien empuña la Espada Naab\r\nmejorada guía revoluciones\r\nhasta la victoria."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 10,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 12,
     "kind": "sword-shield",
     "sharpness": {
@@ -3677,7 +3831,7 @@
       "ja": "沙海剣カトヌカドゥ",
       "en": "Sandsea Katduva",
       "fr": "Katduva des sables",
-      "it": "Battitore di ferro II",
+      "it": "Katduva delle sabbie",
       "de": "Sandsee-Katduva",
       "es": "Katduva de las dunas",
       "ru": "Песочная Катдува",
@@ -5523,7 +5677,7 @@
       "it": "Mucro Veldian G. I",
       "de": "W.-Arkveld-Mucro I",
       "es": "Mucro veldiano G. I",
-      "ru": "Вельдстражевый бастард I",
+      "ru": "Вельдстражевый меч I",
       "pl": "Wiweriański Mucro S. I",
       "pt-BR": "Mucro Veldiano G. I",
       "ko": "갈슈무크로Ⅰ",
@@ -5608,7 +5762,7 @@
       "it": "Mucro Veldian G. II",
       "de": "W.-Arkveld-Mucro II",
       "es": "Mucro veldiano G. II",
-      "ru": "Вельдстражевый бастард II",
+      "ru": "Вельдстражевый меч II",
       "pl": "Wiweriański Mucro S. II",
       "pt-BR": "Mucro Veldiano G. II",
       "ko": "갈슈무크로Ⅱ",
@@ -5710,7 +5864,7 @@
       "it": "Un Mucro Veldian G. potenziato.\r\nLa spada e lo scudo garantiscono\r\nla vittoria anche a un guerriero\r\nsolitario.",
       "de": "Ein verbessertes W.-Arkveld-\r\nMucro. Dieses Schwert & Schild\r\nführt seine Träger sogar allein\r\nzum Sieg.",
       "es": "Mucro veldiano G. mejorado.\r\nAunque no cuentes con ayuda,\r\nesta espada y escudo te\r\ngarantizarán la victoria.",
-      "ru": "Улучшенный «Вельдстражевый\r\nбастард». С этим оружием в руках\r\nможно не сомневаться в победе,\r\nдаже сражаясь в одиночку.",
+      "ru": "Улучшенный «Вельдстражевый\r\nмеч». С этим оружием в руках\r\nможно не сомневаться в победе,\r\nдаже сражаясь в одиночку.",
       "pl": "Ulepszony Wiweriański Mucro S..\r\nNawet gdy walczysz w pojedynkę,\r\nten zestaw zapewni ci wygraną.",
       "pt-BR": "Mucro Veldiano G. melhorado.\r\nMesmo em solidão, sua vitória\r\nestá garantida com essa espada\r\ne escudo em mãos.",
       "ko": "강화된 갈슈무크로.\r\n비록 홀로 남았어도 방패를\r\n쥐고 검을 치켜들며\r\n승리할 것을 의심치 않는다.",
@@ -5777,7 +5931,7 @@
       "it": "Mucro Veldian I",
       "de": "Arkveld-Mucro I",
       "es": "Mucro veldiano I",
-      "ru": "Вельдовый бастард I",
+      "ru": "Вельдовый меч I",
       "pl": "Wiweriański Mucro I",
       "pt-BR": "Mucro Veldiano I",
       "ko": "알슈무크로Ⅰ",
@@ -6404,7 +6558,7 @@
       "it": "Un mucro di Veldian potenziato.\r\nNoto come la spada dei re,\r\nè larma stessa a scegliere\r\nchi può brandirla.",
       "de": "Ein verbessertes Arkveld-\r\nMucro. Dieses heilige Schwert\r\ndes Königs wählt seinen\r\nTräger selbst.",
       "es": "Mucro veldiano mejorado.\r\nEsta poderosa arma, conocida\r\ncomo la espada sagrada de\r\nlos reyes, elige a su portador.",
-      "ru": "Улучшенный «Вельдовый бастард».\r\nСвященный меч королей, который\r\nсам выбирает себе владельца.",
+      "ru": "Улучшенный «Вельдовый меч».\r\nСвященный меч королей, который\r\nсам выбирает себе владельца.",
       "pl": "Ulepszony Wiweriański Mucro.\r\nZnany jako święty miecz królów,\r\nta potężna broń sama wybiera\r\nswojego właściciela.",
       "pt-BR": "Mucro Veldiano melhorado.\r\nConhecida como a espada sagrada\r\ndos reis, esta poderosa arma\r\nescolhe seu próprio portador.",
       "ko": "알슈무크로의 강화형.\r\n성검으로 칭송받을 정도로\r\n강력한 힘을 지닌 검이며\r\n주인을 직접 선택한다고 한다.",
@@ -6617,5 +6771,329 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 87,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 70,
+      "green": 100,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "names": {
+      "ja": "マイニングピッケル",
+      "en": "Mining Pickaxe",
+      "fr": "Pioche de mineur",
+      "it": "Piccone da minatore",
+      "de": "Bergbauspitzhacke",
+      "es": "Pico minero",
+      "ru": "Кирка горняка",
+      "pl": "Kilof górniczy",
+      "pt-BR": "Picareta de Mineração",
+      "ko": "마이닝피켈",
+      "zh-Hant": "採礦十字鎬",
+      "zh-Hans": "矿工十字镐",
+      "ar": "بلطة التنقيب",
+      "es-419": "Pico de minería"
+    },
+    "descriptions": {
+      "ja": "ピッケルを剣に、鉱脈を盾に。\r\n採掘に懸ける炭鉱夫の魂の表現と\r\n形容される片手剣。",
+      "en": "A pickaxe as a sword and a hunk of\r\nore as a shield. This miner's pick is\r\na reflection of a soul devoted to\r\nexcavation.",
+      "fr": "Une pioche pour épée et un\r\nmorceau de minerai pour\r\nbouclier. Représente les\r\nâmes dévouées à l'extraction.",
+      "it": "Un piccone come spada e un\r\nblocco di minerale come scudo.\r\nQuesta piccozza è il riflesso di\r\nun'anima votata all'estrazione.",
+      "de": "Eine Spitzhacke mit einem\r\ngroßen Erzbrocken als Schild.\r\nBeides Sinnbild für die Leiden-\r\nschaft eines Minenarbeiters.",
+      "es": "Pico y trozo de mineral que hacen\r\nlas veces de espada y escudo.\r\nEl pico minero es reflejo de\r\nun alma dedicada a excavar.",
+      "ru": "Кирка заместо меча и кусок руды\r\nзаместо щита. Оружие горняка\r\nотражает его любовь\r\nк горному делу.",
+      "pl": "Kilof jako miecz i bryła rudy\r\njako tarcza. Ten kilof górniczy\r\nto odbicie duszy oddanej\r\nwykopaliskom.",
+      "pt-BR": "Uma picareta como espada e um\r\npedaço de minério como escudo.\r\nEsta ferramenta é o reflexo de\r\numa alma dedicada à escavação.",
+      "ko": "곡괭이를 검, 광맥을 방패로.\r\n채굴에 매진하는 광부의 영혼을\r\n표현했다고 일컬어지는 한손검.",
+      "zh-Hant": "以十字鎬為劍，以礦脈為盾。此單手\r\n劍可謂體現了為採掘賭上性命的碳礦\r\n工之魂。",
+      "zh-Hans": "以镐代剑，以矿脉为盾，这把单手\r\n剑体现了将一生奉献在采掘上的矿\r\n工之魂。",
+      "ar": "بلطة تُستخدم كسيف،\r\nوقطعة خام تُستخدم كدرع.\r\nهذا المعول المعدني يعكس\r\nروحًا مُكرَّسة للتنقيب.",
+      "es-419": "Un pico como espada y un trozo\r\nde mineral como escudo.\r\nEl pico de minería es reflejo\r\nde un alma dedicada a excavar."
+    },
+    "rarity": 7,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 10,
+        "542": 4,
+        "581": 1,
+        "769": 2
+      },
+      "previous_id": null,
+      "branches": [
+        88
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 26
+    },
+    "skills": {
+      "28385": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 88,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 10,
+      "orange": 30,
+      "yellow": 60,
+      "green": 90,
+      "blue": 90,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "鶴嘴剣ディグモア",
+      "en": "Digmore War Pick",
+      "fr": "Pioche Digmore",
+      "it": "Piccascava da guerra",
+      "de": "Grabviel-Kriegshacke",
+      "es": "Pico de guerra cavamás",
+      "ru": "Боевая кирка копателя",
+      "pl": "Kilof wojny Digmore’a",
+      "pt-BR": "Picareta Bélica Cavamais",
+      "ko": "학취검 디그모어",
+      "zh-Hant": "十字鎬劍挖不停",
+      "zh-Hans": "鹤嘴剑猛挖",
+      "ar": "معول الحرب ديغمور",
+      "es-419": "Pico de guerra cavamás"
+    },
+    "descriptions": {
+      "ja": "鉱脈に対する常軌を逸した執着心が\r\n生んだ、マイニングピッケル強化\r\n形態。狩猟中であろうとも、掘れ。",
+      "en": "An upgraded Mining Pickaxe born\r\nfrom an abnormal obsession with\r\nore veins. If you're not mining, are\r\nyou even truly alive?",
+      "fr": "Pioche de mineur améliorée.\r\nNée d'une obsession malsaine\r\npour les gisements miniers. Le\r\nminerai, il n'y a que ça de vrai !",
+      "it": "Piccone da minatore migliorato,\r\nnato da un'ossessione anomala\r\nper i filoni di minerale. Come\r\nsi può vivere senza scavare?",
+      "de": "Eine verbesserte Bergbauspitz-\r\nhacke, geboren aus krankhafter\r\nBesessenheit von Erzadern. Erz\r\nmacht die Jagd erst zur Jagd!",
+      "es": "Pico minero mejorado, nacido de\r\ntremenda obsesión con las vetas\r\nde mineral. Si no estás picando,\r\n¿qué sentido tiene vivir?",
+      "ru": "Улучшенная «Кирка горняка»,\r\nпорождённая неестественной\r\nодержимостью рудными жилами.\r\nНе копал — значит, не жил.",
+      "pl": "Ulepszony kilof górniczy zrodzony\r\nz nietypowej obsesji na punkcie\r\nżył rud. Jeśli nie wydobywasz,\r\nto czy w ogóle żyjesz?",
+      "pt-BR": "Picareta de Mineração melhorada,\r\nnascida de uma obsessão anormal\r\ncom veios de minério. Se você não\r\nestá minerando, está mesmo vivo?",
+      "ko": "광맥을 향한 비정상적인 집착이\r\n만들어낸 마이닝피켈 강화형.\r\n사냥 중에도 채굴하라.",
+      "zh-Hant": "對礦脈傾注異於常人的執著後誕生\r\n的採礦十字鎬強化版。狩獵中也無\r\n所謂，挖吧。",
+      "zh-Hans": "对矿脉异乎寻常的执着，催生出的\r\n强化版矿工十字镐。即使身处狩猎\r\n之中，也要有一颗挖掘的心。",
+      "ar": "بلطة تنقيب تمت ترقيتها\r\nوُلدت من هوس غير طبيعي\r\nبعروق الخام. إذا لم تكن تحفر،\r\nفهل تعتبر نفسكَ حيًا حقًا؟",
+      "es-419": "Un pico de minería mejorado,\r\nnacido de una obsesión con las\r\nvetas de minerales. Si no usas\r\nun pico, ¿qué punto tiene vivir?"
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "545": 1,
+        "582": 10,
+        "661": 5,
+        "769": 1
+      },
+      "previous_id": 87,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 26
+    },
+    "skills": {
+      "28385": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 90,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ラギアソードⅠ",
+      "en": "Lagia Sword I",
+      "fr": "Épée Lagia",
+      "it": "Spada Lagia I",
+      "de": "Lagia-Schwert I",
+      "es": "Espada Lagia I",
+      "ru": "Лагиев меч I",
+      "pl": "Miecz Lagii I",
+      "pt-BR": "Espada de Lagia I",
+      "ko": "라기아소드Ⅰ",
+      "zh-Hant": "海龍劍Ⅰ",
+      "zh-Hans": "海龙剑Ⅰ",
+      "ar": "سيف لاغيا 1",
+      "es-419": "Espada de Lagia I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの力の象徴である\r\n雷の属性をもつ片手剣。暴れる\r\n雷は内部から痛みを与える。",
+      "en": "A sword & shield imbued with\r\nthe Lagiacrus's power. Through\r\nits blade flows lightning\r\nthat multiplies the pain.",
+      "fr": "Duo épée et bouclier imprégné\r\ndu pouvoir du Lagiacrus. La\r\nlame est parcourue d'éclairs\r\nqui décuplent la douleur.",
+      "it": "Spada e scudo intrisi del potere\r\ndel Lagiacrus. Attraverso la\r\nlama scorre un fulmine che\r\namplifica il dolore inflitto.",
+      "de": "Ein von der Macht des Lagiacrus\r\nerfülltes Schwert & Schild.\r\nIn seiner Klinge züngeln Blitze,\r\ndie den Schmerz vervielfachen.",
+      "es": "Espada y escudo imbuidos del\r\npoder de un Lagiacrus. Su hoja\r\nchisporrotea con relámpagos\r\npara multiplicar el dolor.",
+      "ru": "Меч и щит, наполненные силой\r\nлагиакруса. Струящаяся по его\r\nклинку молния лишь усиливает\r\nпричиняемую им боль.",
+      "pl": "Miecz i tarcza przepojone mocą\r\nLagiacrusa. Przez jego\r\nklingę przepływa błyskawica,\r\nktóra zwielokrotnia ból.",
+      "pt-BR": "Espada imbuída do poder de\r\nLagiacrus. Raios fluem por\r\nsua lâmina, multiplicando\r\na dor causada.",
+      "ko": "라기아크루스의 힘을 상징하는\r\n번개속성까지 깃든 한손검.\r\n폭주하는 벼락이 내부에서부터\r\n고통을 가한다.",
+      "zh-Hant": "帶有象徵海龍之力的雷屬性的單手\r\n劍。狂暴的雷電能為目標從內而外\r\n帶來痛苦。",
+      "zh-Hans": "带有象征着海龙之力的雷属性单手\r\n剑。奔流的雷电将由内而外折磨猎\r\n物。",
+      "ar": "سيف ودرع مشبعين بقوة (لاغياكروس).\r\nيتدفق عبر نصله برق يضاعف الألم.",
+      "es-419": "Espada y escudo imbuidos con\r\nel poder de un Lagiacrus. Sus\r\nhojas liberan relámpagos\r\nque multiplican el dolor."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        91
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 25
+    },
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 91,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ハイラギアソード",
+      "en": "High Lagia Sword",
+      "fr": "Grande épée Lagia",
+      "it": "Spada Lagia alta",
+      "de": "Hohes Lagia-Schwert",
+      "es": "Gran espada Lagia",
+      "ru": "Высший лагиев меч",
+      "pl": "Wzmocniony miecz Lagii",
+      "pt-BR": "Espada de Lagia Superior",
+      "ko": "하이라기아소드",
+      "zh-Hant": "高等海龍劍",
+      "zh-Hans": "高等海龙剑",
+      "ar": "سيف لاغيا المطور",
+      "es-419": "Alta espada Lagia"
+    },
+    "descriptions": {
+      "ja": "怒れる海竜の如き力を宿す、\r\nラギアソード強化版。振るえば\r\n怒濤の雷流が獲物を呑み込む。",
+      "en": "An upgraded Lagia Sword.\r\nIt harnesses the power of the\r\nstorm with every strike.",
+      "fr": "Épée Lagia améliorée. Sa lame\r\ninvoque la puissance d'une\r\ntempête à chaque coup.",
+      "it": "Spada Lagia potenziata.\r\nOgni colpo incanala il potere\r\ndella tempesta.",
+      "de": "Ein verbessertes Lagia-Schwert.\r\nJeder seiner Hiebe ist von der\r\nMacht des Sturms erfüllt.",
+      "es": "Espada de Lagia mejorada.\r\nEmplea el poder de la tormenta\r\ncon cada ataque.",
+      "ru": "Улучшенный «Лагиев меч».\r\nКаждый его удар наполнен\r\nсилой бури.",
+      "pl": "Ulepszony miecz Lagii.\r\nKażde uderzenie zadaje\r\nz siłą burzy.",
+      "pt-BR": "Espada de Lagia melhorada.\r\nEvoca o poder da tempestade\r\nem cada golpe desferido.",
+      "ko": "분노한 해룡과 같은 힘이 깃든\r\n라기아소드 강화판. 휘두르면\r\n거친 파도를 닮은 전류가\r\n사냥감을 집어삼킨다.",
+      "zh-Hant": "強化版海龍劍，內有宛如盛怒海龍的\r\n力量。只需揮舞便能引發怒濤電流\r\n吞噬獵物。",
+      "zh-Hans": "海龙剑的强化版，剑中含有狂怒的\r\n海龙般的力量。挥舞时的汹涌电流\r\n会吞噬猎物。",
+      "ar": "سيف (لاغيا) تمت ترقيته.\r\nيسخر قوة العاصفة\r\nمع كل ضربة.",
+      "es-419": "Espada de Lagia mejorada.\r\nAprovecha el poder de la\r\ntormenta en cada ataque."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 90,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 25
+    },
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   }
 ]

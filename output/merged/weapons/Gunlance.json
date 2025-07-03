@@ -4182,7 +4182,7 @@
       "it": "Una Folgore da guerra potenziata.\r\nLe sue pulsioni selvagge inibiscono\r\nla ragione e distruggono chi\r\nla impugna con troppa foga.",
       "de": "Ein verbesserter Feudal-\r\nFulgur. Sein wilder Drang\r\nüberwindet Vernunft und\r\nvernichtet übereifrige Jäger.",
       "es": "Fulgur guerrero mejorado.\r\nSus ansias salvajes destruyen\r\nla razón y acaban con los\r\nportadores más entusiastas.",
-      "ru": "Улучшенная «Воинственная\r\nмолния». Источает свирепость,\r\nиз-за которой владелец теряет\r\nосторожность и может погибнуть.",
+      "ru": "Улучшенный «Воинственный\r\nгром». Источает свирепость,\r\nиз-за которой владелец теряет\r\nосторожность и может погибнуть.",
       "pl": "Ulepszony Wojujący Piorun.\r\nJego dzikie pragnienia niweczą\r\nrozsądek i mogą zniszczyć zbyt\r\nzapalczywego posiadacza.",
       "pt-BR": "Fulgor Guerreiro melhorado.\r\nSeus impulsos selvagens\r\ndistorcem a razão, por fim\r\ndestruindo usuários arrogantes.",
       "ko": "하르마알쟈나르의 강화형.\r\n이치를 뒤흔들 정도로 압도적인\r\n폭력을 구현했다. 힘에\r\n취하면 스스로를 망치게 된다.",
@@ -4400,6 +4400,164 @@
     "series_id": 1094733056
   },
   {
+    "game_id": 54,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "アスファアルダナブⅠ",
+      "en": "Jaya Gunlance I",
+      "fr": "Lancecanon Jaya",
+      "it": "Lancia-fucile Jaya I",
+      "de": "Jaya-Gewehrlanze I",
+      "es": "Lanza pistola Jaya I",
+      "ru": "Копьепушка Джая I",
+      "pl": "Lancopał Jaya I",
+      "pt-BR": "Lançarma Jaya I",
+      "ko": "아스파알다나브Ⅰ",
+      "zh-Hant": "銃槍敗臼一Ⅰ",
+      "zh-Hans": "铳枪败臼一Ⅰ",
+      "ar": "بندقية رماح جايا 1",
+      "es-419": "Lanza pistola de Jaya I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの刃を重ねた銃槍。\r\n高らかに響くその砲撃は、革命の\r\n夜明けを告げる祝砲のごとし。",
+      "en": "Forged from a Seregios blade,\r\nthe echo of this gunlance\r\nresembles a cannon salute that\r\nheralds the dawn of rebellion.",
+      "fr": "Forgé à partir d'écailles de Seregios,\r\nl'écho de ce lancecanon ressemble\r\nà un salut au canon qui annonce\r\nl'aube de la révolte.",
+      "it": "L'eco di questa lancia-fucile,\r\nfatta con una scaglia affilata di\r\nSeregios, ricorda un cannone che\r\nannuncia l'alba della ribellione.",
+      "de": "Das Echo dieser Gewehrlanze\r\naus einer Seregios-Klinge\r\nerinnert an einen Kanonensalut,\r\nder die Rebellion einläutet.",
+      "es": "El eco de esta lanza pistola,\r\nforjada de una espada de\r\nSeregios, parece una salva de\r\ncañón anunciando una rebelión.",
+      "ru": "Копьепушка, выкованная из клинка\r\nсерегиоса. Эхо, что разносится\r\nпосле выстрела из неё, напоминает\r\nпризыв к восстанию.",
+      "pl": "Wykuty z ostrza Seregiosa,\r\necho tego lancopału\r\nprzypomina salut armatni,\r\nogłaszający początek rebelii.",
+      "pt-BR": "Forjada da lâmina de um Seregios,\r\nesta lançarma ressoa como uma\r\nsalva de canhões, proclamando\r\no início de uma rebelião.",
+      "ko": "셀레기오스의 칼날을 겹친\r\n건랜스. 높이 울려 퍼지는\r\n그 포격은 혁명의 새벽을\r\n알리는 축포와 같다.",
+      "zh-Hant": "疊合千刃龍的刃鱗而成的銃槍。\r\n高亢的砲擊聲如同宣告革命破曉\r\n來臨的禮砲。",
+      "zh-Hans": "用千刃龙的刃鳞层叠而成的铳枪。\r\n响亮的炮火声宛如宣告革命黎明到\r\n来的礼炮。",
+      "ar": "مصنوع من نصل (سيرجيوس)،\r\nصدى بندقية الرماح هذه يشبه\r\nتحية مدفعية تُعلن بزوغ فجر التمرد.",
+      "es-419": "Forjada de escamas de Seregios,\r\nel eco de esta lanza pistola\r\nrecuerda al saludo de un cañón\r\nal amanecer de una rebelión."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 55,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛銃槍アルダナブ",
+      "en": "Riotous Gunlance",
+      "fr": "Lancecanon du défi",
+      "it": "Lancia-fucile indomita",
+      "de": "Unruhen-Gewehrlanze",
+      "es": "Lanza pistola desenfrenada",
+      "ru": "Копьепушка бунтаря",
+      "pl": "Buntowniczy lancopał",
+      "pt-BR": "Lançarma Tumultuosa",
+      "ko": "반총창 알다나브",
+      "zh-Hant": "叛銃槍敗臼一",
+      "zh-Hans": "叛铳枪败臼一",
+      "ar": "بندقية رماح متمردة",
+      "es-419": "Lanza pistola desenfrenada"
+    },
+    "descriptions": {
+      "ja": "朽ちざる反逆への意志。強化型\r\nアスファアルダナブを携え、\r\n己を見下ろす神へ宣戦せよ。",
+      "en": "Declare war on the gods and\r\nbe victorious with this upgraded\r\nJaya Gunlance.",
+      "fr": "Lancecanon Jaya amélioré\r\nqui est capable de défier et\r\nde terrasser des dieux.",
+      "it": "Dichiara guerra agli dèi e\r\ntrionfa con questa lancia-fucile\r\nJaya potenziata.",
+      "de": "Mit der verbesserten Version\r\nder Jaya-Gewehrlanze kann\r\nman gegen Götter kämpfen.\r\nUnd gewinnen.",
+      "es": "Declara la guerra a los dioses\r\ny derrótalos con esta lanza\r\npistola Jaya mejorada.",
+      "ru": "Объявите войну богам и победите\r\nих с помощью улучшенной\r\n«Копьепушки Джая».",
+      "pl": "Ulepszony lancopał Jaya\r\nto broń pozwalająca\r\nwyzywać bogów na\r\npojedynek... i go wygrywać.",
+      "pt-BR": "Declare guerra contra os deuses\r\ne ascenda à vitória com esta\r\nLançarma Jaya melhorada.",
+      "ko": "꺾이지 않는 반역의 의지.\r\n강화형 아스파알다나브를 들고\r\n그대를 내려보는 신에게\r\n선전포고하라.",
+      "zh-Hant": "永垂不朽的反叛意志。手持強化版\r\n銃槍敗臼一，向藐視我等的神宣戰\r\n吧。",
+      "zh-Hans": "永垂不朽的反抗意志。手持强化版\r\n的铳枪败臼一，向藐视自己的神宣\r\n战吧。",
+      "ar": "أعلن الحرب على الآلهة\r\nوحقِّق النصر باستخدام بندقية رماح\r\n(جايا) التي تمت ترقيتها.",
+      "es-419": "Declara la guerra a los dioses\r\ny derrótalos con esta lanza\r\npistola de Jaya mejorada."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 56,
     "kind": "gunlance",
     "shell": "long",
@@ -4434,7 +4592,7 @@
     },
     "descriptions": {
       "ja": "リオレウスが具現した紅蓮の銃槍。\r\nその咆哮は猛火の旋律。獲物は\r\n炎の舞に踊り狂い、死に急ぐ。",
-      "en": "A gunlance that exemplifies\r\nRathalos' might, each roar a\r\nfiery melody hastening prey\r\nto their deaths.",
+      "en": "A gunlance that exemplifies\r\nRathalos's might, each roar a\r\nfiery melody hastening prey\r\nto their deaths.",
       "fr": "Lancecanon qui incarne le\r\nRathalos. Ses rugissements\r\nchantent une mélodie de feu,\r\nqui mène ses proies à la mort.",
       "it": "Lancia-fucile che incarna il\r\nRathalos. Il suo ruggito\r\nscorta il nemico alla tomba\r\ncon una feroce melodia.",
       "de": "Eine Gewehrlanze, die die Macht\r\ndes Rathalos’ verkörpert. Jedes\r\nBrüllen ist eine feurige Melodie,\r\ndie die Beute in den Tod treibt.",
@@ -5581,7 +5739,7 @@
       "it": "Un'asta Veldian potenziata.\r\nGrazie ad essa, un wyvern\r\ncontronatura è stato sconfitto.",
       "de": "Eine verbesserte Arkveld-Hasta.\r\nSie brachte einst einen hoch-\r\nmütigen Wyvern zu Fall, der sich\r\ngegen die Natur auflehnte.",
       "es": "Asta veldiana mejorada. Sirvió\r\npara ponerle las patas en tierra\r\na un orgulloso wyvern que osó\r\nrebelarse contra la naturaleza.",
-      "ru": "Улучшенная «Вельдстражевая гаста».\r\nНекогда именно это оружие помогло\r\nвернуть в землю спесивую виверну,\r\nпошедшую против природы.",
+      "ru": "Улучшенный «Вельдовый копьемёт».\r\nНекогда именно это оружие помогло\r\nвернуть в землю спесивую виверну,\r\nпошедшую против природы.",
       "pl": "Ulepszona Wiweriańska Hasta.\r\nWraz z nią wyniosła wiwerna,\r\nktóra przeciwstawiła się\r\nnaturze, powróciła na ziemię.",
       "pt-BR": "Hasta Veldiana melhorada.\r\nCom ela, uma serpe arrogante\r\nque desafiou a natureza foi\r\nlevada de volta à terra.",
       "ko": "알슈아스타의 강화형.\r\n평화를 맹세한 기사는\r\n생명체를 업신여긴 오만한\r\n용을 땅에 떨구었다.",
@@ -5969,5 +6127,334 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 79,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 4,
+    "sharpness": {
+      "red": 90,
+      "orange": 70,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "砲モロコシ",
+      "en": "Cornpopper",
+      "fr": "Canon à maïs",
+      "it": "Mietitrice",
+      "de": "Popcornkanone",
+      "es": "Maicera",
+      "ru": "Пушка для попкорна",
+      "pl": "Kolbopukawka",
+      "pt-BR": "Estouramilho",
+      "ko": "포수수",
+      "zh-Hant": "玉米砲",
+      "zh-Hans": "玉米炮",
+      "ar": "كورنبوبر",
+      "es-419": "Maicera"
+    },
+    "descriptions": {
+      "ja": "農業に対する爆発的な想いが\r\nガンランスへ昇華した。\r\nこうみえて使える。",
+      "en": "A gunlance born from a corny\r\ndedication to farming. Looks\r\naside, it's got good pop.",
+      "fr": "Lancecanon en hommage\r\nà l'agriculture. Efficacité\r\net un grain de fantaisie.",
+      "it": "Lancia-fucile in stile\r\nagricolo, efficace\r\nnonostante l'aspetto.",
+      "de": "Eine Gewehrlanze als kernige\r\nEhrung der Landwirtschaft.\r\nKnallt heftiger als Popcorn.",
+      "es": "Una lanza pistola dedicada\r\na la vida de granjero. Si obviamos\r\nsu apariencia, no está nada mal.",
+      "ru": "Копьепушка прямиком с полей\r\nкукурузы. Взрывная штучка,\r\nхоть по виду и не скажешь.",
+      "pl": "Lancopał powstały z zacięcia\r\ndo farmerstwa. Dziwnie wygląda,\r\nale nieźle puka.",
+      "pt-BR": "Lançarma criada por dedicação\r\naos milharais. Fora o visual,\r\nela é um estouro.",
+      "ko": "농업을 향한 폭발적인 간절함이\r\n건랜스로 승화되었다.\r\n이래 봬도 쓸만하다.",
+      "zh-Hant": "對農業爆炸般的熱情昇華而成的\r\n銃槍。別看它長成這樣，還是挺\r\n好用的。",
+      "zh-Hans": "对农业的狂想升华成了铳枪。别看\r\n它长成这个样子，还是很好用的。",
+      "ar": "بندقية رماح صُنعت بتفانٍ مبالغ فيه\r\nفي الزراعة. ورغم مظهرها، إلا أن لديها\r\nقدرة انفجار هائلة.",
+      "es-419": "Una lanza pistola dedicada\r\na la vida de granjero. A pesar\r\nde su aspecto, no está tan mal."
+    },
+    "rarity": 6,
+    "attack_raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "104": 3,
+        "512": 1,
+        "594": 2,
+        "768": 2
+      },
+      "previous_id": null,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false,
+      "column": 6,
+      "row": 23
+    },
+    "skills": {
+      "1826": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 80,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 4,
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 80,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "大砲モロコシ",
+      "en": "Mighty Cornpopper",
+      "fr": "Grand canon à maïs",
+      "it": "Supermietitrice",
+      "de": "Mächtige Popcornkanone",
+      "es": "Maicera poderosa",
+      "ru": "Могучая пушка для попкорна",
+      "pl": "Potężna kolbopukawka",
+      "pt-BR": "Estouramilho Possante",
+      "ko": "대포수수",
+      "zh-Hant": "玉米大砲",
+      "zh-Hans": "玉米大炮",
+      "ar": "كورنبوبر جبار",
+      "es-419": "Maicera poderosa"
+    },
+    "descriptions": {
+      "ja": "強き想いがより良い実りを\r\nもたらす。穀物の神の寵愛を\r\n受けし、砲モロコシ強化形態。",
+      "en": "The Cornpopper's upgraded\r\nform. Achieving a good\r\nharvest is all in the mind!",
+      "fr": "Canon à maïs amélioré qui\r\npromet de belles récoltes !",
+      "it": "Mietitrice potenziata. Un\r\nbuon raccolto è tutto ciò\r\nche conta!",
+      "de": "Die verbesserte Version der\r\nPopcornkanone.\r\nErnte gut, alles gut.",
+      "es": "Forma mejorada de la maicera.\r\nLa clave para obtener una buena\r\ncosecha está en la mente.",
+      "ru": "Улучшенная версия «Пушки\r\nдля попкорна». Главное —\r\nхороший урожай!",
+      "pl": "Ulepszona kolbopukawka.\r\nUrodzajne żniwa to podstawa!",
+      "pt-BR": "Estouramilho melhorada.\r\nAgora, ter uma boa colheita\r\nsó depende de você!",
+      "ko": "간절함이\r\n더 좋은 결실을 보게 한다.\r\n곡물의 신의 은총을 받은\r\n포수수 강화형.",
+      "zh-Hant": "獲得穀物之神寵愛的強化版玉米砲。\r\n強烈的信念帶來更豐饒的收穫。",
+      "zh-Hans": "受到粮食之神宠爱的强化形玉米炮。\r\n强烈的信念化为更为丰硕的果实。",
+      "ar": "الشكل الذي تمت ترقيته\r\nمن (كورنبوبر). السر في الحصاد\r\nالوفير يكمن في العقل!",
+      "es-419": "Maicera mejorada. ¡La clave\r\npara obtener una buena\r\ncosecha está en la mente!"
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "106": 1,
+        "511": 4,
+        "661": 5,
+        "768": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "1826": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 81,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ラギアバーストⅠ",
+      "en": "Lagia Burst I",
+      "fr": "Explosif Lagia",
+      "it": "Scoppio Lagia I",
+      "de": "Lagia-Explosion I",
+      "es": "Estallido de Lagia I",
+      "ru": "Лагиев разряд I",
+      "pl": "Wybuch Lagii I",
+      "pt-BR": "Estouro de Lagia I",
+      "ko": "라기아버스트Ⅰ",
+      "zh-Hant": "海龍爆裂銃槍Ⅰ",
+      "zh-Hans": "海龙爆裂铳枪Ⅰ",
+      "ar": "انفجار لاغيا 1",
+      "es-419": "Estallido de Lagia I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの力を宿した渦巻く\r\n銃槍。蒼き砲身から発される爆雷は\r\n螺旋を描き、万物を貫く。",
+      "en": "A coiled gunlance with the might\r\nof a Lagiacrus. It fires lightning\r\nagainst which nothing can stand.",
+      "fr": "Lancecanon à bobines aussi\r\npuissant qu'un Lagiacrus. Rien\r\nne peut résister à ses éclairs.",
+      "it": "Una lancia-fucile pervasa\r\ndalla forza di un Lagiacrus.\r\nScaglia fulmini contro cui nulla\r\npuò opporsi.",
+      "de": "Eine Gewehrlanze mit der Macht\r\neines Lagiacrus. Verschießt\r\nBlitze, denen nichts widersteht.",
+      "es": "Lanza pistola electrificada con\r\nla energía de un Lagiacrus.\r\nDispara rayos contra los\r\nque poco se puede hacer.",
+      "ru": "Витая копьепушка, наполненная\r\nсилой лагиакруса. Стреляет\r\nэлектрическими разрядами,\r\nот которых не защититься.",
+      "pl": "Zwinięty lancopał potężny\r\njak Lagiacrus. Strzela światłem,\r\nktóremu nic nie sprosta.",
+      "pt-BR": "Lançarma espiralada com o poder\r\nde um Lagiacrus. Não há nada\r\ncapaz de resistir aos raios que\r\nela dispara.",
+      "ko": "라기아크루스의 힘이 깃들어\r\n소용돌이치는 건랜스. 푸른\r\n포신에서 뿜어져 나오는 폭뢰는\r\n나선을 그리며 만물을 관통한다.",
+      "zh-Hant": "蘊藏海龍之力的漩渦銃槍。蒼藍砲身\r\n發射的水雷會化作螺旋，貫穿萬物。",
+      "zh-Hans": "承载着海龙之力的螺旋型铳枪。苍\r\n蓝的炮身射出的爆雷划出螺旋的轨\r\n迹，贯穿世间万物。",
+      "ar": "بندقية رماح ذات تصميم حلزوني\r\nوقوة (لاغياكروس)، تطلق صواعق\r\nلا يقوى شيء على مواجهتها.",
+      "es-419": "Una lanza pistola retorcida\r\ncon el poder de un Lagiacrus.\r\nDispara rayos imposibles\r\nde resistir por nada ni nadie."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 22
+    },
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 82,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "雷銃槍エクスラギア",
+      "en": "Exlagia Gunlance",
+      "fr": "Lancecanon Exlagia",
+      "it": "Lancia-fucile Lagia",
+      "de": "Exlagia-Gewehrlanze",
+      "es": "Lanza pistola Exlagia",
+      "ru": "Копьепушка Экслагиа",
+      "pl": "Lancopał Exlagii",
+      "pt-BR": "Lançarma Exlagia",
+      "ko": "뇌총창 엑스라기아",
+      "zh-Hant": "雷銃槍海龍",
+      "zh-Hans": "雷铳枪海龙",
+      "ar": "بندقية رماح إكسلجيا",
+      "es-419": "Lanza pistola de Exlagia"
+    },
+    "descriptions": {
+      "ja": "天を翔ける万雷が、海凶の再臨を\r\n四海に告げる。真の力を解放した、\r\nラギアバースト強化型。",
+      "en": "The Lagia Burst's upgraded\r\nform pierces the heavens\r\nwith its thunderous fury.",
+      "fr": "Explosif Lagia amélioré\r\ncapable de percer les cieux\r\nde sa fureur électrique.",
+      "it": "La forma potenziata dello\r\nScoppio Lagia squarcia i cieli\r\ncon la sua ira tonante.",
+      "de": "Die verbesserte Version der\r\nLagia-Explosion durchbohrt\r\nden Himmel mit donnerndem\r\nZorn.",
+      "es": "Forma mejorada del\r\nEstallido de Lagia que\r\natraviesa los cielos con\r\nuna furia estruendosa.",
+      "ru": "Улучшенный «Лагиев разряд»\r\nпронзает небеса громовой\r\nяростью.",
+      "pl": "Piorunująca furia ulepszonej\r\npostaci Wybuchu Lagii\r\nrozcina niebo na dwoje.",
+      "pt-BR": "Este Estouro de Lagia melhorado\r\né capaz de perfurar os céus com\r\nfúria trovejante.",
+      "ko": "하늘을 나는 만뢰가 온 바다에\r\n해흉의 재림을 고한다.\r\n진정한 힘을 해방한\r\n라기아버스트 강화형.",
+      "zh-Hant": "解放了真正力量的強化版海龍爆裂\r\n銃槍。翱翔天際的萬雷向四海宣告\r\n大海凶獸再臨。",
+      "zh-Hans": "释放出真正力量的海龙爆裂铳枪强\r\n化版。翱翔长空的亿万雷霆向四海\r\n宣告着海中凶煞的再临。",
+      "ar": "نسخة انفجار (لاغيا)\r\nالتي تمت ترقيتها تخترق\r\nالسماوات بغضبها المدوي.",
+      "es-419": "La forma mejorada del Estallido\r\nde Lagia perfora los cielos\r\ncon una furia estruendosa."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 45,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   }
 ]

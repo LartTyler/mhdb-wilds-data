@@ -3280,7 +3280,7 @@
       "ko": "암추 로르자치",
       "zh-Hant": "暗錘羅倫札奇",
       "zh-Hans": "罗朗萨丘之暗锤",
-      "ar": "جَلد زاشيو",
+      "ar": "جلّاد زاشيو",
       "es-419": "Ejecución de Zaccio"
     },
     "descriptions": {
@@ -4602,6 +4602,160 @@
     "series_id": 1094733056
   },
   {
+    "game_id": 58,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "マトラカアルグルⅠ",
+      "en": "Matraca Hammer I",
+      "fr": "Marteau Matraca",
+      "it": "Martello Matraca I",
+      "de": "Matraca-Hammer I",
+      "es": "Martillo Matraca I",
+      "ru": "Молот Матраки I",
+      "pl": "Młot Matraca I",
+      "pt-BR": "Martelo Matraca I",
+      "ko": "마트라카알굴Ⅰ",
+      "zh-Hant": "大錘大陵五Ⅰ",
+      "zh-Hans": "大锤大陵五Ⅰ",
+      "ar": "مطرقة ماتراكا 1",
+      "es-419": "Martillo Matraca I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの鱗を組み合わせた\r\n鎚。極めて高い強度と鋭利な棘で\r\n攻撃対象を粉塵に帰す。",
+      "en": "A hammer forged from the scales\r\nof Seregios, capable of reducing\r\nfoes to dust.",
+      "fr": "Forgé à partir d'écailles de\r\nSeregios, il peut réduire les\r\nennemis en poussière.",
+      "it": "Martello forgiato con scaglie\r\ndi Seregios, capace di ridurre\r\ni nemici in polvere.",
+      "de": "Ein Hammer aus Seregios-\r\nSchuppen, der Gegner zu\r\nStaub zermahlt.",
+      "es": "Un martillo forjado con\r\nescamas de Seregios.\r\nEs capaz de hacer polvo\r\na sus víctimas.",
+      "ru": "Молот, выкованный из чешуи\r\nсерегиоса. Способен стереть\r\nваших врагов в порошок.",
+      "pl": "Młot wykuty z łusek\r\nSeregiosa, rozbija\r\nwrogów w proch.",
+      "pt-BR": "Martelo forjado de escamas de\r\nSeregios, capaz de reduzir seus\r\ninimigos a pó.",
+      "ko": "셀레기오스의 비늘을 조합한\r\n해머. 극도로 높은 강도와\r\n날카로운 가시로 공격 대상을\r\n가루로 만든다.",
+      "zh-Hant": "以千刃龍的鱗片組合而成的大錘。極\r\n高的硬度與銳利的棘會讓攻擊對象化\r\n為粉塵。",
+      "zh-Hans": "使用千刃龙的鳞组合而成的大锤。\r\n强度极高且锋利的棘会将敌人化为\r\n粉尘。",
+      "ar": "مطرقة مصنوعة من قشور (سيرجيوس)،\r\nقادرة على سحق الأعداء\r\nوتحويلهم إلى غبار.",
+      "es-419": "Un martillo forjado con escamas\r\nde Seregios, capaz de hacer\r\npolvo a sus víctimas."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 59,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛鎚アルグル",
+      "en": "Argyl Hammer",
+      "fr": "Marteau Argyl",
+      "it": "Martello Argyl",
+      "de": "Argyl-Hammer",
+      "es": "Martillo Argyl",
+      "ru": "Молот Аргила",
+      "pl": "Młot Argyla",
+      "pt-BR": "Martelo Argyl",
+      "ko": "반퇴 알굴",
+      "zh-Hant": "叛錘大陵五",
+      "zh-Hans": "叛锤大陵五",
+      "ar": "مطرقة أرجيل",
+      "es-419": "Martillo Argyl"
+    },
+    "descriptions": {
+      "ja": "無窮の強さをもって乱世を変革する\r\n鉄鎚。マトラカアルグルの強化型は\r\n革命者の証なり。",
+      "en": "An upgraded Matraca Hammer.\r\nThe sign of a revolutionary,\r\nas its strength seeks change.",
+      "fr": "Marteau Matraca amélioré.\r\nAssoiffé de changement, il semble\r\navoir l'âme d'un révolutionnaire.",
+      "it": "Martello Matraca potenziato.\r\nSimbolo di rivoluzione, la sua\r\nforza cerca il cambiamento.",
+      "de": "Ein verbesserter Matraca-\r\nHammer. Ganz der Revolu-\r\ntionär, sehnt er sich nach\r\nWandel.",
+      "es": "Martillo Matraca mejorado.\r\nSímbolo revolucionario cuya\r\nfuerza persigue el cambio.",
+      "ru": "Улучшенный «Молот Матраки».\r\nИстинное оружие революционера,\r\nжаждущего перемен.",
+      "pl": "Ulepszony Młot Matraca.\r\nSymbol rebelii, siła\r\nposzukująca zmiany.",
+      "pt-BR": "Martelo Matraca melhorado.\r\nSinal de revolução, força que\r\nbusca mudança.",
+      "ko": "무궁무진한 힘으로\r\n난세를 변혁하는 철추.\r\n마트라카알굴 강화형은\r\n혁명가의 증표.",
+      "zh-Hant": "以無窮力量變革亂世的鐵錘。強化版\r\n大錘大陵五是革命者的證明。",
+      "zh-Hans": "以无尽的力量变革乱世的铁锤。大\r\n锤大陵五的强化版乃身为革命者的\r\n证明。",
+      "ar": "مطرقة (ماتراكا) تمت ترقيتها.\r\nرمزٌ للثائر، إذ إن قوتها\r\nتنشد التغيير.",
+      "es-419": "Un martillo Matraca mejorado.\r\nSímbolo revolucionario con\r\nsu fuerza detrás del cambio."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 60,
     "kind": "hammer",
     "sharpness": {
@@ -5828,7 +5982,7 @@
       "it": "Un martello di Veldian\r\npotenziato. Il cavaliere dalla\r\nforza incredibile che lo\r\nimpugnava usava solo una mano.",
       "de": "Verbesserter Arkveld-Malleus.\r\nDer unfassbar starke Ritter, der\r\nihn führte, konnte ihn mit einer\r\nHand schwingen.",
       "es": "Malleus veldiano mejorado.\r\nEl caballero increíblemente\r\npoderoso que lo empuñaba podía\r\nsujetarlo con una sola mano.",
-      "ru": "Улучшенный «Вельдстражевый молот».\r\nМогучий рыцарь, который некогда\r\nвладел этим оружием, с лёгкостью\r\nподнимал его одной рукой.",
+      "ru": "Улучшенный «Вельдовый молот».\r\nМогучий рыцарь, который некогда\r\nвладел этим оружием, с лёгкостью\r\nподнимал его одной рукой.",
       "pl": "Ulepszony Wiweriański Malleus.\r\nNiewiarygodnie silny rycerz,\r\nktóry go nosił, mógł nim władać\r\njedną ręką.",
       "pt-BR": "Malleus Veldiano melhorado.\r\nUsado por um cavaleiro bem\r\nforte e que era capaz de\r\ngolpear com uma única mão.",
       "ko": "알슈말레우스의 강화형.\r\n무시무시한 힘을 가진\r\n기사는 망치를 한 손으로\r\n휘둘렀다고 한다.",
@@ -6208,5 +6362,174 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 83,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 110,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ボルテックハンマーⅠ",
+      "en": "Vortex Hammer I",
+      "fr": "Marteau vortex",
+      "it": "Martello vortice I",
+      "de": "Vortex-Hammer I",
+      "es": "Martillo torbellino I",
+      "ru": "Молот вихря I",
+      "pl": "Spiralny Młot I",
+      "pt-BR": "Martelo Vórtice I",
+      "ko": "볼텍스해머Ⅰ",
+      "zh-Hant": "電壓錘Ⅰ",
+      "zh-Hans": "海雷涡流锤Ⅰ",
+      "ar": "مطرقة الدوامة 1",
+      "es-419": "Martillo vórtice I"
+    },
+    "descriptions": {
+      "ja": "渦巻くラギアクルスをモチーフに\r\nした雷鎚。渦に巻き込まれたものは\r\n怒涛の連撃によって形を失う。",
+      "en": "An electric hammer inspired\r\nby the whirlpools Lagiacrus\r\ncreate to destroy prey.",
+      "fr": "Un marteau électrique inspiré\r\ndes tourbillons que créent les\r\nLagiacrus pour chasser.",
+      "it": "Un martello elettrico ispirato\r\nai vortici che il Lagiacrus crea\r\nper annientare le prede.",
+      "de": "Ein elektrischer Hammer,\r\ninspiriert von den Strudeln,\r\nmit denen der Lagiacrus seine\r\nBeute vernichtet.",
+      "es": "Martillo eléctrico inspirado\r\nen los remolinos que crea\r\nel Lagiacrus para destruir\r\na sus presas.",
+      "ru": "Электрический молот, сделанный\r\nпо типу вихрей, которые\r\nлагиакрус создаёт вокруг жертвы.",
+      "pl": "Elektryczny młot, zainspirowany\r\nwirami tworzonymi przez\r\nLagiacrusa, aby zniszczyć ofiarę.",
+      "pt-BR": "Martelo elétrico inspirado nos\r\nredemoinhos que Lagiacrus cria\r\npara destruir suas presas.",
+      "ko": "소용돌이치는 라기아크루스를\r\n모티브로 한 뇌추. 소용돌이에\r\n휘말리면 격노의 연격으로\r\n형태를 잃는다.",
+      "zh-Hant": "以捲起漩渦的海龍為靈感的雷錘。\r\n被捲入漩渦的人會因為怒濤連擊而\r\n粉身碎骨。",
+      "zh-Hans": "以漩涡海龙为原型打造而成的雷锤。\r\n被卷入漩涡中的猎物，会在怒涛般\r\n的连击下粉身碎骨。",
+      "ar": "مطرقة كهربائية مستوحاة\r\nمن الدوامات التي يُحدثها\r\n(لاغياكروس) لتدمير فرائسه.",
+      "es-419": "Un martillo eléctrico inspirado\r\nen los remolinos que Lagiacrus\r\ncrea para destruir a su presa."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 84,
+    "kind": "hammer",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ハイボルテック",
+      "en": "High Vortex Hammer",
+      "fr": "Grand marteau vortex",
+      "it": "Martello vortice alto",
+      "de": "Hoher Vortex-Hammer",
+      "es": "Gran martillo torbellino",
+      "ru": "Высший молот вихря",
+      "pl": "Wzmocniony Spiralny Młot",
+      "pt-BR": "Martelo Vórtice Superior",
+      "ko": "하이볼텍스",
+      "zh-Hant": "高電壓錘",
+      "zh-Hans": "海雷涡流猛锤",
+      "ar": "مطرقة الدوامة الشديدة",
+      "es-419": "Alto martillo vórtice"
+    },
+    "descriptions": {
+      "ja": "雷流は激烈さを増し、大地を\r\n飲み込んで渦巻く波濤と化す。\r\nボルテックハンマー強化型。",
+      "en": "An upgraded Vortex Hammer.\r\nIts electric current has been\r\nboosted for increased intensity.",
+      "fr": "Marveau Vortex amélioré.\r\nSon courant électrique a été\r\nrenforcé pour une intensité\r\naccrue.",
+      "it": "Martello vortice potenziato.\r\nLa sua scarica elettrica è stata\r\npotenziata per aumentarne\r\nla potenza.",
+      "de": "Ein verbesserter Vortex-Hammer.\r\nDie elektrische Ladung wurde für\r\nmehr Wucht verstärkt.",
+      "es": "Martillo torbellino mejorado.\r\nEmplea corriente eléctrica\r\npotenciada para mayor\r\nintensidad.",
+      "ru": "Улучшенный «Молот вихря».\r\nЕго электрические разряды\r\nнаносят дополнительный урон.",
+      "pl": "Ulepszony Spiralny Młot.\r\nJego wzmocniony prąd\r\nelektryczny wyrządza\r\npotężniejsze szkody.",
+      "pt-BR": "Martelo Vórtice melhorado.\r\nPossui uma corrente elétrica\r\naprimorada para causar mais dano.",
+      "ko": "전류는 더욱 격렬해져\r\n대지를 삼키고 소용돌이치는\r\n성난 파도로 변한다.\r\n볼텍스해머 강화형.",
+      "zh-Hant": "強化版電壓錘。電流變得更猛烈，\r\n化為吞噬大地的漩渦波濤。",
+      "zh-Hans": "海雷涡流锤的强化版。电流变得更\r\n猛烈，化为吞噬大地的汹涌漩涡。",
+      "ar": "مطرقة دوامة تمت ترقيتها.\r\nتم تعزيز التيار الكهربائي\r\nفيها لزيادة الكثافة.",
+      "es-419": "Un martillo vórtice mejorado.\r\nSe aumentó la corriente\r\neléctrica para que inflija daño\r\nadicional."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 45,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   }
 ]

@@ -342,6 +342,54 @@
             "661": 3
           }
         }
+      },
+      {
+        "names": {
+          "ja": "整備の護石Ⅳ",
+          "en": "Maintenance Charm IV",
+          "fr": "Talisman de ranger IV",
+          "it": "Amuleto dedicato IV",
+          "de": "Wartung-Talisman IV",
+          "es": "Amuleto reparador IV",
+          "ru": "Оберег механика IV",
+          "pl": "Amulet konserwacji IV",
+          "pt-BR": "Amuleto da Manutenção IV",
+          "ko": "정비의 호석Ⅳ",
+          "zh-Hant": "整備護石Ⅳ",
+          "zh-Hans": "整备护石Ⅳ",
+          "ar": "تميمة أعمال الصيانة 4",
+          "es-419": "Amuleto reparación IV"
+        },
+        "descriptions": {
+          "ja": "装備することで整備スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Tool\r\nSpecialist skill.",
+          "fr": "Un talisman qui confère\r\nle talent Expert en survie.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Manutenzione.",
+          "de": "Dieses Amulett gewährt die\r\nWerkzeugmeister-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"experto en herramientas\".",
+          "ru": "Оберег, дарующий навык\r\n«Механик».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Spec od narzędzi.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nPerícia em Ferramentas.",
+          "ko": "장비하면 정비 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動整備技能的護身符。",
+          "zh-Hans": "发动整备技能的护身符。",
+          "ar": "سحر يمنح مهارة\r\nمختص الأدوات.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nherramientas."
+        },
+        "rarity": 8,
+        "level": 4,
+        "price": 16000,
+        "skills": {
+          "469540352": 4
+        },
+        "recipe": {
+          "inputs": {
+            "330": 6,
+            "333": 4,
+            "424": 1,
+            "759": 3
+          }
+        }
       }
     ]
   },
@@ -787,6 +835,54 @@
             "661": 3
           }
         }
+      },
+      {
+        "names": {
+          "ja": "底力の護石Ⅳ",
+          "en": "Grit Charm IV",
+          "fr": "Talisman de courage IV",
+          "it": "Amuleto grinta IV",
+          "de": "Schneid-Talisman IV",
+          "es": "Amuleto abrasivo IV",
+          "ru": "Оберег выдержки IV",
+          "pl": "Am. determinacji IV",
+          "pt-BR": "Amuleto de Brio IV",
+          "ko": "저력의 호석Ⅳ",
+          "zh-Hant": "潛力護石Ⅳ",
+          "zh-Hans": "底力护石Ⅳ",
+          "ar": "تميمة الصلابة 4",
+          "es-419": "Amuleto abrasivo IV"
+        },
+        "descriptions": {
+          "ja": "装備することで火事場力スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Heroics\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Héroïsme.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Eroismo.",
+          "de": "Dieses Amulett gewährt die\r\nHeldentat-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"heroicidad\".",
+          "ru": "Оберег, дарующий навык\r\n«Героизм».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Wyczyny.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nHeroísmo.",
+          "ko": "장비하면 재난대처능력 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動火場怪力技能的護身符。",
+          "zh-Hans": "发动火场怪力技能的护身符。",
+          "ar": "تميمة تمنح مهارة أعمال بطولية.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Heroicidad."
+        },
+        "rarity": 8,
+        "level": 4,
+        "price": 16000,
+        "skills": {
+          "422666624": 4
+        },
+        "recipe": {
+          "inputs": {
+            "351": 1,
+            "549": 6,
+            "552": 3,
+            "554": 1
+          }
+        }
       }
     ]
   },
@@ -1184,6 +1280,54 @@
             "545": 2,
             "660": 3,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "無傷の護石Ⅲ",
+          "en": "Unscathed Charm III",
+          "fr": "Talisman de triomphe III",
+          "it": "Amuleto illeso III",
+          "de": "UnversehrtTalismanIII",
+          "es": "Amuleto ileso III",
+          "ru": "Оберег невредимости III",
+          "pl": "Amulet zdrowego III",
+          "pt-BR": "Amuleto Ileso III",
+          "ko": "건강제일의 호석Ⅲ",
+          "zh-Hant": "無傷護石Ⅲ",
+          "zh-Hans": "无伤护石Ⅲ",
+          "ar": "تميمة الآمن 3",
+          "es-419": "Amuleto ileso III"
+        },
+        "descriptions": {
+          "ja": "装備することでフルチャージ\r\nスキルが発動するお守り。",
+          "en": "A charm that grants the Peak\r\nPerformance skill.",
+          "fr": "Un talisman qui confère\r\nle talent Performance optimale.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Forma perfetta.",
+          "de": "Dieses Amulett gewährt die\r\nHöchstleistung-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"plena forma\".",
+          "ru": "Оберег, дарующий навык\r\n«На высоте».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Szczyt możliwości.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nDesempenho Máximo.",
+          "ko": "장비하면 완전 충전 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動無傷技能的護身符。",
+          "zh-Hans": "发动无伤技能的护身符。",
+          "ar": "تميمة تمنح مهارة ذروة الأداء.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Plena forma."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "2106877312": 3
+        },
+        "recipe": {
+          "inputs": {
+            "329": 6,
+            "332": 4,
+            "334": 1,
+            "759": 3
           }
         }
       }
@@ -4154,6 +4298,54 @@
             "492": 5
           }
         }
+      },
+      {
+        "names": {
+          "ja": "友愛の護石Ⅴ",
+          "en": "Friendship Charm V",
+          "fr": "Talisman d'amitié V",
+          "it": "Amuleto amicizia V",
+          "de": "FreundschaftTalismn V",
+          "es": "Amuleto amistad V",
+          "ru": "Оберег дружбы V",
+          "pl": "Amulet przyjaźni V",
+          "pt-BR": "Amuleto de Amizade V",
+          "ko": "우애의 호석Ⅴ",
+          "zh-Hant": "友愛護石Ⅴ",
+          "zh-Hans": "友爱护石Ⅴ",
+          "ar": "تميمة الصداقة 5",
+          "es-419": "Amuleto de amistad V"
+        },
+        "descriptions": {
+          "ja": "装備することで広域化スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Wide-\r\nRange skill.",
+          "fr": "Un talisman qui confère\r\nle talent Un pour tous.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Ampia area.",
+          "de": "Dieses Amulett gewährt die\r\nWirkbereich-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"efecto área\".",
+          "ru": "Оберег, дарующий навык\r\n«Широкий радиус».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Duży zasięg.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nAlcance Amplo.",
+          "ko": "장비하면 광역화 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動廣域化技能的護身符。",
+          "zh-Hans": "发动广域化技能的护身符。",
+          "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
+        },
+        "rarity": 6,
+        "level": 5,
+        "price": 6000,
+        "skills": {
+          "894530496": 5
+        },
+        "recipe": {
+          "inputs": {
+            "731": 6,
+            "732": 4,
+            "735": 3,
+            "736": 1
+          }
+        }
       }
     ]
   },
@@ -5347,6 +5539,54 @@
             "560": 1,
             "568": 1,
             "660": 3,
+            "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "反攻の護石Ⅲ",
+          "en": "Counterattack Charm III",
+          "fr": "Talisman de riposte III",
+          "it": "Amuleto adrenalina III",
+          "de": "GegenangriffTalismanIII",
+          "es": "Amuleto de contragolpe III",
+          "ru": "Оберег контратаки III",
+          "pl": "Amulet kontrataku III",
+          "pt-BR": "Amuleto de Contra-ataque III",
+          "ko": "반격의 호석Ⅲ",
+          "zh-Hant": "反攻護石Ⅲ",
+          "zh-Hans": "反攻护石Ⅲ",
+          "ar": "تميمة الهجوم المضاد 2",
+          "es-419": "Amuleto adrenalina III"
+        },
+        "descriptions": {
+          "ja": "装備することで巧撃スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Adrenaline\r\nRush skill.",
+          "fr": "Un talisman qui confère\r\nle talent Poussée d'adrénaline.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Flusso di adrenalina.",
+          "de": "Dieses Amulett gewährt die\r\nAdrenalinschub-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"subida de adrenalina\".",
+          "ru": "Оберег, дарующий навык\r\n«Прилив адреналина».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Napływ adrenaliny.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nOnda de Adrenalina.",
+          "ko": "장비하면 교격 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動巧擊技能的護身符。",
+          "zh-Hans": "发动巧击技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nتسارع الأدرينالين.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Subida de\r\nadrenalina."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "1174975744": 3
+        },
+        "recipe": {
+          "inputs": {
+            "465": 1,
+            "550": 4,
+            "551": 2,
             "661": 5
           }
         }
@@ -6699,6 +6939,54 @@
             "462": 4,
             "465": 1,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "属吸の護石Ⅱ",
+          "en": "Imbibe Charm II",
+          "fr": "Talisman d'absorption II",
+          "it": "Amuleto assorbimento II",
+          "de": "Absorption-Talisman II",
+          "es": "Amuleto de ósmosis II",
+          "ru": "Оберег усвоения II",
+          "pl": "Amulet wchłaniania II",
+          "pt-BR": "Amuleto de Absorção II",
+          "ko": "속흡의 호석Ⅱ",
+          "zh-Hant": "屬吸護石Ⅱ",
+          "zh-Hans": "属吸护石Ⅱ",
+          "ar": "تميمة الامتصاص 2",
+          "es-419": "Amuleto de bebida II"
+        },
+        "descriptions": {
+          "ja": "装備することで属性吸収スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Elemental\r\nAbsorption skill.",
+          "fr": "Un talisman qui confère\r\nle talent Absorption élémentaire.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Assorbi elementi.",
+          "de": "Dieses Amulett gewährt die\r\nElementare-Absorption-\r\nFähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"absorbe elemento\".",
+          "ru": "Оберег, дарующий навык\r\n«Поглощение стихии».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Wchłanianie\r\nżywiołów.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nAbsorção Elemental.",
+          "ko": "장비하면 속성 흡수 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動屬性吸收技能的護身符。",
+          "zh-Hans": "发动属性吸收技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nالامتصاص العناصري.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Absorción\r\nelemental."
+        },
+        "rarity": 8,
+        "level": 2,
+        "price": 16000,
+        "skills": {
+          "1489568384": 2
+        },
+        "recipe": {
+          "inputs": {
+            "463": 4,
+            "661": 5,
+            "732": 4,
+            "736": 1
           }
         }
       }

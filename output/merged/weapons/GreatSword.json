@@ -1536,6 +1536,160 @@
     "series_id": -1281946368
   },
   {
+    "game_id": 20,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "チェーダアルザバルⅠ",
+      "en": "Cheda Blade I",
+      "fr": "Lame Cheda",
+      "it": "Lama Cheda I",
+      "de": "Cheda-Klinge I",
+      "es": "Espada Cheda I",
+      "ru": "Клинок Чеда I",
+      "pl": "Ostrze Chedy I",
+      "pt-BR": "Lâmina Cheda I",
+      "ko": "체다알자바르Ⅰ",
+      "zh-Hant": "裂傷參宿七Ⅰ",
+      "zh-Hans": "大剑参宿七Ⅰ",
+      "ar": "نصل تشيدا 1",
+      "es-419": "Espada Cheda I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの角を模した大剣。\r\n眩さを伴い繰り出される一撃は\r\nどんな闇をも切り裂く。",
+      "en": "A great sword resembling\r\na Seregios horn. Its dazzling\r\nblow cuts through any darkness.",
+      "fr": "Grande épée en forme de\r\ncorne de Seregios. Ses\r\ncoups déchirent les ténèbres.",
+      "it": "Spadone simile a un\r\ncorno di Seregios. I sui colpi\r\nabbaglianti fendono qualsiasi\r\noscurità.",
+      "de": "Ein Großschwert in Form eines\r\nSeregios-Horns. Jeder Schwung\r\ndurchtrennt die Dunkelheit.",
+      "es": "Gran espada de aspecto similar\r\na un cuerno de Seregios.\r\nSu filo cegador doblega\r\nla oscuridad.",
+      "ru": "Двуручный меч, напоминающий рог\r\nсерегиоса. Его мощные удары\r\nрассеивают тьму.",
+      "pl": "Miecz dwuręczny podobny\r\ndo rogu Seregiosa.\r\nPrzecina każdą ciemność.",
+      "pt-BR": "Espadão que parece um chifre de\r\nSeregios. Seu golpe estonteante\r\ncorta qualquer treva.",
+      "ko": "셀레기오스의 뿔을 본뜬\r\n대검. 눈부심과 함께 가해지는\r\n공격은 그 어떤 어둠도\r\n찢어버린다.",
+      "zh-Hant": "模仿千刃龍之角的大劍。帶同耀眼\r\n光芒施展的一擊會斬裂任何黑暗。",
+      "zh-Hans": "模仿千刃龙的角打造的大剑。伴随\r\n着眩目光辉的一击能斩破任何黑暗。",
+      "ar": "سيف عظيم يشبه قرن (سيرجيوس).\r\nضربته الباهرة تخترق أي ظلام.",
+      "es-419": "Gran espada que parece un cuerno\r\nde Seregios. Su filo cegador\r\ndoblega la oscuridad."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 21,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛断刀アルザバル",
+      "en": "Impudent Cheda",
+      "fr": "Cheda impudente",
+      "it": "Cheda impudente",
+      "de": "Dreistes Cheda",
+      "es": "Cheda impúdica",
+      "ru": "Дерзость Чеды",
+      "pl": "Zuchwały Cheda",
+      "pt-BR": "Cheda Impudente",
+      "ko": "반단도 알자바르",
+      "zh-Hant": "叛斷刀參宿七",
+      "zh-Hans": "叛断刀参宿七",
+      "ar": "شيدا الوقح",
+      "es-419": "Cheda impúdica"
+    },
+    "descriptions": {
+      "ja": "チェーダアルザバル強化形。\r\n決して尽きることのない\r\n斬れ味は反逆の意志の表れか。",
+      "en": "The Cheda Blade's upgraded\r\nform gleams with its\r\ninexhaustible sharpness.",
+      "fr": "Lame Cheda améliorée.\r\nSon fil scintille et restera\r\néternellement tranchant.",
+      "it": "Lama Cheda potenziata.\r\nBrilla a causa della sua\r\ninesauribile acutezza.",
+      "de": "Eine verbesserte Cheda-\r\nKlinge. Ihre Schärfe sucht\r\nihresgleichen.",
+      "es": "Espada Cheda mejorada.\r\nSu indestructible filo reluce\r\nimpasible.",
+      "ru": "Улучшенный «Клинок Чеда»\r\nсияет вечной остротой.",
+      "pl": "Ulepszona forma Ostrza Chedy.\r\nWyróżnia się swą\r\nniesłabnącą ostrością.",
+      "pt-BR": "Esta Lâmina Cheda melhorada\r\nreluz com afiação inesgotável.",
+      "ko": "체다알자바르 강화형.\r\n절대 무뎌지지 않는 예리함은\r\n반역의 의지를 나타내는\r\n것인가.",
+      "zh-Hant": "強化版裂傷參宿七。有著絕不會耗盡\r\n的銳利度，或許象徵著叛逆的意志。",
+      "zh-Hans": "大剑参宿七的强化版。有着绝不会\r\n耗尽的锋利度，或许是因为反抗的\r\n意志永不磨灭。",
+      "ar": "شكل نصل (تشيدا)\r\nالذي تمت ترقيته يتألق بحدة\r\nلا تحتاج إلى شحذ.",
+      "es-419": "Espada Cheda mejorada. Brilla\r\ncon un filo inagotable."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 20,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 22,
     "kind": "great-sword",
     "sharpness": {
@@ -6123,6 +6277,175 @@
       "-283334048": 3
     },
     "series_id": 769195136
+  },
+  {
+    "game_id": 82,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 110,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ラギアブレイドⅠ",
+      "en": "Lagiacrus Blade I",
+      "fr": "Lame Lagiacrus",
+      "it": "Lama Lagiacrus I",
+      "de": "Lagiacrus-Klinge I",
+      "es": "Filo Lagiacrus I",
+      "ru": "Клинок лагиакруса I",
+      "pl": "Ostrze Lagiacrusa I",
+      "pt-BR": "Lâmina de Lagiacrus I",
+      "ko": "라기아블레이드Ⅰ",
+      "zh-Hant": "海龍大劍Ⅰ",
+      "zh-Hans": "海龙大剑Ⅰ",
+      "ar": "نصل لاغياكروس 1",
+      "es-419": "Hoja de Lagiacrus I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの放電器官を\r\n利用した、刀身に雷を纏う剣。\r\n高出力にも耐えうる設計。",
+      "en": "An electric great sword made\r\nusing Lagiacrus materials.\r\nDanger: High Voltage!",
+      "fr": "Grande épée électrique\r\nfaite à base de Lagiacrus.\r\nDanger : haute tension !",
+      "it": "Una lama elettrica realizzata\r\ncon materiali di Lagiacrus.\r\nPericolo: alta tensione!",
+      "de": "Elektrisches Großschwert\r\naus Lagiacrus-Materialien.\r\nAchtung: Hochspannung!",
+      "es": "Gran espada eléctrica hecha\r\ncon materiales de Lagiacrus.\r\nPeligro: ¡alto voltaje!",
+      "ru": "Электрический двуручный\r\nмеч из трофеев с лагиакруса.\r\nНе лезь — убьёт!",
+      "pl": "Elektryczne ostrze z części\r\nLagiacrusa. Uwaga:\r\nwysokie napięcie!",
+      "pt-BR": "Lâmina elétrica feita usando\r\nmateriais de Lagiacrus.\r\nPerigo: Alta Voltagem!",
+      "ko": "라기아크루스의 방전 기관을\r\n이용한, 칼날에 벼락을 두른\r\n검. 고출력도 버틸 수 있게\r\n설계되어 있다.",
+      "zh-Hant": "使用海龍放電器官製作的劍，刀身上\r\n有雷電纏繞，有著能承受高輸出的\r\n設計。",
+      "zh-Hans": "利用海龙的放电器官令刀身缠绕雷\r\n电的大剑，有着可以承受高输出雷\r\n电的设计。",
+      "ar": "سيف عظيم كهربائي مصنوع\r\nباستخدام مواد (لاغياكروس).\r\nخطر: جهد عالٍ!",
+      "es-419": "Gran espada eléctrica hecha\r\ncon materiales de Lagiacrus.\r\nPeligro: ¡alto voltaje!"
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 50,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 25
+    },
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 83,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ハイラギアブレイド",
+      "en": "High Lagia Blade",
+      "fr": "Grande lame Lagia",
+      "it": "Lama Lagia alta",
+      "de": "Hohe Lagia-Klinge",
+      "es": "Gran filo de Lagia",
+      "ru": "Высший лагиев клинок",
+      "pl": "Wzmocnione Ostrze Lagii",
+      "pt-BR": "Lâmina de Lagia Superior",
+      "ko": "하이라기아블레이드",
+      "zh-Hant": "超海龍大劍",
+      "zh-Hans": "超海龙大剑",
+      "ar": "نصل لاغيا المطور",
+      "es-419": "Alta hoja Lagia"
+    },
+    "descriptions": {
+      "ja": "ラギアブレイドの強化形態。\r\nその刃は猛々しき怒りの具現、\r\n迸る迅雷は獲物の魂を喰らう。",
+      "en": "The Lagiacrus Blade's upgraded\r\nform is fury incarnate, its thunder\r\ncommanding awe.",
+      "fr": "Lame Lagiacrus améliorée qui\r\nest la fureur incarnée et dont\r\nla foudre suscite la terreur.",
+      "it": "La forma potenziata della\r\nlama Lagiacrus è la furia fatta\r\narma, il suo tuono incute\r\nstupore e timore.",
+      "de": "Eine verbesserte Lagiacrus-\r\nKlinge. Gebietet mit Zorn\r\nund Donner Ehrfurcht.",
+      "es": "Forma mejorada del Filo\r\nLagiacrus. Inspira admiración\r\npor su furia encarnada\r\ny su tronar.",
+      "ru": "Улучшенный «Клинок лагиакруса».\r\nВоплощение ярости, чьи бури\r\nвызывают благоговейный трепет.",
+      "pl": "Ulepszona wersja Ostrza\r\nLagiacrusa to wcielenie furii,\r\nbudzące trwogę gromem.",
+      "pt-BR": "A versão melhorada da Lâmina de\r\nLagiacrus é a própria encarnação\r\nda fúria, impondo respeito com\r\nseus trovões.",
+      "ko": "라기아블레이드 강화형.\r\n그 칼날은 맹렬한 분노를\r\n상징하며, 번쩍이는 번개는\r\n사냥감의 영혼을 먹어 치운다.",
+      "zh-Hant": "強化版海龍大劍。其刃為雷霆之怒的\r\n表現，迸濺的迅雷會吞噬獵物。",
+      "zh-Hans": "海龙大剑的强化形态。它的剑刃仿\r\n若狞猛狂怒的实体化身，迸发出迅\r\n雷，将猎物的灵魂吞噬殆尽。",
+      "ar": "شكل نصل (لاغياكروس) الذي تمت ترقيته\r\nهو تجسيد للغضب،\r\nودوي رعده يثير الرهبة.",
+      "es-419": "La forma mejorada de la hoja\r\nde Lagiacrus es la furia\r\nencarnada; su trueno inspira\r\nadmiración."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 55,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 25
+    },
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   },
   {
     "game_id": 85,

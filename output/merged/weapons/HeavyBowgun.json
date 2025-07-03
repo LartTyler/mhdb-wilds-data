@@ -1004,12 +1004,12 @@
     ],
     "names": {
       "ja": "パワースティンカーⅠ",
-      "en": "Power Stinger",
+      "en": "Power Stinger I",
       "fr": "Piqûre mortelle",
       "it": "Pungiglione potente",
       "de": "Kraftstachel I",
       "es": "Punzadora potente",
-      "ru": "Мощное жало",
+      "ru": "Мощное жало I",
       "pl": "Żądło Mocy",
       "pt-BR": "Ferrão Poderoso I",
       "ko": "파워스팅거Ⅰ",
@@ -5076,6 +5076,231 @@
     "series_id": 1002649728
   },
   {
+    "game_id": 50,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 3,
+        "capacity": 2
+      },
+      {
+        "kind": "pierce",
+        "level": 1,
+        "capacity": 1
+      },
+      {
+        "kind": "spread",
+        "level": 3,
+        "capacity": 2
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 3
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "poison",
+        "level": 2,
+        "capacity": 2
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "サイドアルシャマリⅠ",
+      "en": "Sayyad Cannon I",
+      "fr": "Canon Sayyad",
+      "it": "Cannone Sayyad I",
+      "de": "Sayyad-Kanone I",
+      "es": "Cañón Sayyad I",
+      "ru": "Пушка Сайяда I",
+      "pl": "Działo Sayyada I",
+      "pt-BR": "Canhão Sayyad I",
+      "ko": "사이드알샤마리Ⅰ",
+      "zh-Hant": "射獵天倉一Ⅰ",
+      "zh-Hans": "重弩天仓一Ⅰ",
+      "ar": "مدفع الصيد 1",
+      "es-419": "Cañón de Sayyad I"
+    },
+    "descriptions": {
+      "ja": "装飾が壮麗なセルレギオスの重弩。\r\n不正に憤る反逆の闘志は、金色の\r\n弾と共に、正しく正中を貫く。",
+      "en": "A magnificently gilded Seregios\r\nheavy bowgun. With fury against\r\ninjustice and bullets of gold, the\r\nrebellious soul strikes true.",
+      "fr": "Superbe fusarbalète lourd Seregios\r\nbrillant. Une âme rebelle qui exècre\r\nl'injustice et ne manque jamais sa\r\ncible avec ses munitions dorées.",
+      "it": "Una balestra pesante di Seregios\r\ndorata e maestosa. Il suo animo\r\nribelle colpisce con fermezza\r\ngli ingiusti.",
+      "de": "Ein wunderschön vergoldetes\r\nSchweres Seregios-Bogengewehr.\r\nDie Seele kämpft mit Kugeln aus\r\nGold gegen Ungerechtigkeit.",
+      "es": "Una elegante ballesta pesada de\r\nSeregios. Su espíritu rebelde y\r\nproyectiles dorados se enfrentan\r\ncon furia a la injusticia.",
+      "ru": "Позолоченное тяжёлое лукорудие\r\nиз трофеев с серегиоса.\r\nНенависть к несправедливости\r\nи золотые пули бьют в цель.",
+      "pl": "Przepysznie złocone ciężkie\r\nłukodziałko Seregiosa. Jego\r\nbuntownicza dusza z furią\r\nuderza złotymi pociskami.",
+      "pt-BR": "Um magnífico fuzilarco pesado\r\ndourado de Seregios. Com fúria\r\ndiante injustiças e munição de\r\nouro, a alma rebelde nunca erra.",
+      "ko": "장식이 화려한 셀레기오스의\r\n헤비보우건. 부정에 분노하는\r\n반역의 투지는 금색 탄환과\r\n함께 중앙을 정확히 꿰뚫는다.",
+      "zh-Hant": "裝飾華麗的千刃龍重弩槍。憤慨不義\r\n的反叛鬥志與金色彈藥一起準確地貫\r\n穿靶心。",
+      "zh-Hans": "装饰华美的千刃龙重弩炮。金色的\r\n弹丸带着因不公而激愤的反抗意志，\r\n直直地贯穿靶心。",
+      "ar": "بندقية قوس ثقيلة لـ(سيرجيوس)\r\nمطلية بالذهب بإتقان. بغضبها\r\nعلى الظلم ورصاصاتها الذهبية،\r\nتُحقّق الروح المتمردة هدفها.",
+      "es-419": "Una ballesta pesada de Seregios\r\nde oropel elegante. Con ira ante\r\nla injusticia y balas de oro,\r\nel alma rebelde ataca con todo."
+    },
+    "rarity": 7,
+    "attack_raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 20
+    },
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 51,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 3,
+        "capacity": 2
+      },
+      {
+        "kind": "pierce",
+        "level": 1,
+        "capacity": 1
+      },
+      {
+        "kind": "spread",
+        "level": 3,
+        "capacity": 2
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 3
+      },
+      {
+        "kind": "flaming",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "dragon",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "poison",
+        "level": 2,
+        "capacity": 2
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "叛砲アルシャマリ",
+      "en": "Insurrection Cannon",
+      "fr": "Canon insurrectionnel",
+      "it": "Cannone rivoltoso",
+      "de": "Umsturzkanone",
+      "es": "Cañón sedicioso",
+      "ru": "Пушка мятежника",
+      "pl": "Działo rebelii",
+      "pt-BR": "Canhão da Insurreição",
+      "ko": "반포 알샤마리",
+      "zh-Hant": "叛砲天倉一",
+      "zh-Hans": "叛炮天仓一",
+      "ar": "مدفع الانتفاضة",
+      "es-419": "Cañón sedicioso"
+    },
+    "descriptions": {
+      "ja": "反逆への闘志が砕けぬ限り、\r\n叛砲は弾丸を込め続ける。\r\nサイドアルシャマリ強化形態。",
+      "en": "An upgraded Sayyad Cannon.\r\nIt'll continue firing as long as\r\nthe revolutionary spirit survives.",
+      "fr": "Canon Sayyad amélioré.\r\nSes tirs ne cesseront pas tant\r\nque la révolution vivra.",
+      "it": "Cannone Sayyad potenziato.\r\nTenace come lo spirito\r\nrivoluzionario che vi alberga.",
+      "de": "Eine verbesserte Sayyad-\r\nKanone. Feuert weiter, solange\r\nder Geist der Revolution lebt.",
+      "es": "Cañón Sayyad mejorado.\r\nNo dejará de disparar mientras\r\nla llama del espíritu\r\nrevolucionario siga viva.",
+      "ru": "Улучшенная пушка Сайяда.\r\nБудет стрелять, пока силён\r\nдух революции.",
+      "pl": "Ulepszone Działo Sayyada.\r\nStrzela, dopóki trwa\r\nduch rebelii.",
+      "pt-BR": "Canhão Sayyad melhorado.\r\nHá de disparar enquanto o\r\nespírito da revolução viver.",
+      "ko": "반역을 향한 투지가 꺾이지\r\n않는 한, 반포는 계속해서\r\n탄환을 장전한다.\r\n사이드알샤마리 강화형.",
+      "zh-Hant": "強化版射獵天倉一。只要叛逆的鬥志\r\n不滅，叛砲便會繼續裝填。",
+      "zh-Hans": "只要反抗的斗志不灭，叛炮便会继\r\n续装弹。重弩天仓一的强化形态。",
+      "ar": "مدفع صيد تمت ترقيته.\r\nسيستمر في إطلاق النار\r\nما دامت روح الثورة متقدة.",
+      "es-419": "Cañón de Sayyad mejorado.\r\nNo dejará de disparar mientras\r\nviva el espíritu revolucionario."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 20
+    },
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 52,
     "kind": "heavy-bowgun",
     "ammo": [
@@ -5850,7 +6075,7 @@
       "it": "Tormento Veldian I",
       "de": "Arkveld-Tormentum I",
       "es": "Tormentum veldiano I",
-      "ru": "Вельдовая каронада I",
+      "ru": "Вельдовый мучитель I",
       "pl": "Wiweriań. Tormentum I",
       "pt-BR": "Tormentum Veldiano I",
       "ko": "알슈토르멘툼Ⅰ",
@@ -6543,7 +6768,7 @@
       "it": "Una Raffica Chata potenziata\r\ncon un nuovo design e una\r\npotenza di fuoco tale da\r\npolverizzare i massi.",
       "de": "Verbesserter Chata-Schuss mit\r\nüberarbeiteter Bauart. Seine\r\nFeuerkraft kann Felsen\r\nzerschmettern.",
       "es": "Cartuchera Chata mejorada\r\ncon un nuevo diseño y una\r\npotencia de fuego capaz de\r\ndestruir peñascos enteros.",
-      "ru": "Улучшенная «Чатакабровая пушка».\r\nИзменения так повысили огневую\r\nмощь, что выстрелами из этого\r\nоружия можно расщеплять валуны.",
+      "ru": "Улучшенное «Чатакабровое орудие».\r\nИзменения так повысили огневую\r\nмощь, что выстрелами из этого\r\nоружия можно расщеплять валуны.",
       "pl": "Udoskonalony łuskacz Chaty\r\no zmienionej konstrukcji\r\ngenerującej siłę ognia\r\nzdolną unicestwiać głazy.",
       "pt-BR": "Lançador Chata melhorado\r\ncom um design reformulado.\r\nOferece um poder de fogo\r\ncapaz de obliterar rochas.",
       "ko": "장치를 손보고 개량한\r\n차타버스터. 화포를 발사하면\r\n거대한 바위마저 손쉽게\r\n가루로 만들 수 있다.",
@@ -6653,7 +6878,7 @@
       "it": "Un tormento Veldian\r\npotenziato. Nelle mani dei\r\ncavalieri, distruggeva ogni\r\nminaccia con precisione.",
       "de": "Verbessertes Arkveld-Tormen-\r\ntum. Im Dienste seines Ritters\r\nbeseitigte es alle Bedrohungen\r\nmit fast unheimlicher Präzision.",
       "es": "Tormentum veldiano mejorado.\r\nPara complacer a su caballero,\r\nse ocupó de todas las amenazas\r\ncon una precisión sobrecogedora.",
-      "ru": "Улучшенный «Вельдстражевый\r\nмучитель». Некогда это оружие\r\nверно служило рыцарю, с пугающей\r\nточностью уничтожая врагов.",
+      "ru": "Улучшенный «Вельдовый мучитель».\r\nНекогда это оружие верно\r\nслужило рыцарю, с пугающей\r\nточностью уничтожая врагов.",
       "pl": "Ulepszone Wiweriańskie\r\nTormentum. W służbie swojemu\r\nrycerzowi wyłapywało wszystkie\r\nzagrożenia z niezwykłą precyzją.",
       "pt-BR": "Tormentum Veldiano melhorado.\r\nA serviço de seu cavaleiro,\r\neliminava as ameaças com\r\nprecisão assustadora.",
       "ko": "알슈토르멘툼의 강화형. 비교할\r\n수 없이 정확한 탄환은 누구의\r\n접근도 허락하지 않고 변함없이\r\n기사의 책무를 다했다.",
@@ -6895,5 +7120,220 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 75,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 1,
+        "capacity": 4
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 5
+      },
+      {
+        "kind": "spread",
+        "level": 1,
+        "capacity": 4
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "water",
+        "level": 1,
+        "capacity": 6
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 6
+      },
+      {
+        "kind": "paralysis",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "ラギアブリッツⅠ",
+      "en": "Lagia Blitz I",
+      "fr": "Blitz Lagia",
+      "it": "Fulmine Lagia I",
+      "de": "Lagia-Blitz I",
+      "es": "Rayo Lagia I",
+      "ru": "Лагиев шквал I",
+      "pl": "Blitz Lagii I",
+      "pt-BR": "Bombardeio de Lagia I",
+      "ko": "라기아블리츠Ⅰ",
+      "zh-Hant": "海龍閃擊Ⅰ",
+      "zh-Hans": "海龙闪击Ⅰ",
+      "ar": "غارة لاغيا 1",
+      "es-419": "Flecha de Lagia I"
+    },
+    "descriptions": {
+      "ja": "海竜ラギアクルスの重弩。帯電質の\r\n甲殻に覆われた銃身が、弾の威力を\r\n損なわない構造を実現。",
+      "en": "A weapon made of Lagiacrus parts.\r\nThe electrified barrel prevents\r\nbullets from losing velocity.",
+      "fr": "Fait à base de Lagiacrus.\r\nSon canon électrifié conserve\r\nla vélocité des balles.",
+      "it": "Un'arma fatta di parti di\r\nLagiacrus. La canna\r\nelettrificata impedisce ai\r\nproiettili di perdere velocità.",
+      "de": "Ein Schweres Bogengewehr aus\r\nLagiacrus-Material. Der Lauf ist\r\nelektrisch geladen – so verlieren\r\ndie Kugeln nicht an Tempo.",
+      "es": "Arma hecha con partes\r\nde Lagiacrus. El cañón\r\nelectrificado evita que las\r\nbalas pierdan velocidad.",
+      "ru": "Оружие из трофеев с лагиакруса.\r\nБлагодаря наэлектризованному\r\nстволу вылетающие из него пули\r\nне теряют скорость.",
+      "pl": "Broń z części Lagiacrusa.\r\nDzięki elektrycznie wspomaganej\r\nlufie pociski nie tracą prędkości.",
+      "pt-BR": "Arma criada usando partes de\r\nLagiacrus. O cano eletrificado\r\nevita que a munição perca\r\nvelocidade.",
+      "ko": "해룡 라기아크루스의\r\n헤비보우건. 대전질 갑각으로\r\n덮인 총신이 탄의 위력을\r\n훼손하지 않는 구조를 이뤘다.",
+      "zh-Hant": "海龍重弩槍。槍身以帶電的甲殼\r\n包覆，採用了不損彈藥威力的構造。",
+      "zh-Hans": "使用海龙素材制作的重弩炮。覆盖\r\n带电质甲壳的弩身，实现了不损失\r\n弹丸威力的构造。",
+      "ar": "سلاح مصنوع من أجزاء (لاغياكروس).\r\nيمنع البرميل المكهرب الرصاص\r\nمن فقدان سرعته.",
+      "es-419": "Arma forjada con los vestigios\r\nde un Lagiacrus.\r\nEl barril electrificado evita\r\nque las balas pierdan velocidad."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 21
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 76,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 1,
+        "capacity": 4
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 5
+      },
+      {
+        "kind": "spread",
+        "level": 1,
+        "capacity": 4
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "water",
+        "level": 1,
+        "capacity": 6
+      },
+      {
+        "kind": "thunder",
+        "level": 2,
+        "capacity": 6
+      },
+      {
+        "kind": "paralysis",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "雷砲ラギアブリッツ",
+      "en": "Thunderblitz Cannon",
+      "fr": "Canon blitzfoudre",
+      "it": "Cannone Fulminetuono",
+      "de": "Donnerblitz-Kanone",
+      "es": "Cañón Thunderblitz",
+      "ru": "Пушка грозового шквала",
+      "pl": "Działo Thunderblitz",
+      "pt-BR": "Canhão Fulmexplosivo",
+      "ko": "뇌포 라기아블리츠",
+      "zh-Hant": "雷砲海龍電擊",
+      "zh-Hans": "雷炮海龙电击",
+      "ar": "مدفع الرعد الخاطف",
+      "es-419": "Cañón de flecha trueno"
+    },
+    "descriptions": {
+      "ja": "ラギアブリッツ強化版。\r\n帯電力を極限にまで高めることで、\r\n絶大な破壊力をその弾丸に宿した。",
+      "en": "An upgraded Lagia Blitz.\r\nConcentrated electrical\r\nenergy gives each shot\r\ngreat destructive force.",
+      "fr": "Blitz Lagia amélioré dont\r\nl'énergie électrique concentrée\r\nconfère à chaque tir une grande\r\npuissance destructrice.",
+      "it": "Un Fulmine Lagia potenziato.\r\nL'energia elettrica concentrata\r\nconferisce a ogni colpo una\r\ngrande forza distruttiva.",
+      "de": "Eine verbesserte Version des\r\nLagia-Blitz. Konzentrierte elek-\r\ntrische Energie verleiht jedem\r\nSchuss enorme Zerstörungskraft.",
+      "es": "Rayo Lagia mejorada.\r\nLa energía eléctrica concentrada\r\nconfiere a cada disparo un\r\nenorme poder destructor.",
+      "ru": "Улучшенный «Лагиев шквал».\r\nКонцентрированная электро-\r\nэнергия наделяет каждый\r\nвыстрел невероятной мощью.",
+      "pl": "Ulepszony Blitz Lagii. Skupiona\r\nenergia elektryczna nadaje\r\nkażdemu strzałowi olbrzymią\r\nniszczącą siłę.",
+      "pt-BR": "Bombardeio de Lagia melhorado.\r\nA energia elétrica concentrada\r\nconcede um grande poder\r\ndestrutivo a cada disparo.",
+      "ko": "라기아블리츠 강화판.\r\n대전력을 극한까지 끌어올려\r\n절대적인 파괴력을 탄환에\r\n담아냈다.",
+      "zh-Hant": "強化版海龍閃擊。帶電力提升到\r\n極限，使彈藥極具破壞力。",
+      "zh-Hans": "海龙闪击的强化版。将带电性能提\r\n升到了极致，借此获得了巨大的破\r\n坏力。",
+      "ar": "غارة (لاغيا) تمت ترقيتها.\r\nتمنح الطاقة الكهربائية المركّزة\r\nكل طلقة قوة تدميرية هائلة.",
+      "es-419": "Flecha de Lagia mejorada. La\r\nenergía eléctrica concentrada\r\nle otorga a cada tiro un enorme\r\npoder destructivo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "series_id": -1122003456
   }
 ]

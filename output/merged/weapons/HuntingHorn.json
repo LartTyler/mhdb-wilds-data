@@ -3734,7 +3734,7 @@
       "ko": "호쇄인적 갈슈해드",
       "zh-Hant": "護鎖刃笛加拉哈德",
       "zh-Hans": "护锁刃笛·加拉哈德",
-      "ar": "جلاهارد جهوري حارس",
+      "ar": "غالاهاد جهوري حارس",
       "es-419": "Galahad estridente G."
     },
     "descriptions": {
@@ -4754,6 +4754,166 @@
       "313598432": 3
     },
     "series_id": 1002649728
+  },
+  {
+    "game_id": 58,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "melody_id": 9,
+    "echo_wave_id": 2,
+    "echo_bubble_id": 1,
+    "names": {
+      "ja": "ワージャアルリジルⅠ",
+      "en": "Vadya Muse I",
+      "fr": "Muse Vadya",
+      "it": "Musa Vadya I",
+      "de": "Vadya-Muse I",
+      "es": "Musa Vadya I",
+      "ru": "Муза Вадьи I",
+      "pl": "Muza Vadya I",
+      "pt-BR": "Musa de Vadya I",
+      "ko": "와자알리지르Ⅰ",
+      "zh-Hant": "音笛參宿七Ⅰ",
+      "zh-Hans": "狩猎笛参宿七Ⅰ",
+      "ar": "فاديا ميوز 1",
+      "es-419": "Musa Vadya I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの爪を用いた狩猟笛。\r\nその笛から奏でられる音色は、\r\n金の刃となって対象を狂わす。",
+      "en": "A hunting horn forged from\r\nSeregios claws. The melody it\r\ncreates drives its victims mad.",
+      "fr": "Corne forgée en serres de\r\nSeregios. Sa mélodie pousse\r\nles victimes à la folie.",
+      "it": "Corno da caccia forgiato\r\ncon artigli di Seregios. La sua\r\nmelodia fa impazzire le prede.",
+      "de": "Ein Jagdhorn aus Seregios-\r\nKlauen. Seine Melodie treibt\r\nOpfer in den Wahnsinn.",
+      "es": "Cornamusa hecha con garras\r\nde Seregios. Enloquece a las\r\nvíctimas con su melodía.",
+      "ru": "Охотничий рог, изготовленный\r\nиз когтей серегиоса. Его мелодия\r\nсводит жертву с ума.",
+      "pl": "Róg łowiecki ze szponów\r\nSeregiosa. Jego melodia\r\ndoprowadza do szaleństwa.",
+      "pt-BR": "Berrante de caça forjado das\r\ngarras de Seregios. A melodia\r\nentoada enlouquece as vítimas.",
+      "ko": "셀레기오스의 발톱을 사용한\r\n수렵피리. 피리 음색은\r\n금빛 날이 되어 대상을\r\n미치게 만든다.",
+      "zh-Hant": "使用千刃龍之爪打造的狩獵笛。\r\n從笛中發出的音色將化為黃金之\r\n刃，使對手發狂。",
+      "zh-Hans": "使用千刃龙的利爪制成的狩猎笛。\r\n此笛奏出的音色会化为金色利刃，\r\n使对手发狂。",
+      "ar": "قرن صيد مصنوع من مخالب\r\n(سيرجيوس). اللحن الذي يصدره\r\nيدفع ضحاياه إلى الجنون.",
+      "es-419": "Elaborada con garras de\r\nSeregios. Enloquece a las\r\nvíctimas con su melodía."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 59,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 9,
+    "echo_wave_id": 2,
+    "echo_bubble_id": 1,
+    "names": {
+      "ja": "叛笛アルリジル",
+      "en": "Allysyl Muse",
+      "fr": "Muse Allysyl",
+      "it": "Musa Allysyl",
+      "de": "Allysyl-Muse",
+      "es": "Musa Allysyl",
+      "ru": "Муза Аллизил",
+      "pl": "Muza Allysyl",
+      "pt-BR": "Musa de Allysyl",
+      "ko": "반적 알리지르",
+      "zh-Hant": "叛笛參宿七",
+      "zh-Hans": "叛笛参宿七",
+      "ar": "إلهام أليسيل",
+      "es-419": "Musa Allysyl"
+    },
+    "descriptions": {
+      "ja": "我が革命の意志は不朽なり。\r\nワージャアルリジルが強化を\r\n遂げた時、変革が始まる。",
+      "en": "The spirit of rebellion\r\nlives on in the enhanced\r\nform of the Vadya Muse.",
+      "fr": "Muse Vadya améliorée,\r\nanimée par un esprit de\r\nrébellion.",
+      "it": "Lo spirito ribelle continua\r\na vivere in questa forma\r\npotenziata della Musa Vadya.",
+      "de": "Dieser verbesserten Version\r\nder Vadya-Muse wohnt der\r\nGeist der Rebellion inne.",
+      "es": "Un espíritu rebelde habita\r\nen la forma mejorada de\r\nla Musa Vadya.",
+      "ru": "Бунтарский дух продолжает\r\nжить в улучшенной версии\r\n«Музы Вадьи».",
+      "pl": "Duch rebelii żyje w tej\r\nulepszonej wersji\r\nMuzy Vadya.",
+      "pt-BR": "O espírito da rebelião sobrevive\r\nnesta versão melhorada da Musa\r\nde Vadya.",
+      "ko": "내 혁명의 의지는 불굴일지니.\r\n와자알리지르가 강화될 때\r\n혁명이 시작된다.",
+      "zh-Hant": "吾等革命的意志將永垂不朽。音笛\r\n參宿七完成強化之時，便是革命的\r\n開始。",
+      "zh-Hans": "吾等革命的意志永垂不朽。狩猎笛\r\n参宿七完成强化之时，便是革命的\r\n开始。",
+      "ar": "روح التمرد لا تزال حيّة\r\nفي الشكل المُحسَّن\r\nمن (فاديا ميوز).",
+      "es-419": "El espíritu de rebelión vive\r\nen la forma mejorada de la\r\nMusa Vadya."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
   },
   {
     "game_id": 60,
@@ -6028,7 +6188,7 @@
       "ko": "쇄인적 갤러해드",
       "zh-Hant": "鎖刃笛加拉哈德",
       "zh-Hans": "锁刃笛·加拉哈德",
-      "ar": "جلاهاد جهوري",
+      "ar": "غالاهاد جهوري",
       "es-419": "Galahad estridente"
     },
     "descriptions": {
@@ -6038,7 +6198,7 @@
       "it": "Un sibilus di Veldian\r\npotenziato. Il cavaliere che\r\nlo ha posseduto fu santificato\r\ne divenne leggenda.",
       "de": "Ein verbessertes Arkveld-Sibilus.\r\nDer Ritter, der seinem Volk stets\r\ntreu diente, wurde zu einer\r\nLegende und heiliggesprochen.",
       "es": "Sibilus veldiano mejorado.\r\nSu caballero, un eterno siervo\r\nde la gente, fue canonizado\r\ny se convirtió en leyenda.",
-      "ru": "Улучшенная «Стражевая свирель».\r\nВладевший ей рыцарь беззаветно\r\nслужил своему народу. Его нарекли\r\nсвятым и воспели в легендах.",
+      "ru": "Улучшенная «Вельдовая свирель».\r\nВладевший ей рыцарь беззаветно\r\nслужил своему народу. Его нарекли\r\nсвятым и воспели в легендах.",
       "pl": "Ulepszony Wiweriański Sibilus.\r\nJego rycerz, zawsze służący\r\nludowi, został kanonizowany\r\ni przeszedł do legendy.",
       "pt-BR": "Sibilus Veldiano melhorado.\r\nSempre servindo ao povo, seu\r\ncavaleiro foi santificado e\r\nse tornou uma lenda.",
       "ko": "알슈시빌루스의 강화형. 오직\r\n다른 이들만을 위해 싸웠던\r\n어느 기사는 사후 성인으로\r\n추대되어 전설이 됐다.",
@@ -6431,5 +6591,180 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 83,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 21,
+    "echo_wave_id": 5,
+    "echo_bubble_id": 5,
+    "names": {
+      "ja": "ラギアホーンⅠ",
+      "en": "Lagia Horn I",
+      "fr": "Corne Lagia",
+      "it": "Corno Lagia I",
+      "de": "Lagia-Horn I",
+      "es": "Cornamusa Lagia I",
+      "ru": "Лагиев рог I",
+      "pl": "Róg Lagii I",
+      "pt-BR": "Berrante de Lagia I",
+      "ko": "라기아혼Ⅰ",
+      "zh-Hant": "海龍角笛Ⅰ",
+      "zh-Hans": "海龙角笛Ⅰ",
+      "ar": "قرن لاغيا 1",
+      "es-419": "Cuerno de Lagia I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの体躯を模した\r\n狩猟笛。四海に轟く雷鳴と稲妻は、\r\n海の嵐を巻き起こす。",
+      "en": "A hunting horn modeled after a\r\nLagiacrus. Its thunder summons\r\nstorms across the seven seas.",
+      "fr": "Corne de chasse basée sur un\r\nLagiacrus. Sa foudre provoque\r\ndes tempêtes sur les sept mers.",
+      "it": "Un corno da caccia ispirato a\r\nun Lagiacrus. Il suo tuono\r\nscatena tempeste per tutti\r\ni sette mari.",
+      "de": "Ein Jagdhorn, das einem\r\nLagiacrus nachempfunden ist.\r\nSein Donner beschwört Stürme\r\nauf den sieben Meeren herauf.",
+      "es": "Cornamusa de aspecto similar a\r\nun Lagiacrus. Su trueno invoca\r\ntormentas por los siete mares.",
+      "ru": "Охотничий рог, изготовленный\r\nиз трофеев с лагиакруса. Когда\r\nслышны раскаты грома, во всех\r\nморях бушует шторм.",
+      "pl": "Róg łowiecki wzorowany na\r\nLagiacrusie. Jego grom przyzywa\r\nsztormy siedmiu mórz.",
+      "pt-BR": "Berrante de caça inspirado em\r\num Lagiacrus. Seu trovão evoca\r\ntempestades pelos sete mares.",
+      "ko": "라기아크루스의 몸을 본뜬\r\n수렵피리. 온 바다를 울리는\r\n천둥소리와 번개가\r\n바다에 폭풍을 일으킨다.",
+      "zh-Hant": "仿造海龍軀體製成的狩獵笛。震響\r\n四海的雷鳴與閃電將在大海上捲起\r\n暴風雨。",
+      "zh-Hans": "模仿海龙身躯制成的狩猎笛。响彻\r\n四海的雷霆轰鸣和闪电，在大海上\r\n掀起风暴。",
+      "ar": "قرن صيد مستوحى من (لاغياكروس).\r\nرعده يستدعي عواصف\r\nعبر البحار السبعة.",
+      "es-419": "Cornamusa semejante a un\r\nLagiacrus. Su estruendo invoca\r\ntormentas por los siete mares."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 84,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 21,
+    "echo_wave_id": 5,
+    "echo_bubble_id": 5,
+    "names": {
+      "ja": "雷笛ヴォルトホーン",
+      "en": "Lagia Thunderpeal",
+      "fr": "Grondement Lagia",
+      "it": "Scampanio Lagia",
+      "de": "Lagia-Donnerschelle",
+      "es": "Lagia tonante",
+      "ru": "Лагиев грозофон",
+      "pl": "Łoskot pioruna Lagii",
+      "pt-BR": "Ribombo de Lagia",
+      "ko": "뇌적 볼트혼",
+      "zh-Hant": "雷笛雷電角",
+      "zh-Hans": "雷笛雷电角",
+      "ar": "دوي رعد لاغيا",
+      "es-419": "Estruendo de Lagia"
+    },
+    "descriptions": {
+      "ja": "ラギアホーンは丹念な強化を\r\n経て、荒ぶる海凶の化身となる。\r\n猛然たる万雷が天上天下に響く。",
+      "en": "A painstakingly improved Lagia\r\nHorn. It brings rough seas as\r\nthunder echoes across the land.",
+      "fr": "Corne Lagia améliorée qui\r\nagite la mer et fait résonner\r\nle tonnerre sur la terre.",
+      "it": "Corno Lagia migliorato\r\nminuziosamente. Scatena mari\r\nin tempesta mentre il tuono\r\nriecheggia sulla terraferma.",
+      "de": "Ein verbessertes Lagia-Horn.\r\nEs peitscht die See auf, während\r\nDonner über das Land rollt.",
+      "es": "Cornamusa Lagia radicalmente\r\nmejorada. Desata la ira de los\r\nmares mientras el trueno\r\nretumba en la tierra.",
+      "ru": "Значительно улучшенная версия\r\n«Лагиева рога». На суше вызывает\r\nгрозы, а на море — бури.",
+      "pl": "Starannie ulepszony Róg\r\nLagii. Rozbrzmiewając\r\ngromem na lądzie,\r\nsprowadza wzburzone morza.",
+      "pt-BR": "Berrante de Lagia arduamente\r\nmelhorado. Conjura mares\r\ntraiçoeiros com seus trovões\r\necoando pela terra.",
+      "ko": "라기아혼을 공들여 강화하면\r\n거칠고 포악한 바다의\r\n화신이 된다. 맹렬한 우레가\r\n온 세상에 퍼진다.",
+      "zh-Hant": "海龍角笛經過精心強化後，成為狂暴\r\n大海凶獸的化身。猛烈萬雷震徹天上\r\n天下。",
+      "zh-Hans": "经过精心强化的海龙角笛，化为了\r\n狂暴的海中凶煞的化身。狂野的巨\r\n雷响彻寰宇。",
+      "ar": "بوق (لاغيا) مُحسَّن بعناية فائقة.\r\nيُثير بحارًا هائجة بينما يتردد\r\nصدى الرعد عبر أرجاء الأرض.",
+      "es-419": "Cuerno de Lagia radicalmente\r\nmejorada. Desata la ira de los\r\nmares y hace eco en la tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 45,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   }
 ]

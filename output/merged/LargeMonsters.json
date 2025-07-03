@@ -3722,13 +3722,13 @@
       "es-419": "Temnoceran que habitan los Acantilados\r\nEspinahelada.\r\nTejen telarañas pegajosas y enormes en su\r\nterritorio, y sumado a diferentes estados\r\nque producen, arrinconan presas y acaban\r\ncon ellas con sus mandíbulas pinza.\r\nA veces se pueden ver Gypceros muertos\r\nen las telarañas. Los Nerscylla suelen\r\nvestir sus pieles cuando terminan\r\nde devorar el resto del cuerpo."
     },
     "tips": {
-      "ja": "毒、睡眠、糸拘束と様々な状態異常を駆使する\r\n相手のため、万全な対策をして狩猟に挑もう。\r\n鋏角による一撃は威力も高く危険だが、対処の\r\n仕方によっては弱点として有効な部位でもある。\r\n攻撃目標として積極的に狙っていきたい。\r\nまた、背中にまとうゲリョスの皮の影響により\r\n雷属性が効きにくく、炎属性が効果的だが\r\n破壊によりこれが逆になる点には注意したい。",
+      "ja": "毒、睡眠、糸拘束と様々な状態異常を駆使する\r\n相手のため、万全な対策をして狩猟に挑もう。\r\n鋏角による一撃は威力も高く危険だが、対処の\r\n仕方によっては弱点として有効な部位でもある。\r\n攻撃目標として積極的に狙っていきたい。\r\nまた、背中にまとうゲリョスの皮の影響により\r\n雷属性が効きにくく、火属性が効果的だが\r\n破壊によりこれが逆になる点には注意したい。",
       "en": "To defend against the poison, sleep, and\r\nbinding effects of a Nerscylla's webbing,\r\na hunter must go in duly prepared. While its\r\npowerful pincers are quite dangerous, they\r\ncan and should be targeted as a weakness,\r\nprovided they are approached correctly. The\r\nGypceros hides draped on a Nerscylla's back\r\nare resistant to thunder but susceptible to\r\nfire—qualities that are reversed once the\r\nhide is destroyed.",
       "fr": "Un chasseur doit être dûment préparé pour\r\nse défendre contre les effets de poison,\r\nde sommeil et de paralysie de la toile d'une\r\nNerscylla. Bien que dangereuses, ses pinces\r\npeuvent aussi être un point faible qu'il est\r\nconseillé de cibler si le monstre est approché\r\ncorrectement. La peau de Gypceros qui\r\nrecouvre son dos résiste à la foudre mais est\r\nvulnérable au feu, ce qui s'inverse quand\r\nla peau est détruite.",
       "it": "Per difendersi dagli effetti di veleno,\r\nsonno e paralisi della ragnatela di un\r\nNerscylla, bisogna prepararsi. Anche se le\r\nsue potenti chele sono pericolose, possono\r\ne devono essere prese di mira, purché le si\r\naffrontino correttamente. Le pelli di\r\nGypceros che coprono la schiena dei\r\nNerscylla sono resistenti ai tuoni\r\ne vulnerabili al fuoco, ma queste qualità\r\nsi invertono una volta distrutta la pelle.",
       "de": "Um nicht von Gift, Schlaf und den Netzen der\r\nNerscylla überwältigt zu werden, müssen Jäger\r\nsich gut vorbereiten. Ihre kräftigen Scheren sind\r\ngefährlich, aber auch eine Schwachstelle, die –\r\nmit der gebotenen Vorsicht – ausgenutzt werden\r\nsollte. Die Gypceroshäute auf dem Rücken der\r\nNerscylla sind resistent gegen Donner, aber\r\nanfällig für Feuer; sobald sie zerstört sind, gilt\r\ndas Gegenteil.",
       "es": "Para defenderse contra el veneno, el sueño\r\ny el enmarañamiento de la telaraña de un\r\nNerscylla, hay que prepararse. Aunque sus\r\npoderosas pinzas son peligrosas, también\r\nson un punto débil siempre que te acerques\r\na ellas correctamente.\r\nLas pieles de Gypceros que cubren el lomo\r\nde un Nerscylla son resistentes al rayo,\r\npero vulnerables al fuego. Estos factores\r\nse invierten al destruir la piel.",
-      "ru": "К охоте на нерскиллу следует готовиться\r\nзаранее и с учётом того, что она может вас\r\nотравить, усыпить или опутать паутиной. Её\r\nжвалы весьма опасны, однако опытный\r\nохотник видит в них не только угрозу, но и\r\nслабое место монстра. Шкуры гипцеросов,\r\nкоторыми любят укрываться нерскиллы,\r\nустойчивы к грозе, зато уязвимы к огню. А вот\r\nдля их собственного тела верно обратное.",
+      "ru": "К охоте на нерскиллу следует готовиться\r\nзаранее и с учётом того, что она может вас\r\nотравить, усыпить или опутать паутиной.\r\nЕё жвалы весьма опасны, однако опытный\r\nохотник видит в них не только угрозу, но и\r\nслабое место монстра. Шкуры гипцеросов,\r\nкоторыми любят укрываться нерскиллы,\r\nустойчивы к грозе, зато уязвимы к огню. А вот\r\nдля их собственного тела верно обратное.",
       "pl": "Aby obronić się przed trucizną, snem\r\ni pętającymi właściwościami sieci Nerscylli,\r\nłowca musi się przygotować. Potężne\r\nszczypce potwora są niebezpieczne, lecz przy\r\nodpowiednim podejściu, mogą stać się celem\r\nataków jako słaby punkt. Należy je aktywnie\r\nobierać za cel. Ponadto, dzięki skórze\r\nGypcerosa na grzbiecie, jest odporna na\r\npioruny i podatna na ogień. Po zniszczeniu\r\nskóry te właściwości się odwracają.",
       "pt-BR": "Para se proteger dos efeitos de veneno, sono e\r\nimobilização das teias da Nerscylla, caçadores\r\ndevem ir bem preparados. Suas pinças poderosas\r\nsão muito perigosas, mas podem e devem ser\r\nvistas como uma fraqueza, desde que sejam\r\nenfrentadas da maneira correta. O couro de\r\nGypceros que ela carrega nas costas é resistente\r\na raio, mas vulnerável a fogo, qualidades\r\nque são invertidas quando o couro é destruído.",
       "ko": "독, 수면, 실 속박, 그리고 다양한\r\n상태 이상을 구사하는 상대이니\r\n만전을 기해 사냥에 나서자.\r\n협각으로 펼치는 일격은 위력이 높아\r\n위험하지만, 대처에 따라 약점이\r\n되는 부위이기도 하므로 적극적으로\r\n노리자. 또한 등의 게리오스의\r\n가죽 영향으로 번개속성은 효과가 없고\r\n불속성이 효과적이나, 파괴되면 반대가\r\n되므로 주의가 필요하다.",
@@ -4448,6 +4448,722 @@
           "thunder": 0.0,
           "ice": 0.05,
           "dragon": 0.0,
+          "stun": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "game_id": -1083842944,
+    "species": "leviathan",
+    "names": {
+      "ja": "ラギアクルス",
+      "en": "Lagiacrus",
+      "fr": "Lagiacrus",
+      "it": "Lagiacrus",
+      "de": "Lagiacrus",
+      "es": "Lagiacrus",
+      "ru": "Лагиакрус",
+      "pl": "Lagiacrus",
+      "pt-BR": "Lagiacrus",
+      "ko": "라기아크루스",
+      "zh-Hant": "海龍",
+      "zh-Hans": "海龙",
+      "ar": "لاغياكروس",
+      "es-419": "Lagiacrus"
+    },
+    "descriptions": {
+      "ja": "海洋の食物連鎖の頂点に立ち、種を代表して\r\n≪海竜（かいりゅう）≫と呼ばれる。\r\n肥沃な環境に惹かれて緋の森の水域に現れた。",
+      "en": "Leviathans that exist at the top of the aquatic food\r\nchain. They have appeared in the waters of the\r\nScarlet Forest, drawn in by its fertile environment.",
+      "fr": "Léviathans au sommet de la chaîne alimentaire\r\naquatique. Il sont apparus dans les eaux de la Forêt\r\nécarlate, attirés par son environnement fertile.",
+      "it": "Leviathan all'apice della catena alimentare \r\nmarina. Sono apparsi nelle acque della Foresta \r\ncremisi, attratti dall'ambiente lussureggiante.",
+      "de": "Leviathan, der an der Spitze der Nahrungskette\r\ndes Meeres steht. Er wurde von der frucht-\r\nbaren Umgebung des Karminwalds angezogen.",
+      "es": "Los leviatanes están en la cima de la cadena\r\nalimentaria acuática. Han aparecido en aguas del\r\nBosque Escarlata, atraídos por el entorno fértil.",
+      "ru": "Стоящие на вершине водной пищевой цепи\r\nлевиафаны. Встречаются в водах Багряного\r\nлеса, где всегда есть чем поживиться.",
+      "pl": "Lewiatany ze szczytu wodnego łańcucha\r\npokarmowego. Pojawiły się w wodach Szkarłatnego\r\nLasu przyciągnięte jego bogatym środowiskiem.",
+      "pt-BR": "Leviatãs que estão no topo da cadeia alimentar\r\naquática. Eles apareceram nas águas da Floresta\r\nEscarlate, atraídos por seu ambiente fértil.",
+      "ko": "해양 먹이사슬의 정점에 서 있으며, 종을\r\n대표하여 《해룡》이라고 불린다. 비옥한\r\n환경에 이끌려 주홍빛 숲 수역에 나타났다.",
+      "zh-Hant": "立於海洋食物鏈頂端的魔物，並以整類物種的名字\r\n為名。受到緋紅森林的豐饒水域吸引而出現。",
+      "zh-Hans": "君临海洋食物链顶点，作为这一门物种的代表而\r\n得名“海龙”。受绯红森林水域丰饶环境的吸引\r\n而现身于此。",
+      "ar": "الـ(ليفياثان) تتربع على قمة السلسلة الغذائية\r\nفي البيئات المائية. ظهرت في مياه الغابة القرمزية،\r\nجاذبةً إياها بيئتها الخصبة.",
+      "es-419": "Leviatanes que están en la cima de la cadena\r\nalimenticia acuática. Aparecieron en las aguas\r\ndel bosque, atraídos por su fértil entorno."
+    },
+    "features": {
+      "ja": "広大なる海洋の食物連鎖の頂点に立ち、種を\r\n代表して≪海竜（かいりゅう）≫と呼ばれる。\r\n背部には蓄電器官を備えており、外皮で発生\r\nさせた電気を蓄え、周囲の水が沸き立つほどの\r\n大電流を放つ。\r\n緋の森で他のモンスターと争う姿が目撃されて\r\nおり、獲物を求めて肥沃な環境を目指した結果、\r\n他の地域から辿り着いたものと推測される。",
+      "en": "Leviathans that exist atop the vast aquatic\r\nfood chain. Lagiacrus generate electricity\r\nvia their hides to store in their spinal organs,\r\nand are capable of discharging a current\r\nstrong enough to boil the seawater around\r\nthem. They have been sighted fighting other\r\nmonsters in the Scarlet Forest, presumably\r\ndrawn in from other regions in search of\r\nprey and more fertile environs.",
+      "fr": "Léviathans se tenant au sommet de la vaste\r\nchaîne alimentaire aquatique. Les Lagiacrus\r\ngénèrent de l'électricité grâce à leur peau et\r\nla stockent dans leurs organes dorsaux.\r\nLeurs décharges sont assez puissantes pour\r\nfaire bouillir l'eau de mer. On les a vus se\r\nbattre avec les autres monstres de la Forêt\r\nécarlate, ce qui laisse à supposer qu'ils sont\r\nvenus d'ailleurs à la recherche de proies et\r\nd'endroits plus fertiles.",
+      "it": "Leviathan che si trovano in cima alla\r\ncatena alimentare marina. I Lagiacrus\r\ngenerano elettricità tramite la pelle per\r\nimmagazzinarla negli organi spinali, e\r\npossono scaricare una corrente abbastanza\r\nforte da far bollire l'acqua di mare vicina.\r\nSono stati visti mentre combattevano altri\r\nmostri nella Foresta cremisi, forse attirati\r\nda altre regioni in cerca di prede e\r\nambienti più fertili.",
+      "de": "Leviathane, die unter den Wasserlebewesen an\r\nder Spitze der Nahrungskette stehen. Lagiacrus\r\nkönnen mit ihrer Haut Elektrizität erzeugen,\r\ndie sie in Organen auf ihrem Rücken speichern\r\nund dann in Form von Stromstößen abgeben –\r\nstark genug, um Wasser zum Sieden zu bringen.\r\nLagiacrus wurden im Karminwald im Kampf\r\ngegen andere Monster gesichtet, vermutlich auf\r\nder Suche nach Beute und einer fruchtbaren\r\nUmgebung.",
+      "es": "Los leviatanes están en la cima de\r\nla gran cadena alimentaria acuática.\r\nLos Lagiacrus generan electricidad en su\r\npiel y la almacenan en órganos dorsales.\r\nSon capaces de descargar corrientes tan\r\nfuertes como para hacer hervir el agua.\r\nSe los ha visto pelear con otros monstruos\r\nen el Bosque Escarlata, supuestamente\r\natraídos desde otras regiones por la\r\npresencia de presas y entornos fértiles.",
+      "ru": "Стоящие на вершине водной пищевой цепи\r\nлевиафаны. Лагиакрусы вырабатывают\r\nэлектричество, которое они хранят в спинных\r\nорганах, и могут выпускать мощный разряд,\r\nспособный вскипятить воду вокруг них.\r\nЛагиакрусы были замечены сражающимися\r\nс другими монстрами в Багряном лесу, куда,\r\nвероятно, мигрировали из других регионов\r\nв поисках благоприятных условий и пищи.",
+      "pl": "Lewiatany ze szczytu wodnego łańcucha\r\npokarmowego. Lagiacrusy wytwarzają\r\nelektryczność przez skórę i gromadzą ją\r\nprzy kręgosłupie. Mogą wytworzyć prąd\r\nzdolny zagotować wodę wokół nich.\r\nZaobserwowano je walczące z innymi\r\npotworami w Szkarłatnym Lesie, dokąd\r\nnajpewniej przybyły z innych regionów,\r\nw poszukiwaniu pożywienia i bogatszych\r\nśrodowisk.",
+      "pt-BR": "Leviatãs que existem no topo da vasta cadeia\r\nalimentar aquática. Lagiacrus usam seu couro\r\npara gerar eletricidade e a armazenam em\r\nseus órgãos espinhais, capazes de descarregar\r\numa corrente forte o suficiente para ferver\r\na água do mar em seu entorno. Eles foram\r\navistados lutando contra outros monstros\r\nna Floresta Escarlate, possivelmente atraídos\r\nde outras regiões em busca de presas\r\ne ambientes mais férteis.",
+      "ko": "광활한 해양 먹이사슬의 정점에\r\n서 있으며, 종을 대표하여 《해룡》이라고\r\n불린다. 등에는 축전 기관이 있으며,\r\n외피에서 발생시킨 전기를 축적하여\r\n주변 물이 끓어 오를 정도로 강력한\r\n전류를 내뿜는다. 주홍빛 숲에서\r\n다른 몬스터와 싸우는 모습이 목격되었는데\r\n사냥감을 찾아 비옥한 환경을 찾다가\r\n다른 지역에서 이곳에 도착한 것으로\r\n추측된다.",
+      "zh-Hant": "立於廣闊海洋的食物鏈頂端，並以海龍種整類物種\r\n的名字為名。牠的背部有蓄電器官，能儲存外皮產\r\n生的電，並釋放足以讓周圍海水沸騰的強大電流。\r\n牠曾被目擊到在緋紅森林與其他魔物爭鬥，推測是\r\n為了獵物而尋找豐繞環境，最後從其他地區抵達緋\r\n紅森林。",
+      "zh-Hans": "君临辽阔海洋的食物链顶点，作为这一门物种的\r\n代表而得名“海龙”。背部有蓄电器官，能存储\r\n外皮产生的电能，并释放足以令周围海水沸腾的\r\n强大电流。有目击报告说它曾在绯红森林与其他\r\n怪物争夺地盘。据推测，它是为寻找拥有更多猎\r\n物的丰盛环境而迁徙，并最终来到了此地。",
+      "ar": "وحوش الـ(ليفياثان) تتربع على قمة السلسلة الغذائية\r\nفي أعماق المحيطات. تُولّد (لاغياكروس) الكهرباء\r\nعبر جلودها لتخزينها في أعضائها الشوكية، وهي\r\nقادرة على تفريغ تيار كهربائي قوي بما يكفي لغليان\r\nمياه البحر المحيطة بها. وقد شوهدت وهي تقاتل\r\nوحوشًا أخرى في الغابة القرمزية، ويُعتقد أنها جاءت\r\nمن مناطق أخرى بحثًا عن الفرائس والبيئات\r\nالأكثر خصوبة.",
+      "es-419": "Leviatanes que están en la cima de la larga\r\ncadena alimenticia. Los Lagiacrus generan\r\nelectricidad a través de su piel\r\ny la almacenan en los órganos espinales.\r\nSon capaces de descargar una corriente\r\ntan fuerte que haga que el agua marina entre\r\nen ebullición. Se los vio enfrentarse\r\na otros monstruos en el Bosque Escarlata,\r\nsupuestamente atraídos desde otras regiones\r\nen busca de presas y entornos fértiles."
+    },
+    "tips": {
+      "ja": "攻撃を繰り返すラギアクルスの体内では徐々に\r\nその電力が増し、これに伴い背中にある電殻の\r\n発光も増していく。\r\n特に、水中で背電殻が強く発光している場合は\r\n非常に強力な放電攻撃を行う予兆でもあるため、\r\n注意が必要。\r\nその対抗策としては、やはり背電殻の部位破壊が\r\n挙げられる。破壊に成功すれば蓄電能力を\r\n弱められるため、積極的に狙い攻撃を加えよう。",
+      "en": "The glow of a Lagiacrus's shockspikes are\r\nproportional to the amount of electricity\r\nthey gradually store while attacking. Notably,\r\na brightly glowing shockspike when they are\r\nsubmerged is a good indicator that an intense\r\nelectrical attack is soon to follow. Attacking\r\nand destroying the shockspike has proven\r\nto be an effective countermeasure for\r\nreducing Lagiacrus's ability to build electric\r\ncharge, and should be prioritized.",
+      "fr": "Les électropointes d'un Lagiacrus brillent\r\nproportionnellement à la quantité d'électricité\r\nqu'elles accumulent à chaque attaque. Sous\r\nl'eau, une électropointe qui brille intensément\r\nprésage en général une puissante attaque\r\nélectrique. Détruire une électropointe s'avère\r\nêtre un moyen efficace de réduire la capacité\r\ndu Lagiacrus à accumuler de l'électricité. Il est\r\ndonc conseillé de les cibler en priorité.",
+      "it": "Il bagliore degli elettraculei di un\r\nLagiacrus è proporzionale all'elettricità\r\nche accumulano durante l'attacco. In\r\nparticolare, un elettraculeo che brilla\r\nmentre il mostro è sommerso è un chiaro\r\nsegnale che sta per sferrare un potente\r\nattacco elettrico. Attaccare e distruggere\r\nl'elettraculeo si è rivelata una tattica\r\nefficace, poiché riduce la capacità di \r\naccumulare energia del Lagiacrus.",
+      "de": "Das Leuchten von Lagiacrus’ Schockstacheln\r\nwird stärker, je mehr Elektrizität er beim\r\nAngreifen gespeichert hat. Unter Wasser\r\ndeutet ein hell leuchtender Schockstachel auf\r\neinen bald folgenden starken elektrischen\r\nAngriff hin. Das Angreifen und Zerstören\r\ndes Schockstachels eines Lagiacrus kann seine\r\nFähigkeit, Elektrizität zu speichern, enorm\r\neinschränken, und sollte im Kampf oberste\r\nPriorität haben.",
+      "es": "El brillo de las electropúas del Lagiacrus\r\nes proporcional a la cantidad de corriente\r\nque almacenan de forma gradual al atacar.\r\nSi ves brillar intensamente una electropúa\r\ncuando está sumergido, eso indica que\r\nva a lanzar un ataque eléctrico poderoso.\r\nUna contramedida efectiva es atacar y\r\ndestruir la púa eléctrica para reducir la\r\ncapacidad del Lagiacrus para cargar ataques\r\neléctricos, por lo que debe priorizarse.",
+      "ru": "Чем больше электричества лагиакрус\r\nнакапливает во время атак, тем ярче светятся\r\nего шоковые шипы. Если шоковый шип сияет\r\nособенно ярко, когда монстр под водой,\r\nждите мощного удара электричеством.\r\nКак показывает практика, уничтожение\r\nшипов позволяет значительно снизить\r\nспособность лагиакруса накапливать\r\nэлектрический заряд, поэтому шипами\r\nлучше заняться в первую очередь.",
+      "pl": "Elektrokolce Lagiacrusa świecą się\r\nproporcjonalnie do ilości energii, którą\r\nstopniowo gromadzi podczas atakowania.\r\nWarto zauważyć, że kiedy jest zanurzony,\r\njasno świecący elektrokolec stanowi wyraźny\r\nsygnał nadchodzącego silnego, elektrycznego\r\nataku. Atakowanie i zniszczenie elektrokolca\r\njest skuteczną metodą ograniczania jego\r\nzdolności do gromadzenia ładunku i powinno\r\nbyć traktowane priorytetowo.",
+      "pt-BR": "O brilho dos eletroespinhos de um Lagiacrus\r\né proporcional à quantidade de eletricidade\r\nque ele armazena gradualmente enquanto\r\nataca. Em especial, um eletroespinho brilhante\r\nquando estão submersos é um bom indicador\r\nde que um ataque elétrico intenso está para\r\nacontecer. Atacar e destruir o eletroespinho\r\nprovou ser uma estratégia adequada para\r\nreduzir o aumento de carga elétrica de\r\num Lagiacrus e deve ser priorizada.",
+      "ko": "라기아크루스가 공격을 반복하면\r\n체내 전력이 증가하며, 이에 따라\r\n등의 전기갑각도 점차 밝아진다.\r\n특히 물속에서 전기갑각이 강렬하게\r\n빛날 땐 매우 강력한 방전 공격을\r\n가하겠다는 전조이므로 주의해야 한다.\r\n이에 대항하기 위해서는 역시\r\n전기갑각 부위 파괴를 노리는 것이 좋다.\r\n파괴에 성공하면 축전 능력을\r\n약화시킬 수 있으므로 적극 공격하자.",
+      "zh-Hant": "海龍反覆發動攻擊時，體內的電力會逐漸增強，背\r\n部的電殼也會越明亮。背電殼在水中發出強烈光芒\r\n時，就是即將發動非常強大的放電攻擊的前兆，需\r\n要格外小心，而最有用的對策就是破壞背電殼。只\r\n要成功破壞就能削弱放電攻擊的威力，因此建議積\r\n極鎖定背電殼攻擊。",
+      "zh-Hans": "海龙会通过连续发动攻击，在体内逐步积蓄电能，\r\n背部的电壳也会随之愈发明亮。特别是在水中，\r\n若背电壳开始强烈发光，那往往是它即将释放强\r\n力放电攻击的前兆，务必提高警觉。对策方面，\r\n最有效的方式是破坏背电壳。只要成功破坏，就\r\n能削弱其蓄电能力，建议针对该部位积极展开攻\r\n势。",
+      "ar": "توهّج أشواك الصدمة لدى (لاغياكروس)\r\nيتناسب طرديًا مع كمية الكهرباء التي يخزنها\r\nتدريجيًا أثناء الهجوم. والجدير بالذكر أن التوهج\r\nالساطع لشوكة الصدمة عند غمره بالماء مؤشر\r\nجيد على قرب وقوع هجوم كهربائي مكثف.\r\nولقد ثبت أن مهاجمة وتدمير الشوكة الصاعقة\r\nطريقة فعّالة للحد من قدرة (لاغياكروس) على\r\nتوليد الشحنة الكهربائية، ويجب إعطاؤها الأولوية.",
+      "es-419": "El brillo de las electropúas del Lagiacrus\r\nes proporcional a la cantidad de corriente\r\nque gradualmente almacenan al atacar.\r\nSi una electropúa brilla con intensidad\r\ncuando está sumergida, quiere decir\r\nque va a lanzar un potente ataque eléctrico.\r\nAtacar y destruir la electropúa demostró\r\nser una buena contramedida para reducir\r\nla habilidad de carga eléctrica del Lagiacrus,\r\npor lo que debe priorizarse."
+    },
+    "variants": [
+      {
+        "kind": "tempered",
+        "names": {
+          "ja": "ラギアクルス（歴戦の個体）",
+          "en": "Tempered Lagiacrus",
+          "fr": "Lagiacrus alpha",
+          "it": "Lagiacrus temprato",
+          "de": "Gehärteter Lagiacrus",
+          "es": "Lagiacrus curtido",
+          "ru": "Закалённый лагиакрус",
+          "pl": "Zahartowany Lagiacrus",
+          "pt-BR": "Lagiacrus Aguerrido",
+          "ko": "라기아크루스(역전의 개체)",
+          "zh-Hant": "海龍（歷戰個體）",
+          "zh-Hans": "海龙（历战个体）",
+          "ar": "لاغياكروس غاضب",
+          "es-419": "Lagiacrus curtido"
+        }
+      }
+    ],
+    "size": {
+      "base": 2535.46,
+      "mini": 2281.9138,
+      "mini_multiplier": 0.9,
+      "silver": 2763.6514,
+      "silver_multiplier": 1.09,
+      "gold": 2865.0698,
+      "gold_multiplier": 1.13
+    },
+    "base_health": 5600,
+    "locations": [
+      -859829056
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
+    "rewards": [
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 656,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 702,
+        "amount": 1,
+        "chance": 85
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 703,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 729,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 730,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 730,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 730,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 730,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 730,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 23
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 731,
+        "amount": 1,
+        "chance": 60
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 732,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 732,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 732,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 732,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "back",
+        "item_id": 732,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 733,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 733,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 733,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 733,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head",
+        "item_id": 733,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 734,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 735,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 735,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 735,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 735,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "front-legs",
+        "item_id": 735,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 736,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 736,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 736,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 736,
+        "amount": 1,
+        "chance": 2
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 736,
+        "amount": 1,
+        "chance": 100
+      }
+    ],
+    "parts": [
+      {
+        "part": "neck",
+        "base_health": 400,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.24,
+          "blunt": 0.38,
+          "pierce": 0.15,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "chest",
+        "base_health": 800,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.55,
+          "blunt": 0.45,
+          "pierce": 0.35,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "head",
+        "base_health": 850,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.45,
+          "pierce": 0.45,
+          "fire": 0.15,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
+          "stun": 1.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.45,
+          "pierce": 0.45,
+          "fire": 0.15,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
+          "stun": 1.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.24,
+          "blunt": 0.38,
+          "pierce": 0.15,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.55,
+          "blunt": 0.55,
+          "pierce": 0.55,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.45,
+          "pierce": 0.45,
+          "fire": 0.25,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.15,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.25,
+          "fire": 0.05,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.25,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.38,
+          "blunt": 0.38,
+          "pierce": 0.38,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": null,
+        "multipliers": {
+          "slash": 0.35,
+          "blunt": 0.35,
+          "pierce": 0.35,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "back",
+        "base_health": 450,
+        "kinsect_essence": "green",
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.45,
+          "pierce": 0.15,
+          "fire": 0.25,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.15,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "torso",
+        "base_health": 400,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.2,
+          "fire": 0.05,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hind-legs",
+        "base_health": 550,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.38,
+          "blunt": 0.38,
+          "pierce": 0.3,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "front-legs",
+        "base_health": 500,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.1,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "tail",
+        "base_health": 600,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.3,
+          "blunt": 0.35,
+          "pierce": 0.2,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.1,
+          "dragon": 0.1,
           "stun": 0.0
         }
       }
@@ -8323,6 +9039,623 @@
     ]
   },
   {
+    "game_id": 25,
+    "species": "flying-wyvern",
+    "names": {
+      "ja": "セルレギオス",
+      "en": "Seregios",
+      "fr": "Seregios",
+      "it": "Seregios",
+      "de": "Seregios",
+      "es": "Seregios",
+      "ru": "Серегиос",
+      "pl": "Seregios",
+      "pt-BR": "Seregios",
+      "ko": "셀레기오스",
+      "zh-Hant": "千刃龍",
+      "zh-Hans": "千刃龙",
+      "ar": "سيرجيوس",
+      "es-419": "Seregios"
+    },
+    "descriptions": {
+      "ja": "縄張り意識が非常に強い飛竜種。\r\n刃鱗と呼ばれる鋭い鱗に身を包むその姿から\r\n≪千刃竜（せんじんりゅう）≫と称される。",
+      "en": "Fiercely territorial flying wyverns known\r\nfor the sharp, blade-like scales covering\r\ntheir bodies.",
+      "fr": "Wyvernes volantes farouchement territoriales,\r\nconnues pour leurs écailles aussi tranchantes\r\nque des lames.",
+      "it": "Wyvern volanti feroci e territoriali,\r\nnoti per le scaglie affilate come lame\r\nche ricoprono il loro corpo.",
+      "de": "Extrem territoriale Wyvern, bekannt für\r\ndie scharfen, klingenartigen Schuppen,\r\ndie ihre Körper bedecken.",
+      "es": "Wyverns voladores muy territoriales.\r\nFamosos por lo afiladas que son las\r\nescamas de las que están recubiertos.",
+      "ru": "Летающие виверны, тела которых покрыты острой\r\nкак бритва чешуёй. Ревностно защищают свою\r\nтерриторию от врагов.",
+      "pl": "Zaciekle broniące swojego terytorium, latające\r\nwiwerny, znane z ostrych, przypominających noże\r\nłusek pokrywających ich ciała.",
+      "pt-BR": "Serpes voadoras muito territoriais,\r\nconhecidas por suas escamas afiadas\r\ncomo lâminas cobrindo o corpo todo.",
+      "ko": "영역 의식이 매우 강한 비룡종.\r\n칼날비늘이라고 불리는 날카로운 비늘로 몸을\r\n감싸고 있는 모습 덕분에 《천인룡》이라 불린다.",
+      "zh-Hant": "地盤意識非常強烈的飛龍種，全身鋪滿名為「刃\r\n鱗」的銳利鱗片，因此得「千刃龍」之名。",
+      "zh-Hans": "领地意识极强的飞龙种。全身覆盖着被称为“刃\r\n鳞”的锋利鳞片，并由此得名“千刃龙”。",
+      "ar": "وحوش طائرة شرسة تُعرف بشراستها في الدفاع\r\nعن أراضيها، وتتميز بحراشفها الحادة التي تشبه\r\nالشفرات وتغطي أجسادها.",
+      "es-419": "Wyverns voladores muy territoriales. Famosos por\r\nlo afiladas que son las escamas de las que están\r\nrecubiertos."
+    },
+    "features": {
+      "ja": "縄張り意識が非常に強い飛竜種で、刃鱗（じん\r\nりん）と呼ばれる鋭い鱗に身を包むその姿から、\r\n≪千刃竜（せんじんりゅう）≫と称される。\r\n短距離ではあるが素早い飛行能力を備えており、\r\nさらに機敏な足さばきを活かして相手を翻弄し\r\n強靭な後脚による攻撃を行う。\r\nまた、全身の刃鱗は射出が可能で、敵対する\r\n相手に裂傷を負わせる事例が報告されている。",
+      "en": "Fiercely territorial flying wyverns known\r\nfor the sharp, blade-like scales covering\r\ntheir bodies. Boasting swift aerial mobility\r\nand lightning-fast footwork, Seregios use\r\ntheir powerful hind legs to make quick work\r\nof their prey. Reports confirm that Seregios\r\nalso have the ability to launch the scales\r\nfrom their bodies, causing lacerations that\r\nbleed profusely.",
+      "fr": "Wyvernes volantes farouchement territoriales\r\nconnues pour leurs écailles tranchantes\r\ncomme des lames. Doués d'une très bonne\r\nmobilité aérienne et de membres agiles,\r\nles Seregios utilisent leurs puissantes\r\npattes arrière pour éliminer rapidement\r\nleurs proies. Ils sont également capables\r\nd'éjecter leurs écailles pour provoquer\r\ndes lacérations et des hémorragies.",
+      "it": "Wyvern volanti fortemente territoriali, noti\r\nper le scaglie affilate come lame che\r\nricoprono il loro corpo. Dotati di grande\r\nmobilità aerea e movimenti fulminei, i\r\nSeregios sfruttano i possenti arti\r\nposteriori per abbattere le prede in fretta.\r\nSecondo diverse segnalazioni, sono anche in\r\ngrado di lanciare le proprie scaglie,\r\ncausando ferite profonde ed emorragie.",
+      "de": "Extrem territoriale Wyvern, bekannt für die\r\nscharfen, klingenartigen Schuppen, die ihre\r\nKörper bedecken. Seregios zeichnen sich\r\ndurch ihre schnellen Bewegungen sowohl in\r\nder Luft als auch am Boden aus und erlegen\r\nihre Beute mit ihren kräftigen Hinterbeinen.\r\nBerichten zufolge können sie ihre Schuppen\r\nauf Ziele schleudern und so stark blutende\r\nWunden verursachen.",
+      "es": "Wyverns voladores extremadamente\r\nterritoriales, conocidos por las escamas\r\nafiladas como cuchillas que recubren sus\r\ncuerpos. El Seregios, que posee una gran\r\nmovilidad aérea y paso veloz, usa sus\r\nfuertes patas traseras para despachar con\r\npresteza a sus presas. También se ha\r\nconfirmado que el Seregios puede lanzar\r\nlas escamas de su cuerpo, lo que provoca\r\nlaceraciones con hemorragias mortales.",
+      "ru": "Летающие виверны, тела которых покрыты\r\nострой как бритва чешуёй. Ревностно\r\nзащищают свою территорию от врагов, в чём\r\nим помогают быстрые крылья и острые когти.\r\nПоймав жертву, серегиосы задними лапами\r\nрвут её на части. Кроме того, по словам\r\nочевидцев, серегиосы могут метать во врагов\r\nчешуйки, которые оставляют глубокие раны\r\nи вызывают кровотечение.",
+      "pl": "Bezwzględne terytorialne latające wiwerny\r\nznane z pokrywających całe ciała łusek\r\nprzypominających ostrza. Odznaczają się\r\nzdolnością zwinnego lataniai błyskawiczną\r\npracą nóg. Seregiosy używają potężnych\r\ntylnych odnóży, aby w mgnieniu oka dopaść\r\nofiarę. Wiadomo, że Seregiosy potrafią\r\nciskać wyrzucanymi z ciała łuskami,\r\npowodującymi silnie krwawiące rany.",
+      "pt-BR": "Serpes aladas ferozmente territoriais,\r\nconhecidas pelas escamas afiadas que\r\ncobrem seu corpo. Com alta mobilidade\r\naérea e destreza incomparável, os Seregios\r\nusam suas poderosas pernas traseiras para\r\nabater suas presas rapidamente. Relatórios\r\nconfirmam que os Seregios também possuem\r\na habilidade de disparar escamas lacerantes\r\nque causam sangramentos profundos.",
+      "ko": "영역 의식이 매우 강한 비룡종.\r\n칼날비늘이라고 하는 날카로운 비늘로\r\n몸을 감싸고 있는 모습에서\r\n《천인룡》이라 불린다.\r\n비록 단거리지만 재빠른 비행 능력을\r\n갖췄고, 기민한 발놀림으로 상대방을\r\n우롱하며 강인한 뒷다리로 공격한다.\r\n또, 온몸의 칼날비늘은 발사할 수 있어\r\n적대하는 상대에게\r\n열상을 입힌 사례가 보고되고 있다.",
+      "zh-Hant": "地盤意識非常強烈的飛龍種，全身鋪滿名為「刃\r\n鱗」的銳利鱗片，因此得「千刃龍」之名。牠只\r\n能短距離飛行，但速度極快，還會善用靈活的步\r\n伐擾亂對手，再以強韌的後腳攻擊。此外，牠可\r\n以射出全身的刃鱗，曾有報告指牠的對手遭受裂\r\n傷。",
+      "zh-Hans": "领地意识极强的飞龙种。全身覆盖着被称为“刃\r\n鳞”的锋利鳞片，并由此得名“千刃龙”。虽然\r\n飞行距离较短，但速度极快，善于利用灵活的步\r\n伐扰乱对手，再用强韧的后腿攻击。有报告称它\r\n还能发射全身的刃鳞，从而让对手造成裂伤。",
+      "ar": "تنين مجنح طائر ذو نزعة إقليمية شرسة،\r\nمعروف بحراشفه الحادة التي تغطي جسده\r\nوتشبه الشفرات. يتميز (سيرجيوس) بسرعة كبيرة\r\nفي الطيران وخفة حركة مذهلة،\r\nويستخدم قوائمه الخلفية القوية للانقضاض\r\nبسرعة على فرائسه. تؤكد التقارير\r\nأن (سيرجيوس) يمتلك أيضًا القدرة على إطلاق\r\nحراشفه نحو خصومه، مسببًا جروحًا تنزف بغزارة.",
+      "es-419": "Wyverns voladores muy territoriales,\r\nconocidos por sus escamas afiladas como\r\ncuchillas que recubren sus cuerpos.\r\nEl Seregios, con su rápida movilidad aérea\r\ny paso veloz, usa sus fuertes patas\r\ntraseras para terminar rápidamente\r\na sus presas. Los informes confirman\r\nque el Seregios también puede lanzar\r\nlas escamas de su cuerpo y provocar\r\nlaceraciones con sangrados abundantes."
+    },
+    "tips": {
+      "ja": "まずは優れた飛行能力を活かした回り込みや、\r\n強靭な後脚による攻撃に注意したい。\r\nさらに、その全身から放たれる刃鱗は裂傷状態を\r\n引き起こすだけではなく、放った直後には追撃を\r\n行う場合もあり、一層の警戒が必要となる。\r\nただし、頭部や尻尾の部位破壊によって放たれる\r\n刃鱗の数が減少するという報告もある。よって、\r\n積極的な部位破壊が推奨されるだろう。\r\nなお、裂傷状態の解消にはこんがり肉を食べるか\r\n一定時間の静止が有効となる。",
+      "en": "Beware of flanking attacks and their fierce\r\nhind leg strikes. Viciously aggressive,\r\nthey'll launch their blade-like scales,\r\nwhich can inflict bleeding, and then\r\nimmediately follow-up with additional\r\nattacks. Breaking their heads and tail can\r\nreduce the number of scales they're able to\r\ndeploy, so focus on breaking parts while\r\nhealing your bleeding status as necessary\r\nwith Well-done Steaks or by resting briefly.",
+      "fr": "Attention à leurs attaques de contournement\r\net aux coups féroces de leurs pattes arrière.\r\nTrès agressifs, les Seregios peuvent lancer leurs\r\nécailles tranchantes comme des lames pour\r\ninfliger des hémorragies avant d'attaquer de\r\nplus belle. Briser leur tête ou leur queue permet\r\nde réduire le nombre d'écailles envoyées, alors\r\nfocalisez-vous sur les parties brisables tout en\r\nsoignant vos hémorragies si nécessaire avec des\r\nsteaks à point ou en vous reposant.",
+      "it": "Fai attenzione agli attacchi dal fianco\r\ne alle feroci scalciate con le zampe\r\nposteriori. Violenti e aggressivi, lanciano\r\nle loro scaglie simili a lame, che possono\r\ninfliggere sanguinamento. Proseguiranno\r\nsubito l'assalto con altri attacchi.\r\nRompere testa e coda riduce il numero\r\ndi scaglie che lanciano: cerca di rompere\r\nqueste parti e cura il sanguinamento con\r\nbistecche ben cotte o evitando movimenti.",
+      "de": "Die agilen Seregios sind für ihre hinterhältigen\r\nTaktiken und heftigen Hinterbeinattacken\r\nberüchtigt. Sie schleudern Opfern zudem ihre\r\nklingenartigen Schuppen entgegen, die\r\nBlutungen verursachen, nur um dann direkt\r\ndarauf weiter anzugreifen. Durch Brechen von\r\nKopf und Schwanz kann die Zahl der Schuppen,\r\ndie sie verschießen können, reduziert werden.\r\nGegen Blutungen hilft ein Gebratenes Steak\r\nsowie kurzzeitiges Ausruhen.",
+      "es": "Ten cuidado con sus ataques con los flancos,\r\ny los feroces golpes de sus patas traseras.\r\nSon muy agresivos, y además de proyectar sus\r\nafiladísimas escamas y causar sangrados con\r\nellas, pueden lanzar ataques inmediatamente\r\ndespués. Si les rompes la cabeza o la cola,\r\nreducirás el número de escamas que pueden\r\nproyectar, así que concéntrate en romper\r\npartes mientras te curas de sangrados con\r\nfiletes al punto o descansando brevemente.",
+      "ru": "Берегитесь фланговых атак и ударов когтями\r\nэтого манёвренного и крайне агрессивного\r\nмонстра. Серегиос выстреливает острой\r\nчешуёй, вызывающей кровотечение, и сразу\r\nже атакует жертву ещё раз. Однако, сломав его\r\nхвост или голову, можно сократить количество\r\nиспользуемых для атак чешуек, поэтому стоит\r\nбить по этим частям тела в первую очередь.\r\nВылечить кровотечение можно хорошо\r\nпрожаренным стейком или на время замерев.",
+      "pl": "Uważaj na ataki z flanki oraz ich zaciekłe\r\nciosy tylnymi łapami. Wyjątkowo agresywne,\r\npotrafią wystrzeliwać łuskami jak ostrzami,\r\nktóre powodują krwawienie, a następnie od\r\nrazu przechodzą do kolejnych ataków.\r\nZniszczenie głowy i ogona zmniejsza liczbę\r\nłusek, które mogą wystrzelić, więc skup się\r\nna łamliwych częściach i leczeniu krwawienia\r\nkrótkim odpoczynkiem lub jedzeniem dobrze\r\nwysmażonych steków.",
+      "pt-BR": "Cuidado com os ataques de flanco e com\r\nseus ferozes golpes nas patas traseiras.\r\nViolentos e agressivos, eles lançam escamas\r\nsemelhantes a lâminas, que podem causar\r\nsangramento, e imediatamente seguem com\r\noutros ataques. Quebrar a cabeça e a cauda\r\npode reduzir o número de escamas que eles\r\nlançam. Portanto, concentre-se em quebrar\r\npartes enquanto cura seu sangramento com\r\nBifes Bem Passados ou descansando um pouco.",
+      "ko": "우선은 뛰어난 비행 능력을 활용한 우회와\r\n강력한 뒷다리 공격에 주의해야 한다.\r\n또한, 전신에서 발사되는 칼날비늘에 맞으면\r\n열상 상태가 되며, 직후에는 추가 공격을\r\n받을 수도 있어 더욱더 경계가 필요하다.\r\n단, 머리나 꼬리 부위 파괴를 통해 발사되는\r\n칼날비늘 수를 줄일 수 있다는 보고도 있다.\r\n적극적으로 해당 부위 파괴를 노려보자.\r\n열상 상태는 잘 익은 고기를 먹거나 일정 시간\r\n움직임을 멈추면 효과적이다.",
+      "zh-Hant": "千刃龍會利用優秀的飛行能力繞到獵物身後，再利\r\n用強韌的後腳攻擊，需要特別小心。此外，牠從全\r\n身射出的刃鱗不但會引發裂傷狀態，有時候射出刃\r\n鱗後還會馬上追擊，不可以鬆懈。不過亦有報告指\r\n出，只要破壞牠的頭部或尾巴，射出的刃鱗就會變\r\n少，因此建議優先破壞這些部位。另外，只要進食\r\n全熟肉或保持靜止一段時間，就能解除裂傷狀態。",
+      "zh-Hans": "千刃龙会利用其极快的飞行能力和强健的后腿，\r\n从多个角度和不同距离发动攻击，需要格外小\r\n心。此外，千刃龙全身施放的刃鳞会导致裂伤状\r\n态，并且有时在施放后紧接着发动追击，必须时\r\n刻保持警惕。有记录表明，若能够成功破坏头部\r\n或尾巴，刃鳞的数量会减少，因此建议优先破坏\r\n这两个部位。一旦陷入裂伤状态，食用烤熟的肉\r\n或保持静止一段时间即可解除。",
+      "ar": "احذر من الهجمات الجانبية وضربات الأرجل الخلفية\r\nالعنيفة. فهذه الوحوش عدوانية للغاية، وتطلق قشورًا\r\nحادة تشبه الشفرات يمكن أن تُسبب نزيفًا، يليها هجوم\r\nمباشر إضافي. تحطيم الرأس والذيل يقلل من عدد القشور\r\nالتي يمكنهم إطلاقها، لذا ركّز على تدمير الأجزاء أثناء\r\nمعالجة حالة النزيف باستخدام شرائح اللحم المطهوة\r\nأو من خلال الراحة لفترة وجيزة.",
+      "es-419": "Cuidado con los ataques de flanco y sus\r\nferoces golpes con las patas traseras.\r\nViciosamente agresivos, lanzan sus escamas\r\ncomo cuchillas que pueden causar sangrado\r\ny luego seguir con ataques adicionales.\r\nRomperles la cabeza y la cola puede reducir\r\nel número de escamas que pueden lanzar;\r\ncéntrate en romper partes, curando tu estado\r\nde sangrado según sea necesario con Filetes\r\nbien cocidos o descansando brevemente."
+    },
+    "variants": [
+      {
+        "kind": "tempered",
+        "names": {
+          "ja": "セルレギオス（歴戦の個体）",
+          "en": "Tempered Seregios",
+          "fr": "Seregios alpha",
+          "it": "Seregios temprato",
+          "de": "Gehärteter Seregios",
+          "es": "Seregios curtido",
+          "ru": "Закалённый серегиос",
+          "pl": "Zahartowany Seregios",
+          "pt-BR": "Seregios Aguerrido",
+          "ko": "셀레기오스(역전의 개체)",
+          "zh-Hant": "千刃龍（歷戰個體）",
+          "zh-Hans": "千刃龙（历战个体）",
+          "ar": "سيرجيوس غاضب",
+          "es-419": "Seregios curtido"
+        }
+      }
+    ],
+    "size": {
+      "base": 1730.27,
+      "mini": 1557.2429,
+      "mini_multiplier": 0.9,
+      "silver": 1989.8104,
+      "silver_multiplier": 1.15,
+      "gold": 2128.2322,
+      "gold_multiplier": 1.23
+    },
+    "base_health": 5500,
+    "locations": [
+      -1226157568,
+      327401792
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
+    "rewards": [
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 23
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 548,
+        "amount": 1,
+        "chance": 60
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 549,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 549,
+        "amount": 1,
+        "chance": 22
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 549,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 549,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 549,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-leg",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-leg",
+        "item_id": 550,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 551,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 552,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 552,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 552,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 552,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head",
+        "item_id": 552,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 27
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-wing",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-wing",
+        "item_id": 553,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 554,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 554,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 554,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 554,
+        "amount": 1,
+        "chance": 2
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 554,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 555,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 656,
+        "amount": 1,
+        "chance": 30
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 702,
+        "amount": 1,
+        "chance": 85
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 703,
+        "amount": 1,
+        "chance": 15
+      }
+    ],
+    "parts": [
+      {
+        "part": "neck",
+        "base_health": 350,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.35,
+          "blunt": 0.4,
+          "pierce": 0.3,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.1,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-wing",
+        "base_health": 250,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.3,
+          "blunt": 0.3,
+          "pierce": 0.15,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.1,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "head",
+        "base_health": 350,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.55,
+          "pierce": 0.4,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.15,
+          "ice": 0.1,
+          "dragon": 0.05,
+          "stun": 1.0
+        }
+      },
+      {
+        "part": "right-leg",
+        "base_health": 500,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.5,
+          "blunt": 0.45,
+          "pierce": 0.45,
+          "fire": 0.0,
+          "water": 0.1,
+          "thunder": 0.2,
+          "ice": 0.15,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.35,
+          "blunt": 0.35,
+          "pierce": 0.1,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.05,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-wing",
+        "base_health": 250,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.3,
+          "blunt": 0.3,
+          "pierce": 0.15,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.1,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-leg",
+        "base_health": 500,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.5,
+          "blunt": 0.45,
+          "pierce": 0.45,
+          "fire": 0.0,
+          "water": 0.1,
+          "thunder": 0.2,
+          "ice": 0.15,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "torso",
+        "base_health": 350,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.35,
+          "blunt": 0.35,
+          "pierce": 0.1,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.05,
+          "ice": 0.05,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "tail",
+        "base_health": 200,
+        "kinsect_essence": "green",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.35,
+          "pierce": 0.45,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.15,
+          "ice": 0.1,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      }
+    ]
+  },
+  {
     "game_id": 26,
     "species": "flying-wyvern",
     "names": {
@@ -10892,7 +12225,7 @@
           "es": "Hirabami colérico",
           "ru": "Бешеный хирабами",
           "pl": "Oszalały Hirabami",
-          "pt-BR": "Hirabami Frenético",
+          "pt-BR": "Hirabami Colérico",
           "ko": "광룡화 히라바미",
           "zh-Hant": "狂龍化風鋏龍",
           "zh-Hans": "狂龙化风铗龙",
@@ -11583,7 +12916,7 @@
           "es": "Yian Kut-Ku colérico",
           "ru": "Бешеный йан-кут-ку",
           "pl": "Oszalały Yian Kut-Ku",
-          "pt-BR": "Yian Kut-Ku Frenético",
+          "pt-BR": "Yian Kut-Ku Colérico",
           "ko": "광룡화 얀쿡크",
           "zh-Hant": "狂龍化怪鳥",
           "zh-Hans": "狂龙化怪鸟",
@@ -14450,7 +15783,7 @@
           "es": "Gypceros colérico",
           "ru": "Бешеный гипцерос",
           "pl": "Oszalały Gypceros",
-          "pt-BR": "Gypceros Frenético",
+          "pt-BR": "Gypceros Colérico",
           "ko": "광룡화 게리오스",
           "zh-Hant": "狂龍化毒怪鳥",
           "zh-Hans": "狂龙化毒怪鸟",
@@ -15917,7 +17250,7 @@
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con el poder de un Rathalos.\r\nCuidado con la energía de sus ataques con garras."
     },
     "features": {
-      "ja": "古代文明の手により≪火竜≫の力を宿して\r\n生み出された造竜種。\r\n生殖機能をもたず、捕食も行わないが竜乳\r\nそのものを摂取しエネルギー源とする。\r\n原種と同じく優れた飛行能力を備えており\r\n空中からの爪攻撃は一層激しい。",
+      "ja": "古代文明の手により≪火竜≫の力を宿して\r\n生み出された造竜種。\r\n生殖機能をもたず、捕食も行わない代わりに\r\n竜乳そのものを摂取しエネルギー源とする。\r\n原種と同じく優れた飛行能力を備えており\r\n空中からの爪攻撃は一層激しい。",
       "en": "An artificial monster species created by\r\nan ancient civilization and imbued with\r\nRathalos's power. Guardian Rathalos cannot\r\nreproduce and do not require food, relying\r\ninstead on Wyvern Milk for energy. Just like\r\nthe original Rathalos, they are superior\r\nfliers and will attack more violently with\r\ntheir claws while airborne.",
       "fr": "Espèce de monstre artificielle créée par une\r\nancienne civilisation et imprégnée du pouvoir\r\ndu Rathalos. Le Rathalos Gardien ne peut pas\r\nse reproduire et n'a pas besoin de se nourrir.\r\nIl obtient de l'énergie grâce au lait de wyverne.\r\nTout comme le Rathalos original, il excelle en\r\nvol et attaque plus violemment avec ses griffes\r\nlorsqu'il est dans les airs.",
       "it": "Una specie artificiale creata da un'antica\r\nciviltà, che possiede i poteri del Rathalos. \r\nIl Rathalos guardiano non può riprodursi\r\ne non ha bisogno di cibo, dato che si nutre\r\ndi latte di wyvern.  Proprio come il Rathalos\r\noriginale, è abile in volo e le sue artigliate\r\nsono più efficaci mentre è in aria.",
@@ -15927,8 +17260,8 @@
       "pl": "Sztuczny gatunek potwora wyhodowany\r\nprzez starożytną cywilizację i nasycony\r\nmocą Rathalosa. Rathalos Strażnik nie\r\nmoże się rozmnażać i nie potrzebuje\r\npożywienia. Zamiast tego jego źródłem\r\nenergii jest mleko wiwerny. Podobnie\r\njak pierwotne Rathalosy świetnie lata\r\ni atakuje gwałtowniej pazurami w locie.",
       "pt-BR": "Espécie artificial de monstros criada por\r\numa civilização antiga, imbuída com o poder\r\nde Rathalos. Rathalos Guardiões não podem\r\nse reproduzir e não precisam se alimentar,\r\ntirando energia do Leite de Serpe. Assim\r\ncomo os Rathalos originais, eles são ótimos\r\nvoadores e atacam mais violentamente\r\ncom suas garras quando estão voando\r\nlivremente pelos ares.",
       "ko": "고대 문명에 의해 《화룡》의 힘을 품고\r\n만들어진 인조룡종. 생식 기능이 없고,\r\n포식도 하지 않지만 용유 자체를\r\n섭취해 에너지원으로 삼는다.\r\n원종과 마찬가지로 뛰어난 비행 능력을\r\n가지고 있어, 공중에서\r\n더 강력한 발톱 공격을 펼친다.",
-      "zh-Hant": "古代文明創造的造龍種，帶著火龍之力。不具有生\r\n殖功能，也不會捕食，靠攝取龍乳來獲取能量。具\r\n有與原種同樣的優異飛行能力，從空中施展的利爪\r\n攻擊比原種更加強勁。",
-      "zh-Hans": "古代文明创造出的造龙种，带有火龙之力。没有\r\n生殖能力，也不会捕食，靠摄取龙乳作为能量来\r\n源。具有与原种同等优秀的飞行能力，从空中发\r\n起的利爪攻击比原种更为猛烈。",
+      "zh-Hant": "古代文明創造的造龍種，帶著火龍之力。不具有生\r\n殖功能，也不會捕食，但靠攝取龍乳來獲取能量。\r\n具有與原種同樣的優異飛行能力，從空中施展的利\r\n爪攻擊比原種更加強勁。",
+      "zh-Hans": "古代文明创造出的造龙种，带有火龙之力。既没\r\n有生殖能力，也不会捕食，而是直接摄取龙乳作\r\n为能量来源。具有与原种同等优秀的飞行能力，\r\n从空中发起的利爪攻击比原种更为猛烈。",
       "ar": "سلالة وحوش اصطناعية خلّقتها حضارة\r\nقديمة مشبعة بقوة (راثالوس). لا يمكن لوحوش\r\n(راثالوس) الحارسة التكاثر ولا حاجة\r\nلها بتناول الطعام وتعتمد بدلًا من ذلك\r\nعلى حليب وايفرن للحصول على الطاقة.\r\nومثل وحوش (راثالوس) الأصلية تمامًا،\r\nفهي وحوش محلِّقة متفوقة وستهاجم\r\nبعنف أكبر بمخالبها أثناء تحليقها عاليًا.",
       "es-419": "Monstruos artificiales creados por una antigua\r\ncivilización e imbuidos con el poder del\r\nRathalos.\r\nNo pueden reproducirse, no necesitan comer\r\ny se energizan con leche de wyvern.\r\nAl igual que el Rathalos original, su vuelo\r\nes magistral, y atacarán con mayor violencia\r\ncon sus garras al estar volando."
     },

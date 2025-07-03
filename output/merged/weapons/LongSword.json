@@ -699,6 +699,160 @@
     "series_id": -621613632
   },
   {
+    "game_id": 10,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "シミターアルナジトⅠ",
+      "en": "Khanga Edge I",
+      "fr": "Lame Khanga",
+      "it": "Lama Khanga I",
+      "de": "Khanga-Schneide I",
+      "es": "Filo Khanga I",
+      "ru": "Лезвие Канги I",
+      "pl": "Klinga Khangi I",
+      "pt-BR": "Gume Khanga I",
+      "ko": "시미터알나지트Ⅰ",
+      "zh-Hant": "太刀參宿五Ⅰ",
+      "zh-Hans": "太刀参宿五Ⅰ",
+      "ar": "شفرة خانجا 1",
+      "es-419": "Hoja Khanga I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの刃を重ねた太刀。\r\n輝く金の刃は、何度研磨しても\r\n決して失われることは無い。",
+      "en": "Made of Seregios blades,\r\nits golden sheen will\r\nnever fade no matter how\r\nmany times it is polished.",
+      "fr": "En écailles de Seregios,\r\nson éclat doré résistera à\r\nd'innombrables polissages.",
+      "it": "Fatta di lame di Seregios,\r\nla sua dorata lucentezza non\r\nsvanisce mai.",
+      "de": "Ein Langschwert aus Seregios-\r\nKlingen. Wie oft man es auch\r\npoliert, sein Glanz verblasst nie.",
+      "es": "Esta arma de Seregios hace\r\ngala de un brillo dorado que\r\njamás perderá su lustre.",
+      "ru": "Изготовлено из клинков\r\nсерегиоса. Сколько его\r\nни полируй, золотое сияние\r\nне меркнет.",
+      "pl": "Zrobiona z ostrzy\r\nz Seregiosa. Jej złoty\r\npołysk nie blednie\r\nmimo polerowania.",
+      "pt-BR": "Feito de lâminas de Seregios,\r\nseu luzir dourado não desgasta,\r\npor mais que seja polido.",
+      "ko": "셀레기오스의 날을 덧댄 태도.\r\n반짝이는 금색 날은\r\n여러 번 연마해도\r\n절대 무뎌지지 않는다.",
+      "zh-Hant": "疊合千刃龍之刃而製成的太刀。閃閃\r\n發光的金色刀刃無論研磨幾次，也不\r\n會黯淡失色。",
+      "zh-Hans": "用千刃龙的刃重叠制成的太刀。金\r\n光闪闪的刀刃无论经过多少次打磨，\r\n都不会受损。",
+      "ar": "مصنوعة من نصال (سيرجيوس)،\r\nبريقها الذهبي لن يتلاشى أبدًا\r\nمهما تم صقلها عدة مرات.",
+      "es-419": "Esta arma de Seregios hace gala\r\nde un brillo dorado que jamás\r\nperderá su lustre."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 22
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 11,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛刃アルナジト",
+      "en": "Khanga Rebellion",
+      "fr": "Rébellion Khanga",
+      "it": "Orlo Khanga",
+      "de": "Khanga-Kante",
+      "es": "Rebelión de Khanga",
+      "ru": "Мятеж Канги",
+      "pl": "Bunt Khangi",
+      "pt-BR": "Rebelião Khanga",
+      "ko": "반인 알나지트",
+      "zh-Hant": "叛刃參宿五",
+      "zh-Hans": "叛刃参宿五",
+      "ar": "تمرد خانجا",
+      "es-419": "Rebelión de Khanga"
+    },
+    "descriptions": {
+      "ja": "朽ちることなきその千刃。\r\nシミターアルナジト強化形態は\r\n森羅万象を断ちきる革命の刀。",
+      "en": "A revolutionary blade,\r\nthis enhanced version of\r\nthe Khanga Edge can cut\r\nthrough absolutely anything.",
+      "fr": "Lame Khanga améliorée.\r\nCette lame révolutionnaire\r\nest capable de trancher\r\nabsolument n'importe quoi.",
+      "it": "Lama rivoluzionaria, forma\r\npotenziata della lama Khanga.\r\nPuò tagliare qualsiasi cosa.",
+      "de": "Eine verbesserte Khanga-\r\nSchneide. Eine revolutionäre\r\nKlinge, die absolut alles\r\ndurchschneidet.",
+      "es": "La versión mejorada del Filo\r\nKhanga es toda una revolución\r\nque corta hasta el aire.",
+      "ru": "Улучшенная версия «Лезвия Канги».\r\nЭтим клинком революционера\r\nможно разрезать всё что угодно.",
+      "pl": "Rewolucyjne ostrze. Lepsza\r\nwersja Klingi Khangi.\r\nPrzetnie absolutnie\r\nwszystko.",
+      "pt-BR": "Esta versão melhorada do Gume\r\nKhanga é uma arma revolucionária\r\ncapaz de cortar qualquer coisa.",
+      "ko": "녹슬지 않는 천인.\r\n시미터알나지트 강화형은\r\n삼라만상을 베어내는\r\n혁명의 검이다.",
+      "zh-Hant": "太刀參宿五強化版，永垂不朽的\r\n千刃是能夠斬斷森羅萬象的革命\r\n之刀。",
+      "zh-Hans": "绝不腐朽的千刃。太刀参宿五的强\r\n化形态，是一把斩尽世间万物的革\r\n命之刀。",
+      "ar": "نصل ثوري، هذه النسخة المُحسَّنة\r\nمن شفرة (خانجا) يمكنها قطع\r\nأي شيء على الإطلاق.",
+      "es-419": "La versión mejorada de la Hoja\r\nKhanga es toda una revolución\r\nque corta hasta el aire."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 10,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 12,
     "kind": "long-sword",
     "sharpness": {
@@ -4861,7 +5015,7 @@
       "it": "Blangongaberga",
       "de": "Blangongaberge",
       "es": "Blangongadón",
-      "ru": "Бланговый фламберг",
+      "ru": "Блангонговый фламберг",
       "pl": "Blangongaberg",
       "pt-BR": "Blangongabérgia",
       "ko": "도도블랑베르주",
@@ -6266,5 +6420,328 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 86,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "雷刀ジンライⅠ",
+      "en": "Thunderclap I",
+      "fr": "Coup de tonnerre",
+      "it": "Fragore di tuono I",
+      "de": "Donnerschlag I",
+      "es": "Tronido I",
+      "ru": "Грохот I",
+      "pl": "Trzask pioruna I",
+      "pt-BR": "Trovoada I",
+      "ko": "뇌도 진라이Ⅰ",
+      "zh-Hant": "雷刀神雷Ⅰ",
+      "zh-Hans": "雷刀神雷Ⅰ",
+      "ar": "قصف الرعد 1",
+      "es-419": "Tronido I"
+    },
+    "descriptions": {
+      "ja": "東方伝来の技術で精製された\r\nラギアクルスの太刀。その刀身には\r\n青白い稲妻が這いまわる。",
+      "en": "A Lagiacrus long sword crafted\r\nwith Eastern methods. Blue-\r\nwhite sparks run down its blade. ",
+      "fr": "Épée longue Lagiacrus\r\nde conception orientale.\r\nDes étincelles bleues et\r\nblanches parcourent sa lame.",
+      "it": "Spada lunga del Lagiacrus\r\nforgiata con metodi orientali.\r\nLungo la lama scorrono scintille\r\nbianco-azzurre.",
+      "de": "Ein Lagiacrus-Langschwert,\r\ngefertigt nach fernöstlicher\r\nTradition. Blau-weiße Funken\r\nflackern über die Klinge.",
+      "es": "Espada larga de Lagiacrus\r\nfabricada con técnicas del\r\neste. De su hoja saltan\r\nchispas blancoazuladas.",
+      "ru": "Длинный меч из лагиакруса,\r\nизготовленный по методу\r\nнародов востока. По клинку\r\nбегают бело-голубые искры.",
+      "pl": "Długi miecz z Lagiacrusa\r\nwytworzony wschodnimi\r\nmetodami. Niebiesko-białe\r\niskry przebiegają po ostrzu.",
+      "pt-BR": "Espada longa de Lagiacrus\r\nfeita usando técnicas orientais.\r\nFagulhas azuis e brancas\r\ndançam em sua lâmina.",
+      "ko": "동방에서 전해진 기술로 정제된\r\n라기아크루스의 태도.\r\n칼날에는 희푸른 번개가\r\n뻗어나간다.",
+      "zh-Hant": "以東方傳來的技術精製的海龍太刀。\r\n刀身上盤繞著青白色的閃電。",
+      "zh-Hans": "通过从东方舶来的加工技术精心制\r\n作的海龙太刀。它的刀身上盘绕着\r\n蓝白色的闪电。",
+      "ar": "سيف (لاغياكروس) طويل مصنوع\r\nبأساليب شرقية. تتناثر الشرارات\r\nالزرقاء-البيضاء على طول نصله.",
+      "es-419": "Espada larga de Lagiacrus\r\nfabricada con técnicas del este.\r\nChispas blancoazuladas corren\r\npor su hoja."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        87
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 87,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "神雷斬破刀",
+      "en": "Heaven's Thunder",
+      "fr": "Tonnerre céleste",
+      "it": "Tuono dei cieli",
+      "de": "Himmelsdonner",
+      "es": "Rayo del cielo",
+      "ru": "Гром небес",
+      "pl": "Grzmot Niebios",
+      "pt-BR": "Trovoada Celestial",
+      "ko": "신뢰참파도",
+      "zh-Hant": "神雷斬破刀",
+      "zh-Hans": "神雷斩破刀",
+      "ar": "رعد السماء",
+      "es-419": "Trueno celestial"
+    },
+    "descriptions": {
+      "ja": "強化された雷刀ジンライは天から\r\n賜りし神雷を身に纏い、神の咆哮\r\nとも呼ぶべき稲妻を放つ。",
+      "en": "An upgraded Thunderclap\r\nthat feels like wielding\r\na bolt of lightning straight\r\nfrom the heavens.",
+      "fr": "Coup de tonnerre amélioré.\r\nDonne l'impression de\r\nmanier un éclair tout droit\r\nextirpé des cieux.",
+      "it": "Fragore di tuono potenziato che\r\ndà la sensazione di brandire\r\nun fulmine disceso dal cielo.",
+      "de": "Ein verbesserter Donnerschlag.\r\nGibt einem das Gefühl, einen\r\nBlitz direkt aus dem Himmel\r\nzu leiten.",
+      "es": "Tronido mejorado. Similar\r\na blandir un relámpago\r\ndirectamente caído del cielo.",
+      "ru": "Улучшенная версия «Грохота».\r\nКажется, будто это не меч,\r\nа настоящая молния.",
+      "pl": "Ulepszony Trzask pioruna.\r\nTrzymając go, ma się\r\nwrażenie, że jest błyskawicą\r\nprosto z nieba.",
+      "pt-BR": "Trovoada melhorada. Empunhá-la\r\né como ter um raio arrancado\r\ndos céus em suas mãos.",
+      "ko": "강화된 뇌도 진라이는\r\n하늘에서 내린 신의 번개를\r\n몸에 두르고 신의 포효라 불릴\r\n번개를 쏜다.",
+      "zh-Hant": "雷刀神雷受強化後，天賜神雷盤纏\r\n刀身，能釋放宛如神之咆哮的閃電。",
+      "zh-Hans": "雷刀神雷在强化之后，周身萦绕着\r\n天赐的神雷，释放着可称之“神之\r\n咆哮”的电光。",
+      "ar": "قصف الرعد تمت ترقيته،\r\nتشعر عند استخدامه\r\nوكأنكَ تحمل صاعقة برق مباشرةً\r\nمن السماء.",
+      "es-419": "Tronido mejorado que es como\r\nblandir un relámpago caído\r\ndirectamente del cielo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 86,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 95,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 70,
+      "green": 100,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "鋼鉄ピッケル",
+      "en": "Scavenger Pickaxe",
+      "fr": "Pioche du pillard",
+      "it": "Piccone d'acciaio",
+      "de": "Plündererhacke",
+      "es": "Pico carroñero",
+      "ru": "Кирка сборщика",
+      "pl": "Kilof górnika",
+      "pt-BR": "Picareta Catador",
+      "ko": "강철 피켈",
+      "zh-Hant": "鋼鐵十字鎬",
+      "zh-Hans": "钢铁十字镐",
+      "ar": "بلطة النبّاش",
+      "es-419": "Pico carroñero"
+    },
+    "descriptions": {
+      "ja": "炭鉱夫のただならぬ情熱が染み込ん\r\nだピッケル。手にすると一心不乱に\r\n炭鉱を目指すという。分類は太刀。",
+      "en": "A pickaxe-looking long sword\r\nfilled with the spirit of its\r\nore-crazy master. Mine away!",
+      "fr": "Une pioche ressemblant à une\r\népée longue. Elle renferme\r\nl'esprit fou de son maître,\r\nun collectionneur de minerais.",
+      "it": "Una spada lunga dalle sembianze\r\ndi un piccone, che contiene lo\r\nspirito del suo padrone amante\r\ndei minerali.",
+      "de": "Ein Langschwert, das wie eine\r\nSpitzhacke geformt ist. Es ist\r\nerfüllt vom Geist seines Erz-\r\nbesessenen Meisters.",
+      "es": "Una espada larga con forma de\r\npico que contiene el espíritu de\r\nsu dueño, loco por los minerales.",
+      "ru": "Длинный меч в виде кирки, внутри\r\nкоторого живёт дух безумного\r\nгорняка. Бей-бей, не жалей!",
+      "pl": "Wyglądający jak kilof długi miecz\r\nz duszą kochającego rudę\r\nmistrza. Miłego kopania!",
+      "pt-BR": "Espada longa tipo picareta\r\nrepleta do espírito do mestre\r\nfã de minérios. Vá minerar!",
+      "ko": "광부의 열정이 깃든 곡괭이.\r\n손에 들면 일사불란하게\r\n탄광으로 향하게 된다.\r\n태도의 일종.",
+      "zh-Hant": "融入礦工非凡熱情的十字鎬。據說\r\n拿在手上會讓人心無旁鶩地專心\r\n挖煤。分類是太刀。",
+      "zh-Hans": "融入矿工非凡热情的十字镐。据说\r\n拿在手上会让人心无旁骛地专心挖\r\n煤。分类为太刀。",
+      "ar": "سيف طويل يشبه البلطة،\r\nمملوء بروح سيده المهووس بالخامات.\r\nابدأ بالتعدين!",
+      "es-419": "Una espada larga con forma de\r\npico, con el espíritu de su\r\ndueño, loco por los minerales."
+    },
+    "rarity": 7,
+    "attack_raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 10,
+        "542": 4,
+        "581": 1,
+        "769": 2
+      },
+      "previous_id": null,
+      "branches": [
+        96
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 24
+    },
+    "skills": {
+      "28385": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 96,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 10,
+      "orange": 30,
+      "yellow": 60,
+      "green": 90,
+      "blue": 100,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "鋼鉄ピッケル【採掘狂】",
+      "en": "Mad Scavenger Pickaxe",
+      "fr": "Pioche du pillard fou",
+      "it": "Piccone arcitemprato",
+      "de": "Verrückte Plündererhacke",
+      "es": "Pico carroñero loco",
+      "ru": "Кирка безумного сборщика",
+      "pl": "Kilof szalonego górnika",
+      "pt-BR": "Picareta Catador Louco",
+      "ko": "강철 피켈【채굴광】",
+      "zh-Hant": "鋼鐵十字鎬【採掘狂】",
+      "zh-Hans": "钢铁十字镐【采掘狂】",
+      "ar": "بلطة النبّاش الجنونية",
+      "es-419": "Pico carroñero demente"
+    },
+    "descriptions": {
+      "ja": "幾千と振り下ろした先で辿り着いた\r\n鋼鉄ピッケルの強化形態。見果てぬ\r\n夢を鉱脈に託し、今日も掘る。",
+      "en": "A Scavenger Pickaxe tempered by\r\nthousands of swings. Entrust your\r\ndreams to the vein, and mine.",
+      "fr": "Pioche du pillard endurcie\r\npar des milliers de coups.\r\nFaites confiance à votre\r\ninstinct, et piochez.",
+      "it": "Piccone d'acciaio temprato da\r\nmigliaia di colpi. Affida i tuoi\r\ndesideri al filone, e colpisci.",
+      "de": "Eine durch tausend Schläge ge-\r\nhärtete Plündererhacke. Dein\r\nTraum liegt begraben, du musst\r\nihn nur zutage fördern.",
+      "es": "Pico carroñero curtido por miles\r\nde golpes. Confía tus sueños a\r\nla veta y ponte a picar.",
+      "ru": "Кирка сборщика, закалённая\r\nтысячами ударов. Вверьте свои\r\nмечты руде и бейте по камню!\r\nНу, или по монстрам, дело ваше.",
+      "pl": "Kilof górnika zahartowany\r\ntysiącami zamachów.\r\nPowierz swoje marzenia\r\nżyle i kopalni.",
+      "pt-BR": "Picareta Catador calejada por\r\nmilhares de golpes. Confie seus\r\nsonhos aos veios e vá minerar.",
+      "ko": "오랜 세월 내리찍은 끝에\r\n도달한 강철 피켈 강화형.\r\n광맥에서 보지 못한 꿈을\r\n찾아 오늘도 채굴한다.",
+      "zh-Hant": "揮下十字稿數以千計次後所達成的\r\n強化版鋼鐵十字鎬。今天也要將無\r\n止境的夢寄託於礦脈，繼續採掘。",
+      "zh-Hans": "经过数千次的挥舞后达成的钢铁十\r\n字镐强化形态。将未竟的梦想托付\r\n于矿脉之上，今天也要努力挖呀！",
+      "ar": "بلطة النبّاش مُقوّية بآلاف الضربات.\r\nائتمن العروق المعدنية\r\nعلى أحلامكَ، وابدأ بالتعدين.",
+      "es-419": "Un Pico carroñero curtido por\r\nmiles de golpes. Confía tus\r\nsueños a la veta y a picar."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "545": 1,
+        "582": 10,
+        "661": 5,
+        "769": 1
+      },
+      "previous_id": 95,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 24
+    },
+    "skills": {
+      "28385": 1
+    },
+    "series_id": -547584512
   }
 ]

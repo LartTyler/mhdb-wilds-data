@@ -152,6 +152,25 @@
     }
   },
   {
+    "part": "chest",
+    "names": {
+      "ja": "胸",
+      "en": "Chest",
+      "fr": "Torse",
+      "it": "Torace",
+      "de": "Brust",
+      "es": "Torso",
+      "ru": "Грудь",
+      "pl": "Tułów",
+      "pt-BR": "Torso",
+      "ko": "가슴",
+      "zh-Hant": "胸",
+      "zh-Hans": "胸部",
+      "ar": "صدر",
+      "es-419": "Pecho"
+    }
+  },
+  {
     "part": "left-wing-legs",
     "names": {
       "ja": "左翼脚",
@@ -954,6 +973,25 @@
     }
   },
   {
+    "part": "hind-legs",
+    "names": {
+      "ja": "後脚",
+      "en": "Hind Leg",
+      "fr": "Patte arrière",
+      "it": "Zampa posteriore",
+      "de": "Hinterbein",
+      "es": "Pata trasera",
+      "ru": "Задняя лапа",
+      "pl": "Tylna noga",
+      "pt-BR": "Perna Traseira",
+      "ko": "뒷다리",
+      "zh-Hant": "後腳",
+      "zh-Hans": "后腿",
+      "ar": "ساق خلفية",
+      "es-419": "Pata trasera"
+    }
+  },
+  {
     "part": "stomach",
     "names": {
       "ja": "腹部",
@@ -1027,6 +1065,25 @@
       "zh-Hans": "左爪",
       "ar": "مخلب أيسر",
       "es-419": "Garra izquierda"
+    }
+  },
+  {
+    "part": "front-legs",
+    "names": {
+      "ja": "前脚",
+      "en": "Foreleg",
+      "fr": "Patte avant",
+      "it": "Zampa anteriore",
+      "de": "Vorderbein",
+      "es": "Pata delantera",
+      "ru": "Передняя лапа",
+      "pl": "Przednia noga",
+      "pt-BR": "Perna Dianteira",
+      "ko": "앞다리",
+      "zh-Hant": "前腳",
+      "zh-Hans": "前腿",
+      "ar": "قدم أمامية",
+      "es-419": "Pata delantera"
     }
   },
   {

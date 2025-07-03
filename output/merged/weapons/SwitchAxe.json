@@ -4666,6 +4666,168 @@
     "series_id": 1002649728
   },
   {
+    "game_id": 57,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 25
+    },
+    "names": {
+      "ja": "アクサアルダバランⅠ",
+      "en": "Aksa Switch I",
+      "fr": "Aldébaran",
+      "it": "Spadascia Aksa I",
+      "de": "Aksa-Wandlung I",
+      "es": "Hacha de Aksa I",
+      "ru": "Хлыст Аксы I",
+      "pl": "Przełącznik Aksa I",
+      "pt-BR": "Trans-Aksa I",
+      "ko": "아크사엘더바란Ⅰ",
+      "zh-Hant": "斬擊斧畢宿五Ⅰ",
+      "zh-Hans": "斩斧毕宿五Ⅰ",
+      "ar": "فأس سيف أكسا 1",
+      "es-419": "Hacha de Aksa I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの凶器性を体現した\r\n剣斧。振りかざした軌道が、\r\n金色の光帯のように見える。",
+      "en": "A switch axe that embodies the\r\ndeadly nature of a Seregios.\r\nIts attacks resemble a golden\r\nray of light.",
+      "fr": "Incarne la férocité d'un Seregios.\r\nSes attaques ressemblent à\r\nun rayon de lumière dorée.",
+      "it": "Incarna la natura mortale\r\ndi un Seregios. Sferra colpi\r\nsimili a raggi di luce dorati.",
+      "de": "Eine Morph-Axt, die den töd-\r\nlichen Charakter eines Seregios\r\nverkörpert. Ihre Angriffe\r\ngleichen goldenen Lichtstrahlen.",
+      "es": "Hacha espada que encarna\r\nla temible naturaleza del\r\nSeregios. Sus ataques son\r\nluz dorada.",
+      "ru": "Выкидной топор, воплощающий\r\nв себе опасную природу\r\nсерегиоса. Взмахи напоминают\r\nзолотые лучи света.",
+      "pl": "Topór sprężynowy ucieleśniający\r\nśmiertelną naturę Seregiosa.\r\nAtaki tworzą złote promienie.",
+      "pt-BR": "Machado que carrega a natureza\r\nletal do Seregios. Seus ataques\r\nparecem raios de luz dourados.",
+      "ko": "셀레기오스의 흉악함을 구현한\r\n슬래시액스. 휘두른 궤도가\r\n금빛 띠처럼 보인다.",
+      "zh-Hant": "體現了千刃龍凶性的斬擊斧。揮舞時\r\n的軌跡宛如一道金色光帶。",
+      "zh-Hans": "体现千刃龙凶性的斩斧。斩斧挥出\r\n的轨迹宛若一条金色的光带。",
+      "ar": "فأس سيف تجسّد الطبيعة القاتلة\r\nلـ(سيرجيوس). هجماته تُشبه\r\nشعاعًا ذهبيًا من الضوء.",
+      "es-419": "Hacha espada que encarna la\r\nmortal naturaleza del Seregios.\r\nSus ataques emiten una luz\r\ndorada."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 58,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "dragon",
+      "raw": 30
+    },
+    "names": {
+      "ja": "叛伐斧アルダバラン",
+      "en": "Baran Defiance",
+      "fr": "Fomalhaut",
+      "it": "Sprezzo di Baran",
+      "de": "Barans Trotz",
+      "es": "Desafío de Baran",
+      "ru": "Дерзкий упрямец",
+      "pl": "Opór Barana",
+      "pt-BR": "Rebeldia Baran",
+      "ko": "반벌부 엘더바란",
+      "zh-Hant": "叛伐斧畢宿五",
+      "zh-Hans": "叛伐斧毕宿五",
+      "ar": "تحدي باران",
+      "es-419": "Desafío de Baran"
+    },
+    "descriptions": {
+      "ja": "アクサアルダバラン強化型は\r\n無窮の剣斧。尽きぬ意志が、\r\n新たな革命の狼煙をあげる。",
+      "en": "An enhanced form of the Aksa\r\nSwitch. It's wielded by those with\r\nan unquenched spirit of rebellion.",
+      "fr": "Aldébaran améliorée.\r\nSeul un esprit rebelle est\r\ncapable de la manier.",
+      "it": "Spadascia Aksa potenziata.\r\nBrandita da chi possiede un\r\nindomabile spirito ribelle.",
+      "de": "Eine verbesserte Version der\r\nAksa-Wandlung. Die Waffe\r\njener, die unermüdlich Wider-\r\nstand leisten.",
+      "es": "Hacha de Aksa mejorada. Apta\r\nsolo para quienes muestran un\r\nansia insaciable de rebelión.",
+      "ru": "Улучшенный «Хлыст Аксы».\r\nОружие тех, в ком пылает\r\nнеумолимый бунтарский дух.",
+      "pl": "Ulepszona forma Przełącznika\r\nAksa. Dzierżyć go mogą\r\nniezłomni rebelianci.",
+      "pt-BR": "Forma melhorada do Trans-Aksa.\r\nBrandida por aqueles que possuem\r\no espírito indômito da rebelião.",
+      "ko": "아크사엘더바란 강화형은\r\n무한한 슬래시액스.\r\n한결같은 의지가\r\n새로운 혁명의 봉화를 올린다.",
+      "zh-Hant": "強化版斬擊斧畢宿五乃無窮之斬擊\r\n斧。永不停歇的意志將升起新的革\r\n命狼煙。",
+      "zh-Hans": "斩斧毕宿五的强化版，是一把无穷\r\n无尽的斩斧。永不湮灭的意志将升\r\n起崭新的革命狼烟。",
+      "ar": "شكل مُحسَّن من فأس سيف (أكسا).\r\nيستخدمها أولئك الذين لديهم\r\nروح ثائرة لا تخمد.",
+      "es-419": "Hacha de Aksa mejorada. Apta\r\npara aquellos con espíritu\r\ninsaciable de rebelión."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 59,
     "kind": "switch-axe",
     "sharpness": {
@@ -5909,5 +6071,180 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 77,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ボルトアックスⅠ",
+      "en": "Bolt Axe I",
+      "fr": "Hache éclair",
+      "it": "Ascia tuono I",
+      "de": "Blitzaxt I",
+      "es": "Hacha relámpago I",
+      "ru": "Грозовой топор I",
+      "pl": "Topór pioruna I",
+      "pt-BR": "Machado Fulmíneo I",
+      "ko": "볼트액스Ⅰ",
+      "zh-Hant": "雷光戰斧Ⅰ",
+      "zh-Hans": "雷光战斧Ⅰ",
+      "ar": "فأس الصاعقة 1",
+      "es-419": "Hacha relámpago I"
+    },
+    "descriptions": {
+      "ja": "海竜ラギアクルスの力を利用した、\r\n雷の力を内包する狩猟斧。\r\n斬り込めば蒼き光が炸裂する。",
+      "en": "A switch axe that channels\r\nthe Lagiacrus's power. With\r\neach slash, azure lightning\r\nblooms.",
+      "fr": "Morpho-hache qui canalise\r\nle pouvoir du Lagiacrus.\r\nChaque coup produit des\r\néclairs d'un bleu azur.",
+      "it": "Un'ascia che incanala il potere\r\ndel Lagiacrus. Ogni colpo\r\nsprigiona un fulmine azzurro.",
+      "de": "Eine Morph-Axt, die die Macht\r\ndes Lagiacrus in sich bündelt.\r\nMit jedem Hieb knistern blaue\r\nBlitze.",
+      "es": "Hacha espada que canaliza\r\nel poder del Lagiacrus.\r\nCon cada tajo hace brotar\r\nrelámpagos celestiales.",
+      "ru": "Выкидной топор, сквозь который\r\nструится сила лагиакруса. После\r\nкаждого удара расцветает\r\nлазурная молния.",
+      "pl": "Topór sprężynowy, który skupia i\r\nkieruje moc Lagiacrusa. Przy każdym\r\ncięciu strzela błękitnymi\r\nbłyskawicami.",
+      "pt-BR": "Machado que canaliza o poder de\r\nLagiacrus. Relâmpagos cerúleos\r\ncintilam em cada corte.",
+      "ko": "해룡 라기아크루스의 힘을\r\n이용해 번개의 힘을 품은\r\n사냥 도끼. 휘두르면 푸른\r\n불빛이 작렬한다.",
+      "zh-Hant": "運用海龍之力、內藏雷電之力的斬擊\r\n斧。砍入目標時將散發蒼藍之光。",
+      "zh-Hans": "利用海龙的力量，容纳雷霆之力的\r\n狩猎斧。每一记斩击都会绽放出苍\r\n蓝色光芒。",
+      "ar": "فأس سيف يسخِّر قوة (لاغياكروس).\r\nمع كل ضربة، يتوهج برق\r\nأزرق سماوي.",
+      "es-419": "Hacha espada que canaliza el\r\npoder del Lagiacrus. Cada tajo\r\nlibera relámpagos celestiales."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 22
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 78,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "ハイボルトアックス",
+      "en": "High Bolt Axe",
+      "fr": "Grande hache éclair",
+      "it": "Ascia tuono alta",
+      "de": "Hohe Blitzaxt",
+      "es": "Gran hacha relámpago",
+      "ru": "Высший грозовой топор",
+      "pl": "Wzmocniony topór pioruna",
+      "pt-BR": "Machado Fulmíneo Superior",
+      "ko": "하이볼트액스",
+      "zh-Hant": "高壓雷光戰斧",
+      "zh-Hans": "高压雷光战斧",
+      "ar": "فأس الصاعقة المطورة",
+      "es-419": "Alta hacha relámpago"
+    },
+    "descriptions": {
+      "ja": "最新の技術をつぎ込む事で、内包\r\nする雷流の圧力を極限にまで高めた\r\nボルトアックス強化形態。",
+      "en": "The Bolt Axe's upgraded form.\r\nIts electric currents have\r\nreached their highest voltage.",
+      "fr": "Hache éclair améliorée.\r\nSes courants électriques ont\r\natteint leur tension maximale.",
+      "it": "Forma potenziata dell'ascia\r\ntuono. Le sue scariche\r\nelettriche hanno raggiunto\r\nun voltaggio smodato.",
+      "de": "Eine verbesserte Blitzaxt.\r\nSo stark geladen, dass man\r\ngeradezu schockiert ist.",
+      "es": "Forma mejorada de hacha\r\nrelámpago. Las corrientes\r\neléctricas han alcanzado el\r\nmáximo voltaje.",
+      "ru": "Улучшенная версия «Грозового\r\nтопора». Его электрические\r\nразряды бьют наповал.",
+      "pl": "Ulepszona wersja topora\r\npioruna. Jego prądy elektryczne\r\nosiągnęły najwyższe napięcie.",
+      "pt-BR": "Machado Fulmíneo melhorado.\r\nSuas correntes elétricas atingem\r\na maior voltagem possível.",
+      "ko": "최신 기술을 주입하여\r\n내포된 뇌류의 압력을\r\n극한까지 끌어올린\r\n볼트액스 강화형.",
+      "zh-Hant": "雷光戰斧強化版。利用了最新技術，\r\n使內藏的電流壓力提升至極限。",
+      "zh-Hans": "雷光战斧的强化形态。采用最新技\r\n术将容纳的电流的压力推高到极限。",
+      "ar": "الشكل المُحسَّن من فأس الصاعقة.\r\nتياراته الكهربائية وصلت إلى أعلى\r\nجهد لها.",
+      "es-419": "Hacha relámpago mejorada.\r\nLas corrientes eléctricas\r\nalcanzan el máximo voltaje."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 30,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 77,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
   }
 ]

@@ -5056,6 +5056,160 @@
     "series_id": 1094733056
   },
   {
+    "game_id": 64,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "ザクンアルギエバⅠ",
+      "en": "Zakun Twins I",
+      "fr": "Jumeaux Zakun",
+      "it": "Gemelli Zakun I",
+      "de": "Zakun-Zwillinge I",
+      "es": "Gemelas Zakun I",
+      "ru": "Закун-близнецы I",
+      "pl": "Bliźniaczy Zakun I",
+      "pt-BR": "Gêmeas Zakun I",
+      "ko": "자쿤알기에바Ⅰ",
+      "zh-Hant": "巨顎軒轅十二Ⅰ",
+      "zh-Hans": "双剑轩辕十二Ⅰ",
+      "ar": "توأم زاكون 1",
+      "es-419": "Gemelas de Zakun I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの爪を模した双剣。\r\n鎌のごときその刃は、いかなる障害\r\nをも雑草のように刈り取っていく。",
+      "en": "Dual blades resembling Seregios\r\ntalons. Like sickles, their edges\r\ncut down any obstacles as\r\nthough they were mere weeds.",
+      "fr": "Semblables à des serres de\r\nSeregios. Leurs lames tranchent\r\nles obstacles comme des faucilles\r\nqui coupent de mauvaises herbes.",
+      "it": "Doppie lame che ricordano gli\r\nartigli di Seregios. Come falci,\r\nle loro lame abbattono qualsiasi\r\nostacolo con facilità.",
+      "de": "Doppelklingen, die Seregios-\r\nKlauen ähneln. Die sichel-\r\nartigen Schneiden mähen\r\nHindernisse wie Gras nieder.",
+      "es": "Espadas dobles semejantes a\r\ngarras de Seregios. Sus filos\r\nafiladísimos lo cortan todo\r\ncomo si fueran hierbajos.",
+      "ru": "Парные клинки, похожие на когти\r\nсерегиоса. Подобно серпам,\r\nих лезвия срезают любые\r\nпрепятствия, будто траву.",
+      "pl": "Podwójne ostrza przypominające\r\nszpony Seregiosa. Niczym sierpy,\r\nprzecinają wszystko jak gdyby\r\nbyły zwykłymi źdźbłami.",
+      "pt-BR": "Duplas-lâminas semelhantes\r\nàs garras de Seregios. Cortam\r\nseus obstáculos como foices\r\nrasgando ervas daninhas.",
+      "ko": "셀레기오스의 발톱을 본뜬\r\n쌍검. 낫처럼 생긴 날이\r\n온갖 방해물을 잡초처럼 벤다.",
+      "zh-Hant": "仿造千刃龍爪子製作的雙劍。宛如\r\n鐮刀的刀刃能斬除一切阻礙，如同\r\n割去雜草。",
+      "zh-Hans": "形似千刃龙之爪的双剑。剑刃如镰\r\n刀，撕裂阻碍如刀割草芥，所向披\r\n靡。",
+      "ar": "نصال مزدوجة تشبه مخالب\r\n(سيرجيوس). كالمناجل، تقطع\r\nحوافها أي عوائق كما لو كانت\r\nمجرد أعشاب ضارة.",
+      "es-419": "Espadas dobles que parecen\r\ngarras de Seregios. Como una\r\nhoz, su filo corta cualquier\r\nobstáculo como si fuera pasto."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        65
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 25
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 65,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛爪アルギエバ",
+      "en": "Terrible Twins",
+      "fr": "Jumelles terribles",
+      "it": "Gemelli terribili",
+      "de": "Böse Zwillinge",
+      "es": "Gemelas terribles",
+      "ru": "Ужасные близнецы",
+      "pl": "Okropne bliźnięta",
+      "pt-BR": "Gêmeas Terríveis",
+      "ko": "반조 알기에바",
+      "zh-Hant": "叛爪軒轅十二",
+      "zh-Hans": "叛爪轩辕十二",
+      "ar": "التوأم المروع",
+      "es-419": "Gemelas terribles"
+    },
+    "descriptions": {
+      "ja": "衰滅を知らぬ革命の双刃。\r\n強化されたザクンアルギエバは、\r\n万物を切り裂き続ける。",
+      "en": "The Zakun Twins's upgraded\r\nform. These sharp talons have\r\nunmatched cutting power.",
+      "fr": "Jumeaux Zakun améliorés.\r\nCes serres découpent avec\r\nune puissance incomparable.",
+      "it": "Gemelli Zakun potenziati.\r\nQuesti artigli affilati sono\r\ntaglienti come nulla al mondo.",
+      "de": "Verbesserte Zakun-Zwillinge.\r\nDie Schärfe dieser Krallen ist\r\nvon unerreichter Qualität.",
+      "es": "Gemelas Zakun mejoradas. Nada\r\ncorta más que estas afiladas\r\nzarpas.",
+      "ru": "Улучшенные «Закун-близнецы».\r\nЭти острые клинки разрежут\r\nчто угодно.",
+      "pl": "Ulepszony Bliźniaczy Zakun.\r\nOstre szpony o niezrównanej\r\nmocy przecinania.",
+      "pt-BR": "Gêmeas Zakun melhoradas.\r\nEstas garras afiadas têm um\r\npoder de corte sem igual.",
+      "ko": "멸망을 모르는 혁명의 쌍인.\r\n강화된 자쿤알기에바는\r\n만물을 끊임없이 찢어발긴다.",
+      "zh-Hant": "強化版巨顎軒轅十二是永不衰滅的\r\n革命雙刃，會不斷撕裂萬物。",
+      "zh-Hans": "不会衰亡的革命双刃。强化后的双\r\n剑轩辕十二，撕裂万物，永无止境。",
+      "ar": "الشكل الذي تمت ترقيته\r\nمن توأم (زاكون). تمتاز\r\nهذه المخالب الحادة بقوة\r\nقطع لا مثيل لها.",
+      "es-419": "Gemelas de Zakun mejoradas.\r\nNada se compara al corte\r\nde estas afiladas zarpas."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 25
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 66,
     "kind": "dual-blades",
     "sharpness": {
@@ -6118,7 +6272,7 @@
       "it": "Arpe di Veldian potenziate.\r\nCambiano forma quando\r\nil demone in chi le\r\nimpugna si risveglia.",
       "de": "Verbesserte Arkveld-Harpes.\r\nSie scheinen ihre Gestalt zu\r\nändern, wenn der Dämon in\r\nder Seele des Trägers erwacht.",
       "es": "Harpes veldianas mejoradas.\r\nCuando despierta el demonio en el\r\nalma del portador, parece cambiar\r\nsu forma en respuesta.",
-      "ru": "Улучшенные «Стражевые арфы».\r\nКогда в душе их владельца\r\nпробуждается демон, отзываются,\r\nменяя форму.",
+      "ru": "Улучшенные «Вельдовые арфы».\r\nКогда в душе их владельца\r\nпробуждается демон, они\r\nотзываются, меняя форму.",
       "pl": "Ulepszone Wiweriańskie Harpesy.\r\nGdy demon w duszy ich posiadacza\r\nsię budzi, zdają się zmieniać\r\nformę w odpowiedzi.",
       "pt-BR": "Harpes Veldianas melhoradas.\r\nQuando o demônio na alma de seu\r\nportador acorda, parecem mudar\r\nde forma em resposta.",
       "ko": "알슈하르페의 강화형.\r\n주인이 귀인이 될 때\r\n혼이 공명하듯 모습을 바꾼다.",
@@ -6498,5 +6652,174 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 87,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 90,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ツインクルスⅠ",
+      "en": "Twin Acrus I",
+      "fr": "Jumelles Acrus",
+      "it": "Acrus gemelli I",
+      "de": "Zwillings-Acrus I",
+      "es": "Acrus gemelas I",
+      "ru": "Близнецы Акрус I",
+      "pl": "Bliźniaczy Acrus I",
+      "pt-BR": "Acrus Gêmeas I",
+      "ko": "트윈크루스Ⅰ",
+      "zh-Hant": "雙海龍劍Ⅰ",
+      "zh-Hans": "双海龙剑Ⅰ",
+      "ar": "توأم أكروس 1",
+      "es-419": "Acrus gemelas I"
+    },
+    "descriptions": {
+      "ja": "ターコイズブルーの色彩に目を奪わ\r\nれる、ラギアクルスの双刃。発する\r\n雷撃がその刀身をより輝かせる。",
+      "en": "Eye-catching Lagiacrus dual\r\nblades of turquoise. The\r\nlightning they release makes\r\nthem shine even brighter.",
+      "fr": "Lames doubles Lagiacrus\r\nturquoise très vives. Elles\r\nbrillent encore plus lorsqu'elles\r\nlibèrent leur courant électrique.",
+      "it": "Doppie lame di Lagiacrus\r\nturchesi e appariscenti. Il\r\nfulmine che rilasciano le fa\r\nbrillare ancora di più.",
+      "de": "Auffällige Lagiacrus-Doppel-\r\nklingen. Die Blitze, die sie\r\nentfesseln, lassen sie noch\r\nheller erstrahlen.",
+      "es": "Espadas dobles de color\r\nturquesa vívido. Los rayos\r\nque lanzan les dan un\r\nbrillo aún más intenso.",
+      "ru": "Бирюзовые парные клинки\r\nиз трофеев с лагиакруса.\r\nБлестят ещё ярче в свете\r\nсоздаваемых ими молний.",
+      "pl": "Przyciągające oko podwójne\r\nturkusowe ostrza z Lagiacrusa.\r\nEmitowane przez nie światło\r\nsprawia, że błyszczą jaśniej.",
+      "pt-BR": "Duplas-lâminas turquesas de\r\nLagiacrus. Os raios que liberam\r\nas fazem brilhar ainda mais.",
+      "ko": "청록빛에 시선을 빼앗기는\r\n라기아크루스의 쌍인.\r\n번쩍이는 뇌격이 칼날을\r\n더욱 빛나게 한다.",
+      "zh-Hant": "刀身呈綠松色，光彩奪目的海龍雙\r\n刃。釋放的雷擊令刀身更加輝煌。",
+      "zh-Hans": "有着摄人心魄的天青色的海龙双刃。\r\n它发出的雷击让剑身更加熠熠生辉。",
+      "ar": "نصال (لاغياكروس) المزدوجة\r\nاللافتة للنظر بلونها الفيروزي.\r\nالبرق الذي تُطلقه يزيدها لمعانًا.",
+      "es-419": "Llamativas espadas dobles de\r\nLagiacrus color turquesa. Los\r\nrelámpagos que lanzan hacen que\r\nbrillen con aún más intensidad."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 20,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        88
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 26
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 88,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 70,
+      "blue": 60,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "雷双剣ツインクルス",
+      "en": "Levin Acrus",
+      "fr": "Levin Acrus",
+      "it": "Acrus saettanti",
+      "de": "Levin-Acrus",
+      "es": "Levin Acrus",
+      "ru": "Левин Акрус",
+      "pl": "Levin Acrus",
+      "pt-BR": "Acrus Levin",
+      "ko": "뇌쌍검 트윈크루스",
+      "zh-Hant": "雷雙劍雙海龍",
+      "zh-Hans": "雷双剑双海龙",
+      "ar": "ليفين أكروس",
+      "es-419": "Acrus Levin"
+    },
+    "descriptions": {
+      "ja": "凄烈なる２つの剛雷を纏いし、\r\n強化型ツインクルス。\r\n天海に名を轟かせる雷双剣。",
+      "en": "Upgraded Twin Acrus dual\r\nblades. Their thunder rocks\r\nacross the heavens themselves.",
+      "fr": "Jumelles Acrus améliorées.\r\nLa foudre qu'elles produisent\r\nfait trembler les cieux.",
+      "it": "Doppie lame Acrus gemelli\r\npotenziate. Il loro tuono scuote\r\ni cieli stessi.",
+      "de": "Verbesserte Zwillings-Acrus-\r\nDoppelklingen. Ihr Donner\r\nerschüttert selbst den Himmel.",
+      "es": "Espadas dobles Acrus gemelas\r\nmejoradas. Su trueno sacude\r\nhasta el mismísimo cielo.",
+      "ru": "Улучшенные «Близнецы Акрус».\r\nИх громыхание слышно даже\r\nна небесах.",
+      "pl": "Ulepszone podwójne ostrza\r\nBliźniaczego Acrusa.\r\nIch grom wstrząsa\r\nniebiosami w posadach.",
+      "pt-BR": "Acrus Gêmeas melhoradas. Seu\r\ntrovão retumba através dos céus.",
+      "ko": "격렬하고 맹렬한 번개 두 개를\r\n두른 강화형 트윈크루스.\r\n하늘과 바다에 이름을 떨친\r\n번개의 쌍검.",
+      "zh-Hant": "刀身帶有兩道猛烈剛雷的強化版\r\n雙海龍劍。是名震天海的雷雙劍。",
+      "zh-Hans": "周身缠绕着汹涌刚猛雷电的强化版双\r\n海龙剑。乃是名震天海的雷之双剑。",
+      "ar": "نصال توأم (أكروس) المزدوجة\r\nتمت ترقيتها. رعدها يهز\r\nالسماوات نفسها.",
+      "es-419": "Espadas Acrus gemelas mejoradas.\r\nSu trueno hace temblar\r\nhasta el mismísimo cielo."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 25,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 87,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 26
+    },
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "series_id": -1122003456
   }
 ]

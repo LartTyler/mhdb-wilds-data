@@ -695,7 +695,7 @@
       "it": "Dominatore ossoduro",
       "de": "Hartknochen-Schläger",
       "es": "Aspa ósea dura",
-      "ru": "Крепкий кост. ш.-нож",
+      "ru": "Крепкий штык-нож",
       "pl": "Twarda kośc. siłówka",
       "pt-BR": "Braço Ósseo Duro",
       "ko": "하드본암즈",
@@ -1881,7 +1881,7 @@
       "it": "Uth Valeroje II",
       "de": "Uth Valeroje II",
       "es": "Uth Valeroje II",
-      "ru": "Утдуновый щит волн I",
+      "ru": "Утдуновый щит волн II",
       "pl": "Falująca tarcza Utha II",
       "pt-BR": "Uth Valeroje II",
       "ko": "우드 발레로야Ⅱ",
@@ -4986,6 +4986,162 @@
     "series_id": -2118986496
   },
   {
+    "game_id": 62,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "アスラトアルマイサⅠ",
+      "en": "Aslat Charger I",
+      "fr": "Chargeur Aslat",
+      "it": "Carica Aslat I",
+      "de": "Aslat-Angreifer I",
+      "es": "Carga oblicua I",
+      "ru": "Заряд Аслата I",
+      "pl": "Ładownik Aslata I",
+      "pt-BR": "Energizadora Aslat I",
+      "ko": "아슬라트알마이서Ⅰ",
+      "zh-Hant": "神魔觜宿一Ⅰ",
+      "zh-Hans": "盾斧觜宿一Ⅰ",
+      "ar": "شاحن أسلات 1",
+      "es-419": "Carga oblicua I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの素材を美しく重ねた\r\n盾斧。金色に輝くその刃は、革命を\r\n志す者にとって希望の光となる。",
+      "en": "An elegant Seregios charge blade.\r\nIts shining, golden blade serves\r\nas a beacon of hope for those\r\nwho aspire to revolution.",
+      "fr": "Superbe volto-hache Seregios.\r\nSa lame dorée brillante est une\r\nlueur d'espoir pour tous ceux\r\nqui aspirent à se révolter.",
+      "it": "Una squisita lama caricata di\r\nSeregios. La sua lama dorata e\r\nlucente è un faro di speranza\r\nper chi anela alla rivoluzione.",
+      "de": "Eine elegante Seregios-Energie-\r\nklinge. Ihr Strahlen dient als\r\nLeuchtfeuer der Hoffnung für\r\nalle, die nach Revolution rufen.",
+      "es": "Hacha cargada de Seregios.\r\nSu hoja brillante y dorada da\r\nun punto de esperanza a quienes\r\nsueñan con una revolución.",
+      "ru": "Красивый силовой клинок\r\nиз серегиоса. Блестящее золотое\r\nлезвие внушает надежду всем,\r\nкто жаждет революции.",
+      "pl": "Cudowne ładowane ostrze\r\nz Seregiosa. Jego lśniące złote\r\nostrze tli się jako nadzieja dla\r\npragnących rewolucji.",
+      "pt-BR": "Lâmina dínamo de Seregios.\r\nSua lâmina dourada e brilhante\r\nserve como um farol de esperança\r\npara quem aspira à revolução.",
+      "ko": "셀레기오스의 소재를 아름답게\r\n쌓아 올린 차지액스. 금빛으로\r\n빛나는 칼날은 혁명을\r\n바라는 자에게 희망의 빛 되리.",
+      "zh-Hant": "將千刃龍素材漂亮地交疊在一起製成\r\n的充能斧。閃耀著金光的鋒刃是志在\r\n革命者的希望之光。",
+      "zh-Hans": "以千刃龙素材巧妙堆叠打造而成的\r\n盾斧。金光闪耀的刃锋，化作心怀\r\n革命志向之人的希望之光。",
+      "ar": "نصل مشحون لـ(سيرجيوس) رائع.\r\nنصله الذهبي اللامع يعد بمثابة شعلة أمل\r\nلأولئك الذين يطمحون إلى الثورة.",
+      "es-419": "Una hermosa hacha cargada de\r\nSeregios. Su radiante hoja es\r\nuna luz de esperanza para todo\r\naquel que aspira a una rebelión."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 63,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛盾斧アルマイサ",
+      "en": "Rebellious Charger",
+      "fr": "Chargeur rebelle",
+      "it": "Carica ribelle",
+      "de": "Rebellischer Angreifer",
+      "es": "Carga rebelde",
+      "ru": "Мятежный заряд",
+      "pl": "Buntowniczy Ładownik",
+      "pt-BR": "Energizadora Rebelde",
+      "ko": "반순부 알마이서",
+      "zh-Hant": "叛充能斧觜宿一",
+      "zh-Hans": "叛盾斧觜宿一",
+      "ar": "شاحن ثائر",
+      "es-419": "Carga rebelde"
+    },
+    "descriptions": {
+      "ja": "革命者の矜持はこの黄金の刃に\r\n宿る。アスラトアルマイサの\r\n強化型を携え、世界を壊せ。",
+      "en": "The spirit of revolution lies\r\nwithin its golden blade. Wield\r\nthe upgraded Aslat Charger\r\nand rend the world asunder.",
+      "fr": "Chargeur Aslat amélioré. Sa\r\nlame dorée renferme l'esprit\r\nde la révolution, avec pour\r\nbut de renverser l'ordre établi.",
+      "it": "Lo spirito della rivoluzione\r\nrisiede nella sua lama dorata.\r\nImpugna la Carica Aslat\r\npotenziata e devasta il mondo.",
+      "de": "In der goldenen Klinge liegt der\r\nGeist der Revolution. Schwinge\r\nden verbesserten Aslat-Angreifer\r\nund teile die Welt entzwei.",
+      "es": "Un espíritu revolucionario habita\r\nen el interior de la hoja dorada.\r\nBlande la carga oblicua mejorada\r\ny siembra el caos en el mundo.",
+      "ru": "В золотом клинке заключён дух\r\nреволюции. Возьмите улучшенный\r\n«Заряд Аслата» и разорвите мир\r\nв клочья.",
+      "pl": "W złotym ostrzu kryje się duch\r\nrewolucji. Noś ulepszony\r\nŁadownik Aslata i rozdzieraj\r\nświat na strzępy.",
+      "pt-BR": "O espírito da revolução reside\r\nem sua lâmina dourada.\r\nEmpunhe a Energizadora Aslat\r\nmelhorada e mude o mundo.",
+      "ko": "혁명가의 긍지는 황금 칼날에\r\n깃든다. 아슬라트알마이서\r\n강화형을 들고 세계를 부숴라.",
+      "zh-Hant": "革命者的驕傲藏於此黃金之刃。帶上\r\n強化版神魔觜宿一，將世界破壞殆盡\r\n吧。",
+      "zh-Hans": "革命者的骄傲寄宿于此黄金之刃。\r\n盾斧觜宿一的强化型，将世界破坏\r\n殆尽吧。",
+      "ar": "روح الثورة تكمن في نصله الذهبي.\r\nاستخدم شاحن (أسلات) الذي تمت ترقيته\r\nودمِّر العالم بأسره.",
+      "es-419": "Un espíritu revolucionario vive\r\nen el interior de la hoja dorada.\r\nBlande la carga oblicua mejorada\r\ny siembra el caos en el mundo."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 21
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 64,
     "kind": "charge-blade",
     "phial": "element",
@@ -6197,5 +6353,176 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 82,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ラギアストロムⅠ",
+      "en": "Lagia Storm I",
+      "fr": "Tempête Lagia",
+      "it": "Tempesta Lagia I",
+      "de": "Lagia-Sturm I",
+      "es": "Tormenta de Lagia I",
+      "ru": "Лагиева буря I",
+      "pl": "Burza Lagii I",
+      "pt-BR": "Tormenta de Lagia I",
+      "ko": "라기아스트롬Ⅰ",
+      "zh-Hant": "海龍漩渦Ⅰ",
+      "zh-Hans": "海龙暴风雨Ⅰ",
+      "ar": "عاصفة لاغيا",
+      "es-419": "Tormenta de Lagia I"
+    },
+    "descriptions": {
+      "ja": "蒼海に渦潮を発生させるラギア\r\nクルスの素材を用いた盾斧。狩猟の\r\n開始を告げる雷鳴が辺りに轟く。",
+      "en": "A charge blade made of Lagiacrus\r\nmaterials. Signals the start of\r\na hunt with the roar of thunder.",
+      "fr": "Une volto-hache faite à base de\r\nLagiacrus. Elle signale le début\r\nd'une chasse d'un grondement\r\nde tonnerre rugissant.",
+      "it": "Una lama caricata realizzata con\r\nmateriali di Lagiacrus. Segnala\r\nl'inizio di una caccia con il\r\nrombo del tuono.",
+      "de": "Eine Energieklinge aus\r\nLagiacrus-Material.\r\nIhr Donnergrollen kündigt\r\nden Beginn einer Jagd an.",
+      "es": "Hacha cargada hecha con\r\nmateriales de Lagiacrus.\r\nMarca el inicio de la cacería\r\ncon el rugido de un trueno.",
+      "ru": "Силовой клинок из материалов,\r\nдобытых с лагиакруса. Возвещает\r\nо начале охоты рёвом бури.",
+      "pl": "Ładowane ostrze z materiałów\r\nz Lagiacrusa. Sygnalizuje\r\npoczątek polowania\r\nrykiem grzmotu.",
+      "pt-BR": "Lâmina dínamo feita de partes\r\nde Lagiacrus. Sinaliza o começo\r\nde uma caçada com o ribombo\r\nde um trovão.",
+      "ko": "창해에 소용돌이를 일으키는\r\n라기아크루스 소재의 차지액스.\r\n사냥의 시작을 알리는\r\n천둥소리가 울려 퍼진다.",
+      "zh-Hant": "以在蒼海掀起漩渦的海龍素材製作的\r\n充能斧。響徹四方的雷鳴會宣告狩獵\r\n開始。",
+      "zh-Hans": "使用苍海中卷起漩涡的海龙的素材\r\n打造而成的盾斧。响彻四方的雷鸣\r\n宣告着狩猎的开始。",
+      "ar": "نصل مشحون مصنوع من مواد (لاغياكروس).\r\nينذر ببدء الصيد بهدير الرعد.",
+      "es-419": "Un hacha cargada hecha con\r\nmateriales de Lagiacrus. Marca\r\nel inicio de una cacería con\r\nun rugido atronador."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 22
+    },
+    "skills": {
+      "-596764096": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 83,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "雷盾斧ヴァンクロム",
+      "en": "Vankrom Blade",
+      "fr": "Volto-hache Vankrom",
+      "it": "Lama Vankrom",
+      "de": "Vankrom-Klinge",
+      "es": "Hoja Vankrom",
+      "ru": "Клинок Ванкрома",
+      "pl": "Ostrze Vankrom",
+      "pt-BR": "Lâmina Vankrom",
+      "ko": "뇌순부 뱅크롬",
+      "zh-Hant": "雷盾斧勝者漩渦",
+      "zh-Hans": "雷盾斧胜者漩涡",
+      "ar": "نصل فانكروم",
+      "es-419": "Hoja de Vankrom"
+    },
+    "descriptions": {
+      "ja": "強化によって、大洋を統べる海竜の\r\n力を封じ込めたラギアストロム。\r\n激しき渦雷は蒼海を断ち斬る。",
+      "en": "An upgraded Lagia Storm imbued\r\nwith the power of Lagiacrus, lord\r\nof the seas. Its vicious tempest\r\ncarves a swathe through the sea.",
+      "fr": "Tempête Lagia améliorée.\r\nImprégnée de la puissance du\r\nLagiacrus, les tempêtes qu'elle\r\ncrée peuvent fendre la mer.",
+      "it": "Una Tempesta Lagia potenziata,\r\nintrisa del potere di Lagiacrus,\r\nSignore dei mari. La sua\r\ntempesta feroce fende i mari.",
+      "de": "Eine verbesserte Version der\r\nLagia-Sturm, erfüllt mit der\r\nMacht des Lagiacrus. Der von ihr\r\nentfesselte Sturm teilt Meere.",
+      "es": "Tormenta de Lagia mejorada e\r\nimbuida con poder de Lagiacrus,\r\nel rey de los mares. La tempestad\r\nabre un nuevo camino en el mar.",
+      "ru": "Улучшенная «Лагиева буря»,\r\nнаполненная силой лагиакруса,\r\nВладыки морей. Рассекает океаны\r\nнадвое жестокими штормами.",
+      "pl": "Ulepszona Burza Lagii,\r\nnasycona mocą Lagiacrusa,\r\nwładcy oceanów. Gwałtowna\r\nnawałnica przecina morze.",
+      "pt-BR": "Tormenta de Lagia melhorada,\r\nimbuída do poder de Lagiacrus,\r\nsenhor dos mares. Uma tormenta\r\nviolenta capaz de partir oceanos.",
+      "ko": "강화를 통해 대양을 지배하는 해룡의\r\n힘을 담은 라기아스트롬.\r\n격렬한 와뢰가 창해를 가른다.",
+      "zh-Hant": "強化版海龍漩渦，帶有稱霸大海的\r\n海龍之力。猛烈的雷電漩渦會劈開\r\n蒼海。",
+      "zh-Hans": "海龙暴风雨的强化形态，封印了称\r\n霸海洋的海龙之力，激烈的雷电漩\r\n涡劈开苍海。",
+      "ar": "عاصفة (لاغيا) تمت ترقيتها،\r\nمُشبعة بقوة (لاغياكروس)، سيد البحار.\r\nعاصفتها العاتية تشقّ طريقها عبر البحر.",
+      "es-419": "Una tormenta de Lagia mejorada\r\ne imbuida con el poder del señor\r\nde los mares. Su feroz tempestad\r\nse abre camino en el mar."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "-596764096": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   }
 ]

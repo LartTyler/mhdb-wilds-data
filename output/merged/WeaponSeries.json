@@ -190,6 +190,25 @@
     }
   },
   {
+    "game_id": -1122003456,
+    "names": {
+      "ja": "海竜派生",
+      "en": "Lagiacrus Tree",
+      "fr": "Lagiacrus",
+      "it": "Lagiacrus",
+      "de": "Lagiacrus",
+      "es": "Árbol de Lagiacrus",
+      "ru": "Древо лагиакруса",
+      "pl": "Drzewo Lagiacrusa",
+      "pt-BR": "Lagiacrus",
+      "ko": "해룡 파생",
+      "zh-Hant": "海龍衍生",
+      "zh-Hans": "海龙衍生",
+      "ar": "شجرة لاغياكروس",
+      "es-419": "Árbol de Lagiacrus"
+    }
+  },
+  {
     "game_id": -1032609600,
     "names": {
       "ja": "水属性派生",
@@ -396,6 +415,25 @@
       "zh-Hans": "影蜘蛛衍生",
       "ar": "شجرة نيرسكيلا",
       "es-419": "Árbol de Nerscylla"
+    }
+  },
+  {
+    "game_id": 145862672,
+    "names": {
+      "ja": "クナファ派生",
+      "en": "Kunafa Tree",
+      "fr": "Kunafa",
+      "it": "Kunafa",
+      "de": "Kunafa",
+      "es": "Árbol de Kunafa",
+      "ru": "Древо Кунафы",
+      "pl": "Drzewo Kunafy",
+      "pt-BR": "Kunafa",
+      "ko": "쿠나파 파생",
+      "zh-Hant": "庫納法衍生",
+      "zh-Hans": "库纳法衍生",
+      "ar": "شجرة كُنافة",
+      "es-419": "Árbol de Kunafa"
     }
   },
   {
@@ -681,6 +719,25 @@
       "zh-Hans": "雪狮子王衍生",
       "ar": "شجرة بلانجونجا",
       "es-419": "Árbol de Blangonga"
+    }
+  },
+  {
+    "game_id": 1228067456,
+    "names": {
+      "ja": "千刃竜派生",
+      "en": "Seregios Tree",
+      "fr": "Seregios",
+      "it": "Seregios",
+      "de": "Seregios",
+      "es": "Árbol de Seregios",
+      "ru": "Древо серегиоса",
+      "pl": "Drzewo Seregiosa",
+      "pt-BR": "Seregios",
+      "ko": "천인룡 파생",
+      "zh-Hant": "千刃龍衍生",
+      "zh-Hans": "千刃龙衍生",
+      "ar": "شجرة سيرجيوس",
+      "es-419": "Árbol de Seregios"
     }
   },
   {

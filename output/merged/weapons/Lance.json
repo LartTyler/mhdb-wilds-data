@@ -1001,7 +1001,7 @@
       "it": "Trivella cromata potenziata con\r\nacciaio raro. Orgoglio\r\nartigianale, può perforare\r\nqualsiasi cosa.",
       "de": "Ein mit seltenem Stahl verbes-\r\nserter Chrombohrer. Dieser\r\nStolz jedes Kunsthandwerkers\r\ndurchbohrt alles.",
       "es": "Cromotaladro mejorado con\r\nacero raro. Es el orgullo de un\r\nartesano, y tiene la capacidad\r\nde atravesarlo todo.",
-      "ru": "«Блестящий бур», усиленный редкой\r\nсталью. Мастер может по праву\r\nгордиться своим творением: это\r\nоружие пронзит что угодно.",
+      "ru": "«Хромированный бур», усиленный\r\nредкой сталью. Мастер может по\r\nправу гордиться своим творением:\r\nэто оружие пронзит что угодно.",
       "pl": "Ulepszone rzadką stalą chromowe\r\nwiertło. Duma rzemieślnika, może\r\nprzebić się przez wszystko.",
       "pt-BR": "Broca Cromada melhorada com\r\naço raro. O orgulho de um artesão\r\né capaz de perfurar qualquer coisa.",
       "ko": "희귀한 강철로 더욱 강화한\r\n크롬드릴. 장인이 공들여\r\n제작한 장비는 단단한 갑각도\r\n간단히 뚫어버린다.",
@@ -4898,6 +4898,160 @@
     "series_id": 1094733056
   },
   {
+    "game_id": 62,
+    "kind": "lance",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "names": {
+      "ja": "ハルバアルメンカルⅠ",
+      "en": "Harbah Lance I",
+      "fr": "Lance Harbah",
+      "it": "Lancia Harbah I",
+      "de": "Harbah-Lanze I",
+      "es": "Lanza Harbah I",
+      "ru": "Копьё Харба I",
+      "pl": "Lanca Harbah I",
+      "pt-BR": "Lança Harbah I",
+      "ko": "할바르멘카르Ⅰ",
+      "zh-Hant": "長槍天囷一Ⅰ",
+      "zh-Hans": "长枪天囷一Ⅰ",
+      "ar": "رمح حربة 1",
+      "es-419": "Lanza Harbah I"
+    },
+    "descriptions": {
+      "ja": "セルレギオスの刃を一点に向けた\r\n槍。鱗が無数に突き出た刀身は、\r\nさながらいばらの棘の王冠。",
+      "en": "The countless Seregios scales\r\ncovering the blade of this lance\r\nresembles a crown of thorns.",
+      "fr": "Les innombrables écailles de\r\nSeregios qui la recouvrent sont\r\ncomme une couronne d'épines.",
+      "it": "Le innumerevoli scaglie di\r\nSeregios ricoprono la lama\r\ncome una corona di spine.",
+      "de": "Die zahllosen Seregios-\r\nSchuppen auf der Lanzenklinge\r\nähneln einer Dornenkrone.",
+      "es": "Lanza recubierta con tantas\r\nescamas de Seregios que\r\nparece una corona de espinas.",
+      "ru": "Множество чешуек серегиоса\r\nпокрывают наконечник копья,\r\nбудто терновый венок.",
+      "pl": "Niezliczone łuski Seregiosa\r\npokrywające tę lancę są\r\njak cierniowa korona.",
+      "pt-BR": "As inúmeras escamas de Seregios\r\nque revestem a lâmina desta lança\r\nlembram uma coroa de espinhos.",
+      "ko": "셀레기오스의 칼날을 한쪽으로\r\n향하게 한 창. 비늘이 무수히\r\n튀어나온 날은 마치\r\n가시 왕관 같다.",
+      "zh-Hant": "將千刃龍利刃彙集一處的長槍。槍刃\r\n有著無數突起的龍麟，宛如用荊棘\r\n製成的王冠。",
+      "zh-Hans": "将千刃龙的利刃汇集于一身的长枪。\r\n刀身遍布无数突起的鳞片，宛若荆\r\n棘的王冠。",
+      "ar": "الآلاف من قشور (سيرجيوس)\r\nالتي تغطي نصل هذا الرمح\r\nتشبه تاجًا من الأشواك.",
+      "es-419": "Lanza cubierta con tantas\r\nescamas de Seregios que\r\nparece una corona espinosa."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 22
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
+    "game_id": 63,
+    "kind": "lance",
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "叛槍アルメンカル",
+      "en": "Turbulent Lance",
+      "fr": "Lance turbulente",
+      "it": "Lancia turbolenta",
+      "de": "Turbulente Lanze",
+      "es": "Lanza turbulenta",
+      "ru": "Копьё вихрей",
+      "pl": "Porywista lanca",
+      "pt-BR": "Lança Turbulenta",
+      "ko": "반창 아르멘카르",
+      "zh-Hant": "叛槍天囷一",
+      "zh-Hans": "叛枪天囷一",
+      "ar": "الرمح العنيف",
+      "es-419": "Lanza turbulenta"
+    },
+    "descriptions": {
+      "ja": "ハルバアルメンカルの強化型。\r\n鋭利さを見せつけるように光る\r\n幾千もの刃が、恐怖心を煽る。\r\n",
+      "en": "The enhanced version of the\r\nHarbah Lance. Its sharpness\r\ngrants it a menacing air.",
+      "fr": "Lance Harbah améliorée.\r\nSon tranchant laisse planer\r\nune menace permanente.",
+      "it": "Lancia Harbah potenziata.\r\nL'acutezza le conferisce\r\nun'aria minacciosa.",
+      "de": "Eine verbesserte Harbah-Lanze.\r\nSo scharf, dass Freund und\r\nFeind auf Abstand bleiben.",
+      "es": "Lanza Harbah mejorada. Está\r\ntan afilada que infunde temor.",
+      "ru": "Улучшенное «Копьё Харба».\r\nЕго острота создаёт вокруг\r\nугрожающую ауру.",
+      "pl": "Ulepszona wersja lancy\r\nHarbah. Jej ostre ostrze\r\nnapawa strachem wszystkich.",
+      "pt-BR": "Lança Harbah melhorada.\r\nSua agudeza lhe confere um\r\nar ameaçador.",
+      "ko": "할바르멘카르 강화형. 예리함을\r\n강조하는 듯 번뜩이는 수많은\r\n칼날이 공포심을 자극한다.\r\n",
+      "zh-Hant": "強化版長槍天囷一。數千道利刃一齊\r\n閃光，如在誇示自己的鋒利度一般，\r\n令人恐懼。",
+      "zh-Hans": "长枪天囷一的强化版。数千道利刃\r\n齐齐闪着寒光，仿佛在夸示锋利度\r\n一般，令人恐惧。",
+      "ar": "النسخة المُحسَّنة من رمح حربة.\r\nحدّته تُضفي عليه طابعًا مُهيبًا.",
+      "es-419": "Lanza Harbah mejorada.\r\nEstá tan afilada que inspira\r\ntemor."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 22
+    },
+    "skills": {
+      "25070": 1
+    },
+    "series_id": 1228067456
+  },
+  {
     "game_id": 64,
     "kind": "lance",
     "sharpness": {
@@ -6093,6 +6247,175 @@
       "313598432": 1
     },
     "series_id": -1175600512
+  },
+  {
+    "game_id": 82,
+    "kind": "lance",
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "クルスランスⅠ",
+      "en": "Acrus Lance I",
+      "fr": "Lance Acrus",
+      "it": "Lancia Acrus I",
+      "de": "Acrus-Lanze I",
+      "es": "Lanza Acrus I",
+      "ru": "Копьё Акруса I",
+      "pl": "Lanca Acrus I",
+      "pt-BR": "Lança de Acrus I",
+      "ko": "크루스랜스Ⅰ",
+      "zh-Hant": "海龍長槍Ⅰ",
+      "zh-Hans": "十字长枪Ⅰ",
+      "ar": "رمح أكروس 1",
+      "es-419": "Lanza Acrus I"
+    },
+    "descriptions": {
+      "ja": "ラギアクルスの素材を使い、刺突と\r\n同時に雷撃を上乗せすることを\r\n可能とした恐るべき槍。",
+      "en": "A fearsome lance made from\r\nLagiacrus materials. Jolts its\r\nprey with electricity.",
+      "fr": "Lance terrifiante faite à\r\nbase de Lagiacrus.\r\nÉlectrocute ses victimes.",
+      "it": "Una temibile lancia fatta con\r\nmateriali di Lagiacrus. Dà la\r\nscossa alla sua preda con\r\nscariche elettriche.",
+      "de": "Eine furchterregende Lanze\r\naus Lagiacrus-Material.\r\nVersetzt ihrer Beute elektrische\r\nSchläge.",
+      "es": "Lanza temible hecha con\r\nmateriales de Lagiacrus.\r\nElectrocuta a sus presas.",
+      "ru": "Жуткое копьё из трофеев\r\nс лагиакруса. Поражает\r\nжертву электричеством.",
+      "pl": "Budząca przerażenie lanca\r\nwykonana z materiałów\r\nz Lagiacrusa. Razi ofiarę\r\nprądem.",
+      "pt-BR": "Lança ameaçadora feita\r\nde materiais de Lagiacrus.\r\nDescarrega eletricidade\r\nem suas presas.",
+      "ko": "라기아크루스 소재를 사용해\r\n찌르기 공격에 뇌격을 가할 수\r\n있는 무시무시한 창.",
+      "zh-Hant": "使用海龍素材製作的可怕長槍，\r\n突刺時會附上電擊。",
+      "zh-Hans": "使用海龙素材制作的可怕长枪，在\r\n刺出的同时还能附加上雷击。",
+      "ar": "رمح مخيف مصنوع من مواد (لاغياكروس).\r\nيصعق فريسته بالكهرباء.",
+      "es-419": "Una lanza temible hecha\r\ncon materiales de Lagiacrus.\r\nElectrocuta a sus presas."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 35,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 23
+    },
+    "skills": {
+      "-307644128": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
+  },
+  {
+    "game_id": 83,
+    "kind": "lance",
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ハイクルスランス",
+      "en": "High Acrus Lance",
+      "fr": "Grande lance Acrus",
+      "it": "Lancia Acrus alta",
+      "de": "Hohe Acrus-Lanze",
+      "es": "Gran lanza Acrus",
+      "ru": "Высшее копьё Акруса",
+      "pl": "Wzmocniona Lanca Acrus",
+      "pt-BR": "Lança de Acrus Superior",
+      "ko": "하이크루스랜스",
+      "zh-Hant": "高級海龍長槍",
+      "zh-Hans": "高级十字长枪",
+      "ar": "رمح أكروس المطور",
+      "es-419": "Alta lanza Acrus"
+    },
+    "descriptions": {
+      "ja": "クルスランスの強化形。\r\n目映い雷撃を纏ったその一突きは、\r\n海の王の怒りを連想させる。",
+      "en": "Each attack from the Acrus\r\nLance's upgraded form carries\r\nthe sea lord's unbridled fury.",
+      "fr": "Lance Acrus améliorée.\r\nChaque attaque évoque la\r\nfureur insensée du seigneur\r\ndes mers.",
+      "it": "Ogni colpo della versione\r\npotenziata della lancia Acrus\r\nscatena l'ira selvaggia del\r\nSignore dei mari.",
+      "de": "Jeder Angriff der verbesserten\r\nAcrus-Lanze trägt den ganzen\r\nZorn des Herrn der Meere in sich.",
+      "es": "Cada ataque de esta versión\r\nmejorada de la lanza Acrus\r\nalberga la furia desenfrenada\r\ndel rey de los mares.",
+      "ru": "Каждая атака улучшенным\r\n«Копьём Акруса» наполнена\r\nнеобузданной яростью\r\nВладыки морей.",
+      "pl": "Każdy atak ulepszoną wersją\r\nLancy Acrus niesie\r\nnieokiełznaną furię Pana mórz.",
+      "pt-BR": "Cada ataque da versão melhorada\r\nda Lança de Acrus carrega a fúria\r\ndesenfreada do Senhor dos Mares.",
+      "ko": "크루스랜스 강화형.\r\n눈부신 뇌격을 두른 공격은\r\n바다 왕의 분노를\r\n연상케 한다.",
+      "zh-Hant": "強化版海龍長槍。帶同耀眼雷擊的\r\n突刺令人聯想到大海王者的憤怒。",
+      "zh-Hans": "十字长枪的强化版。抬手发出缠绕\r\n着灼人双目的雷电的一击，让人不\r\n禁联想到海洋霸主的怒火。",
+      "ar": "كل هجوم من شكل رمح (أكروس)\r\nالذي تمت ترقيته يحمل غضب\r\nسيد البحر العارم.",
+      "es-419": "Cada ataque de esta versión\r\nmejorada de la lanza Acrus\r\nalberga la furia desenfrenada\r\ndel señor de los mares."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "raw": 40,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 23
+    },
+    "skills": {
+      "-307644128": 2,
+      "30201": 1
+    },
+    "series_id": -1122003456
   },
   {
     "game_id": 91,
