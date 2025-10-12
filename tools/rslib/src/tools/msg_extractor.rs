@@ -20,6 +20,14 @@ impl MsgExtractor {
         }
     }
 
+    pub fn create(tool_path: &Path, input_prefix: Option<&Path>) -> Self {
+        let extractor = Self::new(tool_path);
+        match input_prefix {
+            Some(v) => extractor.with_input_prefix(v),
+            None => extractor,
+        }
+    }
+
     pub fn with_input_prefix<P: Into<PathBuf>>(mut self, input_prefix: P) -> Self {
         self.input_prefix = Some(input_prefix.into());
         self
@@ -67,19 +75,6 @@ impl MsgExtractor {
 }
 
 impl Extractor for MsgExtractor {
-    fn create(tool_path: &Path, input_prefix: Option<&Path>) -> Box<dyn Extractor>
-    where
-        Self: Sized,
-    {
-        let extractor = Self::new(tool_path);
-        let extractor = match input_prefix {
-            Some(v) => extractor.with_input_prefix(v),
-            None => extractor,
-        };
-
-        Box::new(extractor)
-    }
-
     fn extract(&self, in_path: &Path, out_path: &Path, _indexes: &[u8]) -> Result<Vec<PathBuf>> {
         let result = self.run(in_path, Some(out_path))?;
         Ok(vec![result])

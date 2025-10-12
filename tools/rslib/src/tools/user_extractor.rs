@@ -1,22 +1,45 @@
 use crate::maybe_prefix;
-use crate::tools::{is_output_newer, run_command, Error, Extractor, Result};
+use crate::tools::{Error, Extractor, Result, is_output_newer};
+use parser::layout::LayoutMap;
+use parser::rsz::user::User;
+use std::fs::File;
 use std::path::{Path, PathBuf};
 
+#[derive(Debug)]
 pub struct UserExtractor {
-    tool_path: PathBuf,
+    _raw_layout_map: String,
+    layout_map: LayoutMap<'static>,
     input_prefix: Option<PathBuf>,
     output_prefix: Option<PathBuf>,
     force: bool,
 }
 
 impl UserExtractor {
-    pub fn new<P: Into<PathBuf>>(path: P) -> Self {
-        Self {
-            tool_path: path.into(),
+    pub fn new(rsz_layouts_path: &Path) -> Result<Self> {
+        let raw = std::io::read_to_string(File::open(rsz_layouts_path)?)?;
+        let layout_map: LayoutMap = serde_json::from_str(&raw)?;
+
+        // SAFETY:
+        // - The referenced string is owned by the struct, and won't be dropped until the struct is.
+        // - We never hand out a mutable reference to the underlying string, so references will never be invalid.
+        let layout_map: LayoutMap<'static> = unsafe { std::mem::transmute(layout_map) };
+
+        Ok(Self {
+            _raw_layout_map: raw,
+            layout_map,
             input_prefix: None,
             output_prefix: None,
             force: false,
-        }
+        })
+    }
+
+    pub fn create(rsz_layouts_path: &Path, input_prefix: Option<&Path>) -> Result<Self> {
+        let extractor = Self::new(rsz_layouts_path)?;
+
+        Ok(match input_prefix {
+            Some(v) => extractor.with_input_prefix(v),
+            None => extractor,
+        })
     }
 
     pub fn with_input_prefix<P: Into<PathBuf>>(mut self, path: P) -> Self {
@@ -47,14 +70,20 @@ impl UserExtractor {
             return Ok(output.to_owned());
         }
 
-        let mut args = vec![input.to_str().unwrap(), output.to_str().unwrap()];
-        let rsz_index = rsz_index.into().map(|v| v.to_string());
+        let doc = User::load(input, &self.layout_map)?;
+        let out_file = File::create(output)?;
 
-        if let Some(index) = rsz_index.as_ref() {
-            args.push(index);
-        }
+        match rsz_index.into() {
+            Some(index) => {
+                let target = doc.content.objects[0].extract_field(index as usize).unwrap_or_else(|| {
+                    panic!("Document does not contain an RSZ element at {index}");
+                });
 
-        run_command(&self.tool_path, args)?;
+                serde_json::to_writer_pretty(out_file, &target)
+            }
+            None => serde_json::to_writer_pretty(out_file, &doc.content.objects),
+        }?;
+
         Ok(output.to_owned())
     }
 
@@ -91,19 +120,6 @@ impl UserExtractor {
 }
 
 impl Extractor for UserExtractor {
-    fn create(tool_path: &Path, input_prefix: Option<&Path>) -> Box<dyn Extractor>
-    where
-        Self: Sized,
-    {
-        let extractor = Self::new(tool_path);
-        let extractor = match input_prefix {
-            Some(v) => extractor.with_input_prefix(v),
-            None => extractor,
-        };
-
-        Box::new(extractor)
-    }
-
     fn extract(&self, in_path: &Path, out_path: &Path, indexes: &[u8]) -> Result<Vec<PathBuf>> {
         if indexes.is_empty() {
             let result = self.run(in_path, out_path, None)?;

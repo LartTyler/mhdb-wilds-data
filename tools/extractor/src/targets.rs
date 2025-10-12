@@ -73,6 +73,7 @@ fn walk(priority: usize, prefix: Option<&Path>, path: &Path, glob: &str) -> Resu
         .collect())
 }
 
+#[derive(Debug)]
 pub struct Candidate {
     pub key: String,
     pub path: PathBuf,
