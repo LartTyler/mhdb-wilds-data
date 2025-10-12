@@ -6785,8 +6785,7 @@
       "purple": 0
     },
     "handicraft": [
-      20,
-      30
+      50
     ],
     "names": {
       "ja": "マイニングピッケル",
@@ -6801,7 +6800,7 @@
       "ko": "마이닝피켈",
       "zh-Hant": "採礦十字鎬",
       "zh-Hans": "矿工十字镐",
-      "ar": "بلطة التنقيب",
+      "ar": "معول التنقيب",
       "es-419": "Pico de minería"
     },
     "descriptions": {
@@ -6817,7 +6816,7 @@
       "ko": "곡괭이를 검, 광맥을 방패로.\r\n채굴에 매진하는 광부의 영혼을\r\n표현했다고 일컬어지는 한손검.",
       "zh-Hant": "以十字鎬為劍，以礦脈為盾。此單手\r\n劍可謂體現了為採掘賭上性命的碳礦\r\n工之魂。",
       "zh-Hans": "以镐代剑，以矿脉为盾，这把单手\r\n剑体现了将一生奉献在采掘上的矿\r\n工之魂。",
-      "ar": "بلطة تُستخدم كسيف،\r\nوقطعة خام تُستخدم كدرع.\r\nهذا المعول المعدني يعكس\r\nروحًا مُكرَّسة للتنقيب.",
+      "ar": "معول يُستخدم كسيف،\r\nوقطعة خام تُستخدم كدرع.\r\nهذا المعول المعدني يعكس\r\nروحًا مُكرَّسة للتنقيب.",
       "es-419": "Un pico como espada y un trozo\r\nde mineral como escudo.\r\nEl pico de minería es reflejo\r\nde un alma dedicada a excavar."
     },
     "rarity": 7,
@@ -6895,7 +6894,7 @@
       "ko": "광맥을 향한 비정상적인 집착이\r\n만들어낸 마이닝피켈 강화형.\r\n사냥 중에도 채굴하라.",
       "zh-Hant": "對礦脈傾注異於常人的執著後誕生\r\n的採礦十字鎬強化版。狩獵中也無\r\n所謂，挖吧。",
       "zh-Hans": "对矿脉异乎寻常的执着，催生出的\r\n强化版矿工十字镐。即使身处狩猎\r\n之中，也要有一颗挖掘的心。",
-      "ar": "بلطة تنقيب تمت ترقيتها\r\nوُلدت من هوس غير طبيعي\r\nبعروق الخام. إذا لم تكن تحفر،\r\nفهل تعتبر نفسكَ حيًا حقًا؟",
+      "ar": "معول تنقيب تمت ترقيته\r\nوُلد من هوس غير طبيعي\r\nبعروق الخام. إذا لم تكن تحفر،\r\nفهل تعتبر نفسكَ حيًا حقًا؟",
       "es-419": "Un pico de minería mejorado,\r\nnacido de una obsesión con las\r\nvetas de minerales. Si no usas\r\nun pico, ¿qué punto tiene vivir?"
     },
     "rarity": 8,
@@ -6926,6 +6925,84 @@
       "28385": 1
     },
     "series_id": -547584512
+  },
+  {
+    "game_id": 89,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 70,
+      "green": 30,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ブレードオブオメガ",
+      "en": "Omega's Sword",
+      "fr": "Épée Oméga",
+      "it": "Spada di Omega",
+      "de": "Omegas Schwert",
+      "es": "Hoja de Omega",
+      "ru": "Меч Омеги",
+      "pl": "Miecz Omegi",
+      "pt-BR": "Lâmina Omega",
+      "ko": "오메가 검",
+      "zh-Hant": "歐米茄之劍",
+      "zh-Hans": "欧米茄之剑",
+      "ar": "نصل أوميغا",
+      "es-419": "Espada de Omega"
+    },
+    "descriptions": {
+      "ja": "とある自律兵器が生み出した武器を\r\n模した片手剣。振るわれる斬撃は、\r\n眼前の脅威を薙ぎ払う。",
+      "en": "A sword & shield modeled after\r\na certain autonomous weapon.\r\nAnnihilates all threats.",
+      "fr": "Duo épée et bouclier inspiré\r\nd'une certaine arme autonome.\r\nÉlimine toutes les menaces.",
+      "it": "Spada e scudo ispirati a una\r\ncerta arma autonoma.\r\nAnnientano tutte le minacce.",
+      "de": "Einer gewissen autonomen\r\nWaffe nachempfundenes\r\nSchwert & Schild. Vernichtet\r\nalle Bedrohungen.",
+      "es": "Una espada y escudo con la forma\r\nde cierta arma autónoma.\r\nAniquila a todas las amenazas.",
+      "ru": "Меч и щит, созданные по\r\nобразцу некоего автономного\r\nоружия. Служат для устранения\r\nлюбых угроз.",
+      "pl": "Miecz i tarcza zaprojektowane na\r\nwzór pewnej autonomicznej broni.\r\nEliminuje wszystkie zagrożenia.",
+      "pt-BR": "Espada e escudo inspirados em\r\numa certa arma autônoma.\r\nAniquila todas as ameaças.",
+      "ko": "어느 자율병기가 만든 무기를\r\n모방한 한손검.\r\n휘두르는 참격이 눈앞에 닥친\r\n위협을 쓸어 버린다.",
+      "zh-Hant": "仿造某自律型兵器產生的武器而製成\r\n的單手劍。其斬擊能清除眼前所有\r\n威脅。",
+      "zh-Hans": "此单手剑的造型模仿了某个自律型\r\n兵器生成的武器。使出的斩击能够\r\n荡平眼前的威胁。",
+      "ar": "سيف ودرع مُصممان\r\nعلى غرار سلاح ذاتي التشغيل.\r\nيقضيان على جميع التهديدات.",
+      "es-419": "Una espada y escudo modelados\r\nsegún cierta arma autónoma.\r\nAniquila todas las amenazas."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 10,
+    "defense": 25,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 8,
+        "740": 6,
+        "744": 1
+      },
+      "previous_id": null,
+      "branches": [
+        92
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 27
+    },
+    "skills": {
+      "-1674114176": 3,
+      "7506": 1
+    },
+    "series_id": -765803328
   },
   {
     "game_id": 90,
@@ -6966,7 +7043,7 @@
       "de": "Ein von der Macht des Lagiacrus\r\nerfülltes Schwert & Schild.\r\nIn seiner Klinge züngeln Blitze,\r\ndie den Schmerz vervielfachen.",
       "es": "Espada y escudo imbuidos del\r\npoder de un Lagiacrus. Su hoja\r\nchisporrotea con relámpagos\r\npara multiplicar el dolor.",
       "ru": "Меч и щит, наполненные силой\r\nлагиакруса. Струящаяся по его\r\nклинку молния лишь усиливает\r\nпричиняемую им боль.",
-      "pl": "Miecz i tarcza przepojone mocą\r\nLagiacrusa. Przez jego\r\nklingę przepływa błyskawica,\r\nktóra zwielokrotnia ból.",
+      "pl": "Miecz i tarcza przepojone mocą\r\nLagiacrusa. Przez jego klingę\r\nprzepływa błyskawica, która\r\nzwielokrotnia ból.",
       "pt-BR": "Espada imbuída do poder de\r\nLagiacrus. Raios fluem por\r\nsua lâmina, multiplicando\r\na dor causada.",
       "ko": "라기아크루스의 힘을 상징하는\r\n번개속성까지 깃든 한손검.\r\n폭주하는 벼락이 내부에서부터\r\n고통을 가한다.",
       "zh-Hant": "帶有象徵海龍之力的雷屬性的單手\r\n劍。狂暴的雷電能為目標從內而外\r\n帶來痛苦。",
@@ -7095,5 +7172,82 @@
       "30201": 1
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 92,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 60,
+      "green": 20,
+      "blue": 80,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ブレードオブオメガ・真",
+      "en": "True Omega's Sword",
+      "fr": "Épée Oméga véritable",
+      "it": "Vera Spada di Omega",
+      "de": "Wahres Schwert Omegas",
+      "es": "Hoja de Omega verdadera",
+      "ru": "Истинный меч Омеги",
+      "pl": "Prawdziwy miecz Omegi",
+      "pt-BR": "Lâmina Omega Real",
+      "ko": "오메가 검 진",
+      "zh-Hant": "真・歐米茄之劍",
+      "zh-Hans": "欧米茄之剑·真",
+      "ar": "نصل أوميغا الحقيقي",
+      "es-419": "Espada de Omega verdadera"
+    },
+    "descriptions": {
+      "ja": "数多の戦闘の果てに進化に至った\r\nブレードオブオメガ。数多繰り出す\r\n斬影が全てを抹消する。",
+      "en": "Omega's Sword, after having\r\nevolved through combat.\r\nExterminates everything in\r\nits path.",
+      "fr": "Épée Oméga qui a évolué au fil\r\ndes combats. Extermine tout sur\r\nson passage.",
+      "it": "Una spada di Omega evoluta\r\nattraverso il combattimento.\r\nStermina tutto ciò che incontra.",
+      "de": "Eine weiterentwickelte Version\r\nvon Omegas Schwert, durch un-\r\nzählige Kämpfe gestählt. Rottet\r\nalles aus, was ihm im Weg steht.",
+      "es": "Una hoja de Omega que ha\r\nevolucionado al combatir.\r\nExtermina a todo lo que se\r\nencuentra.",
+      "ru": "«Меч Омеги», который\r\nэволюционировал в бою.\r\nИзничтожает всё, что\r\nоказывается на его пути.",
+      "pl": "Miecz Omegi, który ewoluował\r\nw walce. Zgładza wszystko\r\nna swojej drodze.",
+      "pt-BR": "Lâmina Omega que evoluiu\r\natravés do combate incessante.\r\nExtermina tudo em seu caminho.",
+      "ko": "수많은 전투 끝에 진화한\r\n오메가 검.\r\n수없이 일어나는 참영이\r\n모든 것을 없애 버린다.",
+      "zh-Hant": "歷經諸多戰鬥而進化的歐米茄之劍。\r\n無數斬影將會泯滅一切。",
+      "zh-Hans": "历经无数次战斗实现进化的欧米茄\r\n之剑。多道斩击迅捷如影，使一切\r\n灰飞烟灭。",
+      "ar": "نصل (أوميغا) بعد أن تطوّر\r\nفي أتون المعارك،\r\nيبيد كل ما يعترض طريقه.",
+      "es-419": "Espada de Omega que ha crecido\r\na través del combate. Extermina\r\ntodo a su paso."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 10,
+    "defense": 25,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "739": 7,
+        "741": 5,
+        "743": 5,
+        "745": 1
+      },
+      "previous_id": 89,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 27
+    },
+    "skills": {
+      "-1674114176": 3,
+      "7506": 1
+    },
+    "series_id": -765803328
   }
 ]

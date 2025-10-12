@@ -4422,7 +4422,7 @@
           "ja": "体力に赤ゲージが無い状態でも、\r\n最大値までゆるやかに自動回復が\r\n継続する。",
           "en": "Allows the Health Gauge to continue\r\nto slowly recover up to the max value,\r\neven if there is no red portion.",
           "fr": "La jauge de vie continue de se régénérer\r\nlentement jusqu'à la valeur maximale\r\nmême s'il n'y a pas de portion rouge.",
-          "it": "Consente di recuperare salute\r\nfino al valore massimo, anche\r\nin assenza della porzione rossa.",
+          "it": "Consente di recuperare salute\r\nlentamente fino al massimo, anche\r\nin assenza della porzione rossa.",
           "de": "Die Gesundheit erholt sich langsam\r\nbis zum Maximum, selbst wenn es\r\nkeinen roten Abschnitt gibt.",
           "es": "Permite que la barra de salud se\r\nregenere lentamente hasta el máximo,\r\naunque no tenga una parte en rojo.",
           "ru": "Позволяет медленно восстанавливать\r\nздоровье даже сверх красной части\r\nшкалы здоровья.",
@@ -4879,20 +4879,20 @@
       {
         "level": 1,
         "descriptions": {
-          "ja": "泡状態【大】にならなくなる。\r\n泡状態時に回避能力を強化する。",
-          "en": "Prevents major bubbleblight and\r\nincreases evasion while afflicted\r\nwith minor bubbleblight.",
-          "fr": "Protège du fléau-bulles majeur\r\net augmente l'esquive en cas\r\nde fléau-bulles mineur.",
-          "it": "Impedisce il malus da bolle intenso\r\ne aumenta la schivata durante\r\nl'effetto di malus da bolle lieve.",
-          "de": "Verhindert Schwere Blasenpest.\r\nBei Befall mit Leichter Blasenpest\r\nAusweichen+.",
-          "es": "Evita la plaga de burbujas y\r\naumenta la evasión mientras te afecte\r\nuna plaga de burbujas menor.",
-          "ru": "Защищает от сильной пузырьковой порчи\r\nи повышает показатель уклонения под\r\nдействием слабой пузырьковой порчи.",
-          "pl": "Zmniejsza dużą bąblową plagę w małą\r\ni zwiększa możliwość uników podczas\r\ndziałania jej efektów.",
-          "pt-BR": "Previne flagelo de bolha maior e\r\naumenta a evasão quando está sob\r\nefeito de flagelo de bolha menor.",
-          "ko": "거품 상태【대】가 되지 않는다.\r\n거품 상태일 때\r\n회피 능력을 강화한다.",
-          "zh-Hant": "不會陷入泡沫狀態【大】，並於陷入泡沫\r\n狀態時強化迴避能力。",
-          "zh-Hans": "不会进入泡沫状态【大】。\r\n强化泡沫状态下的回避能力。",
-          "ar": "تمنع الإصابة بوباء الفقاعات القوي\r\nوتزيد من المراوغة أثناء الإصابة\r\nبوباء الفقاعات البسيط.",
-          "es-419": "Previene la plaga de burbujas mayor y\r\naumenta la evasión al estar afectado\r\npor la plaga de burbujas menor."
+          "ja": "泡状態【大】にならなくなる。\r\n回避行動を複数回行うことで\r\n泡状態【小】になる。",
+          "en": "Prevents major bubbleblight and\r\ngrants you minor bubbleblight after\r\nevading several times.",
+          "fr": "Protège du fléau-bulles majeur et\r\npermet d'activer le fléau-bulles\r\nmineur en esquivant plusieurs fois.",
+          "it": "Impedisce il malus da bolle intenso e dà\r\nun malus da bolle lieve schivando più volte.",
+          "de": "Verhindert Schwere Blasenpest.\r\nWiederholtes Ausweichen löst\r\nLeichte Blasenpest aus.",
+          "es": "Evita la plaga de burbujas mayor,\r\ny te da plaga de burbujas menor\r\ntras esquivar varias veces.",
+          "ru": "Защищает от сильной пузырьковой порчи\r\nи накладывает слабую пузырьковую порчу\r\nпосле совершения нескольких уклонений.",
+          "pl": "Zapobiega dużej bąblowej pladze\r\ni zapewnia małą bąblową plagę\r\npo wykonaniu kilku uników.",
+          "pt-BR": "Previne flagelo de bolha maior e\r\nconcede flagelo de bolha menor\r\napós esquivar várias vezes.",
+          "ko": "거품 상태【대】가 되지 않는다.\r\n회피 행동을 여러 번 하면\r\n거품 상태【소】가 된다.",
+          "zh-Hant": "不會陷入泡沫狀態【大】。迴避數次後\r\n將陷入泡沫狀態【小】。",
+          "zh-Hans": "不会进入泡沫状态【大】。\r\n回避数次后将陷入泡沫状态【小】。",
+          "ar": "تمنع الإصابة بوباء الفقاعات القوي\r\nوتمنحك تأثير وباء الفقاعات البسيط\r\nبعد المراوغة عدة مرات.",
+          "es-419": "Previene la plaga de burbujas mayor y\r\notorga plaga de burbujas menor después\r\nde evadir varias veces."
         },
         "names": {
           "ja": "泡沫の舞Ⅰ",
@@ -4914,20 +4914,20 @@
       {
         "level": 2,
         "descriptions": {
-          "ja": "泡状態【大】にならなくなる。泡状態時に\r\n回避能力を強化する。さらに回避行動を\r\n複数回行うことで泡状態【小】になる。",
-          "en": "Prevents major bubbleblight and ups\r\nevasion while afflicted. Trigger minor\r\nbubbleblight by evading many times.",
-          "fr": "Permet également d'activer\r\nle fléau-bulles mineur en\r\nesquivant plusieurs fois d'affilée.",
-          "it": "Previene malus da bolle intenso e\r\naumenta la schivata quando attivo, dà un\r\nmalus da bolle lieve schivando più volte.",
-          "de": "Verhindert Schwere Blasenpest. Bei\r\nBefall Ausweichen+. Wiederholtes Aus-\r\nweichen löst Leichte Blasenpest aus.",
-          "es": "Protege contra plaga de burbujas mayor,\r\ny mejora las esquivas si te afecta una. Si\r\nesquivas mucho, da plaga de burbujas menor.",
-          "ru": "Защищает от сильной пузырьковой порчи\r\nи улучшает уклонение. Позволяет вызвать\r\nслабую пузырьковую порчу, уклоняясь.",
-          "pl": "Zapobiega dużej bąblowej pladze oraz\r\nzwiększa możliwość uników. Aktywuj małą\r\nbąblową plagę poprzez wielokrotne uniki.",
-          "pt-BR": "Previne flagelo de bolha maior e\r\naumenta a evasão sob efeito de bolha.\r\nAtiva flagelo menor se esquivar muito.",
-          "ko": "거품 상태【대】가 되지 않는다. 거품 상태\r\n일 때 회피 능력 강화. 추가로 회피 행동\r\n을 여러 번 하면 거품 상태【소】가 된다.",
-          "zh-Hant": "不會陷入泡沫狀態【大】，並於陷入泡沫\r\n狀態時強化迴避能力。迴避數次後將陷入\r\n泡沫狀態【小】。",
-          "zh-Hans": "不会进入泡沫状态【大】，强化泡沫状\r\n态下的回避能力。回避数次后将陷入泡\r\n沫状态【小】。",
-          "ar": "تمنع وباء الفقاعات القوي وتزيد من المراوغة أثناء\r\nالإصابة. كما تتيح أيضًا إمكانية تنشيط وباء\r\nالفقاعات البسيط عن طريق المراوغة عدة مرات.",
-          "es-419": "Previene la plaga de burbujas mayor. \r\nLa plaga de burbujas menor aumenta tu\r\nevasión y se activa con varias evaciones."
+          "ja": "Ⅰと同様の効果が発動する。\r\n泡状態の時に回避能力が強化される。",
+          "en": "In addition to previous effects,\r\nalso increases evasion while\r\nafflicted with bubbleblight.",
+          "fr": "Permet également d'augmenter\r\nl'esquive en cas de fléau-bulles\r\nmineur.",
+          "it": "In aggiunta agli effetti precedenti, \r\naumenta la schivata quando si è \r\nsotto l'effetto del malus da bolle.",
+          "de": "Zusätzlich zu vorherigen Effekten\r\nverbessertes Ausweichen während\r\nBefall mit Blasenpest.",
+          "es": "Además de los efectos anteriores,\r\nmejora las esquivas mientras te\r\nafecte una plaga de burbujas menor.",
+          "ru": "Вдобавок к остальным эффектам также\r\nулучшает уклонение под действием\r\nпузырьковой порчи.",
+          "pl": "Oprócz wcześniejszych efektów,\r\nzwiększa zręczność uniku podczas\r\nbycia dotkniętym bąblową plagą.",
+          "pt-BR": "Além dos efeitos anteriores, também\r\naumenta a evasão enquanto estiver\r\nsob efeito de flagelo de bolha.",
+          "ko": "Ⅰ과 같은 효과가 발동한다.\r\n거품 상태일 때, 회피 능력이 강화.",
+          "zh-Hant": "發動與Ⅰ同樣的效果，並於陷入泡沫\r\n狀態時強化迴避能力。",
+          "zh-Hans": "发动与Ⅰ同样的效果。\r\n强化泡沫状态下的回避能力。",
+          "ar": "بالإضافة إلى التأثيرات السابقة،\r\nتزيد أيضًا من القدرة على المراوغة\r\nأثناء الإصابة بوباء الفقاعات.",
+          "es-419": "Además de los efectos anteriores,\r\ntambién aumenta la evasión mientras se\r\nestá afectado por plaga de burbujas."
         },
         "names": {
           "ja": "泡沫の舞Ⅱ",
@@ -6475,18 +6475,18 @@
       "es-419": "Maicera chisporroteante"
     },
     "descriptions": {
-      "ja": "放熱状態の時、砲撃の威力と\r\n火属性攻撃値が上がる。",
-      "en": "Increases shelling power and fire attack\r\nwhile overheated.",
+      "ja": "ガンランスの竜撃ゲージが赤く点滅して\r\nいる時、砲撃の威力と火属性攻撃値が\r\n上がる。",
+      "en": "Increases shelling power and fire attack\r\nwhile the Wyvern's Fire Gauge is blinking\r\nred.",
       "fr": "Augmente la puissance de tir et les\r\nattaques de feu lorsque l'arme est\r\nen surchauffe.",
       "it": "La potenza di scarica e l'attacco\r\nfuoco aumentano quando la lancia\r\nè surriscaldata.",
       "de": "Erhöht die Kraft von Beschuss und\r\nFeuerangriffen während Überhitzung.",
       "es": "Aumenta la potencia de proyectiles y\r\ndisparos si el arma está sobrecalentada.",
-      "ru": "При перегреве повышаются сила\r\nатак-выстрелов и огненный урон.",
-      "pl": "Zwiększa siłę ostrzału i atak ogniem\r\nprzy przegrzaniu.",
+      "ru": "Сила атак-выстрелов и огненный\r\nурон повышаются, когда шкала\r\nпламени виверны мигает красным.",
+      "pl": "Zwiększa siłę ostrzału i atak ogniem\r\ngdy pasek ognia wiwerny miga\r\nna czerwono.",
       "pt-BR": "Aumenta o poder do morteiro e o ataque\r\nde fogo quando em superaquecimento.",
-      "ko": "방열 상태 시 포격 위력과\r\n불속성 공격치가 상승한다.",
-      "zh-Hant": "散熱狀態時，提升砲擊威力與\r\n火屬性攻擊值。",
-      "zh-Hans": "处于散热状态下时，提高炮击的威力和\r\n火属性攻击值。",
+      "ko": "건랜스의 용격 게이지가 붉은색으로\r\n점멸 중일 때, 포격 위력과\r\n불속성 공격치가 상승한다.",
+      "zh-Hant": "銃槍的龍擊計量表紅光閃爍時，提升砲擊\r\n的威力與火屬性攻擊值。",
+      "zh-Hans": "铳枪的龙击槽红光闪烁时，提高炮击的\r\n威力和火属性攻击值。",
       "ar": "يزيد من قوة القذائف وهجوم النار\r\nأثناء ارتفاع حرارة السلاح.",
       "es-419": "Aumenta la potencia de los\r\nproyectiles y los ataques de fuego\r\ncuando se sobrecalienta."
     },
@@ -6600,7 +6600,7 @@
       "de": "Gewährt Spezialmuni/Beschichtung,\r\nwenn du mit gezogener Waffe einem\r\nMonsterangriff knapp ausweichst.",
       "es": "Esquivar por poco el ataque de un monstruo\r\ncon el arma desenvainada te da munición\r\nespecial cargada o viales correspondientes.",
       "ru": "При уклонении в последний момент\r\nс оружием в руках заряжается особый\r\nснаряд или накладывается покрытие.",
-      "pl": "Uniknięcie ataku potwora w ostatniej\r\nchwili z dobytą bronią daje jej specjalną\r\nzaładowaną amunicję lub nałożone powłoki.",
+      "pl": "Uniknięcie ataku potwora w ostatniej\r\nchwili, z dobytą bronią w ręku, daje\r\njej specjalną amunicję lub powłoki.",
       "pt-BR": "Esquivar-se por pouco do ataque de um\r\nmonstro com sua arma em mãos repõe\r\nmunições especiais e revestimentos.",
       "ko": "발도 시 몬스터의 공격에 맞춰\r\n회피하면 특수한\r\n장전탄/병을 얻는다.",
       "zh-Hant": "拔刀後，若迴避的時機正好與魔物的攻擊\r\n重合，獲得特殊裝填的彈藥或瓶。",
@@ -6632,6 +6632,65 @@
     "kind": "weapon",
     "icon": "ranged",
     "icon_id": 5
+  },
+  {
+    "game_id": 3813,
+    "names": {
+      "ja": "暗黒",
+      "en": "Darkside",
+      "fr": "Ténèbres intérieures",
+      "it": "Lato oscuro",
+      "de": "Dunkle Seite",
+      "es": "Lado oscuro",
+      "ru": "Тёмная сторона",
+      "pl": "Ciemna strona",
+      "pt-BR": "Lado Sombrio",
+      "ko": "암흑",
+      "zh-Hant": "暗黑",
+      "zh-Hans": "暗黑",
+      "ar": "الجانب المظلم",
+      "es-419": "Lado oscuro"
+    },
+    "descriptions": {
+      "ja": "一部の溜め斬りで、２段階以上に溜めて\r\n攻撃した時、ダメージを受けるが、一定\r\n時間、攻撃力が上がる",
+      "en": "Performing certain Lvl 2 or higher\r\ncharged slashes temporarily increases\r\nattack but also deals self-damage.",
+      "fr": "Effectuer certaines attaques chargées de\r\nnv 2 ou plus augmente temporairement\r\nl'attaque mais vous inflige des dégâts.",
+      "it": "Eseguire certi fendenti caricati di\r\nliv. 2 o più aumenta per un po' l'attacco\r\nma ti infligge anche danni.",
+      "de": "Ausführen best. Aufgel. Hiebe St. 2\r\noder höher erhöht vorübergehend\r\ndeinen Angriff, verletzt dich aber.",
+      "es": "Lanzar ciertos tajos cargados de nv. 2\r\no superior aumenta temporalmente\r\nel ataque, pero también te inflige daño.",
+      "ru": "Определённые усиленные удары 2 ур.\r\nили выше на время повышают вашу\r\nсилу атаки, но наносят урон и вам.",
+      "pl": "Wykonanie pewnych naładowanych cięć\r\npoz. 2 lub wyższego tymczasowo zwiększa\r\natak, ale też zadaje ci obrażenia.",
+      "pt-BR": "Usar alguns Cortes Energizados Nv. 2\r\nou superior aumenta temporariamente\r\no ataque, mas causa dano a si mesmo.",
+      "ko": "일부 모아베기에서 2단계 이상 모아\r\n공격하면 대미지를 받지만, 일정 시간\r\n공격력이 오른다.",
+      "zh-Hant": "使出第二階段或以上的部分蓄力斬時，\r\n自身將受到傷害，但在一定時間內提升\r\n攻擊力。",
+      "zh-Hans": "部分蓄力斩蓄力到第2阶段或以上\r\n攻击时，自身将受到伤害，但会在\r\n一定时间内提升攻击力。",
+      "ar": "تنفيذ ضربات قاطعة مشحونة من المستوى\r\nالثاني أو أعلى يُزيد الهجوم مؤقتًا، لكنه يلحق\r\nضررًا ذاتيًا أيضًا.",
+      "es-419": "Lanzar ciertos tajos cargados de nv. 2\r\no superior aumenta temporalmente el\r\nataque, pero también el daño propio."
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "スキル効果発動\r\n（発動後、一定時間は再発動しない）",
+          "en": "Activates skill effect.\r\n(Will not activate again\r\nfor a set period of time.)",
+          "fr": "Active l'effet.\r\n(Ne se réactive pas avant\r\nun certain temps.)",
+          "it": "Attiva gli effetti dell'abilità.\r\nNon si riattiverà prima di un\r\ndeterminato intervallo di tempo.",
+          "de": "Aktiviert den Fähigkeit-Effekt.\r\n(Nach Aktivierung dauert es etwas,\r\nbis es erneut aktiviert.)",
+          "es": "Activa el efecto de la habilidad.\r\n(No se volverá a activar durante\r\nun periodo de tiempo determinado).",
+          "ru": "Задействует эффект навыка.\r\n(Нельзя задействовать повторно\r\nв течение определённого времени.)",
+          "pl": "Aktywuje efekt umiejętności.\r\n(Nie aktywuje się ponownie\r\nprzez określony czas).",
+          "pt-BR": "Ativa o efeito da habilidade.\r\n(Não será ativado novamente por\r\num período de tempo definido.)",
+          "ko": "스킬 효과 발동\r\n(발동 후 일정 시간\r\n재발동하지 않음)",
+          "zh-Hant": "發動技能效果\r\n（發動後一定時間內無法再次發動）",
+          "zh-Hans": "发动技能效果\r\n（发动后一定时间内无法再次发动）",
+          "ar": "تفعِّل تأثير المهارة.\r\n(لن يتم التفعيل مرة أخرى\r\nإلا بعد فترة زمنية محددة).",
+          "es-419": "Activa el efecto de la habilidad.\r\n(No se volverá a activar durante\r\nun periodo de tiempo determinado)."
+        }
+      }
+    ],
+    "kind": "weapon",
+    "icon": "attack",
+    "icon_id": 1
   },
   {
     "game_id": 4554,
@@ -6693,12 +6752,71 @@
     "icon_id": 13
   },
   {
+    "game_id": 7506,
+    "names": {
+      "ja": "シールドオプション",
+      "en": "Synthetic Shield",
+      "fr": "Bouclier optionnel",
+      "it": "Scudo sintetico",
+      "de": "Synthetischer Schild",
+      "es": "Escudo sintético",
+      "ru": "Синтетический щит",
+      "pl": "Syntetyczna tarcza",
+      "pt-BR": "Escudo Sintético",
+      "ko": "방패 장착",
+      "zh-Hant": "合成盾",
+      "zh-Hans": "合成盾",
+      "ar": "حاجب اصطناعي",
+      "es-419": "Escudo sintético"
+    },
+    "descriptions": {
+      "ja": "ジャストガード成功時、一定時間、\r\n自分と一定範囲内の仲間の防御力が\r\n上がる",
+      "en": "Temporarily increases your defense\r\nand the defense of those around you\r\nafter a successful Perfect Guard.",
+      "fr": "Augmente temporairement votre défense\r\net celle des personnes à proximité\r\naprès une Garde parfaite réussie.",
+      "it": "Aumenta temporaneamente la tua\r\ndifesa e la difesa di chi ti è\r\nintorno dopo una guardia perfetta.",
+      "de": "Verbessert vorübergehend deine\r\nVerteidigung und die naher\r\nVerbündeter nach Perfektem Blocken.",
+      "es": "Aumenta temporalmente tu defensa\r\ny la defensa de quien esté cerca de ti\r\ntras realizar una guardia perfecta.",
+      "ru": "После идеального блока, у вас и всех\r\nохотников поблизости на время\r\nповышается показатель защиты.",
+      "pl": "Tymczasowo zwiększa obronę twoją\r\ni osób w twojej okolicy po skutecznej\r\nidealnej gardzie.",
+      "pt-BR": "Aumenta temporariamente sua defesa\r\ne a defesa daqueles ao seu redor após\r\num Bloqueio Perfeito bem-sucedido.",
+      "ko": "저스트 가드 성공 시, 일정 시간\r\n자신과 일정 범위 내 아군의\r\n방어력이 오른다.",
+      "zh-Hant": "精準防禦成功後，一定時間內提升自己\r\n與一定範圍內的夥伴的防禦力。",
+      "zh-Hans": "精准格挡成功时，一定时间内提升自身\r\n及范围内同伴的防御力。",
+      "ar": "يزيد دفاعكَ\r\nودفاع مَن حولكَ مؤقتًا\r\nبعد تصدٍ مثالي ناجح.",
+      "es-419": "Aumenta temporalmente tu defensa y\r\nla de aquellos a tu alrededor luego\r\nde realizar una guardia perfecta."
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "スキル効果発動",
+          "en": "Activates skill effect.",
+          "fr": "Active l'effet.",
+          "it": "Attiva gli effetti dell'abilità.",
+          "de": "Aktiviert den Fähigkeit-Effekt.",
+          "es": "Activa el efecto de la habilidad\r\ndel mismo nombre.",
+          "ru": "Задействует эффект навыка.",
+          "pl": "Aktywuje efekt umiejętności.",
+          "pt-BR": "Ativa o efeito da habilidade.",
+          "ko": "스킬 효과 발동",
+          "zh-Hant": "發動技能效果",
+          "zh-Hans": "发动技能效果",
+          "ar": "تفعّل تأثير المهارة.",
+          "es-419": "Activa el efecto de la habilidad."
+        }
+      }
+    ],
+    "kind": "weapon",
+    "icon": "defense",
+    "icon_id": 6
+  },
+  {
     "game_id": 8694,
     "names": {
       "ja": "踊火の祈り",
       "en": "Flamefete Prayer",
       "fr": "Prière Fête des flammes",
-      "it": "Prece Festardente",
+      "it": "Preghiera Festardente",
       "de": "Feuerfest-Gebet",
       "es": "Oración de chisparranda",
       "ru": "Молитва Хоровода огней",
@@ -6717,7 +6835,7 @@
           "ja": "踊火の儀の期間中、クエストの報酬に\r\n特別なアイテムが追加される\r\n（クエストの途中からは発動しない）",
           "en": "During Flamefete, adds special\r\nitems to quest rewards.\r\n(No effect when joining mid-quest.)",
           "fr": "Pendant Fête des flammes, ajoute des\r\nobjets spéciaux aux récompenses.\r\n(Hors quête rejointe en cours de route.)",
-          "it": "Durante la Festardente, aggiunge\r\noggetti speciali alle ricompense\r\nmissione. (Non ha effetto quando\r\nci si unisce a una missione in corso.)",
+          "it": "Durante la Festardente, aggiunge oggetti\r\nspeciali alle ricompense missione. (Nessun\r\neffetto se ci si unisce a una missione in corso.)",
           "de": "Fügt Quest-Belohnungen während des\r\nFeuerfestes Spezialobjekte hinzu.\r\n(Nicht bei spätem Questbeitritt.)",
           "es": "Durante la chisparranda, añade objetos\r\nespeciales a las recompensas de misión.\r\n(Sin efecto si te unes a media misión).",
           "ru": "Во время Хоровода огней прибавляет к\r\nнаградам за поруч-я особые предметы.\r\n(Не действует на начатые поручения.)",
@@ -6844,6 +6962,100 @@
     "kind": "armor",
     "icon": "offense",
     "icon_id": 9
+  },
+  {
+    "game_id": 11709,
+    "names": {
+      "ja": "夢灯の祈り",
+      "en": "Dreamspell Prayer",
+      "fr": "Prière Veillée des rêves",
+      "it": "Preghiera Ognissogni",
+      "de": "Traumzauber-Gebet",
+      "es": "Oración del Sueñiencanto",
+      "ru": "Молитва Чар снов",
+      "pl": "Modlitwa Czaru Snów",
+      "pt-BR": "Prece do Feitissonho",
+      "ko": "몽화의 기도",
+      "zh-Hant": "夢燈祈願",
+      "zh-Hans": "梦灯祈祷",
+      "ar": "صلاة تعويذة الأحلام",
+      "es-419": "Oración de Sueñiencanto"
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "夢灯の儀の期間中、クエストの報酬に\r\n特別なアイテムが追加される\r\n（クエストの途中からは発動しない）",
+          "en": "During Dreamspell, adds\r\nspecial items to quest rewards.\r\n(No effect when joining mid-quest.)",
+          "fr": "Pendant Veillée des rêves, ajoute des\r\nobjets spéciaux aux récompenses.\r\n(Hors quête rejointe en cours de route.)",
+          "it": "Durante Ognissogni, aggiunge oggetti\r\nspeciali alle ricompense missione. (Nessun\r\neffetto se ci si unisce a una missione in corso.)",
+          "de": "Fügt Quest-Belohnungen während des\r\nTraumzaubers Spezialobjekte hinzu.\r\n(Nicht bei spätem Questbeitritt.)",
+          "es": "Durante el sueñiencanto, añade objetos\r\nespeciales a las recompensas de misión.\r\n(Sin efecto si te unes a mitad de misión).",
+          "ru": "Во время Чар снов прибавляет к\r\nнаградам за поруч-я особые предметы.\r\n(Не действует на начатые поручения.)",
+          "pl": "Dodaje specjalne przedmioty do nagród\r\nza zadanie podczas Czaru Snów. (Brak\r\nefektu przy dołączeniu w trakcie zadania).",
+          "pt-BR": "Durante o Feitissonho, adiciona itens\r\nespeciais a prêmios de missão. (Sem\r\nefeito ao entrar no meio da missão.)",
+          "ko": "몽화 의식 기간 중 퀘스트 보수에\r\n특별한 아이템이 추가됨\r\n(퀘스트 도중 참가 시 발동하지 않음)",
+          "zh-Hant": "於夢燈之儀期間追加特別道具至\r\n任務報酬（不會從任務中途發動）",
+          "zh-Hans": "在梦灯之仪期间，任务报酬中将追加\r\n特殊道具（任务途中无法启用）",
+          "ar": "أثناء تعويذة الأحلام، تضيف\r\nعناصر مميزة إلى مكافآت المهام.\r\n(ليس لها تأثير عند الانضمام في منتصف المَهمة).",
+          "es-419": "Durante el Sueñiencanto, agrega objetos\r\nespeciales a las recompensas de misión.\r\n(Sin efecto si te unes a mitad)."
+        },
+        "names": {
+          "ja": "地の恵み【夢灯】Ⅰ",
+          "en": "Dreamspell Boon I",
+          "fr": "Bénédiction des rêves I",
+          "it": "Manna Ognissogni I",
+          "de": "Traumzauber-Segen I",
+          "es": "Favor del sueñiencanto I",
+          "ru": "Дар Чар снов I",
+          "pl": "Łaska Czaru Snów I",
+          "pt-BR": "Dádiva do Feitissonho I",
+          "ko": "땅의 은총【몽화】Ⅰ",
+          "zh-Hant": "大地恩惠【夢燈】Ⅰ",
+          "zh-Hans": "大地之恩惠【梦灯】Ⅰ",
+          "ar": "هبة تعويذة الأحلام 1",
+          "es-419": "Bendición de Sueñiencanto I"
+        }
+      },
+      {
+        "level": 2,
+        "descriptions": {
+          "ja": "夢灯の儀の期間中、クエストの報酬に\r\n特別なアイテムが追加され、\r\n攻撃力と防御力が大きく上昇する",
+          "en": "During Dreamspell, adds special\r\nitems to quest rewards, and\r\ngreatly boosts attack and defense.",
+          "fr": "Pendant Veillée des rêves, ajoute des\r\nobjets spéciaux aux récompenses de\r\nquête. Augmente attaque et défense.",
+          "it": "Durante Ognissogni, aggiunge oggetti\r\nspeciali alle ricompense missione\r\ne aumenta attacco e difesa di molto.",
+          "de": "Fügt Quest-Belohnungen während des\r\nTraumzaubers Spezialobjekte hinzu und\r\nerhöht Angriff + Verteidigung deutlich.",
+          "es": "Durante el sueñiencanto, añade objetos\r\nespeciales a las recompensas de misión\r\ny mejora mucho el ataque y la defensa.",
+          "ru": "Во время Чар снов прибавляет к\r\nнаградам за поруч-я особые предметы.\r\nПовышает показатели атаки и защиты.",
+          "pl": "Podczas Czaru Snów dodaje specjalne\r\nprzedmioty do nagród za zadanie oraz\r\nznacznie zwiększa siłę ataku i obronę.",
+          "pt-BR": "Durante o Feitissonho, adiciona itens\r\nespeciais a prêmios de missão e\r\naumenta muito o ataque e a defesa.",
+          "ko": "몽화 의식 기간 중 퀘스트 보수에\r\n특별한 아이템이 추가되며\r\n공격력과 방어력이 크게 상승",
+          "zh-Hant": "於夢燈之儀期間追加特別道具至\r\n任務報酬，並大幅增加攻擊力與\r\n防禦力",
+          "zh-Hans": "在梦灯之仪期间，任务报酬中将追加\r\n特殊道具，攻击力和防御力也会大幅\r\n提升",
+          "ar": "أثناء تعويذة الأحلام، تضيف\r\nعناصر مميزة إلى مكافآت المهام\r\nوتعزز الهجوم والدفاع بدرجة كبيرة.",
+          "es-419": "Durante el Sueñiencanto, agrega objetos\r\nespeciales a las recompensas de misión\r\ny mejora mucho el ataque y la defensa."
+        },
+        "names": {
+          "ja": "地の恵み【夢灯】Ⅱ",
+          "en": "Dreamspell Boon II",
+          "fr": "Bénédiction des rêves II",
+          "it": "Manna Ognissogni II",
+          "de": "Traumzauber-Segen II",
+          "es": "Favor del sueñiencanto II",
+          "ru": "Дар Чар снов II",
+          "pl": "Łaska Czaru Snów II",
+          "pt-BR": "Dádiva do Feitissonho II",
+          "ko": "땅의 은총【몽화】Ⅱ",
+          "zh-Hant": "大地恩惠【夢燈】Ⅱ",
+          "zh-Hans": "大地之恩惠【梦灯】Ⅱ",
+          "ar": "هبة تعويذة الأحلام 2",
+          "es-419": "Bendición de Sueñiencanto II"
+        }
+      }
+    ],
+    "kind": "set",
+    "icon": "set",
+    "icon_id": 14
   },
   {
     "game_id": 13941,
@@ -6999,6 +7211,159 @@
     "icon_id": 14
   },
   {
+    "game_id": 16931,
+    "names": {
+      "ja": "炎の料理人",
+      "en": "Grillmaster",
+      "fr": "Chef BBQ",
+      "it": "Maestro della griglia",
+      "de": "Grillprofi",
+      "es": "Maestro de la parrilla",
+      "ru": "Мангальщик",
+      "pl": "Mistrz grilla",
+      "pt-BR": "Mestre da Grelha",
+      "ko": "불꽃 요리사",
+      "zh-Hant": "火之大廚",
+      "zh-Hans": "炎之大厨",
+      "ar": "سيد الشواء",
+      "es-419": "Maestro parrillero"
+    },
+    "descriptions": {
+      "ja": "肉を焼くと斬れ味が回復し、一定時間\r\n攻撃性能が上昇する。（結果によって\r\n効果時間、内容が変化）",
+      "en": "Grill meat to sharpen your weapon\r\nand temporarily increase your attack.\r\n(Duration and effect vary based on results.)",
+      "fr": "Grillez de la viande pour aiguiser\r\nvotre arme et augmenter votre attaque.\r\n(Durée et effet varient selon le résultat).",
+      "it": "Griglia carne per affilare l'arma e\r\naumentare per un po' l'attacco (durata ed\r\neffetto variano in base ai risultati).",
+      "de": "Fleisch grillen, um deine Waffe zu\r\nschärfen und deinen Angriff zu\r\nerhöhen. (Dauer u. Effekt untersch.)",
+      "es": "Cocina carne para afilar tu arma y aumentar\r\ntemporalmente tu ataque. (La duración\r\ny el efecto varían según el resultado).",
+      "ru": "Жаря мясо, вы затачиваете оружие\r\nи на время увеличиваете силу атаки.\r\n(Эффект зависит от результата.)",
+      "pl": "Grilluj mięso, by naostrzyć broń oraz\r\ntymczasowo zwiększyć atak. (Czas trwania\r\ni efekt zależą od wyniku grillowania).",
+      "pt-BR": "Grelhe carne para afiar sua arma e\r\naumentar temporariamente seu ataque.\r\n(Duração/efeito dependem do resultado.)",
+      "ko": "고기를 구우면 예리도가 회복되고,\r\n일정 시간 공격 성능이 상승한다.\r\n(결과에 따라 효과 시간, 내용 변화)",
+      "zh-Hant": "烤肉後回復銳利度，並在一定時間內\r\n提升攻擊性能。（效果時間與內容會\r\n因烤肉結果而異）",
+      "zh-Hans": "烤肉后回复武器锋利度，一定时间内提\r\n升攻击性能。（效果时间与内容会因烤\r\n肉结果而异）",
+      "ar": "عليكَ شواء اللحم لشحذ سلاحكَ\r\nوزيادة هجومكَ مؤقتًا.\r\n(تختلف المدة والتأثير حسب النتائج).",
+      "es-419": "Cocina la carne para afilar tu arma\r\ny aumentar temporalmente tu ataque.\r\n(Duración y efecto pueden variar)."
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "スキル効果発動",
+          "en": "Activates skill effect.",
+          "fr": "Active l'effet.",
+          "it": "Attiva effetti abilità.",
+          "de": "Aktiviert den Fähigkeit-Effekt.",
+          "es": "Activa el efecto de la habilidad\r\ndel mismo nombre.",
+          "ru": "Задействует эффект навыка.",
+          "pl": "Aktywuje efekt umiejętności.",
+          "pt-BR": "Ativa o efeito da habilidade.",
+          "ko": "스킬 효과 발동",
+          "zh-Hant": "發動技能效果",
+          "zh-Hans": "发动技能效果",
+          "ar": "تفعِّل تأثير المهارة.",
+          "es-419": "Activa el efecto de la habilidad."
+        }
+      }
+    ],
+    "kind": "weapon",
+    "icon": "attack",
+    "icon_id": 1
+  },
+  {
+    "game_id": 24531,
+    "names": {
+      "ja": "暗黒騎士の証",
+      "en": "Soul of the Dark Knight",
+      "fr": "Cristal de chevalier noir",
+      "it": "Anima del cavaliere nero",
+      "de": "Dunkelritter-Kristall",
+      "es": "Alma del caballero oscuro",
+      "ru": "Душа тёмного рыцаря",
+      "pl": "Dusza mrocznego rycerza",
+      "pt-BR": "Alma do Cavaleiro Negro",
+      "ko": "암흑기사의 증표",
+      "zh-Hant": "暗黑騎士之證",
+      "zh-Hans": "暗黑骑士之证",
+      "ar": "روح فارس الظلام",
+      "es-419": "Alma del caballero oscuro"
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "体力ゲージに赤い部分がある間、属性\r\n攻撃力が上がる。大剣の一部の溜め斬り\r\nが、３段階まで溜めると強化される。",
+          "en": "Having recoverable damage increases\r\nelemental attack, and some great sword\r\nLvl 3 charged slashes are strengthened.",
+          "fr": "Subir des dégâts temporaires augmente l'att.\r\nélémentaire, et certaines attaques chargées\r\n(nv 3) de la grande épée sont renforcées.",
+          "it": "Subire danni temporanei aumenta l'attacco\r\nelementale e potenzia alcuni dei fendenti\r\ncaricati di livello 3 dello spadone.",
+          "de": "Hast du erholbaren Schaden, steigt\r\nElementangriff. Best. Aufgel. Hiebe\r\nSt. 3 d. Großschw. werden verstärkt.",
+          "es": "Tener daño recuperable potencia el\r\nataque elemental y algunos de los tajos\r\ncargados de nv. 3 de la gran espada.",
+          "ru": "При наличии восполнимого здоровья\r\nповышает мощь стих. атак и некоторых\r\nусиленных ударов 3 ур. двуруч. мечом.",
+          "pl": "Przy odzyskiwalnym zdrowiu zwiększa \r\natak żywiołu, niektóre naładowane cięcia \r\npoz. 3 miecza dwuręcznego są wzmocnione.",
+          "pt-BR": "Ter dano recuperável aumenta o ataque\r\nelemental e alguns Cortes Energizados\r\nNv. 3 do espadão são fortalecidos.",
+          "ko": "체력 게이지에 빨간 부분이 있는 동안\r\n속성 공격력이 오른다. 대검의 일부\r\n모아베기가 3단계까지 모으면 강화된다.",
+          "zh-Hant": "體力計量表有紅色部分時，增加屬性\r\n攻擊值；大劍的部分蓄力斬蓄力到\r\n第三階段會獲得強化",
+          "zh-Hans": "体力槽有红色部分时，提升属性攻击力；\r\n大剑的部分蓄力斩蓄力到第三阶段会获得\r\n强化",
+          "ar": "وجود ضرر قابل للتعافي يزيد من الهجوم العنصري\r\nويُقوي بعض الضربات القاطعة المشحونة\r\nمن المستوى الثالث للسيف العظيم.",
+          "es-419": "Tener daño recuperable aumenta el ataque\r\nelemental y algunos tajos cargados nv. 3\r\nde la gran espada se vuelven más fuertes."
+        },
+        "names": {
+          "ja": "ダークアーツ",
+          "en": "Dark Arts",
+          "fr": "Arts ténébreux",
+          "it": "Arti oscure",
+          "de": "Dunkle Künste",
+          "es": "Artes oscuras",
+          "ru": "Тёмные искусства",
+          "pl": "Mroczne sztuki",
+          "pt-BR": "Artes Obscuras",
+          "ko": "어둠의 기교",
+          "zh-Hant": "暗技",
+          "zh-Hans": "暗技",
+          "ar": "الفنون المظلمة",
+          "es-419": "Artes oscuras"
+        }
+      },
+      {
+        "level": 2,
+        "descriptions": {
+          "ja": "特殊アクション「ブラックナイト」が\r\n使用可能になる。",
+          "en": "Allows you to perform the special\r\naction: The Blackest Night.",
+          "fr": "Vous permet d'effectuer l'action\r\nspéciale : Nuit noirissime.",
+          "it": "Ti permette di eseguire l'azione\r\nspeciale: La notte più nera.",
+          "de": "Erlaubt dir den Einsatz der Spezial-\r\naktion: Schwärzeste Nacht.",
+          "es": "Te permite realizar la acción\r\nespecial: la noche más oscura.",
+          "ru": "Позволяет выполнять особое действие:\r\n«Темнейшая ночь».",
+          "pl": "Umożliwia użycie specjalnej\r\nakcji: najczarniejszej nocy.",
+          "pt-BR": "Permite que você execute a ação\r\nespecial: A Noite Mais Escura.",
+          "ko": "특수 액션 '흑야'를\r\n사용할 수 있게 된다.",
+          "zh-Hant": "可使用特殊動作「至黑之夜」",
+          "zh-Hans": "可使用特殊动作“至黑之夜”",
+          "ar": "تتيح لكَ تنفيذ الحركة الخاصة:\r\nالليلة الظلماء.",
+          "es-419": "Te permite realizar la acción\r\nespecial: La más noche oscura."
+        },
+        "names": {
+          "ja": "ブラックナイト",
+          "en": "The Blackest Night",
+          "fr": "Nuit noirissime",
+          "it": "La notte più nera",
+          "de": "Schwärzeste Nacht",
+          "es": "La noche más oscura",
+          "ru": "Темнейшая ночь",
+          "pl": "Najczarniejsza noc",
+          "pt-BR": "A Noite Mais Escura",
+          "ko": "흑야",
+          "zh-Hant": "至黑之夜",
+          "zh-Hans": "至黑之夜",
+          "ar": "الليلة الظلماء",
+          "es-419": "La noche más oscura"
+        }
+      }
+    ],
+    "kind": "set",
+    "icon": "set",
+    "icon_id": 14
+  },
+  {
     "game_id": 25070,
     "names": {
       "ja": "刃鱗研装",
@@ -7024,12 +7389,12 @@
       "de": "Verleiht besondere Schärfe, wenn du\r\nmit gezogener Waffe einem Monster-\r\nangriff knapp ausweichst.",
       "es": "Esquivar por poco el ataque de un\r\nmonstruo con el arma desenfundada\r\nda un afilado especial al arma.",
       "ru": "Придаёт оружию особую остроту, когда\r\nвы с оружием в руках уклоняетесь от\r\nатаки монстра в последний момент.",
-      "pl": "Uniknięcie ataku potwora w ostatniej\r\nchwili z dobytą bronią daje jej\r\nspecjalną ostrość.",
+      "pl": "Uniknięcie ataku potwora w ostatniej\r\nchwili, z dobytą bronią w ręku, daje\r\njej specjalną ostrość.",
       "pt-BR": "Esquivar-se por pouco do ataque de\r\num monstro enquanto sua arma estiver\r\nem mãos aumenta a afiação dela.",
       "ko": "발도 시 몬스터의 공격에 맞춰\r\n회피하면 특수한 예리도를 얻는다.",
       "zh-Hant": "拔刀後，若迴避的時機正好與魔物的攻擊\r\n重合，獲得特殊的銳利度。",
       "zh-Hans": "拔刀后，若回避正好与怪物攻击的时机\r\n重合，能获得特殊的锋利度。",
-      "ar": "إن تفادي هجوم الوحش بصعوبة\r\nأثناء إشهار سلاحكَ\r\nيمنحه حدة مميزة.",
+      "ar": "تفادي هجوم الوحش في اللحظة الأخيرة\r\nأثناء إشهار سلاحكَ\r\nيمنحه حدة مميزة.",
       "es-419": "Esquivar por poco el ataque de un\r\nmonstruo con el arma desenvainada\r\nda un afilado especial al arma."
     },
     "ranks": [
@@ -7107,7 +7472,7 @@
           "ko": "광석 희귀도가 높을수록\r\n공격력이 크게 상승한다.\r\n(상승치에는 상한이 있습니다)",
           "zh-Hant": "礦石的稀有度越高，攻擊力上升幅度\r\n越大（上升值有上限）",
           "zh-Hans": "矿石的稀有度越高，攻击力提升幅度\r\n越大。（存在提升上限）",
-          "ar": "التعدين للحصول على مواد\r\nنادرة للغاية يزيد الهجوم كثيرًا.\r\n(زيادة الهجوم لها حد أقصى).",
+          "ar": "تعدين مواد نادرة للغاية\r\nيزيد حدّة الهجوم بشكل كبير.\r\n(زيادة الهجوم لها حد أقصى).",
           "es-419": "Extraer minerales particularmente\r\nraros aumenta mucho el ataque.\r\n(El aumento tiene un límite máximo)."
         }
       }
@@ -7126,7 +7491,7 @@
       "de": "Donnerwiderst. umwandeln",
       "es": "Convierte antirrayo",
       "ru": "Преобр. сопр. грозе",
-      "pl": "Zmiana odporności na pioruny",
+      "pl": "Konwersja piorunów",
       "pt-BR": "Conversão de Res. a Raio",
       "ko": "내성 변환【번개】",
       "zh-Hant": "轉換耐性【雷】",
@@ -7147,7 +7512,7 @@
       "ko": "번개속성 내성치가 높을수록\r\n무기의 속성 공격치가 상승한다.",
       "zh-Hant": "按雷屬性耐性值提升武器的屬性攻擊值，\r\n雷屬性耐性值越高，上升幅度越大。",
       "zh-Hans": "按雷属性耐性值提升武器的属性攻击值，\r\n雷属性耐性值越高，上升幅度越大。",
-      "ar": "يزيد في الهجوم العناصري\r\nلسلاحكَ بما يتناسب\r\nمع مقاومة الرعد لديكَ.",
+      "ar": "زيادة في الهجوم العنصري\r\nلسلاحكَ تتناسب طرديًا\r\nمع مقاومة الرعد لديكَ.",
       "es-419": "Mejora el ataque elemental de tu\r\narma de forma proporcional a tu\r\nresistencia a rayos."
     },
     "ranks": [
@@ -7204,7 +7569,7 @@
       "pl": "Unik automatycznie przeładowuje\r\naktualnie wybraną amunicję.",
       "pt-BR": "Ao esquivar, a munição selecionada\r\nno momento é automaticamente\r\nrecarregada.",
       "ko": "회피 행동을 했을 때, 선택 중인\r\n탄이 자동으로 장전된다.",
-      "zh-Hant": "回避時會自動裝填當前選擇的彈藥。",
+      "zh-Hant": "迴避時會自動裝填當前選擇的彈藥。",
       "zh-Hans": "回避时会自动装填当前选择的弹药。",
       "ar": "التفادي يلقم السلاح بالذخيرة المحددة\r\nحاليًا تلقائيًا.",
       "es-419": "Esquivar recarga automáticamente\r\nla munición seleccionada."
@@ -7225,7 +7590,7 @@
           "ko": "스킬 효과 발동",
           "zh-Hant": "發動技能效果",
           "zh-Hans": "发动技能效果",
-          "ar": "تفعّل تأثير المهارة.",
+          "ar": "تفعِّل تأثير المهارة.",
           "es-419": "Activa el efecto de la habilidad."
         }
       }
@@ -7261,9 +7626,9 @@
           "fr": "Prolonge Poussée d'adrénaline.\r\nProlonge l'effet une fois en cas de\r\nréactivation alors que le talent est actif.",
           "it": "Durata di Flusso di adrenalina\r\nestesa. Riattivarla mentre è in\r\ncorso aumenta la durata una volta.",
           "de": "Verlängert die Dauer von Adrenalin-\r\nschub. Noch ein Mal bei erneuter\r\nAktivierung, wenn bereits aktiv.",
-          "es": "Prolonga la subida de adrenalina. Si se\r\nactiva de nuevo con la habilidad activa,\r\nextiende la duración del efecto una vez.",
+          "es": "Prolonga la subida de adrenalina.\r\nSi está activa y se activa de nuevo,\r\nprolonga el efecto una vez más.",
           "ru": "Продлевает «Прилив адреналина».\r\nПовторная активация во время действия\r\nнавыка 1 раз продлевает эффект.",
-          "pl": "Wydłuża czas trwania napływu adrenaliny.\r\nGdy jest on aktywny, ponowne wywołanie\r\numiejętności wydłuża czas trwania efektu raz.",
+          "pl": "Wydłuża czas trwania napływu\r\nadrenaliny. Gdy jest aktywny,\r\nponowne wywołanie wydłuża go raz.",
           "pt-BR": "Prolonga a Onda de Adrenalina.\r\nSe reativada enquanto está ativa,\r\nestende sua duração uma vez.",
           "ko": "'교격' 스킬 효과 시간을 연장한다.\r\n발동 중에 다시 조건을 충족하면\r\n효과 시간이 조금 늘어난다.(1회 한정)",
           "zh-Hant": "延長技能「巧擊」的效果時間，並於發動\r\n期間再次滿足條件時小幅延長效果時間\r\n（僅限一次）",
@@ -7327,6 +7692,159 @@
     "kind": "set",
     "icon": "set",
     "icon_id": 14
+  },
+  {
+    "game_id": 31540,
+    "names": {
+      "ja": "オメガレゾナンス",
+      "en": "Omega Resonance",
+      "fr": "Résonance Oméga",
+      "it": "Sintonia Omega",
+      "de": "Omega-Resonanz",
+      "es": "Resonancia Omega",
+      "ru": "Омега-резонанс",
+      "pl": "Rezonans Omegi",
+      "pt-BR": "Ressonância Omega",
+      "ko": "오메가 공명",
+      "zh-Hant": "歐米茄共鳴",
+      "zh-Hans": "欧米茄共鸣",
+      "ar": "صدى أوميغا",
+      "es-419": "Resonancia Omega"
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "クエスト開始後、レゾナンス：ファー\r\nもしくはニアーが交互に発動し、条件を\r\n満たすと攻撃力、または会心率が上昇",
+          "en": "(When quest starts) Local and Remote\r\nResonance alternate, increasing attack\r\nor affinity when conditions are met.",
+          "fr": "(Au début de la quête) Résonance proche\r\net Résonance éloignée alternent,\r\naugmentant l'attaque ou l'affinité\r\nlorsque les conditions sont remplies.",
+          "it": "(Inizio missione) Sintonia locale e remota\r\nsi alternano, aumentando attacco o affinità\r\nse i requisiti sono soddisfatti.",
+          "de": "Bei Questbeginn wechseln sich Reso-\r\nnanzprogramm: Nah und Fern ab und\r\nerhöhen Angriff bzw. Affinität.",
+          "es": "(Al inicio de misión) Alterna entre\r\nresonancia local/remota. Si cumples los\r\nrequisitos, mejora el ataque o afinidad.",
+          "ru": "При начале поручения локальный\r\nи удалённый резонанс чередуются,\r\nувеличивая атаку или мастерство.",
+          "pl": "(Na początku zadania) Rezonanse z bliska\r\ni daleka aktywują się na przemian, zwiększając\r\nsiłę i zgodność po spełnieniu warunków.",
+          "pt-BR": "No início da missão: Ressonância\r\nLocal e Remota alternam, aumentando\r\no ataque ou a afinidade de acordo.",
+          "ko": "퀘스트 시작 후 공명: 원거리나\r\n근거리가 번갈아 발동하고, 조건을\r\n만족하면 공격력 또는 회심률 상승",
+          "zh-Hant": "任務開始後，共鳴：遠和共鳴：近會交替\r\n發動，滿足條件後提升攻擊力或會心率",
+          "zh-Hans": "任务开始后，交替发动“共鸣：远”或\r\n“共鸣：近”，满足条件时提升攻击力\r\n或会心率",
+          "ar": "(عند بدء المَهمة) يحدث تبادل بين الصدى\r\nالموضعي والبعيد، مما يزيد الهجوم\r\nأو نسبة الضرر عند توافر الشروط.",
+          "es-419": "(Al iniciar la misión) Se alterna la resonancia\r\nlocal y remota, lo que aumenta el ataque\r\no afinidad si se cumplen los requisitos."
+        },
+        "names": {
+          "ja": "レゾナンスⅠ",
+          "en": "Resonance I",
+          "fr": "Résonance I",
+          "it": "Sintonia I",
+          "de": "Resonanz I",
+          "es": "Resonancia I",
+          "ru": "Резонанс I",
+          "pl": "Rezonans I",
+          "pt-BR": "Ressonância I",
+          "ko": "공명Ⅰ",
+          "zh-Hant": "共鳴Ⅰ",
+          "zh-Hans": "共鸣Ⅰ",
+          "ar": "الصدى 1",
+          "es-419": "Resonancia I"
+        }
+      },
+      {
+        "level": 2,
+        "descriptions": {
+          "ja": "レゾナンスⅠの効果と、武器スキル\r\n「シールドオプション」または\r\n「連携プログラム」の効果が上昇",
+          "en": "Increases the effect of Resonance I, and\r\nthe effect of the weapon skill Synthetic\r\nShield or the effect of Synergy.",
+          "fr": "Augmente l'effet de Résonance I, du\r\ntalent d'arme Bouclier synthétique\r\nou de Programme synergique.",
+          "it": "Aumenta l'effetto di Sintonia I,\r\nSinergia e dell'abilità arma\r\nScudo sintetico.",
+          "de": "Erhöht den Effekt von Resonanz I\r\nsowie den Effekt von Synthetischer\r\nSchild oder Synergieprogramm.",
+          "es": "Aumenta el efecto de \"resonancia I\" y\r\nel efecto de la habilidad de arma \"escudo\r\nsintético\", o el efecto de \"sinergia\".",
+          "ru": "Усиливает «Резонанс I», а также\r\nнавык для оружия «Синтетический\r\nщит» или эффект навыка «Синергия».",
+          "pl": "Zwiększa efekt rezonansu I oraz\r\nefekt umiejętności broni syntetyczna\r\ntarcza lub efekt synergii.",
+          "pt-BR": "Aumenta o efeito de Ressonância I e\r\no efeito da habilidade de arma Escudo\r\nSintético ou o efeito da Sinergia.",
+          "ko": "공명Ⅰ 효과와, 무기 스킬\r\n'방패 장착' 또는\r\n'연계 프로그램' 효과 상승",
+          "zh-Hant": "提升共鳴Ⅰ的效果，以及武器技能\r\n「合成盾」或「協作程式」的效果。",
+          "zh-Hans": "提升共鸣Ⅰ的效果，以及武器技能\r\n“合成盾”或“协作程序”的效果",
+          "ar": "تزيد من تأثير الصدى 1\r\nوتأثير الحاجب الاصطناعي لمهارة السلاح\r\nأو تأثير التآزر.",
+          "es-419": "Aumenta el efecto de Resonancia I\r\ny el de la habilidad de arma Escudo\r\nsintético o el efecto de Sinergia."
+        },
+        "names": {
+          "ja": "レゾナンスⅡ",
+          "en": "Resonance II",
+          "fr": "Résonance II",
+          "it": "Sintonia II",
+          "de": "Resonanz II",
+          "es": "Resonancia II",
+          "ru": "Резонанс II",
+          "pl": "Rezonans II",
+          "pt-BR": "Ressonância II",
+          "ko": "공명Ⅱ",
+          "zh-Hant": "共鳴Ⅱ",
+          "zh-Hans": "共鸣Ⅱ",
+          "ar": "الصدى 2",
+          "es-419": "Resonancia II"
+        }
+      }
+    ],
+    "kind": "set",
+    "icon": "set",
+    "icon_id": 14
+  },
+  {
+    "game_id": 31998,
+    "names": {
+      "ja": "連携プログラム",
+      "en": "Synergy",
+      "fr": "Programme synergique",
+      "it": "Sinergia",
+      "de": "Synergieprogramm",
+      "es": "Sinergia",
+      "ru": "Синергия",
+      "pl": "Synergia",
+      "pt-BR": "Sinergia",
+      "ko": "연계 프로그램",
+      "zh-Hant": "協作程式",
+      "zh-Hans": "协作程序",
+      "ar": "التآزر",
+      "es-419": "Sinergia"
+    },
+    "descriptions": {
+      "ja": "飛天螺旋斬を使用した時、一定時間、\r\n自分と一定範囲内の仲間の会心率が\r\n上がる",
+      "en": "Temporarily increases your affinity\r\nand the affinity of those around\r\nyou after using a Rising Spiral Slash.",
+      "fr": "Augmente temporairement votre affinité\r\net celle des personnes à proximité\r\naprès un Cyclone mortel montant.",
+      "it": "Aumenta temporaneamente la tua\r\naffinità e l'affinità di chi ti è\r\nintorno dopo un montante spirale.",
+      "de": "Verbessert vorübergehend deine\r\nAffinität und die naher\r\nVerbündeter nach Aufwärtskreishieb.",
+      "es": "Aumenta temporalmente tu afinidad\r\ny la afinidad de quién esté cerca de ti\r\ntras usar un tajo espiral ascendente.",
+      "ru": "После восходящего спирального удара\r\nу вас и у всех охотников поблизости на\r\nвремя повышается мастерство.",
+      "pl": "Tymczasowo zwiększa zgodność twoją\r\ni osób w twojej okolicy po wykonaniu\r\nspiralnego cięcia w górę.",
+      "pt-BR": "Aumenta temporariamente sua defesa\r\ne a afinidade daqueles ao seu redor\r\napós usar Corte Espiral Ascendente.",
+      "ko": "비천나선참 사용 시, 일정 시간\r\n자신과 일정 범위 내 아군의\r\n회심률이 오른다.",
+      "zh-Hant": "使用飛天螺旋斬後，一定時間內提升自己\r\n與一定範圍內的夥伴的會心率。",
+      "zh-Hans": "使用飞天螺旋斩时，一定时间内提升自身\r\n及范围内同伴的会心率。",
+      "ar": "يزيد نسبة الضرر لديكَ\r\nونسبة ضرر مَن حولكَ مؤقتًا\r\nبعد استخدام ضربة حلزونية لأعلى.",
+      "es-419": "Aumenta temporalmente tu afinidad y\r\nla de aquellos a tu alrededor luego\r\nde usar un tajo espiral ascendente."
+    },
+    "ranks": [
+      {
+        "level": 1,
+        "descriptions": {
+          "ja": "スキル効果発動",
+          "en": "Activates skill effect.",
+          "fr": "Active l'effet.",
+          "it": "Attiva gli effetti dell'abilità.",
+          "de": "Aktiviert den Fähigkeit-Effekt.",
+          "es": "Activa el efecto de la habilidad\r\ndel mismo nombre.",
+          "ru": "Задействует эффект навыка.",
+          "pl": "Aktywuje efekt umiejętności.",
+          "pt-BR": "Ativa o efeito da habilidade.",
+          "ko": "스킬 효과 발동",
+          "zh-Hant": "發動技能效果",
+          "zh-Hans": "发动技能效果",
+          "ar": "تفعِّل تأثير المهارة.",
+          "es-419": "Activa el efecto de la habilidad."
+        }
+      }
+    ],
+    "kind": "weapon",
+    "icon": "affinity",
+    "icon_id": 2
   },
   {
     "game_id": 27684744,
@@ -10377,7 +10895,7 @@
           "pt-BR": "Grito de Guerra II",
           "ko": "전투의 함성Ⅱ",
           "zh-Hant": "戰嚎Ⅱ",
-          "zh-Hans": "战吼Ⅱ",
+          "zh-Hans": "战嚎Ⅱ",
           "ar": "صيحة الحرب 2",
           "es-419": "Grito de guerra II"
         }
@@ -11088,20 +11606,20 @@
       {
         "level": 1,
         "descriptions": {
-          "ja": "「連撃」スキルの効果発動時、\r\n有効時間を延長し、基礎攻撃力＋３",
-          "en": "Extends the duration of the Burst\r\nskill and grants attack +3 while\r\nBurst is active.",
-          "fr": "Augmente la durée du talent\r\nVendetta et confère Attaque +3\r\nquand Vendetta est actif. ",
-          "it": "Aumenta la durata dell'abilità\r\nCatena e aumenta di +3\r\nl'attacco finché l'abilità è attiva.",
-          "de": "Verlängert die Dauer der Salve-\r\nFähigkeit; und Angriff +3, wenn\r\nSalve aktiv ist.",
-          "es": "Prolonga la duración de la habilidad\r\n\"ráfaga\" y da ataque +3 mientras\r\n\"ráfaga\" esté activa.",
-          "ru": "Продлевает действие навыка «Шквал»\r\nи даёт +3 к атаке, пока он действует.",
-          "pl": "Wydłuża czas trwania umiejętności\r\nWybuch i zapewnia +3 ataku, gdy\r\njest ona aktywna.",
-          "pt-BR": "Prolonga a duração da habilidade\r\nRajada e concede +3 de ataque\r\nenquanto ela estiver ativa.",
-          "ko": "'연격' 스킬 효과 발동 시\r\n유효 시간 연장, 기초 공격력+3",
-          "zh-Hant": "技能「連擊」效果發動時延長其有效\r\n時間，基礎攻擊力+3。",
-          "zh-Hans": "“连击”技能效果发动时，延长其\r\n有效时间，且基础攻击力+3",
-          "ar": "تطيل مدة مهارة الانفجار\r\nوتمنح هجومًا +3\r\nأثناء تنشيط الانفجار.",
-          "es-419": "Prolonga la duración de Ráfaga\r\ny otorga +3 de ataque\r\nmientras Ráfaga está activa."
+          "ja": "「連撃」スキルの効果発動時、\r\n有効時間を延長し、基礎攻撃力＋８",
+          "en": "Extends the duration of the Burst\r\nskill and grants attack +8 while\r\nBurst is active.",
+          "fr": "Augmente la durée du talent\r\nVendetta et confère Attaque +8\r\nquand Vendetta est actif. ",
+          "it": "Aumenta la durata dell'abilità\r\nCatena e aumenta di +8\r\nl'attacco finché l'abilità è attiva.",
+          "de": "Verlängert die Dauer der Salve-\r\nFähigkeit; und Angriff +8, wenn\r\nSalve aktiv ist.",
+          "es": "Prolonga la duración de la habilidad\r\n\"ráfaga\" y da ataque +8 mientras\r\n\"ráfaga\" esté activa.",
+          "ru": "Продлевает действие навыка «Шквал»\r\nи даёт +8 к атаке, пока он активен.",
+          "pl": "Wydłuża czas trwania umiejętności\r\nWybuch i zapewnia +8 ataku, gdy\r\njest ona aktywna.",
+          "pt-BR": "Prolonga a duração da habilidade\r\nRajada e concede +8 de ataque\r\nenquanto ela estiver ativa.",
+          "ko": "'연격' 스킬 효과 발동 시\r\n유효 시간 연장, 기초 공격력+8",
+          "zh-Hant": "技能「連擊」效果發動時延長其有效\r\n時間，基礎攻擊力+8。",
+          "zh-Hans": "“连击”技能效果发动时，延长其\r\n有效时间，且基础攻击力+8",
+          "ar": "تطيل مدة مهارة الانفجار\r\nوتمنح هجومًا +8\r\nأثناء تنشيط الانفجار.",
+          "es-419": "Prolonga la duración de Ráfaga\r\ny otorga +8 de ataque mientras\r\nRáfaga está activa."
         },
         "names": {
           "ja": "連撃強化Ⅰ",
@@ -11123,20 +11641,20 @@
       {
         "level": 2,
         "descriptions": {
-          "ja": "「連撃」スキルの効果発動時、\r\n有効時間をさらに延長し、\r\n基礎攻撃力＋１０",
-          "en": "Further extends the duration of\r\nthe Burst skill and grants attack +10\r\nwhile Burst is active.",
-          "fr": "Augmente encore la durée du talent\r\nVendetta et confère Attaque +10\r\nquand Vendetta est actif.",
-          "it": "Aumenta la durata dell'abilità\r\nCatena e aumenta di +10\r\nl'attacco finché l'abilità è attiva.",
-          "de": "Verlängert die Dauer der Salve-\r\nFähigkeit in hohem Maße; und\r\nAngriff +10, wenn Salve aktiv ist.",
-          "es": "Prolonga más la duración de la\r\nhabilidad \"ráfaga\" y da ataque +10\r\nmientras \"ráfaga\" esté activa.",
-          "ru": "Продлевает действие навыка «Шквал»\r\nещё сильнее и даёт +10 к атаке, пока\r\nон действует.",
-          "pl": "Dodatkowo wydłuża czas trwania\r\numiejętności Wybuch i zapewnia +10\r\nataku, gdy jest ona aktywna.",
-          "pt-BR": "Prolonga ainda mais a duração da\r\nhabilidade Rajada e concede +10 de\r\nataque enquanto ela estiver ativa.",
-          "ko": "'연격' 스킬 효과 발동 시\r\n유효 시간 추가 연장,\r\n기초 공격력+10",
-          "zh-Hant": "技能「連擊」效果發動時進一步延長\r\n其有效時間，基礎攻擊力+10。",
-          "zh-Hans": "“连击”技能效果发动时，进一步延长\r\n其有效时间，且基础攻击力+10",
-          "ar": "تطيل مدة مهارة الانفجار أكثر\r\nوتمنح هجومًا +10\r\nأثناء تنشيط الانفجار.",
-          "es-419": "Prolonga más la duración de Ráfaga\r\ny otorga +10 de ataque\r\nmientras Ráfaga está activa."
+          "ja": "「連撃」スキルの効果発動時、\r\n有効時間をさらに延長し、\r\n基礎攻撃力＋１８",
+          "en": "Further extends the duration of\r\nthe Burst skill and grants attack +18\r\nwhile Burst is active.",
+          "fr": "Augmente encore la durée du talent\r\nVendetta et confère Attaque +18\r\nquand Vendetta est actif.",
+          "it": "Aumenta ulteriormente la durata di\r\nCatena e aumenta di +18\r\nl'attacco finché l'abilità è attiva.",
+          "de": "Verlängert die Dauer der Salve-\r\nFähigkeit in hohem Maße; und\r\nAngriff +18, wenn Salve aktiv ist.",
+          "es": "Prolonga más la duración de la\r\nhabilidad \"ráfaga\" y da ataque +18\r\nmientras \"ráfaga\" esté activa.",
+          "ru": "Продлевает действие навыка «Шквал»\r\nещё сильнее и даёт +18 к атаке, пока\r\nон активен.",
+          "pl": "Dodatkowo wydłuża czas trwania\r\numiejętności Wybuch i zapewnia +18\r\nataku, gdy jest ona aktywna.",
+          "pt-BR": "Prolonga ainda mais a duração da\r\nhabilidade Rajada e concede +18 de\r\nataque enquanto ela estiver ativa.",
+          "ko": "'연격' 스킬 효과 발동 시\r\n유효 시간 추가 연장,\r\n기초 공격력+18",
+          "zh-Hant": "技能「連擊」效果發動時進一步延長\r\n其有效時間，基礎攻擊力+18。",
+          "zh-Hans": "“连击”技能效果发动时，进一步延长\r\n其有效时间，且基础攻击力+18",
+          "ar": "تطيل مدة مهارة الانفجار أكثر\r\nوتمنح هجومًا +18\r\nأثناء تنشيط الانفجار.",
+          "es-419": "Prolonga más la duración de Ráfaga\r\ny otorga +18 de ataque mientras\r\nRáfaga está activa."
         },
         "names": {
           "ja": "連撃強化Ⅱ",

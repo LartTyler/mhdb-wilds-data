@@ -5196,7 +5196,7 @@
       "ko": "킬러알타이르 강화형.\r\n반역자의 곤봉은 싸움터를\r\n활보하며 철천지원수인\r\n사냥감을 찢어발긴다.",
       "zh-Hant": "強化版蟲棍河鼓二。反逆者之棍奔馳\r\n於戰場，將不共戴天的獵物劈開。",
       "zh-Hans": "虫棍河鼓二的强化型。反逆者之棍\r\n奔驰于战场，将不共戴天的猎物撕\r\n裂。",
-      "ar": "الشكل الذي تمت ترقيته للنسر الطائر.\r\nعند استخدامه في المعركة،\r\nيُقضى على الأعداء اللدودين بسهولة.",
+      "ar": "النسر الطائر الذي تمّ ترقيته.\r\nعند استخدامه في المعركة،\r\nيُقضى على الأعداء اللدودين بسهولة.",
       "es-419": "Forma mejorada del Altair.\r\nHace pedazos a los enemigos\r\nacérrimos con facilidad."
     },
     "rarity": 8,
@@ -6441,6 +6441,175 @@
     "series_id": -1175600512
   },
   {
+    "game_id": 81,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 70,
+      "green": 30,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 8,
+    "names": {
+      "ja": "ロッドオブオメガ",
+      "en": "Omega's Rod",
+      "fr": "Sceptre Oméga",
+      "it": "Bastone di Omega",
+      "de": "Omegas Stab",
+      "es": "Vara de Omega",
+      "ru": "Жезл Омеги",
+      "pl": "Kostur Omegi",
+      "pt-BR": "Cajado Omega",
+      "ko": "오메가 지팡이",
+      "zh-Hant": "歐米茄之杖",
+      "zh-Hans": "欧米茄之杖",
+      "ar": "عصا أوميغا",
+      "es-419": "Glaive de Omega"
+    },
+    "descriptions": {
+      "ja": "とある自律兵器が生み出した武器を\r\n模した操虫棍。放たれる連撃は\r\n間断なく対象に到達する。",
+      "en": "An insect glaive modeled after\r\na certain autonomous weapon.\r\nBarrages the target with attacks.",
+      "fr": "Insectoglaive inspiré d'une\r\ncertaine arme autonome.\r\nAccable la cible d'attaques.",
+      "it": "Un falcione insetto ispirato a\r\nuna certa arma autonoma.\r\nScarica una raffica di attacchi\r\nsul bersaglio.",
+      "de": "Einer gewissen autonomen\r\nWaffe nachempfundene\r\nInsektenglefe. Malträtiert\r\nsein Ziel mit Angriffen.",
+      "es": "Una glaive insecto con la forma\r\nde cierta arma autónoma.\r\nDerriba al objetivo con sus ataques.",
+      "ru": "Глефа насекомых, созданная\r\nпо образцу некоего автономного\r\nоружия. Обрушьте на цель\r\nшквал ударов.",
+      "pl": "Owadzia glewia zaprojektowana\r\nna wzór autonomicznej broni.\r\nZasypuje cel atakami.",
+      "pt-BR": "Glaive inseto inspirada em\r\numa certa arma autônoma.\r\nDispara uma série de ataques\r\ncontra o alvo.",
+      "ko": "어느 자율병기가 만든 무기를\r\n모방한 조충곤. 발사된 연격이\r\n끊임없이 대상에게 도달한다.",
+      "zh-Hant": "仿造某自律型兵器產生的武器而製成\r\n的操蟲棍。使出的連擊會源源不斷地\r\n擊中目標。",
+      "zh-Hans": "此操虫棍的造型模仿了某个自律型\r\n兵器生成的武器。使出的连击会源\r\n源不断地击中目标。",
+      "ar": "سيف حشرة مصمم على غرار سلاح\r\nمعين ذاتي التشغيل. يمطر الهدف\r\nبوابل من الهجمات.",
+      "es-419": "Una glaive insecto modelada\r\nsegún cierta arma autónoma.\r\nBombardea al objetivo con\r\nataques."
+    },
+    "rarity": 7,
+    "attack_raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 18,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 8,
+        "740": 6,
+        "744": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 26
+    },
+    "skills": {
+      "31998": 1
+    },
+    "series_id": -765803328
+  },
+  {
+    "game_id": 82,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 60,
+      "green": 20,
+      "blue": 80,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 9,
+    "names": {
+      "ja": "ロッドオブオメガ・真",
+      "en": "True Omega's Rod",
+      "fr": "Sceptre Oméga véritable",
+      "it": "Vero Bastone di Omega",
+      "de": "Wahrer Stab Omegas",
+      "es": "Vara de Omega verdadera",
+      "ru": "Истинный жезл Омеги",
+      "pl": "Prawdziwy kostur Omegi",
+      "pt-BR": "Cajado Omega Real",
+      "ko": "오메가 지팡이 진",
+      "zh-Hant": "真・歐米茄之杖",
+      "zh-Hans": "欧米茄之杖·真",
+      "ar": "عصا أوميغا الحقيقية",
+      "es-419": "Glaive de Omega verdadera"
+    },
+    "descriptions": {
+      "ja": "数多の戦闘の果てに進化に至った\r\nロッドオブオメガ。生み出さ\r\nれし光弾の雨が全てを薙ぎ払う。",
+      "en": "Omega's Rod, after having\r\nevolved through combat.\r\nBrings annihilation with\r\na deluge of light.",
+      "fr": "Sceptre Oméga qui a évolué\r\nau fil des combats. Apporte la\r\ndestruction dans un déluge de\r\nlumière.",
+      "it": "Un bastone di Omega evoluto\r\nattraverso il combattimento.\r\nPorta l'annientamento con un\r\ndiluvio di luce.",
+      "de": "Eine weiterentwickelte Version\r\nvon Omegas Stab, durch unzäh-\r\nlige Kämpfe gestählt. Bringt\r\nVernichtung durch eine Lichtflut.",
+      "es": "Una vara de Omega que ha\r\nevolucionado al combatir.\r\nInvoca la aniquilación con\r\nuna lluvia de rayos de luz.",
+      "ru": "«Жезл Омеги», который\r\nэволюционировал в бою.\r\nНесите истребление\r\nв потоках света.",
+      "pl": "Kostur Omegi, który ewoluował\r\nw walce. Przynosi zagładę\r\npowodzią światła.",
+      "pt-BR": "Cajado Omega que evoluiu\r\natravés do combate incessante.\r\nCom um dilúvio de luz, traz a\r\naniquilação.",
+      "ko": "수많은 전투 끝에 진화한\r\n오메가 지팡이.\r\n생성된 광탄의 비가\r\n모든 것을 쓸어 버린다.",
+      "zh-Hant": "歷經諸多戰鬥而進化的歐米茄之杖。\r\n其創造的光彈之雨將會掃清一切。",
+      "zh-Hans": "历经无数次战斗实现进化的欧米茄\r\n之杖。生成的光弹之雨能够扫清一\r\n切障碍。",
+      "ar": "عصا (أوميغا) بعد أن تطوّرت\r\nفي أتون المعارك، لتنزل الهلاك\r\nبسيلٍ جارفٍ من النور.",
+      "es-419": "Una glaive de Omega que ha\r\ncrecido a través del combate.\r\nTrae la aniquilación con un\r\ndiluvio de luz."
+    },
+    "rarity": 8,
+    "attack_raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 23,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "739": 7,
+        "741": 5,
+        "743": 5,
+        "745": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 26
+    },
+    "skills": {
+      "31998": 1
+    },
+    "series_id": -765803328
+  },
+  {
     "game_id": 83,
     "kind": "insect-glaive",
     "sharpness": {
@@ -6652,7 +6821,7 @@
       "de": "Eine Glefe in Form des Stabs der\r\nSaikrii-Reiter von Kunafa. Wird\r\ntraditionell bei Erreichen des\r\nErwachsenenalters verliehen.",
       "es": "Glaive insecto semejante a una\r\nvara empleada por los jinetes\r\nde Seikret de Kunafa. Se entrega\r\nal cumplir la mayoría de edad.",
       "ru": "Глефа насекомых, напоминающая\r\nпосохи, которыми пользуются\r\nкунафские наездники на сейкретах.\r\nСлужит символом зрелости.",
-      "pl": "Owadzia glewia przypominająca laskę\r\nużywaną przez jeźdźców Seikretów\r\nz Kunafy. Tradycyjnie wręczana na\r\npotwierdzenie osiągnięcia dojrzałości.",
+      "pl": "Owadzia glewia, przypominająca\r\nlaskę jeźdźców Seikretów z\r\nKunafy. Tradycyjnie wręczana\r\nw dowód osiągnięcia dojrzałości.",
       "pt-BR": "Uma glaive inseto semelhante ao\r\ncajado usado pelos montadores\r\nde Seikret de Kunafa. Costuma ser\r\ndada como prova de maioridade.",
       "ko": "쿠나파 마을 세크레트 기수가\r\n사용하는 지팡이를 본떠\r\n만들었다. 원래는 어엿한\r\n기수의 증표로 주어진다.",
       "zh-Hant": "以庫納法村的鷺鷹龍騎手使用的長杖\r\n為原型所製成。原本是贈予可獨當\r\n一面之騎手的證明。",
@@ -6738,7 +6907,7 @@
       "ko": "오래 사용한 선봉대의 장지팡이\r\n최종판. 세크레트와 교감하고\r\n휘두르는 모습은 용과 인간이\r\n한 몸이 된 것처럼 보인다.",
       "zh-Hant": "衝鋒隊長杖經長久使用後的的最終\r\n型態。與鷺鷹龍互通心靈的騎手\r\n揮舞長杖之姿宛如人龍一體。",
       "zh-Hans": "长期使用的先锋团长杖达到极致。\r\n与鹭鹰龙心意相通时挥舞的姿态，\r\n可谓人龙一体。",
-      "ar": "الشكل النهائي لسيف الطليعة\r\nعريض النصل؛ وحين يُستخدم بتناغم\r\nمع (سيكريت)، فكأنّ حامله\r\nيقاتل إلى جانب تنين.",
+      "ar": "الشكل النهائي لسيف الطليعة\r\nعريض النصل. حينما يُستخدم بتناغم\r\nمع (سيكريت)، فكأنّ حامله\r\nيقاتل إلى جانب تنين.",
       "es-419": "Forma definitiva de la glaive\r\nvanguardista. Cuando se blande\r\nen armonía con un Seikret, es\r\ncomo luchar junto a un dragón."
     },
     "rarity": 8,

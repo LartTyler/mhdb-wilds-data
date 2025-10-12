@@ -1334,6 +1334,52 @@
     ]
   },
   {
+    "game_id": -1608406656,
+    "ranks": [
+      {
+        "names": {
+          "ja": "未解の護石",
+          "en": "Unknown Charm",
+          "fr": "Talisman inconnu",
+          "it": "Amuleto sconosciuto",
+          "de": "Unbekannter Talisman",
+          "es": "Amuleto desconocido",
+          "ru": "Оберег неизведанного",
+          "pl": "Amulet nieznany",
+          "pt-BR": "Amuleto Desconhecido",
+          "ko": "미지의 호석",
+          "zh-Hant": "不明護石",
+          "zh-Hans": "不明护石",
+          "ar": "تعويذة مجهولة",
+          "es-419": "Amuleto desconocido"
+        },
+        "descriptions": {
+          "ja": "いつ作成されたかも判明していない\r\nとされる護石。持ち主の隠された\r\n能力を引き出すという。",
+          "en": "A talisman of indeterminable\r\nage. Said to draw out the\r\nholder's hidden strengths.",
+          "fr": "Talisman d'un âge indéterminé.\r\nIl révélerait les forces cachées\r\nde son porteur.",
+          "it": "Un amuleto di epoca sconosciuta, \r\nche si dice possa far emergere\r\nla forza nascosta di chi lo possiede.",
+          "de": "Ein Talisman unbestimmbaren\r\nAlters. Soll die verborgenen\r\nKräfte seines Besitzers hervor-\r\nkitzeln.",
+          "es": "Un talismán de antigüedad\r\nindeterminada. Se dice que\r\nsaca a la luz las virtudes\r\nocultas del portador.",
+          "ru": "Неизвестно, когда был создан\r\nэтот талисман, но, по слухам,\r\nс его помощью можно раскрыть\r\nсвой внутренний потенциал.",
+          "pl": "Talizman o nieokreślonym wieku.\r\nPodobno wydobywa\r\nukryte moce posiadacza.",
+          "pt-BR": "Um amuleto de era desconhecida.\r\nDizem que desperta as virtudes\r\nocultas de seu portador.",
+          "ko": "제작 시기가 불명인 호석.\r\n소유자의 숨은 능력을\r\n끌어낸다고 한다.",
+          "zh-Hant": "連於何時製造都不清楚的護石。\r\n據說能引出持有者的潛在能力。",
+          "zh-Hans": "甚至不知道何时制造出的护石。\r\n相传能够激发持有者潜藏的能力。",
+          "ar": "تعويذة غامضة لا يمكن تحديد عمرها.\r\nيُقال إنها تستخرج القوى الخفية لحاملها.",
+          "es-419": "Amuleto de edad indeterminada.\r\nSe dice que extrae las fuerzas\r\nocultas de su poseedor."
+        },
+        "rarity": 5,
+        "level": 1,
+        "price": 3000,
+        "skills": {},
+        "recipe": {
+          "inputs": {}
+        }
+      }
+    ]
+  },
+  {
     "game_id": -1575023104,
     "ranks": [
       {
@@ -2072,6 +2118,52 @@
             "492": 3,
             "581": 1
           }
+        }
+      }
+    ]
+  },
+  {
+    "game_id": -1382563840,
+    "ranks": [
+      {
+        "names": {
+          "ja": "秘歴の護石",
+          "en": "Secret Charm",
+          "fr": "Talisman secret",
+          "it": "Amuleto segreto",
+          "de": "Geheimer Talisman",
+          "es": "Amuleto secreto",
+          "ru": "Оберег с тайной",
+          "pl": "Amulet tajemniczy",
+          "pt-BR": "Amuleto Secreto",
+          "ko": "비화의 호석",
+          "zh-Hant": "秘歷護石",
+          "zh-Hans": "秘史护石",
+          "ar": "تعويذة سرية",
+          "es-419": "Amuleto secreto"
+        },
+        "descriptions": {
+          "ja": "未だ明かされぬ歴史の真実を秘めて\r\nいるとされる護石。持つ者はいずれ\r\n世界の深淵に触れるという。",
+          "en": "A talisman containing untold\r\nsecrets of history. The holder will\r\none day see the world's abyss.",
+          "fr": "Talisman renfermant les secrets\r\nde l'histoire. Son porteur verra\r\nun jour l'abîme du monde.",
+          "it": "Un amuleto che contiene segreti\r\ndella storia mai svelati. Chi lo possiede\r\nvedrà un giorno l'abisso del mondo.",
+          "de": "Ein Talisman, der ungelüftete\r\nGeheimnisse der Geschichte\r\nenthält. Führt seinen Besitzer\r\nan den Abgrund der Welt.",
+          "es": "Un talismán que contiene\r\nlos mayores secretos de la\r\nhistoria. El portador verá un\r\ndía el abismo del mundo.",
+          "ru": "Талисман, хранящий нераскрытые\r\nтайны истории. Его владельцу\r\nоднажды предстоит прикоснуться\r\nк глубинным загадкам мира.",
+          "pl": "Talizman skrywający nieznane\r\nsekrety historii. Jego posiadacz\r\npewnego dnia ujrzy otchłań\r\ntego świata.",
+          "pt-BR": "Um amuleto que guarda segredos\r\nhistóricos jamais contados. Um\r\ndia, seu portador vislumbrará\r\no abismo deste mundo.",
+          "ko": "숨겨진 역사의 진실이 담긴\r\n호석. 소유자는 머지않아\r\n세계의 심연을 경험하게 된다.",
+          "zh-Hant": "蘊藏著尚未公布之歷史真相的護石。\r\n據說持有者終將觸及世界的深淵。",
+          "zh-Hans": "藏有尚未解明的历史真相的护石。\r\n相传持有者终将触碰到世界的深渊。",
+          "ar": "تعويذة تحمل أسرار التاريخ المجهولة.\r\nسيشهد حاملها يومًا ما هاوية العالم.",
+          "es-419": "Un amuleto que contiene secretos\r\nhistóricos sin revelar.\r\nEl portador verá un día el abismo\r\ndel mundo."
+        },
+        "rarity": 7,
+        "level": 1,
+        "price": 9000,
+        "skills": {},
+        "recipe": {
+          "inputs": {}
         }
       }
     ]
@@ -4849,6 +4941,52 @@
     ]
   },
   {
+    "game_id": 353607840,
+    "ranks": [
+      {
+        "names": {
+          "ja": "栄世の護石",
+          "en": "Golden Age Charm",
+          "fr": "Talisman de prospérité",
+          "it": "Amuleto dell'età d'oro",
+          "de": "Glorreicher Talisman",
+          "es": "Amuleto de edad dorada",
+          "ru": "Оберег золотого века",
+          "pl": "Amulet złotego wieku",
+          "pt-BR": "Amuleto da Era Áurea",
+          "ko": "번영의 호석",
+          "zh-Hant": "榮世護石",
+          "zh-Hans": "盛世护石",
+          "ar": "تعويذة العصر الذهبي",
+          "es-419": "Amuleto de la edad dorada"
+        },
+        "descriptions": {
+          "ja": "嘗て栄えた文明の深智が刻まれた\r\nとされる護石。手にした者には、\r\n伝説の一端が垣間見えるという。",
+          "en": "A talisman inscribed with the\r\nwisdom of an advanced culture.\r\nOffers a glimpse into an era\r\nof legends.",
+          "fr": "Talisman empreint de la sagesse\r\nd'une civilisation évoluée. Offre\r\nun aperçu d'une époque mythique.",
+          "it": "Un amuleto che racchiude la saggezza\r\ndi una cultura avanzata. Offre uno\r\nsguardo su un'epoca di leggende.",
+          "de": "Ein Talisman mit dem Wissen\r\neiner fortschrittlichen Kultur.\r\nVerspricht einen Blick in eine\r\nÄra der Legenden.",
+          "es": "Un talismán con una sabia\r\ninscripción de una cultura muy\r\navanzada. Permite vislumbrar\r\nuna era de leyendas.",
+          "ru": "Талисман, хранящий на своей\r\nповерхности мудрость цивилизации\r\nс развитой культурой. Позволяет\r\nприкоснуться к эпохе легенд.",
+          "pl": "Talizman nasycony mądrością\r\nrozwiniętej cywilizacji. Daje\r\nwgląd w zapomnianą epokę\r\nlegend.",
+          "pt-BR": "Um amuleto contendo escritos do\r\nconhecimento de uma cultura\r\navançada. Permite vislumbrar\r\numa era lendária. ",
+          "ko": "번성한 문명의 깊은 지혜가\r\n새겨진 호석. 소유자는 전설의\r\n일부분을 엿볼 수 있다.",
+          "zh-Hant": "刻劃著古時繁榮文明之大智的護石。\r\n據說拿到的人能瞥見傳說的一部分。",
+          "zh-Hans": "刻有曾经繁荣的文明之睿智的护石。\r\n相传持有者能够瞥见一部分传说。",
+          "ar": "تعويذة نُقشت عليها حكمة حضارة متقدمة،\r\nتمنح لمحة عن عصر الأساطير.",
+          "es-419": "Un amuleto inscrito con la\r\nsabiduría de una cultura\r\navanzada. Ofrece una mirada\r\na una era de leyendas."
+        },
+        "rarity": 8,
+        "level": 1,
+        "price": 16000,
+        "skills": {},
+        "recipe": {
+          "inputs": {}
+        }
+      }
+    ]
+  },
+  {
     "game_id": 367465856,
     "ranks": [
       {
@@ -5589,6 +5727,52 @@
             "551": 2,
             "661": 5
           }
+        }
+      }
+    ]
+  },
+  {
+    "game_id": 837371776,
+    "ranks": [
+      {
+        "names": {
+          "ja": "史伝の護石",
+          "en": "Historical Charm",
+          "fr": "Talisman historique",
+          "it": "Amuleto storico",
+          "de": "Historischer Talisman",
+          "es": "Amuleto histórico",
+          "ru": "Оберег прошлого",
+          "pl": "Amulet historyczny",
+          "pt-BR": "Amuleto Histórico",
+          "ko": "전승의 호석",
+          "zh-Hant": "史傳護石",
+          "zh-Hans": "史传护石",
+          "ar": "تعويذة تاريخية",
+          "es-419": "Amuleto histórico"
+        },
+        "descriptions": {
+          "ja": "過去の書物の一隅に記録されていた\r\n希少な護石。その輝きの奥には\r\n更なる歴史が眠っているという。",
+          "en": "An odd talisman that was written\r\nabout in historical texts. Its glow\r\ncontains the depths of the past.",
+          "fr": "Étrange talisman mentionné dans\r\nles textes historiques. Son éclat\r\nrecèle les mystères du passé.",
+          "it": "Uno strano amuleto di cui si parla\r\nnei testi storici. Il suo bagliore\r\nracchiude le profondità del passato.",
+          "de": "Ein rarer Talisman, der in\r\nhistorischen Schriften Erwähnung\r\nfindet. Tief in seinem Leuchten\r\nschlummert die Vergangenheit.",
+          "es": "Un extraño talismán que\r\nconsta en escrituras antiguas.\r\nEn su brillo se vislumbra la\r\nprofundidad del pasado.",
+          "ru": "Странный талисман, описанный\r\nв исторических текстах. Что-то\r\nв его свечении подсказывает, что\r\nон принадлежит другой эпохе.",
+          "pl": "Dziwny talizman opisywany\r\nw tekstach historycznych.\r\nJego blask odzwierciedla\r\ngłębię przeszłości.",
+          "pt-BR": "Um amuleto estranho que consta\r\nem escrituras antigas. Seu brilho\r\noculta as profundezas de outrora.",
+          "ko": "옛날 서적 한 모퉁이에 기록된\r\n희귀한 호석. 반짝임 속에\r\n또 다른 역사가 잠들어 있다.",
+          "zh-Hant": "記載於古書角落的稀有護石。據說\r\n其光芒深處藏有更悠久的歷史。",
+          "zh-Hans": "记载于古代文献一隅的稀有护石。\r\n在它的光芒深处，据说还有更多的\r\n历史沉睡其中。",
+          "ar": "تعويذة غريبة ورد ذكرها في نصوص تاريخية.\r\nيشعّ توهّجها بأعماق الماضي.",
+          "es-419": "Un extraño amuleto sobre el que\r\nse escribió en textos\r\nhistóricos. Su brillo encierra\r\nlas profundidades del pasado."
+        },
+        "rarity": 6,
+        "level": 1,
+        "price": 6000,
+        "skills": {},
+        "recipe": {
+          "inputs": {}
         }
       }
     ]
@@ -6888,6 +7072,54 @@
             "452": 1
           }
         }
+      },
+      {
+        "names": {
+          "ja": "急襲の護石Ⅲ",
+          "en": "Descent Charm III",
+          "fr": "Talisman d'embuscade III",
+          "it": "Amuleto discesa III",
+          "de": "Überfall-Talisman III",
+          "es": "Amuleto de descenso III",
+          "ru": "Оберег внезапности III",
+          "pl": "Amulet opadania III",
+          "pt-BR": "Amuleto de Descida III",
+          "ko": "급습의 호석Ⅲ",
+          "zh-Hant": "急襲護石Ⅲ",
+          "zh-Hans": "急袭护石Ⅲ",
+          "ar": "تميمة الهبوط 3",
+          "es-419": "Amuleto de descenso III"
+        },
+        "descriptions": {
+          "ja": "装備することで急襲スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Ambush\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Embuscade.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Agguato.",
+          "de": "Dieses Amulett gewährt die\r\nÜberfall-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"emboscada\".",
+          "ru": "Оберег, дарующий навык\r\n«Внезапность».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Zasadzka.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nEmboscada.",
+          "ko": "장비하면 급습 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動急襲技能的護身符。",
+          "zh-Hans": "发动急袭技能的护身符。",
+          "ar": "تميمة تمنح مهارة الهبوط.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Emboscada."
+        },
+        "rarity": 7,
+        "level": 3,
+        "price": 9000,
+        "skills": {
+          "-171796848": 3
+        },
+        "recipe": {
+          "inputs": {
+            "384": 6,
+            "385": 4,
+            "388": 1,
+            "760": 3
+          }
+        }
       }
     ]
   },
@@ -7782,6 +8014,54 @@
             "661": 5
           }
         }
+      },
+      {
+        "names": {
+          "ja": "逆上の護石Ⅲ",
+          "en": "Fury Charm III",
+          "fr": "Talisman de fureur III",
+          "it": "Amuleto furia III",
+          "de": "Zorn-Talisman III",
+          "es": "Amuleto furia III",
+          "ru": "Оберег ярости III",
+          "pl": "Amulet furii III",
+          "pt-BR": "Amuleto de Fúria III",
+          "ko": "역상의 호석Ⅲ",
+          "zh-Hant": "暴怒護石Ⅲ",
+          "zh-Hans": "暴怒护石Ⅲ",
+          "ar": "تميمة الغاضب 3",
+          "es-419": "Amuleto de furia III"
+        },
+        "descriptions": {
+          "ja": "装備することで逆恨みスキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nResentment skill.",
+          "fr": "Un talisman qui confère\r\nle talent Vengeance.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Risentimento.",
+          "de": "Dieses Amulett gewährt die\r\nGroll-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"resentimiento\".",
+          "ru": "Оберег, дарующий навык\r\n«Негодование».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Uraza.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nIndignação.",
+          "ko": "장비하면 앙심 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動怨恨技能的護身符。",
+          "zh-Hans": "发动怨恨技能的护身符。",
+          "ar": "تميمة تمنح مهارة الاستياء.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Resentimiento."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "1359821952": 3
+        },
+        "recipe": {
+          "inputs": {
+            "383": 6,
+            "387": 4,
+            "717": 1,
+            "760": 3
+          }
+        }
       }
     ]
   },
@@ -8476,6 +8756,54 @@
             "660": 3
           }
         }
+      },
+      {
+        "names": {
+          "ja": "攻勢の護石Ⅲ",
+          "en": "Foray Charm III",
+          "fr": "Talisman de fourberie III",
+          "it": "Amuleto incursione III",
+          "de": "Vorstoß-Talisman III",
+          "es": "Amuleto de irrupción III",
+          "ru": "Оберег налёта III",
+          "pl": "Amulet najazdu III",
+          "pt-BR": "Amuleto de Investida III",
+          "ko": "공세의 호석Ⅲ",
+          "zh-Hant": "攻勢護石Ⅲ",
+          "zh-Hans": "攻势护石Ⅲ",
+          "ar": "تميمة الغارة 3",
+          "es-419": "Amuleto de irrupción III"
+        },
+        "descriptions": {
+          "ja": "装備することで攻勢スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Foray\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Incursion.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Incursione.",
+          "de": "Dieses Amulett gewährt die\r\nVorstoß-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"irrupción\".",
+          "ru": "Оберег, дарующий навык\r\n«Налёт».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Najazd.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nInvestida.",
+          "ko": "장비하면 공세 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動攻勢技能的護身符。",
+          "zh-Hans": "发动攻势技能的护身符。",
+          "ar": "تميمة تمنح مهارة الغارة.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Irrupción."
+        },
+        "rarity": 7,
+        "level": 3,
+        "price": 9000,
+        "skills": {
+          "27684744": 3
+        },
+        "recipe": {
+          "inputs": {
+            "736": 1,
+            "737": 3,
+            "741": 3,
+            "744": 1
+          }
+        }
       }
     ]
   },
@@ -8575,6 +8903,54 @@
             "437": 1,
             "660": 3,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "連撃の護石Ⅲ",
+          "en": "Chain Charm III",
+          "fr": "Talisman d'acharnement III",
+          "it": "Amuleto catena III",
+          "de": "Ketten-Talisman III",
+          "es": "Amuleto de serie III",
+          "ru": "Оберег растущей мощи III",
+          "pl": "Amulet łańcucha III",
+          "pt-BR": "Amuleto de Cadeia III",
+          "ko": "연격의 호석Ⅲ",
+          "zh-Hant": "連擊護石Ⅲ",
+          "zh-Hans": "连击护石Ⅲ",
+          "ar": "تميمة السلسلة 3",
+          "es-419": "Amuleto de cadena III"
+        },
+        "descriptions": {
+          "ja": "装備することで連撃スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nBurst skill.",
+          "fr": "Un talisman qui confère\r\nle talent Vendetta.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Catena.",
+          "de": "Dieses Amulett gewährt die\r\nSalve-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"ráfaga\".",
+          "ru": "Оберег, дарующий навык\r\n«Шквал».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Wybuch.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nRajada.",
+          "ko": "장비하면 연격 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動連擊技能的護身符。",
+          "zh-Hans": "发动连击技能的护身符。",
+          "ar": "تميمة تمنح مهارة الانفجار.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Ráfaga."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "565867136": 3
+        },
+        "recipe": {
+          "inputs": {
+            "554": 1,
+            "737": 5,
+            "743": 3,
+            "744": 1
           }
         }
       }
