@@ -44,14 +44,6 @@ impl Serialize for Item {
             };
 
             values.serialize(serializer)
-
-            // let mut seq = serializer.serialize_seq(Some(values.len()))?;
-            //
-            // for value in values.iter() {
-            //     seq.serialize_element(value)?;
-            // }
-            //
-            // seq.end()
         } else {
             let mut map = serializer.serialize_map(Some(self.fields.len()))?;
 
@@ -75,17 +67,13 @@ impl Serialize for Item {
 }
 
 fn is_transparent_collection(item: &Item) -> bool {
-    const TRANSPARENT_COLLECTION_NAMES: &[&str] = &["_Values", "_DataList"];
-    item.fields.len() == 1 && TRANSPARENT_COLLECTION_NAMES.contains(&item.fields[0].name.as_str())
+    item.fields.len() == 1 && matches!(item.fields[0].value, Value::Array(_))
 }
 
 fn is_transparent_value(value: &Value) -> bool {
-    const TRANSPARENT_FIELD_NAMES: &[&str] = &["_Value"];
-
     matches!(
         value,
-        Value::Object(v)
-            if v.fields.len() == 1 && TRANSPARENT_FIELD_NAMES.contains(&v.fields[0].name.as_str())
+        Value::Object(v) if v.fields.len() == 1
     )
 }
 
@@ -105,7 +93,7 @@ impl Serialize for Values {
                     );
                 };
 
-                seq.serialize_element(inner)?;
+                seq.serialize_element(&inner.fields[0].value)?;
             } else {
                 seq.serialize_element(value)?;
             }
