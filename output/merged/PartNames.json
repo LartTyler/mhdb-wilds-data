@@ -570,6 +570,25 @@
     }
   },
   {
+    "part": "periscope",
+    "names": {
+      "ja": "背中ユニット",
+      "en": "Rear Power Unit",
+      "fr": "Unité arrière",
+      "it": "Gruppo elettrogeno posteriore",
+      "de": "H. Antriebseinheit",
+      "es": "Ud. energía trasera",
+      "ru": "Задний генератор",
+      "pl": "Tylna jednostka napędowa",
+      "pt-BR": "Unidade Traseira",
+      "ko": "후면 유닛",
+      "zh-Hant": "背部元件",
+      "zh-Hans": "背部组",
+      "ar": "وحدة الطاقة الخلفية",
+      "es-419": "Unidad de poder trasera"
+    }
+  },
+  {
     "part": "right-wing-arm-hide",
     "names": {
       "ja": "右翼腕",

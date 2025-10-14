@@ -1,6 +1,7 @@
 [
   {
     "game_id": -2084662144,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -150,6 +151,7 @@
   },
   {
     "game_id": -2057181952,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -198,6 +200,7 @@
   },
   {
     "game_id": -1899364096,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -395,6 +398,7 @@
   },
   {
     "game_id": -1817216768,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -543,6 +547,7 @@
   },
   {
     "game_id": -1814327808,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -691,6 +696,7 @@
   },
   {
     "game_id": -1744301184,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -888,6 +894,7 @@
   },
   {
     "game_id": -1709915136,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1037,6 +1044,7 @@
   },
   {
     "game_id": -1681870720,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1186,6 +1194,7 @@
   },
   {
     "game_id": -1616219264,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1335,6 +1344,7 @@
   },
   {
     "game_id": -1608406656,
+    "is_random": true,
     "ranks": [
       {
         "names": {
@@ -1381,6 +1391,7 @@
   },
   {
     "game_id": -1575023104,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1529,6 +1540,7 @@
   },
   {
     "game_id": -1537448960,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1678,6 +1690,7 @@
   },
   {
     "game_id": -1528900352,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1779,6 +1792,7 @@
   },
   {
     "game_id": -1521981312,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -1976,6 +1990,7 @@
   },
   {
     "game_id": -1506168192,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2124,6 +2139,7 @@
   },
   {
     "game_id": -1382563840,
+    "is_random": true,
     "ranks": [
       {
         "names": {
@@ -2170,6 +2186,7 @@
   },
   {
     "game_id": -1372186624,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2319,6 +2336,7 @@
   },
   {
     "game_id": -1369125504,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2467,6 +2485,7 @@
   },
   {
     "game_id": -1177344640,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2516,6 +2535,7 @@
   },
   {
     "game_id": -1176873728,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2664,6 +2684,7 @@
   },
   {
     "game_id": -1172000256,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2812,6 +2833,7 @@
   },
   {
     "game_id": -1137475456,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -2913,6 +2935,7 @@
   },
   {
     "game_id": -982128896,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3061,6 +3084,7 @@
   },
   {
     "game_id": -957600192,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3210,6 +3234,7 @@
   },
   {
     "game_id": -922609472,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3359,6 +3384,7 @@
   },
   {
     "game_id": -864112704,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3604,6 +3630,7 @@
   },
   {
     "game_id": -855795328,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3752,6 +3779,7 @@
   },
   {
     "game_id": -771118656,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -3901,6 +3929,7 @@
   },
   {
     "game_id": -633163904,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4050,6 +4079,7 @@
   },
   {
     "game_id": -575627136,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4198,6 +4228,7 @@
   },
   {
     "game_id": -498059904,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4443,6 +4474,7 @@
   },
   {
     "game_id": -364548128,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4544,6 +4576,7 @@
   },
   {
     "game_id": -290359904,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4693,6 +4726,7 @@
   },
   {
     "game_id": -223321168,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4841,6 +4875,7 @@
   },
   {
     "game_id": 4075369,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -4942,6 +4977,7 @@
   },
   {
     "game_id": 353607840,
+    "is_random": true,
     "ranks": [
       {
         "names": {
@@ -4988,6 +5024,7 @@
   },
   {
     "game_id": 367465856,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5137,6 +5174,7 @@
   },
   {
     "game_id": 478395008,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5286,6 +5324,7 @@
   },
   {
     "game_id": 510533376,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5435,6 +5474,7 @@
   },
   {
     "game_id": 514922816,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5584,6 +5624,7 @@
   },
   {
     "game_id": 728714240,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5733,6 +5774,7 @@
   },
   {
     "game_id": 837371776,
+    "is_random": true,
     "ranks": [
       {
         "names": {
@@ -5779,6 +5821,7 @@
   },
   {
     "game_id": 886754368,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -5928,6 +5971,7 @@
   },
   {
     "game_id": 905673984,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6077,6 +6121,7 @@
   },
   {
     "game_id": 907750144,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6178,6 +6223,7 @@
   },
   {
     "game_id": 1116710528,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6279,6 +6325,7 @@
   },
   {
     "game_id": 1172345600,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6428,6 +6475,7 @@
   },
   {
     "game_id": 1178535936,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6577,6 +6625,7 @@
   },
   {
     "game_id": 1247012608,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6678,6 +6727,7 @@
   },
   {
     "game_id": 1268779776,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6827,6 +6877,7 @@
   },
   {
     "game_id": 1315266688,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -6976,6 +7027,7 @@
   },
   {
     "game_id": 1327804928,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7125,6 +7177,7 @@
   },
   {
     "game_id": 1355608320,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7226,6 +7279,7 @@
   },
   {
     "game_id": 1633903872,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7375,6 +7429,7 @@
   },
   {
     "game_id": 1690664448,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7524,6 +7579,7 @@
   },
   {
     "game_id": 1692326144,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7673,6 +7729,7 @@
   },
   {
     "game_id": 1744488448,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -7918,6 +7975,7 @@
   },
   {
     "game_id": 1772035584,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8067,6 +8125,7 @@
   },
   {
     "game_id": 1885843456,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8215,6 +8274,7 @@
   },
   {
     "game_id": 1974873600,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8411,6 +8471,7 @@
   },
   {
     "game_id": 2005262080,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8559,6 +8620,7 @@
   },
   {
     "game_id": 2009419008,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8660,6 +8722,7 @@
   },
   {
     "game_id": 2011238144,
+    "is_random": false,
     "ranks": [
       {
         "names": {
@@ -8809,6 +8872,7 @@
   },
   {
     "game_id": 2089594752,
+    "is_random": false,
     "ranks": [
       {
         "names": {

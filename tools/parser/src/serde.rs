@@ -44,6 +44,12 @@ impl Serialize for Item {
             };
 
             values.serialize(serializer)
+        } else if is_transparent_object(self) {
+            let Value::Object(ref item) = self.fields[0].value else {
+                panic!("Transparent objects must always be an object.")
+            };
+
+            item.fields[0].value.serialize(serializer)
         } else {
             let mut map = serializer.serialize_map(Some(self.fields.len()))?;
 
@@ -68,6 +74,11 @@ impl Serialize for Item {
 
 fn is_transparent_collection(item: &Item) -> bool {
     item.fields.len() == 1 && matches!(item.fields[0].value, Value::Array(_))
+}
+
+fn is_transparent_object(item: &Item) -> bool {
+    item.fields.len() == 1
+        && matches!(item.fields[0].value, Value::Object(ref inner) if is_transparent_collection(inner))
 }
 
 fn is_transparent_value(value: &Value) -> bool {

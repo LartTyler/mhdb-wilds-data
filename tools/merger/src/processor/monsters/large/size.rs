@@ -10,7 +10,12 @@ pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Resu
     let data: Vec<SizeData> = Vec::read_file(config.io.output.join(DATA))?;
 
     for data in data {
-        let monster = context.find_monster_mut_or_panic(data.id);
+        // Some unimplemented monsters appear to be included in the size file sometimes. We can just
+        // ignore entries with no data.
+        let Some(monster) = context.find_monster_mut(data.id) else {
+            continue;
+        };
+
         monster.size = data.into();
     }
 

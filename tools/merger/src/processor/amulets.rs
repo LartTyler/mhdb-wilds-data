@@ -36,6 +36,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         } else {
             let amulet = Amulet {
                 game_id: data.group_id,
+                is_random: data.is_random,
                 ranks: Vec::new(),
             };
 
@@ -106,6 +107,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 #[derive(Debug, Serialize)]
 struct Amulet {
     game_id: isize,
+    is_random: bool,
     ranks: Vec<Rank>,
 }
 
@@ -142,7 +144,7 @@ struct Recipe {
     #[serde(serialize_with = "ordered_map")]
     inputs: IdMap,
 }
-
+// 353607840 -1608406656 837371776 -1382563840
 #[derive(Debug, Deserialize)]
 struct AmuletData {
     #[serde(rename = "_AmuletType")]
@@ -161,6 +163,8 @@ struct AmuletData {
     skill_ids: Vec<isize>,
     #[serde(rename = "_SkillLevel")]
     skill_levels: Vec<u8>,
+    #[serde(rename = "_FreeFlag001")]
+    is_random: bool,
 }
 
 #[derive(Debug, Deserialize)]
