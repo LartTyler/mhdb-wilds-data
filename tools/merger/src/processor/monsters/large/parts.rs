@@ -190,13 +190,18 @@ struct MultiplierData {
 
 impl From<PartData> for Part {
     fn from(value: PartData) -> Self {
+        assert!(
+            value.health[0] >= 0.0,
+            "Part base health shouldn't be less than zero."
+        );
+
         Self {
             guid: value.guid,
             meat_guid: value.meat_guid,
             break_guids: Vec::new(),
             break_reward_indexes: Vec::new(),
             kind: value.kind,
-            base_health: value.has_health.then_some(value.health[0]),
+            base_health: value.has_health.then_some(value.health[0] as u16),
             kinsect_essence: value.kinsect_essence,
             multipliers: Multipliers::default(),
         }
@@ -226,7 +231,7 @@ struct PartData {
     #[serde(rename = "_PartsType")]
     kind: PartKind,
     #[serde(rename = "_Vital")]
-    health: Vec<u16>,
+    health: Vec<f32>,
     #[serde(rename = "_RodExtract")]
     kinsect_essence: KinsectEssenceKind,
     #[serde(rename = "_IsEnablePartsVital")]
@@ -252,6 +257,7 @@ struct BreakRewardItem {
 #[repr(isize)]
 pub enum PartKind {
     // region Variants
+    StupidBarrelPuncher = -1,
     Invalid = 486590176,
     FullBody = 1733044864,
     Head = -212024896,
@@ -360,6 +366,8 @@ pub enum PartKind {
     HeadArmor = 17094,
     LeftWingArmArmor = 24769,
     RightWingArmArmor = 15310,
+    Periscope = 20830,
+    Equipment = 11039,
     // endregion
 }
 

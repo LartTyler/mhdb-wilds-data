@@ -304,12 +304,31 @@
     }
   },
   {
+    "game_id": 1615,
+    "names": {
+      "ja": "ポルターアイルー・紫霊",
+      "en": "Violet Poltercat",
+      "fr": "Fantômiaou violet",
+      "it": "Fantasmiao viola",
+      "de": "Polterkatze (violett)",
+      "es": "Poltergato morado",
+      "ru": "Фиолетовый полтеркотт",
+      "pl": "Fioletowy polterkot",
+      "pt-BR": "Fantasmagato Violeta",
+      "ko": "폴터 아이루/자령",
+      "zh-Hant": "騷靈艾路・紫靈",
+      "zh-Hans": "骚灵艾露猫・紫灵",
+      "ar": "القط الشبح البنفسجي",
+      "es-419": "Poltergato morado"
+    }
+  },
+  {
     "game_id": 1952,
     "names": {
       "ja": "勇者の証【波衣竜】",
       "en": "Uth Duna: Mark of Bravery",
       "fr": "Uth Duna : gage de bravoure",
-      "it": "Uth Duna: M. valore",
+      "it": "Uth Duna: Marchio valore",
       "de": "Uth Duna: Mut",
       "es": "Uth Duna: Señal de valor",
       "ru": "Ут дуна: знак героя",
@@ -339,6 +358,63 @@
       "zh-Hans": "霸者之证【辟兽】",
       "ar": "دوشاغوما: رمز الإتقان",
       "es-419": "Doshaguma: dominio"
+    }
+  },
+  {
+    "game_id": 2461,
+    "names": {
+      "ja": "ポルターアイルー・橙霊",
+      "en": "Orange Poltercat",
+      "fr": "Fantômiaou orange",
+      "it": "Fantasmiao arancio",
+      "de": "Polterkatze (orange)",
+      "es": "Poltergato naranja",
+      "ru": "Оранжевый полтеркотт",
+      "pl": "Pomarańczowy polterkot",
+      "pt-BR": "Fantasmagato Laranja",
+      "ko": "폴터 아이루/주령",
+      "zh-Hant": "騷靈艾路・橙靈",
+      "zh-Hans": "骚灵艾露猫・橙灵",
+      "ar": "القط الشبح البرتقالي",
+      "es-419": "Poltergato naranja"
+    }
+  },
+  {
+    "game_id": 2552,
+    "names": {
+      "ja": "ポルターアイルー・赤霊",
+      "en": "Red Poltercat",
+      "fr": "Fantômiaou rouge",
+      "it": "Fantasmiao rosso",
+      "de": "Polterkatze (rot)",
+      "es": "Poltergato rojo",
+      "ru": "Красный полтеркотт",
+      "pl": "Czerwony polterkot",
+      "pt-BR": "Fantasmagato Vermelho",
+      "ko": "폴터 아이루/적령",
+      "zh-Hant": "騷靈艾路・赤靈",
+      "zh-Hans": "骚灵艾露猫・红灵",
+      "ar": "القط الشبح الأحمر",
+      "es-419": "Poltergato rojo"
+    }
+  },
+  {
+    "game_id": 2841,
+    "names": {
+      "ja": "ごきげんババコンカー",
+      "en": "Happy-Go-Congakart",
+      "fr": "Congakart joyeux",
+      "it": "Giostra Go-Congakart",
+      "de": "Conga-Kart",
+      "es": "Congakart feliz",
+      "ru": "Весёлый конга-карт",
+      "pl": "Wesoły Congakart",
+      "pt-BR": "Congacarro Feliz",
+      "ko": "신나는 바바콩카",
+      "zh-Hant": "歡樂桃毛車",
+      "zh-Hans": "欢乐桃毛兽王车",
+      "ar": "كونغا كارت السعيد",
+      "es-419": "Congakart feliz"
     }
   },
   {
@@ -418,6 +494,25 @@
     }
   },
   {
+    "game_id": 6194,
+    "names": {
+      "ja": "こんがり肉ストラップ",
+      "en": "Well-done Steak Strap",
+      "fr": "Sangle steak à point",
+      "it": "Cordino Bistecca",
+      "de": "Steak-Anhänger",
+      "es": "Colgante de filete al punto",
+      "ru": "Ремешок: прожар. стейк",
+      "pl": "Wysmażony stek",
+      "pt-BR": "Chaveiro Bem Passado",
+      "ko": "잘 익은 고기 스트랩",
+      "zh-Hant": "全熟肉飾帶",
+      "zh-Hans": "烤熟的肉吊饰",
+      "ar": "شريط شريحة لحم مطهوة جيدًا",
+      "es-419": "Tira de filete bien cocido"
+    }
+  },
+  {
     "game_id": 6327,
     "names": {
       "ja": "希望のスカーフＧ・桜",
@@ -437,6 +532,25 @@
     }
   },
   {
+    "game_id": 6760,
+    "names": {
+      "ja": "ラバラドレスの人形・青",
+      "en": "Blue Lala Dress Doll",
+      "fr": "Poupée Barina bleue",
+      "it": "Bambolala blu",
+      "de": "Barina-Puppe (blau)",
+      "es": "Muñeca con vestido lala azul",
+      "ru": "Кукла в лала-платье (син.)",
+      "pl": "Niebieska laleczka Lali",
+      "pt-BR": "Lala Boneca Azul",
+      "ko": "라바라드레스 인형/파랑",
+      "zh-Hant": "刺花禮服玩偶・藍",
+      "zh-Hans": "刺花蜘蛛礼服娃娃・蓝",
+      "ar": "دمية فستان لالا الأزرق",
+      "es-419": "Muñeca con vestido lala azul"
+    }
+  },
+  {
     "game_id": 7066,
     "names": {
       "ja": "ジョイントドスベイト",
@@ -453,6 +567,25 @@
       "zh-Hans": "联装大拟饵",
       "ar": "طُعم الحجر البركاني المفصلي",
       "es-419": "Cebo de toba articulable"
+    }
+  },
+  {
+    "game_id": 8166,
+    "names": {
+      "ja": "ラバラドレスの人形・紫",
+      "en": "Violet Lala Dress Doll",
+      "fr": "Poupée Barina violette",
+      "it": "Bambolala viola",
+      "de": "Barina-Puppe (violett)",
+      "es": "Muñeca con vestido lala morado",
+      "ru": "Кукла в лала-платье (ф.)",
+      "pl": "Fioletowa laleczka Lali",
+      "pt-BR": "Lala Boneca Violeta",
+      "ko": "라바라드레스 인형/보라",
+      "zh-Hant": "刺花禮服玩偶・紫",
+      "zh-Hans": "刺花蜘蛛礼服娃娃・紫",
+      "ar": "دمية فستان لالا البنفسجي",
+      "es-419": "Muñeca con vestido lala morado"
     }
   },
   {
@@ -494,6 +627,101 @@
     }
   },
   {
+    "game_id": 8950,
+    "names": {
+      "ja": "玉乗りプーギー【モノクロ】",
+      "en": "Rolling Poogie: Monochrome",
+      "fr": "Poogie équilibriste : monochrome",
+      "it": "Poogie monocromatico",
+      "de": "Zirkus-Poogie (mono)",
+      "es": "Poogie rodante: Monocromo",
+      "ru": "Хрюшка на шаре: монохр.",
+      "pl": "Turlająca się Świnka: jednokolorowa",
+      "pt-BR": "Rola-Poogie: Monocromo",
+      "ko": "곡예 푸기【흑백】",
+      "zh-Hant": "踩球噗吱豬【黑白】",
+      "zh-Hans": "踩球噗吱猪【黑白】",
+      "ar": "بوغي المتدحرج: أحادي اللون",
+      "es-419": "Poogie rodante: monocromático"
+    }
+  },
+  {
+    "game_id": 9095,
+    "names": {
+      "ja": "玉乗りプーギー【ツートン】",
+      "en": "Rolling Poogie: Two-tone",
+      "fr": "Poogie équilibriste : bicolore",
+      "it": "Poogie rotolante due toni",
+      "de": "Zirkus-Poogie (bunt)",
+      "es": "Poogie rodante: Duotono",
+      "ru": "Хрюшка на шаре: двухцв.",
+      "pl": "Turlająca się Świnka: dwukolorowa",
+      "pt-BR": "Rola-Poogie: Bicolor",
+      "ko": "곡예 푸기【투톤】",
+      "zh-Hant": "踩球噗吱豬【雙色】",
+      "zh-Hans": "踩球噗吱猪【双色】",
+      "ar": "بوغي المتدحرج: ثنائي اللون",
+      "es-419": "Poogie rodante: doble tono"
+    }
+  },
+  {
+    "game_id": 9206,
+    "names": {
+      "ja": "挑戦者の証【獄焔蛸】",
+      "en": "Nu Udra: Mark of Contest",
+      "fr": "Nu Udra : gage de lutte",
+      "it": "Nu Udra: Marchio sfida",
+      "de": "Nu Udra: Wagnis",
+      "es": "Nu Udra: Señal de lucha",
+      "ru": "Ну удра: знак претендента",
+      "pl": "Nu Udra: Symbol pojedynku",
+      "pt-BR": "Nu Udra: Contestação",
+      "ko": "도전자의 증표【염옥소】",
+      "zh-Hant": "挑戰者之證【獄焰鱆】",
+      "zh-Hans": "挑战者之证【狱焰蛸】",
+      "ar": "نو أودرا: رمز المنافسة",
+      "es-419": "Nu Udra: lucha"
+    }
+  },
+  {
+    "game_id": 9492,
+    "names": {
+      "ja": "てくてくミニテンダー",
+      "en": "Trot-along Cactuar",
+      "fr": "Mini-pampa trotteur",
+      "it": "Kyactus da compagnia",
+      "de": "Kaktor-Begleiter",
+      "es": "Cactilio trotador",
+      "ru": "Семенящий кактуар",
+      "pl": "Podążający kaktuar",
+      "pt-BR": "Cactuar Trotador",
+      "ko": "터벅터벅 미니텐더",
+      "zh-Hant": "踱步幼小仙人掌",
+      "zh-Hans": "小踱幼小仙人掌",
+      "ar": "الصبار المهرول",
+      "es-419": "Cactilio al trote"
+    }
+  },
+  {
+    "game_id": 9716,
+    "names": {
+      "ja": "ポルターアイルー・青霊",
+      "en": "Blue Poltercat",
+      "fr": "Fantômiaou bleu",
+      "it": "Fantasmiao blu",
+      "de": "Polterkatze (blau)",
+      "es": "Poltergato azul",
+      "ru": "Синий полтеркотт",
+      "pl": "Niebieski polterkot",
+      "pt-BR": "Fantasmagato Azul",
+      "ko": "폴터 아이루/청령",
+      "zh-Hant": "騷靈艾路・藍靈",
+      "zh-Hans": "骚灵艾露猫・蓝灵",
+      "ar": "القط الشبح الأزرق",
+      "es-419": "Poltergato azul"
+    }
+  },
+  {
     "game_id": 10426,
     "names": {
       "ja": "踊火の精霊・白焔",
@@ -529,6 +757,25 @@
       "zh-Hans": "勇者之证【煌雷龙】",
       "ar": "راي داو: رمز الشجاعة",
       "es-419": "Rey Dau: valor"
+    }
+  },
+  {
+    "game_id": 10883,
+    "names": {
+      "ja": "ふわふわセンバチョウ",
+      "en": "Fluttering Myriads",
+      "fr": "Myriades",
+      "it": "Miriadi in volo",
+      "de": "Myriaden",
+      "es": "Miríadas aleteando",
+      "ru": "Порхающие несметки",
+      "pl": "Trzepoczące miriady",
+      "pt-BR": "Miríades Esvoaçantes",
+      "ko": "하늘하늘 천군 나비",
+      "zh-Hant": "輕盈千羽蝶",
+      "zh-Hans": "轻盈千羽蝶",
+      "ar": "آلاف متراقصة",
+      "es-419": "Miríadas aleteando"
     }
   },
   {
@@ -605,6 +852,25 @@
       "zh-Hans": "浮浮闪星",
       "ar": "البَريق العائم",
       "es-419": "Destellos flotantes"
+    }
+  },
+  {
+    "game_id": 12139,
+    "names": {
+      "ja": "ラバラドレスの人形・桃",
+      "en": "Pink Lala Dress Doll",
+      "fr": "Poupée Barina rose",
+      "it": "Bambolala rosa",
+      "de": "Barina-Puppe (rosa)",
+      "es": "Muñeca con vestido lala rosa",
+      "ru": "Кукла в лала-платье (роз.)",
+      "pl": "Różowa laleczka Lali",
+      "pt-BR": "Lala Boneca Rosa",
+      "ko": "라바라드레스 인형/분홍",
+      "zh-Hant": "刺花禮服玩偶・桃",
+      "zh-Hans": "刺花蜘蛛礼服娃娃・桃",
+      "ar": "دمية فستان لالا الوردي",
+      "es-419": "Muñeca con vestido lala rosa"
     }
   },
   {
@@ -703,6 +969,44 @@
     }
   },
   {
+    "game_id": 15764,
+    "names": {
+      "ja": "覇者の証【千刃竜】",
+      "en": "Seregios: Mark of Mastery",
+      "fr": "Seregios : gage de maîtrise",
+      "it": "Seregios: Marchio maestria",
+      "de": "Seregios: Dominanz",
+      "es": "Seregios: Señal de dominio",
+      "ru": "Серегиос: знак мастера",
+      "pl": "Seregios: Symbol mistrzostwa",
+      "pt-BR": "Seregios: Maestria",
+      "ko": "패자의 증표【천인룡】",
+      "zh-Hant": "霸者之證【千刃龍】",
+      "zh-Hans": "霸者之证【千刃龙】",
+      "ar": "سيرجيوس: رمز الإتقان",
+      "es-419": "Seregios: dominio"
+    }
+  },
+  {
+    "game_id": 15907,
+    "names": {
+      "ja": "ポルターアイルー・緑霊",
+      "en": "Green Poltercat",
+      "fr": "Fantômiaou vert",
+      "it": "Fantasmiao verde",
+      "de": "Polterkatze (grün)",
+      "es": "Poltergato verde",
+      "ru": "Зелёный полтеркотт",
+      "pl": "Zielony polterkot",
+      "pt-BR": "Fantasmagato Verde",
+      "ko": "폴터 아이루/녹령",
+      "zh-Hant": "騷靈艾路・綠靈",
+      "zh-Hans": "骚灵艾露猫・绿灵",
+      "ar": "القط الشبح الأخضر",
+      "es-419": "Poltergato verde"
+    }
+  },
+  {
     "game_id": 16045,
     "names": {
       "ja": "黄金バグヘッド",
@@ -719,6 +1023,25 @@
       "zh-Hans": "黄金虫头",
       "ar": "رأس الحشرة الذهبي",
       "es-419": "Bicho dorado"
+    }
+  },
+  {
+    "game_id": 16125,
+    "names": {
+      "ja": "アイルーテディ・夢灯",
+      "en": "Dreamspell Felyne Teddy",
+      "fr": "Peluche Veillée des rêves",
+      "it": "Orsetto Ognissogni F",
+      "de": "Traumzauber-Felyne",
+      "es": "Peluche Felyne sueñiencanto",
+      "ru": "Плюш. котт Чар снов",
+      "pl": "Plusz. fel. Czaru Snów",
+      "pt-BR": "Pelúcia de Felyno Feitissonho",
+      "ko": "아이루 테디/몽화",
+      "zh-Hant": "泰迪艾路・夢燈",
+      "zh-Hans": "泰迪艾露猫・梦灯",
+      "ar": "دمية فيلاين تعويذة الأحلام",
+      "es-419": "Peluche Sueñiencanto F"
     }
   },
   {
@@ -779,6 +1102,25 @@
     }
   },
   {
+    "game_id": 16849,
+    "names": {
+      "ja": "勇者の証【千刃竜】",
+      "en": "Seregios: Mark of Bravery",
+      "fr": "Seregios : gage de bravoure",
+      "it": "Seregios: Marchio audacia",
+      "de": "Seregios: Mut",
+      "es": "Seregios: Señal de valor",
+      "ru": "Серегиос: знак героя",
+      "pl": "Seregios: Symbol odwagi",
+      "pt-BR": "Seregios: Bravura",
+      "ko": "용사의 증표【천인룡】",
+      "zh-Hant": "勇者之證【千刃龍】",
+      "zh-Hans": "勇者之证【千刃龙】",
+      "ar": "سيرجيوس: رمز الشجاعة",
+      "es-419": "Seregios: valor"
+    }
+  },
+  {
     "game_id": 17328,
     "names": {
       "ja": "踊火の精霊・紫焔",
@@ -795,6 +1137,25 @@
       "zh-Hans": "踊火精灵・紫焰",
       "ar": "روح مهرجان اللهب البنفسجي",
       "es-419": "Espíritu chisparranda morado"
+    }
+  },
+  {
+    "game_id": 17596,
+    "names": {
+      "ja": "ふわふわプチオメガ",
+      "en": "Floating OMG",
+      "fr": "Mini-Oméga flottant",
+      "it": "OMG fluttuante",
+      "de": "Mini-Flug-Omega",
+      "es": "Omega flotante",
+      "ru": "Парящий OMG",
+      "pl": "Latający OMG",
+      "pt-BR": "OMG Flutuante",
+      "ko": "하늘하늘 꼬메가",
+      "zh-Hant": "輕盈迷你歐米茄",
+      "zh-Hans": "轻盈迷你欧米茄",
+      "ar": "أوميغا صغير طافٍ",
+      "es-419": "OMG flotante"
     }
   },
   {
@@ -931,6 +1292,25 @@
     }
   },
   {
+    "game_id": 20284,
+    "names": {
+      "ja": "勇者の証【獄焔蛸】",
+      "en": "Nu Udra: Mark of Bravery",
+      "fr": "Nu Udra : gage de bravoure",
+      "it": "Nu Udra: Marchio valore",
+      "de": "Nu Udra: Mut",
+      "es": "Nu Udra: Señal de valor",
+      "ru": "Ну удра: знак героя",
+      "pl": "Nu Udra: Symbol odwagi",
+      "pt-BR": "Nu Udra: Bravura",
+      "ko": "용사의 증표【염옥소】",
+      "zh-Hant": "勇者之證【獄焰鱆】",
+      "zh-Hans": "勇者之证【狱焰蛸】",
+      "ar": "نو أودرا: رمز الشجاعة",
+      "es-419": "Nu Udra: valor"
+    }
+  },
+  {
     "game_id": 20360,
     "names": {
       "ja": "てくてくフワフワクイナ",
@@ -1045,6 +1425,25 @@
     }
   },
   {
+    "game_id": 24406,
+    "names": {
+      "ja": "覇者の証【獄焔蛸】",
+      "en": "Nu Udra: Mark of Mastery",
+      "fr": "Nu Udra : gage de maîtrise",
+      "it": "Nu Udra: Marchio maestria",
+      "de": "Nu Udra: Dominanz",
+      "es": "Nu Udra: Señal de dominio",
+      "ru": "Ну удра: знак мастера",
+      "pl": "Nu Udra: Symbol mistrzostwa",
+      "pt-BR": "Nu Udra: Maestria",
+      "ko": "패자의 증표【염옥소】",
+      "zh-Hant": "霸者之證【獄焰鱆】",
+      "zh-Hans": "霸者之证【狱焰蛸】",
+      "ar": "نو أودرا: رمز الإتقان",
+      "es-419": "Nu Udra: dominio"
+    }
+  },
+  {
     "game_id": 25269,
     "names": {
       "ja": "挑戦者の証【闢獣】",
@@ -1083,12 +1482,31 @@
     }
   },
   {
+    "game_id": 25622,
+    "names": {
+      "ja": "ラバラドレスの人形・橙",
+      "en": "Orange Lala Dress Doll",
+      "fr": "Poupée Barina orange",
+      "it": "Bambolala arancione",
+      "de": "Barina-Puppe (orange)",
+      "es": "Muñeca con vestido lala naranja",
+      "ru": "Кукла в лала-платье (ор.)",
+      "pl": "Pomarańczowa laleczka Lali",
+      "pt-BR": "Lala Boneca Laranja",
+      "ko": "라바라드레스 인형/주황",
+      "zh-Hant": "刺花禮服玩偶・橙",
+      "zh-Hans": "刺花蜘蛛礼服娃娃・橙",
+      "ar": "دمية فستان لالا البرتقالي",
+      "es-419": "Muñeca con vestido lala naranja"
+    }
+  },
+  {
     "game_id": 25832,
     "names": {
       "ja": "挑戦者の証【波衣竜】",
       "en": "Uth Duna: Mark of Contest",
       "fr": "Uth Duna : gage de lutte",
-      "it": "Uth Duna: M. sfida",
+      "it": "Uth Duna: Marchio sfida",
       "de": "Uth Duna: Wagnis",
       "es": "Uth Duna: Señal de lucha",
       "ru": "Ут дуна: знак претендента",
@@ -1099,6 +1517,25 @@
       "zh-Hans": "挑战者之证【波衣龙】",
       "ar": "أوث دونا: رمز المنافسة",
       "es-419": "Uth Duna: lucha"
+    }
+  },
+  {
+    "game_id": 26151,
+    "names": {
+      "ja": "トゥナネコγの玉飾り",
+      "en": "Felyne Duna γ Bobble",
+      "fr": "Pompon Duna γ Felyne",
+      "it": "Pon pon Duna F γ",
+      "de": "F Duna-Bommel γ",
+      "es": "Borla Duna Felyne γ",
+      "ru": "Шар «Котт-дуна γ»",
+      "pl": "Felińska figurka Duny γ",
+      "pt-BR": "Pompom Duna F. γ",
+      "ko": "투나고양이γ 구슬 장식",
+      "zh-Hant": "波衣龍貓γ裝飾球",
+      "zh-Hans": "波衣龙猫γ装饰球",
+      "ar": "دمية فيلاين دونا γ برأس متحرك",
+      "es-419": "Borla Duna Felyne γ"
     }
   },
   {
@@ -1221,7 +1658,7 @@
       "ja": "覇者の証【波衣竜】",
       "en": "Uth Duna: Mark of Mastery",
       "fr": "Uth Duna : gage de maîtrise",
-      "it": "Uth Duna: M. maestria",
+      "it": "Uth Duna: Marchio maestria",
       "de": "Uth Duna: Dominanz",
       "es": "Uth Duna: Señal de dominio",
       "ru": "Ут дуна: знак мастера",
@@ -1273,6 +1710,25 @@
     }
   },
   {
+    "game_id": 29257,
+    "names": {
+      "ja": "ラバラドレスの人形・赤",
+      "en": "Red Lala Dress Doll",
+      "fr": "Poupée Barina rouge",
+      "it": "Bambolala rossa",
+      "de": "Barina-Puppe (rot)",
+      "es": "Muñeca con vestido lala rojo",
+      "ru": "Кукла в лала-платье (кр.)",
+      "pl": "Czerwona laleczka Lali",
+      "pt-BR": "Lala Boneca Vermelha",
+      "ko": "라바라드레스 인형/빨강",
+      "zh-Hant": "刺花禮服玩偶・赤",
+      "zh-Hans": "刺花蜘蛛礼服娃娃・红",
+      "ar": "دمية فستان لالا الأحمر",
+      "es-419": "Muñeca con vestido lala rojo"
+    }
+  },
+  {
     "game_id": 29333,
     "names": {
       "ja": "アイルーテディ・踊火",
@@ -1308,6 +1764,44 @@
       "zh-Hans": "跳舞的黑猫陶俑",
       "ar": "القطة السوداء الراقصة",
       "es-419": "Gato negro bailarín"
+    }
+  },
+  {
+    "game_id": 30457,
+    "names": {
+      "ja": "挑戦者の証【千刃竜】",
+      "en": "Seregios: Mark of Contest",
+      "fr": "Seregios : gage de lutte",
+      "it": "Seregios: Marchio sfida",
+      "de": "Seregios: Wagnis",
+      "es": "Seregios: Señal de lucha",
+      "ru": "Серегиос: знак претендента",
+      "pl": "Seregios: Symbol pojedynku",
+      "pt-BR": "Seregios: Contestação",
+      "ko": "도전자의 증표【천인룡】",
+      "zh-Hant": "挑戰者之證【千刃龍】",
+      "zh-Hans": "挑战者之证【千刃龙】",
+      "ar": "سيرجيوس: رمز المنافسة",
+      "es-419": "Seregios: lucha"
+    }
+  },
+  {
+    "game_id": 31701,
+    "names": {
+      "ja": "ポルターアイルー・白霊",
+      "en": "White Poltercat",
+      "fr": "Fantômiaou blanc",
+      "it": "Fantasmiao bianco",
+      "de": "Polterkatze (weiß)",
+      "es": "Poltergato blanco",
+      "ru": "Белый полтеркотт",
+      "pl": "Biały polterkot",
+      "pt-BR": "Fantasmagato Branco",
+      "ko": "폴터 아이루/백령",
+      "zh-Hant": "騷靈艾路・白靈",
+      "zh-Hans": "骚灵艾露猫・白灵",
+      "ar": "القط الشبح الأبيض",
+      "es-419": "Poltergato blanco"
     }
   },
   {
@@ -1631,6 +2125,25 @@
       "zh-Hans": "龙灯翼饰",
       "ar": "أجنحة شعلة التنين",
       "es-419": "Alas Antorcha Dragón"
+    }
+  },
+  {
+    "game_id": 1777913344,
+    "names": {
+      "ja": "トゥナネコの玉飾り",
+      "en": "Felyne Duna Bobble",
+      "fr": "Pompon Duna Felyne",
+      "it": "Pon pon Duna F",
+      "de": "F Duna-Bommel",
+      "es": "Borla Duna Felyne",
+      "ru": "Шар «Котт-дуна»",
+      "pl": "Felińska figurka Duny",
+      "pt-BR": "Pompom Duna F.",
+      "ko": "투나고양이 구슬 장식",
+      "zh-Hant": "波衣龍貓裝飾球",
+      "zh-Hans": "波衣龙猫装饰球",
+      "ar": "دمية فيلاين دونا برأس متحرك",
+      "es-419": "Borla Duna Felyne"
     }
   },
   {

@@ -23,9 +23,13 @@ mod parts;
 mod rewards;
 mod size;
 
-const IGNORED_IDS: &[MonsterId] = &[-334290336];
-
 const OUTPUT: &str = "merged/LargeMonsters.json";
+
+const IGNORED_IDS: &[isize] = &[
+    // This is the "High Purrformance Barrel Puncher" and it's stupid and breaks my parser and it
+    // isn't even a real monster anyway, no matter what its mother told it growing up.
+    -334290336,
+];
 
 #[derive(Debug, Default)]
 struct RunContext {
@@ -40,10 +44,6 @@ impl RunContext {
             identifiers: Identifiers::new(identifiers),
             ..Default::default()
         }
-    }
-
-    pub fn find_monster_mut_or_panic(&mut self, game_id: MonsterId) -> &mut LargeMonster {
-        self.lookup.find_or_panic_mut(game_id, &mut self.monsters)
     }
 
     pub fn find_monster_mut(&mut self, game_id: MonsterId) -> Option<&mut LargeMonster> {

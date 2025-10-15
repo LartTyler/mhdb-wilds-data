@@ -17,7 +17,6 @@ where
     let status = Command::new(path.as_ref())
         .args(args)
         .stdout(Stdio::null())
-        // .stderr(Stdio::null())
         .status()?;
 
     if status.success() {
@@ -48,13 +47,20 @@ pub type Result<T> = std::result::Result<T, Error>;
 pub enum Error {
     #[error("Could not manipulate file path: {0}")]
     PathManipulation(&'static str),
+
     #[error("Extract command failed")]
     CommandFailed,
+
     #[error("io: {0}")]
     Io(#[from] std::io::Error),
+
+    #[error("Parsing failed: {0}")]
+    Parser(#[from] parser::rsz::Error),
+
+    #[error("Serialization failed: {0}")]
+    Serializer(#[from] serde_json::Error),
 }
 
 pub trait Extractor: Sync {
-    fn create(tool_path: &Path, input_prefix: Option<&Path>) -> Box<dyn Extractor> where Self: Sized;
     fn extract(&self, in_path: &Path, out_path: &Path, indexes: &[u8]) -> Result<Vec<PathBuf>>;
 }

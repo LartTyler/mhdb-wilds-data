@@ -1571,7 +1571,7 @@
       "ja": "セルレギオスの角を模した大剣。\r\n眩さを伴い繰り出される一撃は\r\nどんな闇をも切り裂く。",
       "en": "A great sword resembling\r\na Seregios horn. Its dazzling\r\nblow cuts through any darkness.",
       "fr": "Grande épée en forme de\r\ncorne de Seregios. Ses\r\ncoups déchirent les ténèbres.",
-      "it": "Spadone simile a un\r\ncorno di Seregios. I sui colpi\r\nabbaglianti fendono qualsiasi\r\noscurità.",
+      "it": "Spadone simile a un corno di\r\nSeregios. I suoi colpi abbaglianti\r\nfendono qualsiasi oscurità.",
       "de": "Ein Großschwert in Form eines\r\nSeregios-Horns. Jeder Schwung\r\ndurchtrennt die Dunkelheit.",
       "es": "Gran espada de aspecto similar\r\na un cuerno de Seregios.\r\nSu filo cegador doblega\r\nla oscuridad.",
       "ru": "Двуручный меч, напоминающий рог\r\nсерегиоса. Его мощные удары\r\nрассеивают тьму.",
@@ -6120,6 +6120,90 @@
     "series_id": -1175600512
   },
   {
+    "game_id": 79,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 70,
+      "green": 60,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "シャドウブリンガー",
+      "en": "Shadowbringer",
+      "fr": "Porteuse d'ombre",
+      "it": "Portatrice d'ombra",
+      "de": "Schattenbringer",
+      "es": "Buscasombras",
+      "ru": "Вестник тени",
+      "pl": "Władca cienia",
+      "pt-BR": "Portassombras",
+      "ko": "섀도브링어",
+      "zh-Hant": "暗影使者",
+      "zh-Hans": "暗影使者",
+      "ar": "جالب الظلال",
+      "es-419": "Buscasombras"
+    },
+    "descriptions": {
+      "ja": "とある国にて異端とされる騎士が\r\n携える両手剣。己が信念の為、\r\n振るわれる刃は暗黒に染まる。",
+      "en": "A two-handed blade wielded by\r\nknights who are pariahs in\r\ntheir own land. Its edge is\r\ndyed with their convictions.",
+      "fr": "Lame à deux mains maniée par des\r\nchevaliers considérés comme des\r\nparias. Son tranchant est teinté\r\nde leurs idéaux.",
+      "it": "Una lama a due mani brandita dai\r\ncavalieri reietti nella loro terra.\r\nLa sua lama è tinta delle\r\nloro convinzioni.",
+      "de": "Zweihandklinge der Ritter,\r\ndie Ausgestoßene im eigenen\r\nLand sind. Ihre Überzeugung\r\nglänzt auf der Schneide.",
+      "es": "Una espada a dos manos usada\r\npor caballeros parias en sus \r\ntierras. Su filo está teñido de \r\nsus convicciones.",
+      "ru": "Двуручный меч рыцаря, изгнанного\r\nиз родных земель. Клинок этого\r\nоружия запятнан тьмой убеждений\r\nего владельца.",
+      "pl": "Dwuręczny miecz rycerzy\r\nwygnanych z własnego kraju.\r\nJego ostrze lśni barwą ich przekonań.",
+      "pt-BR": "Espada de duas mãos usada por\r\ncavaleiros rejeitados em sua\r\nprópria terra. A lâmina carrega\r\na força de suas convicções.",
+      "ko": "한 국가에서 이단자로 간주하는\r\n기사가 소지한 양손검. 자신의\r\n신념을 위해 휘두르는 검은\r\n암흑으로 물든다.",
+      "zh-Hant": "據說是在某國被視為異類之騎士\r\n所使用的雙手劍。為了個人信念\r\n而揮舞的鋒刃將會染上黑暗。",
+      "zh-Hans": "在某国被视为异端的骑士持有的双\r\n手剑。为贯彻自身信念，挥舞的锋\r\n刃染上黑暗。",
+      "ar": "نصل ذو حدين، يحمله الفرسان\r\nالمنبوذون في ديارهم، وقد خضّب\r\nحدّه بعقائدهم الراسخة.",
+      "es-419": "Una espada a dos manos empuñada\r\npor caballeros parias en su\r\npropia tierra. Su filo está\r\nteñido con sus convicciones."
+    },
+    "rarity": 7,
+    "attack_raw": 210,
+    "affinity": 0,
+    "defense": 30,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 50,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 7,
+        "740": 5,
+        "741": 4
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 26
+    },
+    "skills": {
+      "3813": 1
+    },
+    "series_id": 569042624
+  },
+  {
     "game_id": 80,
     "kind": "great-sword",
     "sharpness": {
@@ -6446,6 +6530,89 @@
       "30201": 1
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 84,
+    "kind": "great-sword",
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 60,
+      "green": 50,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "シャドウブリンガー・真",
+      "en": "True Shadowbringer",
+      "fr": "Porteuse d'ombre véritable",
+      "it": "Portatrice di vera ombra",
+      "de": "Wahrer Schattenbringer",
+      "es": "Buscasombras verdadera",
+      "ru": "Истинный вестник тени",
+      "pl": "Prawdziwy władca cienia",
+      "pt-BR": "Portassombras Verdadeira",
+      "ko": "섀도브링어 진",
+      "zh-Hant": "真・暗影使者",
+      "zh-Hans": "暗影使者·真",
+      "ar": "جالب الظلال الحقيقي",
+      "es-419": "Buscasombras verdadera"
+    },
+    "descriptions": {
+      "ja": "己の影身に打ち克ち、更なる力に\r\n目覚めたシャドウブリンガー。\r\n背負った業と共にこれからも戦う。",
+      "en": "A Shadowbringer that has\r\nawakened to its true power\r\nafter conquering the darkness\r\nwithin.",
+      "fr": "Porteuse d'ombre ayant pris\r\nconscience de son véritable\r\npouvoir après avoir vaincu\r\nles ténèbres qui la hantaient.",
+      "it": "Una Portatrice d'ombra i cui\r\nveri poteri si sono risvegliati\r\ndopo aver conquistato\r\nl'oscurità.",
+      "de": "Ein Schattenbringer, dessen\r\nwahre Kraft erwachte,\r\nnachdem seine Dunkelheit\r\nbezwungen wurde.",
+      "es": "Una buscasombras que ha\r\ndespertado su auténtico poder\r\nal dominar la oscuridad que\r\nlleva dentro.",
+      "ru": "«Вестник тени», из которого\r\nизгнали тьму, пробудив его\r\nистинную силу.",
+      "pl": "Władca cienia, który odkrył swą\r\nprawdziwą moc po pokonaniu\r\nwewnętrznej ciemności.",
+      "pt-BR": "Portassombras que despertou\r\no seu verdadeiro poder após\r\nvencer a escuridão interior.",
+      "ko": "어두운 자신을 극복하고\r\n새로운 힘에 눈뜬 섀도브링어.\r\n짊어진 업과 함께\r\n계속해서 싸워 나간다.",
+      "zh-Hant": "戰勝自身陰影而喚醒更多力量的\r\n暗影使者。它將與所背負的罪孽\r\n一同奮戰下去。",
+      "zh-Hans": "克服自身阴影，觉醒更强大力量的\r\n暗影使者。与身负的罪业一道战斗\r\n不止。",
+      "ar": "جالب الظلال الذي أيقظ قوته\r\nالحقيقية بعد أن أخضع الظلام\r\nالساكن في أعماقه.",
+      "es-419": "Una buscasombras que despertó\r\nsu verdadero poder tras\r\nconquistar la oscuridad\r\ninterior."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "raw": 60,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "737": 1,
+        "739": 6,
+        "743": 4,
+        "744": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 26
+    },
+    "skills": {
+      "3813": 1
+    },
+    "series_id": 569042624
   },
   {
     "game_id": 85,

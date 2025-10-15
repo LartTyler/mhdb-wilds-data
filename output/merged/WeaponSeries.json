@@ -105,7 +105,7 @@
       "es": "Árbol de Jin Dahaad",
       "ru": "Древо джина дахаада",
       "pl": "Drzewo Jin Dahaada",
-      "pt-BR": "Jin D'haad",
+      "pt-BR": "Jin Dahaad",
       "ko": "동봉룡 파생",
       "zh-Hant": "凍峰龍衍生",
       "zh-Hans": "冻峰龙衍生",
@@ -244,6 +244,25 @@
       "zh-Hans": "桃毛兽王衍生",
       "ar": "شجرة كونغالالا",
       "es-419": "Árbol de Congalala"
+    }
+  },
+  {
+    "game_id": -765803328,
+    "names": {
+      "ja": "オメガ派生",
+      "en": "Omega Tree",
+      "fr": "Oméga",
+      "it": "Omega",
+      "de": "Omega",
+      "es": "Árbol Omega",
+      "ru": "Древо Омеги",
+      "pl": "Drzewo Omegi",
+      "pt-BR": "Omega",
+      "ko": "오메가 파생",
+      "zh-Hant": "歐米茄衍生",
+      "zh-Hans": "欧米茄衍生",
+      "ar": "شجرة أوميغا",
+      "es-419": "Árbol Omega"
     }
   },
   {
@@ -548,6 +567,25 @@
       "zh-Hans": "护锁刃龙衍生",
       "ar": "شجرة آركفيلد حارس",
       "es-419": "Árbol de Arkveld G."
+    }
+  },
+  {
+    "game_id": 569042624,
+    "names": {
+      "ja": "暗黒騎士派生",
+      "en": "Dark Knight Tree",
+      "fr": "Chevalier noir",
+      "it": "Cavaliere nero",
+      "de": "Dunkelritter",
+      "es": "Árbol caballero oscuro",
+      "ru": "Древо тёмного рыцаря",
+      "pl": "Drzewo mrocznego rycerza",
+      "pt-BR": "Cavaleiro Negro",
+      "ko": "암흑기사 파생",
+      "zh-Hant": "暗黑騎士衍生",
+      "zh-Hans": "暗黑骑士衍生",
+      "ar": "شجرة فارس الظلام",
+      "es-419": "Árbol del caballero oscuro"
     }
   },
   {

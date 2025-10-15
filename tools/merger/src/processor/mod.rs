@@ -495,6 +495,7 @@ pub enum HunterRank {
 #[serde(rename_all = "kebab-case")]
 #[repr(u8)]
 enum IconColor {
+    None = 0,
     White = 1,
     Gray = 2,
     Rose = 3,

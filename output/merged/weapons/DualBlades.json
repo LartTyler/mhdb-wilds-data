@@ -6654,6 +6654,173 @@
     "series_id": -1175600512
   },
   {
+    "game_id": 85,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 150,
+      "orange": 50,
+      "yellow": 20,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "双剣テイスティ",
+      "en": "Tasty Blades",
+      "fr": "Lames délicieuses",
+      "it": "Lame saporite",
+      "de": "Köstliche Klingen",
+      "es": "Filos sabrosos",
+      "ru": "Вкусные клинки",
+      "pl": "Pyszne ostrza",
+      "pt-BR": "Lâminas Saborosas",
+      "ko": "쌍검 테이스티",
+      "zh-Hant": "美味雙劍",
+      "zh-Hans": "美味双剑",
+      "ar": "نصال شهية",
+      "es-419": "Espadas gustosas"
+    },
+    "descriptions": {
+      "ja": "一流のハンターは、同時に一流の\r\n調理師でもある。こんがり焼かれた\r\n肉は、まさに熟練の逸品。",
+      "en": "A first-rate hunter is also a first-\r\nrate cook. There's nothing like\r\na well-cooked piece of meat.",
+      "fr": "Qui dit Chasseur hors pair dit\r\ncuisinier hors pair. Rien de tel\r\nqu'un morceau de viande bien\r\ncuit !",
+      "it": "Chi eccelle nella caccia eccelle\r\nanche nella cucina. Non c'è\r\nniente di meglio di un piatto di\r\ncarne ben cotta.",
+      "de": "Spitzenjäger sind auch Spitzen-\r\nköche. Es gibt nichts Besseres\r\nals ein perfektes Steak.",
+      "es": "Un cazador de primera también\r\nes un cocinero de primera. Nada\r\ncomo un filete bien preparado.",
+      "ru": "Первоклассный охотник должен\r\nбыть первоклассным поваром.\r\nНичто в мире не заменит хорошо\r\nпрожаренный кусок мяса!",
+      "pl": "Doskonały łowca jest też\r\ndoskonałym kucharzem.\r\nNie ma nic lepszego od\r\ndobrze wysmażonego mięsa.",
+      "pt-BR": "Um caçador de primeira também é\r\num cozinheiro de primeira. Não há\r\nnada como uma carne bem assada.",
+      "ko": "일류 헌터는 동시에 일류\r\n요리사이기도 하다. 잘 익은\r\n고기는 진정한 숙련의 결정체.",
+      "zh-Hant": "一流的獵人也是一流的廚師。火候\r\n完美的烤肉正是熟能生巧的傑作。",
+      "zh-Hans": "一流的猎人同样也是一流的厨师。\r\n喷香诱人烤熟的肉正是熟能生巧的\r\n杰作。",
+      "ar": "صياد من الدرجة الأولى\r\nوطاهٍ ممتاز أيضًا.\r\nلا شيء يضاهي قطعة لحم مطهوة جيدًا.",
+      "es-419": "Un cazador de primera también es\r\nun cocinero de primera. Nada\r\ncomo una carne bien preparada."
+    },
+    "rarity": 7,
+    "attack_raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 12,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "91": 2,
+        "303": 4,
+        "594": 4,
+        "799": 2
+      },
+      "previous_id": null,
+      "branches": [
+        86
+      ],
+      "is_shortcut": false,
+      "column": 7,
+      "row": 27
+    },
+    "skills": {
+      "16931": 1
+    },
+    "series_id": -547584512
+  },
+  {
+    "game_id": 86,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 150,
+      "orange": 40,
+      "yellow": 20,
+      "green": 50,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "双剣ウェル＝断",
+      "en": "Well-done Blades",
+      "fr": "Lames à point",
+      "it": "Lame ben cotte",
+      "de": "Gebratene Klingen",
+      "es": "Filos en condiciones",
+      "ru": "Клинки лучшей прожарки",
+      "pl": "Dobrze wysmażone ostrza",
+      "pt-BR": "Lâminas Bem Passadas",
+      "ko": "쌍검 웰던",
+      "zh-Hant": "全熟雙劍",
+      "zh-Hans": "全熟双剑",
+      "ar": "نصال متقنة الصنع",
+      "es-419": "Espadas bien cocidas"
+    },
+    "descriptions": {
+      "ja": "双剣テイスティは熟成を経て、味も\r\n斬れ味も強化された。野趣溢れる\r\n至高の旨味を、ご堪能あれ。",
+      "en": "Tasty Blades that have been\r\ncooked to absolute perfection,\r\nenhancing both their flavor and\r\ntheir sharpness.",
+      "fr": "Des Lames délicieuses qui ont été\r\ncuites à la perfection, améliorant\r\nà la fois leur saveur et leur tranchant.",
+      "it": "Lame gustose cucinate alla\r\nperfezione, con sapore e\r\nacutezza potenziati.",
+      "de": "Köstliche Klingen, bis zur\r\nPerfektion veredelt, was\r\nGeschmack und Schärfe\r\nverbessert.",
+      "es": "Filos sabrosos preparados a\r\nla perfección, lo que aumenta\r\nsu sabor y su intensidad.",
+      "ru": "Те же «Вкусные клинки», но лучше!\r\nСочетание превосходного вкуса\r\nи невероятной остроты.\r\nПриготовлено идеально.",
+      "pl": "Pyszne ostrza wysmażone do\r\nabsolutnej perfekcji, co wzmacnia\r\nich smak i zwiększa ostrość.",
+      "pt-BR": "Lâminas Saborosas assadas com\r\nperfeição absoluta, realçando\r\no seu sabor e a sua afiação.",
+      "ko": "쌍검 테이스티가 숙성을 거쳐\r\n맛도 예리도도 강화되었다.\r\n야성미가 넘치는\r\n최고의 맛을 만끽하자.",
+      "zh-Hant": "美味雙劍歷經熟成之後，味道與\r\n銳利度都得到強化。請盡情享受\r\n野趣橫生的極品鮮味。",
+      "zh-Hans": "美味双剑经过熟成，味道与锋利度\r\n得到了强化。尽情享受这野性十足\r\n的鲜美滋味。",
+      "ar": "نصال شهية\r\nتم طهيها إلى حد الكمال،\r\nمما يعزز نكهتها وحدّتها.",
+      "es-419": "Espadas gustosas preparadas\r\na la perfección, lo que aumenta\r\nsu sabor y su intensidad."
+    },
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "raw": 15,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "559": 2,
+        "560": 1,
+        "661": 5,
+        "799": 1
+      },
+      "previous_id": 85,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 27
+    },
+    "skills": {
+      "16931": 1
+    },
+    "series_id": -547584512
+  },
+  {
     "game_id": 87,
     "kind": "dual-blades",
     "sharpness": {

@@ -108,4 +108,5 @@ enum SpeciesKind {
     Construct = 18,
     Wingdrake = 19,
     DemiElder = 20,
+    Machine = 21,
 }

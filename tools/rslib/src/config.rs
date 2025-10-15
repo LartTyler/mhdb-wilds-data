@@ -46,22 +46,22 @@ impl Config {
 
 #[derive(Debug, Deserialize)]
 pub struct Tools {
-    pub user: PathBuf,
     pub msg: PathBuf,
+    pub rsz_layouts: PathBuf,
 }
 
 impl Default for Tools {
     fn default() -> Self {
         Self {
-            user: PathBuf::from("tools/DotUserReader/bin/Release/net8.0/DotUserReader.exe"),
             msg: PathBuf::from("tools/REMSG_Converter/REMSG_Converter.exe"),
+            rsz_layouts: PathBuf::from("rszmhwilds.json"),
         }
     }
 }
 
 #[derive(Debug, Deserialize)]
 pub struct Io {
-    pub data: Vec<PathBuf>,
+    pub data: Vec<String>,
     pub output: PathBuf,
 }
 

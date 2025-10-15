@@ -3739,6 +3739,25 @@
     },
     "variants": [
       {
+        "kind": "alpha",
+        "names": {
+          "ja": "ネルスキュラ・クローン",
+          "en": "Nerscylla Clone",
+          "fr": "Nerscylla (clone)",
+          "it": "Clone di Nerscylla",
+          "de": "Nerscylla-Klon",
+          "es": "Clon de Nerscylla",
+          "ru": "Клон нерскиллы",
+          "pl": "Klon Nerscylli",
+          "pt-BR": "Nerscylla Clone",
+          "ko": "네르스큐라 클론",
+          "zh-Hant": "影蜘蛛複製體",
+          "zh-Hans": "影蜘蛛克隆体",
+          "ar": "استنساخ نيرسكيلا",
+          "es-419": "Clon de Nerscylla"
+        }
+      },
+      {
         "kind": "tempered",
         "names": {
           "ja": "ネルスキュラ（歴戦の個体）",
@@ -9091,7 +9110,7 @@
     },
     "tips": {
       "ja": "まずは優れた飛行能力を活かした回り込みや、\r\n強靭な後脚による攻撃に注意したい。\r\nさらに、その全身から放たれる刃鱗は裂傷状態を\r\n引き起こすだけではなく、放った直後には追撃を\r\n行う場合もあり、一層の警戒が必要となる。\r\nただし、頭部や尻尾の部位破壊によって放たれる\r\n刃鱗の数が減少するという報告もある。よって、\r\n積極的な部位破壊が推奨されるだろう。\r\nなお、裂傷状態の解消にはこんがり肉を食べるか\r\n一定時間の静止が有効となる。",
-      "en": "Beware of flanking attacks and their fierce\r\nhind leg strikes. Viciously aggressive,\r\nthey'll launch their blade-like scales,\r\nwhich can inflict bleeding, and then\r\nimmediately follow-up with additional\r\nattacks. Breaking their heads and tail can\r\nreduce the number of scales they're able to\r\ndeploy, so focus on breaking parts while\r\nhealing your bleeding status as necessary\r\nwith Well-done Steaks or by resting briefly.",
+      "en": "Beware of flanking attacks and their fierce\r\nhind leg strikes. Viciously aggressive,\r\nthey'll launch their blade-like scales,\r\nwhich can inflict bleeding, and then\r\nimmediately follow up with additional\r\nattacks. Breaking their heads and tail can\r\nreduce the number of scales they're able to\r\ndeploy, so focus on breaking parts while\r\nhealing your bleeding status as necessary\r\nwith well-done steaks or by resting briefly.",
       "fr": "Attention à leurs attaques de contournement\r\net aux coups féroces de leurs pattes arrière.\r\nTrès agressifs, les Seregios peuvent lancer leurs\r\nécailles tranchantes comme des lames pour\r\ninfliger des hémorragies avant d'attaquer de\r\nplus belle. Briser leur tête ou leur queue permet\r\nde réduire le nombre d'écailles envoyées, alors\r\nfocalisez-vous sur les parties brisables tout en\r\nsoignant vos hémorragies si nécessaire avec des\r\nsteaks à point ou en vous reposant.",
       "it": "Fai attenzione agli attacchi dal fianco\r\ne alle feroci scalciate con le zampe\r\nposteriori. Violenti e aggressivi, lanciano\r\nle loro scaglie simili a lame, che possono\r\ninfliggere sanguinamento. Proseguiranno\r\nsubito l'assalto con altri attacchi.\r\nRompere testa e coda riduce il numero\r\ndi scaglie che lanciano: cerca di rompere\r\nqueste parti e cura il sanguinamento con\r\nbistecche ben cotte o evitando movimenti.",
       "de": "Die agilen Seregios sind für ihre hinterhältigen\r\nTaktiken und heftigen Hinterbeinattacken\r\nberüchtigt. Sie schleudern Opfern zudem ihre\r\nklingenartigen Schuppen entgegen, die\r\nBlutungen verursachen, nur um dann direkt\r\ndarauf weiter anzugreifen. Durch Brechen von\r\nKopf und Schwanz kann die Zahl der Schuppen,\r\ndie sie verschießen können, reduziert werden.\r\nGegen Blutungen hilft ein Gebratenes Steak\r\nsowie kurzzeitiges Ausruhen.",
@@ -10818,6 +10837,466 @@
           "thunder": 0.15,
           "ice": 0.1,
           "dragon": 0.0,
+          "stun": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "game_id": 21849,
+    "species": "machine",
+    "names": {
+      "ja": "オメガ・プラネテス",
+      "en": "Omega Planetes",
+      "fr": "Oméga Planetikos",
+      "it": "Omega Planetes",
+      "de": "Omega Planetes",
+      "es": "Omega Planetes",
+      "ru": "Омега-Планетес",
+      "pl": "Omega Planetes",
+      "pt-BR": "Omega Planetes",
+      "ko": "오메가 플라네테스",
+      "zh-Hant": "遊星歐米茄",
+      "zh-Hans": "游星欧米茄",
+      "ar": "أوميغا بلانيتيس",
+      "es-419": "Omega Planetes"
+    },
+    "descriptions": {
+      "ja": "侵攻すべき星と、より強い生命を求め\r\n次元の狭間を通して禁足地へと降り立った\r\nオメガフレームの１機。",
+      "en": "An Omega frame that crossed the interdimensional\r\nrift. It descended on the Forbidden Lands to\r\nfind stronger lifeforms and planets to invade.",
+      "fr": "Un châssis expérimental Oméga qui a traversé la fissure\r\ninterdimensionnelle et est arrivé dans les Terres interdites pour\r\ntrouver des formes de vie puissantes et des planètes à envahir.",
+      "it": "Una struttura Omega che ha attraversato la\r\nfessura interdimensionale, arriva nelle Terre proibite\r\nin cerca di forme di vita e pianeti da invadere.",
+      "de": "Ein Omega-Chassis, das auf der Suche nach\r\nmächtigeren Wesen und Planeten durch den\r\nInterdimensionalen Riss ins Verbotene Land kam.",
+      "es": "Armazón Omega que cruzó la grieta interdimensional\r\ny ha acudido a las Tierras Prohibidas en busca de\r\nformas de vida más fuertes y planetas que invadir.",
+      "ru": "Форма «Омега», которая отправилась на поиски\r\nпланет и могучих существ для покорения. Попала в\r\nЗапретную землю через пространственный разлом.",
+      "pl": "Forma Omega, która przekroczyła międzywymiarową\r\nszczelinę. Zstąpiła na Zakazane Ziemie, aby\r\nznaleźć silne formy życia i planety do podboju.",
+      "pt-BR": "Modelo Omega que cruzou a fenda interdimensional\r\ne chegou às Terras Proibidas em busca de formas\r\nde vida e planetas mais poderosos para invadir.",
+      "ko": "침공할 별과 더 강한 생명체를 찾아\r\n차원의 틈을 통해 금지된 땅에 내려온\r\n오메가 프레임 1대.",
+      "zh-Hant": "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的其中一台歐米茄框架。",
+      "zh-Hans": "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。",
+      "ar": "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة بحثًا\r\nعن كائنات أقوى وكواكب لغزوها.",
+      "es-419": "Un armazón Omega que cruzó la grieta interdimensional\r\ny descendió a las Tierras Prohibidas en busca de formas\r\nde vida más poderosas y planetas para invadir."
+    },
+    "features": {
+      "ja": "侵攻すべき星と、より強い生命を求め\r\n次元の狭間を通して禁足地へと降り立った\r\nオメガフレームの１機。\r\n他のオメガフレームと差別化するため、\r\n≪オメガ・プラネテス≫と呼ばれる。\r\n禁足地のモンスターなど現生生命体の能力を\r\n学習して自己進化を図ろうとしているようだ。",
+      "en": "An Omega frame that has crossed the inter-\r\ndimensional rift and descended on the\r\nForbidden Lands in its search for more\r\npowerful lifeforms and planets to invade.\r\nNamed Omega Planetes to distinguish it from\r\nother Omega frames, it plans to study this\r\nworld's lifeforms, primarily the monsters\r\nof the Forbidden Lands, in order to evolve\r\nand subjugate everything in its path.",
+      "fr": "Un châssis expérimental Oméga qui a traversé la\r\nfissure interdimensionnelle et est arrivé dans les\r\nTerres interdites pour trouver des formes de vie\r\npuissantes et des planètes à envahir. Oméga\r\nPlanetikos a été nommée ainsi pour la différencier\r\ndes autres châssis Oméga. Elle veut étudier les\r\nformes de vie de ce monde, en particulier les\r\nmonstres des Terres interdites, afin d'évoluer et\r\nde tout asservir sur son passage.",
+      "it": "Una struttura Omega che ha attraversato la\r\nfessura interdimensionale, arriva nelle Terre\r\nproibite in cerca di forme di vita e pianeti\r\nda invadere. Denominata Omega Planetes per\r\ndistinguerla dalle altre struttura Omega,\r\nintende studiare le forme di vita di questo\r\nmondo, principalmente i mostri delle Terre\r\nproibite, per evolvere e sottomettere ogni\r\ncosa sul suo cammino.",
+      "de": "Ein Omega-Chassis, das auf der Suche nach\r\nmächtigen Wesen und zur Eroberung geeig-\r\nneten Planeten den Interdimensionalen Riss\r\ndurchquert hat und ins Verbotene Land\r\ngekommen ist. Sein Name Omega Planetes\r\nsoll es von anderen Omega-Chassis abheben,\r\nund es plant, die Wesen dieser Welt zu\r\nerforschen, vor allem die Monster des\r\nVerbotenen Landes, um sich zu entwickeln.",
+      "es": "Un armazón Omega que ha cruzado la grieta\r\ninterdimensional hasta las Tierras Prohibidas\r\nen busca de formas de vida y planetas que invadir.\r\nConocido como Omega Planetes para distinguirse\r\nde otros armazones Omega, pretende estudiar\r\nlos monstruos de las Tierras Prohibidas para\r\nevolucionar y subyugar todo a su paso.",
+      "ru": "Форма «Омега», которая отправилась\r\nна поиски планет и могучих существ для\r\nпокорения. Попала в Запретную землю через\r\nпространственный разлом. Чтобы отличить\r\nэтого представителя от прочих форм «Омега»,\r\nему дали уникальное имя: Омега-Планетес.\r\nЕго цель — изучить существ этого мира,\r\nв первую очередь монстров Запретной земли,\r\nчтобы затем эволюционировать и завоевать\r\nвсё, что окажется у него на пути.",
+      "pl": "Forma Omega, która przekroczyła międzywymiarową\r\nszczelinę i znalazła się na Zakazanych Ziemiach\r\nw poszukiwaniu potężniejszych form życia i planet\r\ndo najechania. Przyjęła nazwę Omega Planetes,\r\nby odróżnić się od innych form Omega. Planuje badać\r\nformy życia tego świata, przede wszystkim potwory\r\nz Zakazanych Ziem, by ewoluować i podbić wszystko,\r\nco stanie jej na drodze.",
+      "pt-BR": "Um modelo Omega que cruzou a fenda\r\ninterdimensional e chegou às Terras Proibidas\r\nem busca de formas de vida e planetas mais\r\npoderosos para invadir. Chamada de Omega\r\nPlanetes para distingui-la de outros modelos\r\nOmega, planeja estudar as formas de vida\r\ndeste mundo, principalmente os monstros\r\ndas Terras Proibidas, a fim de evoluir\r\ne subjugar tudo em seu caminho.",
+      "ko": "침공할 별과 더 강한 생명체를 찾아\r\n차원의 틈을 통해 금지된 땅에 내려온\r\n오메가 프레임 1대.\r\n여타 오메가 프레임과 차별성을 두기 위해\r\n《오메가 플라네테스》라고 부른다.\r\n금지된 땅 몬스터 등 현생 생명체의\r\n능력을 학습해 스스로 진화하려는 듯하다.",
+      "zh-Hant": "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的一台歐米茄框架。為了與其他\r\n歐米茄框架區分清楚而被稱為「遊星歐米茄」。它\r\n似乎在學習封禁之地的魔物以及其他現存生命體的\r\n能力，讓自己繼續進化。",
+      "zh-Hans": "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。为与\r\n其他欧米茄框架加以区分，它被称为“游星欧米\r\n茄”。它似乎意图通过学习封禁之地中猎人等生\r\n命体的能力，以实现自我进化。",
+      "ar": "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة باحثًا عن أشكال حياتية أكثر\r\nقوة وكواكب لغزوها.\r\nسُمي (أوميغا بلانيتيس) لتمييزه عن هياكل (أوميغا) الأخرى،\r\nويخطط لدراسة الأشكال الحياتية لهذا العالم،\r\nوبالأخص وحوش الأراضي المحظورة،\r\nمن أجل التطور والسيطرة على كل ما يعترض طريقه.",
+      "es-419": "Un armazón Omega que cruzó la grieta\r\ninterdimensional y descendió a las Tierras\r\nProhibidas en busca de formas de vida más\r\npoderosas y planetas para invadir.\r\nConocido como Omega Planetes para\r\ndistinguirlo de otros marcos Omega, planea\r\nestudiar las formas de vida de este mundo,\r\nen particular los monstruos de las Tierras\r\nProhibidas, con el fin de evolucionar y\r\nsubyugar todo a su paso."
+    },
+    "tips": {
+      "ja": "パントクラトル・モードと呼ばれる状態は\r\n手が付けられないほど攻撃的で、非常に危険。\r\nしかし、一人のハンターが頭部に攻撃を重ねる\r\n事で敵視の集中を引き受け、その危険な攻撃を\r\n自身へと誘導できる。\r\nまた、攻撃を誘導中のハンターがピンチの場合は\r\n別のハンターが頭部に攻撃を加え、敵視の集中を\r\n受け取る事も可能。そうした味方同士の協力、\r\nサポートを意識した立ち回りが重要だ。\r\nまた、脚部への集中攻撃もチャンスに繋がるため\r\n積極的に狙っていこう。",
+      "en": "Becomes incredibly dangerous and aggressive\r\nwhen activating Pantokrator mode. Repeatedly\r\nattacking its head will get it to focus on a single\r\nhunter who can direct its attacks. If the targeted\r\nhunter is in danger, another hunter can draw its \r\nattention by attacking the head again. You can\r\nalso attack its legs to create opportunities for\r\nfurther attacks, so work together with other\r\nhunters to bring it down.",
+      "fr": "Devient dangereuse et agressive lorsque le\r\nmode Pantokrator est activé. Un chasseur\r\npeut attaquer sa tête à plusieurs reprises\r\npour qu'elle concentre ses attaques sur lui.\r\nSi le chasseur ciblé est en danger, il est possible\r\nd'attaquer sa tête avec un autre chasseur pour\r\nattirer son attention sur l'autre chasseur. Toucher\r\nses pattes permet de nouvelles possibilités\r\nd'attaques, alors coopérez avec d'autres\r\nchasseurs pour l'abattre.",
+      "it": "Una volta attivata la modalità Pantocratore,\r\nla sua pericolosità e aggressività aumentano.\r\nIl cacciatore che attacca ripetutamente la\r\ntesta sarà preso di mira, e potrà dirigerne gli\r\nattacchi. Se il cacciatore preso di mira è\r\nin pericolo, un altro cacciatore può attaccare\r\nla testa di Omega per attirarne l'ostilità.\r\nÈ possibile attaccare le gambe per creare\r\nnuove occasioni d'attacco, perciò collabora\r\ncon gli altri cacciatori per abbatterla.",
+      "de": "Wird extrem gefährlich und aggressiv,\r\nwenn der Pantokratormodus aktiviert wird.\r\nDurch mehrfache Angriffe auf den Kopf kann\r\nein Jäger seinen Fokus und damit seine\r\nAngriffe auf sich lenken. Ist der angegriffene\r\nJäger in Gefahr, kann ein anderer die Aufmerk-\r\nsamkeit auf sich ziehen, indem er den Kopf\r\nangreift. Angriffe auf die Beine schaffen\r\nweitere Angriffsmöglichkeiten, also arbeitet\r\nzusammen, um zu siegen.",
+      "es": "Se vuelve muy agresivo al activar el modo\r\nPantocrátor. Los ataques continuos a la cabeza\r\nharán que se centre en un único cazador,\r\nque será blanco de sus ataques. Si el cazador\r\nobjetivo está en peligro, otro cazador puede\r\natacar a la cabeza y convertirse en su nuevo\r\nobjetivo. Las patas también son vulnerables\r\ny permiten encadenar otros ataques, así que\r\ncolabora con otros cazadores para abatirla.",
+      "ru": "В режиме «Пантократор» становится опаснее\r\nи агрессивнее. Наносите удары по голове,\r\nчтобы заставить его сосредоточить внимание\r\nна конкретном охотнике. В случае опасности\r\nдругой охотник может снова атаковать голову\r\nОмеги-Планетеса, чтобы вынудить его\r\nсменить цель. Кроме того, можно бить его\r\nпо ногам, чтобы создать удачные условия\r\nдля дальнейших атак. Работайте сообща\r\nс другими охотниками, чтобы одолеть врага.",
+      "pl": "Po aktywacji trybu pantokratora staje się niezwykle\r\nniebezpieczny i agresywny. Wielokrotne atakowanie\r\njego głowy spowoduje, że skupi się on na jednym\r\nłowcy, który będzie mógł kierować jego atakami.\r\nJeśli namierzony łowca jest w niebezpieczeństwie,\r\ninny łowca może skupić na sobie jego uwagę, ponownie atakując głowę. Możesz też atakować\r\nnogi, by stworzyć okazję do kolejnych ataków,\r\nwięc współpracuj z innymi łowcami, by go pokonać.",
+      "pt-BR": "Torna-se incrivelmente perigosa e agressiva\r\nao ativar o modo Pantokrator. Atacar sua\r\ncabeça repetidamente atrairá sua atenção a\r\num único caçador, tornando possível direcionar\r\nseus ataques. Se o caçador-alvo estiver em\r\nperigo, atacar novamente a cabeça fará com\r\nque seu alvo em foco mude. Você também\r\npode atacar suas pernas para criar aberturas\r\npara novos ataques. Trabalhe em união\r\ncom outros caçadores para derrotá-la.",
+      "ko": "전지전능 모드라 불리는 상태는\r\n속수무책으로 공격적이고 위험천만하다.\r\n하지만 한 헌터가 머리에 공격을 가해\r\n적개심을 집중시키면 위험한 공격을\r\n자신에게 유도할 수 있다. 또한 공격을\r\n유도 중인 헌터가 위험해지면 다른\r\n헌터가 머리에 공격을 가해 적개심을\r\n끌어낼 수도 있다. 이렇게 서로\r\n협력하고 서포트하는 행동이 중요하다.\r\n다리에 가하는 집중 공격도 기회로\r\n이어지므로 적극적으로 노리자.",
+      "zh-Hant": "名為「全能之主模式」的狀態非常危險，攻擊強到\r\n令人難以對付。不過只要一個獵人不斷攻擊頭部，\r\n吸引其仇恨，就能將危險的攻擊誘導到自己身上。\r\n另外，正在誘導其攻擊的獵人如果陷入危機，只要\r\n其他獵人攻擊頭部，也能轉移其仇恨到自己身上。\r\n因此夥伴間的合作和互相支援的意識相當重要。此\r\n外，集中攻擊其腿部也能製造進攻的良機，因此應\r\n該積極集中攻擊。",
+      "zh-Hans": "名为“全能之主模式”的状态具备极强的攻击性，\r\n难以应付，十分危险。不过，只要有一名猎人集\r\n中攻击其头部，吸引仇恨，便能将这种危险攻击\r\n引导至自身。当诱导攻击的猎人陷入危机时，其\r\n他猎人则可通过攻击头部来转移仇恨。因此，队\r\n友之间的配合显得尤为重要。此外，集中攻击腿\r\n部也能创造出机会，建议积极运用这一战术。",
+      "ar": "يصبح خطيرًا وعدوانيًا للغاية عند تفعيل\r\nوضع البانتوكراتور.\r\nيمكن أن يجعله الهجوم المتكرر على رأسه\r\nيركّز على صياد واحد وتوجيه هجماته إليه.\r\nوإذا كان الصياد المستهدَف في خطر،\r\nيمكن لصياد آخر جذب انتباهه من جديد\r\nبمهاجمة الرأس مرة أخرى. يمكنكَ أيضًا\r\nمهاجمة ساقيه لإتاحة فرص لهجمات أكثر،\r\nلذا تعاون مع الصيادين الآخرين لإسقاطه.",
+      "es-419": "Se vuelve muy peligroso y agresivo cuando se\r\nactiva el modo Pantocrátor. Si atacas su\r\ncabeza repetidas veces, este se centrará en\r\nun único cazador y así podrás dirigir sus\r\nataques. Si el cazador objetivo está en\r\npeligro, puedes cambiar su enfoque a otro\r\ncazador atacando la cabeza de nuevo. También\r\npuedes atacar las piernas para crear más\r\noportunidades de ataque, así que colabora\r\ncon otros cazadores para acabar con él."
+    },
+    "variants": [
+      {
+        "kind": "tempered",
+        "names": {
+          "ja": "オメガ・プラネテス",
+          "en": "Omega Planetes",
+          "fr": "Oméga Planetikos",
+          "it": "Omega Planetes",
+          "de": "Omega Planetes",
+          "es": "Omega Planetes",
+          "ru": "Омега-Планетес",
+          "pl": "Omega Planetes",
+          "pt-BR": "Omega Planetes",
+          "ko": "오메가 플라네테스",
+          "zh-Hant": "遊星歐米茄",
+          "zh-Hans": "游星欧米茄",
+          "ar": "أوميغا بلانيتيس",
+          "es-419": "Omega Planetes"
+        }
+      }
+    ],
+    "size": {
+      "base": 1181.86,
+      "mini": 1063.674,
+      "mini_multiplier": 0.9,
+      "silver": 1359.1389,
+      "silver_multiplier": 1.15,
+      "gold": 1453.6877,
+      "gold_multiplier": 1.23
+    },
+    "base_health": 7000,
+    "locations": [
+      1182228864
+    ],
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "status",
+        "status": "poison"
+      },
+      {
+        "kind": "status",
+        "status": "sleep"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
+    "rewards": [
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 737,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 738,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 738,
+        "amount": 1,
+        "chance": 28
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 738,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 738,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 739,
+        "amount": 1,
+        "chance": 23
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 739,
+        "amount": 1,
+        "chance": 25
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 739,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 739,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 18
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-front-leg",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-front-leg",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-hind-leg",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-hind-leg",
+        "item_id": 740,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 741,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 741,
+        "amount": 1,
+        "chance": 13
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head",
+        "item_id": 741,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 743,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 743,
+        "amount": 1,
+        "chance": 11
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "periscope",
+        "item_id": 743,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 744,
+        "amount": 1,
+        "chance": 2
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 744,
+        "amount": 1,
+        "chance": 3
+      }
+    ],
+    "parts": [
+      {
+        "part": "left-front-leg",
+        "base_health": 500,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.65,
+          "pierce": 0.6,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.2,
+          "ice": 0.05,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "head",
+        "base_health": 600,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.5,
+          "pierce": 0.45,
+          "fire": 0.0,
+          "water": 0.1,
+          "thunder": 0.25,
+          "ice": 0.05,
+          "dragon": 0.2,
+          "stun": 1.0
+        }
+      },
+      {
+        "part": "periscope",
+        "base_health": 300,
+        "kinsect_essence": "green",
+        "multipliers": {
+          "slash": 0.75,
+          "blunt": 1.0,
+          "pierce": 0.1,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.15,
+          "ice": 0.05,
+          "dragon": 0.3,
+          "stun": 0.3
+        }
+      },
+      {
+        "part": "back",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.45,
+          "blunt": 0.3,
+          "pierce": 0.3,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.2,
+          "ice": 0.05,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-hind-leg",
+        "base_health": 500,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.6,
+          "blunt": 0.4,
+          "pierce": 0.4,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.2,
+          "ice": 0.05,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-hind-leg",
+        "base_health": 500,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.6,
+          "blunt": 0.4,
+          "pierce": 0.4,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.2,
+          "ice": 0.05,
+          "dragon": 0.15,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "torso",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-front-leg",
+        "base_health": 500,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.65,
+          "pierce": 0.6,
+          "fire": 0.0,
+          "water": 0.05,
+          "thunder": 0.2,
+          "ice": 0.05,
+          "dragon": 0.15,
           "stun": 0.0
         }
       }
@@ -20644,7 +21123,7 @@
       "es": "El Odogaron Ébano Guardián destaca sobre todo\r\npor sus garras desangradoras y su ágil cola,\r\nlas cuales pueden acumular energía de\r\nGuardián para provocar explosiones. Si su ataque\r\nde elemento draco alcanza a la petrowylact,\r\nse producirá una explosión del mismo elemento.\r\nNo obstante, dado que los cristales se activan\r\nmediante contacto elemental, la munición de la\r\neslinga también podría ser efectiva.",
       "ru": "Огромные когти и мощный гибкий хвост\r\nэбенового одогарона-стража пронизаны\r\nэнергией стражей, из-за чего его атаки могут\r\nвызывать взрывы. Когти этого монстра легко\r\nразрывают плоть, вызывая кровотечение.\r\nЕсли его атака стихией дракона заденет\r\nкристаллы вивлока, произойдёт взрыв той же\r\nстихии. Но поскольку кристаллы реагируют\r\nна контакт со стихиями, их можно также\r\nвзорвать снарядом, пущенным из самострела.",
       "pl": "Hebanowy Odogaron Strażnik znany ze swoich\r\nrozwiniętych, wywołujących krwawienie\r\npazurów i zręcznych ogonów. Oba są nasycone\r\nstrażniczą energią, która może powodować\r\neksplozje. Gdy jego ataki smoczego żywiołu\r\npołączą się z wylkryształami, następuje\r\neksplozja tego samego żywiołu. Ponieważ\r\njednak kryształy tworzą się w wyniku\r\noddziaływania żywiołów, amunicja do procy\r\nmoże być równie skuteczna.",
-      "pt-BR": "O Odogaron Negro Guardião é conhecido por\r\nsuas enormes garras sangrantes e caudas\r\nhábeis, ambas influenciadas pela energia de\r\nGuardião, que desencadeia explosões. O\r\ncontato entre ataques elementais de dragão\r\ncom Cristais de Serpileite causará uma\r\nexplosão do mesmo elemento. Contudo, como os\r\ncristais são ativados por interferência\r\nelemental, munição de Atiradeira também pode\r\nser usada de forma eficaz.",
+      "pt-BR": "O Odogaron Negro Guardião é conhecido por\r\nsuas enormes garras sangrantes e caudas\r\nhábeis, ambas influenciadas pela energia de\r\nGuardião, que desencadeia explosões. O\r\ncontato entre ataques elementais de dragão\r\ncom Cristais de Serpil causará uma explosão\r\ndo mesmo elemento. Contudo, como os\r\ncristais são ativados por interferência\r\nelemental, munição de Atiradeira também\r\npode ser usada de forma eficaz.",
       "ko": "발달한 발톱과 꼬리를 이용한 교묘한\r\n공격이 특징. 발톱 공격을 받으면\r\n'열상 상태'가 된다. 또 발톱과 꼬리에\r\n수호룡의 에너지를 두른 경우가 있어\r\n폭발을 동반한 공격도 가능하므로\r\n주의가 필요하다. 용속성을 띤 공격이\r\n용유 결정에 닿으면 같은 속성 폭발이\r\n발생하므로 주의해야 한다. 공격에\r\n따라 형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어탄 등이 효과적이다.",
       "zh-Hant": "護兇爪龍的特徵是以發達的爪和尾巴施展的巧妙攻\r\n擊。受到牠的利爪攻擊就會陷入裂傷狀態。此外，\r\n有時候牠的爪和尾巴分別帶有護龍能量，會引發爆\r\n炸，需要多加小心。另外，帶有龍屬性的攻擊如果\r\n擊中龍乳結晶，也會引發同屬性爆炸，要多留意。\r\n牠的攻擊形成的結晶會對屬性攻擊起反應並爆炸，\r\n因此屬性投射器彈等攻擊手段也很有效。",
       "zh-Hans": "护凶爪龙的特点是通过发达的爪子和尾巴进行巧\r\n妙的攻击。若被其利爪击中，猎人将陷入裂伤状\r\n态。此外，它的爪子和尾巴可能携带护龙能量，\r\n导致爆炸，必须小心应对。它的龙属性攻击命中\r\n龙乳结晶后，也会引发同属性的爆炸，尤需注意。\r\n由于攻击形成的结晶会对属性攻击起反应并爆炸，\r\n属性投射器弹药等攻击手段在这种情况下也会非\r\n常有效。",
@@ -21937,7 +22416,7 @@
       {
         "part": "neck",
         "base_health": 500,
-        "kinsect_essence": "orange",
+        "kinsect_essence": "red",
         "multipliers": {
           "slash": 0.35,
           "blunt": 0.4,
@@ -21953,7 +22432,7 @@
       {
         "part": "left-wing",
         "base_health": 520,
-        "kinsect_essence": "orange",
+        "kinsect_essence": "white",
         "multipliers": {
           "slash": 0.55,
           "blunt": 0.5,
@@ -21985,7 +22464,7 @@
       {
         "part": "right-leg",
         "base_health": 300,
-        "kinsect_essence": "white",
+        "kinsect_essence": "orange",
         "multipliers": {
           "slash": 0.45,
           "blunt": 0.45,
@@ -22017,7 +22496,7 @@
       {
         "part": "right-wing",
         "base_health": 520,
-        "kinsect_essence": "orange",
+        "kinsect_essence": "white",
         "multipliers": {
           "slash": 0.55,
           "blunt": 0.5,
@@ -22033,7 +22512,7 @@
       {
         "part": "left-leg",
         "base_health": 300,
-        "kinsect_essence": "white",
+        "kinsect_essence": "orange",
         "multipliers": {
           "slash": 0.45,
           "blunt": 0.45,

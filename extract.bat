@@ -1,1 +1,1 @@
-cargo run --manifest-path tools\extractor\Cargo.toml
+cargo run --manifest-path tools\extractor\Cargo.toml -- %*
