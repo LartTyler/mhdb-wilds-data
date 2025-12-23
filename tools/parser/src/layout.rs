@@ -143,4 +143,7 @@ pub enum FieldKind {
     Vec2,
     Vec3,
     Vec4,
+    C8,
+    Uint3,
+    Triangle,
 }

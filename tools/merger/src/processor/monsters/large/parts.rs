@@ -367,7 +367,13 @@ pub enum PartKind {
     LeftWingArmArmor = 24769,
     RightWingArmArmor = 15310,
     Periscope = 20830,
-    Equipment = 11039,
+    Equipment = 6654,
+    EquipmentHead = 11039,
+    EquipmentChest = 7334,
+    EquipmentBack = 16835,
+    EquipmentLeft = 21841,
+    EquipmentRight = 15641,
+    EquipmentTail = 26497,
     // endregion
 }
 

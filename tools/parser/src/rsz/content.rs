@@ -56,7 +56,13 @@ impl Content {
                 return Err(Error::UnknownLayoutId(type_info.type_id));
             };
 
-            log::debug!("Found type {} at index = {index}", layout.name);
+            let type_name = if !layout.name.is_empty() {
+                layout.name
+            } else {
+                "EMPTY_NAME"
+            };
+
+            log::debug!("Found type {} at index = {index}", type_name);
 
             items.push(Rc::new(Item {
                 name: layout.name.to_owned(),

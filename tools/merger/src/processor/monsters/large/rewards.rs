@@ -16,7 +16,7 @@ pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Resu
 
         let path = config.io.output.join(DATA_PREFIX);
         let path = id.name.get_path_to(path, DATA_SUFFIX);
-        let data: Vec<RewardData> = Vec::read_file(path)?;
+        let data: Vec<RewardData> = Vec::read_file(dbg!(path))?;
 
         let mut state = RewardKind::Inherit;
 
