@@ -6988,5 +6988,247 @@
       "691199232": 2
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 89,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 40,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 90,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "永訣のクラウクライス",
+      "en": "Eternal Cusp",
+      "fr": "Pique d'éternité",
+      "it": "Clavi eterni",
+      "de": "Ewige Spina",
+      "es": "Cúspide eterna",
+      "ru": "Вечные тесаки",
+      "pl": "Wieczne Szpice",
+      "pt-BR": "Despedida Eterna",
+      "ko": "영결의 클라우클라이스",
+      "zh-Hant": "永別破鏡之鑰",
+      "zh-Hans": "永别破镜之钥",
+      "ar": "نصال الأبدية",
+      "es-419": "Cúspide Eterna"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n爪跡。真なる円はもはや訪れず、\r\n引き裂かれし魂は罪を重ね続ける。",
+      "en": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+      "fr": "Cicatrices monstrueuses en quête\r\nde potentiel : des âmes séparées\r\nà jamais dans un cercle brisé.",
+      "it": "Sfregi grotteschi assetati di\r\npotenziale: le loro anime per\r\nsempre divise, il loro ciclo mai\r\ncompleto.",
+      "de": "Groteske Narben, die nach\r\nPotenzial dürsten. Ihre Seelen\r\nsind auf ewig getrennt, ihr\r\nKreis nie geschlossen.",
+      "es": "Cicatrices grotescas que ansían\r\npotencial: sus almas ya\r\nliberadas, su círculo nunca\r\ncerrado.",
+      "ru": "Несут на себе жуткие шрамы\r\nразлучённых душ, вырванных\r\nиз цикла перерождения и\r\nжаждущих большего.",
+      "pl": "Łaknące potencjału groteskowe\r\nszramy. Ich dusze nigdy\r\nnierozdzielone, ich cykl\r\nnigdy nieukończony.",
+      "pt-BR": "Cicatrizes grotescas que buscam\r\npotencial: suas almas sempre\r\nseparadas e, seu círculo, nunca\r\ncompleto.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발톱 자국. 진정한 원은\r\n찾아오지 않고,\r\n찢겨나간 혼은 죄를 쌓는다.",
+      "zh-Hant": "異形的爪痕吞噬潛藏性能。真正的\r\n圓滿已不再來，被撕裂的靈魂只會\r\n不斷累積罪孽。",
+      "zh-Hans": "吞噬隐藏性能的异形之爪痕。真正\r\n的圆环已不复来临，被撕裂的灵魂\r\n不断加深罪孽。",
+      "ar": "ندوب عميقة متعطّشة لاكتشاف\r\nقدرتها الكامنة: أرواح انفصلت\r\nإلى الأبد، ودورتها لم تكتمل أبدًا.",
+      "es-419": "Cicatrices grotescas que ansían\r\nel poder: su alma separada,\r\nsu círculo nunca cerrado."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 91,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "永訣のクラウクライス",
+      "en": "Eternal Cusp",
+      "fr": "Pique d'éternité",
+      "it": "Clavi eterni",
+      "de": "Ewige Spina",
+      "es": "Cúspide eterna",
+      "ru": "Вечные тесаки",
+      "pl": "Wieczne Szpice",
+      "pt-BR": "Despedida Eterna",
+      "ko": "영결의 클라우클라이스",
+      "zh-Hant": "永別破鏡之鑰",
+      "zh-Hans": "永别破镜之钥",
+      "ar": "نصال الأبدية",
+      "es-419": "Cúspide eterna"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n爪跡。真なる円はもはや訪れず、\r\n引き裂かれし魂は罪を重ね続ける。",
+      "en": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+      "fr": "Cicatrices monstrueuses en quête\r\nde potentiel : des âmes séparées\r\nà jamais dans un cercle brisé.",
+      "it": "Sfregi grotteschi assetati di\r\npotenziale: le loro anime per\r\nsempre divise, il loro ciclo mai\r\ncompleto.",
+      "de": "Groteske Narben, die nach\r\nPotenzial dürsten. Ihre Seelen\r\nsind auf ewig getrennt, ihr\r\nKreis nie geschlossen.",
+      "es": "Cicatrices grotescas que ansían\r\npotencial: sus almas ya\r\nliberadas, su círculo nunca\r\ncerrado.",
+      "ru": "Несут на себе жуткие шрамы\r\nразлучённых душ, вырванных\r\nиз цикла перерождения и\r\nжаждущих большего.",
+      "pl": "Łaknące potencjału groteskowe\r\nszramy. Ich dusze nigdy\r\nnierozdzielone, ich cykl\r\nnigdy nieukończony.",
+      "pt-BR": "Cicatrizes grotescas que buscam\r\npotencial: suas almas sempre\r\nseparadas e, seu círculo, nunca\r\ncompleto.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발톱 자국. 진정한 원은\r\n찾아오지 않고,\r\n찢겨나간 혼은 죄를 쌓는다.",
+      "zh-Hant": "異形的爪痕吞噬潛藏性能。真正的\r\n圓滿已不再來，被撕裂的靈魂只會\r\n不斷累積罪孽。",
+      "zh-Hans": "吞噬隐藏性能的异形之爪痕。真正\r\n的圆环已不复来临，被撕裂的灵魂\r\n不断加深罪孽。",
+      "ar": "ندوب عميقة متعطّشة لاكتشاف\r\nقدرتها الكامنة: أرواح انفصلت\r\nإلى الأبد، ودورتها لم تكتمل أبدًا.",
+      "es-419": "Cicatrices grotescas que ansían\r\nel poder: su alma separada,\r\nsu círculo nunca cerrado."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 92,
+    "kind": "dual-blades",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "永訣のクラウクライス",
+      "en": "Eternal Cusp",
+      "fr": "Pique d'éternité",
+      "it": "Clavi eterni",
+      "de": "Ewige Spina",
+      "es": "Cúspide eterna",
+      "ru": "Вечные тесаки",
+      "pl": "Wieczne Szpice",
+      "pt-BR": "Despedida Eterna",
+      "ko": "영결의 클라우클라이스",
+      "zh-Hant": "永別破鏡之鑰",
+      "zh-Hans": "永别破镜之钥",
+      "ar": "نصال الأبدية",
+      "es-419": "Cúspide eterna"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n爪跡。真なる円はもはや訪れず、\r\n引き裂かれし魂は罪を重ね続ける。",
+      "en": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+      "fr": "Cicatrices monstrueuses en quête\r\nde potentiel : des âmes séparées\r\nà jamais dans un cercle brisé.",
+      "it": "Sfregi grotteschi assetati di\r\npotenziale: le loro anime per\r\nsempre divise, il loro ciclo mai\r\ncompleto.",
+      "de": "Groteske Narben, die nach\r\nPotenzial dürsten. Ihre Seelen\r\nsind auf ewig getrennt, ihr\r\nKreis nie geschlossen.",
+      "es": "Cicatrices grotescas que ansían\r\npotencial: sus almas ya\r\nliberadas, su círculo nunca\r\ncerrado.",
+      "ru": "Несут на себе жуткие шрамы\r\nразлучённых душ, вырванных\r\nиз цикла перерождения и\r\nжаждущих большего.",
+      "pl": "Łaknące potencjału groteskowe\r\nszramy. Ich dusze nigdy\r\nnierozdzielone, ich cykl\r\nnigdy nieukończony.",
+      "pt-BR": "Cicatrizes grotescas que buscam\r\npotencial: suas almas sempre\r\nseparadas e, seu círculo, nunca\r\ncompleto.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발톱 자국. 진정한 원은\r\n찾아오지 않고,\r\n찢겨나간 혼은 죄를 쌓는다.",
+      "zh-Hant": "異形的爪痕吞噬潛藏性能。真正的\r\n圓滿已不再來，被撕裂的靈魂只會\r\n不斷累積罪孽。",
+      "zh-Hans": "吞噬隐藏性能的异形之爪痕。真正\r\n的圆环已不复来临，被撕裂的灵魂\r\n不断加深罪孽。",
+      "ar": "ندوب عميقة متعطّشة لاكتشاف\r\nقدرتها الكامنة: أرواح انفصلت\r\nإلى الأبد، ودورتها لم تكتمل أبدًا.",
+      "es-419": "Cicatrices grotescas que ansían\r\nel poder: su alma separada,\r\nsu círculo nunca cerrado."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

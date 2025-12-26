@@ -7335,5 +7335,332 @@
       "1613139840": 2
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 80,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 2
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "armor",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "recover",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "戦慄のヘルシャフェン",
+      "en": "Trembling Hels",
+      "fr": "Hels frémissant",
+      "it": "Dominaterrore",
+      "de": "Schaudernder Hels",
+      "es": "Hels temblorosa",
+      "ru": "Дрожащий владыка",
+      "pl": "Drżący Władca",
+      "pt-BR": "Hels Tremulante",
+      "ko": "전율의 헬섀펜",
+      "zh-Hant": "戰慄霸權抓取者",
+      "zh-Hans": "战栗统治抓取者",
+      "ar": "الجحيم المرعب",
+      "es-419": "Hels tembloroso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n記憶。消滅を許さぬ罪業は、\r\n無窮の恐怖と苦痛を刻み続ける。",
+      "en": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+      "fr": "Un souvenir autrefois joyeux en\r\nquête de potentiel, mais dont la\r\ndouleur persistera à jamais.",
+      "it": "Una memoria deforme che inghiotte\r\npoteri nascosti. Un peccato \r\nimperdonabile che continuerà a\r\ninfliggere paura e dolore senza fine.",
+      "de": "Groteske Erinnerungen, die\r\nnach Potenzial dürsten. Geprägt\r\nvon nichts als Sünden sind sie\r\nvoller Angst und Schmerz.",
+      "es": "Un recuerdo otrora feliz que\r\nansía potencial, en lugar de\r\nla libertad del dolor que nunca\r\nva a conocer.",
+      "ru": "Вместилище некогда радостного\r\nвоспоминания, лишённое шанса\r\nпознать свободу от боли и потому\r\nжаждущее большего взамен.",
+      "pl": "Niegdyś błogie wspomnienie,\r\nłaknące nie potencjału, lecz \r\nwolności od bólu, której nigdy\r\nnie zazna.",
+      "pt-BR": "Memória outrora alegre que\r\nanseia pelo potencial, sabendo\r\nque nunca se livrará da dor.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n기억. 소멸을 불허하는 죄업은\r\n무한한 공포와 고통을 새긴다.",
+      "zh-Hant": "異形的記憶吞噬潛藏性能。不容\r\n消散的罪業不斷烙印無窮的恐懼\r\n與痛楚。",
+      "zh-Hans": "吞噬隐藏性能的异形之记忆。罪业\r\n不容湮灭，永恒铭刻无穷的恐怖与\r\n痛苦。",
+      "ar": "ذكرى كانت سعيدة ذات يوم،\r\nمتعطّشة لاكتشاف قدرتها الكامنة،\r\nبدلًا من حرية الألم التي لن تحظى بها أبدًا.",
+      "es-419": "Un recuerdo alguna vez feliz, sediento\r\nde potencial, en lugar de la libertad\r\ndel dolor que nunca va a conocer."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 81,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 2
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "recover",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "戦慄のヘルシャフェン",
+      "en": "Trembling Hels",
+      "fr": "Hels frémissant",
+      "it": "Dominaterrore",
+      "de": "Schaudernder Hels",
+      "es": "Hels temblorosa",
+      "ru": "Дрожащий владыка",
+      "pl": "Drżący Władca",
+      "pt-BR": "Hels Tremulante",
+      "ko": "전율의 헬섀펜",
+      "zh-Hant": "戰慄霸權抓取者",
+      "zh-Hans": "战栗统治抓取者",
+      "ar": "الجحيم المرعب",
+      "es-419": "Hels tembloroso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n記憶。消滅を許さぬ罪業は、\r\n無窮の恐怖と苦痛を刻み続ける。",
+      "en": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+      "fr": "Un souvenir autrefois joyeux en\r\nquête de potentiel, mais dont la\r\ndouleur persistera à jamais.",
+      "it": "Una memoria deforme che inghiotte\r\npoteri nascosti. Un peccato \r\nimperdonabile che continuerà a\r\ninfliggere paura e dolore senza fine.",
+      "de": "Groteske Erinnerungen, die\r\nnach Potenzial dürsten. Geprägt\r\nvon nichts als Sünden sind sie\r\nvoller Angst und Schmerz.",
+      "es": "Un recuerdo otrora feliz que\r\nansía potencial, en lugar de\r\nla libertad del dolor que nunca\r\nva a conocer.",
+      "ru": "Вместилище некогда радостного\r\nвоспоминания, лишённое шанса\r\nпознать свободу от боли и потому\r\nжаждущее большего взамен.",
+      "pl": "Niegdyś błogie wspomnienie,\r\nłaknące nie potencjału, lecz\r\nwolności od bólu, której nigdy\r\nnie zazna.",
+      "pt-BR": "Memória outrora alegre que\r\nanseia pelo potencial, sabendo\r\nque nunca se livrará da dor.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n기억. 소멸을 불허하는 죄업은\r\n무한한 공포와 고통을 새긴다.",
+      "zh-Hant": "異形的記憶吞噬潛藏性能。不容\r\n消散的罪業不斷烙印無窮的恐懼\r\n與痛楚。",
+      "zh-Hans": "吞噬隐藏性能的异形之记忆。罪业\r\n不容湮灭，永恒铭刻无穷的恐怖与\r\n痛苦。",
+      "ar": "ذكرى كانت سعيدة ذات يوم،\r\nمتعطّشة لاكتشاف قدرتها الكامنة،\r\nبدلًا من حرية الألم التي لن تحظى بها أبدًا.",
+      "es-419": "Un recuerdo alguna vez feliz, sediento\r\nde potencial, en lugar de la libertad\r\ndel dolor que nunca va a conocer."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 82,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 2
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 3
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "armor",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 2
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {
+      "ja": "戦慄のヘルシャフェン",
+      "en": "Trembling Hels",
+      "fr": "Hels frémissant",
+      "it": "Dominaterrore",
+      "de": "Schaudernder Hels",
+      "es": "Hels temblorosa",
+      "ru": "Дрожащий владыка",
+      "pl": "Drżący Władca",
+      "pt-BR": "Hels Tremulante",
+      "ko": "전율의 헬섀펜",
+      "zh-Hant": "戰慄霸權抓取者",
+      "zh-Hans": "战栗统治抓取者",
+      "ar": "الجحيم المرعب",
+      "es-419": "Hels tembloroso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n記憶。消滅を許さぬ罪業は、\r\n無窮の恐怖と苦痛を刻み続ける。",
+      "en": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+      "fr": "Un souvenir autrefois joyeux en\r\nquête de potentiel, mais dont la\r\ndouleur persistera à jamais.",
+      "it": "Una memoria deforme che inghiotte\r\npoteri nascosti. Un peccato\r\nimperdonabile che continuerà a\r\ninfliggere paura e dolore senza fine.",
+      "de": "Groteske Erinnerungen, die\r\nnach Potenzial dürsten. Geprägt\r\nvon nichts als Sünden sind sie\r\nvoller Angst und Schmerz.",
+      "es": "Un recuerdo otrora feliz que\r\nansía potencial, en lugar de\r\nla libertad del dolor que nunca\r\nva a conocer.",
+      "ru": "Вместилище некогда радостного\r\nвоспоминания, лишённое шанса\r\nпознать свободу от боли и потому\r\nжаждущее большего взамен.",
+      "pl": "Niegdyś błogie wspomnienie,\r\nłaknące nie potencjału, lecz\r\nwolności od bólu, której nigdy\r\nnie zazna.",
+      "pt-BR": "Memória outrora alegre que\r\nanseia pelo potencial, sabendo\r\nque nunca se livrará da dor.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n기억. 소멸을 불허하는 죄업은\r\n무한한 공포와 고통을 새긴다.",
+      "zh-Hant": "異形的記憶吞噬潛藏性能。不容\r\n消散的罪業不斷烙印無窮的恐懼\r\n與痛楚。",
+      "zh-Hans": "吞噬隐藏性能的异形之记忆。罪业\r\n不容湮灭，永恒铭刻无穷的恐怖与\r\n痛苦。",
+      "ar": "ذكرى كانت سعيدة ذات يوم،\r\nمتعطّشة لاكتشاف قدرتها الكامنة،\r\nبدلًا من حرية الألم التي لن تحظى بها أبدًا.",
+      "es-419": "Un recuerdo alguna vez feliz, sediento\r\nde potencial, en lugar de la libertad\r\ndel dolor que nunca va a conocer."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 93,
+    "kind": "heavy-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 5
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 5
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 5
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4
+      }
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

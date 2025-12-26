@@ -7249,5 +7249,414 @@
       "7506": 1
     },
     "series_id": -765803328
+  },
+  {
+    "game_id": 93,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 70,
+      "green": 100,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "ねこ？ぱんち",
+      "en": "Catspaw",
+      "fr": "Griffe-de-chat",
+      "it": "Gatto nero",
+      "de": "Katzenpfote",
+      "es": "Zarpa gatuna",
+      "ru": "Кошачья лапа",
+      "pl": "Kocia Łapa",
+      "pt-BR": "Pata de Gato",
+      "ko": "야옹?펀치",
+      "zh-Hant": "貓拳？",
+      "zh-Hans": "猫？拳",
+      "ar": "مخلب القط",
+      "es-419": "Garra gatuna"
+    },
+    "descriptions": {
+      "ja": "イタズラ好きな獣人族愛用のシーフ\r\nツール。完備された肉球に惹かれて\r\n獣人族から購入する者もいるとか。",
+      "en": "The go-to thief's tool for naughty\r\nLynians. The adorable pawprint\r\nattracts other buyers, too.",
+      "fr": "L'outil de prédilection des voleurs\r\nlyniens. L'adorable motif de patte\r\nattire aussi d'autres acheteurs.",
+      "it": "Lo strumento preferito dai\r\nLynian dispettosi. L'adorabile\r\nimpronta attrae altre persone\r\ninteressate all'acquisto.",
+      "de": "Das treue Diebeswerkzeug eines\r\nungezogenen Lynianers.\r\nDer drollige Pfotenabdruck zieht\r\nauch andere Käufer an.",
+      "es": "Herramienta preferida de\r\nlos Lynians más traviesos.\r\nLa marca de una patita también\r\natrae a otros compradores.",
+      "ru": "Излюбленный воровской инструмент\r\nнечистых на лапу линианцев. Но\r\nочаровательная кошачья лапка\r\nпривлекает и других покупателей.",
+      "pl": "Niezawodne narzędzie złodzieja\r\ndla niegrzecznych lynianów.\r\nUroczy odcisk łapy przyciąga\r\nkupujących.",
+      "pt-BR": "A ferramenta preferida dos\r\nLynianos ladrõezinhos. A pata\r\nfofinha ainda atrai outros\r\ncompradores.",
+      "ko": "장난꾸러기 수인족이 애용하는\r\n씨프 툴. 완벽한 발바닥에\r\n이끌려 수인족에게서 구입하는\r\n사람도 있다고 한다.",
+      "zh-Hant": "喜歡惡作劇的獸人族愛用的盜竊\r\n工具。據說也有人深受完整的肉\r\n球吸引而向獸人族購買。",
+      "zh-Hans": "喜欢恶作剧的兽人族爱用的盗窃工\r\n具。也有人喜欢上面的肉球，特意\r\n从兽人族那里购买。",
+      "ar": "أداة اللصوص المفضلة لـ(لينيان)\r\nالمشاغبين. بصمة المخلب الجميلة\r\nتجذب المشترين الآخرين أيضًا.",
+      "es-419": "La herramienta predilecta de los traviesos\r\nLynians. La adorable huella de pata\r\ntambién atrae a otros compradores."
+    },
+    "rarity": 7,
+    "attack_raw": 220,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 10,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "317": 5,
+        "319": 4,
+        "604": 5,
+        "802": 2
+      },
+      "previous_id": null,
+      "branches": [
+        94
+      ],
+      "is_shortcut": false,
+      "column": 8,
+      "row": 28
+    },
+    "skills": {
+      "30554": 1
+    },
+    "series_id": 859479296
+  },
+  {
+    "game_id": 94,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 40,
+      "orange": 20,
+      "yellow": 60,
+      "green": 100,
+      "blue": 130,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "にゃんにゃんぼう",
+      "en": "Catburglar",
+      "fr": "Chat voleur",
+      "it": "Gattoscaltro",
+      "de": "Katzendieb",
+      "es": "Ladrón gato",
+      "ru": "Кошачий взломщик",
+      "pl": "Koci włamywacz",
+      "pt-BR": "Gato Saqueador",
+      "ko": "냥냥봉",
+      "zh-Hant": "喵喵棒",
+      "zh-Hans": "喵喵棒",
+      "ar": "اللص المتسلل",
+      "es-419": "Ladrón gatuno"
+    },
+    "descriptions": {
+      "ja": "ねこ？ぱんち強化版。\r\n～にゃ♪　にゃんにゃにゃ♪～\r\n　　　オカシラのお言葉より",
+      "en": "The Catspaw's final form.\r\n\"Meow, meow meow meow.\"\r\n-A famed Melynx",
+      "fr": "La forme ultime de la\r\nGriffe-de-chat. \"Miaou,\r\nmiaou miaou miaou.\"\r\n- Un célèbre Melynx -",
+      "it": "La forma finale del gatto nero.\r\n\"Miao, miao, miao, miao.\"\r\n-Un celebre Melynx",
+      "de": "Die Endform der Katzenpfote.\r\n„Miau, miau, Miau-miau, Miau!“\r\nEin altes Melynx-Sprichwort.",
+      "es": "La forma definitiva de la zarpa\r\ngatuna. \"Miau, miau, miau\",\r\ncomo afirmó un Melynx famoso.",
+      "ru": "«Кошачья лапа» в своей\r\nзавершённой форме.\r\n«Мяу, мяу-мяу-мяу».\r\n(знаменитый мерысь)",
+      "pl": "Ostateczna forma Kociej Łapy.\r\nCytując słynnego Melynxa:\r\n„Miau, miau, miau, miau”.",
+      "pt-BR": "A forma final da Pata de Gato.\r\n\"Miau, miau, miau, miau.\"\r\n- Um famoso Melince",
+      "ko": "야옹?펀치 강화판.\r\n~야옹♪ 냥냐냥♪~\r\n　　　두목의 한마디",
+      "zh-Hant": "貓拳？的最終強化版。\r\n「喵♪喵喵喵♪」\r\n　　　老大的話",
+      "zh-Hans": "猫？拳的强化版\r\n～喵♪喵喵喵♪～\r\n　　　　　——摘自首领语录",
+      "ar": "الشكل النهائي لمخلب القط.\r\n\"مواء، مواء مواء مواء.\"\r\n- ميلينكس الشهير",
+      "es-419": "La forma final de la garra gatuna.\r\n\"Miau, miau, miau\", como\r\nafirmó un Melynx famoso."
+    },
+    "rarity": 8,
+    "attack_raw": 240,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "raw": 14,
+        "hidden": false
+      }
+    ],
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "308": 4,
+        "661": 5,
+        "802": 1
+      },
+      "previous_id": 93,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 9,
+      "row": 28
+    },
+    "skills": {
+      "30554": 1
+    },
+    "series_id": 859479296
+  },
+  {
+    "game_id": 95,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "破滅のキリエヴェルド",
+      "en": "Kyrie Verd",
+      "fr": "Kyrie Verd",
+      "it": "Kyrie Verd",
+      "de": "Kyrie-Verd",
+      "es": "Kyrie Verd",
+      "ru": "Вершитель истины",
+      "pl": "Verdo Kyrie",
+      "pt-BR": "Kyrie Verd",
+      "ko": "파멸의 키리에베르도",
+      "zh-Hant": "破滅憐憫頌之鑿",
+      "zh-Hans": "破灭祷词之凿",
+      "ar": "كيري فيرد",
+      "es-419": "Kyrie Verd"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n足音。踏みにじり続けた慈悲を盾に\r\n刻み、絶望の真実に歩み続ける。",
+      "en": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+      "fr": "Alors que le désarroi s'empare\r\nde tout, votre compassion\r\nméprisée sera votre égide en\r\ndécouvrant le vrai désespoir.",
+      "it": "Mentre la disperazione divora\r\ntutto, la tua compassione\r\ncalpestata fungerà da scudo\r\nper rivelarti il vero sconforto.",
+      "de": "Groteske Schritte, die nach\r\nPotenzial dürsten. Mitleid wird\r\nzum Schild, während du wahre\r\nHoffnungslosigkeit erfährst.",
+      "es": "La angustia lo devora todo\r\ny tu compasión rota te protege al\r\nhallar la auténtica desesperanza.",
+      "ru": "Пока властвует всепоглощающее\r\nотчаяние, твоё растоптанное\r\nмилосердие станет щитом, когда ты\r\nпознаешь истинную беспомощность.",
+      "pl": "Gdy rozpacz pochłania wszystko,\r\nniech zdeptane współczucie\r\nstanie się twoją tarczą,\r\ngdy opuści cię nadzieja.",
+      "pt-BR": "Enquanto o desespero engole tudo,\r\nsua compaixão pisoteada servirá\r\ncomo um escudo ao descobrir\r\no verdadeiro desalento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발소리. 짓밟았던 자비를\r\n방패에 새기고, 절망의 진실로\r\n계속 걸어간다.",
+      "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
+      "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
+      "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "es-419": "Mientras la desesperación todo\r\ndevora, tu compasión pisoteada\r\nservirá de escudo al descubrir\r\nla verdadera desesperanza."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 96,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "破滅のキリエヴェルド",
+      "en": "Kyrie Verd",
+      "fr": "Kyrie Verd",
+      "it": "Kyrie Verd",
+      "de": "Kyrie-Verd",
+      "es": "Kyrie Verd",
+      "ru": "Вершитель истины",
+      "pl": "Verdo Kyrie",
+      "pt-BR": "Kyrie Verd",
+      "ko": "파멸의 키리에베르도",
+      "zh-Hant": "破滅憐憫頌之鑿",
+      "zh-Hans": "破灭祷词之凿",
+      "ar": "كيري فيرد",
+      "es-419": "Kyrie Verd"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n足音。踏みにじり続けた慈悲を盾に\r\n刻み、絶望の真実に歩み続ける。",
+      "en": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+      "fr": "Alors que le désarroi s'empare\r\nde tout, votre compassion\r\nméprisée sera votre égide en\r\ndécouvrant le vrai désespoir.",
+      "it": "Mentre la disperazione divora\r\ntutto, la tua compassione\r\ncalpestata fungerà da scudo\r\nper rivelarti il vero sconforto.",
+      "de": "Groteske Schritte, die nach\r\nPotenzial dürsten. Mitleid wird\r\nzum Schild, während du wahre\r\nHoffnungslosigkeit erfährst.",
+      "es": "La angustia lo devora todo\r\ny tu compasión rota te protege al\r\nhallar la auténtica desesperanza.",
+      "ru": "Пока властвует всепоглощающее\r\nотчаяние, твоё растоптанное\r\nмилосердие станет щитом, когда ты\r\nпознаешь истинную беспомощность.",
+      "pl": "Gdy rozpacz pochłania wszystko,\r\nniech zdeptane współczucie\r\nstanie się twoją tarczą,\r\ngdy opuści cię nadzieja.",
+      "pt-BR": "Enquanto o desespero engole tudo,\r\nsua compaixão pisoteada servirá\r\ncomo um escudo ao descobrir\r\no verdadeiro desalento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발소리. 짓밟았던 자비를\r\n방패에 새기고, 절망의 진실로\r\n계속 걸어간다.",
+      "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
+      "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
+      "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "es-419": "Mientras la desesperación todo\r\ndevora, tu pisoteada compasión\r\nde escudo servirá al descubrir\r\nla verdadera desesperanza."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 97,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "破滅のキリエヴェルド",
+      "en": "Kyrie Verd",
+      "fr": "Kyrie Verd",
+      "it": "Kyrie Verd",
+      "de": "Kyrie-Verd",
+      "es": "Kyrie Verd",
+      "ru": "Вершитель истины",
+      "pl": "Verdo Kyrie",
+      "pt-BR": "Kyrie Verd",
+      "ko": "파멸의 키리에베르도",
+      "zh-Hant": "破滅憐憫頌之鑿",
+      "zh-Hans": "破灭祷词之凿",
+      "ar": "كيري فيرد",
+      "es-419": "Kyrie Verd"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n足音。踏みにじり続けた慈悲を盾に\r\n刻み、絶望の真実に歩み続ける。",
+      "en": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+      "fr": "Alors que le désarroi s'empare\r\nde tout, votre compassion\r\nméprisée sera votre égide en\r\ndécouvrant le vrai désespoir.",
+      "it": "Mentre la disperazione divora\r\ntutto, la tua compassione\r\ncalpestata fungerà da scudo\r\nper rivelarti il vero sconforto.",
+      "de": "Groteske Schritte, die nach\r\nPotenzial dürsten. Mitleid wird\r\nzum Schild, während du wahre\r\nHoffnungslosigkeit erfährst.",
+      "es": "La angustia lo devora todo\r\ny tu compasión rota te protege al\r\nhallar la auténtica desesperanza.",
+      "ru": "Пока властвует всепоглощающее\r\nотчаяние, твоё растоптанное\r\nмилосердие станет щитом, когда ты\r\nпознаешь истинную беспомощность.",
+      "pl": "Gdy rozpacz pochłania wszystko,\r\nniech zdeptane współczucie\r\nstanie się twoją tarczą,\r\ngdy opuści cię nadzieja.",
+      "pt-BR": "Enquanto o desespero engole tudo,\r\nsua compaixão pisoteada servirá\r\ncomo um escudo ao descobrir\r\no verdadeiro desalento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n발소리. 짓밟았던 자비를\r\n방패에 새기고, 절망의 진실로\r\n계속 걸어간다.",
+      "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
+      "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
+      "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "es-419": "Mientras la desesperación todo\r\ndevora, tu pisoteada compasión\r\nde escudo servirá al descubrir\r\nla verdadera desesperanza."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 106,
+    "kind": "sword-shield",
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

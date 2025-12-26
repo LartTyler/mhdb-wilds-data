@@ -8407,5 +8407,361 @@
       "1613139840": 2
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 86,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "recover",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "adhesive",
+    "names": {
+      "ja": "荊冠のデストレーター",
+      "en": "Bethorned Agony",
+      "fr": "Agonie épineuse",
+      "it": "Agonia spinata",
+      "de": "Bedornte Pein",
+      "es": "Agonía espinada",
+      "ru": "Терновая агония",
+      "pl": "Cierniowy Urazohilator",
+      "pt-BR": "Agonia Espinhosa",
+      "ko": "형관의 디스토레이터",
+      "zh-Hant": "荊冠受難英魂俱滅",
+      "zh-Hans": "荆冠受难英魂灭尽",
+      "ar": "عذاب الأشواك",
+      "es-419": "Agonía espinosa"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n罪過。荊は哀れな魂に絡み、滲み、\r\n戒めとなって膨れ上がるだろう。",
+      "en": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+      "fr": "Alors que la culpabilité\r\ns'empare de tout, votre\r\nâme pitoyable sera piégée\r\net punie par ces épines.",
+      "it": "Mentre la colpa divora tutto,\r\nqueste spine legheranno\r\ne puniranno la tua misera anima.",
+      "de": "Eine groteske Schuld, die nach\r\nPotenzial dürstet. Die Dornen\r\ndurchdringen und strafen die\r\nelende Seele.",
+      "es": "La culpa lo devora todo y\r\nestas espinas atrapan y\r\ncastigan tu alma lastimera.",
+      "ru": "Пока властвует всепоглощающая\r\nвина, эти шипы сковывают\r\nи карают твою жалкую душу.",
+      "pl": "Gdy poczucie winy pochłania\r\nwszystko, te ciernie oplotą\r\ni ukarzą twoją nędzną duszę.",
+      "pt-BR": "Enquanto a culpa engole tudo,\r\nesses espinhos aprisionarão e\r\npunirão sua alma lamentável.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n과오. 가시는 가련한 영혼에\r\n엉켜 번지고, 응징이 되어\r\n부풀어 오를 것이다.",
+      "zh-Hant": "異形的罪過吞噬潛藏性能。荊棘\r\n纏繞並滲入可悲的靈魂，終將化\r\n為膨脹的戒律。",
+      "zh-Hans": "吞噬隐藏性能的异形之罪过。荆棘\r\n将缠绕悲悯之魂，渗透蔓延，最终\r\n化作膨胀的戒律。",
+      "ar": "حين يلتهمكَ الشعور بالذنب\r\nبكل قسوة، ستقيد هذه الأشواك\r\nروحكَ البائسة وتعاقبها.",
+      "es-419": "Mientras la culpa lo devora\r\ntodo, las espinas atrapan\r\ny castigan tu alma miserable."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 87,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "recover",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "adhesive",
+    "names": {
+      "ja": "荊冠のデストレーター",
+      "en": "Bethorned Agony",
+      "fr": "Agonie épineuse",
+      "it": "Agonia spinata",
+      "de": "Bedornte Pein",
+      "es": "Agonía espinada",
+      "ru": "Терновая агония",
+      "pl": "Cierniowy Urazohilator",
+      "pt-BR": "Agonia Espinhosa",
+      "ko": "형관의 디스토레이터",
+      "zh-Hant": "荊冠受難英魂俱滅",
+      "zh-Hans": "荆冠受难英魂灭尽",
+      "ar": "عذاب الأشواك",
+      "es-419": "Agonía espinosa"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n罪過。荊は哀れな魂に絡み、滲み、\r\n戒めとなって膨れ上がるだろう。",
+      "en": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+      "fr": "Alors que la culpabilité\r\ns'empare de tout, votre\r\nâme pitoyable sera piégée\r\net punie par ces épines.",
+      "it": "Mentre la colpa divora tutto,\r\nqueste spine legheranno\r\ne puniranno la tua misera anima.",
+      "de": "Eine groteske Schuld, die nach\r\nPotenzial dürstet. Die Dornen\r\ndurchdringen und strafen die\r\nelende Seele.",
+      "es": "La culpa lo devora todo y\r\nestas espinas atrapan y\r\ncastigan tu alma lastimera.",
+      "ru": "Пока властвует всепоглощающая\r\nвина, эти шипы сковывают\r\nи карают твою жалкую душу.",
+      "pl": "Gdy poczucie winy pochłania\r\nwszystko, te ciernie oplotą\r\ni ukarzą twoją nędzną duszę.",
+      "pt-BR": "Enquanto a culpa engole tudo,\r\nesses espinhos aprisionarão e\r\npunirão sua alma lamentável.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n과오. 가시는 가련한 영혼에\r\n엉켜 번지고, 응징이 되어\r\n부풀어 오를 것이다.",
+      "zh-Hant": "異形的罪過吞噬潛藏性能。荊棘\r\n纏繞並滲入可悲的靈魂，終將化\r\n為膨脹的戒律。",
+      "zh-Hans": "吞噬隐藏性能的异形之罪过。荆棘\r\n将缠绕悲悯之魂，渗透蔓延，最终\r\n化作膨胀的戒律。",
+      "ar": "حين يلتهمكَ الشعور بالذنب\r\nبكل قسوة، ستقيد هذه الأشواك\r\nروحكَ البائسة وتعاقبها.",
+      "es-419": "Mientras la culpa lo devora\r\ntodo, las espinas atrapan\r\ny castigan tu alma miserable."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 88,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 2,
+        "rapid": false
+      },
+      {
+        "kind": "pierce",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "spread",
+        "level": 2,
+        "capacity": 2,
+        "rapid": true
+      },
+      {
+        "kind": "slicing",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "demon",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "exhaust",
+        "level": 1,
+        "capacity": 1,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "adhesive",
+    "names": {
+      "ja": "荊冠のデストレーター",
+      "en": "Bethorned Agony",
+      "fr": "Agonie épineuse",
+      "it": "Agonia spinata",
+      "de": "Bedornte Pein",
+      "es": "Agonía espinada",
+      "ru": "Терновая агония",
+      "pl": "Cierniowy Urazohilator",
+      "pt-BR": "Agonia Espinhosa",
+      "ko": "형관의 디스토레이터",
+      "zh-Hant": "荊冠受難英魂俱滅",
+      "zh-Hans": "荆冠受难英魂灭尽",
+      "ar": "عذاب الأشواك",
+      "es-419": "Agonía espinosa"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n罪過。荊は哀れな魂に絡み、滲み、\r\n戒めとなって膨れ上がるだろう。",
+      "en": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+      "fr": "Alors que la culpabilité\r\ns'empare de tout, votre\r\nâme pitoyable sera piégée\r\net punie par ces épines.",
+      "it": "Mentre la colpa divora tutto,\r\nqueste spine legheranno\r\ne puniranno la tua misera anima.",
+      "de": "Eine groteske Schuld, die nach\r\nPotenzial dürstet. Die Dornen\r\ndurchdringen und strafen die\r\nelende Seele.",
+      "es": "La culpa lo devora todo y\r\nestas espinas atrapan y\r\ncastigan tu alma lastimera.",
+      "ru": "Пока властвует всепоглощающая\r\nвина, эти шипы сковывают\r\nи карают твою жалкую душу.",
+      "pl": "Gdy poczucie winy pochłania\r\nwszystko, te ciernie oplotą\r\ni ukarzą twoją nędzną duszę.",
+      "pt-BR": "Enquanto a culpa engole tudo,\r\nesses espinhos aprisionarão e\r\npunirão sua alma lamentável.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n과오. 가시는 가련한 영혼에\r\n엉켜 번지고, 응징이 되어\r\n부풀어 오를 것이다.",
+      "zh-Hant": "異形的罪過吞噬潛藏性能。荊棘\r\n纏繞並滲入可悲的靈魂，終將化\r\n為膨脹的戒律。",
+      "zh-Hans": "吞噬隐藏性能的异形之罪过。荆棘\r\n将缠绕悲悯之魂，渗透蔓延，最终\r\n化作膨胀的戒律。",
+      "ar": "حين يلتهمكَ الشعور بالذنب\r\nبكل قسوة، ستقيد هذه الأشواك\r\nروحكَ البائسة وتعاقبها.",
+      "es-419": "Mientras la culpa lo devora\r\ntodo, las espinas atrapan\r\ny castigan tu alma miserable."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 95,
+    "kind": "light-bowgun",
+    "ammo": [
+      {
+        "kind": "normal",
+        "level": 2,
+        "capacity": 5,
+        "rapid": true
+      },
+      {
+        "kind": "pierce",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "spread",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      },
+      {
+        "kind": "tranq",
+        "level": 1,
+        "capacity": 4,
+        "rapid": false
+      }
+    ],
+    "special_ammo": "wyvernblast",
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

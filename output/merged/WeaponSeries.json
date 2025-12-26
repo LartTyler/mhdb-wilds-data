@@ -475,6 +475,10 @@
     }
   },
   {
+    "game_id": 201320464,
+    "names": {}
+  },
+  {
     "game_id": 401764448,
     "names": {
       "ja": "獄焔蛸派生",
@@ -624,6 +628,25 @@
       "zh-Hans": "锁刃龙衍生",
       "ar": "شجرة آركفيلد",
       "es-419": "Árbol de Arkveld"
+    }
+  },
+  {
+    "game_id": 859479296,
+    "names": {
+      "ja": "アイルー派生",
+      "en": "Felyne Tree",
+      "fr": "Felyne",
+      "it": "Serie Felyne",
+      "de": "Felynen-Baum",
+      "es": "Árbol de Felyne",
+      "ru": "Древо коттов",
+      "pl": "Drzewo felina",
+      "pt-BR": "Felyno",
+      "ko": "아이루 파생",
+      "zh-Hant": "艾路衍生",
+      "zh-Hans": "艾露猫衍生",
+      "ar": "شجرة فيلاين",
+      "es-419": "Árbol Felyne"
     }
   },
   {

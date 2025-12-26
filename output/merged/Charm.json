@@ -323,6 +323,25 @@
     }
   },
   {
+    "game_id": 1812,
+    "names": {
+      "ja": "ゆらゆらベビー・桃籠",
+      "en": "Pink Rock-a-Baby",
+      "fr": "Berceau rose",
+      "it": "Culla rosa",
+      "de": "Saikrii-Wiege (rosa)",
+      "es": "Columpollito rosa",
+      "ru": "Розовая колыбель",
+      "pl": "Różowa kołyska",
+      "pt-BR": "Bercinho Rosa",
+      "ko": "흔들흔들 요람/핑크",
+      "zh-Hant": "搖晃寶寶・桃籠",
+      "zh-Hans": "摇篮宝宝・桃",
+      "ar": "مهد وردي",
+      "es-419": "Columpollito rosa"
+    }
+  },
+  {
     "game_id": 1952,
     "names": {
       "ja": "勇者の証【波衣竜】",
@@ -418,6 +437,44 @@
     }
   },
   {
+    "game_id": 3751,
+    "names": {
+      "ja": "シュバルカネコバルーン",
+      "en": "F Arkveld Balloon",
+      "fr": "Ballon Arkveld F",
+      "it": "Palloncino Arkveld F",
+      "de": "F Arkveld-Ballon",
+      "es": "Globo Arkveld F",
+      "ru": "Шарик «Арквельд» (К)",
+      "pl": "F. balonik z Arkveldem",
+      "pt-BR": "Balão de Arkveld F.",
+      "ko": "슈바르카고양이",
+      "zh-Hant": "鎖刃龍貓氣球",
+      "zh-Hans": "锁刃龙猫气球",
+      "ar": "بالون آركفيلد F",
+      "es-419": "Globo Arkveld F"
+    }
+  },
+  {
+    "game_id": 4011,
+    "names": {
+      "ja": "ププロネコバルーン",
+      "en": "F Rompopolo Balloon",
+      "fr": "Ballon Rompopolo F",
+      "it": "Palloncino Rompopolo F",
+      "de": "F Rompopolo-Ballon",
+      "es": "Globo Rompopolo F",
+      "ru": "Шарик «Ромпополо» (К)",
+      "pl": "F. balonik z Popolo",
+      "pt-BR": "Balão de Rompopolo F.",
+      "ko": "푸푸로고양이",
+      "zh-Hant": "沼噴龍貓氣球",
+      "zh-Hans": "沼喷龙猫气球",
+      "ar": "بالون فيلاين رومبوبولو",
+      "es-419": "Globo Rompopolo F"
+    }
+  },
+  {
     "game_id": 4166,
     "names": {
       "ja": "アイルーテディ・花舞",
@@ -453,6 +510,25 @@
       "zh-Hans": "精灵之光·白辉",
       "ar": "ضوء الجنية الأبيض",
       "es-419": "Luz feérica blanca"
+    }
+  },
+  {
+    "game_id": 4777,
+    "names": {
+      "ja": "勇者の証【凍峰竜】",
+      "en": "Jin Dahaad: Mark of Bravery",
+      "fr": "Jin Dahaad : gage de bravoure",
+      "it": "Jin Dahaad: Marchio valore",
+      "de": "Jin Dahaad: Mut",
+      "es": "Jin Dahaad: Señal de valor",
+      "ru": "Джин дахаад: знак героя",
+      "pl": "Jin Dahaad: Symbol odwagi",
+      "pt-BR": "Jin Dahaad: Bravura",
+      "ko": "용사의 증표【동봉룡】",
+      "zh-Hant": "勇者之證【凍峰龍】",
+      "zh-Hans": "勇者之证【冻峰龙】",
+      "ar": "جين دهاد: رمز الشجاعة",
+      "es-419": "Jin Dahaad: marca de valor"
     }
   },
   {
@@ -551,6 +627,25 @@
     }
   },
   {
+    "game_id": 6929,
+    "names": {
+      "ja": "ふわふわレウスバルーン",
+      "en": "Floating Rath Balloon",
+      "fr": "Ballon Rathalos",
+      "it": "Palloncino Ratha",
+      "de": "Ratha-Ballon",
+      "es": "Globo Rath flotante",
+      "ru": "Раталос-шарик",
+      "pl": "Latający rathabalonik",
+      "pt-BR": "Rathbalão Flutuante",
+      "ko": "둥실둥실 레우스 벌룬",
+      "zh-Hant": "輕盈火龍氣球",
+      "zh-Hans": "轻盈火龙气球",
+      "ar": "بالون راث العائم",
+      "es-419": "Globo Rath flotante"
+    }
+  },
+  {
     "game_id": 7066,
     "names": {
       "ja": "ジョイントドスベイト",
@@ -567,6 +662,44 @@
       "zh-Hans": "联装大拟饵",
       "ar": "طُعم الحجر البركاني المفصلي",
       "es-419": "Cebo de toba articulable"
+    }
+  },
+  {
+    "game_id": 7677,
+    "names": {
+      "ja": "ゆらゆらベビー・緑籠",
+      "en": "Green Rock-a-Baby",
+      "fr": "Berceau vert",
+      "it": "Culla verde",
+      "de": "Saikrii-Wiege (grün)",
+      "es": "Columpollito verde",
+      "ru": "Зелёная колыбель",
+      "pl": "Zielona kołyska",
+      "pt-BR": "Bercinho Verde",
+      "ko": "흔들흔들 요람/그린",
+      "zh-Hant": "搖晃寶寶・綠籠",
+      "zh-Hans": "摇篮宝宝・绿",
+      "ar": "مهد أخضر",
+      "es-419": "Columpollito verde"
+    }
+  },
+  {
+    "game_id": 7988,
+    "names": {
+      "ja": "てくてくベビーセクレト",
+      "en": "Trot-along Fledgling",
+      "fr": "Bébé Seikret trotteur",
+      "it": "Pulcino da compagnia",
+      "de": "Baby-Saikrii-Begleiter",
+      "es": "Polluelo trotador",
+      "ru": "Семенящий птенец",
+      "pl": "Podążający pisklak",
+      "pt-BR": "Seikretinho Trotador",
+      "ko": "터벅터벅 아기 세크레트",
+      "zh-Hant": "踱步鷺鷹龍寶寶",
+      "zh-Hans": "小踱鹭鹰龙宝宝",
+      "ar": "الفرخ مرح الخطى",
+      "es-419": "Polluelo trotador"
     }
   },
   {
@@ -698,7 +831,7 @@
       "ko": "터벅터벅 미니텐더",
       "zh-Hant": "踱步幼小仙人掌",
       "zh-Hans": "小踱幼小仙人掌",
-      "ar": "الصبار المهرول",
+      "ar": "الصبار مرح الخطى",
       "es-419": "Cactilio al trote"
     }
   },
@@ -719,6 +852,25 @@
       "zh-Hans": "骚灵艾露猫・蓝灵",
       "ar": "القط الشبح الأزرق",
       "es-419": "Poltergato azul"
+    }
+  },
+  {
+    "game_id": 10315,
+    "names": {
+      "ja": "はしるふとしろねこ",
+      "en": "White Tubby Turntail",
+      "fr": "Chat blanc fuyard soyeux",
+      "it": "Biangatto peloso in fuga",
+      "de": "Flauschpfote (weiß)",
+      "es": "Huidizo suavecito blanco",
+      "ru": "Белый трусишка-пушистик",
+      "pl": "Biały pulchny podkulony ogon",
+      "pt-BR": "Fujão Felpudo Branco",
+      "ko": "달리는 하얀 푹신 고양이",
+      "zh-Hant": "奔跑胖白貓",
+      "zh-Hans": "跑路的胖白猫",
+      "ar": "الممتلىء الأبيض الهارب",
+      "es-419": "Huidizo suavecito blanco"
     }
   },
   {
@@ -817,6 +969,25 @@
     }
   },
   {
+    "game_id": 11710,
+    "names": {
+      "ja": "【KFC】カーネルアイルー",
+      "en": "KFC Colonel Felyne",
+      "fr": "Felyne Colonel KFC",
+      "it": "Felynnello KFC",
+      "de": "[KFC] Colonel Felyne",
+      "es": "Coronel Felyne KFC",
+      "ru": "Котт-полковник KFC",
+      "pl": "KFC Pułkownik Felin",
+      "pt-BR": "Coronel Felyno do KFC",
+      "ko": "【KFC】 커넬 아이루",
+      "zh-Hant": "【KFC】上校艾路",
+      "zh-Hans": "【KFC】上校艾露猫",
+      "ar": "فيلاين كولونيل KFC",
+      "es-419": "Coronel Felyne KFC"
+    }
+  },
+  {
     "game_id": 11812,
     "names": {
       "ja": "ウタイズクバルーン・泡",
@@ -852,6 +1023,25 @@
       "zh-Hans": "浮浮闪星",
       "ar": "البَريق العائم",
       "es-419": "Destellos flotantes"
+    }
+  },
+  {
+    "game_id": 12020,
+    "names": {
+      "ja": "ゆらゆらベビー・黒籠",
+      "en": "Black Rock-a-Baby",
+      "fr": "Berceau noir",
+      "it": "Culla nera",
+      "de": "Saikrii-Wiege (graphit)",
+      "es": "Columpollito negro",
+      "ru": "Чёрная колыбель",
+      "pl": "Czarna kołyska",
+      "pt-BR": "Bercinho Preto",
+      "ko": "흔들흔들 요람/블랙",
+      "zh-Hant": "搖晃寶寶・黑籠",
+      "zh-Hans": "摇篮宝宝・黑",
+      "ar": "مهد أسود",
+      "es-419": "Columpollito negro"
     }
   },
   {
@@ -942,7 +1132,7 @@
       "ru": "Мята и шоколад (К)",
       "pl": "Felińska czekoladka miętowa",
       "pt-BR": "Chocomenta Felyno",
-      "ko": "아이루 초코민트",
+      "ko": "아이루 민트초코",
       "zh-Hant": "艾路・巧克力薄荷",
       "zh-Hans": "艾露猫：薄荷巧克力",
       "ar": "فيلاين: شوكولاتة بالنعناع",
@@ -1121,6 +1311,25 @@
     }
   },
   {
+    "game_id": 17168,
+    "names": {
+      "ja": "はしるふとくろねこ",
+      "en": "Black Tubby Turntail",
+      "fr": "Chat noir fuyard soyeux",
+      "it": "Felinero peloso in fuga",
+      "de": "Flauschpfote (schwarz)",
+      "es": "Huidizo suavecito negro",
+      "ru": "Чёрный трусишка-пушистик",
+      "pl": "Czarny pulchny podkulony ogon",
+      "pt-BR": "Fujão Felpudo Preto",
+      "ko": "달리는 검은 푹신 고양이",
+      "zh-Hant": "奔跑胖黑貓",
+      "zh-Hans": "跑路的胖黑猫",
+      "ar": "الممتلىء الأسود الهارب",
+      "es-419": "Huidizo suavecito negro"
+    }
+  },
+  {
     "game_id": 17328,
     "names": {
       "ja": "踊火の精霊・紫焔",
@@ -1175,6 +1384,44 @@
       "zh-Hans": "长身黑猫陶俑",
       "ar": "قطة سوداء متمطّطة",
       "es-419": "Gato negro estirándose"
+    }
+  },
+  {
+    "game_id": 18065,
+    "names": {
+      "ja": "ラバラネコバルーン",
+      "en": "F Barina Balloon",
+      "fr": "Ballon Lala Barina F",
+      "it": "Palloncino Barina F",
+      "de": "F Barina-Ballon",
+      "es": "Globo Barina F",
+      "ru": "Шарик «Барина» (К)",
+      "pl": "F. balonik z Bariną",
+      "pt-BR": "Balão de Barina F.",
+      "ko": "라바라고양이 벌룬",
+      "zh-Hant": "刺花蜘蛛貓氣球",
+      "zh-Hans": "刺花蜘蛛猫气球",
+      "ar": "بالون بارينا F",
+      "es-419": "Globo Barina F"
+    }
+  },
+  {
+    "game_id": 18179,
+    "names": {
+      "ja": "はしるくろねこ",
+      "en": "Black Turntail",
+      "fr": "Chat noir fuyard",
+      "it": "Felinero in fuga",
+      "de": "Filzpfote (schwarz)",
+      "es": "Huidizo negro",
+      "ru": "Чёрный трусишка",
+      "pl": "Czarny podkulony ogon",
+      "pt-BR": "Fujão Preto",
+      "ko": "달리는 검은 고양이",
+      "zh-Hant": "奔跑黑貓",
+      "zh-Hans": "跑路的黑猫",
+      "ar": "الأسود الهارب",
+      "es-419": "Huidizo negro"
     }
   },
   {
@@ -1251,6 +1498,25 @@
       "zh-Hans": "歌鸮气球·金",
       "ar": "بالون ذهبي",
       "es-419": "Strigible: Oro"
+    }
+  },
+  {
+    "game_id": 19440,
+    "names": {
+      "ja": "コスモロイド・コア",
+      "en": "Cosmoloid Core",
+      "fr": "Noyau cosmoloïde",
+      "it": "Nucleo astroide",
+      "de": "Cosmoid-Kern",
+      "es": "Núcleo cosmoloide",
+      "ru": "Космолоидное ядро",
+      "pl": "Rdzeń kosmoloida",
+      "pt-BR": "Núcleo Cosmoloide",
+      "ko": "코스모로이드코어",
+      "zh-Hant": "宇宙機鎧核心",
+      "zh-Hans": "宇宙机装核心",
+      "ar": "نواة كوزمولويد",
+      "es-419": "Núcleo cosmoloide"
     }
   },
   {
@@ -1368,6 +1634,25 @@
     }
   },
   {
+    "game_id": 22260,
+    "names": {
+      "ja": "玉乗りプーギー【たこ焼】",
+      "en": "Rolling Poogie: Takoyaki",
+      "fr": "Poogie équilibriste : takoyaki",
+      "it": "Poogie rotolante takoyaki",
+      "de": "Zirkus-Poogie (Takoyaki)",
+      "es": "Poogie rodante: Takoyaki",
+      "ru": "Хрюшка на шаре: такояки",
+      "pl": "Turlająca się Świnka: takoyaki",
+      "pt-BR": "Rola-Poogie: Takoyaki",
+      "ko": "곡예 푸기【타코야키】",
+      "zh-Hant": "踩球噗吱豬【章魚燒】",
+      "zh-Hans": "踩球噗吱猪【章鱼烧】",
+      "ar": "بوغي المتدحرج: تاكوياكي",
+      "es-419": "Poogie rodante: takoyaki"
+    }
+  },
+  {
     "game_id": 23167,
     "names": {
       "ja": "ウタイズクバルーン・美",
@@ -1406,6 +1691,25 @@
     }
   },
   {
+    "game_id": 23285,
+    "names": {
+      "ja": "アトスバルーン",
+      "en": "Athos Balloon",
+      "fr": "Ballon Athos",
+      "it": "Palloncino Athos",
+      "de": "Athos-Ballon",
+      "es": "Globo Athos",
+      "ru": "Шарик «Афос»",
+      "pl": "Balonik Athosa",
+      "pt-BR": "Balão da Athos",
+      "ko": "아토스 벌룬",
+      "zh-Hant": "阿德絲氣球",
+      "zh-Hans": "阿托斯气球",
+      "ar": "بالون آثوس",
+      "es-419": "Globo Athos"
+    }
+  },
+  {
     "game_id": 23873,
     "names": {
       "ja": "アイルー・ストロベリー",
@@ -1441,6 +1745,25 @@
       "zh-Hans": "霸者之证【狱焰蛸】",
       "ar": "نو أودرا: رمز الإتقان",
       "es-419": "Nu Udra: dominio"
+    }
+  },
+  {
+    "game_id": 24934,
+    "names": {
+      "ja": "覇者の証【凍峰竜】",
+      "en": "Jin Dahaad: Mark of Mastery",
+      "fr": "Jin Dahaad : gage de maîtrise",
+      "it": "Jin Dahaad: Marchio maestria",
+      "de": "Jin Dahaad: Dominanz",
+      "es": "Jin Dahaad: Señal de dominio",
+      "ru": "Джин дахаад: знак мастера",
+      "pl": "Jin Dahaad: Symbol mistrzostwa",
+      "pt-BR": "Jin Dahaad: Maestria",
+      "ko": "패자의 증표【동봉룡】",
+      "zh-Hant": "霸者之證【凍峰龍】",
+      "zh-Hans": "霸者之证【冻峰龙】",
+      "ar": "جين دهاد: رمز الإتقان",
+      "es-419": "Jin Dahaad: marca de dominio"
     }
   },
   {
@@ -1501,6 +1824,25 @@
     }
   },
   {
+    "game_id": 25801,
+    "names": {
+      "ja": "挑戦者の証【凍峰竜】",
+      "en": "Jin Dahaad: Mark of Contest",
+      "fr": "Jin Dahaad : gage d'effort",
+      "it": "Jin Dahaad: Marchio sfida",
+      "de": "Jin Dahaad: Wagnis",
+      "es": "Jin Dahaad: Señal de lucha",
+      "ru": "Джин дахаад: знак претендента",
+      "pl": "Jin Dahaad: Symbol pojedynku",
+      "pt-BR": "Jin Dahaad: Contestação",
+      "ko": "도전자의 증표【동봉룡】",
+      "zh-Hant": "挑戰者之證【凍峰龍】",
+      "zh-Hans": "挑战者之证【冻峰龙】",
+      "ar": "جين دهاد: رمز المنافسة",
+      "es-419": "Jin Dahaad: marca de lucha"
+    }
+  },
+  {
     "game_id": 25832,
     "names": {
       "ja": "挑戦者の証【波衣竜】",
@@ -1517,6 +1859,25 @@
       "zh-Hans": "挑战者之证【波衣龙】",
       "ar": "أوث دونا: رمز المنافسة",
       "es-419": "Uth Duna: lucha"
+    }
+  },
+  {
+    "game_id": 25975,
+    "names": {
+      "ja": "ゆらゆらベビー・白籠",
+      "en": "White Rock-a-Baby",
+      "fr": "Berceau blanc",
+      "it": "Culla bianca",
+      "de": "Saikrii-Wiege (weiß)",
+      "es": "Columpollito blanco",
+      "ru": "Белая колыбель",
+      "pl": "Biała kołyska",
+      "pt-BR": "Bercinho Branco",
+      "ko": "흔들흔들 요람/화이트",
+      "zh-Hant": "搖晃寶寶・白籠",
+      "zh-Hans": "摇篮宝宝・白",
+      "ar": "مهد أبيض",
+      "es-419": "Columpollito blanco"
     }
   },
   {
@@ -1672,6 +2033,25 @@
     }
   },
   {
+    "game_id": 27847,
+    "names": {
+      "ja": "ホープネコバルーン",
+      "en": "F Hope Balloon",
+      "fr": "Ballon Espoir F",
+      "it": "Palloncino Speranza F",
+      "de": "F Hoffnungsballon",
+      "es": "Globo Esperanza F",
+      "ru": "Шарик «Надежда» (К)",
+      "pl": "F. balonik nadziei",
+      "pt-BR": "Balão da Esperança F.",
+      "ko": "호프고양이 벌룬",
+      "zh-Hant": "希望貓氣球",
+      "zh-Hans": "希望猫气球",
+      "ar": "بالون فيلاين الأمل",
+      "es-419": "Globo esperanza F"
+    }
+  },
+  {
     "game_id": 28140,
     "names": {
       "ja": "踊火の精霊・赤焔",
@@ -1688,6 +2068,25 @@
       "zh-Hans": "踊火精灵・赤焰",
       "ar": "روح مهرجان اللهب الأحمر",
       "es-419": "Espíritu chisparranda rojo"
+    }
+  },
+  {
+    "game_id": 28174,
+    "names": {
+      "ja": "はしるしろねこ",
+      "en": "White Turntail",
+      "fr": "Chat blanc fuyard",
+      "it": "Biangatto in fuga",
+      "de": "Filzpfote (weiß)",
+      "es": "Huidizo blanco",
+      "ru": "Белый трусишка",
+      "pl": "Biały podkulony ogon",
+      "pt-BR": "Fujão Branco",
+      "ko": "달리는 하얀 고양이",
+      "zh-Hant": "奔跑白貓",
+      "zh-Hans": "跑路的白猫",
+      "ar": "الأبيض الهارب",
+      "es-419": "Huidizo blanco"
     }
   },
   {
@@ -1710,6 +2109,25 @@
     }
   },
   {
+    "game_id": 29009,
+    "names": {
+      "ja": "【KFC】バーレルアイルー",
+      "en": "KFC Bucket Felyne",
+      "fr": "Felyne Bucket KFC",
+      "it": "Felyne in Bucket KFC",
+      "de": "[KFC] Felyne im Bucket",
+      "es": "Cubo Felyne KFC",
+      "ru": "Котт в баскете KFC",
+      "pl": "KFC kubełkowy felin",
+      "pt-BR": "Balde Felyno do KFC",
+      "ko": "【KFC】 버켓 아이루",
+      "zh-Hant": "【KFC】雞桶艾路",
+      "zh-Hans": "【KFC】全家桶艾露猫",
+      "ar": "فيلاين دلو KFC",
+      "es-419": "Bucket Felyne KFC"
+    }
+  },
+  {
     "game_id": 29257,
     "names": {
       "ja": "ラバラドレスの人形・赤",
@@ -1726,6 +2144,25 @@
       "zh-Hans": "刺花蜘蛛礼服娃娃・红",
       "ar": "دمية فستان لالا الأحمر",
       "es-419": "Muñeca con vestido lala rojo"
+    }
+  },
+  {
+    "game_id": 29315,
+    "names": {
+      "ja": "ゆらゆらベビー・青籠",
+      "en": "Blue Rock-a-Baby",
+      "fr": "Berceau bleu",
+      "it": "Culla blu",
+      "de": "Saikrii-Wiege (blau)",
+      "es": "Columpollito azul",
+      "ru": "Голубая колыбель",
+      "pl": "Niebieska kołyska",
+      "pt-BR": "Bercinho Azul",
+      "ko": "흔들흔들 요람/블루",
+      "zh-Hant": "搖晃寶寶・藍籠",
+      "zh-Hans": "摇篮宝宝・蓝",
+      "ar": "مهد أزرق",
+      "es-419": "Columpollito azul"
     }
   },
   {
@@ -1786,6 +2223,25 @@
     }
   },
   {
+    "game_id": 30715,
+    "names": {
+      "ja": "ゆらゆらベビー・紫籠",
+      "en": "Purple Rock-a-Baby",
+      "fr": "Berceau violet",
+      "it": "Culla viola",
+      "de": "Saikrii-Wiege (violett)",
+      "es": "Columpollito morado",
+      "ru": "Фиолетовая колыбель",
+      "pl": "Fioletowa kołyska",
+      "pt-BR": "Bercinho Roxo",
+      "ko": "흔들흔들 요람/퍼플",
+      "zh-Hant": "搖晃寶寶・紫籠",
+      "zh-Hans": "摇篮宝宝・紫",
+      "ar": "مهد أرجواني",
+      "es-419": "Columpollito morado"
+    }
+  },
+  {
     "game_id": 31701,
     "names": {
       "ja": "ポルターアイルー・白霊",
@@ -1805,6 +2261,25 @@
     }
   },
   {
+    "game_id": 31996,
+    "names": {
+      "ja": "玉乗りプーギー【四季花】",
+      "en": "Rolling Poogie: Seasonal",
+      "fr": "Poogie équilibriste : saisonnier",
+      "it": "Poogie rotolante stagionale",
+      "de": "Zirkus-Poogie (Blumen)",
+      "es": "Poogie rodante: Flores",
+      "ru": "Хрюшка на шаре: сезонная",
+      "pl": "Turlająca się Świnka: sezonowa",
+      "pt-BR": "Rola-Poogie: Sazonal",
+      "ko": "곡예 푸기【사계화】",
+      "zh-Hant": "踩球噗吱豬【四季花】",
+      "zh-Hans": "踩球噗吱猪【四季花】",
+      "ar": "بوغي المتدحرج: موسمي",
+      "es-419": "Poogie rodante: Flores de temporada"
+    }
+  },
+  {
     "game_id": 31998,
     "names": {
       "ja": "踊火の精霊・緑焔",
@@ -1821,6 +2296,25 @@
       "zh-Hans": "踊火精灵・绿焰",
       "ar": "روح مهرجان اللهب الأخضر",
       "es-419": "Espíritu chisparranda verde"
+    }
+  },
+  {
+    "game_id": 32144,
+    "names": {
+      "ja": "アイルーテディ・祝謡",
+      "en": "Lumenhymn Felyne Teddy",
+      "fr": "Peluche Felyne Chant des lumières",
+      "it": "Orsetto Luminalia F",
+      "de": "Lichterglanz-Felyne",
+      "es": "Peluche Felyne del iluminario",
+      "ru": "Плюшевый котт Гимна света",
+      "pl": "Plusz. fel. Hymnu Jasności",
+      "pt-BR": "Pelúcia de Felyno Ilumicanto",
+      "ko": "아이루 테디/축요",
+      "zh-Hant": "泰迪艾路・祝謠",
+      "zh-Hans": "泰迪艾露猫・祝谣",
+      "ar": "دمية فيلاين ترنيمة النور",
+      "es-419": "Peluche de Iluminario Felyne"
     }
   },
   {

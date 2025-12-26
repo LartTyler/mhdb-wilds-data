@@ -6781,6 +6781,216 @@
     "series_id": -1122003456
   },
   {
+    "game_id": 86,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 8,
+    "names": {
+      "ja": "堕在のラクリエリカ",
+      "en": "Limbo Llor",
+      "fr": "Larmes des limbes",
+      "it": "Limbo Llor",
+      "de": "Limbo-Llor",
+      "es": "Limbo Llor",
+      "ru": "Забытый плач",
+      "pl": "Płacz Półświata",
+      "pt-BR": "Limbo Llor",
+      "ko": "타락의 라크리에리카",
+      "zh-Hant": "墮世之淚雙重螺旋",
+      "zh-Hans": "堕世之泪双重螺旋",
+      "ar": "برزخ لاكور",
+      "es-419": "Limbo Llor"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n暗涙。崩れた螺旋は打ち捨てられ、\r\n希望を哀哭で染め続ける。",
+      "en": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+      "fr": "Des larmes envoûtantes en quête\r\nde potentiel, bien que tous\r\nles espoirs soient noyés\r\ndans une mer de chagrin.",
+      "it": "Inquietanti lacrime assetate di\r\npotenziale, anche quando ogni\r\naltra speranza annega in un\r\nmare di lamenti.",
+      "de": "Groteske Tränen, die nach\r\nPotenzial dürsten, selbst wenn\r\nalle Hoffnung in einem Meer\r\nder Wehklage versinkt.",
+      "es": "Lágrimas malditas que ansían\r\npotencial, aún con toda la\r\nesperanza hundida en un\r\nmar de lamentaciones.",
+      "ru": "Вместилище неотступных слёз\r\nтого, кто жаждет большего, даже\r\nутопив все надежды в море\r\nсожалений.",
+      "pl": "Nękające łzy łakną potencjału\r\nnawet wtedy, gdy cała nadzieja\r\nzatopiła się w morzu lamentu.",
+      "pt-BR": "Lágrimas assombradas sedentas\r\npor potencial, mesmo quando a\r\nesperança se afoga num mar de\r\nlamento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n어두운 눈물. 무너진 나선은\r\n버려지고, 희망을 슬픔의\r\n통곡으로 물들인다.",
+      "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
+      "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
+      "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 87,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 8,
+    "names": {
+      "ja": "堕在のラクリエリカ",
+      "en": "Limbo Llor",
+      "fr": "Larmes des limbes",
+      "it": "Limbo Llor",
+      "de": "Limbo-Llor",
+      "es": "Limbo Llor",
+      "ru": "Забытый плач",
+      "pl": "Płacz Półświata",
+      "pt-BR": "Limbo Llor",
+      "ko": "타락의 라크리에리카",
+      "zh-Hant": "墮世之淚雙重螺旋",
+      "zh-Hans": "堕世之泪双重螺旋",
+      "ar": "برزخ لاكور",
+      "es-419": "Limbo Llor"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n暗涙。崩れた螺旋は打ち捨てられ、\r\n希望を哀哭で染め続ける。",
+      "en": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+      "fr": "Des larmes envoûtantes en quête\r\nde potentiel, bien que tous\r\nles espoirs soient noyés\r\ndans une mer de chagrin.",
+      "it": "Inquietanti lacrime assetate di\r\npotenziale, anche quando ogni\r\naltra speranza annega in un\r\nmare di lamenti.",
+      "de": "Groteske Tränen, die nach\r\nPotenzial dürsten, selbst wenn\r\nalle Hoffnung in einem Meer\r\nder Wehklage versinkt.",
+      "es": "Lágrimas malditas que ansían\r\npotencial, aún con toda la\r\nesperanza hundida en un\r\nmar de lamentaciones.",
+      "ru": "Вместилище неотступных слёз\r\nтого, кто жаждет большего, даже\r\nутопив все надежды в море\r\nсожалений.",
+      "pl": "Nękające łzy łakną potencjału\r\nnawet wtedy, gdy cała nadzieja\r\nzatopiła się w morzu lamentu.",
+      "pt-BR": "Lágrimas assombradas sedentas\r\npor potencial, mesmo quando a\r\nesperança se afoga num mar de\r\nlamento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n어두운 눈물. 무너진 나선은\r\n버려지고, 희망을 슬픔의\r\n통곡으로 물들인다.",
+      "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
+      "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
+      "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 88,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 8,
+    "names": {
+      "ja": "堕在のラクリエリカ",
+      "en": "Limbo Llor",
+      "fr": "Larmes des limbes",
+      "it": "Limbo Llor",
+      "de": "Limbo-Llor",
+      "es": "Limbo Llor",
+      "ru": "Забытый плач",
+      "pl": "Płacz Półświata",
+      "pt-BR": "Limbo Llor",
+      "ko": "타락의 라크리에리카",
+      "zh-Hant": "墮世之淚雙重螺旋",
+      "zh-Hans": "堕世之泪双重螺旋",
+      "ar": "برزخ لاكور",
+      "es-419": "Limbo Llor"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n暗涙。崩れた螺旋は打ち捨てられ、\r\n希望を哀哭で染め続ける。",
+      "en": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+      "fr": "Des larmes envoûtantes en quête\r\nde potentiel, bien que tous\r\nles espoirs soient noyés\r\ndans une mer de chagrin.",
+      "it": "Inquietanti lacrime assetate di\r\npotenziale, anche quando ogni\r\naltra speranza annega in un\r\nmare di lamenti.",
+      "de": "Groteske Tränen, die nach\r\nPotenzial dürsten, selbst wenn\r\nalle Hoffnung in einem Meer\r\nder Wehklage versinkt.",
+      "es": "Lágrimas malditas que ansían\r\npotencial, aún con toda la\r\nesperanza hundida en un\r\nmar de lamentaciones.",
+      "ru": "Вместилище неотступных слёз\r\nтого, кто жаждет большего, даже\r\nутопив все надежды в море\r\nсожалений.",
+      "pl": "Nękające łzy łakną potencjału\r\nnawet wtedy, gdy cała nadzieja\r\nzatopiła się w morzu lamentu.",
+      "pt-BR": "Lágrimas assombradas sedentas\r\npor potencial, mesmo quando a\r\nesperança se afoga num mar de\r\nlamento.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n어두운 눈물. 무너진 나선은\r\n버려지고, 희망을 슬픔의\r\n통곡으로 물들인다.",
+      "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
+      "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
+      "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
     "game_id": 93,
     "kind": "insect-glaive",
     "sharpness": {
@@ -6939,5 +7149,41 @@
       "1444935552": 2
     },
     "series_id": 145862672
+  },
+  {
+    "game_id": 95,
+    "kind": "insect-glaive",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "kinsect_level": 1,
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

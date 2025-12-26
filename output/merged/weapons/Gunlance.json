@@ -6456,5 +6456,255 @@
       "30201": 1
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 84,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "前兆のプロフェネシス",
+      "en": "Auguring Omen",
+      "fr": "Présage clairvoyant",
+      "it": "Auspicio profetico",
+      "de": "Verheißendes Omen",
+      "es": "Augurio profético",
+      "ru": "Предзнаменование",
+      "pl": "Wróżący Omen",
+      "pt-BR": "Presságio Augural",
+      "ko": "전조의 프로페네시스",
+      "zh-Hant": "預兆先知創世紀",
+      "zh-Hans": "预兆先知创世纪",
+      "ar": "نذير المستقبل",
+      "es-419": "Augurio profético"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n苦悶。顕れた兆しが機構を震わせ、\r\n何時か訪れる破滅を待ち望む。",
+      "en": "Grotesque agony that thirsts\r\nfor potential, its sigils pulsing\r\nas they await the coming demise.",
+      "fr": "Agonie monstrueuse en quête\r\nde potentiel dont les symboles\r\nbrillent en attendant le trépas.",
+      "it": "Agonia cupa assetata di\r\npotenziale, il cui sigillo pulsa\r\nin attesa dell'imminente rovina.",
+      "de": "Eine groteske Pein, die nach\r\nPotenzial dürstet. Die Siegel\r\npulsieren im Angesicht des\r\nkommenden Untergangs.",
+      "es": "Una grotesca agonía que ansía\r\npotencial, sus símbolos laten\r\nmientras esperan la llegada de\r\nla muerte.",
+      "ru": "Жуткое воплощение агонии,\r\nжаждущее большего. Печати\r\nпульсируют в ожидании\r\nприближающейся погибели.",
+      "pl": "Łaknąca potencjału groteskowa\r\nagonia. Pieczęci pulsują w\r\noczekiwaniu na nadchodzącą \r\nzgubę.",
+      "pt-BR": "Agonia grotesca que anseia pelo\r\npotencial, seus selos pulsam\r\naguardando a vindoura ruína.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n고민. 드러난 징조가\r\n기구를 진동시키고\r\n곧 닥칠 파멸을 고대한다.",
+      "zh-Hant": "異形的苦悶吞噬潛藏性能。顯現\r\n的預兆震撼機關，靜候終將降臨\r\n的破滅。",
+      "zh-Hans": "吞噬隐藏性能的异形之苦闷。浮现\r\n的预兆令机关战栗，静候终焉降临\r\n之日。",
+      "ar": "عذاب أليم متعطّش لاكتشاف\r\nقدرته الكامنة، تتوهّج طلاسمه\r\nمترقبةً الفناء المحتوم.",
+      "es-419": "Grotesca agonía que ansía\r\nsu potencial, con insignias pulsantes\r\na la espera del colapso final."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 85,
+    "kind": "gunlance",
+    "shell": "long",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "前兆のプロフェネシス",
+      "en": "Auguring Omen",
+      "fr": "Présage clairvoyant",
+      "it": "Auspicio profetico",
+      "de": "Verheißendes Omen",
+      "es": "Augurio profético",
+      "ru": "Предзнаменование",
+      "pl": "Wróżący Omen",
+      "pt-BR": "Presságio Augural",
+      "ko": "전조의 프로페네시스",
+      "zh-Hant": "預兆先知創世紀",
+      "zh-Hans": "预兆先知创世纪",
+      "ar": "نذير المستقبل",
+      "es-419": "Augurio profético"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n苦悶。顕れた兆しが機構を震わせ、\r\n何時か訪れる破滅を待ち望む。",
+      "en": "Grotesque agony that thirsts\r\nfor potential, its sigils pulsing\r\nas they await the coming demise.",
+      "fr": "Agonie monstrueuse en quête\r\nde potentiel dont les symboles\r\nbrillent en attendant le trépas.",
+      "it": "Agonia cupa assetata di\r\npotenziale, il cui sigillo pulsa\r\nin attesa dell'imminente rovina.",
+      "de": "Eine groteske Pein, die nach\r\nPotenzial dürstet. Die Siegel\r\npulsieren im Angesicht des\r\nkommenden Untergangs.",
+      "es": "Una grotesca agonía que ansía\r\npotencial, sus símbolos laten\r\nmientras esperan la llegada de\r\nla muerte.",
+      "ru": "Жуткое воплощение агонии,\r\nжаждущее большего. Печати\r\nпульсируют в ожидании\r\nприближающейся погибели.",
+      "pl": "Łaknąca potencjału groteskowa\r\nagonia. Pieczęci pulsują w\r\noczekiwaniu na nadchodzącą\r\nzgubę.",
+      "pt-BR": "Agonia grotesca que anseia pelo\r\npotencial, seus selos pulsam\r\naguardando a vindoura ruína.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n고민. 드러난 징조가\r\n기구를 진동시키고\r\n곧 닥칠 파멸을 고대한다.",
+      "zh-Hant": "異形的苦悶吞噬潛藏性能。顯現\r\n的預兆震撼機關，靜候終將降臨\r\n的破滅。",
+      "zh-Hans": "吞噬隐藏性能的异形之苦闷。浮现\r\n的预兆令机关战栗，静候终焉降临\r\n之日。",
+      "ar": "عذاب أليم متعطّش لاكتشاف\r\nقدرته الكامنة، تتوهّج طلاسمه\r\nمترقبةً الفناء المحتوم.",
+      "es-419": "Grotesca agonía que ansía\r\nsu potencial, con insignias pulsantes\r\na la espera del colapso final."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 86,
+    "kind": "gunlance",
+    "shell": "wide",
+    "shell_level": 3,
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "前兆のプロフェネシス",
+      "en": "Auguring Omen",
+      "fr": "Présage clairvoyant",
+      "it": "Auspicio profetico",
+      "de": "Verheißendes Omen",
+      "es": "Augurio profético",
+      "ru": "Предзнаменование",
+      "pl": "Wróżący Omen",
+      "pt-BR": "Presságio Augural",
+      "ko": "전조의 프로페네시스",
+      "zh-Hant": "預兆先知創世紀",
+      "zh-Hans": "预兆先知创世纪",
+      "ar": "نذير المستقبل",
+      "es-419": "Augurio profético"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n苦悶。顕れた兆しが機構を震わせ、\r\n何時か訪れる破滅を待ち望む。",
+      "en": "Grotesque agony that thirsts\r\nfor potential, its sigils pulsing\r\nas they await the coming demise.",
+      "fr": "Agonie monstrueuse en quête\r\nde potentiel dont les symboles\r\nbrillent en attendant le trépas.",
+      "it": "Agonia cupa assetata di\r\npotenziale, il cui sigillo pulsa\r\nin attesa dell'imminente rovina.",
+      "de": "Eine groteske Pein, die nach\r\nPotenzial dürstet. Die Siegel\r\npulsieren im Angesicht des\r\nkommenden Untergangs.",
+      "es": "Una grotesca agonía que ansía\r\npotencial, sus símbolos laten\r\nmientras esperan la llegada de\r\nla muerte.",
+      "ru": "Жуткое воплощение агонии,\r\nжаждущее большего. Печати\r\nпульсируют в ожидании\r\nприближающейся погибели.",
+      "pl": "Łaknąca potencjału groteskowa\r\nagonia. Pieczęci pulsują w\r\noczekiwaniu na nadchodzącą\r\nzgubę.",
+      "pt-BR": "Agonia grotesca que anseia pelo\r\npotencial, seus selos pulsam\r\naguardando a vindoura ruína.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n고민. 드러난 징조가\r\n기구를 진동시키고\r\n곧 닥칠 파멸을 고대한다.",
+      "zh-Hant": "異形的苦悶吞噬潛藏性能。顯現\r\n的預兆震撼機關，靜候終將降臨\r\n的破滅。",
+      "zh-Hans": "吞噬隐藏性能的异形之苦闷。浮现\r\n的预兆令机关战栗，静候终焉降临\r\n之日。",
+      "ar": "عذاب أليم متعطّش لاكتشاف\r\nقدرته الكامنة، تتوهّج طلاسمه\r\nمترقبةً الفناء المحتوم.",
+      "es-419": "Grotesca agonía que ansía\r\nsu potencial, con insignias pulsantes\r\na la espera del colapso final."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 90,
+    "kind": "gunlance",
+    "shell": "normal",
+    "shell_level": 1,
+    "sharpness": {
+      "red": 30,
+      "orange": 50,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

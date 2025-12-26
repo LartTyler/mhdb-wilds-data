@@ -5874,5 +5874,209 @@
       "1613139840": 2
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 91,
+    "kind": "bow",
+    "coatings": [
+      "close-range"
+    ],
+    "names": {
+      "ja": "亡国のクピドバイン",
+      "en": "Calamitous Angel",
+      "fr": "Ange calamiteux",
+      "it": "Angelo funesto",
+      "de": "Elend-Engel",
+      "es": "Ángel calamitoso",
+      "ru": "Пагубный ангел",
+      "pl": "Anioł Zagłady",
+      "pt-BR": "Anjo Calamitoso",
+      "ko": "망국의 큐피도바인",
+      "zh-Hant": "亡國丘比特之足",
+      "zh-Hans": "亡国的丘比特之足",
+      "ar": "ملاك الكوارث",
+      "es-419": "Ángel calamitoso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n悲嘆。在りし日の懺悔が求めるは、\r\n宿願たる天罰の訪れ。",
+      "en": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+      "fr": "Alors que la tristesse\r\ns'empare de tout, une\r\nrepentance ancestrale\r\nexige un châtiment divin.",
+      "it": "Mentre il dolore divora tutto,\r\nun pentimento passato brama\r\nla punizione divina.",
+      "de": "Eine groteske Trauer, die nach\r\nPotenzial dürstet. Ihre einstige\r\nBuße sehnt sich seit Langem\r\nnach heiliger Vergeltung.",
+      "es": "La pena lo devora todo y\r\nlos pesares pasados ansían\r\nel castigo divino.",
+      "ru": "Пока властвует всепоглощающее\r\nгоре, былое покаяние требует\r\nбожественного возмездия.",
+      "pl": "Gdy smutek pochłania\r\nwszystko, dawna skrucha\r\npragnie kary boskiej.",
+      "pt-BR": "Enquanto a tristeza engole tudo,\r\num arrependimento passado\r\nanseia retribuição divina.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n통탄. 지난날의 회개는\r\n천벌이 찾아오길\r\n간절히 원하고 있다.",
+      "zh-Hant": "異形的悲嘆吞噬潛藏性能。昔日懺悔\r\n所求的是夙願所致的天罰降臨。",
+      "zh-Hans": "吞噬隐藏性能的异形之悲叹。往昔\r\n忏悔所渴求的乃是夙愿所致的天罚\r\n降临。",
+      "ar": "بينما يبتلع الحزن كلَّ شيء،\r\nتتوق توبة الماضي\r\nإلى عقاب إلهي.",
+      "es-419": "Mientras la pena todo devora,\r\nun arrepentimiento olvidado\r\nansía la represalia divina."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 92,
+    "kind": "bow",
+    "coatings": [
+      "power"
+    ],
+    "names": {
+      "ja": "亡国のクピドバイン",
+      "en": "Calamitous Angel",
+      "fr": "Ange calamiteux",
+      "it": "Angelo funesto",
+      "de": "Elend-Engel",
+      "es": "Ángel calamitoso",
+      "ru": "Пагубный ангел",
+      "pl": "Anioł Zagłady",
+      "pt-BR": "Anjo Calamitoso",
+      "ko": "망국의 큐피도바인",
+      "zh-Hant": "亡國丘比特之足",
+      "zh-Hans": "亡国的丘比特之足",
+      "ar": "ملاك الكوارث",
+      "es-419": "Ángel calamitoso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n悲嘆。在りし日の懺悔が求めるは、\r\n宿願たる天罰の訪れ。",
+      "en": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+      "fr": "Alors que la tristesse\r\ns'empare de tout, une\r\nrepentance ancestrale\r\nexige un châtiment divin.",
+      "it": "Mentre il dolore divora tutto,\r\nun pentimento passato brama\r\nla punizione divina.",
+      "de": "Eine groteske Trauer, die nach\r\nPotenzial dürstet. Ihre einstige\r\nBuße sehnt sich seit Langem\r\nnach heiliger Vergeltung.",
+      "es": "La pena lo devora todo y\r\nlos pesares pasados ansían\r\nel castigo divino.",
+      "ru": "Пока властвует всепоглощающее\r\nгоре, былое покаяние требует\r\nбожественного возмездия.",
+      "pl": "Gdy smutek pochłania\r\nwszystko, dawna skrucha\r\npragnie kary boskiej.",
+      "pt-BR": "Enquanto a tristeza engole tudo,\r\num arrependimento passado\r\nanseia retribuição divina.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n통탄. 지난날의 회개는\r\n천벌이 찾아오길\r\n간절히 원하고 있다.",
+      "zh-Hant": "異形的悲嘆吞噬潛藏性能。昔日懺悔\r\n所求的是夙願所致的天罰降臨。",
+      "zh-Hans": "吞噬隐藏性能的异形之悲叹。往昔\r\n忏悔所渴求的乃是夙愿所致的天罚\r\n降临。",
+      "ar": "بينما يبتلع الحزن كلَّ شيء،\r\nتتوق توبة الماضي\r\nإلى عقاب إلهي.",
+      "es-419": "Mientras la pena todo devora,\r\nun arrepentimiento olvidado\r\nansía la represalia divina."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 93,
+    "kind": "bow",
+    "coatings": [],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 99,
+    "kind": "bow",
+    "coatings": [
+      "pierce"
+    ],
+    "names": {
+      "ja": "亡国のクピドバイン",
+      "en": "Calamitous Angel",
+      "fr": "Ange calamiteux",
+      "it": "Angelo funesto",
+      "de": "Elend-Engel",
+      "es": "Ángel calamitoso",
+      "ru": "Пагубный ангел",
+      "pl": "Anioł Zagłady",
+      "pt-BR": "Anjo Calamitoso",
+      "ko": "망국의 큐피도바인",
+      "zh-Hant": "亡國丘比特之足",
+      "zh-Hans": "亡国的丘比特之足",
+      "ar": "ملاك الكوارث",
+      "es-419": "Ángel calamitoso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n悲嘆。在りし日の懺悔が求めるは、\r\n宿願たる天罰の訪れ。",
+      "en": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+      "fr": "Alors que la tristesse\r\ns'empare de tout, une\r\nrepentance ancestrale\r\nexige un châtiment divin.",
+      "it": "Mentre il dolore divora tutto,\r\nun pentimento passato brama\r\nla punizione divina.",
+      "de": "Eine groteske Trauer, die nach\r\nPotenzial dürstet. Ihre einstige\r\nBuße sehnt sich seit Langem\r\nnach heiliger Vergeltung.",
+      "es": "La pena lo devora todo y\r\nlos pesares pasados ansían\r\nel castigo divino.",
+      "ru": "Пока властвует всепоглощающее\r\nгоре, былое покаяние требует\r\nбожественного возмездия.",
+      "pl": "Gdy smutek pochłania\r\nwszystko, dawna skrucha\r\npragnie kary boskiej.",
+      "pt-BR": "Enquanto a tristeza engole tudo,\r\num arrependimento passado\r\nanseia retribuição divina.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n통탄. 지난날의 회개는\r\n천벌이 찾아오길\r\n간절히 원하고 있다.",
+      "zh-Hant": "異形的悲嘆吞噬潛藏性能。昔日懺悔\r\n所求的是夙願所致的天罰降臨。",
+      "zh-Hans": "吞噬隐藏性能的异形之悲叹。往昔\r\n忏悔所渴求的乃是夙愿所致的天罚\r\n降临。",
+      "ar": "بينما يبتلع الحزن كلَّ شيء،\r\nتتوق توبة الماضي\r\nإلى عقاب إلهي.",
+      "es-419": "Mientras la pena todo devora,\r\nun arrepentimiento olvidado\r\nansía la represalia divina."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

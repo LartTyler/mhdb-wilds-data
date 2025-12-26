@@ -3753,7 +3753,7 @@
           "ko": "네르스큐라 클론",
           "zh-Hant": "影蜘蛛複製體",
           "zh-Hans": "影蜘蛛克隆体",
-          "ar": "استنساخ نيرسكيلا",
+          "ar": "نسخة نيرسكيلا",
           "es-419": "Clon de Nerscylla"
         }
       },
@@ -10837,6 +10837,762 @@
           "thunder": 0.15,
           "ice": 0.1,
           "dragon": 0.0,
+          "stun": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "game_id": 13052,
+    "species": "elder-dragon",
+    "names": {
+      "ja": "ゴグマジオス",
+      "en": "Gogmazios",
+      "fr": "Gogmazios",
+      "it": "Gogmazios",
+      "de": "Gogmazios",
+      "es": "Gogmazios",
+      "ru": "Гогмазиос",
+      "pl": "Gogmazios",
+      "pt-BR": "Gogmazios",
+      "ko": "고그마지오스",
+      "zh-Hant": "巨戟龍",
+      "zh-Hans": "巨戟龙",
+      "ar": "غوغمازيوس",
+      "es-419": "Gogmazios"
+    },
+    "descriptions": {
+      "ja": "全身を黒く粘性の高い液体が覆う、謎多き古龍。\r\n火窯の里アズズで発見された地下空間\r\nにて休眠している所を観測された。",
+      "en": "A mysterious elder dragon covered head to\r\ntail in a viscous black liquid that was found\r\nhibernating in an expanse beneath Azuz.",
+      "fr": "Un mystérieux dragon ancien entièrement\r\nrecouvert d'un liquide visqueux noir qui\r\nhibernait dans une étendue située sous Azuz.",
+      "it": "Un misterioso drago anziano, ricoperto da capo a\r\ncoda di un liquido nero e vischioso, scoperto in\r\nletargo in una distesa ai piedi di Azuz.",
+      "de": "Ein geheimnisvoller, mit zäher schwarzer\r\nFlüssigkeit bedeckter Drachenältester, der in\r\neinem Hohlraum unter Azuz schlummerte.",
+      "es": "Un misterioso dragón anciano cubierto de la cabeza\r\na la cola por un líquido negro y viscoso que estaba\r\nhibernando en el territorio bajo Azuz.",
+      "ru": "В подземелье под Азузом спит таинственный\r\nдревний дракон, всё тело которого покрыто\r\nвязкой чёрной жидкостью.",
+      "pl": "Tajemniczy Starszy Smok pokryty od góry\r\ndo dołu lepkim czarnym płynem. Znaleziono\r\ngo śpiącego w przestrzeni pod Azuz.",
+      "pt-BR": "Um misterioso dragão ancião, coberto da\r\ncabeça à cauda por um líquido viscoso preto,\r\nencontrado hibernando sob Azuz.",
+      "ko": "검고 끈적한 액체를 몸에 두른 미스터리한\r\n고룡. 불가마 마을 아즈즈에서 발견된\r\n지하 공간에서 휴면 중인 모습이 관측됐다.",
+      "zh-Hant": "全身滿佈黑色黏液的神秘古龍。被觀測到\r\n在火窯之村阿茲茲發現的地下空洞中休眠。",
+      "zh-Hans": "全身覆盖着黑色高粘性液体的神秘古龙。在火窑\r\n村阿孜兹发现的地下空间中，被观测到处于休眠\r\n状态。",
+      "ar": "تنينٌ قديم غامض مغطّى من الرأس\r\nحتى الذيل بسائلٍ أسود لزج،\r\nعُثِر عليه في سباتٍ عميق تحت أراضي (آزوز).",
+      "es-419": "Un misterioso dragón anciano cubierto de la cabeza\r\na la cola por un líquido negro viscoso que estaba\r\nhibernando en una extensión debajo de Azuz."
+    },
+    "features": {
+      "ja": "全身を黒く粘性の高い液体が覆う、謎多き古龍。\r\n火窯の里アズズで発見された地下空間\r\nに休眠している所を観測された。\r\n火薬を求める習性から各地の武器庫を襲撃\r\nしたと報告されており、その際の戦いによって\r\n身体中に、様々な物が付着している。\r\nかつて存在した古代兵器すら備えた\r\nその異様な風体は≪巨戟龍≫とも呼ばれる\r\n別名をより際立たせている。",
+      "en": "A mysterious elder dragon covered head\r\nto tail in a viscous black liquid that was\r\nfound hibernating in an underground expanse\r\nbeneath Azuz. It has reportedly been raiding\r\nweapon stockpiles across the land to slake\r\nits need for gunpowder, and during these\r\nconfrontations various items have adhered\r\nto its body. Among these, most remarkably,\r\nis a formidable ancient weapon the likes of\r\nwhich has not been seen in ages.",
+      "fr": "Ce mystérieux dragon ancien entièrement\r\nrecouvert d'un liquide visqueux noir\r\nhibernait dans une étendue située sous Azuz.\r\nApparemment, il pillait les réserves d'armes\r\nde la contrée pour assouvir sa soif de\r\npoudre à canon. Lors de ces affrontements,\r\ndivers objets se sont retrouvés collés à\r\nson corps. Parmi eux, le plus remarquable\r\nest une redoutable arme antique telle qu'on\r\nn'en voit plus.",
+      "it": "Un misterioso drago anziano ricoperto da\r\ncapo a coda di un liquido nero e vischioso,\r\nscoperto in ibernazione in una distesa ai\r\npiedi di Azuz. Secondo quanto riferito, ha\r\nsaccheggiato depositi di armi in tutta\r\nl'area per placare il suo bisogno di polvere\r\nda sparo e, durante queste incursioni, vari\r\noggetti si sono saldati al suo corpo. Tra\r\nquesti, la cosa più sorprendente è un'antica\r\ne temibile arma scomparsa da secoli.",
+      "de": "Ein geheimnisvoller, mit zäher schwarzer\r\nFlüssigkeit bedeckter Drachenältester, der in\r\neinem Hohlraum unter Azuz schlummerte.\r\nBerichten zufolge plündert er allerorten das\r\nSchießpulver aus Waffendepots. Während\r\ndieser Überfälle sind nach und nach diverse\r\nObjekte an seinem Körper haften geblieben,\r\ndarunter auch eine furchteinflößende und\r\nseit Ewigkeiten verschollene uralte Waffe.",
+      "es": "Un misterioso dragón anciano cubierto de\r\nla cabeza a la cola por un líquido negro y\r\nviscoso que estaba hibernando en el territorio\r\nbajo Azuz. Según se informa, ha estado\r\nsaqueando arsenales de armas por todo el\r\nterritorio para saciar su hambre de pólvora,\r\ny durante estos enfrentamientos se le han ido\r\nadhiriendo al cuerpo una variedad de objetos.\r\nEntre ellos, destaca un arma antigua de lo más\r\nformidable que llevaba siglos sin ser vista.",
+      "ru": "Таинственный древний дракон, спящий\r\nпод Азузом. Всё его тело покрыто вязкой\r\nчёрной жидкостью. Вероятно, именно\r\nон разорял близлежащие склады оружия,\r\nчтобы удовлетворить свою потребность\r\nв порохе. Из-за этого к его телу прилипли\r\nразличные предметы, в том числе — мощное\r\nдревнее оружие, подобного которому никто\r\nне видел уже много веков.",
+      "pl": "Tajemniczy Starszy Smok pokryty od góry\r\ndo dołu lepkim czarnym płynem. Znaleziono\r\ngo śpiącego w podziemnej przestrzeni\r\npod Azuz. Według raportów napadał na\r\nskłady z bronią w całej krainie, by zaspokoić\r\nzapotrzebowanie na proch. Podczas tych\r\nstarć różne przedmioty przyczepiały się\r\ndo jego ciała. Wśród nich znajduje się\r\npotężna starożytna broń, jakiej nie\r\nwidziano od wieków.",
+      "pt-BR": "Um dragão ancião misterioso, coberto\r\nda cabeça à cauda por um líquido viscoso\r\npreto, encontrado hibernando em uma área\r\nsubterrânea sob Azuz. Relatos apontam que ele\r\ntem atacado armazéns de armas por todo\r\nterritório em busca de pólvora e, durante\r\nesses confrontos, vários itens se grudaram\r\nao seu corpo. Entre eles, o mais notável\r\né uma formidável arma ancestral\r\nque não se via igual há eras.",
+      "ko": "검고 끈적한 액체를 몸에 두른 미스터리한\r\n고룡. 불가마 마을 아즈즈에서 발견된\r\n지하 공간에서 휴면 중인 모습이\r\n관측됐다. 화약을 원하는 습성 때문에\r\n각지의 무기고를 습격했다는 보고가 있으며\r\n그때 전투로 인해 온몸에 다양한 물체가\r\n붙어 있다. 과거에 존재한 고대 병기까지\r\n갖춘 독특한 모습은 ≪거극룡≫이라고\r\n불리는 이명으로 한층 돋보인다.",
+      "zh-Hant": "全身滿佈黑色黏液的神秘古龍。被觀測到在火窯\r\n之村阿茲茲發現的地下空洞中休眠。報告中提到\r\n牠有追尋火藥的習性，並襲擊了各地的武器庫，\r\n在過程中有各式各樣的東西附著在身體上。連自\r\n古存在的古代武器都黏著在牠的身上，怪異的外\r\n型令「巨戟龍」更加名副其實。",
+      "zh-Hans": "全身覆盖着黑色高粘性液体的神秘古龙。在火窑\r\n村阿孜兹发现的地下空间中，被观测到处于休眠\r\n状态。报告显示，该古龙具有寻找火药的习性，\r\n会在各地袭击武器库。它在战斗过程中全身附着\r\n了各种各样的东西，连自古存在的古代兵器都附\r\n着在它的身上，怪异的外型令“巨戟龙”之名更\r\n加名副其实。",
+      "ar": "تنينٌ قديم غامض مغطّى من الرأس حتى الذيل\r\nبسائلٍ أسود لزج، عُثِر عليه وهو في سباتٍ تحت\r\nأرضٍ واسعة تحت (آزوز).\r\nيُقال إنه يهاجم مخازن الأسلحة في أنحاء البلاد\r\nلإشباع حاجته من البارود، وخلال هذه المواجهات\r\nتلاصقت بأجسامه عدة أشياء. ومن بين هذه الأشياء،\r\nوالأكثر لفتًا للنظر، سلاحٌ قديم هائل لم يُرَ مثله\r\nمنذ زمن بعيد.",
+      "es-419": "Un misterioso dragón anciano cubierto de la cabeza\r\na la cola por un líquido negro viscoso que estaba\r\nhibernando en una extensión debajo de Azuz.\r\nSegún se informa, estuvo saqueando arsenales\r\nde armas por todo el territorio para saciar su sed\r\nde pólvora y, durante estos enfrentamientos,\r\nse le fueron adhiriendo al cuerpo una variedad\r\nde objetos. Entre ellos, se destaca una formidable\r\narma antigua que llevaba siglos sin ser vista."
+    },
+    "tips": {
+      "ja": "全身を覆う黒い液体は、硬く固まっているが、\r\n火属性攻撃を受ける事で徐々に軟化し、\r\n攻撃が通りやすく龍属性攻撃が弱点となる為、\r\n状況に応じた切り替えが有効だ。\r\n軟化した場所からは、古代の武器片が露出する\r\n事があり、破壊する事で入手できる。\r\nまた飛翔中は、積極的に翼を攻撃する事で\r\n姿勢を崩して大きくチャンスを広げる事ができる。\r\nただし、気体状態中のブレスで起こす超爆発は、\r\n絶大な威力を誇るので注意が必要だ。",
+      "en": "The oil covering Gogmazios's body can be\r\nsoftened with fire attacks, making it easier\r\nto land hits and exposing its weakness to\r\nthe dragon element. Knowing what element\r\nto use when is key. Weapon fragments may\r\nbe visible on some of its body parts—break\r\nthem to obtain materials. Attacking Gogmazios\r\nwhile it is in flight will break its posture and\r\ncreate openings. Beware the super explosion\r\ntriggered by its gaseous state fire breath.",
+      "fr": "L'huile qui recouvre le Gogmazios peut être\r\nliquéfiée par les attaques de feu pour le\r\nfrapper et exposer ses points faibles à\r\nl'élément dragon. Le secret est d'utiliser\r\nle bon élément au bon moment. Les\r\nfragments d'armes peuvent être visibles\r\nsur certaines parties du corps : brisez-les\r\npour obtenir leurs matériaux. Attaquer le\r\nmonstre en vol le déstabilisera et créera\r\ndes ouvertures. Attention à l'explosion de\r\nson souffle enflammé gazeux.",
+      "it": "Puoi ammorbidire il petrolio che ricopre il\r\ncorpo del Gogmazios con attacchi di fuoco, il\r\nche rende più facile gli attacchi e lo\r\nespone all'elemento drago. Conoscere gli\r\nelementi è fondamentale. Frammenti di armi \r\nsono visibili su alcune parti del corpo: rompile\r\nper ottenere materiali. Attaccare il Gogmazios\r\nmentre è in volo potrebbe farlo cadere e creare\r\ndelle aperture. Attenzione all'esplosione\r\nscatenata dal suo alito di fuoco gassoso.",
+      "de": "Das Öl am Körper des Gogmazios kann mit Feuer\r\nweich gemacht werden, um Treffer zu erleichtern\r\nund Drachenelement-Schwachpunkte zu finden.\r\nDas richtige Element zur richtigen Zeit ist der\r\nSchlüssel zum Sieg. An manchen seiner Körper-\r\nteile haften Waffenfragmente – brich die Teile,\r\num Materialien zu erhalten. Angriffe auf den\r\nfliegenden Gogmazios lassen ihn seine Deckung\r\nverlieren. Der Superexplosion aus seinem\r\nFeueratem im gasförmigen Zustand sollte\r\nunbedingt ausgewichen werden.",
+      "es": "El óleo que cubre a un Gogmazios se reblandece\r\ncon ataques de fuego, lo que facilita tus\r\nataques y le hace débil al elemento draco.\r\nEs esencial saber qué elemento usar en cada\r\nmomento. Puede que veas fragmentos de armas\r\nen algunas de sus partes: rómpelas para obtener\r\nmateriales. Atacar a un Gogmazios mientras está\r\nen vuelo lo sacará de su postura y lo dejará\r\nvulnerable. Cuidado con la superexplosión de\r\nsu aliento de fuego en estado gaseoso.",
+      "ru": "Если растопить огненными атаками масло,\r\nпокрывающее тело гогмазиоса, монстр станет\r\nуязвим к стихии дракона. Важно применять\r\nподходящую стихию в нужный момент. Если\r\nна части тела видны фрагменты оружия, эту\r\nчасть можно сломать и получить материалы.\r\nАтаки по монстру в полёте выбьют его из\r\nравновесия и создадут условия для атаки.\r\nБерегитесь огненного дыхания монстра: оно\r\nможет спровоцировать сверхмощный взрыв.",
+      "pl": "Olej pokrywający ciało Gogmaziosa można\r\nzmiękczyć atakami ogniem, co ułatwi\r\nzadawanie ciosów i odsłoni jego słabość\r\nna żywioł smoka. Na niektórych częściach\r\njego ciała mogą być widoczne fragmenty\r\nbroni – zniszcz je, by zdobyć materiały.\r\nKiedy Gogmazios lata, atakowanie złamie\r\njego postawę i odsłoni jego słabe punkty.\r\nUważaj na potężną eksplozję przy ognistym\r\noddechu, podczas jego stanu gazowego.",
+      "pt-BR": "O óleo que recobre o corpo de Gogmazios\r\npode ser amolecido com ataques de fogo,\r\nfacilitando acertá-lo e expondo a fraqueza\r\nao elemento dragão. Saber quando usar\r\ncada elemento é crucial. Fragmentos de\r\narmas são visíveis em partes do seu corpo.\r\nQuebre-as para obter materiais. Atacá-lo\r\nenquanto voa quebrará a postura dele.\r\nCuidado com a explosão acionada pelo\r\nsopro de fogo dele no estado gasoso.",
+      "ko": "온몸의 검은 액체는 굳어 있지만,\r\n불속성 공격에 부드러워져\r\n공격이 잘 통한다. 용속성 공격이\r\n약점으로, 상황에 맞춰 공격을 전환하자.\r\n부드러워진 곳에 고대의 무기 조각이\r\n노출되며, 파괴하면 입수할 수 있다.\r\n하늘을 날 때 날개를 집중 공격하면\r\n자세를 무너뜨려 기회를 잡을 수 있다.\r\n기체 상태 중 브레스로 인한 초폭발은\r\n아주 큰 위력을 발휘하니 주의해야 한다.",
+      "zh-Hant": "覆蓋全身的黑色液體已經凝固硬化，但受到火屬性\r\n攻擊就會逐漸軟化，使攻擊容易奏效。此時弱點會\r\n變成龍屬性攻擊，因此要根據情況切換武器。有時\r\n會從軟化的地方露出古代武器碎片，破壞那些部位\r\n就可取得。此外，在牠飛行時積極攻擊翅膀，就能\r\n讓牠失去平衡，帶來絕佳的攻擊機會。不過，牠在\r\n氣體狀態下施放的吐息攻擊會引發極強的爆炸，需\r\n要小心。",
+      "zh-Hans": "覆盖全身的黑色液体凝固后非常坚硬，但受到火\r\n属性攻击后会逐渐软化，使攻击变得更容易奏效，\r\n且弱点会转变为龙属性，因此要根据战况切换属\r\n性攻击。软化部位有时会露出古代武器碎片，可\r\n通过破坏该处来获取。当其飞起时，积极攻击其\r\n翅膀可破坏平衡制造攻击机会。不过其气体状态\r\n的吐息会引发超爆炸，具有极大的威力，需特别\r\n注意。",
+      "ar": "يمكن تليين الزيت الذي يغطي جسم (غوغمازيوس)\r\nباستخدام هجمات النار، ما يسهل\r\nتوجيه الضربات ويكشف نقطة ضعفه\r\nأمام عنصر التنين. إن معرفة العنصر\r\nالمناسب لكل مرحلة أمر أساسي. قد تظهر شظايا\r\nأسلحة على بعض أجزاء جسده — حطّمها للحصول\r\nعلى المواد. مهاجمة (غوغمازيوس)\r\nأثناء الطيران تُفقده توازنه وتخلق فرصًا للهجوم.\r\nاحذر من الانفجار الهائل الذي يطلقه\r\nعندما ينفث نارًا في طوره الغازي.",
+      "es-419": "El óleo que cubre el cuerpo del Gogmazios se\r\npuede ablandar con ataques de fuego, lo que\r\nfacilita los golpes y deja expuesta su debilidad\r\nal elemento draco. Es clave saber qué elemento\r\nusar en cada momento. Pueden aparecer fragmentos\r\nde armas en partes de su cuerpo, rómpelas para\r\nobtener materiales. Atacar al Gogmazios en el\r\naire lo sacará de su pose y lo dejará vulnerable.\r\nTen cuidado con la superexplosión provocada por\r\nsu aliento de fuego en estado gaseoso."
+    },
+    "variants": [
+      {
+        "kind": "tempered",
+        "names": {
+          "ja": "ゴグマジオス（歴戦の個体）",
+          "en": "Tempered Gogmazios",
+          "fr": "Gogmazios alpha",
+          "it": "Gogmazios temprato",
+          "de": "Gehärteter Gogmazios",
+          "es": "Gogmazios curtido",
+          "ru": "Закалённый гогмазиос",
+          "pl": "Zahartowany Gogmazios",
+          "pt-BR": "Gogmazios Aguerrido",
+          "ko": "고그마지오스(역전의 개체)",
+          "zh-Hant": "巨戟龍（歷戰個體）",
+          "zh-Hans": "巨戟龙（历战个体）",
+          "ar": "غوغمازيوس غاضب",
+          "es-419": "Gogmazios curtido"
+        }
+      }
+    ],
+    "size": {
+      "base": 4861.25,
+      "mini": 4375.125,
+      "mini_multiplier": 0.9,
+      "silver": 5590.4375,
+      "silver_multiplier": 1.15,
+      "gold": 5979.3374,
+      "gold_multiplier": 1.23
+    },
+    "base_health": 10000,
+    "locations": [
+      -1251081216
+    ],
+    "weaknesses": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "status",
+        "status": "paralysis"
+      },
+      {
+        "kind": "status",
+        "status": "poison"
+      },
+      {
+        "kind": "status",
+        "status": "sleep"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
+    "rewards": [
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 702,
+        "amount": 1,
+        "chance": 85
+      },
+      {
+        "rank": "high",
+        "kind": "tempered-wound-destroyed",
+        "item_id": 703,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 747,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 748,
+        "amount": 1,
+        "chance": 23
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 748,
+        "amount": 1,
+        "chance": 24
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 748,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 748,
+        "amount": 1,
+        "chance": 50
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 748,
+        "amount": 1,
+        "chance": 60
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 749,
+        "amount": 1,
+        "chance": 10
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 749,
+        "amount": 1,
+        "chance": 12
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "head",
+        "item_id": 749,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 750,
+        "amount": 1,
+        "chance": 6
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 750,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "chest",
+        "item_id": 750,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "back",
+        "item_id": 750,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 751,
+        "amount": 1,
+        "chance": 6
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 751,
+        "amount": 1,
+        "chance": 8
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "left-wing-legs",
+        "item_id": 751,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "right-wing-legs",
+        "item_id": 751,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 752,
+        "amount": 1,
+        "chance": 21
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 752,
+        "amount": 1,
+        "chance": 21
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 752,
+        "amount": 1,
+        "chance": 35
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 752,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 753,
+        "amount": 1,
+        "chance": 10
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 753,
+        "amount": 1,
+        "chance": 10
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten-severed",
+        "item_id": 753,
+        "amount": 1,
+        "chance": 40
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 753,
+        "amount": 1,
+        "chance": 98
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 754,
+        "amount": 1,
+        "chance": 1
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 754,
+        "amount": 1,
+        "chance": 2
+      },
+      {
+        "rank": "high",
+        "kind": "carve-severed",
+        "item_id": 754,
+        "amount": 1,
+        "chance": 2
+      },
+      {
+        "rank": "high",
+        "kind": "carve",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "carve-rotten",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "target-reward",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 15
+      },
+      {
+        "rank": "high",
+        "kind": "wound-destroyed",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 20
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "back",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "tail-tip",
+        "item_id": 755,
+        "amount": 1,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-part",
+        "part": "hide",
+        "item_id": 756,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "rank": "high",
+        "kind": "broken-fragment",
+        "item_id": 756,
+        "amount": 2,
+        "chance": 100
+      }
+    ],
+    "parts": [
+      {
+        "part": "chest",
+        "base_health": null,
+        "kinsect_essence": "green",
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.05,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-wing-legs",
+        "base_health": 1250,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.4,
+          "pierce": 0.32,
+          "fire": 0.15,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-front-leg",
+        "base_health": null,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.0,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "head",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.4,
+          "pierce": 0.32,
+          "fire": 0.15,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 1.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "hide",
+        "base_health": 150,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.65,
+          "blunt": 0.65,
+          "pierce": 0.5,
+          "fire": 0.2,
+          "water": 0.0,
+          "thunder": 0.05,
+          "ice": 0.0,
+          "dragon": 0.55,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "back",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.38,
+          "blunt": 0.38,
+          "pierce": 0.3,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "left-hind-leg",
+        "base_health": null,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.0,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-hind-leg",
+        "base_health": null,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.0,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-wing-legs",
+        "base_health": 1250,
+        "kinsect_essence": "red",
+        "multipliers": {
+          "slash": 0.4,
+          "blunt": 0.4,
+          "pierce": 0.32,
+          "fire": 0.15,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "stomach",
+        "base_health": null,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.0,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "tail-tip",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.05,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "right-front-leg",
+        "base_health": null,
+        "kinsect_essence": "white",
+        "multipliers": {
+          "slash": 0.2,
+          "blunt": 0.2,
+          "pierce": 0.05,
+          "fire": 0.0,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.0,
+          "stun": 0.0
+        }
+      },
+      {
+        "part": "tail",
+        "base_health": null,
+        "kinsect_essence": "orange",
+        "multipliers": {
+          "slash": 0.25,
+          "blunt": 0.25,
+          "pierce": 0.05,
+          "fire": 0.1,
+          "water": 0.0,
+          "thunder": 0.0,
+          "ice": 0.0,
+          "dragon": 0.05,
           "stun": 0.0
         }
       }

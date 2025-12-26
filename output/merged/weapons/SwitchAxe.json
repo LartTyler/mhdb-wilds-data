@@ -5279,7 +5279,7 @@
     ],
     "phial": {
       "kind": "dragon",
-      "raw": 12
+      "raw": 26
     },
     "names": {
       "ja": "アーティアゼーガⅠ",
@@ -5352,7 +5352,7 @@
     ],
     "phial": {
       "kind": "dragon",
-      "raw": 12
+      "raw": 26
     },
     "names": {
       "ja": "アーティアゼーガⅡ",
@@ -5425,7 +5425,7 @@
     ],
     "phial": {
       "kind": "dragon",
-      "raw": 22
+      "raw": 26
     },
     "names": {
       "ja": "アルトエレガン",
@@ -6246,5 +6246,259 @@
       "691199232": 2
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 80,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {
+      "ja": "邪執のコンキエレガン",
+      "en": "Wicked Regnum",
+      "fr": "Règne malfaisant",
+      "it": "Empio dominio",
+      "de": "Ruchloses Regnum",
+      "es": "Regnum malvado",
+      "ru": "Греховный монарх",
+      "pl": "Nikczemny Szach",
+      "pt-BR": "Regnum Profano",
+      "ko": "사집의 콘키엘레강",
+      "zh-Hant": "邪念征服鋸刀",
+      "zh-Hans": "邪念征服锯刃",
+      "ar": "سيادة الشر",
+      "es-419": "Regnum perverso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n寵辱。苛む苦痛はやがて目醒め、\r\n天地を永劫に喰らう歪みとなる。",
+      "en": "Grotesque shame that thirsts\r\nfor potential, its buried pain now\r\npoised to devour heaven and earth.",
+      "fr": "Une honte monstrueuse en quête\r\nde potentiel dont le chagrin enfoui\r\nmenace de dévorer ciel et terre.",
+      "it": "Vergogna grottesca assetata di\r\npotenziale, il cui dolore sepolto è\r\npronto a divorare cielo e terra.",
+      "de": "Eine groteske Schmach, die nach\r\nPotenzial dürstet. Ihr unterdrück-\r\nter Schmerz ist bereit, Himmel\r\nund Erde zu verschlingen.",
+      "es": "Vergüenza grotesca que ansía\r\npotencial, su dolor enterrado\r\nestá listo para devorar el cielo\r\ny la tierra.",
+      "ru": "Жуткое воплощение стыда,\r\nжаждущее большего. Сокрытая\r\nв нём боль может поглотить\r\nнебо и землю.",
+      "pl": "Łaknący potencjału groteskowy\r\nwstyd, jego pogrzebany ból jest\r\ngotów pożreć niebo i ziemię.",
+      "pt-BR": "Vergonha grotesca sedenta por\r\npotencial. Sua dor enterrada\r\nagora desperta para devorar\r\no céu e a terra.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n총애와 모욕. 괴로운 고통은\r\n눈을 뜨고, 천지를 영구히\r\n삼키는 왜곡으로 변한다.",
+      "zh-Hant": "異形的寵辱吞噬潛藏性能。苛虐的\r\n苦痛終將甦醒，化作吞噬天地的永\r\n恆歪曲。",
+      "zh-Hans": "吞噬隐藏性能的异形之宠辱。苛虐\r\n的苦痛终将觉醒，化为永远吞噬天\r\n地的畸变。",
+      "ar": "خزي رهيب متعطّش لاكتشاف\r\nقدرته الكامنة، وألمه المكبوت جاهز\r\nالآن لابتلاع السماوات والأرض.",
+      "es-419": "Vergüenza grotesca que ansía\r\nel potencial, su dolor sepultado ahora\r\ndispuesto a devorar cielo y tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 81,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "邪執のコンキエレガン",
+      "en": "Wicked Regnum",
+      "fr": "Règne malfaisant",
+      "it": "Empio dominio",
+      "de": "Ruchloses Regnum",
+      "es": "Regnum malvado",
+      "ru": "Греховный монарх",
+      "pl": "Nikczemny Szach",
+      "pt-BR": "Regnum Profano",
+      "ko": "사집의 콘키엘레강",
+      "zh-Hant": "邪念征服鋸刀",
+      "zh-Hans": "邪念征服锯刃",
+      "ar": "سيادة الشر",
+      "es-419": "Regnum perverso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n寵辱。苛む苦痛はやがて目醒め、\r\n天地を永劫に喰らう歪みとなる。",
+      "en": "Grotesque shame that thirsts\r\nfor potential, its buried pain now\r\npoised to devour heaven and earth.",
+      "fr": "Une honte monstrueuse en quête\r\nde potentiel dont le chagrin enfoui\r\nmenace de dévorer ciel et terre.",
+      "it": "Vergogna grottesca assetata di\r\npotenziale, il cui dolore sepolto è\r\npronto a divorare cielo e terra.",
+      "de": "Eine groteske Schmach, die nach\r\nPotenzial dürstet. Ihr unterdrück-\r\nter Schmerz ist bereit, Himmel\r\nund Erde zu verschlingen.",
+      "es": "Vergüenza grotesca que ansía\r\npotencial, su dolor enterrado\r\nestá listo para devorar el cielo\r\ny la tierra.",
+      "ru": "Жуткое воплощение стыда,\r\nжаждущее большего. Сокрытая\r\nв нём боль может поглотить\r\nнебо и землю.",
+      "pl": "Łaknący potencjału groteskowy\r\nwstyd, jego pogrzebany ból jest\r\ngotów pożreć niebo i ziemię.",
+      "pt-BR": "Vergonha grotesca sedenta por\r\npotencial. Sua dor enterrada\r\nagora desperta para devorar\r\no céu e a terra.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n총애와 모욕. 괴로운 고통은\r\n눈을 뜨고, 천지를 영구히\r\n삼키는 왜곡으로 변한다.",
+      "zh-Hant": "異形的寵辱吞噬潛藏性能。苛虐的\r\n苦痛終將甦醒，化作吞噬天地的永\r\n恆歪曲。",
+      "zh-Hans": "吞噬隐藏性能的异形之宠辱。苛虐\r\n的苦痛终将觉醒，化为永远吞噬天\r\n地的畸变。",
+      "ar": "خزي رهيب متعطّش لاكتشاف\r\nقدرته الكامنة، وألمه المكبوت جاهز\r\nالآن لابتلاع السماوات والأرض.",
+      "es-419": "Vergüenza grotesca que ansía\r\nel potencial, su dolor sepultado ahora\r\ndispuesto a devorar cielo y tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 82,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "element"
+    },
+    "names": {
+      "ja": "邪執のコンキエレガン",
+      "en": "Wicked Regnum",
+      "fr": "Règne malfaisant",
+      "it": "Empio dominio",
+      "de": "Ruchloses Regnum",
+      "es": "Regnum malvado",
+      "ru": "Греховный монарх",
+      "pl": "Nikczemny Szach",
+      "pt-BR": "Regnum Profano",
+      "ko": "사집의 콘키엘레강",
+      "zh-Hant": "邪念征服鋸刀",
+      "zh-Hans": "邪念征服锯刃",
+      "ar": "سيادة الشر",
+      "es-419": "Regnum perverso"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n寵辱。苛む苦痛はやがて目醒め、\r\n天地を永劫に喰らう歪みとなる。",
+      "en": "Grotesque shame that thirsts\r\nfor potential, its buried pain now\r\npoised to devour heaven and earth.",
+      "fr": "Une honte monstrueuse en quête\r\nde potentiel dont le chagrin enfoui\r\nmenace de dévorer ciel et terre.",
+      "it": "Vergogna grottesca assetata di\r\npotenziale, il cui dolore sepolto è\r\npronto a divorare cielo e terra.",
+      "de": "Eine groteske Schmach, die nach\r\nPotenzial dürstet. Ihr unterdrück-\r\nter Schmerz ist bereit, Himmel\r\nund Erde zu verschlingen.",
+      "es": "Vergüenza grotesca que ansía\r\npotencial, su dolor enterrado\r\nestá listo para devorar el cielo\r\ny la tierra.",
+      "ru": "Жуткое воплощение стыда,\r\nжаждущее большего. Сокрытая\r\nв нём боль может поглотить\r\nнебо и землю.",
+      "pl": "Łaknący potencjału groteskowy\r\nwstyd, jego pogrzebany ból jest\r\ngotów pożreć niebo i ziemię.",
+      "pt-BR": "Vergonha grotesca sedenta por\r\npotencial. Sua dor enterrada\r\nagora desperta para devorar\r\no céu e a terra.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n총애와 모욕. 괴로운 고통은\r\n눈을 뜨고, 천지를 영구히\r\n삼키는 왜곡으로 변한다.",
+      "zh-Hant": "異形的寵辱吞噬潛藏性能。苛虐的\r\n苦痛終將甦醒，化作吞噬天地的永\r\n恆歪曲。",
+      "zh-Hans": "吞噬隐藏性能的异形之宠辱。苛虐\r\n的苦痛终将觉醒，化为永远吞噬天\r\n地的畸变。",
+      "ar": "خزي رهيب متعطّش لاكتشاف\r\nقدرته الكامنة، وألمه المكبوت جاهز\r\nالآن لابتلاع السماوات والأرض.",
+      "es-419": "Vergüenza grotesca que ansía\r\nel potencial, su dolor sepultado ahora\r\ndispuesto a devorar cielo y tierra."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 86,
+    "kind": "switch-axe",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "phial": {
+      "kind": "power"
+    },
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

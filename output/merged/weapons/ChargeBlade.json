@@ -6524,5 +6524,251 @@
       "30201": 1
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 85,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "代償のネイディ・ギア",
+      "en": "Promised Abyss",
+      "fr": "Abysse promise",
+      "it": "Abisso promesso",
+      "de": "Gelobter Abgrund",
+      "es": "Abismo prometido",
+      "ru": "Обещанная бездна",
+      "pl": "Obiecana Otchłań",
+      "pt-BR": "Abismo Prometido",
+      "ko": "대상의 네이디 기어",
+      "zh-Hant": "代價深淵齒輪",
+      "zh-Hans": "代价的深渊齿轮",
+      "ar": "الهاوية الموعودة",
+      "es-419": "Abismo prometido"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n微睡み。禁忌の棺は焦がれている。\r\n裏切りによる開錠の瞬間を。",
+      "en": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+      "fr": "Cette arme monstrueuse\r\nen quête de potentiel\r\nouvre son cercueil impie\r\naprès un crime impuni.",
+      "it": "Un'arma grottesca assetata di\r\npotenziale, la cui bara proibita\r\nè scoperchiata da un peccato\r\nimpunito.",
+      "de": "Ein grotesker Traum, der nach\r\nPotenzial dürstet. Der verbotene\r\nSarg lechzt nach ungestraften\r\nSünden, die ihn entriegeln.",
+      "es": "Un arma grotesca que ansía\r\nun mayor potencial. Su ataúd\r\nprohibido ha sido abierto por\r\nun pecado sin castigo.",
+      "ru": "Жуткое оружие, чья жажда чего-то\r\nбольшего дремлет в забытьи. Гроб\r\nждёт возможности раскрыться\r\nи покарать избежавших наказание.",
+      "pl": "Groteskowa broń, spragniona\r\npotencjału. Jej zakazany\r\nsarkofag otwarty na oścież\r\nprzez nieukaraną winę.",
+      "pt-BR": "Arma grotesca que anseia pelo\r\npotencial, seu caixão proibido\r\nescancarado por pecado impune.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n겉잠. 금기의 관은 배신으로\r\n자물쇠가 열리는 순간을\r\n애타게 기다리고 있다.",
+      "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
+      "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
+      "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 86,
+    "kind": "charge-blade",
+    "phial": "element",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "代償のネイディ・ギア",
+      "en": "Promised Abyss",
+      "fr": "Abysse promise",
+      "it": "Abisso promesso",
+      "de": "Gelobter Abgrund",
+      "es": "Abismo prometido",
+      "ru": "Обещанная бездна",
+      "pl": "Obiecana Otchłań",
+      "pt-BR": "Abismo Prometido",
+      "ko": "대상의 네이디 기어",
+      "zh-Hant": "代價深淵齒輪",
+      "zh-Hans": "代价的深渊齿轮",
+      "ar": "الهاوية الموعودة",
+      "es-419": "Abismo prometido"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n微睡み。禁忌の棺は焦がれている。\r\n裏切りによる開錠の瞬間を。",
+      "en": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+      "fr": "Cette arme monstrueuse\r\nen quête de potentiel\r\nouvre son cercueil impie\r\naprès un crime impuni.",
+      "it": "Un'arma grottesca assetata di\r\npotenziale, la cui bara proibita\r\nè scoperchiata da un peccato\r\nimpunito.",
+      "de": "Ein grotesker Traum, der nach\r\nPotenzial dürstet. Der verbotene\r\nSarg lechzt nach ungestraften\r\nSünden, die ihn entriegeln.",
+      "es": "Un arma grotesca que ansía\r\nun mayor potencial. Su ataúd\r\nprohibido ha sido abierto por\r\nun pecado sin castigo.",
+      "ru": "Жуткое оружие, чья жажда чего-то\r\nбольшего дремлет в забытьи. Гроб\r\nждёт возможности раскрыться\r\nи покарать избежавших наказание.",
+      "pl": "Groteskowa broń, spragniona\r\npotencjału. Jej zakazany\r\nsarkofag otwarty na oścież\r\nprzez nieukaraną winę.",
+      "pt-BR": "Arma grotesca que anseia pelo\r\npotencial, seu caixão proibido\r\nescancarado por pecado impune.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n겉잠. 금기의 관은 배신으로\r\n자물쇠가 열리는 순간을\r\n애타게 기다리고 있다.",
+      "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
+      "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
+      "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 87,
+    "kind": "charge-blade",
+    "phial": "element",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "代償のネイディ・ギア",
+      "en": "Promised Abyss",
+      "fr": "Abysse promise",
+      "it": "Abisso promesso",
+      "de": "Gelobter Abgrund",
+      "es": "Abismo prometido",
+      "ru": "Обещанная бездна",
+      "pl": "Obiecana Otchłań",
+      "pt-BR": "Abismo Prometido",
+      "ko": "대상의 네이디 기어",
+      "zh-Hant": "代價深淵齒輪",
+      "zh-Hans": "代价的深渊齿轮",
+      "ar": "الهاوية الموعودة",
+      "es-419": "Abismo prometido"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n微睡み。禁忌の棺は焦がれている。\r\n裏切りによる開錠の瞬間を。",
+      "en": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+      "fr": "Cette arme monstrueuse\r\nen quête de potentiel\r\nouvre son cercueil impie\r\naprès un crime impuni.",
+      "it": "Un'arma grottesca assetata di\r\npotenziale, la cui bara proibita\r\nè scoperchiata da un peccato\r\nimpunito.",
+      "de": "Ein grotesker Traum, der nach\r\nPotenzial dürstet. Der verbotene\r\nSarg lechzt nach ungestraften\r\nSünden, die ihn entriegeln.",
+      "es": "Un arma grotesca que ansía\r\nun mayor potencial. Su ataúd\r\nprohibido ha sido abierto por\r\nun pecado sin castigo.",
+      "ru": "Жуткое оружие, чья жажда чего-то\r\nбольшего дремлет в забытьи. Гроб\r\nждёт возможности раскрыться\r\nи покарать избежавших наказание.",
+      "pl": "Groteskowa broń, spragniona\r\npotencjału. Jej zakazany\r\nsarkofag otwarty na oścież\r\nprzez nieukaraną winę.",
+      "pt-BR": "Arma grotesca que anseia pelo\r\npotencial, seu caixão proibido\r\nescancarado por pecado impune.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n겉잠. 금기의 관은 배신으로\r\n자물쇠가 열리는 순간을\r\n애타게 기다리고 있다.",
+      "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
+      "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
+      "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 91,
+    "kind": "charge-blade",
+    "phial": "impact",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

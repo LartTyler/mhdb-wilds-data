@@ -6591,6 +6591,144 @@
     "series_id": -1122003456
   },
   {
+    "game_id": 91,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "斬罪のエルガンシオ",
+      "en": "Headsman's Hamus",
+      "fr": "Hamus du bourreau",
+      "it": "Drépanon del boia",
+      "de": "Scharfrichters Hamus",
+      "es": "Hamus el Verdugo",
+      "ru": "Карающий жнец",
+      "pl": "Kosa Kata",
+      "pt-BR": "Hamus Executora",
+      "ko": "참죄의 엘간시오",
+      "zh-Hant": "斬首武具次元刀",
+      "zh-Hans": "斩罪武具次元刀",
+      "ar": "هاموس الجلاد",
+      "es-419": "Hamus el Verdugo"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n死神。輪廻の輪をも斬り続け、\r\n絶たれた者の叫びは今も止まない。",
+      "en": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+      "fr": "Alors que la mort s'empare de\r\ntout, le cycle de réincarnation\r\nsera brisé. Les cris des victimes\r\nretentiront à jamais.",
+      "it": "Mentre la morte divora tutto,\r\nil ciclo della rinascita sarà\r\ndistrutto. Le urla delle vittime\r\nsi udiranno per l'eternità.",
+      "de": "Ein grotesker Tod, der nach\r\nPotenzial dürstet. Die Schreie\r\nder Opfer im Kreis der Wieder-\r\ngeburt hallen ewig nach.",
+      "es": "La muerte lo devora todo y\r\nel ciclo de renacimiento será\r\ndestruido. Los gritos de los\r\nacallados se oirán eternamente.",
+      "ru": "Пока властвует смерть, цикл\r\nперерождения распадается.\r\nВечно будут звучать крики тех,\r\nчто никогда не войдут в него вновь.",
+      "pl": "Gdy śmierć pochłania wszystko,\r\ncykl odrodzenia zostanie\r\nzniszczony. Krzyki ściętych\r\nnigdy nie ucichną.",
+      "pt-BR": "Enquanto a morte engole tudo, o\r\nciclo de renascimento se destrói.\r\nOs gritos dos agora eviscerados\r\nserão ouvidos para sempre.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n사신. 윤회의 고리를 계속\r\n베고, 잘려 나간 자의 절규는\r\n멈추지 않는다.",
+      "zh-Hant": "異形的死神吞噬潛藏性能。即使\r\n不斷斬斷輪迴，死者的呼喊至今\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之死神。斩断\r\n轮回之环，断绝者的哀嚎至今仍未\r\n停息。",
+      "ar": "بينما يبتلع الموت كلَّ شيء،\r\nتنهار دورة الولادة الأبدية.\r\nوستظل صرخات الذين اقتُطعوا\r\nمن الحياة تتردد إلى الأبد.",
+      "es-419": "Mientras la muerte lo devora todo,\r\nel ciclo de renacimiento será destruido.\r\nLos gritos de aquellos que quedaron\r\napartados se escucharán para siempre."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 92,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "斬罪のエルガンシオ",
+      "en": "Headsman's Hamus",
+      "fr": "Hamus du bourreau",
+      "it": "Drépanon del boia",
+      "de": "Scharfrichters Hamus",
+      "es": "Hamus el Verdugo",
+      "ru": "Карающий жнец",
+      "pl": "Kosa Kata",
+      "pt-BR": "Hamus Executora",
+      "ko": "참죄의 엘간시오",
+      "zh-Hant": "斬首武具次元刀",
+      "zh-Hans": "斩罪武具次元刀",
+      "ar": "هاموس الجلاد",
+      "es-419": "Hamus el Verdugo"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n死神。輪廻の輪をも斬り続け、\r\n絶たれた者の叫びは今も止まない。",
+      "en": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+      "fr": "Alors que la mort s'empare de\r\ntout, le cycle de réincarnation\r\nsera brisé. Les cris des victimes\r\nretentiront à jamais.",
+      "it": "Mentre la morte divora tutto,\r\nil ciclo della rinascita sarà\r\ndistrutto. Le urla delle vittime\r\nsi udiranno per l'eternità.",
+      "de": "Ein grotesker Tod, der nach\r\nPotenzial dürstet. Die Schreie\r\nder Opfer im Kreis der Wieder-\r\ngeburt hallen ewig nach.",
+      "es": "La muerte lo devora todo y\r\nel ciclo de renacimiento será\r\ndestruido. Los gritos de los\r\nacallados se oirán eternamente.",
+      "ru": "Пока властвует смерть, цикл\r\nперерождения распадается.\r\nВечно будут звучать крики тех,\r\nчто никогда не войдут в него вновь.",
+      "pl": "Gdy śmierć pochłania wszystko,\r\ncykl odrodzenia zostanie\r\nzniszczony. Krzyki ściętych\r\nnigdy nie ucichną.",
+      "pt-BR": "Enquanto a morte engole tudo, o\r\nciclo de renascimento se destrói.\r\nOs gritos dos agora eviscerados\r\nserão ouvidos para sempre.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n사신. 윤회의 고리를 계속\r\n베고, 잘려 나간 자의 절규는\r\n멈추지 않는다.",
+      "zh-Hant": "異形的死神吞噬潛藏性能。即使\r\n不斷斬斷輪迴，死者的呼喊至今\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之死神。斩断\r\n轮回之环，断绝者的哀嚎至今仍未\r\n停息。",
+      "ar": "بينما يبتلع الموت كلَّ شيء،\r\nتنهار دورة الولادة الأبدية.\r\nوستظل صرخات الذين اقتُطعوا\r\nمن الحياة تتردد إلى الأبد.",
+      "es-419": "Mientras la muerte todo lo devora,\r\nel ciclo de renacimiento será destruido.\r\nLos gritos de aquellos que quedaron\r\napartados se escucharán para siempre."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
     "game_id": 95,
     "kind": "long-sword",
     "sharpness": {
@@ -6743,5 +6881,109 @@
       "28385": 1
     },
     "series_id": -547584512
+  },
+  {
+    "game_id": 97,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 20,
+      "orange": 20,
+      "yellow": 20,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 99,
+    "kind": "long-sword",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "斬罪のエルガンシオ",
+      "en": "Headsman's Hamus",
+      "fr": "Hamus du bourreau",
+      "it": "Drépanon del boia",
+      "de": "Scharfrichters Hamus",
+      "es": "Hamus el Verdugo",
+      "ru": "Карающий жнец",
+      "pl": "Kosa Kata",
+      "pt-BR": "Hamus Executora",
+      "ko": "참죄의 엘간시오",
+      "zh-Hant": "斬首武具次元刀",
+      "zh-Hans": "斩罪武具次元刀",
+      "ar": "هاموس الجلاد",
+      "es-419": "Hamus el Verdugo"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n死神。輪廻の輪をも斬り続け、\r\n絶たれた者の叫びは今も止まない。",
+      "en": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+      "fr": "Alors que la mort s'empare de\r\ntout, le cycle de réincarnation\r\nsera brisé. Les cris des victimes\r\nretentiront à jamais.",
+      "it": "Mentre la morte divora tutto,\r\nil ciclo della rinascita sarà\r\ndistrutto. Le urla delle vittime\r\nsi udiranno per l'eternità.",
+      "de": "Ein grotesker Tod, der nach\r\nPotenzial dürstet. Die Schreie\r\nder Opfer im Kreis der Wieder-\r\ngeburt hallen ewig nach.",
+      "es": "La muerte lo devora todo y\r\nel ciclo de renacimiento será\r\ndestruido. Los gritos de los\r\nacallados se oirán eternamente.",
+      "ru": "Пока властвует смерть, цикл\r\nперерождения распадается.\r\nВечно будут звучать крики тех,\r\nчто никогда не войдут в него вновь.",
+      "pl": "Gdy śmierć pochłania wszystko,\r\ncykl odrodzenia zostanie\r\nzniszczony. Krzyki ściętych\r\nnigdy nie ucichną.",
+      "pt-BR": "Enquanto a morte engole tudo, o\r\nciclo de renascimento se destrói.\r\nOs gritos dos agora eviscerados\r\nserão ouvidos para sempre.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n사신. 윤회의 고리를 계속\r\n베고, 잘려 나간 자의 절규는\r\n멈추지 않는다.",
+      "zh-Hant": "異形的死神吞噬潛藏性能。即使\r\n不斷斬斷輪迴，死者的呼喊至今\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之死神。斩断\r\n轮回之环，断绝者的哀嚎至今仍未\r\n停息。",
+      "ar": "بينما يبتلع الموت كلَّ شيء،\r\nتنهار دورة الولادة الأبدية.\r\nوستظل صرخات الذين اقتُطعوا\r\nمن الحياة تتردد إلى الأبد.",
+      "es-419": "Mientras la muerte todo lo devora,\r\nel ciclo de renacimiento será destruido.\r\nLos gritos de aquellos que quedaron\r\napartados se escucharán para siempre."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

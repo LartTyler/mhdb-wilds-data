@@ -1787,6 +1787,54 @@
             "705": 1
           }
         }
+      },
+      {
+        "names": {
+          "ja": "挑戦の護石Ⅲ",
+          "en": "Challenger Charm III",
+          "fr": "Talisman de témérité III",
+          "it": "Amuleto sfidante III",
+          "de": "Hetzer-Talisman III",
+          "es": "Amuleto desafío III",
+          "ru": "Оберег провокатора III",
+          "pl": "Amulet konkurenta III",
+          "pt-BR": "Amuleto do Desafiante III",
+          "ko": "도전의 호석Ⅲ",
+          "zh-Hant": "挑戰護石Ⅲ",
+          "zh-Hans": "挑战护石Ⅲ",
+          "ar": "تميمة المتحدّي 3",
+          "es-419": "Amuleto del desafío III"
+        },
+        "descriptions": {
+          "ja": "装備することで挑戦者スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Agitator\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Témérité.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Istigatore.",
+          "de": "Dieses Amulett gewährt die\r\nAufhetzer-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"instigación\".",
+          "ru": "Оберег, дарующий навык\r\n«Подстрекатель».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Podżegacz.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nAgitador.",
+          "ko": "장비하면 도전자 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動挑戰者技能的護身符。",
+          "zh-Hans": "发动挑战者技能的护身符。",
+          "ar": "تميمة تمنح مهارة المشاغب.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Instigador."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "1865909632": 3
+        },
+        "recipe": {
+          "inputs": {
+            "422": 6,
+            "751": 6,
+            "754": 1,
+            "761": 3
+          }
+        }
       }
     ]
   },
@@ -4571,6 +4619,54 @@
             "579": 1
           }
         }
+      },
+      {
+        "names": {
+          "ja": "耐属の護石Ⅲ",
+          "en": "Blight Charm III",
+          "fr": "Talisman élémentaire III",
+          "it": "Amuleto malus III",
+          "de": "Pest-Talisman III",
+          "es": "Amuleto plaga III",
+          "ru": "Оберег от порчи III",
+          "pl": "Amulet plagi III",
+          "pt-BR": "Amuleto de Flagelo III",
+          "ko": "내속의 호석Ⅲ",
+          "zh-Hant": "耐屬護石Ⅲ",
+          "zh-Hans": "耐属护石Ⅲ",
+          "ar": "تميمة الوباء 3",
+          "es-419": "Amuleto de plaga III"
+        },
+        "descriptions": {
+          "ja": "装備することで属性やられ耐性\r\nスキルが発動するお守り。",
+          "en": "A charm that grants the Blight\r\nResistance skill.",
+          "fr": "Un talisman qui confère\r\nle talent Totem élémentaire.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Resistenza malus.",
+          "de": "Dieses Amulett gewährt die\r\nPestwiderstand-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"antiplagas\".",
+          "ru": "Оберег, дарующий навык\r\n«Сопротивление порче».",
+          "pl": "Po użyciu przyznaje umiejętność\r\nOdporność na plagę.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nAntiflagelo.",
+          "ko": "장비하면 속성 피해 내성\r\n스킬이 발동하는 부적.",
+          "zh-Hant": "發動屬性異常耐性技能的\r\n護身符。",
+          "zh-Hans": "发动属性异常耐性技能的护身符。",
+          "ar": "تميمة تمنح\r\nمهارة مقاومة الوباء.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Antiplagas."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "-568838336": 3
+        },
+        "recipe": {
+          "inputs": {
+            "383": 5,
+            "388": 1,
+            "747": 1,
+            "749": 2
+          }
+        }
       }
     ]
   },
@@ -4970,6 +5066,54 @@
             "373": 4,
             "374": 1,
             "497": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "重撃の護石Ⅲ",
+          "en": "Breaker Charm III",
+          "fr": "Talisman de destruction III",
+          "it": "Amuleto lesione III",
+          "de": "Brecher-Talisman III",
+          "es": "Amuleto destructor III",
+          "ru": "Оберег отсекателя III",
+          "pl": "Amulet łamacza III",
+          "pt-BR": "Amuleto de Quebra III",
+          "ko": "중격의 호석Ⅲ",
+          "zh-Hant": "重擊護石Ⅲ",
+          "zh-Hans": "重击护石Ⅲ",
+          "ar": "تميمة الكاسر 3",
+          "es-419": "Amuleto de troceo III"
+        },
+        "descriptions": {
+          "ja": "装備することで破壊王スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nPartbreaker skill.",
+          "fr": "Un talisman qui confère\r\nle talent Destructeur.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Spaccamostri.",
+          "de": "Dieses Amulett gewährt die\r\nTeilezerstörer-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"rompepartes\".",
+          "ru": "Оберег, дарующий навык\r\n«Отсекатель».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Rozłamywacz.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nQuebra-parte.",
+          "ko": "장비하면 파괴왕 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動破壞王技能的護身符。",
+          "zh-Hans": "发动破坏王技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nكاسر الأجزاء.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Rompepartes."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "1470960256": 3
+        },
+        "recipe": {
+          "inputs": {
+            "92": 1,
+            "464": 3,
+            "750": 3,
+            "755": 8
           }
         }
       }
@@ -5736,7 +5880,7 @@
           "ko": "반격의 호석Ⅲ",
           "zh-Hant": "反攻護石Ⅲ",
           "zh-Hans": "反攻护石Ⅲ",
-          "ar": "تميمة الهجوم المضاد 2",
+          "ar": "تميمة الهجوم المضاد 3",
           "es-419": "Amuleto adrenalina III"
         },
         "descriptions": {
@@ -6318,6 +6462,54 @@
             "564": 4,
             "567": 3,
             "568": 1
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "転福の護石Ⅲ",
+          "en": "Phoenix Charm III",
+          "fr": "Talisman du phénix III",
+          "it": "Amuleto fenice III",
+          "de": "Phönix-Talisman III",
+          "es": "Amuleto fénix III",
+          "ru": "Оберег феникса III",
+          "pl": "Amulet feniksa III",
+          "pt-BR": "Amuleto da Fênix III",
+          "ko": "전화위복의 호석Ⅲ",
+          "zh-Hant": "轉福護石Ⅲ",
+          "zh-Hans": "转福护石Ⅲ",
+          "ar": "تميمة العنقاء 3",
+          "es-419": "Amuleto del fénix III"
+        },
+        "descriptions": {
+          "ja": "装備することで災禍転福スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the\r\nCoalescence skill.",
+          "fr": "Un talisman qui confère\r\nle talent Union.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Coalescenza.",
+          "de": "Dieses Amulett gewährt die\r\nVerschmelzung-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"coalescencia\".",
+          "ru": "Оберег, дарующий навык\r\n«Сращивание».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Zjednoczenie.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nCoalescência.",
+          "ko": "장비하면 전화위복 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動轉禍為福技能的護身符。",
+          "zh-Hans": "发动因祸得福技能的护身符。",
+          "ar": "تميمة تمنح\r\nمهارة الالتحام.",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Coalescencia."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "-1700743296": 3
+        },
+        "recipe": {
+          "inputs": {
+            "421": 6,
+            "423": 3,
+            "424": 1,
+            "761": 1
           }
         }
       }

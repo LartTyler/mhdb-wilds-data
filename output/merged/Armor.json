@@ -65,7 +65,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -126,7 +126,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -186,7 +186,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -245,7 +245,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -306,7 +306,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -733,7 +733,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -795,7 +795,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -857,7 +857,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -920,7 +920,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -983,7 +983,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -1091,7 +1091,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -1154,7 +1154,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -1214,7 +1214,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -1276,7 +1276,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -1338,7 +1338,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -1425,7 +1425,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -1487,7 +1487,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -1549,7 +1549,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -1611,7 +1611,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -1673,7 +1673,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -1768,7 +1768,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -1826,7 +1826,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -1886,7 +1886,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -1944,7 +1944,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2004,7 +2004,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2417,7 +2417,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2477,7 +2477,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2536,7 +2536,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2596,7 +2596,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2656,7 +2656,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -2761,7 +2761,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -2823,7 +2823,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -2885,7 +2885,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -2948,7 +2948,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -3009,7 +3009,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -3105,7 +3105,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -3166,7 +3166,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -3225,7 +3225,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -3287,7 +3287,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -3348,7 +3348,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -3433,7 +3433,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -3493,7 +3493,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -3553,7 +3553,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -3613,7 +3613,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -3673,7 +3673,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 2,
@@ -4431,7 +4431,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -4495,7 +4495,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -4558,7 +4558,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -4620,7 +4620,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -4684,7 +4684,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -4791,7 +4791,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -4853,7 +4853,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -4914,7 +4914,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -4977,7 +4977,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -5040,7 +5040,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -5135,7 +5135,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -5195,7 +5195,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -5255,7 +5255,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -5315,7 +5315,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -5408,7 +5408,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -5469,7 +5469,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -5531,7 +5531,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -5593,7 +5593,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -5653,7 +5653,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -5748,7 +5748,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -5,
@@ -5932,7 +5932,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -5992,7 +5992,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6055,7 +6055,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6116,7 +6116,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6178,7 +6178,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6273,7 +6273,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -6334,7 +6334,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -6426,7 +6426,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -6486,7 +6486,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -6549,7 +6549,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -6609,7 +6609,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -6669,7 +6669,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -6755,7 +6755,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6816,7 +6816,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6878,7 +6878,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -6940,7 +6940,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -7003,7 +7003,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -7099,7 +7099,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -7160,7 +7160,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -7222,7 +7222,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -7281,7 +7281,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -7343,7 +7343,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -7435,7 +7435,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -7496,7 +7496,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -7554,7 +7554,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -7614,7 +7614,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -7673,7 +7673,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 2,
@@ -8122,7 +8122,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -8184,7 +8184,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -8247,7 +8247,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -8307,7 +8307,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -8370,7 +8370,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -8477,7 +8477,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -8540,7 +8540,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -8602,7 +8602,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -8665,7 +8665,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -8728,7 +8728,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -8835,7 +8835,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -8895,7 +8895,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -8958,7 +8958,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -9020,7 +9020,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -9082,7 +9082,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -9189,7 +9189,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -9252,7 +9252,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -9313,7 +9313,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -9376,7 +9376,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -9439,7 +9439,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -9534,7 +9534,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 4,
@@ -9625,7 +9625,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -9687,7 +9687,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -9749,7 +9749,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -9811,7 +9811,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -9873,7 +9873,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -10399,7 +10399,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 4,
@@ -10490,7 +10490,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -10549,7 +10549,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -10610,7 +10610,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -10670,7 +10670,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -10728,7 +10728,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -10835,7 +10835,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -10898,7 +10898,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -10960,7 +10960,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -11024,7 +11024,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -11086,7 +11086,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -1,
@@ -11174,7 +11174,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -11235,7 +11235,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -11297,7 +11297,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -11358,7 +11358,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -11421,7 +11421,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -11857,7 +11857,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -11918,7 +11918,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -11979,7 +11979,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -12039,7 +12039,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -12098,7 +12098,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -12283,7 +12283,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -12344,7 +12344,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -12404,7 +12404,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -12465,7 +12465,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -12526,7 +12526,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -12619,7 +12619,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -12680,7 +12680,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -12741,7 +12741,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -12801,7 +12801,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -12863,7 +12863,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -4,
@@ -12969,7 +12969,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -13031,7 +13031,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -13091,7 +13091,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -13153,7 +13153,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -13214,7 +13214,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -13310,7 +13310,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -13404,7 +13404,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -13465,7 +13465,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -13526,7 +13526,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -13588,7 +13588,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -13648,7 +13648,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -13743,7 +13743,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -13804,7 +13804,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -13866,7 +13866,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -13927,7 +13927,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -13987,7 +13987,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -14082,7 +14082,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -14142,7 +14142,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -14204,7 +14204,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -14266,7 +14266,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -14327,7 +14327,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -14435,7 +14435,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -14495,7 +14495,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -14557,7 +14557,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -14620,7 +14620,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -14682,7 +14682,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -15122,7 +15122,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -15183,7 +15183,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -15246,7 +15246,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -15307,7 +15307,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -15370,7 +15370,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -15466,7 +15466,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -15560,7 +15560,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -16009,7 +16009,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -16071,7 +16071,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -16134,7 +16134,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -16196,7 +16196,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -16258,7 +16258,7 @@
         },
         "defense": {
           "base": 52,
-          "max": 82
+          "max": 84
         },
         "resistances": {
           "fire": 4,
@@ -16696,7 +16696,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -16803,7 +16803,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -16865,7 +16865,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -16928,7 +16928,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -16990,7 +16990,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -17054,7 +17054,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -3,
@@ -19398,7 +19398,7 @@
     "names": {
       "ja": "ハーベストα",
       "en": "Harvest α",
-      "fr": "Moisson α",
+      "fr": "Récolte α",
       "it": "Raccolto α",
       "de": "Ernte-Set α",
       "es": "Cosecha α",
@@ -19459,7 +19459,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -19522,7 +19522,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -19582,7 +19582,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -19643,7 +19643,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -19707,7 +19707,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -19806,7 +19806,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 3,
@@ -19869,7 +19869,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 3,
@@ -19931,7 +19931,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 3,
@@ -19994,7 +19994,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 3,
@@ -20057,7 +20057,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 3,
@@ -20096,7 +20096,7 @@
       "de": "Flausche-Schwanz",
       "es": "Cola peludita",
       "ru": "Пушистый хвост",
-      "pl": "Puchaty ogon",
+      "pl": "Puszysty ogonek",
       "pt-BR": "Cauda Fofinha",
       "ko": "복슬복슬 고양이 꼬리",
       "zh-Hant": "毛茸茸獸尾",
@@ -20168,7 +20168,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -20254,7 +20254,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -20373,7 +20373,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -20400,6 +20400,725 @@
       }
     ],
     "model_id": 76
+  },
+  {
+    "game_id": 2461,
+    "names": {
+      "ja": "オリオンα",
+      "en": "Orion α",
+      "fr": "Orion α",
+      "it": "Orione α",
+      "de": "Orion-Set α",
+      "es": "Orión α",
+      "ru": "Орион α",
+      "pl": "Orion α",
+      "pt-BR": "Órion α",
+      "ko": "오리온α",
+      "zh-Hant": "獵戶星α",
+      "zh-Hans": "猎户星α",
+      "ar": "أوريون α",
+      "es-419": "Orión α"
+    },
+    "rarity": 8,
+    "set_bonus": null,
+    "group_bonus": {
+      "skill_id": 13941,
+      "ranks": [
+        {
+          "pieces": 3,
+          "skill_level": 1
+        }
+      ]
+    },
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "オリオンヘッドα",
+          "en": "Orion Cap α",
+          "fr": "Coiffe Orion α",
+          "it": "Cappuccio Orione α",
+          "de": "Orion-Mütze α",
+          "es": "Gorro Orión α",
+          "ru": "Шапка Ориона α",
+          "pl": "Czapka Oriona α",
+          "pt-BR": "Touca de Órion α",
+          "ko": "오리온헤드α",
+          "zh-Hant": "獵戶星頭飾α",
+          "zh-Hans": "猎户星头饰α",
+          "ar": "قبعة أوريون α",
+          "es-419": "Gorro de Orión α"
+        },
+        "descriptions": {
+          "ja": "オリオンチケットで作れる頭防具。\r\n世界に笑顔と贈り物を届けたい…、\r\n古の聖人の願いがこめられている。",
+          "en": "Orion Ticket headgear, imbued\r\nwith a saint's wish to deliver\r\njoy and presents to all the world.",
+          "fr": "Obtenue grâce aux tickets Orion,\r\ncette coiffe est imprégnée du désir\r\nsaint d'apporter joie et cadeaux\r\nau monde entier.",
+          "it": "Protezione per la testa ottenuta\r\ncon i biglietti Orione, intrisa del\r\ndesiderio di un santo di portare\r\ngioia e doni in tutto il mondo.",
+          "de": "Orion-Ticket-Kopfschutz.\r\nMit dem Wunsch eines Heiligen\r\nnach Freude und Geschenken\r\nfür die Welt gesegnet.",
+          "es": "Armadura para la cabeza del vale\r\nde Orión, imbuida con el deseo de\r\nun santo por repartir alegría y\r\nregalos por el mundo.",
+          "ru": "Головной убор за билет Ориона.\r\nНаполняет желанием нести миру\r\nрадость и осыпать всех дарами.",
+          "pl": "Osłona głowy za kwit Oriona,\r\nwypełniona pragnieniem świętego,\r\nby dać światu radość i dary.",
+          "pt-BR": "Proteção de cabeça do Bilhete de\r\nÓrion, imbuída com a vontade de\r\num santo de distribuir alegria\r\ne presentes para todo o mundo.",
+          "ko": "오리온 티켓으로 만드는\r\n머리 방어구. 미소와 선물을\r\n세상에 전하고 싶다는\r\n옛 성인의 소망이 담겨 있다.",
+          "zh-Hant": "可憑獵戶星票製作的頭部防具。古代\r\n聖人想將笑容贈送給全世界的願望\r\n蘊藏於此。",
+          "zh-Hans": "使用猎户星票制作的头部防具。古\r\n代圣人想将笑容赠送给全世界的愿\r\n望蕴藏于此。",
+          "ar": "درع رأس تذكرة (أوريون).\r\nمحمَّل بأمنية قديس لجلب\r\nالبهجة وتوزيع الهدايا حول العالم.",
+          "es-419": "Armadura para la cabeza de cupón\r\nde Orión, imbuida con el deseo\r\nde un santo de llevar alegría\r\ny regalos a todo el mundo."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 1,
+          "water": 1,
+          "thunder": 1,
+          "ice": 4,
+          "dragon": 1
+        },
+        "slots": [
+          3,
+          3,
+          1
+        ],
+        "skills": {
+          "742695104": 2
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "37": 1,
+            "537": 6,
+            "661": 1,
+            "800": 1
+          }
+        }
+      },
+      {
+        "kind": "chest",
+        "names": {
+          "ja": "オリオンベストα",
+          "en": "Orion Vest α",
+          "fr": "Veste Orion α",
+          "it": "Giacca Orione α",
+          "de": "Orion-Weste α",
+          "es": "Chaleco Orión α",
+          "ru": "Жилет Ориона α",
+          "pl": "Kamizelka Oriona α",
+          "pt-BR": "Veste de Órion α",
+          "ko": "오리온베스트α",
+          "zh-Hant": "獵戶星服飾α",
+          "zh-Hans": "猎户星服饰α",
+          "ar": "صديري أوريون α",
+          "es-419": "Chaleco de Orión α"
+        },
+        "descriptions": {
+          "ja": "オリオンチケットで作れる胴防具。\r\n暖かさと防御力を両立させた装束で\r\n温もりと安心を着用者に与える。",
+          "en": "Orion Ticket chest armor that\r\naffords warmth, protection, and\r\na feeling of comfort and security.",
+          "fr": "Obtenue grâce aux tickets Orion,\r\ncette veste assure chaleur, confort\r\net protection à son porteur.",
+          "it": "Protezione per il torace ottenuta\r\ncon i biglietti Orione, che offre\r\ncalore, protezione e un senso\r\ndi comodità e sicurezza.",
+          "de": "Orion-Ticket-Brustschutz. Bietet\r\nWärme, Schutz und ein Gefühl\r\nder Behaglichkeit und Gebor-\r\ngenheit.",
+          "es": "Armadura para el torso del vale\r\nde Orión que aporta calor,\r\nprotección y un sentimiento\r\nde seguridad.",
+          "ru": "Нагрудный доспех за билет\r\nОриона. Дарит тепло, защиту,\r\nуют и чувство безопасности.",
+          "pl": "Napierśnik za kwit Oriona,\r\nzapewnia ciepło, ochronę\r\ni poczucie komfortu\r\ni bezpieczeństwa.",
+          "pt-BR": "Proteção de torso do Bilhete\r\nde Órion que oferece calor,\r\nproteção e uma sensação\r\nde conforto e segurança.",
+          "ko": "오리온 티켓으로 만드는\r\n몸통 방어구. 보온력과\r\n방어력을 모두 갖춰, 따뜻함과\r\n안정감을 느낄 수 있다.",
+          "zh-Hant": "可憑獵戶星票製作的身體防具。裝束\r\n兼具保暖與防禦功能，能帶給穿戴者\r\n暖意與安心。",
+          "zh-Hans": "使用猎户星票制作的身体防具。兼\r\n具保暖性与防御力的装束，为穿着\r\n者提供了温暖与安心。",
+          "ar": "درع صدر تذكرة (أوريون).\r\nيوفر الدفء والحماية،\r\nويبعث شعورًا بالراحة والأمان.",
+          "es-419": "Armadura para el pecho de cupón\r\nde Orión que aporta calor,\r\nprotección y un sentimiento\r\nde comodidad y seguridad."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 1,
+          "water": 1,
+          "thunder": 1,
+          "ice": 4,
+          "dragon": 1
+        },
+        "slots": [
+          2,
+          2,
+          2
+        ],
+        "skills": {
+          "-1235658624": 1,
+          "-895828480": 2
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "537": 9,
+            "538": 4,
+            "661": 1,
+            "800": 1
+          }
+        }
+      },
+      {
+        "kind": "arms",
+        "names": {
+          "ja": "オリオンアームα",
+          "en": "Orion Vambraces α",
+          "fr": "Avant-bras Orion α",
+          "it": "Parabraccia Orione α",
+          "de": "Orion-Armschutz α",
+          "es": "Brazales Orión α",
+          "ru": "Наручи Ориона α",
+          "pl": "Zarękawia Oriona α",
+          "pt-BR": "Avambraços de Órion α",
+          "ko": "오리온암α",
+          "zh-Hant": "獵戶星腕甲α",
+          "zh-Hans": "猎户星腕甲α",
+          "ar": "درع ساعد أوريون α",
+          "es-419": "Guantes de Orión α"
+        },
+        "descriptions": {
+          "ja": "オリオンチケットで作れる腕防具。\r\n狩りの名手の名を冠するその籠手は\r\n寒冷地でも問題なく武器を扱える。",
+          "en": "Orion Ticket armguards that\r\nbear the name of a great hunter\r\nwho weathered the coldest\r\nclimes.",
+          "fr": "Obtenus grâce aux tickets Orion,\r\nces avant-bras portent le nom\r\nd'un grand Chasseur ayant enduré\r\nles climats les plus froids.",
+          "it": "Parabraccia ottenuti con i biglietti\r\nOrione, che portano il nome di\r\nun grande cacciatore che seppe\r\nresistere ai climi più freddi.",
+          "de": "Orion-Ticket-Armschutz mit dem\r\nNamen eines großen Jägers, der\r\nden kältesten Gefilden trotzte.",
+          "es": "Brazales del vale de Orión,\r\ncon el nombre de un gran\r\ncazador que domó los más\r\nfríos climas.",
+          "ru": "Наручи за билет Ориона,\r\nпрославляющие имя великого\r\nохотника, который не раз выживал\r\nв самых холодных уголках мира.",
+          "pl": "Naramienniki za kwit Oriona,\r\nnoszą imię wielkiego łowcy,\r\nktóry przetrwał największe\r\nmrozy.",
+          "pt-BR": "Proteção de braços do Bilhete de\r\nÓrion que carrega o nome de um\r\ngrande caçador que enfrentou\r\nos climas mais frios.",
+          "ko": "오리온 티켓으로 만드는\r\n팔 방어구. 사냥 고수의\r\n이름을 딴 팔 보호대로, 추운\r\n곳에서도 무기를 쓸 수 있다.",
+          "zh-Hant": "可憑獵戶星票製作的臂部防具。穿上\r\n冠以狩獵高手之名的腕甲，在寒冷地\r\n區也把武器揮動自如。",
+          "zh-Hans": "使用猎户星票制作的臂部防具。穿\r\n上冠以狩猎高手之名的腕甲，在极\r\n寒之地亦能自如挥动武器。",
+          "ar": "واقيات أذرع تذكرة (أوريون).\r\nتحمل اسم صياد عظيم استطاع\r\nالصمود في المناخات الأكثر برودة.",
+          "es-419": "Brazales de cupón de Orión que\r\nllevan el nombre de un gran cazador\r\nque atravesó los más fríos climas."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 1,
+          "water": 1,
+          "thunder": 1,
+          "ice": 4,
+          "dragon": 1
+        },
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "skills": {
+          "-1235658624": 2,
+          "-895828480": 1
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "37": 1,
+            "537": 5,
+            "661": 1,
+            "800": 1
+          }
+        }
+      },
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "オリオンコートα",
+          "en": "Orion Coat α",
+          "fr": "Tassette Orion α",
+          "it": "Copriabito Orione α",
+          "de": "Orion-Hüftschutz α",
+          "es": "Faja Orión α",
+          "ru": "Плащ Ориона α",
+          "pl": "Płaszcz Oriona α",
+          "pt-BR": "Cinturão de Órion α",
+          "ko": "오리온코트α",
+          "zh-Hant": "獵戶星腰袍α",
+          "zh-Hans": "猎户星护腰α",
+          "ar": "معطف أوريون α",
+          "es-419": "Abrigo de Orión α"
+        },
+        "descriptions": {
+          "ja": "オリオンチケットで作れる腰防具。\r\n雪花が煌めくお祭り用に作られた\r\n装束で、着ると心も暖かくなる。",
+          "en": "Orion Ticket waistgear adorned\r\nwith festive, sparkly snowflakes\r\nthat warm the heart.",
+          "fr": "Obtenue grâce aux tickets Orion,\r\nelle est ornée de flocons\r\nde neige festifs et scintillants\r\nqui réchauffent le cœur.",
+          "it": "Protezione per i fianchi ottenuta\r\ncon i biglietti Orione, adornata di\r\nscintillanti fiocchi di neve\r\nche scaldano il cuore.",
+          "de": "Orion-Ticket-Hüftschutz. Besetzt\r\nmit festlich funkelnden Schnee-\r\nflocken, die das Herz erwärmen.",
+          "es": "Cincho del vale de Orión,\r\nadornado con copos de nieve\r\nfestivos que alegran el corazón.",
+          "ru": "Пояс за билет Ориона. Усеян\r\nблестящими праздничными\r\nснежинками, от которых\r\nстановится тепло на душе.",
+          "pl": "Pas za kwit Oriona, ozdobiony\r\nświątecznymi, błyszczącymi\r\npłatkami śniegu, które\r\nrozgrzewają serce.",
+          "pt-BR": "Proteção de cintura do Bilhete\r\nde Órion adornada com flocos\r\nde neve festivos e cintilantes\r\nque aquecem o coração.",
+          "ko": "오리온 티켓으로 만드는\r\n허리 방어구. 눈송이가\r\n반짝이는 축제 때 입는 옷으로\r\n착용하면 마음까지 따스해진다.",
+          "zh-Hant": "可憑獵戶星票製作的腰部防具。穿戴\r\n專門為雪花閃耀的慶典製作的裝束，\r\n連內心都會暖和起來。",
+          "zh-Hans": "使用猎户星票制作的腰部防具。点\r\n缀着晶莹雪花图案的祭祀专用华服，\r\n温暖着穿着者的身心。",
+          "ar": "عتاد خصر تذكرة (أوريون).\r\nمُرصع برقاقات ثلج برّاقة\r\nواحتفالية تملأ القلب بالدفء.",
+          "es-419": "Armadura para la cintura de cupón\r\nde Orión, adornado con brillantes\r\ncopos de nieve festivos que alegran\r\nel corazón."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 1,
+          "water": 1,
+          "thunder": 1,
+          "ice": 4,
+          "dragon": 1
+        },
+        "slots": [
+          2,
+          2,
+          2
+        ],
+        "skills": {
+          "-692636288": 1,
+          "192746944": 1
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "537": 7,
+            "540": 3,
+            "661": 1,
+            "800": 1
+          }
+        }
+      },
+      {
+        "kind": "legs",
+        "names": {
+          "ja": "オリオンブーツα",
+          "en": "Orion Boots α",
+          "fr": "Bottes Orion α",
+          "it": "Stivali Orione α",
+          "de": "Orion-Stiefel α",
+          "es": "Botas Orión α",
+          "ru": "Сапоги Ориона α",
+          "pl": "Buty Oriona α",
+          "pt-BR": "Botas de Órion α",
+          "ko": "오리온부츠α",
+          "zh-Hant": "獵戶星靴α",
+          "zh-Hans": "猎户星靴α",
+          "ar": "حذاء أوريون α",
+          "es-419": "Botas de Orión α"
+        },
+        "descriptions": {
+          "ja": "オリオンチケットで作れる脚防具。\r\n雪中や氷上でも、踊ったり遊んだり\r\nできるよう工夫が凝らされている。",
+          "en": "Orion Ticket leg armor that's\r\nperfect for walking—nay,\r\ndancing and playing through\r\nsnow and ice.",
+          "fr": "Obtenues grâce aux tickets Orion et\r\nparfaites pour marcher... non, plutôt\r\npour danser et jouer dans la neige\r\net la glace.",
+          "it": "Protezione per le gambe ottenuta\r\ncon i biglietti Orione, perfetta per\r\ncamminare, danzare e giocare\r\nin mezzo a neve e ghiaccio.",
+          "de": "Orion-Ticket-Beinschutz. Perfekt\r\nfür Spaziergänge sowie Tanz\r\nund Spiel auf Schnee und Eis.",
+          "es": "Perneras del vale de Orión,\r\nperfectas para caminar...\r\nno, bailar y jugar en la nieve\r\ny el hielo.",
+          "ru": "Поножи за билет Ориона.\r\nПрекрасно подходят для\r\nпрогулок... нет — для танцев\r\nи игр в снегу и на льду.",
+          "pl": "Pancerz na nogi za kwit Oriona,\r\nidealny do chodzenia... nie, do\r\ntańca i przemierzania przez\r\nśnieg i lód.",
+          "pt-BR": "Proteção de pernas do Bilhete de\r\nÓrion perfeita para caminhar,\r\nou melhor, dançar e brincar\r\nna neve e no gelo.",
+          "ko": "오리온 티켓으로 만드는\r\n다리 방어구. 눈밭과 얼음\r\n위에서도 춤추고 놀 수 있도록\r\n고심해서 제작했다.",
+          "zh-Hant": "可憑獵戶星票製作的足部防具。經過\r\n精心製作，就算是在雪中或冰上也能\r\n跳舞嬉戲。",
+          "zh-Hans": "使用猎户星票制作的脚部防具。设\r\n计精妙，纵使置身冰雪之上，亦能\r\n翩跹起舞、畅快嬉游。",
+          "ar": "درع ساق تذكرة (أوريون).\r\nمثالي للمشي، بل والرقص\r\nوالمرح بين الثلوج والجليد.",
+          "es-419": "Armadura para la pierna de cupón\r\nde Orión, perfectas para caminar...\r\ny bailar y jugar en la nieve y el hielo."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 1,
+          "water": 1,
+          "thunder": 1,
+          "ice": 4,
+          "dragon": 1
+        },
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "skills": {
+          "192746944": 2,
+          "742695104": 1
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "537": 8,
+            "539": 5,
+            "661": 1,
+            "800": 1
+          }
+        }
+      }
+    ],
+    "model_id": 99
+  },
+  {
+    "game_id": 2561,
+    "names": {
+      "ja": "ゴグα",
+      "en": "Gogmazios α",
+      "fr": "Gogmazios α",
+      "it": "Gogmazios α",
+      "de": "Gogmazios-Set α",
+      "es": "Gogmazios α",
+      "ru": "Гогмазиосовый α",
+      "pl": "Gogmazios α",
+      "pt-BR": "Gogmazios α",
+      "ko": "고그α",
+      "zh-Hant": "巨戟α",
+      "zh-Hans": "巨戟龙α",
+      "ar": "غوغمازيوس α",
+      "es-419": "Gogmazios α"
+    },
+    "rarity": 8,
+    "set_bonus": {
+      "skill_id": -555494336,
+      "ranks": [
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        }
+      ]
+    },
+    "group_bonus": null,
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "ゴグヘルムα",
+          "en": "Gogmazios Helm α",
+          "fr": "Heaume Gogmazios α",
+          "it": "Elmo Gogmazios α",
+          "de": "Gogmazios-Helm α",
+          "es": "Yelmo de Gogmazios α",
+          "ru": "Гогмазиосовый шлем α",
+          "pl": "Hełm z Gogmaziosa α",
+          "pt-BR": "Elmo de Gogmazios α",
+          "ko": "고그헬름α",
+          "zh-Hant": "巨戟龍頭盔α",
+          "zh-Hans": "巨戟龙头盔α",
+          "ar": "خوذة غوغمازيوس α",
+          "es-419": "Casco de Gogmazios α"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n頭防具。世の冥きを見つめ続けた\r\n瞳に、絶望の熾火が爆ぜる。",
+          "en": "Gogmazios head armor. The\r\neyes, having seen the world's\r\ndarkness, burn with bleak\r\ndespair.",
+          "fr": "Fait à base de Gogmazios.\r\nSes yeux habitués à la noirceur\r\ndu monde brûlent de désespoir.",
+          "it": "Protezione per la testa di\r\nGogmazios. Gli occhi, testimoni\r\ndell'oscurità del mondo,\r\nardono di cupo tormento.",
+          "de": "Kopfschutz aus Gogmazios-Teilen.\r\nDie Augen, die die Finsternis der\r\nWelt erblickten, brennen mit dem\r\nFeuer freudloser Verzweiflung.",
+          "es": "Armadura para la cabeza de\r\nGogmazios. Los ojos, que han\r\nvisto la oscuridad del mundo,\r\narden de pura desesperación.",
+          "ru": "Головной убор из материалов\r\nс гогмазиоса. В глазах, узревших\r\nтьму мира, горит холодный огонь\r\nбеспросветного отчаяния.",
+          "pl": "Osłona głowy z Gogmaziosa.\r\nOczy, które widziały mrok świata,\r\npłoną posępną rozpaczą.",
+          "pt-BR": "Proteção de cabeça de Gogmazios.\r\nSeus olhos, tendo testemunhado\r\na escuridão do mundo, queimam\r\nem desolação.",
+          "ko": "고그마지오스의 소재로 만든\r\n머리 방어구. 세상의 어둠을\r\n지켜본 눈동자에\r\n절망의 불씨가 튄다.",
+          "zh-Hant": "以巨戟龍素材製作的頭部防具。凝視\r\n世間幽冥的雙眼裡，絕望的熾火猛烈\r\n爆發。",
+          "zh-Hans": "使用巨戟龙素材制作的头部防具。\r\n始终凝视世间幽冥的双眸，迸溅出\r\n绝望的炽焰。",
+          "ar": "درع رأس (غوغمازيوس).\r\nوعيناه اللتان رأتا ظلام العالم\r\nتحترقان بمرارة اليأس.",
+          "es-419": "Armadura para la cabeza de Gogmazios.\r\nLos ojos, que vieron la oscuridad\r\ndel mundo, arden con desesperación."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          1
+        ],
+        "skills": {
+          "1489568384": 2,
+          "2106877312": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "748": 7,
+            "749": 3,
+            "754": 1
+          }
+        }
+      },
+      {
+        "kind": "chest",
+        "names": {
+          "ja": "ゴグメイルα",
+          "en": "Gogmazios Mail α",
+          "fr": "Cotte Gogmazios α",
+          "it": "Cotta Gogmazios α",
+          "de": "Gogmazios-Panzerung α",
+          "es": "Malla de Gogmazios α",
+          "ru": "Гогмазиосовый нагрудник α",
+          "pl": "Pancerz z Gogmaziosa α",
+          "pt-BR": "Armadura de Gogmazios α",
+          "ko": "고그메일α",
+          "zh-Hant": "巨戟龍鎧甲α",
+          "zh-Hans": "巨戟龙铠甲α",
+          "ar": "درع غوغمازيوس α",
+          "es-419": "Cota de Gogmazios α"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n胴防具。漆黒の冥界の使者は、\r\n背負いし業を大地に振りまく。",
+          "en": "Gogmazios chest armor. Like a\r\nchthonian messenger, it spreads\r\nits fell burden across the world.",
+          "fr": "Faite à base de Gogmazios.\r\nTelle un messager chthonien,\r\nelle déverse son cruel fardeau\r\nsur le monde.",
+          "it": "Protezione per il torace di\r\nGogmazios. Come un messaggero\r\nChthonian, diffonde il suo\r\ncrudele fardello nel mondo.",
+          "de": "Brustschutz aus Gogmazios-Teilen.\r\nWie der chthonische Botschafter\r\nverbreitet auch er seine Ver-\r\nderbnis auf der Welt.",
+          "es": "Armadura para el torso de\r\nGogmazios. Cual mensajero\r\nchthoniano, esparce su carga\r\ncaída por el mundo.",
+          "ru": "Нагрудный доспех из материалов\r\nс гогмазиоса. Его владелец, словно\r\nхтонический посланник, несёт\r\nчерез мир своё жуткое бремя.",
+          "pl": "Napierśnik z Gogmaziosa.\r\nNiczym chtoniczny posłaniec\r\nrozprzestrzenia swoje brzemię\r\npo całym świecie.",
+          "pt-BR": "Proteção de torso de Gogmazios.\r\nComo um mensageiro ctônico,\r\nele espalha seu fardo sombrio\r\npor todo o mundo.",
+          "ko": "고그마지오스의 소재로 만든\r\n몸통 방어구. 칠흑빛\r\n명계의 사신은 자신이\r\n짊어진 업을 대지에 뿌린다.",
+          "zh-Hant": "以巨戟龍素材製作的身體防具。漆黑\r\n冥界的使者向大地撒播背負的罪業。",
+          "zh-Hans": "使用巨戟龙素材制作的身体防具。\r\n漆黑冥界的使者，将所背负的罪业\r\n尽数挥洒于大地。",
+          "ar": "درع صدر (غوغمازيوس).\r\nكرسول آتٍ من أعماق الأرض المظلمة،\r\nيمد ثقله المروع على أرجاء العالم.",
+          "es-419": "Armadura para el pecho de Gogmazios.\r\nComo mensajero chthoniano,\r\nesparce su carga caída por el mundo."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          2
+        ],
+        "skills": {
+          "-1468066176": 1,
+          "-201445760": 1,
+          "634068352": 2,
+          "1174975744": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "750": 5,
+            "752": 6,
+            "755": 4
+          }
+        }
+      },
+      {
+        "kind": "arms",
+        "names": {
+          "ja": "ゴグアームα",
+          "en": "Gogmazios Vambraces α",
+          "fr": "Avant-bras Gogmazios α",
+          "it": "Parabraccia Gogmazios α",
+          "de": "Gogmazios-Armschutz α",
+          "es": "Brazales de Gogmazios α",
+          "ru": "Гогмазиосовые наручи α",
+          "pl": "Zarękawia z Gogmaziosa α",
+          "pt-BR": "Avambraços de Gogmazios α",
+          "ko": "고그암α",
+          "zh-Hant": "巨戟龍腕甲α",
+          "zh-Hans": "巨戟龙腕甲α",
+          "ar": "درع ساعد غوغمازيوس α",
+          "es-419": "Brazales de Gogmazios α"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n腕防具。その黒き指は陽光を握り\r\nつぶし、闇の帳が世界を覆う。",
+          "en": "Gogmazios armguards. Their\r\nblack claws smother daylight\r\nand shroud the world in\r\nblackness.",
+          "fr": "Faits à base de Gogmazios.\r\nLeurs griffes noires voilent\r\nla lumière et obscurcissent\r\nle monde.",
+          "it": "Parabraccia di Gogmazios.\r\nI loro artigli neri soffocano\r\nla luce del giorno e avvolgono\r\nil mondo nell'oscurità.",
+          "de": "Armschutz aus Gogmazios-Teilen.\r\nDie düsteren Klauen verfinstern\r\ndas Tageslicht und hüllen die\r\nWelt in tiefes Schwarz.",
+          "es": "Brazales de Gogmazios.\r\nSus oscuras garras apagan\r\nla luz del sol e inundan\r\nel mundo de oscuridad.",
+          "ru": "Наручи из материалов\r\nс гогмазиоса. Чёрные когти\r\nзаставляют померкнуть солнечный\r\nсвет, погружая мир во тьму.",
+          "pl": "Naramienniki z Gogmaziosa.\r\nIch czarne pazury tłumią światło\r\ni spowijają świat mrokiem.",
+          "pt-BR": "Proteção de braços de Gogmazios.\r\nSuas garras pretas recobrem a luz\r\ndo dia e envolvem o mundo em\r\nbreu.",
+          "ko": "고그마지오스의 소재로 만든\r\n팔 방어구. 그 검은 손가락이\r\n햇빛을 으스러뜨리고, 어두운\r\n장막이 세상을 뒤덮는다.",
+          "zh-Hant": "以巨戟龍素材製作的臂部防具。漆黑\r\n的手指捏碎陽光，黑夜的帷幕籠罩世\r\n界。",
+          "zh-Hans": "使用巨戟龙素材制作的臂部防具。\r\n漆黑的巨指将阳光掐灭，暗之帷幕\r\n笼罩世界。",
+          "ar": "واقيات أذرع (غوغمازيوس).\r\nمخالبها السوداء تخنق ضوء النهار\r\nوتلف العالم في ظلام دامس.",
+          "es-419": "Brazales de Gogmazios. Sus oscuras\r\ngarras apagan la luz del sol\r\ny envuelven el mundo en oscuridad."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          2,
+          1
+        ],
+        "skills": {
+          "-1768553344": 1,
+          "632127488": 2,
+          "1865909632": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "751": 2,
+            "753": 2,
+            "754": 1
+          }
+        }
+      },
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "ゴグコイルα",
+          "en": "Gogmazios Coil α",
+          "fr": "Tassette Gogmazios α",
+          "it": "Spira Gogmazios α",
+          "de": "Gogmazios-Hüftring α",
+          "es": "Faja de Gogmazios α",
+          "ru": "Гогмазиосовый пояс α",
+          "pl": "Pas z Gogmaziosa α",
+          "pt-BR": "Cinturão de Gogmazios α",
+          "ko": "고그코일α",
+          "zh-Hant": "巨戟龍腰甲α",
+          "zh-Hans": "巨戟龙腰甲α",
+          "ar": "لفيفة غوغمازيوس α",
+          "es-419": "Faja de Gogmazios α"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n腰防具。異形の使者は、夜陰に糸を\r\n巡らせ、獲物を手繰り寄せる。",
+          "en": "Gogmazios waistgear. Its tendrils\r\ncreep grotesquely across the\r\nnight, seizing control of prey.",
+          "fr": "Faite à base de Gogmazios.\r\nSes tentacules rampent\r\nde façon grotesque dans la\r\nnuit en quête de proies.",
+          "it": "Protezione per i fianchi di\r\nGogmazios. Le sue macabre\r\nradici strisciano nella notte,\r\nimpadronendosi delle prede.",
+          "de": "Hüftschutz aus Gogmazios-Teilen.\r\nDie furchtbaren Ranken\r\numschlingen die Nacht und\r\nergreifen Besitz von ihrer Beute.",
+          "es": "Cincho de Gogmazios.\r\nSus zarcillos se mueven\r\nlentamente en la noche y\r\ntoman el control de su presa.",
+          "ru": "Пояс из материалов с гогмазиоса.\r\nЩупальца причудливо сплетаются\r\nв ночи, обвивая жертву.",
+          "pl": "Pas z Gogmaziosa. Jego macki\r\ngroteskowo mkną przez noc,\r\nprzejmując kontrolę nad ofiarą.",
+          "pt-BR": "Proteção de cintura de Gogmazios.\r\nSeus tentáculos se arrastam\r\ngrotescamente noite adentro\r\npara capturar sua presa.",
+          "ko": "고그마지오스의 소재로 만든\r\n허리 방어구. 이형의 사신은\r\n밤 그늘에 실을 둘러\r\n사냥감을 끌어당긴다.",
+          "zh-Hant": "以巨戟龍素材製作的腰部防具。異形\r\n使者在夜色中布下絲線，牽引獵物至\r\n身邊。",
+          "zh-Hans": "使用巨戟龙素材制作的腰部防具。\r\n异形使者于夜幕之下编织丝网，将\r\n猎物拖拽至掌心。",
+          "ar": "عتاد خصر (غوغمازيوس).\r\nوخيوطه المشوهة تزحف كأطراف\r\nالليل نفسها، لتطبق على فرائسها\r\nبلا رحمة.",
+          "es-419": "Armadura para la cintura de Gogmazios.\r\nSus zarcillos se mueven repulsivamente\r\nen la noche y toman el control de su presa."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "skills": {
+          "565867136": 2,
+          "918165056": 1,
+          "2106877312": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "748": 6,
+            "753": 2,
+            "755": 5
+          }
+        }
+      },
+      {
+        "kind": "legs",
+        "names": {
+          "ja": "ゴググリーヴα",
+          "en": "Gogmazios Greaves α",
+          "fr": "Grèves Gogmazios α",
+          "it": "Schinieri Gogmazios α",
+          "de": "Gogmazios-Beinschutz α",
+          "es": "Grebas de Gogmazios α",
+          "ru": "Гогмазиосовые поножи α",
+          "pl": "Nagolenice z Gogmaziosa α",
+          "pt-BR": "Grevas de Gogmazios α",
+          "ko": "고그그리브α",
+          "zh-Hant": "巨戟龍護腿α",
+          "zh-Hans": "巨戟龙护腿α",
+          "ar": "درع ساق غوغمازيوس α",
+          "es-419": "Grebas de Gogmazios α"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n脚防具。地底に眠る冥界の使者は、\r\n黒き闇を滴らせ、大地を浸食する。",
+          "en": "Gogmazios leg armor. From\r\nbeneath the earth, it wells\r\nforth on a shadowy mission\r\nto devour the world.",
+          "fr": "Faites à base de Gogmazios.\r\nElles surgissent du sol\r\npour accomplir leur sombre\r\ndessein : dévorer le monde.",
+          "it": "Protezione per le gambe di\r\nGogmazios. Dalle profondità\r\ndella terra emerge con un oscuro\r\ncompito: divorare il mondo.",
+          "de": "Beinschutz aus Gogmazios-Teilen.\r\nDringt im Auftrag, die Welt zu\r\nverschlingen, aus dem Boden.",
+          "es": "Perneras de Gogmazios.\r\nDesde las profundidades de la\r\ntierra, se embarca en una oscura\r\nmisión para devorar el mundo.",
+          "ru": "Поножи из материалов\r\nс гогмазиоса. Тёмная подземная\r\nсущность рвётся исполнить своё\r\nпредназначение и поглотить мир.",
+          "pl": "Pancerz na nogi z Gogmaziosa.\r\nZ głębin ziemi wyrusza na\r\ntajemną misję pożarcia świata.",
+          "pt-BR": "Proteção de pernas de Gogmazios.\r\nDas profundezas da terra, embarca\r\nrumo a missão sombria de devorar\r\no mundo.",
+          "ko": "고그마지오스의 소재로 만든\r\n다리 방어구. 땅속에 잠든\r\n명계의 사신은 검은 어둠을\r\n떨어뜨려 대지를 잠식한다.",
+          "zh-Hant": "以巨戟龍素材製作的足部防具。沉眠\r\n於地底的冥界使者滴下漆黑暗影，侵\r\n蝕大地。",
+          "zh-Hans": "使用巨戟龙素材制作的脚部防具。\r\n长眠地底的冥界使者，垂泻着漆黑\r\n暗影，侵蚀大地。",
+          "ar": "درع ساق (غوغمازيوس).\r\nيخرج من باطن الأرض في مَهمة\r\nمظلمة، ليبتلع العالم في ظلاله.",
+          "es-419": "Armadura para la pierna de Gogmazios.\r\nDesde lo profundo de la tierra, se embarca\r\nen una oscura misión para devorar el mundo."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "skills": {
+          "-62248528": 1,
+          "1865909632": 1,
+          "2106877312": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "749": 4,
+            "751": 3,
+            "752": 5
+          }
+        }
+      }
+    ],
+    "model_id": 92
   },
   {
     "game_id": 3633,
@@ -20467,7 +21186,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -20529,7 +21248,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -20586,7 +21305,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -20644,7 +21363,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -20701,7 +21420,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -20727,6 +21446,373 @@
     "model_id": 70
   },
   {
+    "game_id": 4066,
+    "names": {
+      "ja": "ゴグβ",
+      "en": "Gogmazios β",
+      "fr": "Gogmazios β",
+      "it": "Gogmazios β",
+      "de": "Gogmazios-Set β",
+      "es": "Gogmazios β",
+      "ru": "Гогмазиосовый β",
+      "pl": "Gogmazios β",
+      "pt-BR": "Gogmazios β",
+      "ko": "고그β",
+      "zh-Hant": "巨戟β",
+      "zh-Hans": "巨戟龙β",
+      "ar": "غوغمازيوس β",
+      "es-419": "Gogmazios β"
+    },
+    "rarity": 8,
+    "set_bonus": {
+      "skill_id": -1432692352,
+      "ranks": [
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        }
+      ]
+    },
+    "group_bonus": null,
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "ゴグヘルムβ",
+          "en": "Gogmazios Helm β",
+          "fr": "Heaume Gogmazios β",
+          "it": "Elmo Gogmazios β",
+          "de": "Gogmazios-Helm β",
+          "es": "Yelmo de Gogmazios β",
+          "ru": "Гогмазиосовый шлем β",
+          "pl": "Hełm z Gogmaziosa β",
+          "pt-BR": "Elmo de Gogmazios β",
+          "ko": "고그헬름β",
+          "zh-Hant": "巨戟龍頭盔β",
+          "zh-Hans": "巨戟龙头盔β",
+          "ar": "خوذة غوغمازيوس β",
+          "es-419": "Casco de Gogmazios β"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n頭防具。世の冥きを見つめ続けた\r\n瞳に、絶望の熾火が爆ぜる。",
+          "en": "Gogmazios head armor. The\r\neyes, having seen the world's\r\ndarkness, burn with bleak\r\ndespair.",
+          "fr": "Fait à base de Gogmazios.\r\nSes yeux habitués à la noirceur\r\ndu monde brûlent de désespoir.",
+          "it": "Protezione per la testa di\r\nGogmazios. Gli occhi, testimoni\r\ndell'oscurità del mondo,\r\nardono di cupo tormento.",
+          "de": "Kopfschutz aus Gogmazios-Teilen.\r\nDie Augen, die die Finsternis der\r\nWelt erblickten, brennen mit dem\r\nFeuer freudloser Verzweiflung.",
+          "es": "Armadura para la cabeza de\r\nGogmazios. Los ojos, que han\r\nvisto la oscuridad del mundo,\r\narden de pura desesperación.",
+          "ru": "Головной убор из материалов\r\nс гогмазиоса. В глазах, узревших\r\nтьму мира, горит холодный огонь\r\nбеспросветного отчаяния.",
+          "pl": "Osłona głowy z Gogmaziosa.\r\nOczy, które widziały mrok świata,\r\npłoną posępną rozpaczą.",
+          "pt-BR": "Proteção de cabeça de Gogmazios.\r\nSeus olhos, tendo testemunhado\r\na escuridão do mundo, queimam\r\nem desolação.",
+          "ko": "고그마지오스의 소재로 만든\r\n머리 방어구. 세상의 어둠을\r\n지켜본 눈동자에\r\n절망의 불씨가 튄다.",
+          "zh-Hant": "以巨戟龍素材製作的頭部防具。凝視\r\n世間幽冥的雙眼裡，絕望的熾火猛烈\r\n爆發。",
+          "zh-Hans": "使用巨戟龙素材制作的头部防具。\r\n始终凝视世间幽冥的双眸，迸溅出\r\n绝望的炽焰。",
+          "ar": "درع رأس (غوغمازيوس).\r\nوعيناه اللتان رأتا ظلام العالم\r\nتحترقان بمرارة اليأس.",
+          "es-419": "Armadura para la cabeza de Gogmazios.\r\nLos ojos, que vieron la oscuridad\r\ndel mundo, arden con desesperación."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          1
+        ],
+        "skills": {
+          "1489568384": 2,
+          "2106877312": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "748": 7,
+            "749": 3,
+            "754": 1
+          }
+        }
+      },
+      {
+        "kind": "chest",
+        "names": {
+          "ja": "ゴグメイルβ",
+          "en": "Gogmazios Mail β",
+          "fr": "Cotte Gogmazios β",
+          "it": "Cotta Gogmazios β",
+          "de": "Gogmazios-Panzerung β",
+          "es": "Malla de Gogmazios β",
+          "ru": "Гогмазиосовый нагрудник β",
+          "pl": "Pancerz z Gogmaziosa β",
+          "pt-BR": "Armadura de Gogmazios β",
+          "ko": "고그메일β",
+          "zh-Hant": "巨戟龍鎧甲β",
+          "zh-Hans": "巨戟龙铠甲β",
+          "ar": "درع غوغمازيوس β",
+          "es-419": "Armadura de Gogmazios β"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n胴防具。漆黒の冥界の使者は、\r\n背負いし業を大地に振りまく。",
+          "en": "Gogmazios chest armor. Like a\r\nchthonian messenger, it spreads\r\nits fell burden across the world.",
+          "fr": "Faite à base de Gogmazios.\r\nTelle un messager chthonien,\r\nelle déverse son cruel fardeau\r\nsur le monde.",
+          "it": "Protezione per il torace di\r\nGogmazios. Come un messaggero\r\nChthonian, diffonde il suo\r\ncrudele fardello nel mondo.",
+          "de": "Brustschutz aus Gogmazios-Teilen.\r\nWie der chthonische Botschafter\r\nverbreitet auch er seine Ver-\r\nderbnis auf der Welt.",
+          "es": "Armadura para el torso de\r\nGogmazios. Cual mensajero\r\nchthoniano, esparce su carga\r\ncaída por el mundo.",
+          "ru": "Нагрудный доспех из материалов\r\nс гогмазиоса. Его владелец, словно\r\nхтонический посланник, несёт\r\nчерез мир своё жуткое бремя.",
+          "pl": "Napierśnik z Gogmaziosa.\r\nNiczym chtoniczny posłaniec\r\nrozprzestrzenia swoje brzemię\r\npo całym świecie.",
+          "pt-BR": "Proteção de torso de Gogmazios.\r\nComo um mensageiro ctônico,\r\nele espalha seu fardo sombrio\r\npor todo o mundo.",
+          "ko": "고그마지오스의 소재로 만든\r\n몸통 방어구. 칠흑빛\r\n명계의 사신은 자신이\r\n짊어진 업을 대지에 뿌린다.",
+          "zh-Hant": "以巨戟龍素材製作的身體防具。漆黑\r\n冥界的使者向大地撒播背負的罪業。",
+          "zh-Hans": "使用巨戟龙素材制作的身体防具。\r\n漆黑冥界的使者，将所背负的罪业\r\n尽数挥洒于大地。",
+          "ar": "درع صدر (غوغمازيوس).\r\nكرسول آتٍ من أعماق الأرض المظلمة،\r\nيمد ثقله المروع على أرجاء العالم.",
+          "es-419": "Armadura para el pecho de Gogmazios.\r\nComo mensajero chthoniano,\r\nesparce su carga caída por el mundo."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          2
+        ],
+        "skills": {
+          "-201445760": 1,
+          "-3666104": 1,
+          "634068352": 2,
+          "1174975744": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "750": 5,
+            "752": 6,
+            "755": 4
+          }
+        }
+      },
+      {
+        "kind": "arms",
+        "names": {
+          "ja": "ゴグアームβ",
+          "en": "Gogmazios Vambraces β",
+          "fr": "Avant-bras Gogmazios β",
+          "it": "Parabraccia Gogmazios β",
+          "de": "Gogmazios-Armschutz β",
+          "es": "Brazales de Gogmazios β",
+          "ru": "Гогмазиосовые наручи β",
+          "pl": "Zarękawia z Gogmaziosa β",
+          "pt-BR": "Avambraços de Gogmazios β",
+          "ko": "고그암β",
+          "zh-Hant": "巨戟龍腕甲β",
+          "zh-Hans": "巨戟龙腕甲β",
+          "ar": "درع ساعد غوغمازيوس β",
+          "es-419": "Brazales de Gogmazios β"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n腕防具。その黒き指は陽光を握り\r\nつぶし、闇の帳が世界を覆う。",
+          "en": "Gogmazios armguards. Their\r\nblack claws smother daylight\r\nand shroud the world in\r\nblackness.",
+          "fr": "Faits à base de Gogmazios.\r\nLeurs griffes noires voilent\r\nla lumière et obscurcissent\r\nle monde.",
+          "it": "Parabraccia di Gogmazios.\r\nI loro artigli neri soffocano\r\nla luce del giorno e avvolgono\r\nil mondo nell'oscurità.",
+          "de": "Armschutz aus Gogmazios-Teilen.\r\nDie düsteren Klauen verfinstern\r\ndas Tageslicht und hüllen die\r\nWelt in tiefes Schwarz.",
+          "es": "Brazales de Gogmazios.\r\nSus oscuras garras apagan\r\nla luz del sol e inundan\r\nel mundo de oscuridad.",
+          "ru": "Наручи из материалов\r\nс гогмазиоса. Чёрные когти\r\nзаставляют померкнуть солнечный\r\nсвет, погружая мир во тьму.",
+          "pl": "Naramienniki z Gogmaziosa.\r\nIch czarne pazury tłumią światło\r\ni spowijają świat mrokiem.",
+          "pt-BR": "Proteção de braços de Gogmazios.\r\nSuas garras pretas recobrem a luz\r\ndo dia e envolvem o mundo em\r\nbreu.",
+          "ko": "고그마지오스의 소재로 만든\r\n팔 방어구. 그 검은 손가락이\r\n햇빛을 으스러뜨리고, 어두운\r\n장막이 세상을 뒤덮는다.",
+          "zh-Hant": "以巨戟龍素材製作的臂部防具。漆黑\r\n的手指捏碎陽光，黑夜的帷幕籠罩世\r\n界。",
+          "zh-Hans": "使用巨戟龙素材制作的臂部防具。\r\n漆黑的巨指将阳光掐灭，暗之帷幕\r\n笼罩世界。",
+          "ar": "واقيات أذرع (غوغمازيوس).\r\nمخالبها السوداء تخنق ضوء النهار\r\nوتلف العالم في ظلام دامس.",
+          "es-419": "Brazales de Gogmazios. Sus oscuras\r\ngarras apagan la luz del sol\r\ny envuelven el mundo en oscuridad."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          2,
+          1
+        ],
+        "skills": {
+          "632127488": 2,
+          "741102208": 1,
+          "1865909632": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "751": 2,
+            "753": 2,
+            "754": 1
+          }
+        }
+      },
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "ゴグコイルβ",
+          "en": "Gogmazios Coil β",
+          "fr": "Tassette Gogmazios β",
+          "it": "Spira Gogmazios β",
+          "de": "Gogmazios-Hüftring β",
+          "es": "Faja de Gogmazios β",
+          "ru": "Гогмазиосовый пояс β",
+          "pl": "Pas z Gogmaziosa β",
+          "pt-BR": "Cinturão de Gogmazios β",
+          "ko": "고그코일β",
+          "zh-Hant": "巨戟龍腰甲β",
+          "zh-Hans": "巨戟龙腰甲β",
+          "ar": "لفيفة غوغمازيوس β",
+          "es-419": "Faja de Gogmazios β"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n腰防具。異形の使者は、夜陰に糸を\r\n巡らせ、獲物を手繰り寄せる。",
+          "en": "Gogmazios waistgear. Its tendrils\r\ncreep grotesquely across the\r\nnight, seizing control of prey.",
+          "fr": "Faite à base de Gogmazios.\r\nSes tentacules rampent\r\nde façon grotesque dans la\r\nnuit en quête de proies.",
+          "it": "Protezione per i fianchi di\r\nGogmazios. Le sue macabre\r\nradici strisciano nella notte,\r\nimpadronendosi delle prede.",
+          "de": "Hüftschutz aus Gogmazios-Teilen.\r\nDie furchtbaren Ranken\r\numschlingen die Nacht und\r\nergreifen Besitz von ihrer Beute.",
+          "es": "Cincho de Gogmazios.\r\nSus zarcillos se mueven\r\nlentamente en la noche y\r\ntoman el control de su presa.",
+          "ru": "Пояс из материалов с гогмазиоса.\r\nЩупальца причудливо сплетаются\r\nв ночи, обвивая жертву.",
+          "pl": "Pas z Gogmaziosa. Jego macki\r\ngroteskowo mkną przez noc,\r\nprzejmując kontrolę nad ofiarą.",
+          "pt-BR": "Proteção de cintura de Gogmazios.\r\nSeus tentáculos se arrastam\r\ngrotescamente noite adentro\r\npara capturar sua presa.",
+          "ko": "고그마지오스의 소재로 만든\r\n허리 방어구. 이형의 사신은\r\n밤 그늘에 실을 둘러\r\n사냥감을 끌어당긴다.",
+          "zh-Hant": "以巨戟龍素材製作的腰部防具。異形\r\n使者在夜色中布下絲線，牽引獵物至\r\n身邊。",
+          "zh-Hans": "使用巨戟龙素材制作的腰部防具。\r\n异形使者于夜幕之下编织丝网，将\r\n猎物拖拽至掌心。",
+          "ar": "عتاد خصر (غوغمازيوس).\r\nوخيوطه المشوهة تزحف كأطراف\r\nالليل نفسها، لتطبق على فرائسها\r\nبلا رحمة.",
+          "es-419": "Armadura para la cintura de Gogmazios.\r\nSus zarcillos se mueven repulsivamente\r\nen la noche y toman el control de su presa."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          2,
+          1,
+          1
+        ],
+        "skills": {
+          "-403054144": 1,
+          "565867136": 2,
+          "2106877312": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "748": 6,
+            "753": 2,
+            "755": 5
+          }
+        }
+      },
+      {
+        "kind": "legs",
+        "names": {
+          "ja": "ゴググリーヴβ",
+          "en": "Gogmazios Greaves β",
+          "fr": "Grèves Gogmazios β",
+          "it": "Schinieri Gogmazios β",
+          "de": "Gogmazios-Beinschutz β",
+          "es": "Grebas de Gogmazios β",
+          "ru": "Гогмазиосовые поножи β",
+          "pl": "Nagolenice z Gogmaziosa β",
+          "pt-BR": "Grevas de Gogmazios β",
+          "ko": "고그그리브β",
+          "zh-Hant": "巨戟龍護腿β",
+          "zh-Hans": "巨戟龙护腿β",
+          "ar": "درع ساق غوغمازيوس β",
+          "es-419": "Grebas de Gogmazios β"
+        },
+        "descriptions": {
+          "ja": "ゴグマジオスの素材で作られた\r\n脚防具。地底に眠る冥界の使者は、\r\n黒き闇を滴らせ、大地を浸食する。",
+          "en": "Gogmazios leg armor. From\r\nbeneath the earth, it wells\r\nforth on a shadowy mission\r\nto devour the world.",
+          "fr": "Faites à base de Gogmazios.\r\nElles surgissent du sol\r\npour accomplir leur sombre\r\ndessein : dévorer le monde.",
+          "it": "Protezione per le gambe di\r\nGogmazios. Dalle profondità\r\ndella terra emerge con un oscuro\r\ncompito: divorare il mondo.",
+          "de": "Beinschutz aus Gogmazios-Teilen.\r\nDringt im Auftrag, die Welt zu\r\nverschlingen, aus dem Boden.",
+          "es": "Perneras de Gogmazios.\r\nDesde las profundidades de la\r\ntierra, se embarca en una oscura\r\nmisión para devorar el mundo.",
+          "ru": "Поножи из материалов\r\nс гогмазиоса. Тёмная подземная\r\nсущность рвётся исполнить своё\r\nпредназначение и поглотить мир.",
+          "pl": "Pancerz na nogi z Gogmaziosa.\r\nZ głębin ziemi wyrusza na\r\ntajemną misję pożarcia świata.",
+          "pt-BR": "Proteção de pernas de Gogmazios.\r\nDas profundezas da terra, embarca\r\nrumo a missão sombria de devorar\r\no mundo.",
+          "ko": "고그마지오스의 소재로 만든\r\n다리 방어구. 땅속에 잠든\r\n명계의 사신은 검은 어둠을\r\n떨어뜨려 대지를 잠식한다.",
+          "zh-Hant": "以巨戟龍素材製作的足部防具。沉眠\r\n於地底的冥界使者滴下漆黑暗影，侵\r\n蝕大地。",
+          "zh-Hans": "使用巨戟龙素材制作的脚部防具。\r\n长眠地底的冥界使者，垂泻着漆黑\r\n暗影，侵蚀大地。",
+          "ar": "درع ساق (غوغمازيوس).\r\nيخرج من باطن الأرض في مَهمة\r\nمظلمة، ليبتلع العالم في ظلاله.",
+          "es-419": "Armadura para la pierna de Gogmazios.\r\nDesde lo profundo de la tierra, se embarca\r\nen una oscura misión para devorar el mundo."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -4,
+          "water": 3,
+          "thunder": 0,
+          "ice": 3,
+          "dragon": -5
+        },
+        "slots": [
+          3,
+          2,
+          1
+        ],
+        "skills": {
+          "-418246240": 1,
+          "1865909632": 1,
+          "2106877312": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "747": 1,
+            "749": 4,
+            "751": 3,
+            "752": 5
+          }
+        }
+      }
+    ],
+    "model_id": 92
+  },
+  {
     "game_id": 4129,
     "names": {
       "ja": "剣豪の隻眼",
@@ -20749,6 +21835,100 @@
     "group_bonus": null,
     "pieces": [],
     "model_id": 65
+  },
+  {
+    "game_id": 4744,
+    "names": {
+      "ja": "はりきりモリバーα",
+      "en": "Eager Wudwud α",
+      "fr": "Wudwud volontaire α",
+      "it": "Wudwud impaziente α",
+      "de": "Eifriger Wudwud α",
+      "es": "Wudwud fogoso α",
+      "ru": "Пытливый вудвуд α",
+      "pl": "Ciekawski Leśniak α",
+      "pt-BR": "Wudwud Ávido α",
+      "ko": "기운찬 모리바α",
+      "zh-Hant": "活力莫利巴α",
+      "zh-Hans": "精力充沛森狸人α",
+      "ar": "وودوود متلهف α",
+      "es-419": "Wudwud ansioso α"
+    },
+    "rarity": 8,
+    "set_bonus": null,
+    "group_bonus": {
+      "skill_id": 1998066176,
+      "ranks": [
+        {
+          "pieces": 3,
+          "skill_level": 1
+        }
+      ]
+    },
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "はりきりモリバーα",
+          "en": "Eager Wudwud α",
+          "fr": "Wudwud volontaire α",
+          "it": "Wudwud impaziente α",
+          "de": "Eifriger Wudwud α",
+          "es": "Wudwud fogoso α",
+          "ru": "Пытливый вудвуд α",
+          "pl": "Ciekawski Leśniak α",
+          "pt-BR": "Wudwud Ávido α",
+          "ko": "기운찬 모리바α",
+          "zh-Hant": "活力莫利巴α",
+          "zh-Hans": "精力充沛森狸人α",
+          "ar": "وودوود متلهف α",
+          "es-419": "Wudwud ansioso α"
+        },
+        "descriptions": {
+          "ja": "ハンターが持つオキニイリの逸品に\r\n釣られてよじ登ってきたモリバー。\r\n思うまま、行きたい方へ指をさす。",
+          "en": "Lured by the likey-like you had,\r\na curious Wudwud has clambered\r\nalong for a ride, pointing the\r\nway it wants to go.",
+          "fr": "Attiré par votre précis-précieux,\r\nun Wudwud curieux s'est joint\r\nà vous et vous indique la direction\r\noù il souhaite aller.",
+          "it": "Attirato dal tuo armamentario,\r\nun curioso Wudwud ci si è\r\narrampicato sopra, indicando la\r\ndirezione in cui vuole andare.",
+          "de": "Ein vom Glanz deines „Schluck-\r\nschmücks“ betörter Wudwud,\r\nder weiß, wo’s langgeht!",
+          "es": "Atraído por eso tan chulo que\r\ntienes, un curioso Wudwud se te\r\nha subido encima y señala\r\nel camino que quiere seguir.",
+          "ru": "Любопытный вудвуд заприметил\r\nу вас любимку и теперь\r\nпутешествует вместе с вами,\r\nуказывая, куда он хочет попасть.",
+          "pl": "Zbawiony ulubionkiem, ciekawski\r\nLeśniak wspiął się na\r\nprzejażdżkę i wskazuje kierunek,\r\nw którym chce jechać.",
+          "pt-BR": "Atraído pela interessantesa que\r\nvocê tinha, um Wudwud curioso\r\ndeu um jeito de te acompanhar na\r\nviagem, apontando aonde quer ir.",
+          "ko": "헌터가 애용하는 걸작품에\r\n이끌려 올라온 모리바.\r\n자신의 의지대로\r\n가고 싶은 방향을 가리킨다.",
+          "zh-Hant": "莫利巴被獵人拿著的珍愛精品吸引而\r\n爬到頭上。牠會隨心所欲地指向想去\r\n的地方。",
+          "zh-Hans": "森狸人被猎人持有的精品收藏吸引\r\n而攀附头上，它会随心指向自己想\r\n去的方向。",
+          "ar": "مفتونًا بما لديكَ من خردة،\r\nرافقكَ (وودوود) فضولي في رحلتكَ،\r\nمشيرًا إلى الطريق الذي يريد\r\nأن يسلكه.",
+          "es-419": "Atraído por eso tan lindo que\r\ntenías, un curioso Wudwud\r\nse subió al carro y señala\r\nel camino que quiere seguir."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": 2,
+          "dragon": 2
+        },
+        "slots": [],
+        "skills": {
+          "-593005376": 2,
+          "-481419552": 3,
+          "192746944": 2
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "661": 3,
+            "704": 2,
+            "728": 1,
+            "801": 3
+          }
+        }
+      }
+    ],
+    "model_id": 101
   },
   {
     "game_id": 5330,
@@ -20816,7 +21996,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -20878,7 +22058,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -20940,7 +22120,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -21002,7 +22182,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -21063,7 +22243,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -21150,7 +22330,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 3,
@@ -21237,7 +22417,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -21393,7 +22573,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -21453,7 +22633,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -21513,7 +22693,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -21572,7 +22752,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -21631,7 +22811,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -21718,7 +22898,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -21805,7 +22985,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 2,
@@ -21900,7 +23080,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -21965,7 +23145,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -22054,7 +23234,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -22165,7 +23345,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -22258,7 +23438,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -22365,7 +23545,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -22426,7 +23606,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -22489,7 +23669,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -22551,7 +23731,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -22614,7 +23794,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -22641,6 +23821,93 @@
       }
     ],
     "model_id": 66
+  },
+  {
+    "game_id": 12528,
+    "names": {
+      "ja": "祝福の腰飾りα",
+      "en": "Blessed Waistchain α",
+      "fr": "Tassette bénie α",
+      "it": "Catena benedetta α",
+      "de": "Gesegnete Bauchkette α",
+      "es": "Cadena de cintura bendita α",
+      "ru": "Благословлённая цепь α",
+      "pl": "Błog. ozdoba na pas α",
+      "pt-BR": "Correntes Abençoadas α",
+      "ko": "축복의 허리장식α",
+      "zh-Hant": "祝福腰飾α",
+      "zh-Hans": "祝福腰饰α",
+      "ar": "سلسلة خصر مباركة α",
+      "es-419": "Cadena para cintura bendita α"
+    },
+    "rarity": 8,
+    "set_bonus": null,
+    "group_bonus": null,
+    "pieces": [
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "祝福の腰飾りα",
+          "en": "Blessed Waistchain α",
+          "fr": "Tassette bénie α",
+          "it": "Catena benedetta α",
+          "de": "Gesegnete Bauchkette α",
+          "es": "Cadena de cintura bendita α",
+          "ru": "Благословлённая цепь α",
+          "pl": "Błog. ozdoba na pas α",
+          "pt-BR": "Correntes Abençoadas α",
+          "ko": "축복의 허리장식α",
+          "zh-Hant": "祝福腰飾α",
+          "zh-Hans": "祝福腰饰α",
+          "ar": "سلسلة خصر مباركة α",
+          "es-419": "Cadena para cintura bendita α"
+        },
+        "descriptions": {
+          "ja": "狩りの安全と弥栄を祝う腰防具。\r\n一つ一つに祝福と加護がこめられた\r\n鎖が、丁寧に編み込まれている。",
+          "en": "Waist protection said to bring\r\nhunters safety and prosperity,\r\neach link woven a blessing.",
+          "fr": "Elle apporte protection et\r\nprospérité aux Chasseurs,\r\nchaque lien tissé étant \r\nune bénédiction.",
+          "it": "Protezione per i fianchi\r\nintessuta di benedizioni. \r\nSi dice porti sicurezza e\r\nprosperità ai cacciatori.",
+          "de": "Ein Hüftschütz mit der Kraft,\r\nJägern Schutz und Wohlstand zu\r\nspenden. In jedes Kettenglied ist\r\nein Segen eingearbeitet.",
+          "es": "Protección para la cintura que\r\nimbuye a los cazadores de\r\nseguridad y prosperidad, cada\r\nvínculo unido como una bendición.",
+          "ru": "Каждое звено этого пояса несёт\r\nна себе благословение. Говорят,\r\nон не только защищает владельца,\r\nно также дарует ему благополучие.",
+          "pl": "Ochrona na pas, która ma\r\nzapewniać łowcom dobrobyt\r\ni bezpieczeństwo, przepełniona\r\nbłogosławieństwem.",
+          "pt-BR": "Proteção de cintura que dizem\r\ntrazer segurança e prosperidade\r\naos caçadores, com bençãos\r\nentrelaçadas em cada elo.",
+          "ko": "안전한 사냥과 번영을 기원하는\r\n허리 방어구. 한 올 한 올에\r\n축복과 가호가 담긴 사슬로\r\n정성스럽게 짜여 있다.",
+          "zh-Hant": "祝福狩獵平安與昌盛的腰部防具。\r\n細緻地編織的每一條鎖鏈蘊含祝福\r\n與守護。",
+          "zh-Hans": "为庆贺狩猎平安与兴旺制成的腰部\r\n防具。每一环交织的锁链中，皆精\r\n心编入了虔诚的祝福与保佑。",
+          "ar": "حماية خصر، كل حلقة منها\r\nمنسوجة كأنها دعاء مبارك،\r\nتهدي الصيادين الأمان والرخاء.",
+          "es-419": "Protección para la cintura que\r\nlleva seguridad y prosperidad\r\na los cazadores, cada vínculo\r\nunido como una bendición."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 0,
+          "ice": -2,
+          "dragon": 3
+        },
+        "slots": [
+          3
+        ],
+        "skills": {
+          "-1689391744": 4,
+          "1346775424": 3
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "408": 3,
+            "558": 3,
+            "661": 2,
+            "776": 2
+          }
+        }
+      }
+    ],
+    "model_id": 102
   },
   {
     "game_id": 15655,
@@ -22720,7 +23987,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -22778,7 +24045,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -22838,7 +24105,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -22899,7 +24166,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -22960,7 +24227,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -22986,6 +24253,361 @@
       }
     ],
     "model_id": 69
+  },
+  {
+    "game_id": 15894,
+    "names": {
+      "ja": "ダハディラγ",
+      "en": "Dahaad γ",
+      "fr": "Jin Dahaad γ",
+      "it": "Dahaad γ",
+      "de": "Jin-Dahaad-Set γ",
+      "es": "Dahaad γ",
+      "ru": "Дахаадовый γ",
+      "pl": "Dahaad γ",
+      "pt-BR": "Dahaad γ",
+      "ko": "다하딜라γ",
+      "zh-Hant": "凍峰龍γ",
+      "zh-Hans": "冻峰龙γ",
+      "ar": "دهاد γ",
+      "es-419": "Dahaad γ"
+    },
+    "rarity": 8,
+    "set_bonus": {
+      "skill_id": -215826112,
+      "ranks": [
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        }
+      ]
+    },
+    "group_bonus": {
+      "skill_id": 1484575872,
+      "ranks": [
+        {
+          "pieces": 3,
+          "skill_level": 1
+        }
+      ]
+    },
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "ダハディラヘルムγ",
+          "en": "Dahaad Shardhelm γ",
+          "fr": "Heaume Jin Dahaad γ",
+          "it": "Elmo Dahaad γ",
+          "de": "Dahaad-Helm γ",
+          "es": "Yelmo esquirla Dahaad γ",
+          "ru": "Дахаадовый шлем льда γ",
+          "pl": "Odłamkoh. z Dahaada γ",
+          "pt-BR": "Elmo de Dahaad γ",
+          "ko": "다하딜라헬름γ",
+          "zh-Hant": "凍峰龍頭盔γ",
+          "zh-Hans": "冻峰龙头盔γ",
+          "ar": "خوذة شظايا دهاد γ",
+          "es-419": "Casco de frag. de Dahaad γ"
+        },
+        "descriptions": {
+          "ja": "特別なジン・ダハドの素材で作ら\r\nれた頭防具。白く輝く兜が、\r\n歴戦の王に相応しき威厳を示す。",
+          "en": "Head armor made from special\r\nJin Dahaad materials. The shining\r\nwhite helm evokes the dignity of\r\nthe Arch-tempered.",
+          "fr": "Fait à base de matériaux\r\nJin Dahaad spéciaux. Ce casque\r\nblanc brillant évoque la dignité\r\nde l'alpha suprême.",
+          "it": "Protezione per la testa fatta\r\ndi materiali di Jin Dahaad.\r\nIl fulgido elmo bianco evoca\r\nla dignità dell'arcitemprato.",
+          "de": "Kopfschutz aus besonderem Jin-\r\nDahaad-Material. Der grellweiße\r\nHelm unterstreicht die Würde\r\ndes Kampfgehärteten.",
+          "es": "Armadura para la cabeza hecha\r\ncon materiales de Jin Dahaad.\r\nEl brillante yelmo blanco evoca\r\nla dignidad del hipercurtido.",
+          "ru": "Головной доспех из особых\r\nматериалов с джина дахаада.\r\nСияющая белизна напоминает о\r\nвеличии архизакалённого монстра.",
+          "pl": "Osłona głowy ze specjalnych\r\nmateriałów z Jin Dahaada. Lśniący\r\nbiały hełm przywodzi na myśl\r\ndostojność arcyzahartowanego.",
+          "pt-BR": "Proteção de cabeça feita de\r\nmateriais especiais de Jin Dahaad.\r\nO elmo alabastrino evoca a\r\ndignidade do Arquiaguerrido.",
+          "ko": "특별한 진 다하드의 소재로\r\n만든 머리 방어구. 하얗게\r\n빛나는 투구가 역전의 왕다운\r\n위엄을 드러낸다.",
+          "zh-Hant": "以特別的凍峰龍素材製作的頭部\r\n防具。閃耀白光的頭盔呈現出與\r\n歷戰王者相襯的威嚴。",
+          "zh-Hans": "使用特殊的冻峰龙素材制作的头部\r\n防具。散发白色光辉的头盔彰显着\r\n历战王者应有的凛凛威严。",
+          "ar": "درع رأس مصنوع من مواد\r\n(جين دهاد) خاصة، تستحضر\r\nالخوذة البيضاء اللامعة\r\nوقار شديد الغضب.",
+          "es-419": "Armadura para la cabeza hecha\r\ncon materiales especiales de Jin\r\nDahaad. El brillante casco blanco\r\nevoca la dignidad del hipercurtido."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -3,
+          "water": 2,
+          "thunder": -1,
+          "ice": 2,
+          "dragon": -1
+        },
+        "slots": [
+          3,
+          3
+        ],
+        "skills": {
+          "27684744": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "419": 6,
+            "423": 3,
+            "424": 1,
+            "761": 1
+          }
+        }
+      },
+      {
+        "kind": "chest",
+        "names": {
+          "ja": "ダハディラメイルγ",
+          "en": "Dahaad Shardmail γ",
+          "fr": "Cotte Jin Dahaad γ",
+          "it": "Cotta Dahaad γ",
+          "de": "Dahaad-Panzerung γ",
+          "es": "Cota esquirla Dahaad γ",
+          "ru": "Дахаадовый доспех льда γ",
+          "pl": "Odłamkozb. z Dahaada γ",
+          "pt-BR": "Armadura de Dahaad γ",
+          "ko": "다하딜라메일γ",
+          "zh-Hant": "凍峰龍鎧甲γ",
+          "zh-Hans": "冻峰龙铠甲γ",
+          "ar": "درع شظايا دهاد γ",
+          "es-419": "Cota de frag. de Dahaad γ"
+        },
+        "descriptions": {
+          "ja": "特別なジン・ダハドの素材で作ら\r\nれた胴防具。白く輝く多層装甲が、\r\n歴戦の王に相応しき勇猛を示す。",
+          "en": "Chest armor made from special\r\nJin Dahaad materials. The shining\r\nwhite polyplating evokes the\r\nvalor of the Arch-tempered.",
+          "fr": "Faite à base de matériaux\r\nJin Dahaad spéciaux. Le revêtement\r\nblanc brillant évoque la vaillance\r\nde l'alpha suprême.",
+          "it": "Protezione per il torace fatta\r\ndi materiali di Jin Dahaad.\r\nLa fulgida corazza bianca evoca\r\nil valore dell'arcitemprato.",
+          "de": "Brustschutz aus besonderem Jin-\r\nDahaad-Material. Die grellweiße\r\nPolyplattierung unterstreicht den\r\nMut des Kampfgehärteten.",
+          "es": "Armadura para el torso hecha\r\ncon materiales de Jin Dahaad.\r\nEl brillante policromado blanco\r\nevoca el valor del hipercurtido.",
+          "ru": "Нагрудный доспех из особых\r\nматериалов с джина дахаада.\r\nСияющая белизна напоминает об\r\nотваге архизакалённого монстра.",
+          "pl": "Napierśnik ze specjalnych\r\nmateriałów z Jin Dahaada. Lśniące\r\nbiałe powłoki przywodzą na myśl\r\nwaleczność arcyzahartowanego.",
+          "pt-BR": "Proteção de torso feita de\r\nmateriais especiais de Jin Dahaad.\r\nAs placas alabastrinas evocam\r\no valor do Arquiaguerrido.",
+          "ko": "특별한 진 다하드의 소재로\r\n만든 몸통 방어구. 하얗게\r\n빛나는 다층 장갑이 역전의\r\n왕다운 용맹함을 드러낸다.",
+          "zh-Hant": "以特別的凍峰龍素材製作的身體\r\n防具。閃耀白光的多層裝甲呈現\r\n出與歷戰王者相襯的勇氣。",
+          "zh-Hans": "使用特殊的冻峰龙素材制作的身体\r\n防具。散发白色光辉的多层装甲彰\r\n显着历战王者无双的勇猛。",
+          "ar": "درع صدر مصنوع من مواد\r\n(جين دهاد) خاصة، تستحضر\r\nالصفائح البيضاء اللامعة\r\nبسالة شديد الغضب.",
+          "es-419": "Armadura para el pecho hecha con\r\nmateriales especiales de Jin Dahaad.\r\nEl brillante policromado blanco\r\nevoca el valor del hipercurtido."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -3,
+          "water": 2,
+          "thunder": -1,
+          "ice": 2,
+          "dragon": -1
+        },
+        "slots": [
+          2,
+          2
+        ],
+        "skills": {
+          "1865909632": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "420": 6,
+            "422": 3,
+            "707": 2,
+            "761": 1
+          }
+        }
+      },
+      {
+        "kind": "arms",
+        "names": {
+          "ja": "ダハディラアームγ",
+          "en": "Dahaad Shardbraces γ",
+          "fr": "Avant-bras Jin Dahaad γ",
+          "it": "Parabraccia Dahaad γ",
+          "de": "Dahaad-Armschutz γ",
+          "es": "Brazales esquirla Dahaad γ",
+          "ru": "Дахаадовые наручи льда γ",
+          "pl": "Odłamkozar. z Dahaada γ",
+          "pt-BR": "Braçadeiras de Dahaad γ",
+          "ko": "다하딜라암γ",
+          "zh-Hant": "凍峰龍腕甲γ",
+          "zh-Hans": "冻峰龙腕甲γ",
+          "ar": "درع ساعد شظايا دهاد γ",
+          "es-419": "Brazales de frag. de Dahaad γ"
+        },
+        "descriptions": {
+          "ja": "特別なジン・ダハドの素材で作ら\r\nれた腕防具。白く輝く籠手が、\r\n歴戦の王に相応しき覇気を示す。",
+          "en": "Armguards made from special\r\nJin Dahaad materials. The shining\r\nwhite gauntlets evoke the\r\nambition of the Arch-tempered.",
+          "fr": "Faits à base de matériaux\r\nJin Dahaad spéciaux. Ces gantelets\r\nblancs brillants évoquent\r\nl'ambition de l'alpha suprême.",
+          "it": "Parabraccia fatti di materiali\r\ndi Jin Dahaad. I fulgidi\r\nguanti bianchi evocano\r\nl'ambizione dell'arcitemprato.",
+          "de": "Armschutz aus besonderem Jin-\r\nDahaad-Material. Die grellweißen\r\nHandschuhe unterstreichen den\r\nEhrgeiz des Kampfgehärteten.",
+          "es": "Brazales hechos con materiales\r\nde Jin Dahaad. Los brazales\r\nblancos evocan la ambición\r\ndel hipercurtido.",
+          "ru": "Наручи из особых материалов\r\nс джина дахаада. Сияющая белизна\r\nнапоминает об устремлениях\r\nархизакалённого монстра.",
+          "pl": "Ochraniacze ze specjalnych\r\nmateriałów z Jin Dahaada. Lśniące\r\nbiałe rękawice przywodzą na myśl\r\nambicję arcyzahartowanego.",
+          "pt-BR": "Proteção de braços feita de\r\nmateriais especiais de Jin Dahaad.\r\nAs manoplas alabastrinas evocam\r\na ambição do Arquiaguerrido.",
+          "ko": "특별한 진 다하드의 소재로\r\n만든 팔 방어구. 하얗게\r\n빛나는 팔 보호대가 역전의\r\n왕다운 패기를 드러낸다.",
+          "zh-Hant": "以特別的凍峰龍素材製作的臂部\r\n防具。閃耀白光的腕甲呈現出與\r\n歷戰王者相襯的霸氣。",
+          "zh-Hans": "使用特殊的冻峰龙素材制作的臂部\r\n防具。散发白色光辉的护手彰显着\r\n历战王者无双的霸气。",
+          "ar": "واقيات أذرع مصنوعة من مواد\r\n(جين دهاد) خاصة. يثير\r\nالقفاز الأبيض اللامع\r\nطموح شديد الغضب.",
+          "es-419": "Brazales hechos con materiales\r\nespeciales de Jin Dahaad.\r\nLos brillantes brazales blancos\r\nevocan la ambición del hipercurtido."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -3,
+          "water": 2,
+          "thunder": -1,
+          "ice": 2,
+          "dragon": -1
+        },
+        "slots": [
+          2
+        ],
+        "skills": {
+          "-1700743296": 3,
+          "-397570464": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "423": 3,
+            "698": 3,
+            "707": 3,
+            "761": 1
+          }
+        }
+      },
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "ダハディラコイルγ",
+          "en": "Dahaad Shardcoil γ",
+          "fr": "Tassette Jin Dahaad γ",
+          "it": "Spira Dahaad γ",
+          "de": "Dahaad-Hüftring γ",
+          "es": "Faja esquirla Dahaad γ",
+          "ru": "Дахаадовый пояс льда γ",
+          "pl": "Odłamkopas z Dahaada γ",
+          "pt-BR": "Cinturão de Dahaad γ",
+          "ko": "다하딜라코일γ",
+          "zh-Hant": "凍峰龍腰甲γ",
+          "zh-Hans": "冻峰龙腰甲γ",
+          "ar": "لفيفة شظايا دهاد γ",
+          "es-419": "Faja de frag. de Dahaad γ"
+        },
+        "descriptions": {
+          "ja": "特別なジン・ダハドの素材で作ら\r\nれた腰防具。白く輝く装飾が、\r\n歴戦の王に相応しき不屈を示す。",
+          "en": "Waist armor made from special\r\nJin Dahaad materials. The shining\r\nwhite ornamentation evokes the\r\nfortitude of the Arch-tempered.",
+          "fr": "Faite à base de matériaux\r\nJin Dahaad spéciaux. La décoration\r\nblanche brillante évoque\r\nle courage de l'alpha suprême.",
+          "it": "Protezione per i fianchi fatta\r\ndi materiali di Jin Dahaad.\r\nIl fulgido fregio bianco evoca\r\nla fermezza dell'arcitemprato.",
+          "de": "Hüftschutz aus besonderem Jin-\r\nDahaad-Material. Die grellweiße\r\nVerzierung unterstreicht die\r\nStärke des Kampfgehärteten.",
+          "es": "Cincho hecho con materiales\r\nde Jin Dahaad. La brillante\r\nornamentación blanca evoca\r\nla templanza del hipercurtido.",
+          "ru": "Пояс из особых материалов\r\nс джина дахаада. Сияющая\r\nбелизна напоминает о стойкости\r\nархизакалённого монстра.",
+          "pl": "Pas ze specjalnych materiałów\r\nz Jin Dahaada. Lśniące białe\r\nzdobienia przywodzą na myśl\r\nwaleczność arcyzahartowanego.",
+          "pt-BR": "Proteção de cintura feita de\r\nmateriais especiais de Jin Dahaad.\r\nOs adornos alabastrinos evocam\r\na resiliência do Arquiaguerrido.",
+          "ko": "특별한 진 다하드의 소재로\r\n만든 허리 방어구. 하얗게\r\n빛나는 장식이 역전의 왕다운\r\n불굴의 의지를 드러낸다.",
+          "zh-Hant": "以特別的凍峰龍素材製作的腰部\r\n防具。閃耀白光的裝飾呈現出與\r\n歷戰王者相襯的不屈意志。",
+          "zh-Hans": "使用特殊的冻峰龙素材制作的腰部\r\n防具。散发白色光辉的装饰彰显着\r\n历战王者的百折不挠。",
+          "ar": "درع خصر مصنوع من مواد\r\n(جين دهاد) خاصة، تستحضر\r\nالزخارف البيضاء اللامعة\r\nثبات شديد الغضب.",
+          "es-419": "Armadura para la cintura hecha con\r\nmateriales especiales de Jin Dahaad.\r\nLa brillante ornamentación blanca\r\nevoca la fortaleza del hipercurtido."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -3,
+          "water": 2,
+          "thunder": -1,
+          "ice": 2,
+          "dragon": -1
+        },
+        "slots": [
+          1
+        ],
+        "skills": {
+          "1865909632": 3,
+          "1966172160": 2
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "421": 3,
+            "422": 4,
+            "424": 1,
+            "761": 1
+          }
+        }
+      },
+      {
+        "kind": "legs",
+        "names": {
+          "ja": "ダハディラグリーヴγ",
+          "en": "Dahaad Shardgreaves γ",
+          "fr": "Grèves Jin Dahaad γ",
+          "it": "Schinieri Dahaad γ",
+          "de": "Dahaad-Beinschutz γ",
+          "es": "Grebas esquirla Dahaad γ",
+          "ru": "Дахаадовые поножи льда γ",
+          "pl": "Odłamkonag. z Dahaada γ",
+          "pt-BR": "Grevas de Dahaad γ",
+          "ko": "다하딜라그리브γ",
+          "zh-Hant": "凍峰龍護腿γ",
+          "zh-Hans": "冻峰龙护腿γ",
+          "ar": "درع ساق شظايا دهاد γ",
+          "es-419": "Grebas de frag. de Dahaad γ"
+        },
+        "descriptions": {
+          "ja": "特別なジン・ダハドの素材で作ら\r\nれた脚防具。白く輝く脛当てが、\r\n歴戦の王に相応しき孤高を示す。",
+          "en": "Leg armor made from special\r\nJin Dahaad materials. The shining\r\nwhite greaves evoke the\r\nautonomy of the Arch-tempered.",
+          "fr": "Faites à base de matériaux\r\nJin Dahaad spéciaux. Ces grèves\r\nblanches brillantes évoquent\r\nl'indépendance de l'alpha suprême.",
+          "it": "Protezione per le gambe fatta di\r\nmateriali di Jin Dahaad. I fulgidi\r\nschinieri bianchi evocano\r\nla fermezza dell'arcitemprato.",
+          "de": "Beinschutz aus besonderem Jin-\r\nDahaad-Material. Das strahlende\r\nWeiß unterstreicht das Können\r\ndes Kampfgehärteten.",
+          "es": "Perneras hechas con materiales\r\nde Jin Dahaad. Las brillantes\r\ngrebas blancas evocan\r\nla autonomía del hipercurtido.",
+          "ru": "Поножи из особых материалов\r\nс джина дахаада. Сияющая белизна\r\nнапоминает о свободолюбии\r\nархизакалённого монстра.",
+          "pl": "Pancerz na nogi ze specjalnych\r\nmateriałów z Jin Dahaada. Lśniące\r\nbiałe nagolenice przywodzą na\r\nmyśl autonomię arcyzahartowanego.",
+          "pt-BR": "Proteção de pernas feita de\r\nmateriais especiais de Jin Dahaad.\r\nAs grevas alabastrinas evocam\r\na autonomia do Arquiaguerrido.",
+          "ko": "특별한 진 다하드의 소재로\r\n만든 다리 방어구. 하얗게\r\n빛나는 정강이 보호대가 역전의\r\n왕다운 고고함을 드러낸다.",
+          "zh-Hant": "以特別的凍峰龍素材製作的足部\r\n防具。閃耀白光的脛甲呈現出與\r\n歷戰王者相襯的孤高姿態。",
+          "zh-Hans": "使用特殊的冻峰龙素材制作的脚部\r\n防具。散发白色光辉的护腿彰显着\r\n历战王者的孤高。",
+          "ar": "درع ساق مصنوع من مواد\r\n(جين دهاد) خاصة، تستحضر\r\nدروع السيقان البيضاء اللامعة\r\nاستقلالية شديد الغضب.",
+          "es-419": "Armadura para la pierna hecha con\r\nmateriales especiales de Jin Dahaad.\r\nLas brillantes grebas blancas evocan\r\nla autonomía del hipercurtido."
+        },
+        "defense": {
+          "base": 68,
+          "max": 88
+        },
+        "resistances": {
+          "fire": -3,
+          "water": 2,
+          "thunder": -1,
+          "ice": 2,
+          "dragon": -1
+        },
+        "slots": [
+          2
+        ],
+        "skills": {
+          "-397570464": 2,
+          "27684744": 1
+        },
+        "crafting": {
+          "price": 12000,
+          "inputs": {
+            "92": 2,
+            "419": 6,
+            "420": 4,
+            "761": 1
+          }
+        }
+      }
+    ],
+    "model_id": 29
   },
   {
     "game_id": 16428,
@@ -23045,7 +24667,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23141,7 +24763,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -2,
@@ -23245,7 +24867,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -23339,7 +24961,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23403,7 +25025,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23466,7 +25088,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23530,7 +25152,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23592,7 +25214,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 2,
@@ -23724,7 +25346,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 5,
@@ -23787,7 +25409,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 5,
@@ -23849,7 +25471,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 5,
@@ -23912,7 +25534,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 5,
@@ -23974,7 +25596,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 5,
@@ -24070,7 +25692,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -24132,7 +25754,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -24195,7 +25817,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -24258,7 +25880,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -24321,7 +25943,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -24361,7 +25983,7 @@
       "de": "Flausche-Ohren",
       "es": "Orejas peluditas",
       "ru": "Пушистые уши",
-      "pl": "Puchate uszy",
+      "pl": "Puszyste uszka",
       "pt-BR": "Orelhas Fofinhas",
       "ko": "복슬복슬 고양이귀",
       "zh-Hant": "毛茸茸獸耳",
@@ -24453,7 +26075,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -24516,7 +26138,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -24580,7 +26202,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -24642,7 +26264,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -24706,7 +26328,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -24813,7 +26435,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -24877,7 +26499,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -24938,7 +26560,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -25000,7 +26622,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -25062,7 +26684,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -25163,7 +26785,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 2,
@@ -25226,7 +26848,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 2,
@@ -25288,7 +26910,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 2,
@@ -25351,7 +26973,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 2,
@@ -25415,7 +27037,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 2,
@@ -25526,7 +27148,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -25552,6 +27174,117 @@
       }
     ],
     "model_id": 79
+  },
+  {
+    "game_id": 25244,
+    "names": {
+      "ja": "アナライズアイα",
+      "en": "Analytic E.Y.E. α",
+      "fr": "O.E.I.L. analytique α",
+      "it": "Occhio analitico α",
+      "de": "Analytisches A.U.G.E. α",
+      "es": "O.J.O. analítico α",
+      "ru": "Аналитическое О.К.О. α",
+      "pl": "Analityczne O.K.O. α",
+      "pt-BR": "O.L.H.O. Analítico α",
+      "ko": "애널라이즈아이α",
+      "zh-Hant": "分析眼鏡α",
+      "zh-Hans": "分析之眼α",
+      "ar": "العين التحليلية α",
+      "es-419": "O.J.O. analítico α"
+    },
+    "rarity": 8,
+    "set_bonus": null,
+    "group_bonus": null,
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "アナライズアイα",
+          "en": "Analytic E.Y.E. α",
+          "fr": "O.E.I.L. analytique α",
+          "it": "Occhio analitico α",
+          "de": "Analytisches A.U.G.E. α",
+          "es": "O.J.O. analítico α",
+          "ru": "Аналитическое О.К.О. α",
+          "pl": "Analityczne O.K.O. α",
+          "pt-BR": "O.L.H.O. Analítico α",
+          "ko": "애널라이즈아이α",
+          "zh-Hant": "分析眼鏡α",
+          "zh-Hans": "分析之眼α",
+          "ar": "العين التحليلية α",
+          "es-419": "O.J.O. analítico α"
+        },
+        "descriptions": {
+          "ja": "掛ければサイバーに決まる眼鏡。\r\n様々な情報が表示されるレンズで、\r\n未来の狩りを体感しよう。",
+          "en": "Cyberesque specs that display\r\na host of info right on the lenses.\r\nThis is the Future of Hunting.",
+          "fr": "Ces cyberlunettes dont\r\nla myriade d'infos s'affiche\r\ndirectement sur les verres\r\nsont l'avenir de la chasse.",
+          "it": "Occhiali cibernetici che\r\nmostrano una miriade di\r\ninformazioni sulle lenti.\r\nIl futuro della caccia.",
+          "de": "Futuristische Brille mit allerlei\r\nInformationen auf den Linsen.\r\nJawoll, so sieht die Zukunft des\r\nJagens aus!",
+          "es": "Gafas cibernéticas que muestran\r\nun montón de información\r\nen sus lentes. Así es el futuro\r\nde la caza.",
+          "ru": "Киберочки, на линзах которых\r\nотображаются разнообразные\r\nданные. Это новейшее слово\r\nв охотничьем деле.",
+          "pl": "Cyberokulary wyświetlające\r\nnoszącemu informacje\r\nna soczewkach. Przyszłość\r\nłowiectwa.",
+          "pt-BR": "Óculos cibernéticos que exibem\r\ninformações variadas nas lentes.\r\nEssa é a Caça do Futuro.",
+          "ko": "착용하면 사이버 느낌이 나는\r\n안경. 다양한 정보가 표시되는\r\n렌즈를 통해\r\n미래의 사냥을 체험해 보자.",
+          "zh-Hant": "戴上後會顯得十分科幻的眼鏡。用顯\r\n示各種資訊的鏡片來體驗未來的狩獵\r\n吧。",
+          "zh-Hans": "赛博风格十足的眼镜。镜片会显示\r\n出各种信息，体验具有未来感的狩\r\n猎。",
+          "ar": "نظارة سيبرانية تعرض مجموعة كبيرة\r\nمن المعلومات مباشرةً على العدسات.\r\nهذا هو مستقبل الصيد.",
+          "es-419": "Lentes cibernéticos que muestran\r\nun montón de información.\r\nEste es el futuro de la caza."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 4,
+          "water": 2,
+          "thunder": 4,
+          "ice": 0,
+          "dragon": 0
+        },
+        "slots": [
+          2,
+          2
+        ],
+        "skills": {
+          "-397570464": 2
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "406": 5,
+            "661": 2,
+            "705": 1,
+            "776": 2
+          }
+        }
+      }
+    ],
+    "model_id": 88
+  },
+  {
+    "game_id": 27205,
+    "names": {
+      "ja": "コスモロイド",
+      "en": "Cosmoloid",
+      "fr": "Cosmoloïde",
+      "it": "Astroide",
+      "de": "Cosmoid-Set",
+      "es": "Cosmoloide",
+      "ru": "Космолоид",
+      "pl": "Kosmoloid",
+      "pt-BR": "Cosmoloide",
+      "ko": "코스모로이드",
+      "zh-Hant": "宇宙機鎧",
+      "zh-Hans": "宇宙机装",
+      "ar": "كوزمولويد",
+      "es-419": "Cosmoloide"
+    },
+    "rarity": 5,
+    "set_bonus": null,
+    "group_bonus": null,
+    "pieces": [],
+    "model_id": 91
   },
   {
     "game_id": 29198,
@@ -25611,7 +27344,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -25717,7 +27450,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -25776,7 +27509,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -25837,7 +27570,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -25898,7 +27631,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -25956,7 +27689,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -26062,7 +27795,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -1,
@@ -26125,7 +27858,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -1,
@@ -26185,7 +27918,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -1,
@@ -26247,7 +27980,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -1,
@@ -26309,7 +28042,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -1,
@@ -26398,7 +28131,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -26487,7 +28220,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 4,
@@ -26594,7 +28327,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -26655,7 +28388,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -26717,7 +28450,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -26779,7 +28512,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -26842,7 +28575,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -26929,7 +28662,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 4,
@@ -26951,6 +28684,92 @@
             "509": 4,
             "659": 2,
             "768": 2
+          }
+        }
+      }
+    ],
+    "model_id": 88
+  },
+  {
+    "game_id": 30138,
+    "names": {
+      "ja": "ミラーバイザーα",
+      "en": "Mirror Visor α",
+      "fr": "Visière miroir α",
+      "it": "Visore a specchio α",
+      "de": "Spiegel-Visier α",
+      "es": "Gafas espejadas α",
+      "ru": "Зеркальный визор α",
+      "pl": "Lustrzana osłona α",
+      "pt-BR": "Visor Espelhado α",
+      "ko": "미러바이저α",
+      "zh-Hant": "鏡面護目鏡α",
+      "zh-Hans": "炫光护目镜α",
+      "ar": "القناع العاكس α",
+      "es-419": "Visera espejada α"
+    },
+    "rarity": 8,
+    "set_bonus": null,
+    "group_bonus": null,
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "ミラーバイザーα",
+          "en": "Mirror Visor α",
+          "fr": "Visière miroir α",
+          "it": "Visore a specchio α",
+          "de": "Spiegel-Visier α",
+          "es": "Gafas espejadas α",
+          "ru": "Зеркальный визор α",
+          "pl": "Lustrzana osłona α",
+          "pt-BR": "Visor Espelhado α",
+          "ko": "미러바이저α",
+          "zh-Hant": "鏡面護目鏡α",
+          "zh-Hans": "炫光护目镜α",
+          "ar": "القناع العاكس α",
+          "es-419": "Visera espejada α"
+        },
+        "descriptions": {
+          "ja": "掛ければクールに決まるバイザー。\r\n特殊なコーティングが特徴で、いか\r\nなる環境でもスマートに楽しもう。",
+          "en": "A visor with a special coating\r\nthat makes you the new pinnacle\r\nof cool. Hunt Smart, Everywhere.",
+          "fr": "Cette visière au revêtement\r\nspécial vous rend ultra cool.\r\nPour une chasse élégante\r\nen toutes circonstances.",
+          "it": "Un visore con un rivestimento\r\nspeciale che rappresenta l'apice\r\ndello stile. Caccia in modo\r\nelegante, ovunque tu voglia.",
+          "de": "Ein spezialbeschichtetes Visier,\r\nmit dem deine Coolness neue\r\nEbenen erreicht. Ermöglicht\r\nsmartes Jagen überall!",
+          "es": "Gafas con un revestimiento\r\nespecial para ser un referente\r\nen moda. Caza a la última, estés\r\ndonde estés.",
+          "ru": "Визор с особым покрытием,\r\nкоторый поднимает вашу крутость\r\nна немыслимую высоту. Охотьтесь\r\nс умом. И где пожелаете.",
+          "pl": "Osłona ze specjalną powłoką,\r\ndzięki której wytaczasz nowe\r\nszlaki stylu. Poluj z głową,\r\ngdziekolwiek jesteś.",
+          "pt-BR": "Visor com um revestimento\r\nespecial que faz de você o novo\r\npináculo da moda. Cace com\r\nprecisão, seja onde for.",
+          "ko": "착용하면 시크해지는 바이저.\r\n특수 코팅이 특징이며\r\n모든 환경을 스마트하게 즐기자.",
+          "zh-Hant": "戴上後會顯得十分帥氣的護目鏡。\r\n特色在於特殊的塗層，在任何環境\r\n都能帥氣有型。",
+          "zh-Hans": "炫酷的护目镜。上面的特殊涂层是\r\n其最大的特征，能够潇洒面对任何\r\n环境。",
+          "ar": "قناع برؤية شفافة وطلاء مميز\r\nيجعلكَ تعتلي قمة الأناقة.\r\nاصطد بذكاء، في كل مكان.",
+          "es-419": "Visera con vial especial para\r\nconvertirte en referente de la moda.\r\nCaza con estilo, estés donde estés."
+        },
+        "defense": {
+          "base": 66,
+          "max": 86
+        },
+        "resistances": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 2,
+          "ice": 4,
+          "dragon": 4
+        },
+        "slots": [
+          3
+        ],
+        "skills": {
+          "144660544": 4
+        },
+        "crafting": {
+          "price": 8000,
+          "inputs": {
+            "556": 5,
+            "560": 1,
+            "661": 2,
+            "776": 2
           }
         }
       }
@@ -27035,7 +28854,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -27098,7 +28917,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -27160,7 +28979,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -27222,7 +29041,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -27282,7 +29101,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": -2,
@@ -27391,7 +29210,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -27454,7 +29273,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -27518,7 +29337,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -27581,7 +29400,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -27646,7 +29465,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": -3,
@@ -27697,6 +29516,355 @@
     "group_bonus": null,
     "pieces": [],
     "model_id": 64
+  },
+  {
+    "game_id": 31453,
+    "names": {
+      "ja": "セレモニアルα",
+      "en": "Ceremonial α",
+      "fr": "Cérémoniel α",
+      "it": "Cerimoniale α",
+      "de": "Zeremonien-Set α",
+      "es": "Ceremonial α",
+      "ru": "Церемониальный α",
+      "pl": "Ceremonia α",
+      "pt-BR": "Cerimonial α",
+      "ko": "세레모니얼α",
+      "zh-Hant": "慶典α",
+      "zh-Hans": "祭典α",
+      "ar": "احتفالي α",
+      "es-419": "Ceremonial α"
+    },
+    "rarity": 5,
+    "set_bonus": {
+      "skill_id": 30815,
+      "ranks": [
+        {
+          "pieces": 2,
+          "skill_level": 1
+        },
+        {
+          "pieces": 4,
+          "skill_level": 2
+        }
+      ]
+    },
+    "group_bonus": {
+      "skill_id": 13941,
+      "ranks": [
+        {
+          "pieces": 3,
+          "skill_level": 1
+        }
+      ]
+    },
+    "pieces": [
+      {
+        "kind": "head",
+        "names": {
+          "ja": "セレモニアルヘルムα",
+          "en": "Ceremonial Helm α",
+          "fr": "Heaume cérémoniel α",
+          "it": "Elmo cerimoniale α",
+          "de": "Zeremonien-Krone α",
+          "es": "Corona ceremonial α",
+          "ru": "Церемониальный шлем α",
+          "pl": "Hełm ceremonialny α",
+          "pt-BR": "Elmo Cerimonial α",
+          "ko": "세레모니얼헬름α",
+          "zh-Hant": "慶典頭盔α",
+          "zh-Hans": "祭典头盔α",
+          "ar": "خوذة احتفالية α",
+          "es-419": "Casco ceremonial α"
+        },
+        "descriptions": {
+          "ja": "祭事チケット【祝謡】で作れる\r\n頭防具。その豪奢な冠は、冬麗の\r\n如き優しき威厳に満ち溢れている。",
+          "en": "Lumenhymn Ticket headgear.\r\nLuxurious and regal, it glows\r\nwith the splendor of winter.",
+          "fr": "Obtenu grâce aux tickets Chant\r\ndes lumières, ce heaume luxueux\r\net royal brille de la splendeur de\r\nl'hiver.",
+          "it": "Copricapo ottenuto con i biglietti\r\nLuminalia. Sfarzoso e regale,\r\nbrilla dello splendore\r\ndell'inverno.",
+          "de": "Lichterglanz-Ticket-Kopfschutz.\r\nLuxuriös und majestätisch –\r\nerfüllt vom Glanz des Winters.",
+          "es": "Armadura para la cabeza\r\ndel vale del iluminario.\r\nLujoso y elegante, brilla\r\ncon el esplendor invernal.",
+          "ru": "Головной убор за билет Гимна\r\nсвета. По-королевски роскошен\r\nи сияет великолепием зимы.",
+          "pl": "Osłona głowy za kwit Hymnu\r\nJasności. Luksusowa i królewska,\r\nświeci zimowym blaskiem.",
+          "pt-BR": "Proteção de cabeça do Bilhete do\r\nIlumicanto. Luxuosa e régia,\r\nela brilha com o esplendor\r\ndo inverno.",
+          "ko": "축제 티켓【축요】로 만드는\r\n머리 방어구. 화려한 투구는\r\n아름다운 겨울처럼\r\n자애로운 위엄이 넘쳐흐른다.",
+          "zh-Hant": "可憑慶典票【祝謠】製作的頭部\r\n防具。奢華的王冠充滿如冬日暖\r\n陽般溫柔的威嚴。",
+          "zh-Hans": "使用祭典票券【祝谣】制作的头部\r\n防具。奢华的宝冠如同冬日晨曦，\r\n充盈着柔韧的威仪。",
+          "ar": "عتاد رأس تذكرة ترنيمة النور.\r\nفاخر وملكي، يتلألأ ببريق\r\nشتوي رائع.",
+          "es-419": "Armadura para la cabeza de\r\ncupón de Iluminario.\r\nLujoso y elegante, brilla con\r\nel esplendor del invierno."
+        },
+        "defense": {
+          "base": 36,
+          "max": 76
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": -3,
+          "dragon": 2
+        },
+        "slots": [
+          2,
+          1
+        ],
+        "skills": {
+          "1346775424": 1,
+          "1763191040": 1
+        },
+        "crafting": {
+          "price": 2500,
+          "inputs": {
+            "579": 1,
+            "774": 1
+          }
+        }
+      },
+      {
+        "kind": "chest",
+        "names": {
+          "ja": "セレモニアルメイルα",
+          "en": "Ceremonial Mail α",
+          "fr": "Cotte cérémonielle α",
+          "it": "Cotta cerimoniale α",
+          "de": "Zeremonien-Panzerung α",
+          "es": "Malla ceremonial α",
+          "ru": "Церемониальный нагрудник α",
+          "pl": "Pancerz ceremonialny α",
+          "pt-BR": "Armadura Cerimonial α",
+          "ko": "세레모니얼메일α",
+          "zh-Hant": "慶典鎧甲α",
+          "zh-Hans": "祭典铠甲α",
+          "ar": "درع احتفالي α",
+          "es-419": "Cota ceremonial α"
+        },
+        "descriptions": {
+          "ja": "祭事チケット【祝謡】で作れる\r\n胴防具。その絢爛たる鎧は、冬麗の\r\n如く、暖かな威光に包まれている。",
+          "en": "Lumenhymn Ticket chest armor.\r\nDazzling to behold, and yet\r\nwarm with the splendor of\r\nwinter.",
+          "fr": "Obtenue grâce aux tickets Chant\r\ndes lumières, cette cotte est aussi\r\néblouissante et chaleureuse que\r\nla splendeur hivernale.",
+          "it": "Protezione per il torace ottenuta\r\ncon i biglietti Luminalia. Accecante\r\nper gli occhi, ma riscaldata\r\ndallo splendore dell'inverno.",
+          "de": "Lichterglanz-Ticket-Brustschutz.\r\nEin funkelndes Spektakel, das\r\nerfüllt ist von der Wärme und\r\nvom Glanz des Winters.",
+          "es": "Armadura para el torso del vale\r\ndel iluminario. Sorprende a la\r\nvista, pero arde con el esplendor\r\ninvernal.",
+          "ru": "Нагрудная броня за билет Гимна\r\nсвета. Красивый и удивительно\r\nтёплый доспех, очаровывающий\r\nвеликолепием зимы.",
+          "pl": "Napierśnik za kwit Hymnu\r\nJasności. Olśniewający,\r\na zarazem czuć od niego\r\nciepło zimowego blasku.",
+          "pt-BR": "Proteção de torso do Bilhete do\r\nIlumicanto. Deslumbrante aos\r\nolhos, mas calorosa com o\r\nesplendor do inverno.",
+          "ko": "축제 티켓【축요】로 만드는\r\n몸통 방어구. 찬란한 갑옷은\r\n아름다운 겨울처럼\r\n온화한 권위에 둘러싸였다.",
+          "zh-Hant": "可憑慶典票【祝謠】製作的身體\r\n防具。絢爛的鎧甲散發著如冬日\r\n暖陽般溫暖的威光。",
+          "zh-Hans": "使用祭典票券【祝谣】制作的身体\r\n防具。绚烂的铠甲如同冬日晨曦，\r\n笼罩着温暖的威光。",
+          "ar": "درع صدر تذكرة ترنيمة النور.\r\nيتلألأ ببريق يخطف الأبصار،\r\nويملأ القلب بدفء الشتاء وأناقته.",
+          "es-419": "Armadura para el pecho de cupón\r\nde Iluminario. Con el esplendor\r\ndel invierno, es tan sorprendente\r\ncomo acogedor."
+        },
+        "defense": {
+          "base": 36,
+          "max": 76
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": -3,
+          "dragon": 2
+        },
+        "slots": [
+          1
+        ],
+        "skills": {
+          "-2125233152": 1,
+          "1865909632": 1,
+          "2083363072": 1
+        },
+        "crafting": {
+          "price": 2500,
+          "inputs": {
+            "582": 3,
+            "774": 1
+          }
+        }
+      },
+      {
+        "kind": "arms",
+        "names": {
+          "ja": "セレモニアルアームα",
+          "en": "Ceremonial Vambraces α",
+          "fr": "Avant-bras cérémoniels α",
+          "it": "Parabraccia cerimoniali α",
+          "de": "Zeremonien-Armschutz α",
+          "es": "Brazales ceremoniales α",
+          "ru": "Церемониальные наручи α",
+          "pl": "Zarękawia ceremonialne α",
+          "pt-BR": "Avambraços Cerimoniais α",
+          "ko": "세레모니얼암α",
+          "zh-Hant": "慶典腕甲α",
+          "zh-Hans": "祭典腕甲α",
+          "ar": "درع ساعد احتفالي α",
+          "es-419": "Brazales ceremonial α"
+        },
+        "descriptions": {
+          "ja": "祭事チケット【祝謡】で作れる\r\n腕防具。その鮮麗なる指先は、\r\n冬麗の如く、敬愛と感謝を伝える。",
+          "en": "Lumenhymn Ticket armguards.\r\nIts fingers greet the splendor\r\nof winter with affection and\r\ngratitude.",
+          "fr": "Obtenus grâce aux tickets Chant\r\ndes lumières, les doigts de ces\r\navant-bras accueillent la splendeur\r\nhivernale avec amour et gratitude.",
+          "it": "Parabraccia ottenuti con biglietti\r\nLuminalia. Le sue dita salutano\r\nlo splendore dell'inverno\r\ncon affetto e gratitudine.",
+          "de": "Lichterglanz-Ticket-Armschutz.\r\nSeine Finger begrüßen den Glanz\r\ndes Winters mit Zuneigung und\r\nDankbarkeit.",
+          "es": "Brazales del vale del iluminario.\r\nSus dedos saludan al esplendor\r\ninvernal con afecto y gratitud.",
+          "ru": "Наручи за билет Гимна света.\r\nИх пальцы встречают великолепие\r\nзимы с любовью и благодарностью.",
+          "pl": "Naramienniki za kwit Hymnu\r\nJasności. Jego palce z miłością\r\ni wdzięcznością ukazują zimowy\r\nblask.",
+          "pt-BR": "Proteção de braços do Bilhete do\r\nIlumicanto. Seus dedos saúdam\r\no esplendor do inverno com afeto\r\ne gratidão.",
+          "ko": "축제 티켓【축요】로 만드는\r\n팔 방어구. 선명하고 아름다운\r\n손끝은 아름다운 겨울처럼\r\n경애와 감사를 전한다.",
+          "zh-Hant": "可憑慶典票【祝謠】製作的臂部\r\n防具。豔麗的指尖如冬日暖陽般\r\n傳達敬愛與謝意。",
+          "zh-Hans": "使用祭典票券【祝谣】制作的臂部\r\n防具。鲜丽的指尖如同冬日晨曦，\r\n传递着敬爱与感恩。",
+          "ar": "واقيات أذرع تذكرة ترنيمة النور.\r\nأصابعها تلامس روعة الشتاء\r\nبمحبة وامتنان.",
+          "es-419": "Brazales de cupón de Iluminario.\r\nSus dedos reciben el esplendor\r\ndel invierno con afecto y gratitud."
+        },
+        "defense": {
+          "base": 36,
+          "max": 76
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": -3,
+          "dragon": 2
+        },
+        "slots": [
+          2
+        ],
+        "skills": {
+          "469540352": 1,
+          "1763191040": 1
+        },
+        "crafting": {
+          "price": 2500,
+          "inputs": {
+            "578": 1,
+            "774": 1
+          }
+        }
+      },
+      {
+        "kind": "waist",
+        "names": {
+          "ja": "セレモニアルコイルα",
+          "en": "Ceremonial Coil α",
+          "fr": "Tassette cérémonielle α",
+          "it": "Spira cerimoniale α",
+          "de": "Zeremonien-Hüftring α",
+          "es": "Faja ceremonial α",
+          "ru": "Церемониальный пояс α",
+          "pl": "Pas ceremonialny α",
+          "pt-BR": "Cinturão Cerimonial α",
+          "ko": "세레모니얼코일α",
+          "zh-Hant": "慶典腰甲α",
+          "zh-Hans": "祭典腰甲α",
+          "ar": "لفيفة احتفالية α",
+          "es-419": "Faja ceremonial α"
+        },
+        "descriptions": {
+          "ja": "祭事チケット【祝謡】で作れる\r\n腰防具。その荘重なる腰巻きは、\r\n冬麗の日射しの如く、慈愛に包む。",
+          "en": "Lumenhymn Ticket waistgear.\r\nA comforting presence, like the\r\nsun in the splendor of winter.",
+          "fr": "Obtenue grâce aux tickets Chant\r\ndes lumières, cette tassette est\r\naussi réconfortante que le soleil\r\ndans la splendeur hivernale.",
+          "it": "Protezione per i fianchi ottenuta\r\ncon i biglietti Luminalia. Una dolce\r\npresenza, come il sole\r\nnello splendore dell'inverno.",
+          "de": "Lichterglanz-Ticket-Hüftschutz.\r\nTröstlich wie die Sonne im Glanz\r\ndes Winters.",
+          "es": "Cincho del vale del iluminario.\r\nUna presencia reconfortante,\r\ncomo el sol en pleno invierno.",
+          "ru": "Пояс за билет Гимна света. Дарит\r\nтепло, словно солнце в морозные\r\nдни, без которых великолепие\r\nзимы было бы неполным.",
+          "pl": "Pas za kwit Hymnu Jasności.\r\nUspokajająca obecność, tak\r\njak słońce w zimowym blasku.",
+          "pt-BR": "Proteção de cintura do Bilhete do\r\nIlumicanto. Uma presença\r\nreconfortante, como o sol em\r\nmeio ao esplendor do inverno.",
+          "ko": "축제 티켓【축요】로 만드는\r\n허리 방어구. 엄숙한 허리띠는\r\n아름다운 겨울 햇살처럼\r\n자애롭게 몸을 감싼다.",
+          "zh-Hant": "可憑慶典票【祝謠】製作的腰部\r\n防具。莊重的腰帶如冬日暖陽的\r\n照射般充滿慈愛。",
+          "zh-Hans": "使用祭典票券【祝谣】制作的腰部\r\n防具。庄重的腰甲如同冬日晨曦，\r\n充斥着绵绵慈爱。",
+          "ar": "عتاد خصر تذكرة ترنيمة النور،\r\nيحمل دفئًا وراحة، كأشعة الشمس\r\nالذهبية في بهاء الشتاء.",
+          "es-419": "Armadura para la cintura de cupón\r\nde Iluminario. Una presencia\r\nreconfortante, como el sol\r\nen el esplendor del invierno."
+        },
+        "defense": {
+          "base": 36,
+          "max": 76
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": -3,
+          "dragon": 2
+        },
+        "slots": [
+          1,
+          1
+        ],
+        "skills": {
+          "-2125233152": 1,
+          "1346775424": 1,
+          "2083363072": 1
+        },
+        "crafting": {
+          "price": 2500,
+          "inputs": {
+            "582": 3,
+            "774": 1
+          }
+        }
+      },
+      {
+        "kind": "legs",
+        "names": {
+          "ja": "セレモニアルグリーヴα",
+          "en": "Ceremonial Greaves α",
+          "fr": "Grèves cérémonielles α",
+          "it": "Schinieri cerimoniali α",
+          "de": "Zeremonien-Beinschutz α",
+          "es": "Grebas ceremoniales α",
+          "ru": "Церемониальные поножи α",
+          "pl": "Nagolenice ceremonialne α",
+          "pt-BR": "Grevas Cerimoniais α",
+          "ko": "세레모니얼그리브α",
+          "zh-Hant": "慶典護腿α",
+          "zh-Hans": "祭典护腿α",
+          "ar": "درع ساق احتفالي α",
+          "es-419": "Grebas ceremoniales α"
+        },
+        "descriptions": {
+          "ja": "祭事チケット【祝謡】で作れる\r\n脚防具。その壮麗なる軍靴は、\r\n冬麗の中、厳かな靴音を響かせる。",
+          "en": "Lumenhymn Ticket leg armor.\r\nSoftly they walk, a wordless\r\nreminder of the splendor of\r\nwinter.",
+          "fr": "Obtenues grâce aux tickets Chant\r\ndes lumières, ces grèves vous\r\ndonneront une démarche feutrée\r\ncomme la splendeur hivernale.",
+          "it": "Protezione per le gambe ottenuta\r\ncon i biglietti Luminalia. Avanzano\r\nlentamente, tacito ricordo\r\ndello splendore dell'inverno.",
+          "de": "Lichterglanz-Ticket-Beinschutz.\r\nDie sanften Schritte wecken\r\nErinnerungen an den Glanz\r\ndes Winters.",
+          "es": "Perneras del vale del\r\niluminario. Caminan con\r\ndelicadeza, un recordatorio\r\nmudo del esplendor invernal.",
+          "ru": "Поножи за билет Гимна света.\r\nТихо шуршат при ходьбе,\r\nнапоминая о великолепии зимы.",
+          "pl": "Pancerz na nogi za kwit Hymnu\r\nJasności. Miękko kroczą po\r\nziemi i bez słów przypominają\r\no zimowym blasku.",
+          "pt-BR": "Proteção de pernas do Bilhete do\r\nIlumicanto. A passos suaves, são\r\num lembrete silencioso do\r\nesplendor do inverno.",
+          "ko": "축제 티켓【축요】로 만드는\r\n다리 방어구. 웅장하고 유려한\r\n군화는 아름다운 겨울에\r\n엄숙한 구두 소리를 울린다.",
+          "zh-Hant": "可憑慶典票【祝謠】製作的足部\r\n防具。壯麗的軍靴在冬日晴光中\r\n發出莊嚴的腳步聲。",
+          "zh-Hans": "使用祭典票券【祝谣】制作的脚部\r\n防具。壮丽的军靴在冬日晨曦中响\r\n起庄严脚步声。",
+          "ar": "درع ساق تذكرة ترنيمة النور.\r\nيمشي مرتديه بخفة،\r\nكتذكير صامت بروعة الشتاء.",
+          "es-419": "Armadura para la pierna de cupón\r\nde Iluminario. Pasos suaves\r\nque recuerdan sin palabras\r\nel esplendor del invierno."
+        },
+        "defense": {
+          "base": 36,
+          "max": 76
+        },
+        "resistances": {
+          "fire": 2,
+          "water": 2,
+          "thunder": 2,
+          "ice": -3,
+          "dragon": 2
+        },
+        "slots": [
+          2
+        ],
+        "skills": {
+          "469540352": 1,
+          "1865909632": 1
+        },
+        "crafting": {
+          "price": 2500,
+          "inputs": {
+            "578": 1,
+            "774": 1
+          }
+        }
+      }
+    ],
+    "model_id": 93
   },
   {
     "game_id": 31514,
@@ -27764,7 +29932,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -27825,7 +29993,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -27888,7 +30056,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -27950,7 +30118,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -28014,7 +30182,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -28102,7 +30270,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -28206,7 +30374,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 0,
@@ -28269,7 +30437,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 0,
@@ -28330,7 +30498,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 0,
@@ -28392,7 +30560,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 0,
@@ -28452,7 +30620,7 @@
         },
         "defense": {
           "base": 68,
-          "max": 86
+          "max": 88
         },
         "resistances": {
           "fire": 0,
@@ -28539,7 +30707,7 @@
         },
         "defense": {
           "base": 40,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -28634,7 +30802,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -28693,7 +30861,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -28753,7 +30921,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -28813,7 +30981,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -28873,7 +31041,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -3,
@@ -28966,7 +31134,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -29026,7 +31194,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -29088,7 +31256,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -29149,7 +31317,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -29210,7 +31378,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -1,
@@ -29318,7 +31486,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -29381,7 +31549,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -29442,7 +31610,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -29505,7 +31673,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -29567,7 +31735,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -29675,7 +31843,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -29736,7 +31904,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -29797,7 +31965,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -29860,7 +32028,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -29922,7 +32090,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -30030,7 +32198,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -30093,7 +32261,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -30156,7 +32324,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -30219,7 +32387,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -30281,7 +32449,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -30378,7 +32546,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -30482,7 +32650,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -30545,7 +32713,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -30605,7 +32773,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -30667,7 +32835,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -30727,7 +32895,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -30820,7 +32988,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -30913,7 +33081,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -30973,7 +33141,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -31035,7 +33203,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -31096,7 +33264,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -31157,7 +33325,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -31251,7 +33419,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -3,
@@ -31342,7 +33510,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31404,7 +33572,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31464,7 +33632,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31527,7 +33695,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31586,7 +33754,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31672,7 +33840,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31733,7 +33901,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31794,7 +33962,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31855,7 +34023,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -31916,7 +34084,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -32022,7 +34190,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -32085,7 +34253,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -32148,7 +34316,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -32211,7 +34379,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -32272,7 +34440,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -32469,7 +34637,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -32532,7 +34700,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -32591,7 +34759,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -32653,7 +34821,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -32715,7 +34883,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -4,
@@ -32811,7 +34979,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -32872,7 +35040,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -32933,7 +35101,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -32995,7 +35163,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -33057,7 +35225,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -33165,7 +35333,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -33228,7 +35396,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -33290,7 +35458,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -33354,7 +35522,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -33416,7 +35584,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -33523,7 +35691,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -33585,7 +35753,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -33649,7 +35817,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -33710,7 +35878,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -33773,7 +35941,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 0,
@@ -34212,7 +36380,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -34273,7 +36441,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -34334,7 +36502,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -34395,7 +36563,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -34456,7 +36624,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -34542,7 +36710,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34601,7 +36769,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34661,7 +36829,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34721,7 +36889,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -34781,7 +36949,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 1,
@@ -35518,7 +37686,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -35577,7 +37745,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -35638,7 +37806,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -35697,7 +37865,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -35758,7 +37926,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -2,
@@ -35851,7 +38019,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -4,
@@ -35943,7 +38111,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -36004,7 +38172,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -36065,7 +38233,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -36126,7 +38294,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -36188,7 +38356,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 3,
@@ -36295,7 +38463,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -36357,7 +38525,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -36419,7 +38587,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -36481,7 +38649,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -36542,7 +38710,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -3,
@@ -36638,7 +38806,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -36698,7 +38866,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -36759,7 +38927,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -36819,7 +38987,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -36880,7 +39048,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 2,
@@ -36974,7 +39142,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -37036,7 +39204,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -37098,7 +39266,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -37160,7 +39328,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -37222,7 +39390,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": -1,
@@ -37317,7 +39485,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -37378,7 +39546,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -37439,7 +39607,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -37501,7 +39669,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -37561,7 +39729,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -3,
@@ -37667,7 +39835,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -37730,7 +39898,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -37792,7 +39960,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -37855,7 +40023,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -37917,7 +40085,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -38359,7 +40527,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -38420,7 +40588,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -38480,7 +40648,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -38541,7 +40709,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -38602,7 +40770,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -38695,7 +40863,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -38754,7 +40922,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -38814,7 +40982,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -38876,7 +41044,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -38936,7 +41104,7 @@
         },
         "defense": {
           "base": 38,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": -2,
@@ -39031,7 +41199,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 4,
@@ -39136,7 +41304,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -39199,7 +41367,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -39262,7 +41430,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -39324,7 +41492,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -39387,7 +41555,7 @@
         },
         "defense": {
           "base": 64,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 4,
@@ -39493,7 +41661,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -39556,7 +41724,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -39619,7 +41787,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -39681,7 +41849,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -39743,7 +41911,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": 5,
@@ -40486,7 +42654,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": 4,
@@ -40578,7 +42746,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -40641,7 +42809,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -40701,7 +42869,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -40764,7 +42932,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -40826,7 +42994,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -40933,7 +43101,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -40993,7 +43161,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -41055,7 +43223,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -41116,7 +43284,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -41179,7 +43347,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -41286,7 +43454,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -41346,7 +43514,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -41407,7 +43575,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -41467,7 +43635,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -41529,7 +43697,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -2,
@@ -41624,7 +43792,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -41686,7 +43854,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -41749,7 +43917,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -41810,7 +43978,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -41871,7 +44039,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 1,
@@ -41977,7 +44145,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -42040,7 +44208,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -42102,7 +44270,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -42165,7 +44333,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -42228,7 +44396,7 @@
         },
         "defense": {
           "base": 66,
-          "max": 84
+          "max": 86
         },
         "resistances": {
           "fire": 2,
@@ -42646,7 +44814,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -4,
@@ -42748,7 +44916,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -42809,7 +44977,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -42872,7 +45040,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -42933,7 +45101,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -42995,7 +45163,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": -1,
@@ -43193,7 +45361,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -43255,7 +45423,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -43317,7 +45485,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -43380,7 +45548,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -43440,7 +45608,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -43547,7 +45715,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -43609,7 +45777,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -43671,7 +45839,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -43734,7 +45902,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -43797,7 +45965,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 1,
@@ -43885,7 +46053,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 2,
@@ -43943,7 +46111,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 2,
@@ -44003,7 +46171,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 2,
@@ -44063,7 +46231,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 2,
@@ -44122,7 +46290,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 2,
@@ -44215,7 +46383,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -44274,7 +46442,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -44334,7 +46502,7 @@
         },
         "defense": {
           "base": 44,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 4,
@@ -44420,7 +46588,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 4,
@@ -44483,7 +46651,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 4,
@@ -44546,7 +46714,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 4,
@@ -44609,7 +46777,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 4,
@@ -44671,7 +46839,7 @@
         },
         "defense": {
           "base": 56,
-          "max": 76
+          "max": 78
         },
         "resistances": {
           "fire": 4,
@@ -44765,7 +46933,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -44827,7 +46995,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -44888,7 +47056,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -44950,7 +47118,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -45012,7 +47180,7 @@
         },
         "defense": {
           "base": 48,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 3,
@@ -45117,7 +47285,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -45180,7 +47348,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -45242,7 +47410,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -45305,7 +47473,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -45367,7 +47535,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 80
+          "max": 82
         },
         "resistances": {
           "fire": -2,
@@ -45456,7 +47624,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 0,
@@ -45516,7 +47684,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 0,
@@ -45575,7 +47743,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 0,
@@ -45635,7 +47803,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 0,
@@ -45694,7 +47862,7 @@
         },
         "defense": {
           "base": 26,
-          "max": 64
+          "max": 66
         },
         "resistances": {
           "fire": 0,
@@ -46111,7 +48279,7 @@
         },
         "defense": {
           "base": 32,
-          "max": 70
+          "max": 72
         },
         "resistances": {
           "fire": -5,
@@ -46193,7 +48361,7 @@
         },
         "defense": {
           "base": 60,
-          "max": 78
+          "max": 80
         },
         "resistances": {
           "fire": 0,
@@ -46284,7 +48452,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -46345,7 +48513,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -46406,7 +48574,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -46468,7 +48636,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,
@@ -46528,7 +48696,7 @@
         },
         "defense": {
           "base": 36,
-          "max": 74
+          "max": 76
         },
         "resistances": {
           "fire": 0,

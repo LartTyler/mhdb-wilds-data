@@ -6418,6 +6418,44 @@
     "series_id": 146353744
   },
   {
+    "game_id": 78,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 0,
+    "echo_wave_id": null,
+    "echo_bubble_id": 1,
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
     "game_id": 79,
     "kind": "hunting-horn",
     "sharpness": {
@@ -6766,5 +6804,221 @@
       "30201": 1
     },
     "series_id": -1122003456
+  },
+  {
+    "game_id": 86,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 0,
+    "echo_wave_id": null,
+    "echo_bubble_id": 6,
+    "names": {
+      "ja": "闇黒のテルプリティカ",
+      "en": "Onyx Choros",
+      "fr": "Choros onyx",
+      "it": "Choroscuro",
+      "de": "Onyx-Choros",
+      "es": "Choros ónix",
+      "ru": "Ониксовый хор",
+      "pl": "Onyksowy Dzwon",
+      "pt-BR": "Choros de Ônix",
+      "ko": "암흑의 테르프리티카",
+      "zh-Hant": "暗黑舞姬之音",
+      "zh-Hans": "暗黑舞姬音响",
+      "ar": "أونيكس كوروس",
+      "es-419": "Choros ónix"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n旋律。哀しき結末を語るべき終奏は\r\n訪れず、籠の中で歌は止まない。",
+      "en": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+      "fr": "Cette mélodie monstrueuse en\r\nquête de potentiel tourmente\r\nson hôte sans fin.",
+      "it": "Una melodia grottesca assetata\r\ndi potenziale, che tormenta chi\r\nla ospita senza mai giungere\r\na un finale.",
+      "de": "Eine groteske Melodie, die\r\nnach Potenzial dürstet und\r\nihren Wirt quält, ohne jemals\r\ndie finale Note zu erreichen.",
+      "es": "Una melodía grotesca que ansía\r\npotencial, atormenta a su\r\nanfitrión con una coda que\r\nnunca llega.",
+      "ru": "Вместилище жуткой мелодии,\r\nжаждущее большего. Истязает\r\nвладельца незавершённой\r\nкомпозицией.",
+      "pl": "Groteskowa melodia łaknąca\r\npotencjału, dręcząca swego\r\nnosiciela, bez nadziei na\r\nnadejście końca.",
+      "pt-BR": "Uma melodia grotesca que busca\r\npotencial, atormentando quem a\r\ncarrega, sem nunca ter um final.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n선율. 슬픈 결말을 알릴\r\n마지막 연주는 찾아오지 않고\r\n새장 안의 노래는 계속된다.",
+      "zh-Hant": "異形的旋律吞噬潛藏性能。訴說結局\r\n的悲歌終曲尚未奏響，囚籠中的歌聲\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之旋律。诉说\r\n悲惨结局的终曲未曾来临，笼中之\r\n歌永无休止。",
+      "ar": "لحن مهلك متعطّش لاكتشاف\r\nقدرته الكامنة، يعذب مَن يحمله،\r\nولا توجد أي نهاية لعذابه.",
+      "es-419": "Una melodía grotesca que ansía\r\nel potencial, atormenta a su anfitrión\r\ncon una coda que nunca llega."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 87,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 0,
+    "echo_wave_id": null,
+    "echo_bubble_id": 3,
+    "names": {
+      "ja": "闇黒のテルプリティカ",
+      "en": "Onyx Choros",
+      "fr": "Choros onyx",
+      "it": "Choroscuro",
+      "de": "Onyx-Choros",
+      "es": "Choros ónix",
+      "ru": "Ониксовый хор",
+      "pl": "Onyksowy Dzwon",
+      "pt-BR": "Choros de Ônix",
+      "ko": "암흑의 테르프리티카",
+      "zh-Hant": "暗黑舞姬之音",
+      "zh-Hans": "暗黑舞姬音响",
+      "ar": "أونيكس كوروس",
+      "es-419": "Choros ónix"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n旋律。哀しき結末を語るべき終奏は\r\n訪れず、籠の中で歌は止まない。",
+      "en": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+      "fr": "Cette mélodie monstrueuse en\r\nquête de potentiel tourmente\r\nson hôte sans fin.",
+      "it": "Una melodia grottesca assetata\r\ndi potenziale, che tormenta chi\r\nla ospita senza mai giungere\r\na un finale.",
+      "de": "Eine groteske Melodie, die\r\nnach Potenzial dürstet und\r\nihren Wirt quält, ohne jemals\r\ndie finale Note zu erreichen.",
+      "es": "Una melodía grotesca que ansía\r\npotencial, atormenta a su\r\nanfitrión con una coda que\r\nnunca llega.",
+      "ru": "Вместилище жуткой мелодии,\r\nжаждущее большего. Истязает\r\nвладельца незавершённой\r\nкомпозицией.",
+      "pl": "Groteskowa melodia łaknąca\r\npotencjału, dręcząca swego\r\nnosiciela, bez nadziei na\r\nnadejście końca.",
+      "pt-BR": "Uma melodia grotesca que busca\r\npotencial, atormentando quem a\r\ncarrega, sem nunca ter um final.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n선율. 슬픈 결말을 알릴\r\n마지막 연주는 찾아오지 않고\r\n새장 안의 노래는 계속된다.",
+      "zh-Hant": "異形的旋律吞噬潛藏性能。訴說結局\r\n的悲歌終曲尚未奏響，囚籠中的歌聲\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之旋律。诉说\r\n悲惨结局的终曲未曾来临，笼中之\r\n歌永无休止。",
+      "ar": "لحن مهلك متعطّش لاكتشاف\r\nقدرته الكامنة، يعذب مَن يحمله،\r\nولا توجد أي نهاية لعذابه.",
+      "es-419": "Una melodía grotesca que ansía\r\nel potencial, atormenta a su anfitrión\r\ncon una coda que nunca llega."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 88,
+    "kind": "hunting-horn",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "melody_id": 0,
+    "echo_wave_id": null,
+    "echo_bubble_id": 5,
+    "names": {
+      "ja": "闇黒のテルプリティカ",
+      "en": "Onyx Choros",
+      "fr": "Choros onyx",
+      "it": "Choroscuro",
+      "de": "Onyx-Choros",
+      "es": "Choros ónix",
+      "ru": "Ониксовый хор",
+      "pl": "Onyksowy Dzwon",
+      "pt-BR": "Choros de Ônix",
+      "ko": "암흑의 테르프리티카",
+      "zh-Hant": "暗黑舞姬之音",
+      "zh-Hans": "暗黑舞姬音响",
+      "ar": "أونيكس كوروس",
+      "es-419": "Choros ónix"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の\r\n旋律。哀しき結末を語るべき終奏は\r\n訪れず、籠の中で歌は止まない。",
+      "en": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+      "fr": "Cette mélodie monstrueuse en\r\nquête de potentiel tourmente\r\nson hôte sans fin.",
+      "it": "Una melodia grottesca assetata\r\ndi potenziale, che tormenta chi\r\nla ospita senza mai giungere\r\na un finale.",
+      "de": "Eine groteske Melodie, die\r\nnach Potenzial dürstet und\r\nihren Wirt quält, ohne jemals\r\ndie finale Note zu erreichen.",
+      "es": "Una melodía grotesca que ansía\r\npotencial, atormenta a su\r\nanfitrión con una coda que\r\nnunca llega.",
+      "ru": "Вместилище жуткой мелодии,\r\nжаждущее большего. Истязает\r\nвладельца незавершённой\r\nкомпозицией.",
+      "pl": "Groteskowa melodia łaknąca\r\npotencjału, dręcząca swego\r\nnosiciela, bez nadziei na\r\nnadejście końca.",
+      "pt-BR": "Uma melodia grotesca que busca\r\npotencial, atormentando quem a\r\ncarrega, sem nunca ter um final.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n선율. 슬픈 결말을 알릴\r\n마지막 연주는 찾아오지 않고\r\n새장 안의 노래는 계속된다.",
+      "zh-Hant": "異形的旋律吞噬潛藏性能。訴說結局\r\n的悲歌終曲尚未奏響，囚籠中的歌聲\r\n仍未止息。",
+      "zh-Hans": "吞噬隐藏性能的异形之旋律。诉说\r\n悲惨结局的终曲未曾来临，笼中之\r\n歌永无休止。",
+      "ar": "لحن مهلك متعطّش لاكتشاف\r\nقدرته الكامنة، يعذب مَن يحمله،\r\nولا توجد أي نهاية لعذابه.",
+      "es-419": "Una melodía grotesca que ansía\r\nel potencial, atormenta a su anfitrión\r\ncon una coda que nunca llega."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]

@@ -345,6 +345,12 @@
         "extra_defense": 2,
         "point_cost": 2000,
         "zenny_cost": 8000
+      },
+      {
+        "level": 28,
+        "extra_defense": 2,
+        "point_cost": 2000,
+        "zenny_cost": 8000
       }
     ]
   },
@@ -440,6 +446,12 @@
         "extra_defense": 2,
         "point_cost": 5000,
         "zenny_cost": 12000
+      },
+      {
+        "level": 22,
+        "extra_defense": 2,
+        "point_cost": 5000,
+        "zenny_cost": 12000
       }
     ]
   },
@@ -505,6 +517,12 @@
         "extra_defense": 2,
         "point_cost": 10000,
         "zenny_cost": 16000
+      },
+      {
+        "level": 16,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 16000
       }
     ]
   },
@@ -561,6 +579,12 @@
       },
       {
         "level": 10,
+        "extra_defense": 2,
+        "point_cost": 10000,
+        "zenny_cost": 20000
+      },
+      {
+        "level": 14,
         "extra_defense": 2,
         "point_cost": 10000,
         "zenny_cost": 20000

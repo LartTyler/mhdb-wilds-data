@@ -6418,6 +6418,213 @@
     "series_id": -1122003456
   },
   {
+    "game_id": 85,
+    "kind": "lance",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "天涯のゲガルンロウ",
+      "en": "Aether Pike",
+      "fr": "Lance de l'éther",
+      "it": "Raschiatrice eterea",
+      "de": "Ätherdorn",
+      "es": "Pica etérea",
+      "ru": "Эфирная пика",
+      "pl": "Eterowy Grom",
+      "pt-BR": "Hasta Etérea",
+      "ko": "천애의 게하른로우",
+      "zh-Hant": "天涯聖槍摩天樓",
+      "zh-Hans": "天涯圣枪摩天楼",
+      "ar": "رمح الأثير",
+      "es-419": "Pica etérea"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の骸。\r\n奈落に堕とされ、戻らぬ断片を\r\n求めながら、刃は未だ天を向く。",
+      "en": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+      "fr": "Cette coquille monstrueuse\r\nen quête de potentiel a été\r\njetée dans l'obscurité, mais\r\ntente de rejoindre les cieux.",
+      "it": "Un involucro grottesco assetato\r\ndi potenziale, che pur relegato\r\nall'oscurità cerca di afferrare il\r\nun paradiso lontano.",
+      "de": "Groteske Hülle, die nach Potenzial\r\ndürstet. Verstoßen in das Dunkel\r\ndes Jenseits, klettert sie nun zum\r\nHimmel empor.",
+      "es": "Una grotesca cáscara que ansía\r\npotencial, tomada por la\r\noscuridad pero todavía en busca\r\ndel cielo.",
+      "ru": "Жуткая оболочка, жаждущая\r\nбольшего. Её сбросили во тьму,\r\nно она отчаянно стремится к небу.",
+      "pl": "Łaknąca potencjału groteskowa\r\nłuska. Wrzucona w ciemność,\r\nlecz wciąż wdrapująca się do \r\nnieba.",
+      "pt-BR": "Casca grotesca que anseia pelo\r\npotencial, lançada às trevas, mas\r\nainda se arrastando aos céus.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n뼈. 나락에 빠져 돌아오지\r\n못하는 조각을 찾고자\r\n칼날은 여전히 하늘을 찌른다.",
+      "zh-Hant": "異形的骸骨吞噬潛藏性能。利刃墜入\r\n深淵，渴求無法回歸的碎片，同時\r\n指向蒼穹。",
+      "zh-Hans": "吞噬隐藏性能的异形之骸骨。虽堕\r\n入奈落深渊，仍追寻不复归来的碎\r\n片，刃锋依然指向苍穹。",
+      "ar": "هيكل مشوه متعطّش لاكتشاف\r\nقدرته الكامنة، ملقى في الظلام\r\nلكنه يتشبث بالسماء بأظافره.",
+      "es-419": "Un cascarón grotesco que ansía\r\nalcanzar su potencial, arrojado a la\r\noscuridad pero aún aferrado al cielo."
+    },
+    "rarity": 8,
+    "attack_raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 86,
+    "kind": "lance",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "天涯のゲガルンロウ",
+      "en": "Aether Pike",
+      "fr": "Lance de l'éther",
+      "it": "Raschiatrice eterea",
+      "de": "Ätherdorn",
+      "es": "Pica etérea",
+      "ru": "Эфирная пика",
+      "pl": "Eterowy Grom",
+      "pt-BR": "Hasta Etérea",
+      "ko": "천애의 게하른로우",
+      "zh-Hant": "天涯聖槍摩天樓",
+      "zh-Hans": "天涯圣枪摩天楼",
+      "ar": "رمح الأثير",
+      "es-419": "Pica etérea"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の骸。\r\n奈落に堕とされ、戻らぬ断片を\r\n求めながら、刃は未だ天を向く。",
+      "en": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+      "fr": "Cette coquille monstrueuse\r\nen quête de potentiel a été\r\njetée dans l'obscurité, mais\r\ntente de rejoindre les cieux.",
+      "it": "Un involucro grottesco assetato\r\ndi potenziale, che pur relegato\r\nall'oscurità cerca di afferrare\r\nun paradiso lontano.",
+      "de": "Groteske Hülle, die nach Potenzial\r\ndürstet. Verstoßen in das Dunkel\r\ndes Jenseits, klettert sie nun zum\r\nHimmel empor.",
+      "es": "Una grotesca cáscara que ansía\r\npotencial, tomada por la\r\noscuridad pero todavía en busca\r\ndel cielo.",
+      "ru": "Жуткая оболочка, жаждущая\r\nбольшего. Её сбросили во тьму,\r\nно она отчаянно стремится к небу.",
+      "pl": "Łaknąca potencjału groteskowa\r\nłuska. Wrzucona w ciemność,\r\nlecz wciąż wdrapująca się do\r\nnieba.",
+      "pt-BR": "Casca grotesca que anseia pelo\r\npotencial, lançada às trevas, mas\r\nainda se arrastando aos céus.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n뼈. 나락에 빠져 돌아오지\r\n못하는 조각을 찾고자\r\n칼날은 여전히 하늘을 찌른다.",
+      "zh-Hant": "異形的骸骨吞噬潛藏性能。利刃墜入\r\n深淵，渴求無法回歸的碎片，同時\r\n指向蒼穹。",
+      "zh-Hans": "吞噬隐藏性能的异形之骸骨。虽堕\r\n入奈落深渊，仍追寻不复归来的碎\r\n片，刃锋依然指向苍穹。",
+      "ar": "هيكل مشوه متعطّش لاكتشاف\r\nقدرته الكامنة، ملقى في الظلام\r\nلكنه يتشبث بالسماء بأظافره.",
+      "es-419": "Un cascarón grotesco que ansía\r\nalcanzar su potencial, arrojado a la\r\noscuridad pero aún aferrado al cielo."
+    },
+    "rarity": 8,
+    "attack_raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
+    "game_id": 87,
+    "kind": "lance",
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {
+      "ja": "天涯のゲガルンロウ",
+      "en": "Aether Pike",
+      "fr": "Lance de l'éther",
+      "it": "Raschiatrice eterea",
+      "de": "Ätherdorn",
+      "es": "Pica etérea",
+      "ru": "Эфирная пика",
+      "pl": "Eterowy Grom",
+      "pt-BR": "Hasta Etérea",
+      "ko": "천애의 게하른로우",
+      "zh-Hant": "天涯聖槍摩天樓",
+      "zh-Hans": "天涯圣枪摩天楼",
+      "ar": "رمح الأثير",
+      "es-419": "Pica etérea"
+    },
+    "descriptions": {
+      "ja": "秘めたる性能を呑みこむ異形の骸。\r\n奈落に堕とされ、戻らぬ断片を\r\n求めながら、刃は未だ天を向く。",
+      "en": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+      "fr": "Cette coquille monstrueuse\r\nen quête de potentiel a été\r\njetée dans l'obscurité, mais\r\ntente de rejoindre les cieux.",
+      "it": "Un involucro grottesco assetato\r\ndi potenziale, che pur relegato\r\nall'oscurità cerca di afferrare\r\nun paradiso lontano.",
+      "de": "Groteske Hülle, die nach Potenzial\r\ndürstet. Verstoßen in das Dunkel\r\ndes Jenseits, klettert sie nun zum\r\nHimmel empor.",
+      "es": "Una grotesca cáscara que ansía\r\npotencial, tomada por la\r\noscuridad pero todavía en busca\r\ndel cielo.",
+      "ru": "Жуткая оболочка, жаждущая\r\nбольшего. Её сбросили во тьму,\r\nно она отчаянно стремится к небу.",
+      "pl": "Łaknąca potencjału groteskowa\r\nłuska. Wrzucona w ciemność,\r\nlecz wciąż wdrapująca się do\r\nnieba.",
+      "pt-BR": "Casca grotesca que anseia pelo\r\npotencial, lançada às trevas, mas\r\nainda se arrastando aos céus.",
+      "ko": "숨겨진 성능을 흡수한 이형의\r\n뼈. 나락에 빠져 돌아오지\r\n못하는 조각을 찾고자\r\n칼날은 여전히 하늘을 찌른다.",
+      "zh-Hant": "異形的骸骨吞噬潛藏性能。利刃墜入\r\n深淵，渴求無法回歸的碎片，同時\r\n指向蒼穹。",
+      "zh-Hans": "吞噬隐藏性能的异形之骸骨。虽堕\r\n入奈落深渊，仍追寻不复归来的碎\r\n片，刃锋依然指向苍穹。",
+      "ar": "هيكل مشوه متعطّش لاكتشاف\r\nقدرته الكامنة، ملقى في الظلام\r\nلكنه يتشبث بالسماء بأظافره.",
+      "es-419": "Un cascarón grotesco que ansía\r\nalcanzar su potencial, arrojado a la\r\noscuridad pero aún aferrado al cielo."
+    },
+    "rarity": 8,
+    "attack_raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
+  },
+  {
     "game_id": 91,
     "kind": "lance",
     "sharpness": {
@@ -6571,5 +6778,40 @@
       "686533440": 3
     },
     "series_id": -547584512
+  },
+  {
+    "game_id": 94,
+    "kind": "lance",
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "names": {},
+    "descriptions": {},
+    "rarity": 8,
+    "attack_raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "specials": [],
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false,
+      "column": 0,
+      "row": 0
+    },
+    "skills": {},
+    "series_id": null
   }
 ]
