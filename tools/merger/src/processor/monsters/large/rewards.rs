@@ -16,7 +16,7 @@ pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Resu
 
         let path = config.io.output.join(DATA_PREFIX);
         let path = id.name.get_path_to(path, DATA_SUFFIX);
-        let data: Vec<RewardData> = Vec::read_file(dbg!(path))?;
+        let data: Vec<RewardData> = Vec::read_file(path)?;
 
         let mut state = RewardKind::Inherit;
 
@@ -88,6 +88,7 @@ enum RewardKind {
     TargetReward = 6,
     BrokenPart = 7,
     WoundDestroyed = 8,
+    BrokenFragment = 9,
     CarveRotten = 911862272,
     SlingerGather = 810441920,
     CarveRottenSevered = -2122632576,
@@ -135,6 +136,7 @@ enum RewardSource {
     CarveRottenSevered,
     TemperedWoundDestroyed,
     CarveCrystallized,
+    BrokenFragment,
 }
 
 impl TryFrom<RewardKind> for RewardSource {
@@ -152,7 +154,8 @@ impl TryFrom<RewardKind> for RewardSource {
             RewardKind::CarveRottenSevered => Self::CarveRottenSevered,
             RewardKind::TemperedWoundDestroyed => Self::TemperedWoundDestroyed,
             RewardKind::CarveCrystallized => Self::CarveCrystallized,
-            _ => {
+            RewardKind::BrokenFragment => Self::BrokenFragment,
+            RewardKind::Inherit | RewardKind::BrokenPart => {
                 return Err(anyhow!(
                     "Could not convert {value:?} directly into a reward source"
                 ));
