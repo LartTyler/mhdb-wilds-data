@@ -65,6 +65,10 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
 
         strings.populate(&data.name_guid, &mut weapon.names);
 
+        if weapon.names.is_empty() {
+            continue;
+        }
+
         strings.populate(&data.description_guid, &mut weapon.descriptions);
         Placeholder::process(&mut weapon.descriptions, &ApplyContext::empty());
 

@@ -56,41 +56,6 @@
       "zenny_cost": 200,
       "inputs": {},
       "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
-  },
-  {
-    "game_id": 1,
-    "kind": "great-sword",
-    "sharpness": {
-      "red": 20,
-      "orange": 20,
-      "yellow": 20,
-      "green": 40,
-      "blue": 0,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
       "branches": [
         2,
         15,

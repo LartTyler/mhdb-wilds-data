@@ -7149,41 +7149,5 @@
       "1444935552": 2
     },
     "series_id": 145862672
-  },
-  {
-    "game_id": 95,
-    "kind": "insect-glaive",
-    "sharpness": {
-      "red": 50,
-      "orange": 50,
-      "yellow": 50,
-      "green": 50,
-      "blue": 50,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "kinsect_level": 1,
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]

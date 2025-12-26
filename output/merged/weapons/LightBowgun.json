@@ -8713,55 +8713,5 @@
     },
     "skills": {},
     "series_id": null
-  },
-  {
-    "game_id": 95,
-    "kind": "light-bowgun",
-    "ammo": [
-      {
-        "kind": "normal",
-        "level": 2,
-        "capacity": 5,
-        "rapid": true
-      },
-      {
-        "kind": "pierce",
-        "level": 1,
-        "capacity": 4,
-        "rapid": false
-      },
-      {
-        "kind": "spread",
-        "level": 1,
-        "capacity": 4,
-        "rapid": false
-      },
-      {
-        "kind": "tranq",
-        "level": 1,
-        "capacity": 4,
-        "rapid": false
-      }
-    ],
-    "special_ammo": "wyvernblast",
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]

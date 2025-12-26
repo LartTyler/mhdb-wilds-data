@@ -7617,50 +7617,5 @@
     },
     "skills": {},
     "series_id": null
-  },
-  {
-    "game_id": 93,
-    "kind": "heavy-bowgun",
-    "ammo": [
-      {
-        "kind": "normal",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "pierce",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "spread",
-        "level": 2,
-        "capacity": 5
-      },
-      {
-        "kind": "tranq",
-        "level": 1,
-        "capacity": 4
-      }
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 220,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]

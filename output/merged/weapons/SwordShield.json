@@ -7623,40 +7623,5 @@
     },
     "skills": {},
     "series_id": null
-  },
-  {
-    "game_id": 106,
-    "kind": "sword-shield",
-    "sharpness": {
-      "red": 100,
-      "orange": 30,
-      "yellow": 70,
-      "green": 0,
-      "blue": 0,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]

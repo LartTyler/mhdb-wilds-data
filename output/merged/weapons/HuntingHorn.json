@@ -6418,44 +6418,6 @@
     "series_id": 146353744
   },
   {
-    "game_id": 78,
-    "kind": "hunting-horn",
-    "sharpness": {
-      "red": 50,
-      "orange": 50,
-      "yellow": 80,
-      "green": 80,
-      "blue": 90,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "melody_id": 0,
-    "echo_wave_id": null,
-    "echo_bubble_id": 1,
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
-  },
-  {
     "game_id": 79,
     "kind": "hunting-horn",
     "sharpness": {

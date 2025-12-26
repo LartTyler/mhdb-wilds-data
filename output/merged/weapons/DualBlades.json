@@ -6990,41 +6990,6 @@
     "series_id": -1122003456
   },
   {
-    "game_id": 89,
-    "kind": "dual-blades",
-    "sharpness": {
-      "red": 40,
-      "orange": 40,
-      "yellow": 40,
-      "green": 40,
-      "blue": 0,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
-  },
-  {
     "game_id": 90,
     "kind": "dual-blades",
     "sharpness": {

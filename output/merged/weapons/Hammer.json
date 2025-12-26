@@ -6738,40 +6738,5 @@
     },
     "skills": {},
     "series_id": null
-  },
-  {
-    "game_id": 92,
-    "kind": "hammer",
-    "sharpness": {
-      "red": 60,
-      "orange": 60,
-      "yellow": 60,
-      "green": 60,
-      "blue": 60,
-      "white": 50,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]

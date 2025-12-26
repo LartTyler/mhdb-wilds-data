@@ -6778,40 +6778,5 @@
       "686533440": 3
     },
     "series_id": -547584512
-  },
-  {
-    "game_id": 94,
-    "kind": "lance",
-    "sharpness": {
-      "red": 50,
-      "orange": 50,
-      "yellow": 50,
-      "green": 50,
-      "blue": 50,
-      "white": 0,
-      "purple": 0
-    },
-    "handicraft": [
-      50
-    ],
-    "names": {},
-    "descriptions": {},
-    "rarity": 8,
-    "attack_raw": 100,
-    "affinity": 0,
-    "defense": 0,
-    "slots": [],
-    "specials": [],
-    "crafting": {
-      "zenny_cost": 100,
-      "inputs": {},
-      "previous_id": null,
-      "branches": [],
-      "is_shortcut": false,
-      "column": 0,
-      "row": 0
-    },
-    "skills": {},
-    "series_id": null
   }
 ]
