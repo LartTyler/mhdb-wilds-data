@@ -27,6 +27,10 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> Result<()> {
         let mut item = Series::from(&data);
         strings.populate(&data.name_guid, &mut item.names);
 
+        if item.names.is_empty() {
+            continue;
+        }
+
         series.push(item);
     }
 
