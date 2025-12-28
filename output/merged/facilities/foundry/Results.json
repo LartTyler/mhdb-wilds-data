@@ -1,0 +1,38 @@
+[
+  {
+    "item_id": 666,
+    "cost": 20
+  },
+  {
+    "item_id": 667,
+    "cost": 100
+  },
+  {
+    "item_id": 668,
+    "cost": 200
+  },
+  {
+    "item_id": 669,
+    "cost": 300
+  },
+  {
+    "item_id": 622,
+    "cost": 10
+  },
+  {
+    "item_id": 623,
+    "cost": 50
+  },
+  {
+    "item_id": 624,
+    "cost": 200
+  },
+  {
+    "item_id": 625,
+    "cost": 1000
+  },
+  {
+    "item_id": 654,
+    "cost": 5000
+  }
+]

@@ -108,6 +108,14 @@ files = [
     "Gimmick/Gm800/Gm800_???_??/*_AaaUniqueParam.user.3",
 ]
 
+[[user.targets]]
+output_prefix = "facilities/foundry"
+files = [
+    "Facility/SmallWorkshopDrillData.user.3",
+    "Facility/SmallWorkshopItemData.user.3",
+    "Facility/SmallWorkshopRefineData.user.3",
+]
+
 [msg]
 input_prefix = "STM/GameDesign/Text"
 
