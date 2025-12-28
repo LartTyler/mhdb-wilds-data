@@ -14,6 +14,12 @@ use serde_repr::Deserialize_repr;
 pub type ItemId = isize;
 
 const DATA: &str = "user/itemData.json";
+
+const FOUNDRY_MATERIAL_DATA: &str = "user/facilities/foundry/SmallWorkshopItemData.json";
+const FOUNDRY_SPHERE_DATA: &str = "user/facilities/foundry/SmallWorkshopDrillData.json";
+const FOUNDRY_ORE_DATA: &str = "user/facilities/foundry/SmallWorkshopRefineData.json";
+const FOUNDRY_OUTPUTS_DATA: &[&str] = &[FOUNDRY_SPHERE_DATA, FOUNDRY_ORE_DATA];
+
 const RECIPES: &str = "user/ItemRecipe.json";
 const STRINGS: &str = "msg/Item.json";
 
@@ -72,6 +78,32 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     progress.finish_and_clear();
 
+    let data: Vec<FoundryMaterial> = Vec::read_file(config.io.output.join(FOUNDRY_MATERIAL_DATA))?;
+    let progress = ProgressBar::new(data.len() as u64);
+
+    for data in data {
+        progress.inc(1);
+
+        let item = lookup.find_or_panic_mut(data.item_id, &mut merged);
+        item.foundry = Some(Foundry::Material(data));
+    }
+
+    progress.finish_and_clear();
+
+    for data_path in FOUNDRY_OUTPUTS_DATA {
+        let data: Vec<FoundryOutput> = Vec::read_file(config.io.output.join(data_path))?;
+        let progress = ProgressBar::new(data.len() as u64);
+
+        for data in data {
+            progress.inc(1);
+
+            let item = lookup.find_or_panic_mut(data.item_id, &mut merged);
+            item.foundry = Some(Foundry::Output(data));
+        }
+
+        progress.finish_and_clear();
+    }
+
     merged.sort_by_key(|v| v.game_id);
     merged.write_file(config.io.output.join(OUTPUT))
 }
@@ -94,6 +126,7 @@ struct Item {
     icon_id: u8,
     icon_color: IconColor,
     icon_color_id: u8,
+    foundry: Option<Foundry>,
 }
 
 impl From<&ItemData> for Item {
@@ -113,6 +146,7 @@ impl From<&ItemData> for Item {
             icon_id: value.icon as u8,
             icon_color: value.icon_color,
             icon_color_id: value.icon_color as u8,
+            foundry: None,
         }
     }
 }
@@ -259,4 +293,32 @@ enum IconKind {
     Sprout = 87,
     #[serde(other)]
     Unknown = u8::MAX,
+}
+
+#[derive(Debug, Serialize)]
+#[serde(tag = "kind", rename_all = "kebab-case")]
+enum Foundry {
+    Material(FoundryMaterial),
+    Output(FoundryOutput),
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct FoundryMaterial {
+    #[serde(rename(deserialize = "_ItemId"), skip_serializing)]
+    item_id: isize,
+
+    #[serde(alias = "_RefinePoint")]
+    armor_sphere_value: u16,
+
+    #[serde(alias = "_DrillPoint")]
+    ore_value: u16,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct FoundryOutput {
+    #[serde(rename(deserialize = "_ItemId"), skip_serializing)]
+    item_id: isize,
+
+    #[serde(alias = "_RefinePoint", alias = "_DrillPoint")]
+    cost: u16,
 }

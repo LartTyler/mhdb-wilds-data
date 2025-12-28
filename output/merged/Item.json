@@ -50,7 +50,8 @@
     "icon": "potion",
     "icon_id": 10,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 3,
@@ -104,7 +105,8 @@
     "icon": "potion",
     "icon_id": 10,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 4,
@@ -157,7 +159,8 @@
     "icon": "curative",
     "icon_id": 71,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 5,
@@ -211,7 +214,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 6,
@@ -265,7 +269,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 7,
@@ -311,7 +316,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 8,
@@ -357,7 +363,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 9,
@@ -403,7 +410,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 10,
@@ -449,7 +457,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 11,
@@ -495,7 +504,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 12,
@@ -549,7 +559,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 13,
@@ -595,7 +606,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 14,
@@ -649,7 +661,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 15,
@@ -703,7 +716,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 16,
@@ -756,7 +770,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 17,
@@ -802,7 +817,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 18,
@@ -848,7 +864,8 @@
     "icon": "capture-net",
     "icon_id": 63,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 19,
@@ -902,7 +919,8 @@
     "icon": "trap",
     "icon_id": 19,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 20,
@@ -956,7 +974,8 @@
     "icon": "trap",
     "icon_id": 19,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 21,
@@ -1002,7 +1021,8 @@
     "icon": "whetstone",
     "icon_id": 12,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 23,
@@ -1048,7 +1068,8 @@
     "icon": "binoculars",
     "icon_id": 25,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 24,
@@ -1094,7 +1115,8 @@
     "icon": "camping-kit",
     "icon_id": 61,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 25,
@@ -1140,7 +1162,8 @@
     "icon": "grill",
     "icon_id": 27,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 26,
@@ -1186,7 +1209,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 27,
@@ -1232,7 +1256,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 28,
@@ -1278,7 +1303,8 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 29,
@@ -1324,7 +1350,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 30,
@@ -1370,7 +1397,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 31,
@@ -1416,7 +1444,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 32,
@@ -1462,7 +1491,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 33,
@@ -1508,7 +1538,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 34,
@@ -1554,7 +1589,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 35,
@@ -1600,7 +1640,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 36,
@@ -1646,7 +1691,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 37,
@@ -1692,7 +1742,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 600,
+      "ore_value": 600
+    }
   },
   {
     "game_id": 38,
@@ -1738,7 +1793,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 39,
@@ -1784,7 +1840,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 40,
@@ -1830,7 +1887,8 @@
     "icon": "ammo-slug",
     "icon_id": 67,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 41,
@@ -1890,7 +1948,8 @@
     "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 42,
@@ -1943,7 +2002,8 @@
     "icon": "ammo-heavy",
     "icon_id": 70,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 43,
@@ -1997,7 +2057,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 44,
@@ -2051,7 +2112,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": null
   },
   {
     "game_id": 45,
@@ -2105,7 +2167,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 46,
@@ -2159,7 +2222,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 47,
@@ -2213,7 +2277,8 @@
     "icon": "ammo-special",
     "icon_id": 68,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 48,
@@ -2267,7 +2332,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 49,
@@ -2321,7 +2387,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 50,
@@ -2375,7 +2442,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 51,
@@ -2435,7 +2503,8 @@
     "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 52,
@@ -2481,7 +2550,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 53,
@@ -2527,7 +2597,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 54,
@@ -2573,7 +2644,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 55,
@@ -2619,7 +2691,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 56,
@@ -2665,7 +2738,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 57,
@@ -2711,7 +2785,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 58,
@@ -2757,7 +2832,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 59,
@@ -2803,7 +2879,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 60,
@@ -2849,7 +2926,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 61,
@@ -2895,7 +2973,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 62,
@@ -2941,7 +3020,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 66,
@@ -2987,7 +3067,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 67,
@@ -3033,7 +3114,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 69,
@@ -3079,7 +3161,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 70,
@@ -3125,7 +3208,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 71,
@@ -3171,7 +3255,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 72,
@@ -3230,7 +3315,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 73,
@@ -3276,7 +3362,8 @@
     "icon": "trap-tool",
     "icon_id": 18,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 74,
@@ -3322,7 +3409,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 75,
@@ -3368,7 +3456,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 76,
@@ -3414,7 +3503,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 77,
@@ -3468,7 +3558,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 80,
@@ -3514,7 +3605,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 81,
@@ -3560,7 +3656,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 82,
@@ -3606,7 +3707,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 83,
@@ -3652,7 +3758,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 84,
@@ -3698,7 +3809,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 85,
@@ -3744,7 +3860,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 86,
@@ -3790,7 +3911,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 87,
@@ -3836,7 +3962,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 88,
@@ -3882,7 +4013,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 89,
@@ -3928,7 +4064,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 90,
@@ -3974,7 +4115,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 91,
@@ -4020,7 +4166,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 92,
@@ -4066,7 +4217,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 600,
+      "ore_value": 600
+    }
   },
   {
     "game_id": 93,
@@ -4112,7 +4268,8 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 94,
@@ -4158,7 +4315,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 95,
@@ -4204,7 +4362,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 96,
@@ -4250,7 +4409,8 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 97,
@@ -4296,7 +4456,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 98,
@@ -4342,7 +4503,8 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 99,
@@ -4388,7 +4550,8 @@
     "icon": "poop",
     "icon_id": 40,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 101,
@@ -4434,7 +4597,8 @@
     "icon": "poop",
     "icon_id": 40,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 102,
@@ -4480,7 +4644,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 103,
@@ -4526,7 +4695,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 104,
@@ -4572,7 +4746,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 105,
@@ -4618,7 +4797,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 106,
@@ -4664,7 +4848,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 800,
+      "ore_value": 800
+    }
   },
   {
     "game_id": 113,
@@ -4710,7 +4899,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 114,
@@ -4756,7 +4946,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 115,
@@ -4802,7 +4993,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 116,
@@ -4848,7 +5040,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 117,
@@ -4894,7 +5087,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": null
   },
   {
     "game_id": 118,
@@ -4940,7 +5134,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 119,
@@ -4986,7 +5181,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 120,
@@ -5032,7 +5228,8 @@
     "icon": "potion",
     "icon_id": 10,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 121,
@@ -5078,7 +5275,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 122,
@@ -5124,7 +5322,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 123,
@@ -5170,7 +5369,8 @@
     "icon": "trap",
     "icon_id": 19,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 124,
@@ -5216,7 +5416,8 @@
     "icon": "trap",
     "icon_id": 19,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 125,
@@ -5262,7 +5463,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 126,
@@ -5308,7 +5510,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 127,
@@ -5354,7 +5557,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 128,
@@ -5400,7 +5604,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 129,
@@ -5446,7 +5651,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 130,
@@ -5492,7 +5698,8 @@
     "icon": "nut",
     "icon_id": 32,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 131,
@@ -5538,7 +5745,8 @@
     "icon": "nut",
     "icon_id": 32,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 139,
@@ -5584,7 +5792,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 140,
@@ -5630,7 +5843,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 141,
@@ -5676,7 +5894,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 142,
@@ -5722,7 +5945,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 143,
@@ -5768,7 +5996,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 144,
@@ -5814,7 +6047,12 @@
     "icon": "plate",
     "icon_id": 50,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 145,
@@ -5868,7 +6106,8 @@
     "icon": "knife",
     "icon_id": 26,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 146,
@@ -5914,7 +6153,8 @@
     "icon": "knife",
     "icon_id": 26,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 147,
@@ -5960,7 +6200,8 @@
     "icon": "knife",
     "icon_id": 26,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 148,
@@ -6006,7 +6247,8 @@
     "icon": "knife",
     "icon_id": 26,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 151,
@@ -6060,7 +6302,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 152,
@@ -6106,7 +6349,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 153,
@@ -6152,7 +6396,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 154,
@@ -6205,7 +6450,8 @@
     "icon": "ammo-heavy",
     "icon_id": 70,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 155,
@@ -6251,7 +6497,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 156,
@@ -6297,7 +6544,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 157,
@@ -6343,7 +6591,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 158,
@@ -6389,7 +6638,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 159,
@@ -6435,7 +6685,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 160,
@@ -6481,7 +6732,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 161,
@@ -6527,7 +6779,8 @@
     "icon": "mantle",
     "icon_id": 74,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 162,
@@ -6573,7 +6826,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 163,
@@ -6627,7 +6881,8 @@
     "icon": "curative",
     "icon_id": 71,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 164,
@@ -6681,7 +6936,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 165,
@@ -6735,7 +6991,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 166,
@@ -6788,7 +7045,8 @@
     "icon": "curative",
     "icon_id": 71,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 167,
@@ -6841,7 +7099,8 @@
     "icon": "curative",
     "icon_id": 71,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 168,
@@ -6895,7 +7154,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 169,
@@ -6949,7 +7209,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 170,
@@ -7003,7 +7264,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 171,
@@ -7057,7 +7319,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 172,
@@ -7111,7 +7374,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 173,
@@ -7165,7 +7429,8 @@
     "icon": "drug",
     "icon_id": 72,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 174,
@@ -7219,7 +7484,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 175,
@@ -7273,7 +7539,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 176,
@@ -7327,7 +7594,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 177,
@@ -7381,7 +7649,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 178,
@@ -7435,7 +7704,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 179,
@@ -7489,7 +7759,8 @@
     "icon": "curative",
     "icon_id": 71,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 180,
@@ -7543,7 +7814,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 181,
@@ -7597,7 +7869,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 182,
@@ -7643,7 +7916,8 @@
     "icon": "knife",
     "icon_id": 26,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 183,
@@ -7689,7 +7963,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 184,
@@ -7735,7 +8010,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 186,
@@ -7789,7 +8065,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 188,
@@ -7835,7 +8112,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 189,
@@ -7881,7 +8159,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 190,
@@ -7927,7 +8206,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": null
   },
   {
     "game_id": 191,
@@ -7973,7 +8253,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 192,
@@ -8019,7 +8300,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 195,
@@ -8065,7 +8347,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 196,
@@ -8119,7 +8402,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 197,
@@ -8180,7 +8464,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 198,
@@ -8234,7 +8519,8 @@
     "icon": "potion",
     "icon_id": 10,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 199,
@@ -8280,7 +8566,8 @@
     "icon": "pill",
     "icon_id": 13,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 200,
@@ -8326,7 +8613,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 201,
@@ -8372,7 +8660,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 202,
@@ -8418,7 +8707,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 203,
@@ -8464,7 +8754,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 204,
@@ -8510,7 +8801,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 205,
@@ -8556,7 +8848,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 206,
@@ -8602,7 +8895,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 207,
@@ -8648,7 +8942,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 208,
@@ -8702,7 +8997,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 209,
@@ -8748,7 +9044,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 210,
@@ -8794,7 +9091,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 211,
@@ -8848,7 +9146,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 212,
@@ -8902,7 +9201,8 @@
     "icon": "smoke",
     "icon_id": 21,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 213,
@@ -8948,7 +9248,8 @@
     "icon": "cooking-cheese",
     "icon_id": 77,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 214,
@@ -8994,7 +9295,8 @@
     "icon": "cooking-cheese",
     "icon_id": 77,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 215,
@@ -9040,7 +9342,8 @@
     "icon": "cooking-mushroom",
     "icon_id": 78,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 216,
@@ -9086,7 +9389,8 @@
     "icon": "cooking-mushroom",
     "icon_id": 78,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 217,
@@ -9132,7 +9436,8 @@
     "icon": "cooking-shellfish",
     "icon_id": 79,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 218,
@@ -9178,7 +9483,8 @@
     "icon": "cooking-shellfish",
     "icon_id": 79,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 219,
@@ -9224,7 +9530,8 @@
     "icon": "cooking-egg",
     "icon_id": 81,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 220,
@@ -9270,7 +9577,8 @@
     "icon": "cooking-egg",
     "icon_id": 81,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 221,
@@ -9316,7 +9624,8 @@
     "icon": "cooking-garlic",
     "icon_id": 80,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 222,
@@ -9362,7 +9671,8 @@
     "icon": "cooking-garlic",
     "icon_id": 80,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 223,
@@ -9408,7 +9718,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 224,
@@ -9454,7 +9765,8 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 225,
@@ -9500,7 +9812,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 226,
@@ -9546,7 +9859,8 @@
     "icon": "fish",
     "icon_id": 14,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 227,
@@ -9592,7 +9906,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 228,
@@ -9638,7 +9953,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 229,
@@ -9684,7 +10000,12 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 230,
@@ -9730,7 +10051,12 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 231,
@@ -9776,7 +10102,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 232,
@@ -9822,7 +10149,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 233,
@@ -9868,7 +10196,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 234,
@@ -9914,7 +10243,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 235,
@@ -9960,7 +10290,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 236,
@@ -10006,7 +10337,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 237,
@@ -10052,7 +10384,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 238,
@@ -10098,7 +10431,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": null
   },
   {
     "game_id": 239,
@@ -10144,7 +10478,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 240,
@@ -10190,7 +10525,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 241,
@@ -10236,7 +10572,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 242,
@@ -10282,7 +10619,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 243,
@@ -10328,7 +10666,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 244,
@@ -10374,7 +10713,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 245,
@@ -10420,7 +10760,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 246,
@@ -10466,7 +10807,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 247,
@@ -10512,7 +10854,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 248,
@@ -10558,7 +10901,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 249,
@@ -10604,7 +10948,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": null
   },
   {
     "game_id": 250,
@@ -10650,7 +10995,8 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 251,
@@ -10696,7 +11042,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 252,
@@ -10742,7 +11089,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 253,
@@ -10788,7 +11136,8 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 254,
@@ -10834,7 +11183,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 255,
@@ -10880,7 +11230,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 256,
@@ -10926,7 +11277,8 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 257,
@@ -10972,7 +11324,8 @@
     "icon": "web",
     "icon_id": 36,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 258,
@@ -11018,7 +11371,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 259,
@@ -11064,7 +11418,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 260,
@@ -11110,7 +11465,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 261,
@@ -11156,7 +11512,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 262,
@@ -11202,7 +11559,8 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 263,
@@ -11248,7 +11606,8 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 264,
@@ -11294,7 +11653,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 265,
@@ -11340,7 +11700,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 266,
@@ -11386,7 +11747,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": null
   },
   {
     "game_id": 267,
@@ -11432,7 +11794,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 268,
@@ -11478,7 +11841,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 269,
@@ -11524,7 +11888,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 270,
@@ -11570,7 +11935,8 @@
     "icon": "sprout",
     "icon_id": 87,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 271,
@@ -11616,7 +11982,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 272,
@@ -11662,7 +12029,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 273,
@@ -11708,7 +12076,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 274,
@@ -11754,7 +12127,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 275,
@@ -11800,7 +12178,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 276,
@@ -11846,7 +12229,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 277,
@@ -11892,7 +12280,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 281,
@@ -11938,7 +12331,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 282,
@@ -11984,7 +12378,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 285,
@@ -12030,7 +12425,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 286,
@@ -12076,7 +12472,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 287,
@@ -12122,7 +12519,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 288,
@@ -12168,7 +12566,8 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 289,
@@ -12214,7 +12613,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 290,
@@ -12260,7 +12660,8 @@
     "icon": "nut",
     "icon_id": 32,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 291,
@@ -12306,7 +12707,8 @@
     "icon": "nut",
     "icon_id": 32,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 292,
@@ -12352,7 +12754,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 293,
@@ -12398,7 +12805,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 294,
@@ -12444,7 +12856,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 295,
@@ -12490,7 +12907,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 296,
@@ -12536,7 +12958,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 297,
@@ -12582,7 +13009,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 298,
@@ -12628,7 +13060,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 299,
@@ -12674,7 +13111,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 300,
@@ -12720,7 +13162,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 301,
@@ -12766,7 +13213,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 302,
@@ -12812,7 +13264,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 303,
@@ -12858,7 +13315,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 304,
@@ -12904,7 +13366,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 305,
@@ -12950,7 +13417,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 306,
@@ -12996,7 +13468,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 307,
@@ -13042,7 +13519,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 308,
@@ -13088,7 +13570,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 309,
@@ -13134,7 +13621,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 310,
@@ -13180,7 +13672,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 311,
@@ -13226,7 +13723,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 312,
@@ -13272,7 +13774,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 313,
@@ -13318,7 +13825,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 314,
@@ -13364,7 +13876,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 315,
@@ -13410,7 +13927,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 316,
@@ -13456,7 +13978,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 317,
@@ -13502,7 +14029,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 318,
@@ -13548,7 +14080,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 319,
@@ -13594,7 +14131,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 320,
@@ -13640,7 +14182,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 321,
@@ -13686,7 +14233,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 322,
@@ -13732,7 +14284,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 323,
@@ -13778,7 +14335,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 324,
@@ -13824,7 +14386,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 325,
@@ -13870,7 +14437,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 326,
@@ -13916,7 +14488,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 327,
@@ -13962,7 +14539,12 @@
     "icon": "plate",
     "icon_id": 50,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 328,
@@ -14008,7 +14590,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 329,
@@ -14054,7 +14641,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 330,
@@ -14100,7 +14692,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 331,
@@ -14146,7 +14743,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 332,
@@ -14192,7 +14794,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 333,
@@ -14238,7 +14845,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 334,
@@ -14284,7 +14896,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1100,
+      "ore_value": 1100
+    }
   },
   {
     "game_id": 335,
@@ -14330,7 +14947,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 336,
@@ -14376,7 +14998,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 337,
@@ -14422,7 +15049,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 338,
@@ -14468,7 +15100,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 339,
@@ -14514,7 +15151,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 340,
@@ -14560,7 +15202,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 341,
@@ -14606,7 +15253,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 342,
@@ -14652,7 +15304,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 343,
@@ -14698,7 +15355,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 344,
@@ -14744,7 +15406,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 345,
@@ -14790,7 +15457,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "ultramarine",
-    "icon_color_id": 18
+    "icon_color_id": 18,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 346,
@@ -14836,7 +15508,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 347,
@@ -14882,7 +15559,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 348,
@@ -14928,7 +15610,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 349,
@@ -14974,7 +15661,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 350,
@@ -15020,7 +15712,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 351,
@@ -15066,7 +15763,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1100,
+      "ore_value": 1100
+    }
   },
   {
     "game_id": 352,
@@ -15112,7 +15814,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 353,
@@ -15158,7 +15865,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 354,
@@ -15204,7 +15916,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 355,
@@ -15250,7 +15967,12 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 356,
@@ -15296,7 +16018,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 357,
@@ -15342,7 +16069,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 358,
@@ -15388,7 +16120,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 359,
@@ -15434,7 +16171,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 360,
@@ -15480,7 +16222,12 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 361,
@@ -15526,7 +16273,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 362,
@@ -15572,7 +16324,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 363,
@@ -15618,7 +16375,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 364,
@@ -15664,7 +16426,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 365,
@@ -15710,7 +16477,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 366,
@@ -15756,7 +16528,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 367,
@@ -15802,7 +16579,12 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 368,
@@ -15848,7 +16630,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 30,
+      "ore_value": 30
+    }
   },
   {
     "game_id": 369,
@@ -15894,7 +16681,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 370,
@@ -15940,7 +16732,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 371,
@@ -15986,7 +16783,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 372,
@@ -16032,7 +16834,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 373,
@@ -16078,7 +16885,12 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 374,
@@ -16124,7 +16936,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 375,
@@ -16170,7 +16987,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 376,
@@ -16216,7 +17038,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 377,
@@ -16262,7 +17089,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 378,
@@ -16308,7 +17140,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 379,
@@ -16354,7 +17191,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 380,
@@ -16400,7 +17242,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 381,
@@ -16446,7 +17293,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 382,
@@ -16492,7 +17344,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 383,
@@ -16538,7 +17395,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 384,
@@ -16584,7 +17446,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 385,
@@ -16630,7 +17497,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 386,
@@ -16676,7 +17548,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 387,
@@ -16722,7 +17599,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 388,
@@ -16768,7 +17650,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1100,
+      "ore_value": 1100
+    }
   },
   {
     "game_id": 389,
@@ -16814,7 +17701,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 390,
@@ -16860,7 +17752,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 391,
@@ -16906,7 +17803,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 392,
@@ -16952,7 +17854,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 393,
@@ -16998,7 +17905,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 394,
@@ -17044,7 +17956,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 395,
@@ -17090,7 +18007,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 396,
@@ -17136,7 +18058,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 397,
@@ -17182,7 +18109,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 398,
@@ -17228,7 +18160,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 399,
@@ -17274,7 +18211,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 400,
@@ -17320,7 +18262,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 401,
@@ -17366,7 +18313,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 402,
@@ -17412,7 +18364,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 403,
@@ -17458,7 +18415,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 405,
@@ -17504,7 +18466,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 406,
@@ -17550,7 +18517,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 407,
@@ -17596,7 +18568,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 408,
@@ -17642,7 +18619,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 410,
@@ -17688,7 +18670,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 411,
@@ -17734,7 +18721,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 500,
+      "ore_value": 500
+    }
   },
   {
     "game_id": 413,
@@ -17788,7 +18780,8 @@
     "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 414,
@@ -17842,7 +18835,8 @@
     "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 415,
@@ -17896,7 +18890,8 @@
     "icon": "ammo-utility",
     "icon_id": 69,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 416,
@@ -17950,7 +18945,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 417,
@@ -18004,7 +19000,8 @@
     "icon": "ammo-basic",
     "icon_id": 33,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 418,
@@ -18050,7 +19047,12 @@
     "icon": "crystal",
     "icon_id": 52,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 419,
@@ -18096,7 +19098,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 420,
@@ -18142,7 +19149,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 421,
@@ -18188,7 +19200,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 422,
@@ -18234,7 +19251,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 423,
@@ -18280,7 +19302,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 424,
@@ -18326,7 +19353,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1200,
+      "ore_value": 1200
+    }
   },
   {
     "game_id": 425,
@@ -18372,7 +19404,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 426,
@@ -18418,7 +19455,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 427,
@@ -18464,7 +19506,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 428,
@@ -18510,7 +19557,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 429,
@@ -18556,7 +19608,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 430,
@@ -18602,7 +19659,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 431,
@@ -18648,7 +19710,12 @@
     "icon": "plate",
     "icon_id": 50,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 432,
@@ -18694,7 +19761,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 433,
@@ -18740,7 +19812,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 434,
@@ -18786,7 +19863,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 435,
@@ -18832,7 +19914,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 436,
@@ -18878,7 +19965,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 437,
@@ -18924,7 +20016,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 438,
@@ -18970,7 +20067,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 439,
@@ -19016,7 +20118,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 440,
@@ -19062,7 +20165,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 441,
@@ -19108,7 +20216,12 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 442,
@@ -19154,7 +20267,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 443,
@@ -19200,7 +20318,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 444,
@@ -19246,7 +20369,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 445,
@@ -19292,7 +20420,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 446,
@@ -19338,7 +20471,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 447,
@@ -19384,7 +20522,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 448,
@@ -19430,7 +20573,12 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 449,
@@ -19476,7 +20624,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 450,
@@ -19522,7 +20675,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 451,
@@ -19568,7 +20726,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 452,
@@ -19614,7 +20777,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 454,
@@ -19660,7 +20828,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 455,
@@ -19706,7 +20879,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 456,
@@ -19752,7 +20930,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 457,
@@ -19806,7 +20989,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 458,
@@ -19852,7 +21036,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 459,
@@ -19898,7 +21083,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 460,
@@ -19944,7 +21134,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 462,
@@ -19990,7 +21185,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 463,
@@ -20036,7 +21236,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 464,
@@ -20082,7 +21287,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 465,
@@ -20128,7 +21338,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1200,
+      "ore_value": 1200
+    }
   },
   {
     "game_id": 466,
@@ -20174,7 +21389,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 467,
@@ -20220,7 +21440,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 468,
@@ -20266,7 +21487,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 469,
@@ -20312,7 +21534,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 470,
@@ -20358,7 +21581,8 @@
     "icon": "mystery-material",
     "icon_id": 1,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 471,
@@ -20404,7 +21628,8 @@
     "icon": "mystery-material",
     "icon_id": 1,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 472,
@@ -20450,7 +21675,12 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 473,
@@ -20496,7 +21726,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 474,
@@ -20542,7 +21777,8 @@
     "icon": "coin",
     "icon_id": 31,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 475,
@@ -20588,7 +21824,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 477,
@@ -20634,7 +21871,8 @@
     "icon": "mushroom",
     "icon_id": 6,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 478,
@@ -20680,7 +21918,8 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 479,
@@ -20726,7 +21965,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 480,
@@ -20772,7 +22012,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 481,
@@ -20818,7 +22063,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 482,
@@ -20864,7 +22114,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 483,
@@ -20910,7 +22165,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 484,
@@ -20956,7 +22216,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 485,
@@ -21002,7 +22267,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 486,
@@ -21048,7 +22318,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 487,
@@ -21094,7 +22369,8 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 488,
@@ -21140,7 +22416,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 489,
@@ -21186,7 +22463,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 490,
@@ -21232,7 +22510,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 491,
@@ -21278,7 +22557,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 492,
@@ -21324,7 +22604,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 493,
@@ -21370,7 +22651,8 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 494,
@@ -21416,7 +22698,8 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 496,
@@ -21462,7 +22745,8 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 497,
@@ -21508,7 +22792,8 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 498,
@@ -21554,7 +22839,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 499,
@@ -21600,7 +22886,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 502,
@@ -21646,7 +22933,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 503,
@@ -21692,7 +22980,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 504,
@@ -21738,7 +23027,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 505,
@@ -21784,7 +23078,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 506,
@@ -21830,7 +23129,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 507,
@@ -21876,7 +23180,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 2,
+      "ore_value": 2
+    }
   },
   {
     "game_id": 508,
@@ -21922,7 +23231,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 509,
@@ -21968,7 +23282,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 510,
@@ -22014,7 +23333,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 511,
@@ -22060,7 +23384,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 512,
@@ -22106,7 +23435,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 513,
@@ -22152,7 +23486,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 514,
@@ -22198,7 +23537,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 515,
@@ -22244,7 +23588,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 516,
@@ -22290,7 +23639,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 517,
@@ -22336,7 +23690,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 518,
@@ -22382,7 +23741,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 519,
@@ -22428,7 +23792,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 520,
@@ -22474,7 +23843,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 521,
@@ -22520,7 +23894,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 522,
@@ -22566,7 +23945,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 523,
@@ -22612,7 +23996,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 524,
@@ -22658,7 +24047,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 525,
@@ -22704,7 +24098,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 526,
@@ -22750,7 +24149,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 527,
@@ -22796,7 +24200,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 528,
@@ -22842,7 +24251,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 4,
+      "ore_value": 4
+    }
   },
   {
     "game_id": 529,
@@ -22888,7 +24302,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 530,
@@ -22934,7 +24353,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 531,
@@ -22980,7 +24404,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 532,
@@ -23026,7 +24455,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 533,
@@ -23072,7 +24506,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 534,
@@ -23118,7 +24557,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 600,
+      "ore_value": 600
+    }
   },
   {
     "game_id": 535,
@@ -23164,7 +24608,8 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 536,
@@ -23210,7 +24655,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 537,
@@ -23256,7 +24706,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 538,
@@ -23302,7 +24757,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 539,
@@ -23348,7 +24808,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 540,
@@ -23394,7 +24859,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 541,
@@ -23440,7 +24910,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 542,
@@ -23486,7 +24961,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 543,
@@ -23532,7 +25012,12 @@
     "icon": "skull",
     "icon_id": 49,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 544,
@@ -23578,7 +25063,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 545,
@@ -23624,7 +25114,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 546,
@@ -23670,7 +25165,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 547,
@@ -23716,7 +25216,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 548,
@@ -23762,7 +25267,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 549,
@@ -23808,7 +25318,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 550,
@@ -23854,7 +25369,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 551,
@@ -23900,7 +25420,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 552,
@@ -23946,7 +25471,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 553,
@@ -23992,7 +25522,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 554,
@@ -24038,7 +25573,12 @@
     "icon": "plate",
     "icon_id": 50,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1200,
+      "ore_value": 1200
+    }
   },
   {
     "game_id": 555,
@@ -24084,7 +25624,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 556,
@@ -24130,7 +25675,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 557,
@@ -24176,7 +25726,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 558,
@@ -24222,7 +25777,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 559,
@@ -24268,7 +25828,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 560,
@@ -24314,7 +25879,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 561,
@@ -24360,7 +25930,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 562,
@@ -24406,7 +25981,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 563,
@@ -24452,7 +26032,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 564,
@@ -24498,7 +26083,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 565,
@@ -24544,7 +26134,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 566,
@@ -24590,7 +26185,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 567,
@@ -24636,7 +26236,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 568,
@@ -24682,7 +26287,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1200,
+      "ore_value": 1200
+    }
   },
   {
     "game_id": 569,
@@ -24728,7 +26338,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 570,
@@ -24774,7 +26389,12 @@
     "icon": "crystal",
     "icon_id": 52,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 571,
@@ -24820,7 +26440,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 572,
@@ -24866,7 +26487,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 573,
@@ -24912,7 +26534,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 574,
@@ -24958,7 +26581,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 575,
@@ -25004,7 +26628,8 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 576,
@@ -25050,7 +26675,8 @@
     "icon": "honey",
     "icon_id": 8,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 577,
@@ -25096,7 +26722,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 578,
@@ -25142,7 +26769,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 579,
@@ -25188,7 +26816,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 580,
@@ -25234,7 +26863,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 581,
@@ -25280,7 +26910,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 582,
@@ -25326,7 +26957,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 583,
@@ -25372,7 +27004,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 584,
@@ -25418,7 +27051,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 585,
@@ -25464,7 +27102,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 586,
@@ -25510,7 +27153,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 587,
@@ -25556,7 +27200,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 588,
@@ -25602,7 +27247,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 589,
@@ -25648,7 +27294,8 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 590,
@@ -25694,7 +27341,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 591,
@@ -25740,7 +27388,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 592,
@@ -25786,7 +27435,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 593,
@@ -25832,7 +27482,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 594,
@@ -25878,7 +27533,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 595,
@@ -25924,7 +27584,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 596,
@@ -25970,7 +27635,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 598,
@@ -26016,7 +27686,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 599,
@@ -26062,7 +27737,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 600,
@@ -26108,7 +27788,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 601,
@@ -26154,7 +27839,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 602,
@@ -26200,7 +27890,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 603,
@@ -26246,7 +27941,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1,
+      "ore_value": 1
+    }
   },
   {
     "game_id": 604,
@@ -26292,7 +27992,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 605,
@@ -26338,7 +28043,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 3,
+      "ore_value": 3
+    }
   },
   {
     "game_id": 606,
@@ -26384,7 +28094,12 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 607,
@@ -26430,7 +28145,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 7,
+      "ore_value": 7
+    }
   },
   {
     "game_id": 608,
@@ -26476,7 +28196,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 609,
@@ -26522,7 +28247,12 @@
     "icon": "plant",
     "icon_id": 9,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 610,
@@ -26568,7 +28298,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 611,
@@ -26614,7 +28349,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 612,
@@ -26660,7 +28400,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 613,
@@ -26706,7 +28451,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 614,
@@ -26752,7 +28502,8 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 615,
@@ -26798,7 +28549,8 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 616,
@@ -26844,7 +28596,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 618,
@@ -26890,7 +28647,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 619,
@@ -26936,7 +28698,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 620,
@@ -26982,7 +28745,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 621,
@@ -27028,7 +28792,8 @@
     "icon": "mystery-decoration",
     "icon_id": 56,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 622,
@@ -27074,7 +28839,11 @@
     "icon": "armor-sphere",
     "icon_id": 55,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "output",
+      "cost": 10
+    }
   },
   {
     "game_id": 623,
@@ -27120,7 +28889,11 @@
     "icon": "armor-sphere",
     "icon_id": 55,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "output",
+      "cost": 50
+    }
   },
   {
     "game_id": 624,
@@ -27166,7 +28939,11 @@
     "icon": "armor-sphere",
     "icon_id": 55,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": {
+      "kind": "output",
+      "cost": 200
+    }
   },
   {
     "game_id": 625,
@@ -27212,7 +28989,11 @@
     "icon": "armor-sphere",
     "icon_id": 55,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "output",
+      "cost": 1000
+    }
   },
   {
     "game_id": 626,
@@ -27258,7 +29039,8 @@
     "icon": "mantle",
     "icon_id": 74,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 627,
@@ -27304,7 +29086,8 @@
     "icon": "mantle",
     "icon_id": 74,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 628,
@@ -27350,7 +29133,8 @@
     "icon": "mantle",
     "icon_id": 74,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 629,
@@ -27396,7 +29180,8 @@
     "icon": "mantle",
     "icon_id": 74,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": null
   },
   {
     "game_id": 630,
@@ -27442,7 +29227,8 @@
     "icon": "egg",
     "icon_id": 7,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 631,
@@ -27488,7 +29274,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 632,
@@ -27534,7 +29321,8 @@
     "icon": "meat",
     "icon_id": 15,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 633,
@@ -27580,7 +29368,12 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 634,
@@ -27634,7 +29427,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 635,
@@ -27688,7 +29482,8 @@
     "icon": "powder",
     "icon_id": 11,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 636,
@@ -27734,7 +29529,8 @@
     "icon": "barrel",
     "icon_id": 16,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 637,
@@ -27780,7 +29576,8 @@
     "icon": "barrel",
     "icon_id": 16,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 638,
@@ -27826,7 +29623,8 @@
     "icon": "web",
     "icon_id": 36,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 639,
@@ -27880,7 +29678,8 @@
     "icon": "web",
     "icon_id": 36,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 640,
@@ -27926,7 +29725,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 641,
@@ -27972,7 +29772,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 642,
@@ -28018,7 +29819,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 643,
@@ -28064,7 +29866,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 644,
@@ -28110,7 +29913,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 645,
@@ -28156,7 +29960,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 646,
@@ -28202,7 +30007,8 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 647,
@@ -28248,7 +30054,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 648,
@@ -28294,7 +30101,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 649,
@@ -28340,7 +30148,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 650,
@@ -28386,7 +30195,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 651,
@@ -28432,7 +30242,8 @@
     "icon": "egg",
     "icon_id": 7,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 652,
@@ -28478,7 +30289,8 @@
     "icon": "egg",
     "icon_id": 7,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 653,
@@ -28524,7 +30336,8 @@
     "icon": "egg",
     "icon_id": 7,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 654,
@@ -28570,7 +30383,11 @@
     "icon": "armor-sphere",
     "icon_id": 55,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "output",
+      "cost": 5000
+    }
   },
   {
     "game_id": 655,
@@ -28616,7 +30433,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 656,
@@ -28662,7 +30484,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 657,
@@ -28708,7 +30535,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 658,
@@ -28754,7 +30586,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 659,
@@ -28800,7 +30637,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 80,
+      "ore_value": 80
+    }
   },
   {
     "game_id": 660,
@@ -28846,7 +30688,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 661,
@@ -28892,7 +30739,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 662,
@@ -28938,7 +30790,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 663,
@@ -28984,7 +30837,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 664,
@@ -29030,7 +30884,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 5,
+      "ore_value": 5
+    }
   },
   {
     "game_id": 665,
@@ -29076,7 +30935,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 666,
@@ -29122,7 +30986,11 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "output",
+      "cost": 20
+    }
   },
   {
     "game_id": 667,
@@ -29168,7 +31036,11 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "output",
+      "cost": 100
+    }
   },
   {
     "game_id": 668,
@@ -29214,7 +31086,11 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "output",
+      "cost": 200
+    }
   },
   {
     "game_id": 669,
@@ -29260,7 +31136,11 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "output",
+      "cost": 300
+    }
   },
   {
     "game_id": 670,
@@ -29306,7 +31186,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": null
   },
   {
     "game_id": 671,
@@ -29352,7 +31233,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 672,
@@ -29398,7 +31280,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "moss-green",
-    "icon_color_id": 13
+    "icon_color_id": 13,
+    "foundry": null
   },
   {
     "game_id": 673,
@@ -29444,7 +31327,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 674,
@@ -29490,7 +31374,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 675,
@@ -29536,7 +31421,8 @@
     "icon": "fishing-rod",
     "icon_id": 22,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": null
   },
   {
     "game_id": 676,
@@ -29582,7 +31468,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 677,
@@ -29628,7 +31515,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 678,
@@ -29674,7 +31562,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 679,
@@ -29720,7 +31609,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "lemon",
-    "icon_color_id": 11
+    "icon_color_id": 11,
+    "foundry": null
   },
   {
     "game_id": 680,
@@ -29766,7 +31656,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 681,
@@ -29812,7 +31703,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 682,
@@ -29858,7 +31750,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 683,
@@ -29904,7 +31797,8 @@
     "icon": "phial",
     "icon_id": 35,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 684,
@@ -29950,7 +31844,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 685,
@@ -29996,7 +31891,8 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": null
   },
   {
     "game_id": 686,
@@ -30042,7 +31938,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 687,
@@ -30088,7 +31985,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 688,
@@ -30134,7 +32032,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 689,
@@ -30180,7 +32079,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 698,
@@ -30226,7 +32126,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 699,
@@ -30272,7 +32173,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 700,
@@ -30318,7 +32220,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 701,
@@ -30364,7 +32267,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 702,
@@ -30410,7 +32314,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 703,
@@ -30456,7 +32361,8 @@
     "icon": "ore",
     "icon_id": 38,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 704,
@@ -30502,7 +32408,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 10,
+      "ore_value": 10
+    }
   },
   {
     "game_id": 705,
@@ -30548,7 +32459,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 706,
@@ -30594,7 +32510,12 @@
     "icon": "plate",
     "icon_id": 50,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 707,
@@ -30640,7 +32561,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 708,
@@ -30686,7 +32612,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 710,
@@ -30732,7 +32663,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 711,
@@ -30778,7 +32714,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 712,
@@ -30824,7 +32765,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 713,
@@ -30870,7 +32816,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 714,
@@ -30916,7 +32867,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 715,
@@ -30962,7 +32918,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 717,
@@ -31008,7 +32969,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1300,
+      "ore_value": 1300
+    }
   },
   {
     "game_id": 719,
@@ -31054,7 +33020,12 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 720,
@@ -31100,7 +33071,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 721,
@@ -31146,7 +33122,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 722,
@@ -31192,7 +33173,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 723,
@@ -31238,7 +33224,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 724,
@@ -31284,7 +33275,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 726,
@@ -31330,7 +33326,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 727,
@@ -31376,7 +33377,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 90,
+      "ore_value": 90
+    }
   },
   {
     "game_id": 728,
@@ -31422,7 +33428,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 729,
@@ -31468,7 +33479,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 730,
@@ -31514,7 +33530,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 731,
@@ -31560,7 +33581,12 @@
     "icon": "hide",
     "icon_id": 44,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 732,
@@ -31606,7 +33632,12 @@
     "icon": "medulla",
     "icon_id": 41,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 733,
@@ -31652,7 +33683,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 734,
@@ -31698,7 +33734,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 120,
+      "ore_value": 120
+    }
   },
   {
     "game_id": 735,
@@ -31744,7 +33785,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 110,
+      "ore_value": 110
+    }
   },
   {
     "game_id": 736,
@@ -31790,7 +33836,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1200,
+      "ore_value": 1200
+    }
   },
   {
     "game_id": 737,
@@ -31836,7 +33887,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 738,
@@ -31882,7 +33938,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 739,
@@ -31928,7 +33989,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 740,
@@ -31974,7 +34040,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 130,
+      "ore_value": 130
+    }
   },
   {
     "game_id": 741,
@@ -32020,7 +34091,12 @@
     "icon": "bone",
     "icon_id": 42,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 743,
@@ -32066,7 +34142,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 744,
@@ -32112,7 +34193,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1400,
+      "ore_value": 1400
+    }
   },
   {
     "game_id": 745,
@@ -32158,7 +34244,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1000,
+      "ore_value": 1000
+    }
   },
   {
     "game_id": 747,
@@ -32204,7 +34295,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 748,
@@ -32250,7 +34346,12 @@
     "icon": "scale",
     "icon_id": 43,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 749,
@@ -32296,7 +34397,12 @@
     "icon": "shell",
     "icon_id": 46,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 150,
+      "ore_value": 150
+    }
   },
   {
     "game_id": 750,
@@ -32342,7 +34448,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 150,
+      "ore_value": 150
+    }
   },
   {
     "game_id": 751,
@@ -32388,7 +34499,12 @@
     "icon": "claw",
     "icon_id": 45,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 150,
+      "ore_value": 150
+    }
   },
   {
     "game_id": 752,
@@ -32434,7 +34550,12 @@
     "icon": "wing",
     "icon_id": 48,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 753,
@@ -32480,7 +34601,12 @@
     "icon": "tail",
     "icon_id": 47,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 150,
+      "ore_value": 150
+    }
   },
   {
     "game_id": 754,
@@ -32526,7 +34652,12 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1500,
+      "ore_value": 1500
+    }
   },
   {
     "game_id": 755,
@@ -32572,7 +34703,12 @@
     "icon": "extract",
     "icon_id": 73,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 140,
+      "ore_value": 140
+    }
   },
   {
     "game_id": 756,
@@ -32618,7 +34754,8 @@
     "icon": "mystery-artian",
     "icon_id": 0,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 758,
@@ -32664,7 +34801,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 700,
+      "ore_value": 700
+    }
   },
   {
     "game_id": 759,
@@ -32710,7 +34852,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue-purple",
-    "icon_color_id": 19
+    "icon_color_id": 19,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 800,
+      "ore_value": 800
+    }
   },
   {
     "game_id": 760,
@@ -32756,7 +34903,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 900,
+      "ore_value": 900
+    }
   },
   {
     "game_id": 761,
@@ -32802,7 +34954,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 1000,
+      "ore_value": 1000
+    }
   },
   {
     "game_id": 763,
@@ -32848,7 +35005,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 764,
@@ -32894,7 +35056,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 765,
@@ -32940,7 +35107,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 766,
@@ -32986,7 +35158,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "rose",
-    "icon_color_id": 3
+    "icon_color_id": 3,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 767,
@@ -33032,7 +35209,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 768,
@@ -33078,7 +35260,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 769,
@@ -33124,7 +35311,12 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 770,
@@ -33170,7 +35362,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 771,
@@ -33216,7 +35413,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 772,
@@ -33262,7 +35464,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 774,
@@ -33308,7 +35515,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 776,
@@ -33354,7 +35566,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 778,
@@ -33400,7 +35617,12 @@
     "icon": "coin",
     "icon_id": 31,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 25,
+      "ore_value": 25
+    }
   },
   {
     "game_id": 779,
@@ -33446,7 +35668,12 @@
     "icon": "coin",
     "icon_id": 31,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 25,
+      "ore_value": 25
+    }
   },
   {
     "game_id": 780,
@@ -33492,7 +35719,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 781,
@@ -33538,7 +35770,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 782,
@@ -33584,7 +35821,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 783,
@@ -33630,7 +35868,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "dark-purple",
-    "icon_color_id": 21
+    "icon_color_id": 21,
+    "foundry": null
   },
   {
     "game_id": 784,
@@ -33676,7 +35915,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 785,
@@ -33722,7 +35962,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 786,
@@ -33768,7 +36009,12 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 787,
@@ -33814,7 +36060,12 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 788,
@@ -33860,7 +36111,12 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 789,
@@ -33906,7 +36162,12 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 791,
@@ -33952,7 +36213,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 792,
@@ -33998,7 +36264,12 @@
     "icon": "mystery-material",
     "icon_id": 1,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 794,
@@ -34044,7 +36315,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 795,
@@ -34090,7 +36366,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "brown",
-    "icon_color_id": 8
+    "icon_color_id": 8,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 796,
@@ -34136,7 +36417,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 797,
@@ -34182,7 +36468,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 798,
@@ -34228,7 +36519,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 50,
+      "ore_value": 50
+    }
   },
   {
     "game_id": 799,
@@ -34274,7 +36570,12 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "orange",
-    "icon_color_id": 7
+    "icon_color_id": 7,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 800,
@@ -34320,7 +36621,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 801,
@@ -34366,7 +36672,12 @@
     "icon": "question",
     "icon_id": 2,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 802,
@@ -34412,7 +36723,12 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 100,
+      "ore_value": 100
+    }
   },
   {
     "game_id": 803,
@@ -34458,7 +36774,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "pink",
-    "icon_color_id": 4
+    "icon_color_id": 4,
+    "foundry": null
   },
   {
     "game_id": 804,
@@ -34504,7 +36821,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "blue",
-    "icon_color_id": 17
+    "icon_color_id": 17,
+    "foundry": null
   },
   {
     "game_id": 805,
@@ -34550,7 +36868,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 806,
@@ -34596,7 +36915,8 @@
     "icon": "bomb",
     "icon_id": 17,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 807,
@@ -34642,7 +36962,12 @@
     "icon": "coin",
     "icon_id": 31,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 25,
+      "ore_value": 25
+    }
   },
   {
     "game_id": 808,
@@ -34688,7 +37013,8 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "ivory",
-    "icon_color_id": 9
+    "icon_color_id": 9,
+    "foundry": null
   },
   {
     "game_id": 809,
@@ -34734,7 +37060,8 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "vermilion",
-    "icon_color_id": 6
+    "icon_color_id": 6,
+    "foundry": null
   },
   {
     "game_id": 810,
@@ -34780,7 +37107,8 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "emerald",
-    "icon_color_id": 15
+    "icon_color_id": 15,
+    "foundry": null
   },
   {
     "game_id": 811,
@@ -34826,7 +37154,8 @@
     "icon": "voucher",
     "icon_id": 29,
     "icon_color": "sage-green",
-    "icon_color_id": 12
+    "icon_color_id": 12,
+    "foundry": null
   },
   {
     "game_id": 813,
@@ -34872,7 +37201,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "sky",
-    "icon_color_id": 16
+    "icon_color_id": 16,
+    "foundry": null
   },
   {
     "game_id": 814,
@@ -34918,7 +37248,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "yellow",
-    "icon_color_id": 10
+    "icon_color_id": 10,
+    "foundry": null
   },
   {
     "game_id": 815,
@@ -34964,7 +37295,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 816,
@@ -35010,7 +37342,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 817,
@@ -35056,7 +37389,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 818,
@@ -35102,7 +37436,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 819,
@@ -35148,7 +37483,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 820,
@@ -35194,7 +37530,8 @@
     "icon": "slinger-ammo",
     "icon_id": 62,
     "icon_color": "red",
-    "icon_color_id": 5
+    "icon_color_id": 5,
+    "foundry": null
   },
   {
     "game_id": 821,
@@ -35240,7 +37577,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "none",
-    "icon_color_id": 0
+    "icon_color_id": 0,
+    "foundry": null
   },
   {
     "game_id": 822,
@@ -35286,7 +37624,8 @@
     "icon": "unknown",
     "icon_id": 255,
     "icon_color": "purple",
-    "icon_color_id": 20
+    "icon_color_id": 20,
+    "foundry": null
   },
   {
     "game_id": 824,
@@ -35332,7 +37671,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 827,
@@ -35378,7 +37718,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 828,
@@ -35424,7 +37765,8 @@
     "icon": "seed",
     "icon_id": 37,
     "icon_color": "green",
-    "icon_color_id": 14
+    "icon_color_id": 14,
+    "foundry": null
   },
   {
     "game_id": 829,
@@ -35470,7 +37812,8 @@
     "icon": "certificate",
     "icon_id": 30,
     "icon_color": "white",
-    "icon_color_id": 1
+    "icon_color_id": 1,
+    "foundry": null
   },
   {
     "game_id": 832,
@@ -35516,7 +37859,8 @@
     "icon": "bug",
     "icon_id": 39,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": null
   },
   {
     "game_id": 833,
@@ -35562,6 +37906,11 @@
     "icon": "gem",
     "icon_id": 20,
     "icon_color": "gray",
-    "icon_color_id": 2
+    "icon_color_id": 2,
+    "foundry": {
+      "kind": "material",
+      "armor_sphere_value": 600,
+      "ore_value": 600
+    }
   }
 ]

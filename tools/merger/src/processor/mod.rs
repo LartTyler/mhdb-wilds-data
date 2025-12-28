@@ -16,7 +16,6 @@ mod accessories;
 mod amulets;
 mod armor;
 mod charms;
-mod foundry;
 mod items;
 mod locations;
 mod monsters;
@@ -50,7 +49,6 @@ pub enum Processor {
     Monsters,
     Locations,
     WeaponSeries,
-    Foundry,
 }
 
 impl Processor {
@@ -151,7 +149,6 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging weapon files..." => weapons::process(config, filters)?,
         "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
-        "Merging foundry files..." => foundry::process(config, filters)?,
     }
 
     Ok(())
