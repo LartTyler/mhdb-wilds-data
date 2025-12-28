@@ -1,9 +1,0 @@
-/config.toml
-
-# Common AI assistant files
-.cursor/
-.claude/
-.cursorrules
-.github/copilot-instructions.md
-.aider*
-CLAUDE.md
