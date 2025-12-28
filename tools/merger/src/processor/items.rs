@@ -1,7 +1,7 @@
 use crate::placeholders::{ApplyContext, Placeholder};
 use crate::processor::{
-    to_ingame_rarity, IconColor, LanguageMap, PopulateStrings, Processor, ReadFile, Result,
-    WriteFile,
+    to_ingame_rarity, IconColor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile,
+    Result, WriteFile,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
@@ -19,11 +19,10 @@ const STRINGS: &str = "msg/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 
-const IGNORED_IDS: &[ItemId] = &[
-    1, 100, 280, 283, 284, 476, 690,
-    // Special exclusions; see https://github.com/LartTyler/mhdb-wilds-data?tab=readme-ov-file#notes-2
-    278, 409,
-];
+// IDs for items that show up in the item data files, but are definitely not real items, such as
+// "Equipped Mantles" (which seems to be some kind of placeholder for whatever mantles the player
+// currently has equipped) and a duplicate "Screamer Pod" entry.
+const IGNORED_IDS: &[ItemId] = &[1, 278, 409];
 
 pub fn process(config: &Config, filters: &[Processor]) -> Result {
     should_run!(filters, Processor::Items);
@@ -33,6 +32,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     let progress = ProgressBar::new(data.len() as u64);
 
     let mut merged: Vec<Item> = Vec::with_capacity(data.len());
+    let mut lookup = LookupMap::with_capacity(data.len());
 
     for data in data {
         progress.inc(1);
@@ -42,12 +42,16 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         }
 
         let mut item = Item::from(&data);
-
         strings.populate(&data.name_guid, &mut item.names);
+
+        if item.names.is_empty() {
+            continue;
+        }
 
         strings.populate(&data.description_guid, &mut item.descriptions);
         Placeholder::process(&mut item.descriptions, &ApplyContext::empty());
 
+        lookup.insert(item.game_id, merged.len());
         merged.push(item);
     }
 
@@ -59,12 +63,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     for recipe in recipes {
         progress.inc(1);
 
-        let Some(item) = merged
-            .iter_mut()
-            .find(|item| item.game_id == recipe.output_id)
-        else {
-            continue;
-        };
+        let item = lookup.find_or_panic_mut(recipe.output_id, &mut merged);
 
         item.recipes.push(recipe.into());
         item.recipes
