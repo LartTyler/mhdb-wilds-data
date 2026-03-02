@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "LongSword",
         output_prefix: Some("GreatSword"),
         callback: None,
+        kind: WeaponKindCode::GreatSword,
     }
 }
 

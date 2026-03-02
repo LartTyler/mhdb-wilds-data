@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "Hammer",
         output_prefix: None,
         callback: None,
+        kind: WeaponKindCode::Hammer,
     }
 }
 

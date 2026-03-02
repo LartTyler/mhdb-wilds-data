@@ -23,6 +23,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "Whistle",
         output_prefix: Some("HuntingHorn"),
         callback: Some(Box::new(Process::default())),
+        kind: WeaponKindCode::HuntingHorn,
     }
 }
 

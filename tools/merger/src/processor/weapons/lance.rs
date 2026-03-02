@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "Lance",
         output_prefix: None,
         callback: None,
+        kind: WeaponKindCode::Lance,
     }
 }
 

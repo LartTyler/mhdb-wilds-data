@@ -9,7 +9,6 @@ use crate::should_run;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{de, Deserialize, Deserializer, Serialize};
-use serde_json::Value;
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 use std::path::PathBuf;
@@ -61,7 +60,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
     let mut lookup: LookupMap<u32> = LookupMap::new();
 
     for data in data {
-        let mut weapon = Weapon::from(&data);
+        let mut weapon = Weapon::from_data(def.kind, &data);
 
         strings.populate(&data.name_guid, &mut weapon.names);
 
@@ -101,7 +100,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
     let data: Vec<RecipeData> = Vec::read_file(config.io.output.join(def.recipe_path()))?;
 
     for data in data {
-        let weapon = lookup.find_or_panic_mut(*data.weapon_id, &mut merged);
+        let weapon = lookup.find_or_panic_mut(data.weapon_id.value(def.kind), &mut merged);
 
         weapon.crafting.inputs = create_id_map(&data.item_ids, &data.item_amounts);
         weapon.crafting.is_shortcut = data.is_shortcut;
@@ -161,6 +160,7 @@ struct ProcessorDefinition {
     input_prefix: &'static str,
     output_prefix: Option<&'static str>,
     callback: Option<Box<dyn SubProcess>>,
+    kind: WeaponKindCode,
 }
 
 impl ProcessorDefinition {
@@ -213,10 +213,10 @@ struct Weapon {
     series_id: Option<SeriesId>,
 }
 
-impl From<&WeaponData> for Weapon {
-    fn from(value: &WeaponData) -> Self {
+impl Weapon {
+    fn from_data(kind: WeaponKindCode, value: &WeaponData) -> Self {
         Self {
-            game_id: *value.id,
+            game_id: value.id.value(kind),
             kind: WeaponKind::from(&value.kind),
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
@@ -332,44 +332,58 @@ struct WeaponData {
     skill_levels: [u8; 4],
 }
 
-#[derive(Debug, derive_more::Deref)]
-struct GameId(u32);
+#[derive(Debug, Deserialize)]
+struct GameId {
+    #[serde(rename = "_LightBowgun")]
+    light_bowgun: u32,
+    #[serde(rename = "_HeavyBowgun")]
+    heavy_bowgun: u32,
+    #[serde(rename = "_Bow")]
+    bow: u32,
+    #[serde(rename = "_Rod")]
+    insect_glaive: u32,
+    #[serde(rename = "_ChargeAxe")]
+    charge_blade: u32,
+    #[serde(rename = "_SlashAxe")]
+    switch_axe: u32,
+    #[serde(rename = "_GunLance")]
+    gunlance: u32,
+    #[serde(rename = "_Lance")]
+    lance: u32,
+    #[serde(rename = "_Whistle")]
+    hunting_horn: u32,
+    #[serde(rename = "_Hammer")]
+    hammer: u32,
+    #[serde(rename = "_Tachi")]
+    long_sword: u32,
+    #[serde(rename = "_TwinSword")]
+    dual_blades: u32,
+    #[serde(rename = "_ShortSword")]
+    sword_shield: u32,
+    #[serde(rename = "_LongSword")]
+    great_sword: u32,
+}
 
-impl<'de> Deserialize<'de> for GameId {
-    fn deserialize<D>(deserializer: D) -> std::result::Result<Self, D::Error>
-    where
-        D: Deserializer<'de>,
-    {
-        const ID_KEYS: &[&str] = &[
-            "_Bow",
-            "_ChargeAxe",
-            "_GunLance",
-            "_Hammer",
-            "_HeavyBowgun",
-            "_Lance",
-            "_LightBowgun",
-            "_LongSword",
-            "_Rod",
-            "_ShortSword",
-            "_SlashAxe",
-            "_Tachi",
-            "_TwinSword",
-            "_Whistle",
-        ];
+impl GameId {
+    fn value(&self, kind: WeaponKindCode) -> u32 {
+        use WeaponKindCode::*;
 
-        let values: Value = Deserialize::deserialize(deserializer)?;
-        let mut id: u32 = 0;
-
-        for key in ID_KEYS {
-            if let Some(v) = values.get(key).and_then(|v| v.as_u64()) {
-                if v > 0 {
-                    id = v as u32;
-                    break;
-                }
-            }
+        match kind {
+            LightBowgun => self.light_bowgun,
+            Bow => self.bow,
+            ChargeBlade => self.charge_blade,
+            Gunlance => self.gunlance,
+            Hammer => self.hammer,
+            HeavyBowgun => self.heavy_bowgun,
+            Lance => self.lance,
+            GreatSword => self.great_sword,
+            InsectGlaive => self.insect_glaive,
+            SwordShield => self.sword_shield,
+            SwitchAxe => self.switch_axe,
+            LongSword => self.long_sword,
+            DualBlades => self.dual_blades,
+            HuntingHorn => self.hunting_horn,
         }
-
-        Ok(Self(id))
     }
 }
 
@@ -491,17 +505,17 @@ struct CraftingTreeData {
     row: u8,
 }
 
-type SharpnessData = [u8; 7];
+type SharpnessData = [u16; 7];
 
 #[derive(Debug, Serialize)]
 struct Sharpness {
-    red: u8,
-    orange: u8,
-    yellow: u8,
-    green: u8,
-    blue: u8,
-    white: u8,
-    purple: u8,
+    red: u16,
+    orange: u16,
+    yellow: u16,
+    green: u16,
+    blue: u16,
+    white: u16,
+    purple: u16,
 }
 
 impl Sharpness {

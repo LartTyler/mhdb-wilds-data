@@ -9,6 +9,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "Bow",
         output_prefix: None,
         callback: None,
+        kind: WeaponKindCode::Bow,
     }
 }
 

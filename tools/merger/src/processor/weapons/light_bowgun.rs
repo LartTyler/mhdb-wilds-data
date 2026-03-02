@@ -11,6 +11,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "LightBowgun",
         output_prefix: None,
         callback: None,
+        kind: WeaponKindCode::LightBowgun,
     }
 }
 

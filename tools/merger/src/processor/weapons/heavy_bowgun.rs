@@ -1,6 +1,6 @@
 use crate::is_weapon;
-use crate::processor::Processor;
 use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
+use crate::processor::Processor;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 
@@ -10,6 +10,7 @@ pub(super) fn definition() -> ProcessorDefinition {
         input_prefix: "HeavyBowgun",
         output_prefix: None,
         callback: None,
+        kind: WeaponKindCode::HeavyBowgun,
     }
 }
 
