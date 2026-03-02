@@ -20,7 +20,7 @@ impl Rsz {
         );
 
         let rsz = match extension.as_ref() {
-            "user" => Self::User(User::load(path, &layout)?),
+            "user" => Self::User(User::load(path, layout)?),
             _ => return Err(Error::UnrecognizedExtension(extension)),
         };
 

@@ -106,13 +106,14 @@ pub enum FieldKind {
     U16,
     U32,
     U64,
+    Data,
+    UserData,
 
     // --- All items below this line are not yet supported ---
     AABB,
     Capsule,
     Color,
     Cylinder,
-    Data,
     DateTime,
     Float2,
     Float3,
@@ -139,7 +140,6 @@ pub enum FieldKind {
     Sphere,
     Struct,
     Uint2,
-    UserData,
     Vec2,
     Vec3,
     Vec4,

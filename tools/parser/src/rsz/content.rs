@@ -4,8 +4,10 @@ use crate::rsz::{Error, Result};
 use crate::types::mat4::Mat4;
 use crate::types::vec3::Vec3;
 use half::f16;
+use log::Level;
 use serde::Serialize;
 use std::any::type_name;
+use std::collections::HashMap;
 use std::ops::{Deref, DerefMut};
 use std::rc::Rc;
 use strum_macros::EnumTryAs;
@@ -39,16 +41,56 @@ impl Content {
 
         log::debug!("Found {} root object(s)", roots.len());
 
+        let mut external_references: HashMap<u32, String> =
+            HashMap::with_capacity(header.userdata_count.unsigned_abs() as usize);
+
+        data.seek(header.userdata_offset as usize)?;
+
+        for _ in 0..header.userdata_count {
+            let info = data.next_byte_section::<ExternalReferenceInfo>()?;
+
+            if log::log_enabled!(Level::Trace) {
+                let index = info.instance_index;
+                let offset = info.offset;
+
+                log::trace!(
+                    ">> Found external reference for slot {} at relative offset = 0x{:X}",
+                    index,
+                    offset
+                );
+            }
+
+            data.seek(info.offset as usize)?;
+
+            let value = read_string(data, None)?;
+            log::debug!("value = {}", value);
+
+            external_references.insert(info.instance_index, value);
+        }
+
+        log::debug!("Found {} userdata object(s)", external_references.len());
+
         let mut instances = Vec::with_capacity(header.instance_count.unsigned_abs() as usize);
         data.seek(header.instance_offset as usize)?;
 
         for _ in 0..header.instance_count {
-            instances.push(data.next_byte_section::<Instance>()?);
+            let instance = data.next_byte_section::<Instance>()?;
+
+            if log::log_enabled!(Level::Trace) {
+                let id = instance.type_id;
+                log::trace!(
+                    ">> Found instance ID {:x} at index = {}",
+                    id,
+                    instances.len()
+                );
+            }
+
+            instances.push(instance);
         }
 
         log::debug!("Found {} instance(s)", instances.len());
 
-        let mut items = Vec::with_capacity(instances.len());
+        let mut items: Vec<Rc<Item>> = Vec::with_capacity(instances.len());
         data.seek(header.data_offset as usize)?;
 
         for (index, type_info) in instances.iter().enumerate() {
@@ -56,20 +98,40 @@ impl Content {
                 return Err(Error::UnknownLayoutId(type_info.type_id));
             };
 
-            let type_name = if !layout.name.is_empty() {
-                layout.name
-            } else {
-                "EMPTY_NAME"
-            };
+            if log::log_enabled!(Level::Debug) {
+                let type_id = type_info.type_id;
 
-            log::debug!("Found type {} at index = {index}", type_name);
+                if !layout.name.is_empty() {
+                    log::debug!(
+                        "Found type {} ({type_id:x}) at index = {index}",
+                        layout.name
+                    );
+                } else {
+                    log::debug!("Found type ID {type_id:x} at index = {index}");
+                }
+            }
+
+            // External references (called `userdata` is most reference material I can find) in RSZ
+            // files are just file paths stored in a different section of the file, and assigned
+            // an index which is the "slot" they occupy in the instance list.
+            if let Some(external_ref) = external_references.get(&(index as u32)) {
+                items.push(Rc::new(Item {
+                    name: layout.name.to_owned(),
+                    fields: vec![Field {
+                        name: "Path".to_owned(),
+                        value: Value::ExternalReference(external_ref.clone()),
+                    }],
+                }));
+
+                continue;
+            }
 
             items.push(Rc::new(Item {
                 name: layout.name.to_owned(),
                 fields: layout
                     .fields
                     .iter()
-                    .map(|v| data.next_field(v, &items))
+                    .map(|v| data.next_field(v, &items, &external_references))
                     .collect::<Result<Vec<_>>>()?,
             }))
         }
@@ -111,6 +173,14 @@ pub struct Instance {
 #[repr(C, packed)]
 pub struct ObjectReference {
     pub index: i32,
+}
+
+#[derive(Debug, FromBytes, KnownLayout)]
+#[repr(C, packed)]
+pub struct ExternalReferenceInfo {
+    pub instance_index: u32,
+    pub hash: u32,
+    pub offset: u64,
 }
 
 #[derive(Debug)]
@@ -172,6 +242,14 @@ pub enum Value {
     U64(u64),
     Vec3(Vec3),
     Mat4(Mat4),
+    Data(u8),
+    ExternalReference(String),
+}
+
+#[derive(Debug, Serialize, Clone)]
+pub struct Data {
+    pub enabled: bool,
+    pub path: String,
 }
 
 #[derive(Debug, Clone)]
@@ -208,7 +286,12 @@ pub trait RszStream {
     fn skip(&mut self, len: usize) -> Result<()>;
 
     /// Attempts to parse the next series of bytes as defined in the provided [LayoutField].
-    fn next_field(&mut self, layout: &LayoutField, loaded_objects: &[Rc<Item>]) -> Result<Field>;
+    fn next_field(
+        &mut self,
+        layout: &LayoutField,
+        loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
+    ) -> Result<Field>;
 
     /// Aligns the stream to the given value.
     fn align(&mut self, align: usize) -> Result<()>;
@@ -299,8 +382,13 @@ impl RszStream for SliceStream<'_> {
         self.seek(self.position + len)
     }
 
-    fn next_field(&mut self, layout: &LayoutField, loaded_objects: &[Rc<Item>]) -> Result<Field> {
-        layout.parse(self, loaded_objects)
+    fn next_field(
+        &mut self,
+        layout: &LayoutField,
+        loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
+    ) -> Result<Field> {
+        layout.parse(self, loaded_objects, external_references)
     }
 
     fn align(&mut self, align: usize) -> Result<()> {
@@ -361,18 +449,33 @@ impl RszStream for SliceStream<'_> {
 trait ParseField {
     /// The main entrypoint for parsing a field using this trait. Implementations should handle
     /// arrays and any initial alignments in this method.
-    fn parse<T: RszStream>(&self, data: &mut T, loaded_objects: &[Rc<Item>]) -> Result<Field>;
+    fn parse<T: RszStream>(
+        &self,
+        data: &mut T,
+        loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
+    ) -> Result<Field>;
 
     /// Parses the actual field represented by the type implementing this trait. Implementations
     /// should only handle parsing the field's underlying type, and should rely on
     /// [ParseField::parse()] for any initial alignment or special case handling (such as arrays).
-    fn parse_value<T>(&self, data: &mut T, loaded_objects: &[Rc<Item>]) -> Result<Value>
+    fn parse_value<T>(
+        &self,
+        data: &mut T,
+        loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
+    ) -> Result<Value>
     where
         T: RszStream;
 }
 
 impl ParseField for LayoutField<'_> {
-    fn parse<T: RszStream>(&self, data: &mut T, loaded_objects: &[Rc<Item>]) -> Result<Field> {
+    fn parse<T: RszStream>(
+        &self,
+        data: &mut T,
+        loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
+    ) -> Result<Field> {
         log::debug!(
             "Parsing field \"{}\"; kind = {:?}, original_name = {}, is_array = {}",
             self.name,
@@ -393,14 +496,14 @@ impl ParseField for LayoutField<'_> {
                 data.align(self.align)?;
 
                 for _ in 0..element_count {
-                    elements.push(self.parse_value(data, loaded_objects)?);
+                    elements.push(self.parse_value(data, loaded_objects, external_references)?);
                 }
             }
 
             Value::Array(Values(elements))
         } else {
             data.align(self.align)?;
-            self.parse_value(data, loaded_objects)?
+            self.parse_value(data, loaded_objects, external_references)?
         };
 
         log::debug!("value = {value:?}");
@@ -415,6 +518,7 @@ impl ParseField for LayoutField<'_> {
         &self,
         data: &mut T,
         loaded_objects: &[Rc<Item>],
+        external_references: &HashMap<u32, String>,
     ) -> Result<Value> {
         match self.kind {
             FieldKind::Boolean => {
@@ -441,31 +545,47 @@ impl ParseField for LayoutField<'_> {
             FieldKind::S16 => data.next_byte_section::<i16>().map(Value::S16),
             FieldKind::S32 => data.next_byte_section::<i32>().map(Value::S32),
             FieldKind::S64 => data.next_byte_section::<i64>().map(Value::S64),
-            FieldKind::String => {
-                let length = data.next_byte_section::<i32>()? * 2;
-                log::debug!(">> Reading string, len = {length}");
-
-                let mut value = String::with_capacity(length.unsigned_abs() as usize);
-
-                for _ in 0..length {
-                    let c: char = data.next_byte_section::<u8>()?.into();
-
-                    if c == '\0' {
-                        continue;
-                    }
-
-                    value.push(c);
-                }
-
-                Ok(Value::String(value))
-            }
+            FieldKind::String => Ok(Value::String(read_bound_string(data)?)),
             FieldKind::U8 => data.next_byte_section::<u8>().map(Value::U8),
             FieldKind::U16 => data.next_byte_section::<u16>().map(Value::U16),
             FieldKind::U32 => data.next_byte_section::<u32>().map(Value::U32),
             FieldKind::U64 => data.next_byte_section::<u64>().map(Value::U64),
             FieldKind::Vec3 => data.next_byte_section::<Vec3>().map(Value::Vec3),
             FieldKind::Mat4 => data.next_byte_section::<Mat4>().map(Value::Mat4),
+            FieldKind::Data => data.next_byte_section::<u8>().map(Value::Data),
+            FieldKind::UserData => {
+                let index: u32 = data.next_byte_section()?;
+                let Some(value) = external_references.get(&index) else {
+                    panic!("Could not find external reference where index = {index}");
+                };
+
+                Ok(Value::ExternalReference(value.to_owned()))
+            }
             other => Err(Error::UnsupportedFieldKind(other)),
         }
     }
+}
+
+/// Reads a 32-bit length and a character sequence from the [`RszStream`]. `null` bytes are ignored.
+fn read_bound_string<T: RszStream>(data: &mut T) -> Result<String> {
+    let length = data.next_byte_section::<i32>()?;
+    log::debug!(">> Reading string, len = {length}");
+
+    read_string(data, Some(length.unsigned_abs() as usize))
+}
+
+fn read_string<T: RszStream>(data: &mut T, size_hint: Option<usize>) -> Result<String> {
+    let mut bytes: Vec<u16> = Vec::with_capacity(size_hint.unwrap_or(30));
+
+    loop {
+        let byte = data.next_byte_section::<u16>()?;
+
+        if byte == 0 {
+            break;
+        }
+
+        bytes.push(byte);
+    }
+
+    Ok(String::from_utf16_lossy(&bytes))
 }

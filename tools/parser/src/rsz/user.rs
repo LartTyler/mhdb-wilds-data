@@ -30,7 +30,7 @@ impl User {
         data.seek(offset as usize)?;
 
         Ok(Self {
-            content: Content::parse(&mut data.as_relative(), &layout)?,
+            content: Content::parse(&mut data.as_relative(), layout)?,
         })
     }
 }
