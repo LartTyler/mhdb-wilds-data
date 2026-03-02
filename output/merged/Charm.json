@@ -15,6 +15,7 @@
       "zh-Hant": "希望領巾・桃紅",
       "zh-Hans": "希望领巾·桃",
       "ar": "وشاح الأمل: قرنفلي",
+      "th": "ผ้าพันคอโฮป: พีช",
       "es-419": "Pañuelo: Rosa"
     }
   },
@@ -34,6 +35,7 @@
       "zh-Hant": "希望領巾S・群青",
       "zh-Hans": "希望领巾S·群青",
       "ar": "وشاح الأمل S: أزرق",
+      "th": "ผ้าพันคอโฮป S: น้ำเงิน",
       "es-419": "Pañuelo S: Azul"
     }
   },
@@ -53,6 +55,7 @@
       "zh-Hant": "希望領巾G・藍紅",
       "zh-Hans": "希望领巾G·红蓝",
       "ar": "وشاح الأمل G: أزرق/أحمر",
+      "th": "ผ้าพันคอโฮป G: น้ำเงิน/แดง",
       "es-419": "Pañuelo G: Azul/rojo"
     }
   },
@@ -72,6 +75,7 @@
       "zh-Hant": "長長白貓陶偶",
       "zh-Hans": "长身白猫陶俑",
       "ar": "قطة بيضاء متمطّطة",
+      "th": "แมวขาวยืดตัว",
       "es-419": "Gato blanco estirándose"
     }
   },
@@ -91,6 +95,7 @@
       "zh-Hant": "決意之證【鎖刃龍】",
       "zh-Hans": "决意之证【锁刃龙】",
       "ar": "آركفيلد: علامة الإصرار",
+      "th": "อาร์คเวลด์: ตราแห่งความมุ่งมั่น",
       "es-419": "Arkveld: Marca resolución"
     }
   },
@@ -110,6 +115,7 @@
       "zh-Hant": "希望領巾S・紫",
       "zh-Hans": "希望领巾S·紫",
       "ar": "وشاح الأمل S: أرجواني",
+      "th": "ผ้าพันคอโฮป S: ม่วง",
       "es-419": "Pañuelo S: Morado"
     }
   },
@@ -129,6 +135,7 @@
       "zh-Hant": "希望領巾・藍紅",
       "zh-Hans": "希望领巾·红蓝",
       "ar": "وشاح الأمل: أزرق مخضر/برتقالي",
+      "th": "ผ้าพันคอโฮป: ฟ้าอมเขียว/ส้ม",
       "es-419": "Pañuelo: Celeste/naranja"
     }
   },
@@ -148,6 +155,7 @@
       "zh-Hant": "希望領巾・紅",
       "zh-Hans": "希望领巾·红",
       "ar": "وشاح الأمل: قرمزي",
+      "th": "ผ้าพันคอโฮป: แดงชาด",
       "es-419": "Pañuelo: Carmesí"
     }
   },
@@ -167,6 +175,7 @@
       "zh-Hant": "希望領巾・褐",
       "zh-Hans": "希望领巾·褐",
       "ar": "وشاح الأمل: بني",
+      "th": "ผ้าพันคอโฮป: น้ำตาล",
       "es-419": "Pañuelo: Marrón"
     }
   },
@@ -186,6 +195,7 @@
       "zh-Hant": "希望領巾S・嫩綠",
       "zh-Hans": "希望领巾S·嫩绿",
       "ar": "وشاح الأمل S: أخضر",
+      "th": "ผ้าพันคอโฮป S: เขียว",
       "es-419": "Pañuelo S: Verde"
     }
   },
@@ -205,7 +215,28 @@
       "zh-Hant": "希望領巾G・藍綠",
       "zh-Hans": "希望领巾G·蓝绿",
       "ar": "وشاح الأمل G: فيروزي",
+      "th": "ผ้าพันคอโฮป G: ม่วงองุ่น",
       "es-419": "Pañuelo G: Uva"
+    }
+  },
+  {
+    "game_id": 122,
+    "names": {
+      "ja": "もぞもぞプルプル・黄",
+      "en": "Jigglysquirm (Yellow)",
+      "fr": "Bougigote (jaune)",
+      "it": "Tremarello (giallo)",
+      "de": "Glibberkumpel (gelb)",
+      "es": "Viscosín (amarillo)",
+      "ru": "Трясучка-тянучка (жёлтая)",
+      "pl": "Wierciwijka (żółta)",
+      "pt-BR": "Molenguinha (Amarelo)",
+      "ko": "탱글이/노랑",
+      "zh-Hant": "軟軟扭扭・黃",
+      "zh-Hans": "软软扭扭・黄",
+      "ar": "المتلوّي المهتز (أصفر)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (เหลือง)",
+      "es-419": "Blandengue (amarillo)"
     }
   },
   {
@@ -224,6 +255,7 @@
       "zh-Hant": "妖精之光・綠輝",
       "zh-Hans": "精灵之光·绿辉",
       "ar": "ضوء الجنية الأخضر",
+      "th": "แสงนางฟ้าสีเขียว",
       "es-419": "Luz feérica verde"
     }
   },
@@ -243,6 +275,7 @@
       "zh-Hant": "輕盈四葉蜉蝣",
       "zh-Hans": "轻盈四叶蜉蝣",
       "ar": "فراشات رباعية متراقصة",
+      "th": "แมลงปอสี่ปีกโบยบิน",
       "es-419": "Cuatrimoscas aleteando"
     }
   },
@@ -262,6 +295,7 @@
       "zh-Hant": "花舞捧花・白",
       "zh-Hans": "花舞之束・白",
       "ar": "باقة أزهار ساكورا: بيضاء",
+      "th": "ช่อซากุระ: สีขาว",
       "es-419": "Sakura blanca"
     }
   },
@@ -281,6 +315,7 @@
       "zh-Hant": "希望領巾G・藍紫",
       "zh-Hans": "希望领巾G·紫蓝",
       "ar": "وشاح الأمل G: وردي/أزرق",
+      "th": "ผ้าพันคอโฮป G: ชมพู/น้ำเงิน",
       "es-419": "Pañuelo G: Rosa/azul"
     }
   },
@@ -300,6 +335,7 @@
       "zh-Hant": "妖精之光・赤輝",
       "zh-Hans": "精灵之光·赤辉",
       "ar": "ضوء الجنية الأحمر",
+      "th": "แสงนางฟ้าสีแดง",
       "es-419": "Luz feérica roja"
     }
   },
@@ -319,6 +355,7 @@
       "zh-Hant": "騷靈艾路・紫靈",
       "zh-Hans": "骚灵艾露猫・紫灵",
       "ar": "القط الشبح البنفسجي",
+      "th": "พอลเทอร์แคทสีม่วง",
       "es-419": "Poltergato morado"
     }
   },
@@ -338,6 +375,7 @@
       "zh-Hant": "搖晃寶寶・桃籠",
       "zh-Hans": "摇篮宝宝・桃",
       "ar": "مهد وردي",
+      "th": "กล่อมเด็กน้อยในเปลสีชมพู",
       "es-419": "Columpollito rosa"
     }
   },
@@ -357,7 +395,48 @@
       "zh-Hant": "勇者之證【波衣龍】",
       "zh-Hans": "勇者之证【波衣龙】",
       "ar": "أوث دونا: رمز الشجاعة",
+      "th": "อุธ ดูนา: ตราความกล้าหาญ",
       "es-419": "Uth Duna: valor"
+    }
+  },
+  {
+    "game_id": 2063,
+    "names": {
+      "ja": "ＳＯＳなお肉運び！",
+      "en": "Meatmergency!",
+      "fr": "Viande d'urgence !",
+      "it": "Carne d'emergenza!",
+      "de": "Heißhungerattacke!",
+      "es": "¡Emergencia carnívora!",
+      "ru": "Срочная доставка мяуса!",
+      "pl": "Mięsalarm!",
+      "pt-BR": "Espeto Expresso!",
+      "ko": "SOS! 고기 운반!",
+      "zh-Hant": "SOS！緊急送肉！",
+      "zh-Hans": "SOS！紧急送肉！",
+      "ar": "لحم الطوارئ!",
+      "th": "ปฏิบัติการส่งเนื้อด่วน!",
+      "es-419": "¡Carnemergencia!"
+    }
+  },
+  {
+    "game_id": 2158,
+    "names": {
+      "ja": "沼噴くガスのランタン",
+      "en": "Noxious Lantern",
+      "fr": "Lanterne nocive",
+      "it": "Lanterna tossica",
+      "de": "Giftlaterne",
+      "es": "Lámpara nociva",
+      "ru": "Ядовитый фонарь",
+      "pl": "Trująca latarnia",
+      "pt-BR": "Lampião Nocivo",
+      "ko": "가스 분출 랜턴",
+      "zh-Hant": "沼氣燈",
+      "zh-Hans": "沼喷瓦斯提灯",
+      "ar": "فانوس سام",
+      "th": "โคมแก๊สพิษ",
+      "es-419": "Farol nocivo"
     }
   },
   {
@@ -376,6 +455,7 @@
       "zh-Hant": "霸者之證【闢獸】",
       "zh-Hans": "霸者之证【辟兽】",
       "ar": "دوشاغوما: رمز الإتقان",
+      "th": "โดชากุมะ: ตราความชำนาญ",
       "es-419": "Doshaguma: dominio"
     }
   },
@@ -395,6 +475,7 @@
       "zh-Hant": "騷靈艾路・橙靈",
       "zh-Hans": "骚灵艾露猫・橙灵",
       "ar": "القط الشبح البرتقالي",
+      "th": "พอลเทอร์แคทสีส้ม",
       "es-419": "Poltergato naranja"
     }
   },
@@ -414,7 +495,28 @@
       "zh-Hant": "騷靈艾路・赤靈",
       "zh-Hans": "骚灵艾露猫・红灵",
       "ar": "القط الشبح الأحمر",
+      "th": "พอลเทอร์แคทสีแดง",
       "es-419": "Poltergato rojo"
+    }
+  },
+  {
+    "game_id": 2780,
+    "names": {
+      "ja": "アナタのププロくん・金銀",
+      "en": "Metallic Polo Pal",
+      "fr": "Pote-polo métallique",
+      "it": "Pallopolo metallico",
+      "de": "Rompolein (metallic)",
+      "es": "Amigo Popolo metálico",
+      "ru": "Металлический ромпо",
+      "pl": "Metaliczny Popolo",
+      "pt-BR": "Popo-Balão Metálico",
+      "ko": "당신의 푸푸로/골드실버",
+      "zh-Hant": "你的小沼噴龍・金銀",
+      "zh-Hans": "你的小沼喷龙・金银",
+      "ar": "باليكو بوبولو معدني",
+      "th": "คู่หูโปโลสีเมทัลลิก",
+      "es-419": "Popolo metálico"
     }
   },
   {
@@ -433,7 +535,28 @@
       "zh-Hant": "歡樂桃毛車",
       "zh-Hans": "欢乐桃毛兽王车",
       "ar": "كونغا كارت السعيد",
+      "th": "คองกาคาร์ทสุดป่วน",
       "es-419": "Congakart feliz"
+    }
+  },
+  {
+    "game_id": 3482,
+    "names": {
+      "ja": "アナタのププロくん・青黄",
+      "en": "Azure-Gold Polo Pal",
+      "fr": "Pote-polo azur et or",
+      "it": "Pallopolo blu-oro",
+      "de": "Rompolein (blau-gelb)",
+      "es": "Amigo Popolo dorado/azul",
+      "ru": "Лазурно-золотой ромпо",
+      "pl": "Niebiesko-żółty Popolo",
+      "pt-BR": "Popo-Balão Lazúli-Dourado",
+      "ko": "당신의 푸푸로/블루옐로",
+      "zh-Hant": "你的小沼噴龍・藍黃",
+      "zh-Hans": "你的小沼喷龙・蓝黄",
+      "ar": "باليكو بوبولو ذهبي وسماوي",
+      "th": "คู่หูโปโลสีคราม-ทอง",
+      "es-419": "Popolo azul dorado"
     }
   },
   {
@@ -452,6 +575,7 @@
       "zh-Hant": "鎖刃龍貓氣球",
       "zh-Hans": "锁刃龙猫气球",
       "ar": "بالون آركفيلد F",
+      "th": "บอลลูนอาร์คเวลด์ F",
       "es-419": "Globo Arkveld F"
     }
   },
@@ -471,6 +595,7 @@
       "zh-Hant": "沼噴龍貓氣球",
       "zh-Hans": "沼喷龙猫气球",
       "ar": "بالون فيلاين رومبوبولو",
+      "th": "บอลลูนรอมโปโปโล F",
       "es-419": "Globo Rompopolo F"
     }
   },
@@ -490,6 +615,7 @@
       "zh-Hant": "泰迪艾路・花舞",
       "zh-Hans": "泰迪艾露猫・花舞",
       "ar": "دمية فيلاين ساكورا محشوة",
+      "th": "ตุ๊กตาเฟลีนซากุระ",
       "es-419": "Peluche Felyne Sakura"
     }
   },
@@ -509,6 +635,7 @@
       "zh-Hant": "妖精之光・白輝",
       "zh-Hans": "精灵之光·白辉",
       "ar": "ضوء الجنية الأبيض",
+      "th": "แสงนางฟ้าสีขาว",
       "es-419": "Luz feérica blanca"
     }
   },
@@ -528,7 +655,48 @@
       "zh-Hant": "勇者之證【凍峰龍】",
       "zh-Hans": "勇者之证【冻峰龙】",
       "ar": "جين دهاد: رمز الشجاعة",
+      "th": "จิน ดาฮาด: ตราแห่งความกล้าหาญ",
       "es-419": "Jin Dahaad: marca de valor"
+    }
+  },
+  {
+    "game_id": 5315,
+    "names": {
+      "ja": "蒼世ノ風鈴",
+      "en": "Azure Era Wind Chime",
+      "fr": "Carillon à vent Ère d'azur",
+      "it": "Campanella epoca celeste",
+      "de": "Azurära-Windspiel",
+      "es": "Campanilla Era Celeste",
+      "ru": "Музыка ветра лазурной эры",
+      "pl": "Dzwonek z ery lazuru",
+      "pt-BR": "Sinos de Vento Era Lazúli",
+      "ko": "푸른빛 풍경",
+      "zh-Hant": "蒼世風鈴",
+      "zh-Hans": "苍世风铃",
+      "ar": "حفيف رياح العصر اللازورد",
+      "th": "กระดิ่งลมยุคสีคราม",
+      "es-419": "Campanilla Era Celeste"
+    }
+  },
+  {
+    "game_id": 5545,
+    "names": {
+      "ja": "蒼鱗のオトモンレウス",
+      "en": "Skyscale Ratha",
+      "fr": "Ratha azurécailles",
+      "it": "Ratha scaglieblu",
+      "de": "Himmelsschuppen-Ratha",
+      "es": "Ratha Cornazul",
+      "ru": "Сизорогий Рата",
+      "pl": "Niebołuski Ratha",
+      "pt-BR": "Ratha Escamacéu",
+      "ko": "창린의 리오레우스",
+      "zh-Hant": "蒼鱗火龍",
+      "zh-Hans": "苍鳞火龙",
+      "ar": "راثا الحراشف السماوية",
+      "th": "ราธาเกล็ดเวหา",
+      "es-419": "Ratha Cornazul"
     }
   },
   {
@@ -547,6 +715,7 @@
       "zh-Hant": "海龍玩偶",
       "zh-Hans": "海龙玩偶",
       "ar": "دمية لاغياكروس",
+      "th": "ตุ๊กตาลาเกียครุส",
       "es-419": "Peluche Lagiacrus"
     }
   },
@@ -566,6 +735,7 @@
       "zh-Hant": "浮浮蜂蜜",
       "zh-Hans": "浮浮蜂蜜",
       "ar": "العسل العائم",
+      "th": "น้ำผึ้งลอยละล่อง",
       "es-419": "Miel flotante"
     }
   },
@@ -585,6 +755,7 @@
       "zh-Hant": "全熟肉飾帶",
       "zh-Hans": "烤熟的肉吊饰",
       "ar": "شريط شريحة لحم مطهوة جيدًا",
+      "th": "พวงห้อยสเต๊กสุกพอดี",
       "es-419": "Tira de filete bien cocido"
     }
   },
@@ -604,7 +775,28 @@
       "zh-Hant": "希望領巾G・櫻紅",
       "zh-Hans": "希望领巾G·樱",
       "ar": "وشاح الأمل G: وردي/أسود",
+      "th": "ผ้าพันคอโฮป G: ชมพู/ดำ",
       "es-419": "Pañuelo G: Rosa/negro"
+    }
+  },
+  {
+    "game_id": 6503,
+    "names": {
+      "ja": "一蘭アイルー・赤",
+      "en": "ICHIRAN FELYNE・RED",
+      "fr": "FELYNE ICHIRAN ROUGE",
+      "it": "Felyne Ichiran rosso",
+      "de": "ICHIRAN-Felyne (rot)",
+      "es": "FELYNE ICHIRAN・ROJO",
+      "ru": "Красный котт ICHIRAN",
+      "pl": "CZERWONY FELIN ICHIRAN",
+      "pt-BR": "ICHIRAN Felyno: Vermelho",
+      "ko": "이치란 아이루 레드",
+      "zh-Hant": "一蘭艾路・紅",
+      "zh-Hans": "一蘭艾露猫・红",
+      "ar": "فيلاين ICHIRAN أحمر",
+      "th": "ICHIRAN เฟลีน・สีแดง",
+      "es-419": "ICHIRAN FELYNE・ROJO"
     }
   },
   {
@@ -623,6 +815,7 @@
       "zh-Hant": "刺花禮服玩偶・藍",
       "zh-Hans": "刺花蜘蛛礼服娃娃・蓝",
       "ar": "دمية فستان لالا الأزرق",
+      "th": "ตุ๊กตาลาลาเดรสสีน้ำเงิน",
       "es-419": "Muñeca con vestido lala azul"
     }
   },
@@ -642,6 +835,7 @@
       "zh-Hant": "輕盈火龍氣球",
       "zh-Hans": "轻盈火龙气球",
       "ar": "بالون راث العائم",
+      "th": "บอลลูนราธลอยละล่อง",
       "es-419": "Globo Rath flotante"
     }
   },
@@ -661,6 +855,7 @@
       "zh-Hant": "多節大擬餌",
       "zh-Hans": "联装大拟饵",
       "ar": "طُعم الحجر البركاني المفصلي",
+      "th": "เหยื่อข้อต่อหินเถ้าภูเขาไฟ",
       "es-419": "Cebo de toba articulable"
     }
   },
@@ -680,7 +875,48 @@
       "zh-Hant": "搖晃寶寶・綠籠",
       "zh-Hans": "摇篮宝宝・绿",
       "ar": "مهد أخضر",
+      "th": "กล่อมเด็กน้อยในเปลสีเขียว",
       "es-419": "Columpollito verde"
+    }
+  },
+  {
+    "game_id": 7721,
+    "names": {
+      "ja": "もぞもぞプルプル・緑",
+      "en": "Jigglysquirm (Green)",
+      "fr": "Bougigote (vert)",
+      "it": "Tremarello (verde)",
+      "de": "Glibberkumpel (grün)",
+      "es": "Viscosín (verde)",
+      "ru": "Трясучка-тянучка (зелёная)",
+      "pl": "Wierciwijka (zielona)",
+      "pt-BR": "Molenguinha (Verde)",
+      "ko": "탱글이/초록",
+      "zh-Hant": "軟軟扭扭・綠",
+      "zh-Hans": "软软扭扭・绿",
+      "ar": "المتلوّي المهتز (أخضر)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (เขียว)",
+      "es-419": "Blandengue (verde)"
+    }
+  },
+  {
+    "game_id": 7903,
+    "names": {
+      "ja": "挑戦者の証【鎖刃竜】",
+      "en": "Arkveld: Mark of Contest",
+      "fr": "Arkveld : gage de lutte",
+      "it": "Arkveld: Marchio sfida",
+      "de": "Arkveld: Wagnis",
+      "es": "Arkveld: Señal de lucha",
+      "ru": "Арквельд: знак претендента",
+      "pl": "Arkveld: Symbol pojedynku",
+      "pt-BR": "Arkveld: Contestação",
+      "ko": "도전자의 증표【쇄인룡】",
+      "zh-Hant": "挑戰者之證【鎖刃龍】",
+      "zh-Hans": "挑战者之证【锁刃龙】",
+      "ar": "آركفيلد: رمز المنافسة",
+      "th": "อาร์คเวลด์: ตราแห่งการแข่งขัน",
+      "es-419": "Arkveld: marca de lucha"
     }
   },
   {
@@ -699,7 +935,28 @@
       "zh-Hant": "踱步鷺鷹龍寶寶",
       "zh-Hans": "小踱鹭鹰龙宝宝",
       "ar": "الفرخ مرح الخطى",
+      "th": "ลูกนกเดินตามต้อยๆ",
       "es-419": "Polluelo trotador"
+    }
+  },
+  {
+    "game_id": 8145,
+    "names": {
+      "ja": "もぞもぞプルプル・橙",
+      "en": "Jigglysquirm (Orange)",
+      "fr": "Bougigote (orange)",
+      "it": "Tremarello (arancione)",
+      "de": "Glibberkumpel (orange)",
+      "es": "Viscosín (naranja)",
+      "ru": "Трясучка-тянучка (оранж.)",
+      "pl": "Wierciwijka (pomar.)",
+      "pt-BR": "Molenguinha (Laranja)",
+      "ko": "탱글이/주황",
+      "zh-Hant": "軟軟扭扭・橙",
+      "zh-Hans": "软软扭扭・橙",
+      "ar": "المتلوّي المهتز (برتقالي)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (ส้ม)",
+      "es-419": "Blandengue (naranja)"
     }
   },
   {
@@ -718,6 +975,7 @@
       "zh-Hant": "刺花禮服玩偶・紫",
       "zh-Hans": "刺花蜘蛛礼服娃娃・紫",
       "ar": "دمية فستان لالا البنفسجي",
+      "th": "ตุ๊กตาลาลาเดรสสีม่วง",
       "es-419": "Muñeca con vestido lala morado"
     }
   },
@@ -737,6 +995,7 @@
       "zh-Hant": "妖精之光・青輝",
       "zh-Hans": "精灵之光·青辉",
       "ar": "ضوء الجنية الأزرق",
+      "th": "แสงนางฟ้าสีน้ำเงิน",
       "es-419": "Luz feérica azul"
     }
   },
@@ -756,6 +1015,7 @@
       "zh-Hant": "黑貓土鈴",
       "zh-Hans": "黑猫陶铃",
       "ar": "جرس قطة سوداء",
+      "th": "กระดิ่งแมวดำ",
       "es-419": "Cascabel de gato negro"
     }
   },
@@ -775,6 +1035,7 @@
       "zh-Hant": "踩球噗吱豬【黑白】",
       "zh-Hans": "踩球噗吱猪【黑白】",
       "ar": "بوغي المتدحرج: أحادي اللون",
+      "th": "พูกี้กลิ้งบอล: ขาวดำ",
       "es-419": "Poogie rodante: monocromático"
     }
   },
@@ -794,6 +1055,7 @@
       "zh-Hant": "踩球噗吱豬【雙色】",
       "zh-Hans": "踩球噗吱猪【双色】",
       "ar": "بوغي المتدحرج: ثنائي اللون",
+      "th": "พูกี้กลิ้งบอล: สองสี",
       "es-419": "Poogie rodante: doble tono"
     }
   },
@@ -813,7 +1075,28 @@
       "zh-Hant": "挑戰者之證【獄焰鱆】",
       "zh-Hans": "挑战者之证【狱焰蛸】",
       "ar": "نو أودرا: رمز المنافسة",
+      "th": "นู อูดรา: ตราการแข่งขัน",
       "es-419": "Nu Udra: lucha"
+    }
+  },
+  {
+    "game_id": 9229,
+    "names": {
+      "ja": "アナタのププロくん・紫",
+      "en": "Purple Polo Pal",
+      "fr": "Pote-polo pourpre",
+      "it": "Pallopolo viola",
+      "de": "Rompolein (violett)",
+      "es": "Amigo Popolo morado",
+      "ru": "Пурпурный ромпо",
+      "pl": "Fioletowy Popolo",
+      "pt-BR": "Popo-Balão Púrpura",
+      "ko": "당신의 푸푸로/퍼플",
+      "zh-Hant": "你的小沼噴龍・紫",
+      "zh-Hans": "你的小沼喷龙・紫",
+      "ar": "باليكو بوبولو أرجواني",
+      "th": "คู่หูโปโลสีม่วง",
+      "es-419": "Popolo morado"
     }
   },
   {
@@ -832,6 +1115,7 @@
       "zh-Hant": "踱步幼小仙人掌",
       "zh-Hans": "小踱幼小仙人掌",
       "ar": "الصبار مرح الخطى",
+      "th": "แคคทอร์เดินตามต้อยๆ",
       "es-419": "Cactilio al trote"
     }
   },
@@ -851,6 +1135,7 @@
       "zh-Hant": "騷靈艾路・藍靈",
       "zh-Hans": "骚灵艾露猫・蓝灵",
       "ar": "القط الشبح الأزرق",
+      "th": "พอลเทอร์แคทสีน้ำเงิน",
       "es-419": "Poltergato azul"
     }
   },
@@ -870,6 +1155,7 @@
       "zh-Hant": "奔跑胖白貓",
       "zh-Hans": "跑路的胖白猫",
       "ar": "الممتلىء الأبيض الهارب",
+      "th": "เจ้าแมวขาวตุ้ยนุ้ยวิ่งปร๋อ",
       "es-419": "Huidizo suavecito blanco"
     }
   },
@@ -889,6 +1175,7 @@
       "zh-Hant": "火蹈精靈・白焰",
       "zh-Hans": "踊火精灵・白焰",
       "ar": "روح مهرجان اللهب الأبيض",
+      "th": "ภูตงานฉลองเปลวเพลิงขาว",
       "es-419": "Espíritu chisparranda blanco"
     }
   },
@@ -898,7 +1185,7 @@
       "ja": "勇者の証【煌雷竜】",
       "en": "Rey Dau: Mark of Bravery",
       "fr": "Rey Dau : gage de bravoure",
-      "it": "Rey Dau: Marchio audacia",
+      "it": "Rey Dau: Marchio valore",
       "de": "Rey Dau: Mut",
       "es": "Rey Dau: Señal de valor",
       "ru": "Рей дау: знак героя",
@@ -908,6 +1195,7 @@
       "zh-Hant": "勇者之證【煌雷龍】",
       "zh-Hans": "勇者之证【煌雷龙】",
       "ar": "راي داو: رمز الشجاعة",
+      "th": "เรย์ ดาว: ตราความกล้าหาญ",
       "es-419": "Rey Dau: valor"
     }
   },
@@ -927,6 +1215,7 @@
       "zh-Hant": "輕盈千羽蝶",
       "zh-Hans": "轻盈千羽蝶",
       "ar": "آلاف متراقصة",
+      "th": "ฝูงผีเสื้อโบยบิน",
       "es-419": "Miríadas aleteando"
     }
   },
@@ -946,6 +1235,7 @@
       "zh-Hant": "妖精之光・桃輝",
       "zh-Hans": "精灵之光·桃辉",
       "ar": "ضوء الجنية الزهري",
+      "th": "แสงนางฟ้าสีชมพู",
       "es-419": "Luz feérica rosa"
     }
   },
@@ -965,6 +1255,7 @@
       "zh-Hant": "滾滾木桶獎盃",
       "zh-Hans": "滚桶挑战奖杯",
       "ar": "جائزة بولينغ البراميل",
+      "th": "ถ้วยรางวัลโบว์ลิ่งถัง",
       "es-419": "Trofeo de bolos"
     }
   },
@@ -984,6 +1275,7 @@
       "zh-Hant": "【KFC】上校艾路",
       "zh-Hans": "【KFC】上校艾露猫",
       "ar": "فيلاين كولونيل KFC",
+      "th": "เฟลีนผู้พัน KFC",
       "es-419": "Coronel Felyne KFC"
     }
   },
@@ -1003,6 +1295,7 @@
       "zh-Hant": "歌鴞氣球・泡",
       "zh-Hans": "歌鸮气球·泡",
       "ar": "بالون أمستريجيان",
+      "th": "สตริกิเบิล: นกแอมสตริเจียน",
       "es-419": "Strigible: Amstrigiano"
     }
   },
@@ -1022,6 +1315,7 @@
       "zh-Hant": "浮浮閃星",
       "zh-Hans": "浮浮闪星",
       "ar": "البَريق العائم",
+      "th": "ประกายลอยละล่อง",
       "es-419": "Destellos flotantes"
     }
   },
@@ -1041,6 +1335,7 @@
       "zh-Hant": "搖晃寶寶・黑籠",
       "zh-Hans": "摇篮宝宝・黑",
       "ar": "مهد أسود",
+      "th": "กล่อมเด็กน้อยในเปลสีดำ",
       "es-419": "Columpollito negro"
     }
   },
@@ -1060,6 +1355,7 @@
       "zh-Hant": "刺花禮服玩偶・桃",
       "zh-Hans": "刺花蜘蛛礼服娃娃・桃",
       "ar": "دمية فستان لالا الوردي",
+      "th": "ตุ๊กตาลาลาเดรสสีชมพู",
       "es-419": "Muñeca con vestido lala rosa"
     }
   },
@@ -1079,6 +1375,7 @@
       "zh-Hant": "觸手餌木",
       "zh-Hans": "触手拟饵",
       "ar": "طُعم المجس الاصطناعي",
+      "th": "เหยื่อหนวดกระตุก",
       "es-419": "Cebo tentacular"
     }
   },
@@ -1098,7 +1395,48 @@
       "zh-Hant": "小小布蘭卡玩偶",
       "zh-Hans": "小布兰卡娃娃",
       "ar": "دمية Blanka-Chan",
+      "th": "ตุ๊กตาบลังก้าจัง",
       "es-419": "Muñeco de Blanka-chan"
+    }
+  },
+  {
+    "game_id": 13375,
+    "names": {
+      "ja": "もぞもぞプルプル・紫",
+      "en": "Jigglysquirm (Purple)",
+      "fr": "Bougigote (violet)",
+      "it": "Tremarello (viola)",
+      "de": "Glibberkumpel (violett)",
+      "es": "Viscosín (morado)",
+      "ru": "Трясучка-тянучка (фиол.)",
+      "pl": "Wierciwijka (fioletowa)",
+      "pt-BR": "Molenguinha (Roxo)",
+      "ko": "탱글이/보라",
+      "zh-Hant": "軟軟扭扭・紫",
+      "zh-Hans": "软软扭扭・紫",
+      "ar": "المتلوّي المهتز (أرجواني)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (ม่วง)",
+      "es-419": "Blandengue (morado)"
+    }
+  },
+  {
+    "game_id": 14120,
+    "names": {
+      "ja": "アナタのププロくん・桃緑",
+      "en": "Peach-Green Polo Pal",
+      "fr": "Pote-polo rose et vert",
+      "it": "Pallopolo rosa-verde",
+      "de": "Rompolein (pink-grün)",
+      "es": "Amigo Popolo verde/rosa",
+      "ru": "Персиково-зелёный ромпо",
+      "pl": "Różowo-zielony Popolo",
+      "pt-BR": "Popo-Balão Verde-Pêssego",
+      "ko": "당신의 푸푸로/핑크그린",
+      "zh-Hant": "你的小沼噴龍・桃綠",
+      "zh-Hans": "你的小沼喷龙・桃绿",
+      "ar": "باليكو بوبولو أخضر خوخي",
+      "th": "คู่หูโปโลสีพีช-เขียว",
+      "es-419": "Popolo verde durazno"
     }
   },
   {
@@ -1117,6 +1455,7 @@
       "zh-Hant": "浮浮全熟肉",
       "zh-Hans": "浮浮烤熟的肉",
       "ar": "شرائح لحم مطهوة عائمة",
+      "th": "สเต๊กสุกพอดีลอยละล่อง",
       "es-419": "Filetes flotantes"
     }
   },
@@ -1136,6 +1475,7 @@
       "zh-Hant": "艾路・巧克力薄荷",
       "zh-Hans": "艾露猫：薄荷巧克力",
       "ar": "فيلاين: شوكولاتة بالنعناع",
+      "th": "ช็อกโกแลตมินต์เฟลีน",
       "es-419": "Chocomenta Felyne"
     }
   },
@@ -1155,6 +1495,7 @@
       "zh-Hant": "挑戰者之證【泡狐龍】",
       "zh-Hans": "挑战者之证【泡狐龙】",
       "ar": "ميزوتسوني: رمز المنافسة",
+      "th": "มิซึสึเนะ: ตราการแข่งขัน",
       "es-419": "Mizutsune: lucha"
     }
   },
@@ -1174,6 +1515,7 @@
       "zh-Hant": "霸者之證【千刃龍】",
       "zh-Hans": "霸者之证【千刃龙】",
       "ar": "سيرجيوس: رمز الإتقان",
+      "th": "เซเรกิออส: ตราความชำนาญ",
       "es-419": "Seregios: dominio"
     }
   },
@@ -1193,6 +1535,7 @@
       "zh-Hant": "騷靈艾路・綠靈",
       "zh-Hans": "骚灵艾露猫・绿灵",
       "ar": "القط الشبح الأخضر",
+      "th": "พอลเทอร์แคทสีเขียว",
       "es-419": "Poltergato verde"
     }
   },
@@ -1212,6 +1555,7 @@
       "zh-Hant": "黃金蟲頭",
       "zh-Hans": "黄金虫头",
       "ar": "رأس الحشرة الذهبي",
+      "th": "หัวแมลงทองคำ",
       "es-419": "Bicho dorado"
     }
   },
@@ -1231,6 +1575,7 @@
       "zh-Hant": "泰迪艾路・夢燈",
       "zh-Hans": "泰迪艾露猫・梦灯",
       "ar": "دمية فيلاين تعويذة الأحلام",
+      "th": "ตุ๊กตาเฟลีนนิทรามนตรา",
       "es-419": "Peluche Sueñiencanto F"
     }
   },
@@ -1250,6 +1595,7 @@
       "zh-Hant": "通用木製鰷擬餌",
       "zh-Hans": "通用木制鲦鱼饵",
       "ar": "سمكة الخشب الشائعة",
+      "th": "ปลาซิวไม้ธรรมดา",
       "es-419": "Pececillo de madera común"
     }
   },
@@ -1269,6 +1615,7 @@
       "zh-Hant": "妖精之光・紫輝",
       "zh-Hans": "精灵之光·紫辉",
       "ar": "ضوء الجنية البنفسجي",
+      "th": "แสงนางฟ้าสีม่วงไวโอเลต",
       "es-419": "Luz feérica violeta"
     }
   },
@@ -1288,6 +1635,7 @@
       "zh-Hant": "霸者之證【煌雷龍】",
       "zh-Hans": "霸者之证【煌雷龙】",
       "ar": "راي داو: رمز الإتقان",
+      "th": "เรย์ ดาว: ตราความชำนาญ",
       "es-419": "Rey Dau: dominio"
     }
   },
@@ -1297,7 +1645,7 @@
       "ja": "勇者の証【千刃竜】",
       "en": "Seregios: Mark of Bravery",
       "fr": "Seregios : gage de bravoure",
-      "it": "Seregios: Marchio audacia",
+      "it": "Seregios: Marchio valore",
       "de": "Seregios: Mut",
       "es": "Seregios: Señal de valor",
       "ru": "Серегиос: знак героя",
@@ -1307,6 +1655,7 @@
       "zh-Hant": "勇者之證【千刃龍】",
       "zh-Hans": "勇者之证【千刃龙】",
       "ar": "سيرجيوس: رمز الشجاعة",
+      "th": "เซเรกิออส: ตราความกล้าหาญ",
       "es-419": "Seregios: valor"
     }
   },
@@ -1326,6 +1675,7 @@
       "zh-Hant": "奔跑胖黑貓",
       "zh-Hans": "跑路的胖黑猫",
       "ar": "الممتلىء الأسود الهارب",
+      "th": "เจ้าแมวดำตุ้ยนุ้ยวิ่งปร๋อ",
       "es-419": "Huidizo suavecito negro"
     }
   },
@@ -1345,7 +1695,28 @@
       "zh-Hant": "火蹈精靈・紫焰",
       "zh-Hans": "踊火精灵・紫焰",
       "ar": "روح مهرجان اللهب البنفسجي",
+      "th": "ภูตงานฉลองเปลวเพลิงม่วง",
       "es-419": "Espíritu chisparranda morado"
+    }
+  },
+  {
+    "game_id": 17389,
+    "names": {
+      "ja": "一蘭アイルー・黒",
+      "en": "ICHIRAN FELYNE・BLACK",
+      "fr": "FELYNE ICHIRAN NOIR",
+      "it": "Felyne Ichiran nero",
+      "de": "ICHIRAN-Felyne (schwarz)",
+      "es": "FELYNE ICHIRAN・NEGRO",
+      "ru": "Чёрный котт ICHIRAN",
+      "pl": "CZARNY FELIN ICHIRAN",
+      "pt-BR": "ICHIRAN Felyno: Preto",
+      "ko": "이치란 아이루 블랙",
+      "zh-Hant": "一蘭艾路・黑",
+      "zh-Hans": "一蘭艾露猫・黑",
+      "ar": "فيلاين ICHIRAN أسود",
+      "th": "ICHIRAN เฟลีน・สีดำ",
+      "es-419": "ICHIRAN FELYNE・NEGRO"
     }
   },
   {
@@ -1364,6 +1735,7 @@
       "zh-Hant": "輕盈迷你歐米茄",
       "zh-Hans": "轻盈迷你欧米茄",
       "ar": "أوميغا صغير طافٍ",
+      "th": "โอเมกาลอยละล่อง",
       "es-419": "OMG flotante"
     }
   },
@@ -1383,6 +1755,7 @@
       "zh-Hant": "長長黑貓陶偶",
       "zh-Hans": "长身黑猫陶俑",
       "ar": "قطة سوداء متمطّطة",
+      "th": "แมวดำยืดตัว",
       "es-419": "Gato negro estirándose"
     }
   },
@@ -1402,6 +1775,7 @@
       "zh-Hant": "刺花蜘蛛貓氣球",
       "zh-Hans": "刺花蜘蛛猫气球",
       "ar": "بالون بارينا F",
+      "th": "บอลลูนบารินา F",
       "es-419": "Globo Barina F"
     }
   },
@@ -1421,7 +1795,28 @@
       "zh-Hant": "奔跑黑貓",
       "zh-Hans": "跑路的黑猫",
       "ar": "الأسود الهارب",
+      "th": "เจ้าแมวดำวิ่งปร๋อ",
       "es-419": "Huidizo negro"
+    }
+  },
+  {
+    "game_id": 18192,
+    "names": {
+      "ja": "アナタのププロくん・橙水",
+      "en": "Amber-Blue Polo Pal",
+      "fr": "Pote-polo orange et bleu",
+      "it": "Pallopolo ambra-blu",
+      "de": "Rompolein (gold-blau)",
+      "es": "Amigo Popolo azul/naranja",
+      "ru": "Янтарно-синий ромпо",
+      "pl": "Żółto-niebieski Popolo",
+      "pt-BR": "Popo-Balão Âmbar-Azul",
+      "ko": "당신의 푸푸로/오렌지블루",
+      "zh-Hant": "你的小沼噴龍・橙水藍",
+      "zh-Hans": "你的小沼喷龙・橙蓝",
+      "ar": "باليكو بوبولو أزرق كهرماني",
+      "th": "คู่หูโปโลสีอำพัน-คราม",
+      "es-419": "Popolo azul ámbar"
     }
   },
   {
@@ -1440,6 +1835,7 @@
       "zh-Hant": "浮浮愛心",
       "zh-Hans": "浮浮爱心",
       "ar": "القلوب العائمة",
+      "th": "หัวใจลอยละล่อง",
       "es-419": "Corazones flotantes"
     }
   },
@@ -1459,6 +1855,7 @@
       "zh-Hant": "挑戰者之證【煌雷龍】",
       "zh-Hans": "挑战者之证【煌雷龙】",
       "ar": "راي داو: رمز المنافسة",
+      "th": "เรย์ ดาว: ตราการแข่งขัน",
       "es-419": "Rey Dau: lucha"
     }
   },
@@ -1478,6 +1875,7 @@
       "zh-Hant": "星屑魚擬餌",
       "zh-Hans": "星屑鱼拟饵",
       "ar": "عدة صيد داستَر",
+      "th": "เหยื่อขนไก่",
       "es-419": "Cebo polvín"
     }
   },
@@ -1497,6 +1895,7 @@
       "zh-Hant": "歌鴞氣球・金",
       "zh-Hans": "歌鸮气球·金",
       "ar": "بالون ذهبي",
+      "th": "สตริกิเบิล: ทอง",
       "es-419": "Strigible: Oro"
     }
   },
@@ -1516,6 +1915,7 @@
       "zh-Hant": "宇宙機鎧核心",
       "zh-Hans": "宇宙机装核心",
       "ar": "نواة كوزمولويد",
+      "th": "แกนพลังคอสโมลอยด์",
       "es-419": "Núcleo cosmoloide"
     }
   },
@@ -1535,6 +1935,7 @@
       "zh-Hant": "花舞捧花・彩",
       "zh-Hans": "花舞之束・彩",
       "ar": "باقة أزهار ساكورا: ملونة",
+      "th": "ช่อซากุระ: หลากสี",
       "es-419": "Sakura colorida"
     }
   },
@@ -1554,6 +1955,7 @@
       "zh-Hant": "白貓土鈴",
       "zh-Hans": "白猫陶铃",
       "ar": "جرس قطة بيضاء",
+      "th": "กระดิ่งแมวขาว",
       "es-419": "Cascabel de gato blanco"
     }
   },
@@ -1573,6 +1975,7 @@
       "zh-Hant": "勇者之證【獄焰鱆】",
       "zh-Hans": "勇者之证【狱焰蛸】",
       "ar": "نو أودرا: رمز الشجاعة",
+      "th": "นู อูดรา: ตราความกล้าหาญ",
       "es-419": "Nu Udra: valor"
     }
   },
@@ -1592,6 +1995,7 @@
       "zh-Hant": "踱步柔毛秧雞",
       "zh-Hans": "小踱柔毛秧鸡",
       "ar": "الكريك المرح الخطى",
+      "th": "นกอัญชันเดินตามต้อยๆ",
       "es-419": "Carrao al trote"
     }
   },
@@ -1611,7 +2015,48 @@
       "zh-Hant": "歌鴞氣球・愛",
       "zh-Hans": "歌鸮气球·爱",
       "ar": "بالون الحب",
+      "th": "สตริกิเบิล: ความรัก",
       "es-419": "Strigible: Amor"
+    }
+  },
+  {
+    "game_id": 21041,
+    "names": {
+      "ja": "もぞもぞプルプル・赤",
+      "en": "Jigglysquirm (Red)",
+      "fr": "Bougigote (rouge)",
+      "it": "Tremarello (rosso)",
+      "de": "Glibberkumpel (grün)",
+      "es": "Viscosín (rojo)",
+      "ru": "Трясучка-тянучка (красная)",
+      "pl": "Wierciwijka (czerwona)",
+      "pt-BR": "Molenguinha (Vermelho)",
+      "ko": "탱글이/빨강",
+      "zh-Hant": "軟軟扭扭・紅",
+      "zh-Hans": "软软扭扭・红",
+      "ar": "المتلوّي المهتز (أحمر)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (แดง)",
+      "es-419": "Blandengue (rojo)"
+    }
+  },
+  {
+    "game_id": 21207,
+    "names": {
+      "ja": "玉乗りプーギー【さくら】",
+      "en": "Rolling Poogie: Sakura",
+      "fr": "Poogie équilibriste : sakura",
+      "it": "Poogie rotolante sakura",
+      "de": "Zirkus-Poogie (Sakura)",
+      "es": "Poogie rodante: Sakura",
+      "ru": "Хрюшка на шаре: сакура",
+      "pl": "Turlająca Świnka: sakura",
+      "pt-BR": "Rola-Poogie: Sakura",
+      "ko": "곡예 푸기【벚꽃】",
+      "zh-Hant": "踩球噗吱豬【櫻花】",
+      "zh-Hans": "踩球噗吱猪【樱花】",
+      "ar": "بوغي المتدحرج: ساكورا",
+      "th": "พูกี้กลิ้งบอล: ดอกซากุระ",
+      "es-419": "Poogie rodante: Sakura"
     }
   },
   {
@@ -1630,6 +2075,7 @@
       "zh-Hant": "浮浮回復藥",
       "zh-Hans": "浮浮回复药",
       "ar": "الطلاسم العائمة",
+      "th": "ยาฟื้นพลังลอยละล่อง",
       "es-419": "Pociones flotantes"
     }
   },
@@ -1649,6 +2095,7 @@
       "zh-Hant": "踩球噗吱豬【章魚燒】",
       "zh-Hans": "踩球噗吱猪【章鱼烧】",
       "ar": "بوغي المتدحرج: تاكوياكي",
+      "th": "พูกี้กลิ้งบอล: ทาโกะยากิ",
       "es-419": "Poogie rodante: takoyaki"
     }
   },
@@ -1668,6 +2115,7 @@
       "zh-Hant": "歌鴞氣球・美",
       "zh-Hans": "歌鸮气球·美",
       "ar": "بالون هيمستريجيان",
+      "th": "สตริกิเบิล: นกฮิมสตริเจียน",
       "es-419": "Strigible: Himstrigiano"
     }
   },
@@ -1687,6 +2135,7 @@
       "zh-Hant": "火蹈精靈・桃焰",
       "zh-Hans": "踊火精灵・桃焰",
       "ar": "روح مهرجان اللهب الوردي",
+      "th": "ภูตงานฉลองเปลวเพลิงชมพู",
       "es-419": "Espíritu chisparranda rosa"
     }
   },
@@ -1706,6 +2155,7 @@
       "zh-Hant": "阿德絲氣球",
       "zh-Hans": "阿托斯气球",
       "ar": "بالون آثوس",
+      "th": "บอลลูนอาธอส",
       "es-419": "Globo Athos"
     }
   },
@@ -1725,6 +2175,7 @@
       "zh-Hant": "艾路・草莓",
       "zh-Hans": "艾露猫：草莓",
       "ar": "فيلاين فراولة",
+      "th": "สตรอว์เบอร์รีเฟลีน",
       "es-419": "Fresa Felyne"
     }
   },
@@ -1744,6 +2195,7 @@
       "zh-Hant": "霸者之證【獄焰鱆】",
       "zh-Hans": "霸者之证【狱焰蛸】",
       "ar": "نو أودرا: رمز الإتقان",
+      "th": "นู อูดรา: ตราความชำนาญ",
       "es-419": "Nu Udra: dominio"
     }
   },
@@ -1763,7 +2215,28 @@
       "zh-Hant": "霸者之證【凍峰龍】",
       "zh-Hans": "霸者之证【冻峰龙】",
       "ar": "جين دهاد: رمز الإتقان",
+      "th": "จิน ดาฮาด: ตราแห่งความชำนาญ",
       "es-419": "Jin Dahaad: marca de dominio"
+    }
+  },
+  {
+    "game_id": 24957,
+    "names": {
+      "ja": "アナタのププロくん・黒",
+      "en": "Black Polo Pal",
+      "fr": "Pote-polo noir",
+      "it": "Pallopolo nero",
+      "de": "Rompolein (schwarz)",
+      "es": "Amigo Popolo oscuro",
+      "ru": "Чёрный ромпо",
+      "pl": "Czarny Popolo",
+      "pt-BR": "Popo-Balão Preto",
+      "ko": "당신의 푸푸로/블랙",
+      "zh-Hant": "你的小沼噴龍・黑",
+      "zh-Hans": "你的小沼喷龙・黑",
+      "ar": "باليكو بوبولو أسود",
+      "th": "คู่หูโปโลสีดำ",
+      "es-419": "Popolo negro"
     }
   },
   {
@@ -1782,7 +2255,28 @@
       "zh-Hant": "挑戰者之證【闢獸】",
       "zh-Hans": "挑战者之证【辟兽】",
       "ar": "دوشاغوما: رمز المنافسة",
+      "th": "โดชากุมะ: ตราการแข่งขัน",
       "es-419": "Doshaguma: lucha"
+    }
+  },
+  {
+    "game_id": 25407,
+    "names": {
+      "ja": "覇者の証【鎖刃竜】",
+      "en": "Arkveld: Mark of Mastery",
+      "fr": "Arkveld : gage de maîtrise",
+      "it": "Arkveld: Marchio maestria",
+      "de": "Arkveld: Dominanz",
+      "es": "Arkveld: Señal de dominio",
+      "ru": "Арквельд: знак мастера",
+      "pl": "Arkveld: Symbol mistrzostwa",
+      "pt-BR": "Arkveld: Maestria",
+      "ko": "패자의 증표【쇄인룡】",
+      "zh-Hant": "霸者之證【鎖刃龍】",
+      "zh-Hans": "霸者之证【锁刃龙】",
+      "ar": "آركفيلد: رمز الإتقان",
+      "th": "อาร์คเวลด์: ตราแห่งความชำนาญ",
+      "es-419": "Arkveld: marca de dominio"
     }
   },
   {
@@ -1801,6 +2295,7 @@
       "zh-Hant": "艾路・焦糖",
       "zh-Hans": "艾露猫：焦糖",
       "ar": "فيلاين كراميل",
+      "th": "คาราเมลเฟลีน",
       "es-419": "Caramelo Felyne"
     }
   },
@@ -1820,6 +2315,7 @@
       "zh-Hant": "刺花禮服玩偶・橙",
       "zh-Hans": "刺花蜘蛛礼服娃娃・橙",
       "ar": "دمية فستان لالا البرتقالي",
+      "th": "ตุ๊กตาลาลาเดรสสีส้ม",
       "es-419": "Muñeca con vestido lala naranja"
     }
   },
@@ -1839,6 +2335,7 @@
       "zh-Hant": "挑戰者之證【凍峰龍】",
       "zh-Hans": "挑战者之证【冻峰龙】",
       "ar": "جين دهاد: رمز المنافسة",
+      "th": "จิน ดาฮาด: ตราแห่งการแข่งขัน",
       "es-419": "Jin Dahaad: marca de lucha"
     }
   },
@@ -1858,6 +2355,7 @@
       "zh-Hant": "挑戰者之證【波衣龍】",
       "zh-Hans": "挑战者之证【波衣龙】",
       "ar": "أوث دونا: رمز المنافسة",
+      "th": "อุธ ดูนา: ตราการแข่งขัน",
       "es-419": "Uth Duna: lucha"
     }
   },
@@ -1877,6 +2375,7 @@
       "zh-Hant": "搖晃寶寶・白籠",
       "zh-Hans": "摇篮宝宝・白",
       "ar": "مهد أبيض",
+      "th": "กล่อมเด็กน้อยในเปลสีขาว",
       "es-419": "Columpollito blanco"
     }
   },
@@ -1896,6 +2395,7 @@
       "zh-Hant": "波衣龍貓γ裝飾球",
       "zh-Hans": "波衣龙猫γ装饰球",
       "ar": "دمية فيلاين دونا γ برأس متحرك",
+      "th": "ตุ๊กตาดุ๊กดิ๊กดูนาเฟลีน γ",
       "es-419": "Borla Duna Felyne γ"
     }
   },
@@ -1915,6 +2415,7 @@
       "zh-Hant": "歌鴞氣球・彩",
       "zh-Hans": "歌鸮气球·彩",
       "ar": "بالون ألوان",
+      "th": "สตริกิเบิล: หลากสี",
       "es-419": "Strigible: Color"
     }
   },
@@ -1934,6 +2435,7 @@
       "zh-Hant": "勇者之證【闢獸】",
       "zh-Hans": "勇者之证【辟兽】",
       "ar": "دوشاغوما: رمز الشجاعة",
+      "th": "โดชากุมะ: ตราความกล้าหาญ",
       "es-419": "Doshaguma: valor"
     }
   },
@@ -1953,6 +2455,7 @@
       "zh-Hant": "霸者之證【泡狐龍】",
       "zh-Hans": "霸者之证【泡狐龙】",
       "ar": "ميزوتسوني: رمز الإتقان",
+      "th": "มิซึสึเนะ: ตราความชำนาญ",
       "es-419": "Mizutsune: dominio"
     }
   },
@@ -1962,7 +2465,7 @@
       "ja": "勇者の証【泡狐竜】",
       "en": "Mizutsune: Mark of Bravery",
       "fr": "Mizutsune : gage de bravoure",
-      "it": "Mizutsune: M. valore",
+      "it": "Mizutsune: Marchio valore",
       "de": "Mizutsune: Mut",
       "es": "Mizutsune: Señal de valor",
       "ru": "Мидзуцунэ: знак героя",
@@ -1972,6 +2475,7 @@
       "zh-Hant": "勇者之證【泡狐龍】",
       "zh-Hans": "勇者之证【泡狐龙】",
       "ar": "ميزوتسوني: رمز الشجاعة",
+      "th": "มิซึสึเนะ: ตราความกล้าหาญ",
       "es-419": "Mizutsune: valor"
     }
   },
@@ -1991,6 +2495,7 @@
       "zh-Hant": "滾滾木桶飾帶",
       "zh-Hans": "滚桶挑战饰带",
       "ar": "شريط بولينغ البراميل",
+      "th": "พวงห้อยโบว์ลิ่งถัง",
       "es-419": "Colgante de bolos"
     }
   },
@@ -2010,6 +2515,7 @@
       "zh-Hant": "綠寶石擬餌",
       "zh-Hans": "祖母绿拟饵",
       "ar": "طُعم زمردي أخضر",
+      "th": "เหยื่อสั่นเขียวมรกต",
       "es-419": "Cebo esmeralda fluctuante"
     }
   },
@@ -2029,6 +2535,7 @@
       "zh-Hant": "霸者之證【波衣龍】",
       "zh-Hans": "霸者之证【波衣龙】",
       "ar": "أوث دونا: رمز الإتقان",
+      "th": "อุธ ดูนา: ตราความชำนาญ",
       "es-419": "Uth Duna: dominio"
     }
   },
@@ -2048,6 +2555,7 @@
       "zh-Hant": "希望貓氣球",
       "zh-Hans": "希望猫气球",
       "ar": "بالون فيلاين الأمل",
+      "th": "บอลลูนโฮป F",
       "es-419": "Globo esperanza F"
     }
   },
@@ -2067,6 +2575,7 @@
       "zh-Hant": "火蹈精靈・赤焰",
       "zh-Hans": "踊火精灵・赤焰",
       "ar": "روح مهرجان اللهب الأحمر",
+      "th": "ภูตงานฉลองเปลวเพลิงแดง",
       "es-419": "Espíritu chisparranda rojo"
     }
   },
@@ -2086,6 +2595,7 @@
       "zh-Hant": "奔跑白貓",
       "zh-Hans": "跑路的白猫",
       "ar": "الأبيض الهارب",
+      "th": "เจ้าแมวขาววิ่งปร๋อ",
       "es-419": "Huidizo blanco"
     }
   },
@@ -2105,7 +2615,48 @@
       "zh-Hant": "浮浮幻想",
       "zh-Hans": "浮浮幻想",
       "ar": "الخربشات العائمة",
+      "th": "รูปขีดเขียนลอยละล่อง",
       "es-419": "Garabatos flotantes"
+    }
+  },
+  {
+    "game_id": 28968,
+    "names": {
+      "ja": "もぞもぞプルプル・桃",
+      "en": "Jigglysquirm (Pink)",
+      "fr": "Bougigote (rose)",
+      "it": "Tremarello (rosa)",
+      "de": "Glibberkumpel (rosa)",
+      "es": "Viscosín (rosa)",
+      "ru": "Трясучка-тянучка (розовая)",
+      "pl": "Wierciwijka (różowa)",
+      "pt-BR": "Molenguinha (Rosa)",
+      "ko": "탱글이/분홍",
+      "zh-Hant": "軟軟扭扭・桃",
+      "zh-Hans": "软软扭扭・桃",
+      "ar": "المتلوّي المهتز (وردي)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (ชมพู)",
+      "es-419": "Blandengue (rosa)"
+    }
+  },
+  {
+    "game_id": 28993,
+    "names": {
+      "ja": "愛のあからさま",
+      "en": "Pride and Joy",
+      "fr": "Plus grande fierté",
+      "it": "Orgoglio e gioia",
+      "de": "Mein ganzer Stolz",
+      "es": "Orgullo y felicidad",
+      "ru": "Гордость и отрада",
+      "pl": "Duma i radość",
+      "pt-BR": "Maior Orgulho",
+      "ko": "있는 그대로의 사랑",
+      "zh-Hant": "熱忱的體現",
+      "zh-Hans": "直白的爱",
+      "ar": "فخري ومصدر سعادتي",
+      "th": "ความภาคภูมิใจและความสุข",
+      "es-419": "Orgullo y alegría"
     }
   },
   {
@@ -2124,6 +2675,7 @@
       "zh-Hant": "【KFC】雞桶艾路",
       "zh-Hans": "【KFC】全家桶艾露猫",
       "ar": "فيلاين دلو KFC",
+      "th": "เฟลีนถังไก่ KFC",
       "es-419": "Bucket Felyne KFC"
     }
   },
@@ -2143,6 +2695,7 @@
       "zh-Hant": "刺花禮服玩偶・赤",
       "zh-Hans": "刺花蜘蛛礼服娃娃・红",
       "ar": "دمية فستان لالا الأحمر",
+      "th": "ตุ๊กตาลาลาเดรสสีแดง",
       "es-419": "Muñeca con vestido lala rojo"
     }
   },
@@ -2162,6 +2715,7 @@
       "zh-Hant": "搖晃寶寶・藍籠",
       "zh-Hans": "摇篮宝宝・蓝",
       "ar": "مهد أزرق",
+      "th": "กล่อมเด็กน้อยในเปลสีน้ำเงิน",
       "es-419": "Columpollito azul"
     }
   },
@@ -2181,7 +2735,28 @@
       "zh-Hant": "艾路泰迪熊・火蹈",
       "zh-Hans": "泰迪艾露猫・踊火",
       "ar": "دمية فيلاين مهرجان اللهب",
+      "th": "ตุ๊กตาเฟลีนงานฉลองเปลวเพลิง",
       "es-419": "Peluche de Chisparranda Felyne"
+    }
+  },
+  {
+    "game_id": 30245,
+    "names": {
+      "ja": "もぞもぞプルプル・青",
+      "en": "Jigglysquirm (Blue)",
+      "fr": "Bougigote (bleu)",
+      "it": "Tremarello (azzurro)",
+      "de": "Glibberkumpel (blau)",
+      "es": "Viscosín (azul)",
+      "ru": "Трясучка-тянучка (синяя)",
+      "pl": "Wierciwijka (niebieska)",
+      "pt-BR": "Molenguinha (Azul)",
+      "ko": "탱글이/파랑",
+      "zh-Hant": "軟軟扭扭・藍",
+      "zh-Hans": "软软扭扭・蓝",
+      "ar": "المتلوّي المهتز (أزرق)",
+      "th": "ดุ๊กดิ๊กเด้งดึ๋ง (น้ำเงิน)",
+      "es-419": "Blandengue (azul)"
     }
   },
   {
@@ -2200,6 +2775,7 @@
       "zh-Hant": "跳舞黑貓陶偶",
       "zh-Hans": "跳舞的黑猫陶俑",
       "ar": "القطة السوداء الراقصة",
+      "th": "แมวดำเต้นระบำ",
       "es-419": "Gato negro bailarín"
     }
   },
@@ -2219,6 +2795,7 @@
       "zh-Hant": "挑戰者之證【千刃龍】",
       "zh-Hans": "挑战者之证【千刃龙】",
       "ar": "سيرجيوس: رمز المنافسة",
+      "th": "เซเรกิออส: ตราการแข่งขัน",
       "es-419": "Seregios: lucha"
     }
   },
@@ -2238,7 +2815,68 @@
       "zh-Hant": "搖晃寶寶・紫籠",
       "zh-Hans": "摇篮宝宝・紫",
       "ar": "مهد أرجواني",
+      "th": "กล่อมเด็กน้อยในเปลสีม่วง",
       "es-419": "Columpollito morado"
+    }
+  },
+  {
+    "game_id": 30734,
+    "names": {
+      "ja": "ぴょこぴょこレ・ダウ",
+      "en": "Hatchling Rey Dau",
+      "fr": "Bébé Rey Dau",
+      "it": "Cucciolo di Rey Dau",
+      "de": "Rey-Dau-Schlüpfling",
+      "es": "Cría de Rey Dau",
+      "ru": "Детёныш рей дау",
+      "pl": "Jajo z Rey Dau",
+      "pt-BR": "Rey Dau Bebê",
+      "ko": "폴짝폴짝 레 다우",
+      "zh-Hant": "彈彈煌雷龍",
+      "zh-Hans": "蹦跳煌雷龙",
+      "ar": "بيضة راي داو الفاقسة",
+      "th": "เรย์ ดาวจิ๋ว",
+      "es-419": "Cría de Rey Dau"
+    }
+  },
+  {
+    "game_id": 30792,
+    "names": {
+      "ja": "ぴょこぴょこグラビモス",
+      "en": "Hatchling Gravios",
+      "fr": "Bébé Gravios",
+      "it": "Cucciolo di Gravios",
+      "de": "Gravios-Schlüpfling",
+      "es": "Cría de Gravios",
+      "ru": "Детёныш гравиоса",
+      "pl": "Jajo z Graviosem",
+      "pt-BR": "Gravios Bebê",
+      "ko": "폴짝폴짝 그라비모스",
+      "zh-Hant": "彈彈鎧龍",
+      "zh-Hans": "蹦跳铠龙",
+      "ar": "بيضة غرافيوس الفاقسة",
+      "th": "กราวิออสจิ๋ว",
+      "es-419": "Cría de Gravios"
+    }
+  },
+  {
+    "game_id": 31417,
+    "names": {
+      "ja": "ぴょこぴょこチャタカブラ",
+      "en": "Hatchling Chatacabra",
+      "fr": "Bébé Chatacabra",
+      "it": "Cucciolo di Chatacabra",
+      "de": "Chatacabra-Schlüpfling",
+      "es": "Cría de Chatacabra",
+      "ru": "Детёныш чатакабры",
+      "pl": "Jajo z Chatacabrą",
+      "pt-BR": "Chatacabra Bebê",
+      "ko": "폴짝폴짝 차타카브라",
+      "zh-Hant": "彈彈纏蛙",
+      "zh-Hans": "蹦跳缠蛙",
+      "ar": "بيضة تشاتاكابرا الفاقسة",
+      "th": "ชาตาคาบราจิ๋ว",
+      "es-419": "Cría de Chatacabra"
     }
   },
   {
@@ -2257,6 +2895,7 @@
       "zh-Hant": "騷靈艾路・白靈",
       "zh-Hans": "骚灵艾露猫・白灵",
       "ar": "القط الشبح الأبيض",
+      "th": "พอลเทอร์แคทสีขาว",
       "es-419": "Poltergato blanco"
     }
   },
@@ -2276,6 +2915,7 @@
       "zh-Hant": "踩球噗吱豬【四季花】",
       "zh-Hans": "踩球噗吱猪【四季花】",
       "ar": "بوغي المتدحرج: موسمي",
+      "th": "พูกี้กลิ้งบอล: ฤดูกาล",
       "es-419": "Poogie rodante: Flores de temporada"
     }
   },
@@ -2295,6 +2935,7 @@
       "zh-Hant": "火蹈精靈・綠焰",
       "zh-Hans": "踊火精灵・绿焰",
       "ar": "روح مهرجان اللهب الأخضر",
+      "th": "ภูตงานฉลองเปลวเพลิงเขียว",
       "es-419": "Espíritu chisparranda verde"
     }
   },
@@ -2314,6 +2955,7 @@
       "zh-Hant": "泰迪艾路・祝謠",
       "zh-Hans": "泰迪艾露猫・祝谣",
       "ar": "دمية فيلاين ترنيمة النور",
+      "th": "ตุ๊กตาเฟลีนเพลงสดุดีแห่งแสง",
       "es-419": "Peluche de Iluminario Felyne"
     }
   },
@@ -2333,6 +2975,7 @@
       "zh-Hant": "歌鴞氣球・舞",
       "zh-Hans": "歌鸮气球·舞",
       "ar": "بالون سايبربنك",
+      "th": "สตริกิเบิล: ไซเบอร์เมี้ยว",
       "es-419": "Strigible: Cibermiau"
     }
   },
@@ -2352,7 +2995,28 @@
       "zh-Hant": "火蹈精靈・藍焰",
       "zh-Hans": "踊火精灵・蓝焰",
       "ar": "روح مهرجان اللهب الأزرق",
+      "th": "ภูตงานฉลองเปลวเพลิงน้ำเงิน",
       "es-419": "Espíritu chisparranda azul"
+    }
+  },
+  {
+    "game_id": 32736,
+    "names": {
+      "ja": "勇者の証【鎖刃竜】",
+      "en": "Arkveld: Mark of Bravery",
+      "fr": "Arkveld : gage de bravoure",
+      "it": "Arkveld: Marchio valore",
+      "de": "Arkveld: Mut",
+      "es": "Arkveld: Señal de valor",
+      "ru": "Арквельд: знак героя",
+      "pl": "Arkveld: Symbol odwagi",
+      "pt-BR": "Arkveld: Bravura",
+      "ko": "용사의 증표【쇄인룡】",
+      "zh-Hant": "勇者之證【鎖刃龍】",
+      "zh-Hans": "勇者之证【锁刃龙】",
+      "ar": "آركفيلد: رمز الشجاعة",
+      "th": "อาร์คเวลด์: ตราแห่งความกล้าหาญ",
+      "es-419": "Arkveld: marca de valor"
     }
   },
   {
@@ -2371,6 +3035,7 @@
       "zh-Hant": "希望領巾G・紅綠",
       "zh-Hans": "希望领巾S·红绿",
       "ar": "وشاح الأمل S: أحمر وأخضر",
+      "th": "ผ้าพันคอโฮป S: แดง/เขียว",
       "es-419": "Pañuelo S: Rojo/verde"
     }
   },
@@ -2390,6 +3055,7 @@
       "zh-Hant": "感謝之證【阿茲茲】",
       "zh-Hans": "感谢之证【阿孜兹】",
       "ar": "آزوز: علامة الامتنان",
+      "th": "อาซุส: ตราไมตรีจิต",
       "es-419": "Azuz: Marca de gratitud"
     }
   },
@@ -2409,6 +3075,7 @@
       "zh-Hant": "希望領巾・藍",
       "zh-Hans": "希望领巾·蓝",
       "ar": "وشاح الأمل: أزرق",
+      "th": "ผ้าพันคอโฮป: ฟ้าอ่อน",
       "es-419": "Pañuelo: Celeste"
     }
   },
@@ -2428,6 +3095,7 @@
       "zh-Hant": "飛鳥風鈴",
       "zh-Hans": "飞鸟风铃",
       "ar": "جرس الرياح للطائر المحلق",
+      "th": "กระดิ่งลมปักษา",
       "es-419": "Campanilla viento aviar"
     }
   },
@@ -2447,6 +3115,7 @@
       "zh-Hant": "希望領巾S・白銀",
       "zh-Hans": "希望领巾S·白银",
       "ar": "وشاح الأمل S: فضي",
+      "th": "ผ้าพันคอโฮป S: เทานวล",
       "es-419": "Pañuelo S: Gris"
     }
   },
@@ -2466,6 +3135,7 @@
       "zh-Hant": "希望領巾・綠",
       "zh-Hans": "希望领巾·绿",
       "ar": "وشاح الأمل: أخضر",
+      "th": "ผ้าพันคอโฮป: เขียว",
       "es-419": "Pañuelo: Verde"
     }
   },
@@ -2485,6 +3155,7 @@
       "zh-Hant": "跳舞白貓陶偶",
       "zh-Hans": "跳舞的白猫陶俑",
       "ar": "القطة البيضاء الراقصة",
+      "th": "แมวขาวเต้นระบำ",
       "es-419": "Gato blanco bailarín"
     }
   },
@@ -2504,6 +3175,7 @@
       "zh-Hant": "希望領巾G・黑白",
       "zh-Hans": "希望领巾G·黑白",
       "ar": "وشاح الأمل G: أحادي اللون",
+      "th": "ผ้าพันคอโฮป G: โมโนโครม",
       "es-419": "Pañuelo G: Monocromático"
     }
   },
@@ -2523,6 +3195,7 @@
       "zh-Hant": "怪鳥玩偶",
       "zh-Hans": "怪鸟玩偶",
       "ar": "دمية كوت-كو",
+      "th": "ตุ๊กตาคุท-คู",
       "es-419": "Peluche de Kut-Ku"
     }
   },
@@ -2542,6 +3215,7 @@
       "zh-Hant": "希望領巾・黃",
       "zh-Hans": "希望领巾·黄",
       "ar": "وشاح الأمل: لون الزعفران",
+      "th": "ผ้าพันคอโฮป: แสดทอง",
       "es-419": "Pañuelo: Azafrán"
     }
   },
@@ -2561,6 +3235,7 @@
       "zh-Hant": "希望領巾S・淡彩",
       "zh-Hans": "希望领巾S·淡彩",
       "ar": "وشاح الأمل S: لون فاتح",
+      "th": "ผ้าพันคอโฮป S: พาสเทล",
       "es-419": "Pañuelo S: Pastel"
     }
   },
@@ -2580,6 +3255,7 @@
       "zh-Hant": "希望領巾S・橙",
       "zh-Hans": "希望领巾S·橙",
       "ar": "وشاح الأمل S: لون مربى البرتقال",
+      "th": "ผ้าพันคอโฮป S: ส้มอำพัน",
       "es-419": "Pañuelo S: Mermelada"
     }
   },
@@ -2599,6 +3275,7 @@
       "zh-Hant": "泰迪艾路",
       "zh-Hans": "泰迪艾露猫",
       "ar": "دمية فيلاين محشوة",
+      "th": "ตุ๊กตาเฟลีนยัดนุ่น",
       "es-419": "Peluche de Felyne"
     }
   },
@@ -2618,6 +3295,7 @@
       "zh-Hant": "龍燈翼飾",
       "zh-Hans": "龙灯翼饰",
       "ar": "أجنحة شعلة التنين",
+      "th": "ปีกขุมพลังมังกร",
       "es-419": "Alas Antorcha Dragón"
     }
   },
@@ -2637,6 +3315,7 @@
       "zh-Hant": "波衣龍貓裝飾球",
       "zh-Hans": "波衣龙猫装饰球",
       "ar": "دمية فيلاين دونا برأس متحرك",
+      "th": "ตุ๊กตาดุ๊กดิ๊กดูนาเฟลีน",
       "es-419": "Borla Duna Felyne"
     }
   },
@@ -2656,6 +3335,7 @@
       "zh-Hant": "希望領巾G・黑",
       "zh-Hans": "希望领巾G·黑",
       "ar": "وشاح الأمل G: أسود",
+      "th": "ผ้าพันคอโฮป G: ดำ",
       "es-419": "Pañuelo G: Negro"
     }
   },
@@ -2675,6 +3355,7 @@
       "zh-Hant": "希望領巾G・黃黑",
       "zh-Hans": "希望领巾G·黄黑",
       "ar": "وشاح الأمل G: الخطر",
+      "th": "ผ้าพันคอโฮป G: ดำ/เหลือง",
       "es-419": "Pañuelo G: Peligro"
     }
   }

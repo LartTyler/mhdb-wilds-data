@@ -16,6 +16,7 @@
       "zh-Hant": "白熾龍",
       "zh-Hans": "白炽龙",
       "ar": "زو شيا",
+      "th": "โซห์ ชิอา",
       "es-419": "Zoh Shia"
     },
     "descriptions": {
@@ -32,6 +33,7 @@
       "zh-Hant": "被造成龍都救世主的護龍。寄生在龍燈上，\r\n一面吸取龍燈龐大的能量一面沉眠。",
       "zh-Hans": "作为龙都的救世主而被制造出来的护龙。寄生在\r\n龙灯上，一面吸取着庞大的能量一面沉睡。",
       "ar": "وحش حارس صُنع ليكون منقذ وايفيريا. كان يتغذى\r\nعلى شعلة التنين ويستمد طاقته من مخازن الطاقة\r\nالهائلة أثناء سباته.",
+      "th": "การ์เดียนที่ถูกสร้างขึ้นเพื่อเป็นผู้กอบกู้ไววีเรีย\r\nมันดูดกลืนพลังงานจากขุมพลังมังกรและหล่อเลี้ยง\r\nตนเองจากแหล่งพลังงานมหาศาลขณะหลับ",
       "es-419": "Guardián creado para ser el salvador de Wyveria.\r\nSe nutría de la Antorcha del Dragón, extrayendo\r\nvastas reservas de energía durante su letargo."
     },
     "features": {
@@ -48,6 +50,7 @@
       "zh-Hant": "不斷吞噬龍燈能量的巨大護龍。身體被結晶化的龍\r\n乳覆蓋，即便受傷遭破壞也會再生。擅長護龍特有\r\n的能量釋放攻擊，會接連引發巨大的爆炸使周遭結\r\n晶化。彰顯其護龍特性的白色外皮下，黑色的記憶\r\n在蠢動。當白熾龍尋回往昔破壞平衡的力量，黑色\r\n的本體就會露出。",
       "zh-Hans": "不断吞噬着龙灯能量的巨型护龙。体表被结晶化\r\n的龙乳覆盖，即使遭到破坏也会再生。它擅长护\r\n龙特有的能量释放攻击，能够连续引发巨大的爆\r\n炸，并使周围结晶化。在其白色外皮之下，潜藏\r\n着时刻蠢动的黑色记忆，只有当它找回往昔那破\r\n坏平衡的力量时，才会显露出来。",
       "ar": "وحش حارس ضخم كان يتغذى على طاقة\r\nشعلة التنين. جسده مغلف بـ حليب وايفرن\r\nالمتبلور، ما يمكِّنه من الانبعاث من جديد.\r\n(زو شيا) متفوق في هجمات الطاقة مثل\r\nالوحوش الحارسة الأخرى ويمكنه إنتاج\r\nانفجارات متعددة لبلورة المنطقة بأكملها.\r\nتحت الفراء الأبيض للوحش الحارس،\r\nينبض جسده بذكريات قاتمة، والتي قد تراها\r\nإذا كشف عن قوته الكاملة من الأيام الخوالي.",
+      "th": "การ์เดียนร่างมหึมาที่กินพลังงานจากขุมพลังมังกร\r\nเป็นอาหาร ร่างกายของมันปกคลุมด้วยคริสตัลจาก\r\nไวเวิร์นมิลค์ที่ทำให้มันฟื้นตัวได้ โซห์ ชิอาเชี่ยวชาญ\r\nการโจมตีด้วยพลังงานไม่ต่างจากการ์เดียน\r\nตัวอื่นๆ และสามารถทำให้เกิดการระเบิดต่อเนื่อง\r\nเพื่อทำให้พื้นที่ทั่วทั้งบริเวณกลายเป็นคริสตัลได้\r\nภายใต้ขนสีขาวของการ์เดียน ร่างของมันเต้น\r\nเป็นจังหวะด้วยความทรงจำในอดีตอันมืดมิด ซึ่งคุณ\r\nอาจได้เห็น หากมันเผยพลังที่แท้จริงจากอดีตกาล",
       "es-419": "Enorme Guardián que se ha estado alimentando\r\nde la energía de la Antorcha del Dragón. La leche\r\nde wyvern cristalizada recubre su cuerpo,\r\nlo que le permite regenerarse. Al igual que otros\r\nGuardianes, Zoh Shia destaca en los ataques de\r\nenergía y puede provocar explosiones reiteradas\r\npara cristalizar toda la zona. Por debajo de su\r\ncapa blanca de Guardián, su cuerpo vibra con un\r\nrecuerdo oscuro, que quizás llegues a ver\r\nen caso de que revele todo su poder de antaño."
     },
     "tips": {
@@ -64,6 +67,7 @@
       "zh-Hant": "白熾龍和其他護龍有相同的基本特性，會利用翼腳\r\n使出能量釋放攻擊。只要打掉翼腳和頭上的結晶，\r\n就能使牠身上積蓄的能量消耗殆盡。包覆在牠身上\r\n的白色結晶遭破壞後雖然會再生，但硬度會下降，\r\n能輕易再次破壞。此外，由於能量釋放攻擊所形成\r\n的龍乳結晶會與屬性攻擊起反應而爆炸，利用此特\r\n性善用屬性投射器彈等攻擊應該很有效。",
       "zh-Hans": "白炽龙的基本特性与其他护龙相似。如果破坏其\r\n翼臂和头部的结晶，就能使它积蓄的能量迅速枯\r\n竭。覆盖全身的白色结晶在破坏后虽然能够再生，\r\n但硬度会降低，变得更容易再次击碎。此外，白\r\n炽龙的能量攻击会产生龙乳结晶，其对属性攻击\r\n有很强的反应，能引发爆炸。因此，利用属性投\r\n射器弹药等武器对它进行攻击会非常有效。",
       "ar": "تتشارك وحوش (زو شيا) نفس السمات الأساسية\r\nمع الوحوش الحارسة الأخرى. يمكن نزع البلورات\r\nالموجودة على أجنحتها ورؤوسها لتفريغ مخازن طاقتها.\r\nستنمو البلورة البيضاء على أجسامها مرة أخرى\r\nبشكل أضعف، ما يجعل من السهل تدميرها\r\nفي المرة الثانية. ستنفجر البلورات التي تنتجها\r\nإذا تعرضت لضرر عناصري،\r\nولكن يمكن للصياد الماهر\r\nاستخدام ذخيرة نبلة المعصم العناصرية\r\nوالمناورة البارعة للاستفادة منها جيدًا.",
+      "th": "โซห์ ชิอามีลักษณะพื้นฐานเหมือนการ์เดียนตัวอื่นๆ\r\nคริสตัลบริเวณปีกและหัวสามารถถูกทำลายทิ้งได้\r\nเพื่อลดพลังงานสะสม คริสตัลสีขาวบนลำตัวของมัน\r\nสามารถงอกขึ้นใหม่ได้แต่จะเปราะบางกว่าเดิม ทำให้\r\nทำลายได้ง่ายขึ้นเมื่อโจมตีซ้ำในครั้งถัดไป คริสตัลที่\r\nมันสร้างขึ้นจะระเบิดหากได้รับความเสียหายธาตุ แต่\r\nฮันเตอร์ที่มีทักษะสูงสามารถใช้กระสุนสลิงเกอร์พลัง\r\nธาตุและการเคลื่อนไหวที่ชาญฉลาดเพื่อใช้ประโยชน์\r\nจากคริสตัลดังกล่าวได้",
       "es-419": "Zoh Shia comparte los rasgos básicos de\r\notros Guardianes. Los cristales de sus alas\r\ny cabeza pueden desprenderse para mermar sus\r\nreservas de energía. Los cristales blancos\r\nde su cuerpo se regenerarán, pero serán más\r\ndébiles, por lo que resultará fácil volver a\r\ndestruirlos. Los cristales creados detonarán\r\nsi reciben daño elemental, pero un cazador\r\ntalentoso podría aprovechar la munición de\r\neslinga elemental a su favor."
     },
     "variants": [],
@@ -854,6 +858,7 @@
       "zh-Hant": "護闢獸",
       "zh-Hans": "护辟兽",
       "ar": "دوشاغوما حارس",
+      "th": "การ์เดียนโดชากุมา",
       "es-419": "Doshaguma Guardián"
     },
     "descriptions": {
@@ -870,6 +875,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有闢獸之力。擁有\r\n非常強韌的肉體，會吐出酸性液體。",
       "zh-Hans": "古代文明创造出的造龙种，带有辟兽之力。\r\n具备极其强韧的肉体，并能吐出酸性液体。",
       "ar": "سلالة اصطناعية خلّفتها حضارة قديمة\r\nباستخدام قوة (دوشاغوما). تتمتع ببنية جسدية قوية لدرجة مذهلة\r\nويمكنها قذف الحمض.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้นโดยอาศัย\r\nพลังของโดชากุมา มันมีร่างกายที่แข็งแกร่งอย่างยิ่ง\r\nและสามารถพ่นกรดได้",
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con el poder de un Doshaguma.\r\nPosee un cuerpo robusto y puede escupir ácido."
     },
     "features": {
@@ -880,12 +886,13 @@
       "de": "Eine von einer uralten Zivilisation geschaffene\r\nkünstliche Spezies mit der Kraft eines Dosha-\r\nguma. Wächter-Doshaguma können sich nicht\r\nfortpflanzen und müssen nicht fressen. Statt-\r\ndessen ziehen sie ihre Energie aus Wyvernmilch.\r\nSie sind alles andere als schnell, können aber\r\nAngriffe aushalten, ohne zurückzuschrecken,\r\nwas sie zu extrem gefährlichen Gegnern macht.",
       "es": "Una especie de monstruos artificiales creada\r\npor una civilización ancestral con la energía\r\nde un Doshaguma. El Doshaguma Guardián\r\nno se reproduce y no necesita alimento, por\r\nlo que subsiste con leche de wyvern. No son\r\npara nada ágiles, pero sí lo bastante duros\r\ncomo para cargar a través de los ataques sin\r\ninmutarse, lo que los hace increíblemente\r\npeligrosos.",
       "ru": "Древняя цивилизация, создавшая этих\r\nмонстров, наделила их силой догашумы.\r\nДогашумы-стражи не обладают способностью\r\nк размножению. К тому же они не нуждаются\r\nв еде, так как питаются виверновым молоком.\r\nЭти монстры неповоротливы, но зато стойко\r\nпереносят практически любые атаки и потому\r\nсчитаются крайне опасными.",
-      "pl": "Sztuczny gatunek potwora\r\nwyhodowany przez starożytną cywilizację\r\ni nasycony mocą Doshagumy. Doshaguma Strażnik nie może się rozmnażać\r\ni nie potrzebuje pożywienia. Zamiast tego polega na\r\nmleku wiwerny jako źródle energii. Choć daleko mu do zwinności,\r\njest dość wytrzymały,\r\nby przebijać się przez ataki bez mrugnięcia okiem,\r\nco czyni go niezwykle niebezpiecznym.",
+      "pl": "Sztuczny gatunek potwora wyhodowany przez\r\nstarożytną cywilizację i nasycony mocą\r\nDoshagumy. Doshaguma Strażnik nie może się\r\nrozmnażać i nie potrzebuje pożywienia.\r\nZamiast tego polega na mleku wiwerny jako\r\nźródle energii. Choć daleko mu do zwinności,\r\njest dość wytrzymały, by przebijać się przez\r\nataki bez mrugnięcia okiem, co czyni go\r\nniezwykle niebezpiecznym.",
       "pt-BR": "Espécie artificial de monstro criada por\r\numa civilização antiga e imbuída com o\r\npoder de um Doshaguma. Doshagumas\r\nGuardiões não podem se reproduzir e\r\nnão precisam de comida, sustentando-se\r\napenas de Leite de Serpe. Embora não sejam\r\nágeis, são fortes o bastante para resistir a\r\nataques sem se abalar, o que os torna\r\ninimigos muito perigosos.",
       "ko": "고대 문명에 의해 《벽수》의\r\n힘을 품고 만들어진 인조룡종.\r\n생식 기능이 없고, 포식도\r\n하지 않지만 용유 자체를 섭취해\r\n에너지원으로 삼는다.\r\n결코 민첩하다고 말할 수 없으나,\r\n공격을 받아도 겁먹지 않고 돌진하는\r\n강인함을 갖추어 매우 위험하다.",
       "zh-Hant": "古代文明創造的造龍種，帶著闢獸之力。不具有生\r\n殖功能，也不會捕食，靠攝取龍乳來獲取能量。雖\r\n然動作算不上敏捷，不過非常頑強，即便受攻擊也\r\n會毫不畏怯衝刺而來，非常危險。",
       "zh-Hans": "古代文明创造出的造龙种，带有辟兽之力。既没\r\n有生殖能力，也不会捕食，而是直接摄取龙乳作\r\n为能量来源。虽然动作称不上敏捷，但非常顽强，\r\n即使受到攻击也会毫不畏惧地继续突击，极为危\r\n险。",
       "ar": "سلالة وحوش اصطناعية خلّقتها حضارة قديمة\r\nمشبعة بقوة (دوشاغوما). لا يمكن لوحوش\r\nالـ(دوشاغوما) الحارسة التكاثر ولا حاجة لها\r\nبتناول الطعام وتعتمد بدلًا من ذلك على حليب\r\nوايفرن للحصول على الطاقة. وبينما تفتقر كليًا\r\nإلى الرشاقة، فهي قوية بدرجة تكفي لشن\r\nهجمات مباشرة من دون تردد، ما يجعلها\r\nبالغة الخطورة.",
+      "th": "การ์เดียนโดชากุมา คือสายพันธุ์มอนสเตอร์\r\nเทียมที่อารยธรรมโบราณสร้างขึ้น และผสาน\r\nด้วยพลังของโดชากุมา มันไม่สามารถสืบพันธุ์\r\nได้และไม่ต้องกินอาหาร เพราะใช้ไวเวิร์นมิลค์\r\nเป็นแหล่งพลังงานแทน แม้จะไม่ว่องไวนัก แต่\r\nมันแข็งแกร่งพอที่จะพุ่งทะลวงการโจมตีได้โดย\r\nไม่สะทกสะท้าน จึงเป็นอันตรายอย่างยิ่ง",
       "es-419": "Una especie de monstruo artificial creada\r\npor una antigua civilización e imbuida\r\ncon el poder del Doshaguma.\r\nNo puede reproducirse, no necesita comer\r\ny se energiza con leche de wyvern. Si bien\r\nno es ágil, es lo suficientemente resistente\r\ncomo para asestar un ataque sin flaquear,\r\npor lo que resulta muy peligroso."
     },
     "tips": {
@@ -902,6 +909,7 @@
       "zh-Hant": "護闢獸主要以大幅揮動前臂施展攻擊，雖然算不上\r\n敏捷，但帶護龍能量的攻擊會引發大範圍爆炸，絕\r\n對不能大意。除此之外，牠還會分泌酸性唾液，只\r\n要接觸到唾液，防禦力就會暫時下降，需要多加小\r\n心。不過只要好好應付牠的前臂攻擊，牠就會露出\r\n弱點，要好好把握機會。牠的攻擊形成的結晶會對\r\n屬性攻擊起反應並爆炸，因此屬性投射器彈等攻擊\r\n手段也很有效。",
       "zh-Hans": "护辟兽主要使用前肢发动大开大阖的攻击。尽管\r\n行动不算敏捷，但其带有护龙能量的攻击能引发\r\n大范围爆炸，威力不容忽视。此外，它还会分泌\r\n酸性唾液，一旦敌人接触到唾液，防御力将暂时\r\n下降。不过，只要谨慎应对它的前肢攻击，便能\r\n让护辟兽暴露出弱点，提供反击的机会，建议多\r\n加利用这一点。它攻击形成的结晶也会对属性攻\r\n击起反应并爆炸，因此属性投射器弹药等攻击手\r\n段也会非常有效。",
       "ar": "معظم هجمات وحوش (دوشاغوما) الحارسة\r\nهي ضربات بالأطراف الأمامية الكبيرة.\r\nوبينما هي ضربات تفتقر إلى الرشاقة،\r\nفإن الهجمات التي تحمل طاقة الوحوش الحارسة\r\nستتسبب في انفجارات واسعة النطاق.\r\nانتبه للحمض الذي يحويه لعابها، والذي يقلل الدفاع مؤقتًا.\r\nبالتعامل الصحيح مع هجمات سواعدها،\r\nيمكنكَ كشف نقطة ضعف ينبغي استغلالها.\r\nالبلورات المتشكلة من هجماتها ستنفجر بسبب التدخل العنصري،\r\nما يجعل ذخيرة نبلة المعصم فعَّالة.",
+      "th": "ส่วนใหญ่การ์เดียนโดชากุมาโจมตีด้วยการเหวี่ยงขา\r\nคู่หน้าขนาดใหญ่ แม้จะไม่ว่องไวนัก แต่การโจมตีที่\r\nมีพลังการ์เดียนแฝงอยู่จะก่อให้เกิดการระเบิดเป็นวง\r\nกว้าง ระวังน้ำลายที่มีฤทธิ์เป็นกรดของมันที่ทำให้\r\nพลังป้องกันของคุณลดลงชั่วคราว หากรับมือกับการ\r\nโจมตีด้วยขาหน้าของมันได้อย่างถูกต้อง จะเป็นการ\r\nเปิดช่องจุดอ่อนของมันให้โจมตี คริสตัลที่เกิดขึ้นใน\r\nระหว่างการโจมตีของมันจะระเบิดเมื่อมีธาตุมากระตุ้น\r\nกระสุนสลิงเกอร์จึงใช้งานได้ดีเป็นพิเศษ",
       "es-419": "Los Doshaguma Guardián atacan principalmente\r\ncon sus patas delanteras. No son muy ágiles,\r\npero provocan grandes explosiones con la\r\nenergía de Guardián. Cuidado con la saliva\r\nácida, que baja las defensas temporalmente.\r\nEs posible exponer un punto débil si atacas\r\nsus patas delanteras. Los cristales que se\r\nforman con sus ataques explotarán si un\r\nataque elemental los impacta, por lo que la\r\nmunición de eslinga es efectiva."
     },
     "variants": [
@@ -921,6 +929,7 @@
           "zh-Hant": "護闢獸（歷戰個體）",
           "zh-Hans": "护辟兽（历战个体）",
           "ar": "دوشاغوما حارس غاضب",
+          "th": "การ์เดียนโดชากุมาสุดแกร่ง",
           "es-419": "Doshaguma Guardián curtido"
         }
       }
@@ -1552,6 +1561,7 @@
       "zh-Hant": "煌雷龍",
       "zh-Hans": "煌雷龙",
       "ar": "راي داو",
+      "th": "เรย์ ดาว",
       "es-419": "Rey Dau"
     },
     "descriptions": {
@@ -1568,6 +1578,7 @@
       "zh-Hant": "君臨天塹沙原生態系頂點的飛龍種。適應了雷電\r\n交加的沙塵暴，並會利用帶電能力襲擊獵物。",
       "zh-Hans": "君临天堑沙原生态系统顶点的飞龙种。不仅适应了\r\n雷电交加的沙尘暴，还会利用带电能力攻击猎物。",
       "ar": "الوايفرن الطائر الذي يهيمن\r\nعلى النظام البيئي في سهول (ويندوارد). إنه قادر على تخزين\r\nبرق المد الرملي وتضخيمه وتفريغه.",
+      "th": "ไวเวิร์นบินได้ที่ครองระบบนิเวศในทุ่งสายลมหวน\r\nมันสามารถกักเก็บ เพิ่มพลัง และปล่อยสายฟ้า\r\nแห่งพายุทรายได้",
       "es-419": "Wyvern volador que ejerce su supremacía en el\r\necosistema de los Llanos Ventosos. Puede almacenar,\r\namplificar y descargar rayos de la marea de arena."
     },
     "features": {
@@ -1584,6 +1595,7 @@
       "zh-Hant": "君臨天塹沙原生態系頂點的飛龍種。適應了雷電交\r\n加的沙塵暴，目前多數的目擊案例也集中在沙塵暴\r\n吹襲期間。高度的帶電能力使牠的強力放電攻擊極\r\n其危險。具有強烈的地盤意識，發現目標時會積極\r\n攻擊。身上的蒼雷晶和甲殼摩擦產生的聲音會引起\r\n周圍魔物的警戒。",
       "zh-Hans": "君临天堑沙原生态系统顶点的飞龙种。已经适应\r\n了雷电交加的沙尘暴，其目击情报也多集中于沙\r\n尘暴期间。强大的带电能力使它的放电攻击极具\r\n威胁性。其领地意识很强，一旦发现入侵者，便\r\n会积极主动发起攻击。其身上的苍雷晶与甲壳摩\r\n擦发出的声响，会引起周围怪物的警戒。",
       "ar": "الوايفرن الطائر الذي يهيمن على النظام البيئي\r\nفي سهول (ويندوارد). لقد تكيف مع المد الرملي،\r\nحيث يظهر بشكل متكرر، وهو قادر على تخزين\r\nبرق العواصف الشديد وتضخيمه وتفريغه إلى قوة\r\nذات تأثير مميت. يدافع (راي داو) بقوة عن منطقة\r\nنفوذه وسيهاجم أي متطفل على مرمى البصر.\r\nتصدر عيدان الصواعق الموجودة على هيكله\r\nصوتًا يبث الرعب في كل وحوش المنطقة.",
+      "th": "ไวเวิร์นบินได้ที่ครองระบบนิเวศในทุ่งสายลมหวน\r\nมันปรับตัวเข้ากับพายุทรายซึ่งเป็นสภาพอากาศ\r\nที่มันปรากฏตัวบ่อยที่สุด นอกจากนี้ยังสามารถ\r\nกักเก็บ เพิ่มพลัง และปล่อยสายฟ้าที่รุนแรงจาก\r\nพายุให้เป็นอาวุธสังหารได้ เรย์ ดาวมีนิสัยหวงถิ่น\r\nเป็นอย่างยิ่ง และจะโจมตีผู้บุกรุกทันทีที่พบเห็น\r\nฟูลเกอไรต์ที่ติดอยู่บนเปลือกแข็งของมันจะส่ง\r\nเสียงกังวานเสมือนสัญญาณเตือนให้มอนสเตอร์\r\nทั่วทั้งภูมิภาคระวังตัว",
       "es-419": "Wyvern volador que ejerce su supremacía\r\nen el ecosistema de los Llanos Ventosos. Logró\r\nadaptarse a la marea de arena, por lo que suele\r\naparecer en medio de ella, y puede almacenar,\r\namplificar y descargar poderosos rayos\r\nde tormenta con un efecto devastador.\r\nEl Rey Dau es muy territorial y ataca a quien\r\ntenga delante de sus ojos. La fulgorita\r\ncontra su caparazón emite un sonido que pone\r\nen guardia a todos los monstruos en la región."
     },
     "tips": {
@@ -1600,6 +1612,7 @@
       "zh-Hant": "帶電的翅膀或尾巴接觸以沙為主的地面時會發生反\r\n應，形成蒼雷晶。覆蓋在身上的蒼雷晶不僅會擴大\r\n該部位的攻擊範圍，還會增強帶電能力，因此推薦\r\n破壞牠的各個部位。頭部發射強力的放電攻擊後會\r\n暫時變成弱點。狩獵時建議使用雷耐性高的防具和\r\n冰屬性的武器。",
       "zh-Hans": "它带电的双翼和尾巴接触地面后，会与沙砾中的\r\n成分发生反应，生成苍雷晶。覆盖在它身上的苍\r\n雷晶不仅可以扩大相应部位的攻击范围，还能增\r\n强其带电能力，因此推荐破坏它的相应部位。在\r\n释出强烈的放电攻击后，其头部会暂时成为弱点。\r\n狩猎时，推荐装备具有高雷耐性的防具和冰属性\r\n的武器。",
       "ar": "عندما يلمس جناح (راي داو) أو ذيله الأرض\r\nأثناء الشحن، يحدث تفاعل ينتج عنه عباءة\r\nمن عيدان الصواعق. يؤدي ذلك إلى توسيع\r\nنطاق هجوم الذيل الملحق ويزيد من قدرة\r\nالوحش على الشحن، لذا تأكد من تحطيم\r\nهذه الأجزاء.\r\nقد تكون رؤوسها ضعيفة أحيانًا بعد هجوم\r\nتفريغ الشحنات. يُنصح الصيادون بإحضار\r\nدروع مقاومة للرعد وأسلحة جليدية.",
+      "th": "เมื่อปีกหรือหางของเรย์ ดาวสัมผัสกับพื้นขณะ\r\nมีประจุจะทำให้เกิดปฏิกิริยาที่สร้างม่านคลุม\r\nฟูลเกอไรต์ขึ้นมา ซึ่งช่วยเพิ่มระยะการโจมตีให้\r\nกับปีกและหาง ทั้งยังเพิ่มพลังในการชาร์จประจุ\r\nของมัน ฮันเตอร์จึงควรเน้นทำลายอวัยวะเหล่านี้\r\nก่อน หัวของมันก็อาจเผยจุดอ่อนหลังจากการ\r\nโจมตีปล่อยประจุ แนะนำให้ฮันเตอร์สวมเกราะ\r\nป้องกันธาตุสายฟ้าและใช้อาวุธธาตุน้ำแข็ง",
       "es-419": "Cuando el ala o la cola de un Rey Dau\r\ntocan el suelo mientras están cargadas,\r\ncausan una reacción que genera una capa de\r\nfulgurita. Esto amplía el alcance de\r\nataque del apéndice y aumenta la capacidad\r\nde carga del monstruo; procura destruir\r\nestas partes. Sus cabezas también son\r\nvulnerables tras un ataque de descarga.\r\nLos cazadores deben llevar armadura\r\nresistente al rayo y armamento de hielo."
     },
     "variants": [
@@ -1619,6 +1632,7 @@
           "zh-Hant": "煌雷龍（歷戰個體）",
           "zh-Hans": "煌雷龙（历战个体）",
           "ar": "راي داو غاضب",
+          "th": "เรย์ ดาวสุดแกร่ง",
           "es-419": "Rey Dau curtido"
         }
       }
@@ -2339,6 +2353,7 @@
       "zh-Hant": "刺花蜘蛛",
       "zh-Hans": "刺花蜘蛛",
       "ar": "لالا بارينا",
+      "th": "ลาลา บารินา",
       "es-419": "Lala Barina"
     },
     "descriptions": {
@@ -2355,6 +2370,7 @@
       "zh-Hant": "棲息在緋紅森林的鉗角種，特徵是會像舞者一面\r\n旋轉一面移動。射向獵物和外敵的絨毛帶有麻痺\r\n效果。",
       "zh-Hans": "栖息在绯红森林的钳角种。特征是会像舞者般进行\r\n旋转运动。射向猎物和外敌的绒毛带有麻痹效果。",
       "ar": "وحوش عنكبوتية تستوطن الغابة القرمزية\r\nذات حركات مميزة تشبه الرقص الدوار.\r\nالزهور التي تفرزها لها تأثير يسبب الشلل.",
+      "th": "เทมโนเซรันที่มีถิ่นอาศัยในป่าโลหิตและมีการเคลื่อนไหว\r\nที่โดดเด่นเหมือนท่าหมุนตัวของบัลเลต์ ดอกเล็กๆ ที่มัน\r\nปล่อยออกมามีฤทธิ์ทำให้เป็นอัมพาต",
       "es-419": "Temnoceran autóctonos del Bosque Escarlata\r\nque realizan piruetas características\r\ny lanzan flósculos con efectos paralizantes."
     },
     "features": {
@@ -2371,6 +2387,7 @@
       "zh-Hant": "棲息在緋紅森林的鉗角種，特徵是會像舞者一面旋\r\n轉一面移動。體液中含有使神經麻痺的成分，與水\r\n混合時會在腹部生成花瓣狀的紅色絨毛。興奮的時\r\n候腹部展開的模樣就像大紅花，因此得刺花蜘蛛之\r\n名。會像撒出絨毛般將體液和水的混合物射出，使\r\n接觸到的獵物和外敵麻痺，再加以捕獲。",
       "zh-Hans": "栖息于绯红森林的钳角种怪物，以舞者般的旋转\r\n移动为特点。其体液含有麻痹神经成分，与水混\r\n合后会在腹部形成花瓣状的红色绒毛。兴奋时，\r\n腹部会像一朵巨大的红花般展开，因此得名“刺\r\n花蜘蛛”。会将体液与水的混合物如蒲公英般撒\r\n出，使接触到的猎物或敌人麻痹，然后将其捕获。",
       "ar": "وحوش عنكبوتية تستوطن الغابة القرمزية\r\nذات حركات مميزة تشبه الرقص الدوار.\r\nتحتوي سوائلها على مادة شلل عصبي\r\nتخلطها مع الماء لإنتاج شعيرات حمراء\r\nتشبه البتلات على بطونها. عندما تشعر\r\nبالغضب، تفتح وحوش (لالا بارينا) هذه\r\nالشعيرات مثل زهرة متفتحة مميتة\r\nوتطلقها على شكل زهور تشل حركة\r\nكل ما يلامسها.",
+      "th": "เทมโนเซรันที่มีถิ่นอาศัยในป่าโลหิตและมี\r\nการเคลื่อนไหวที่โดดเด่นเหมือนท่าหมุนตัว\r\nของบัลเลต์ ของเหลวในร่างมันมีสารที่ออก\r\nฤทธิ์ต่อระบบประสาท เมื่อนำมาผสมกับน้ำ\r\nจะก่อตัวเป็นขนแข็งสีแดงคล้ายกลีบดอกไม้\r\nบริเวณท้อง เมื่อลาลา บารินาโมโห มันจะ\r\nกางขนแข็งเหล่านี้ออกราวกับดอกไม้ที่ผลิ\r\nบาน แล้วปล่อยดอกเล็กๆ ออกไปเพื่อทำ\r\nให้ทุกสิ่งที่สัมผัสกลายเป็นอัมพาตทันที",
       "es-419": "Temnoceran autóctonos del Bosque Escarlata\r\nque realizan piruetas características. Sus fluidos\r\ncorporales contienen un agente neurológico que,\r\ncombinado con agua, produce una especie\r\nde cerdas parecidas a pétalos de color rojo\r\nen el abdomen.\r\nSi se alteran, las Lala Barina abren las cerdas\r\ncomo si fuesen flósculos letales y las usan\r\npara paralizar todo lo que tocan."
     },
     "tips": {
@@ -2387,6 +2404,7 @@
       "zh-Hant": "撒出的絨毛具備的麻痺效果較弱，碰到一次並不會\r\n陷入麻痺狀態，但要避免不斷接觸。腹部長有針，\r\n因此從後方接近時也須注意。牠露出疲態時，腹部\r\n的針會露出並變成弱點。有報告指出，當牠懸掛在\r\n巢穴等特定位置時，可利用攻擊使牠墜落，阻止牠\r\n機巧的動作。",
       "zh-Hans": "它撒出的绒毛仅带有微弱的麻痹效果，只碰触到一\r\n次并不会陷入麻痹状态，但要注意避免连续接触。\r\n其腹部长有针刺，从后方接近时也需提高警惕。但\r\n当它显露疲劳时，这根针会完全露出并成为弱点。\r\n此外，有报告指出当其悬挂在巢穴等特定位置时，\r\n可以通过攻击将之击落。这样可以有效遏制其神\r\n出鬼没的进攻。",
       "ar": "تأثير الشلل لبرعم (لالا بارينا) واحد ضعيف\r\nوليس كافيًا للتغلب على الصياد، ولكن يجب\r\nتجنب التلامس المتكرر. ثمة إبرة واخزة على\r\nبطنه تجعل الاقتراب من الخلف رهانًا محفوفًا\r\nبالمخاطر، ولكن عندما يشعر بالإنهاك، ستظل\r\nالإبرة الواخزة مكشوفة وضعيفة. هناك تقارير\r\nتفيد بأنه عندما تكون في أماكن مثل أعشاشها\r\nحيث تتدلى من الأعلى، فإن ما يكفي من\r\nالهجمات كفيل باسقاطها.",
+      "th": "ปอยขนลาลา บารินาเพียงปอยเดียวมีฤทธิ์ไม่รุนแรง\r\nพอจะทำให้ฮันเตอร์เป็นอัมพาต แต่ควรหลีกเลี่ยง\r\nการสัมผัสซ้ำๆ นอกจากนี้ มันยังมีเหล็กในที่ช่วงท้อง\r\nซึ่งทำให้การเข้าโจมตีจากด้านหลังเสี่ยงอันตราย\r\nแต่เมื่อมันเหนื่อย เหล็กในจะยื่นค้างและกลายเป็น\r\nจุดอ่อน มีรายงานว่าหากลาลา บารินาอยู่ในพื้นที่เช่น\r\nรังที่ต้องห้อยหัวลงมา การโจมตีอย่างต่อเนื่องมาก\r\nพอจะทำให้มันร่วงลงมาได้",
       "es-419": "El efecto paralizante de un solo flósculo de\r\nLala Barina no basta para inmovilizar a un\r\ncazador, pero se debe evitar el contacto\r\ncontinuo. El aguijón de su abdomen hace que\r\naproximarse por detrás sea riesgoso, pero\r\ncuando se cansa, expone el aguijón y se\r\nvuelve vulnerable. Hay informes de que\r\ncuando se encuentran en terrenos como sus\r\nnidos, donde cuelgan desde arriba, se las\r\npuede derribar con suficientes ataques."
     },
     "variants": [
@@ -2406,6 +2424,7 @@
           "zh-Hant": "刺花蜘蛛（歷戰個體）",
           "zh-Hans": "刺花蜘蛛（历战个体）",
           "ar": "لالا بارينا غاضب",
+          "th": "ลาลา บารินาสุดแกร่ง",
           "es-419": "Lala Barina curtida"
         }
       }
@@ -3068,6 +3087,7 @@
       "zh-Hant": "桃毛獸王",
       "zh-Hans": "桃毛兽王",
       "ar": "كونغالالا",
+      "th": "คองกาลาลา",
       "es-419": "Congalala"
     },
     "descriptions": {
@@ -3084,6 +3104,7 @@
       "zh-Hant": "擁有桃色毛皮的大型牙獸種。能按食下的蘑菇的\r\n特性使出各種不同的吐息，並使獵人陷入無法\r\n使用回復道具的惡臭狀態，需要多加留意。",
       "zh-Hans": "毛色粉红的大型牙兽。根据其吃下蘑菇的特性，能\r\n使用种类繁多的吐息，并能使猎人陷入无法使用回\r\n复道具的“恶臭状态”，需要小心应对。",
       "ar": "وحوش كبيرة ذات أنياب وردية اللون. احذر من أنفاسها القوية،\r\nالتي تتغير بناءً على نظامها الغذائي المكون من الفطر،\r\nوأيضًا من رائحتها الكريهة، التي تعطل عناصر الشفاء.",
+      "th": "สัตว์เขี้ยวแหลมสีชมพูขนาดใหญ่ จงระวังลมหายใจ\r\nร้ายแรงที่เปลี่ยนไปตามชนิดเห็ดที่มันกิน รวมถึงกลิ่น\r\nเหม็นที่ทำให้ใช้ไอเทมฟื้นฟูไม่ได้",
       "es-419": "Enormes bestias con colmillos y pelaje rosado.\r\nEvita su aliento fétido que varía según su dieta\r\nde hongos y que anula los objetos curativos."
     },
     "features": {
@@ -3100,6 +3121,7 @@
       "zh-Hant": "以頭冠及桃色毛皮為特徵的大型牙獸種。頭冠的體\r\n毛以草和果實汁液固定而成，是成熟雄性的象徵。\r\n牠們棲息在各地溫暖的森林中，數量與研究案例也\r\n相當多。牠們食慾旺盛，且特別喜愛蘑菇，還可吸\r\n收吃下的蘑菇成分並暫時改變吐息的特性，噴出帶\r\n毒、爆破或麻痺等效果的吐息。",
       "zh-Hans": "以头冠和粉色毛皮为特征的大型牙兽种。头冠实\r\n际上由毛发组成，并以草和果实的汁液固定，是\r\n成熟雄性的象征。它们主要栖息于各地温暖的森\r\n林中，个体数量和研究记录都相当之多。食欲旺\r\n盛，尤其喜食蘑菇。能通过摄入的蘑菇成分暂时\r\n改变自身吐息的特性，喷出带有毒、爆破、麻痹\r\n等效果的吐息。",
       "ar": "وحوش كبيرة ذات أنياب، يكسوها فرو وردي\r\nاللون ولها عُرف مميز، والذي يشحذه الذكور\r\nبالزيوت والعصارات النباتية لاستعراض القوة.\r\nوحوش (كونغالالا) شائعة في الغابات المعتدلة،\r\nولذلك فهي مدروسة بشكل جيد. إنها تأكل بكميات\r\nكبيرة وتحب الفطر، الذي تمتصه ثم تنفثه على\r\nشكل مجموعة متنوعة من الأنفاس القوية التي\r\nتسبب السم والانفجار والشلل والمزيد.",
+      "th": "สัตว์เขี้ยวแหลมขนาดใหญ่ที่มีขนสีชมพู\r\nและหงอนโดดเด่น โดยตัวผู้จะใช้น้ำมันและ\r\nน้ำเลี้ยงจากพืชมาแต่งแต้มหงอนเพื่ออวด\r\nถึงความแข็งแกร่งของเพศผู้ คองกาลาลา\r\nพบได้บ่อยในป่าเขตอบอุ่น จึงมีข้อมูลจาก\r\nการศึกษาวิจัยจำนวนมาก พวกมันกินจุและ\r\nชอบเห็ดเป็นพิเศษ และจะพ่นลมหายใจ\r\nเป็นพิษออกมาตามชนิดของเห็ดที่กิน ซึ่ง\r\nก่อให้เกิดอาการต่างๆ ไม่ว่าจะเป็นพิษ\r\nระเบิด อัมพาต และอื่นๆ",
       "es-419": "Enormes bestias con colmillos, pelaje rosado\r\ny una cresta inconfundible, que los machos\r\nacicalan con aceites y jugos vegetales\r\ncomo señal de virilidad.\r\nLos Congalala suelen habitar en bosques\r\ntemplados, por lo que se los ha estudiado bien.\r\nSon grandes comilones y adoran los hongos,\r\nlos cuales consumen para luego exhalar\r\ndiversos alientos con efectos como veneno,\r\nnitro y parálisis, entre otros."
     },
     "tips": {
@@ -3116,6 +3138,7 @@
       "zh-Hant": "受桃毛獸王的攻擊而被臭味纏身時，會無法使用回\r\n復藥等道具，但使用除臭球或在水中迴避就能解除\r\n惡臭。雖然臭屁攻擊十分麻煩，但如果仔細觀察就\r\n可以找到反擊機會。有報告稱桃毛獸王在特殊狀態\r\n下能使出所有特性的吐息，目前推測此現象與地面\r\n挖出的可疑黑蘑菇有關。",
       "zh-Hans": "受桃毛兽王的攻击而臭味缠身时，将无法使用回\r\n复药等道具。但使用除臭球，或在水域中做回避\r\n动作就能消除恶臭。桃毛兽王的放屁攻击确实麻\r\n烦，但只要仔细观察，就能找到反击的机会。报\r\n告指出，桃毛兽王在特殊状态下能够释放全特性\r\n的吐息，这种状态可能与地面挖出的黑蘑菇有关。",
       "ar": "الرائحة الكريهة من (كونغالالا) قوية جدًا لدرجة\r\nتجعل أدوات الشفاء غير فعالة. لكن يمكنك بسرعة\r\nإبطال مفعولها باستخدام مزيل الرائحة أو بالفرار\r\nإلى الماء. أما غازاتهم فتشكل أيضًا مشكلة، لكن\r\nيمكن للصياد قوي الملاحظة أن يجد فرصة.\r\nومن المعروف أيضًا أن وحوش (كونغالالا) تستخدم\r\nأنواعًا مختلفة من الأنفاس، وهي خدعة يُعتقد أنها\r\nمرتبطة بالفطر الأسود الذي تُرى وهي تنقب عنه.",
+      "th": "กลิ่นเหม็นจากคองกาลาลารุนแรงมากจนทำให้\r\nไอเทมฟื้นฟูทุกชนิดไม่มีผล แต่คุณสามารถลบ\r\nล้างกลิ่นไม่พึงประสงค์ได้ด้วยยาระงับกลิ่นกาย\r\nหรือการหลบหลีกในน้ำ การผายลมของมันก็\r\nสร้างปัญหาไม่น้อย แต่หากฮันเตอร์สังเกตให้ดี\r\nอาจมองเห็นช่องโจมตีได้ คองกาลาลายังขึ้นชื่อ\r\nเรื่องการโจมตีด้วยลมหายใจหลายแบบ ซึ่งบาง\r\nคนเชื่อว่าเป็นเพราะเห็ดสีดำที่มันชอบขุดกิน",
       "es-419": "El hedor de un Congalala es tan rancio que\r\nbloquea los efectos curativos. Puedes\r\nsolucionarlo rápidamente si lo disipas con\r\nun desodorante o si evades en el agua. Sus\r\nflatulencias también son un problema, pero\r\na la vez una oportunidad para un cazador\r\natento. Se sabe que los Congalala tienen\r\nun estado que les permite usar cualquier\r\ntipo de aliento; un truco atribuido a la\r\ningesta de hongos negros."
     },
     "variants": [
@@ -3135,6 +3158,7 @@
           "zh-Hant": "桃毛獸王（歷戰個體）",
           "zh-Hans": "桃毛兽王（历战个体）",
           "ar": "كونغالالا غاضب",
+          "th": "คองกาลาลาสุดแกร่ง",
           "es-419": "Congalala curtido"
         }
       }
@@ -3687,6 +3711,7 @@
       "zh-Hant": "影蜘蛛",
       "zh-Hans": "影蜘蛛",
       "ar": "نيرسكيلا",
+      "th": "เนอร์ซิลลา",
       "es-419": "Nerscylla"
     },
     "descriptions": {
@@ -3703,6 +3728,7 @@
       "zh-Hant": "會讓對手陷入毒、睡眠、繩束縛等各種狀態異常\r\n的鉗角種。會巧妙地把獵物逼進絕路，再用發達\r\n的大鉗角殺死獵物。",
       "zh-Hans": "能发动毒、睡眠以及丝线束缚等多种状态异常攻\r\n击的钳角种。它会巧妙地把猎物逼入绝境，再用\r\n巨大的钳角给予其致命一击。",
       "ar": "وحش عنكبوتي يستخدم النسيج لتسميم الفريسة\r\nوتقييدها وتنويمها، ما يمكنه من محاصرتها بمهارة،\r\nثم اصطيادها بفكيه الشبيهين بالكماشة.",
+      "th": "เทมโนเซรันที่สร้างสถานะผิดปกติเช่น พิษ หลับ\r\nและตรึงด้วยใย พวกมันต้อนเหยื่อให้จนมุม\r\nอย่างชำนาญก่อนที่จะล่าด้วยขากรรไกรคล้ายก้ามหนีบ",
       "es-419": "Temnoceran que afligen veneno, enmarañado y\r\nsueño, acorralando hábilmente a la presa para\r\nluego cazarla con sus mandíbulas como pinzas."
     },
     "features": {
@@ -3719,6 +3745,7 @@
       "zh-Hant": "躲藏在冰霧斷崖的鉗角種魔物，會在地盤用絲結網\r\n做成巢。能使用多種狀態異常與具黏性的絲線，將\r\n獵物逼入絕境後再以獨特的鉗角一擊殺死。牠們還\r\n習慣把獵物的肉吃完後披起其外皮，所以有時候會\r\n看到牠們的巢裡掛著毒怪鳥的屍體。",
       "zh-Hans": "潜伏在冰雾断崖的钳角种怪物。会在领地内织网\r\n建造巢穴，操控黏着性的蛛丝，并使猎物陷入多\r\n种状态异常。当猎物被逼入绝境后，它会用独特\r\n的钳角施以致命一击。它们习惯在吃光猎物的肉\r\n后，将其外皮披在身上，因此有时能在它们的巢\r\n穴里看到挂着毒怪鸟的尸体。",
       "ar": "وحوش عنكبوتية تعيش في منحدرات الشظايا\r\nالجليدية. تنسج شبكات ضخمة و لزجة عبر\r\nأراضيها، مستخدمة العديد من الحالات المرضية\r\nلإيقاع الفريسة في الفخ قبل أن تجهز عليها بفكين\r\nأشبه بالمخالب. يمكن أحيانًا العثور على وحوش\r\n(جيبسيروس) ميتة في الشبكات، والمعروف\r\nأن (نيرسكيلا) تزين نفسها بجلودها بعد التهام\r\nبقية الهيكل.",
+      "th": "เทมโนเซรันที่อาศัยอยู่ในผาคมน้ำแข็ง\r\nพวกมันชักใยเหนียวขนาดใหญ่ปกคลุมทั่ว\r\nอาณาเขต และต้อนเหยื่อด้วยใยและสถานะ\r\nผิดปกติต่างๆ ก่อนปลิดชีพเหยื่อด้วยขากรรไกร\r\nที่คล้ายก้าม บางครั้งจะพบซากจิปเซรอส\r\nติดอยู่ในใย เป็นที่รู้กันดีว่าเนอร์ซิลลาจะถลก\r\nหนังมาประดับร่างหลังจากกินเนื้อหมดแล้ว",
       "es-419": "Temnoceran que habitan los Acantilados\r\nEspinahelada.\r\nTejen telarañas pegajosas y enormes en su\r\nterritorio, y sumado a diferentes estados\r\nque producen, arrinconan presas y acaban\r\ncon ellas con sus mandíbulas pinza.\r\nA veces se pueden ver Gypceros muertos\r\nen las telarañas. Los Nerscylla suelen\r\nvestir sus pieles cuando terminan\r\nde devorar el resto del cuerpo."
     },
     "tips": {
@@ -3735,6 +3762,7 @@
       "zh-Hant": "影蜘蛛會使用毒、睡眠、繩束縛等各種狀態異常，\r\n做好萬全的準備再狩獵吧。牠以鉗角施展的攻擊雖\r\n然威力高，非常危險，但只要小心應對，鉗角就是\r\n可攻擊的弱點部位，因此應積極攻擊該處。此外，\r\n因為牠背上披著毒怪鳥皮，火屬性攻擊效果絕佳，\r\n但雷屬性攻擊難以造成傷害。不過毒怪鳥皮被破壞\r\n後，屬性弱點和耐性就會對調，要多加注意。",
       "zh-Hans": "影蜘蛛擅长使用毒、睡眠以及丝线束缚等状态异\r\n常，因此在挑战它之前必须做好充分准备。它的\r\n钳角威力强大，但如果应对得当，反而会成为它\r\n的弱点，建议重点攻击该部位。由于它背上披着\r\n毒怪鸟的皮，雷属性攻击对其较难奏效，但火属\r\n性攻击则效果显著。需要注意的是，一旦毒怪鸟\r\n皮被破坏，它的属性弱点就会发生逆转。",
       "ar": "للدفاع ضد تأثيرات السم والنوم والتقييد\r\nالناتجة عن نسيج (نيرسكيلا)،\r\nيجب على الصياد أن يكون مستعدًا جيدًا.\r\nفي حين أن كماشاتها القوية خطيرة جدًا،\r\nيمكن بل ويجب استهدافها كنقطة ضعف،\r\nبشرط التعامل معها بشكل صحيح.\r\nالجلود التي تغطي ظهر (نيرسكيلا)\r\nوالمأخوذة من (جيبسيروس) مقاومة للرعد\r\nلكنها عرضة للنار، وهي ميزات تتغير\r\nبمجرد تدمير الجلد.",
+      "th": "เมื่อออกล่าเนอร์ซิลลา ฮันเตอร์ต้องเตรียมตัวให้\r\nพร้อมรับมือกับสถานะพิษ หลับ และการถูกตรึง\r\nจากใยของมัน แม้ก้ามอันทรงพลังของมันจะ\r\nอันตราย แต่ก็ถือเป็นจุดอ่อนที่ควรโจมตีหากเข้า\r\nใกล้อย่างถูกวิธี หนังจิปเซรอสที่ปกคลุมบนหลัง\r\nของเนอร์ซิลลาต้านทานสายฟ้าได้แต่แพ้ไฟ และ\r\nคุณสมบัตินี้จะกลับกันเมื่อหนังถูกทำลาย",
       "es-419": "Para defenderse del veneno, el sueño y los\r\nefectos atrapadores de la membrana de un\r\nNerscylla, un cazador tiene que andar\r\npreparado. Aunque sus poderosas pinzas son\r\npeligrosas, también son su punto débil,\r\nsiempre que te acerques de la manera\r\ncorrecta. Las pieles de Gypceros que cubren\r\nla espalda de un Nerscylla son resistentes\r\na los rayos, pero vulnerables al fuego, lo\r\nque cambia al destruir la piel."
     },
     "variants": [
@@ -3754,6 +3782,7 @@
           "zh-Hant": "影蜘蛛複製體",
           "zh-Hans": "影蜘蛛克隆体",
           "ar": "نسخة نيرسكيلا",
+          "th": "ร่างโคลนเนอร์ซิลลา",
           "es-419": "Clon de Nerscylla"
         }
       },
@@ -3773,6 +3802,7 @@
           "zh-Hant": "影蜘蛛（歷戰個體）",
           "zh-Hans": "影蜘蛛（历战个体）",
           "ar": "نيرسكيلا غاضب",
+          "th": "เนอร์ซิลลาสุดแกร่ง",
           "es-419": "Nerscylla curtido"
         }
       },
@@ -3792,6 +3822,7 @@
           "zh-Hant": "狂龍化影蜘蛛",
           "zh-Hans": "狂龙化影蜘蛛",
           "ar": "نيرسكيلا مسعور",
+          "th": "เนอร์ซิลลาบ้าคลั่ง",
           "es-419": "Nerscylla colérico"
         }
       }
@@ -3836,6 +3867,7 @@
           "zh-Hant": "破壞外套膜後更有效。",
           "zh-Hans": "破坏外套膜后，效果更加明显。",
           "ar": "أكثر فاعلية حين تتعطل العباءة.",
+          "th": "ได้ผลมากขึ้นเมื่อเยื่อหุ้มเสียหาย",
           "es-419": "Surte un mejor efecto una vez roto el manto."
         }
       },
@@ -4489,6 +4521,7 @@
       "zh-Hant": "海龍",
       "zh-Hans": "海龙",
       "ar": "لاغياكروس",
+      "th": "ลาเกียครุส",
       "es-419": "Lagiacrus"
     },
     "descriptions": {
@@ -4505,6 +4538,7 @@
       "zh-Hant": "立於海洋食物鏈頂端的魔物，並以整類物種的名字\r\n為名。受到緋紅森林的豐饒水域吸引而出現。",
       "zh-Hans": "君临海洋食物链顶点，作为这一门物种的代表而\r\n得名“海龙”。受绯红森林水域丰饶环境的吸引\r\n而现身于此。",
       "ar": "الـ(ليفياثان) تتربع على قمة السلسلة الغذائية\r\nفي البيئات المائية. ظهرت في مياه الغابة القرمزية،\r\nجاذبةً إياها بيئتها الخصبة.",
+      "th": "เลวีอาธานที่อยู่ ณ จุดสูงสุดของห่วงโซ่อาหารใต้น้ำ\r\nสภาพแวดล้อมที่อุดมสมบูรณ์ดึงดูดให้มันปรากฏตัว\r\nในแหล่งน้ำของป่าโลหิต",
       "es-419": "Leviatanes que están en la cima de la cadena\r\nalimenticia acuática. Aparecieron en las aguas\r\ndel bosque, atraídos por su fértil entorno."
     },
     "features": {
@@ -4521,6 +4555,7 @@
       "zh-Hant": "立於廣闊海洋的食物鏈頂端，並以海龍種整類物種\r\n的名字為名。牠的背部有蓄電器官，能儲存外皮產\r\n生的電，並釋放足以讓周圍海水沸騰的強大電流。\r\n牠曾被目擊到在緋紅森林與其他魔物爭鬥，推測是\r\n為了獵物而尋找豐繞環境，最後從其他地區抵達緋\r\n紅森林。",
       "zh-Hans": "君临辽阔海洋的食物链顶点，作为这一门物种的\r\n代表而得名“海龙”。背部有蓄电器官，能存储\r\n外皮产生的电能，并释放足以令周围海水沸腾的\r\n强大电流。有目击报告说它曾在绯红森林与其他\r\n怪物争夺地盘。据推测，它是为寻找拥有更多猎\r\n物的丰盛环境而迁徙，并最终来到了此地。",
       "ar": "وحوش الـ(ليفياثان) تتربع على قمة السلسلة الغذائية\r\nفي أعماق المحيطات. تُولّد (لاغياكروس) الكهرباء\r\nعبر جلودها لتخزينها في أعضائها الشوكية، وهي\r\nقادرة على تفريغ تيار كهربائي قوي بما يكفي لغليان\r\nمياه البحر المحيطة بها. وقد شوهدت وهي تقاتل\r\nوحوشًا أخرى في الغابة القرمزية، ويُعتقد أنها جاءت\r\nمن مناطق أخرى بحثًا عن الفرائس والبيئات\r\nالأكثر خصوبة.",
+      "th": "เลวีอาธานที่อยู่บนจุดสูงสุดของห่วงโซ่อาหารใต้น้ำ\r\nลาเกียครุสสร้างกระแสไฟฟ้าผ่านผิวหนังเพื่อกักเก็บ\r\nไว้ในอวัยวะบริเวณสันหลัง และสามารถปลดปล่อย\r\nกระแสไฟฟ้าที่รุนแรงพอจะทำให้น้ำทะเลรอบตัว\r\nเดือดได้ มีผู้พบเห็นมันกำลังต่อสู้กับมอนสเตอร์ตัว\r\nอื่นในป่าโลหิต คาดว่ามันอพยพมาจากภูมิภาคอื่น\r\nเพื่อหาเหยื่อและสภาพแวดล้อมที่อุดมสมบูรณ์กว่า",
       "es-419": "Leviatanes que están en la cima de la larga\r\ncadena alimenticia. Los Lagiacrus generan\r\nelectricidad a través de su piel\r\ny la almacenan en los órganos espinales.\r\nSon capaces de descargar una corriente\r\ntan fuerte que haga que el agua marina entre\r\nen ebullición. Se los vio enfrentarse\r\na otros monstruos en el Bosque Escarlata,\r\nsupuestamente atraídos desde otras regiones\r\nen busca de presas y entornos fértiles."
     },
     "tips": {
@@ -4537,6 +4572,7 @@
       "zh-Hant": "海龍反覆發動攻擊時，體內的電力會逐漸增強，背\r\n部的電殼也會越明亮。背電殼在水中發出強烈光芒\r\n時，就是即將發動非常強大的放電攻擊的前兆，需\r\n要格外小心，而最有用的對策就是破壞背電殼。只\r\n要成功破壞就能削弱放電攻擊的威力，因此建議積\r\n極鎖定背電殼攻擊。",
       "zh-Hans": "海龙会通过连续发动攻击，在体内逐步积蓄电能，\r\n背部的电壳也会随之愈发明亮。特别是在水中，\r\n若背电壳开始强烈发光，那往往是它即将释放强\r\n力放电攻击的前兆，务必提高警觉。对策方面，\r\n最有效的方式是破坏背电壳。只要成功破坏，就\r\n能削弱其蓄电能力，建议针对该部位积极展开攻\r\n势。",
       "ar": "توهّج أشواك الصدمة لدى (لاغياكروس)\r\nيتناسب طرديًا مع كمية الكهرباء التي يخزنها\r\nتدريجيًا أثناء الهجوم. والجدير بالذكر أن التوهج\r\nالساطع لشوكة الصدمة عند غمره بالماء مؤشر\r\nجيد على قرب وقوع هجوم كهربائي مكثف.\r\nولقد ثبت أن مهاجمة وتدمير الشوكة الصاعقة\r\nطريقة فعّالة للحد من قدرة (لاغياكروس) على\r\nتوليد الشحنة الكهربائية، ويجب إعطاؤها الأولوية.",
+      "th": "หนามไฟฟ้าของลาเกียครุสจะมีระดับความสว่าง\r\nตามสัดส่วนปริมาณไฟฟ้าที่มันสะสมทีละน้อย\r\nระหว่างโจมตี โดยเฉพาะอย่างยิ่ง หากหนาม\r\nไฟฟ้าเปล่งแสงสว่างมากขณะมันอยู่ใต้น้ำ นั่นเป็น\r\nสัญญาณชัดเจนว่ามันกำลังจะโจมตีด้วยกระแส\r\nไฟฟ้าที่รุนแรง วิธีตอบโต้มันอย่างมีประสิทธิภาพ\r\nที่ฮันเตอร์ควรทำเป็นอันดับแรก คือการโจมตีและ\r\nทำลายหนามไฟฟ้าเพื่อลดความสามารถในการ\r\nสะสมประจุไฟฟ้าของลาเกียครุส",
       "es-419": "El brillo de las electropúas del Lagiacrus\r\nes proporcional a la cantidad de corriente\r\nque gradualmente almacenan al atacar.\r\nSi una electropúa brilla con intensidad\r\ncuando está sumergida, quiere decir\r\nque va a lanzar un potente ataque eléctrico.\r\nAtacar y destruir la electropúa demostró\r\nser una buena contramedida para reducir\r\nla habilidad de carga eléctrica del Lagiacrus,\r\npor lo que debe priorizarse."
     },
     "variants": [
@@ -4556,6 +4592,7 @@
           "zh-Hant": "海龍（歷戰個體）",
           "zh-Hans": "海龙（历战个体）",
           "ar": "لاغياكروس غاضب",
+          "th": "ลาเกียครุสสุดแกร่ง",
           "es-419": "Lagiacrus curtido"
         }
       }
@@ -5205,6 +5242,7 @@
       "zh-Hant": "黑蝕龍",
       "zh-Hans": "黑蚀龙",
       "ar": "جور ماجالا",
+      "th": "กอร์ มากาลา",
       "es-419": "Gore Magala"
     },
     "descriptions": {
@@ -5221,6 +5259,7 @@
       "zh-Hant": "黑蝕龍全身被宛如黑色斗篷的翼膜包覆。牠沒有\r\n眼睛，但會利用自己散布的鱗粉感知對象並攻擊。",
       "zh-Hans": "黑蚀龙全身包裹着宛如漆黑斗篷的翼膜。它没有\r\n眼睛，但能依靠散布的鳞粉来感知目标并攻击。",
       "ar": "وحوش تتدلى أجنحتها العظيمة مثل معطف أسود.\r\nليس لها عيون، ولذلك تعوض غيابها بنثر\r\nالقشور الدقيقة لتحديد موقع الفريسة.",
+      "th": "มอนสเตอร์ที่มีปีกขนาดใหญ่ห่อหุ้มร่างราวกับ\r\nเสื้อคลุมสีดำ พวกมันไม่มีดวงตา จึงอาศัยเกล็ดละเอียด\r\nที่โปรยกระจายเพื่อระบุตำแหน่งเหยื่อ",
       "es-419": "Monstruos cubiertos por grandes alas como mantos\r\nnegros. No poseen ojos, así que dispersan finas\r\nescamas para detectar a sus presas."
     },
     "features": {
@@ -5237,6 +5276,7 @@
       "zh-Hant": "黑蝕龍全身被像黑色斗篷的翼膜包覆。牠沒有眼睛\r\n等視覺器官，但會以翼膜撒出特殊鱗粉，感知生物\r\n的位置。感知能力上升時，頭上會出現觸角，並會\r\n展開翼腳，進入稱為狂龍化的形態。此外，已知這\r\n種黑色鱗粉能令其他生物變得狂暴，黑蝕龍亦因此\r\n特性而得名，備受畏懼。",
       "zh-Hans": "黑蚀龙全身覆盖着宛如漆黑斗篷的翼膜，它并没\r\n有眼睛作为感知器官，而是通过翼膜撒出的特殊\r\n鳞粉来探测生物的位置。当感知能力增强时，黑\r\n蚀龙的头部会出现触角，同时伸展出翼足，进入\r\n所谓的“狂龙化”状态。此外，黑色鳞粉具有让其\r\n他生物陷入狂暴的效果，黑蚀龙也因此特性得名，\r\n备受畏惧。",
       "ar": "وحوش تغطي نفسها بأجنحتها العظيمة، مثل\r\nمعطف أسود. ليس لها أعضاء إبصار حسية،\r\nلذلك تعتمد على نثر قشور دقيقة من أجنحتها\r\nلتحديد موقع الفريسة. عندما تزداد قدرتها الحسية،\r\nتظهر مستشعرات على رؤوسها وتفرد أجنحتها،\r\nوتدخل في حالة جنون عدواني. يمكن أن تصيب\r\nقشورها المخلوقات الأخرى بالجنون أيضًا،\r\nمما يجعلها خصومًا مخيفة.",
+      "th": "มอนสเตอร์ที่มีปีกขนาดใหญ่ห่อหุ้มร่างราวกับเสื้อ\r\nคลุมสีดำ พวกมันไม่มีดวงตาเป็นอวัยวะรับสัมผัส\r\nจึงโปรยเกล็ดละเอียดจากปีกเพื่อระบุตำแหน่งเหยื่อ\r\nเมื่อประสาทรับสัมผัสทำงานรุนแรงขึ้น หัวของมัน\r\nจะมีหนวดโผล่ออกมา และมันจะกางปีกออกพร้อม\r\nเข้าสู่สถานะบ้าคลั่งที่ดุร้าย เกล็ดสีดำของมันสามารถ\r\nทำให้สิ่งมีชีวิตอื่นๆ ติดเชื้อบ้าคลั่งได้เช่นกัน จึงเป็น\r\nคู่ต่อสู้ที่น่ากลัวอย่างยิ่ง",
       "es-419": "Monstruos que se cubren con sus grandes alas,\r\ncomo un manto negro. No tienen órganos\r\nvisuales, pero en su lugar usan una serie\r\nde escamas de sus alas para ubicar presas.\r\nCuando su capacidad sensorial aumenta,\r\ndos antenas emergen en su cabeza,\r\ndesplegan sus alas y entran en un estado\r\nde cólera agresiva. Sus escamas pueden\r\ncontagiar la cólera a otras criaturas,\r\nlo que los hace adversarios temibles."
     },
     "tips": {
@@ -5253,6 +5293,7 @@
       "zh-Hant": "只要黑蝕龍感應到有生物碰觸到鱗粉，就會以翼腳\r\n窮追不捨地攻擊，因此要仔細觀察牠的舉動。如果\r\n獵人的狂龍症發病，自然回復力會下降，所受傷害\r\n亦會增加。但只要在發病前不斷攻擊，使新陳代謝\r\n增加的話，就可以克服狂龍症，不受鱗粉的負面影\r\n響。攻擊牠的頭部就可以解除牠的狂龍化狀態。",
       "zh-Hans": "一旦黑蚀龙感知到有生物触碰鳞粉，便会用翼足\r\n穷追猛打，展开猛烈攻击。因此，必须时刻注意\r\n它的一举一动。猎人狂龙症发作后，自然回复力\r\n会下降，同时受到的伤害也会增加。不过在发作\r\n前不断攻击来提高代谢，就可以克服狂龙症，避\r\n免黑色鳞粉的负面影响。攻击黑蚀龙的头部可以\r\n解除其狂龙化。",
       "ar": "سيستخدم (جور ماجالا) أجنحته لمهاجمة أي شيء\r\nيكتشفه من خلال قشوره الحسية دون تردد.\r\nإذا أصيب الصياد بالجنون، فسوف ينخفض الشفاء\r\nالطبيعي وسيزداد أي ضرر يلحق به.\r\nومع ذلك، فإن الصياد المتمرس يعرف كيف يواصل\r\nالهجوم لرفع معدل الأيض قبل تجذر العدوى،\r\nوتجنب أي آثار سلبية.\r\nاستهدف الرأس لإيقاف جنون (جور ماجالا).",
+      "th": "กอร์ มากาลาจะใช้ปีกโจมตีทุกสิ่งที่เกล็ดรับสัมผัส\r\nของมันตรวจจับได้โดยไม่เลือกหน้า หากฮันเตอร์\r\nติดเชื้อบ้าคลั่ง อัตราการฟื้นฟูตามธรรมชาติจะลดลง\r\nและได้รับความเสียหายเพิ่มขึ้น แต่ฮันเตอร์ที่มี\r\nประสบการณ์มักรู้ดีว่าต้องโจมตีอย่างต่อเนื่องเพื่อ\r\nเร่งอัตราการเผาผลาญก่อนที่ไวรัสจะฝังตัวเพื่อ\r\nหลีกเลี่ยงเอฟเฟกต์ด้านลบ เล็งไปที่หัวเพื่อทำให้\r\nกอร์ มากาลาหายบ้าคลั่ง",
       "es-419": "Si detecta algo con sus escamas sensoriales,\r\nel Gore Magala usará las alas para atacar con\r\ndesenfreno. Si un cazador contrae su cólera,\r\nreducirá la curación natural y aumentará el\r\ndaño recibido. Sin embargo, si el cazador\r\nsigue atacando y refuerza su metabolismo\r\nantes de que la infección se asiente, puede\r\nevitar los efectos negativos. Apunta a la\r\ncabeza para detener la cólera del Gore\r\nMagala."
     },
     "variants": [
@@ -5272,6 +5313,7 @@
           "zh-Hant": "黑蝕龍（歷戰個體）",
           "zh-Hans": "黑蚀龙（历战个体）",
           "ar": "جور ماجالا غاضب",
+          "th": "กอร์ มากาลาสุดแกร่ง",
           "es-419": "Gore Magala curtido"
         }
       }
@@ -5881,6 +5923,7 @@
       "zh-Hant": "鎧龍",
       "zh-Hans": "铠龙",
       "ar": "غرافيوس",
+      "th": "กราวิออส",
       "es-419": "Gravios"
     },
     "descriptions": {
@@ -5897,6 +5940,7 @@
       "zh-Hant": "湧油山谷中出現的大型飛龍。身體以堅固外殼\r\n包覆，能釋放出強力的熱線。",
       "zh-Hans": "出现在涌油谷的大型飞龙。全身覆盖着坚硬\r\n的外壳，且能释放强力的高热射线。",
       "ar": "وايفرن كبيرة توجد في حوض آبار النفط.\r\nهياكلها شديدة التطور تصد الهجمات\r\nوتطلق أشعة حرارية قوية.",
+      "th": "ไวเวิร์นขนาดใหญ่ที่พบได้ในแอ่งบ่อน้ำมัน\r\nเกล็ดแข็งที่หนาของมันช่วยปัดป้องการโจมตี\r\nและปล่อยลำแสงความร้อนที่รุนแรงออกมาได้",
       "es-419": "Wyverns gigantes de la Cuenca Oleosa.\r\nSus desarrolladas corazas repelen los ataques\r\ny emiten poderosos rayos abrasadores."
     },
     "features": {
@@ -5907,12 +5951,13 @@
       "de": "Große Wyvern, die sich im Ölquellbecken\r\naufhalten. Ihr Körperbau ist hoch entwickelt,\r\nsie besitzen einen Hitzestrahl sowie ver-\r\nschiedene Gase, die sie über ihren Körper ab-\r\ngeben können. Sie sind für ihre robusten\r\nKnochenpanzer bekannt, nach deren Zerstö-\r\nrung sich ein überraschend zerbrechliches\r\nInneres zeigt.",
       "es": "Wyverns gigantescos de la Cuenca Oleosa.\r\nPoseen una constitución muy desarrollada,\r\nrayos abrasadores y gas que expulsan desde\r\nsus cuerpos. Sus corazas óseas destacan por\r\nsu dureza, pero una vez destruidas, dejan al\r\ndescubierto un interior sorprendentemente\r\nfrágil.",
       "ru": "Крупные виверны, обитающие в Нефтяной\r\nнизине. Обладают развитой мускулатурой,\r\nатакуют испепеляющими лучами и испускают\r\nиз-под панциря облака газа. Броню\r\nгравиоса сложно пробить, но под ней\r\nего тело на удивление уязвимо.",
-      "pl": "Duże wiwerny spotykane w Kotlinie\r\nOleju. Mają silnie rozwiniętą budowę\r\nciała, emitują potężne promienie\r\ncieplne i wydzielają wiele gazów.\r\nIch kostne pancerze są znane\r\nz wyjątkowej wytrzymałości, \r\nale po zniszczeniu odsłaniają\r\nzaskakująco kruche wnętrze.",
+      "pl": "Duże wiwerny spotykane w Kotlinie Oleju.\r\nMają silnie rozwiniętą budowę ciała,\r\nemitują potężne promienie cieplne\r\ni wydzielają wiele gazów. Ich kostne\r\npancerze są znane z wyjątkowej\r\nwytrzymałości, ale po zniszczeniu\r\nodsłaniają zaskakująco kruche wnętrze.",
       "pt-BR": "Grandes serpes encontradas na Bacia Oleídea.\r\nPossuem físico desenvolvido, poderosos raios\r\nde calor e muitos gases emitidos de seus\r\ncorpos. Suas carapaças ósseas são famosas\r\npor sua dureza, mas expõem um interior bem\r\nfrágil quando destruídas.",
       "ko": "기름 솟는 계곡에 나타나는 대형 비룡.\r\n몸집이 크게 발달했고 강력한 열선을 쏘며\r\n몸에서 다양한 가스를 분출한다.\r\n특이한 껍데기는 매우 딱딱해서\r\n웬만한 공격은 통하지 않으나,\r\n껍데기가 파괴되면\r\n예상치 못한 약점을 드러내기도 한다.",
       "zh-Hant": "湧油山谷中出現的大型飛龍。具引以為傲的巨大身\r\n軀，除了能射出強力熱線外，還能從身體表面噴出\r\n各種瓦斯。獨特的外殼極為堅固，一般攻擊難以擊\r\n破，但一旦外殼被破壞，便會暴露出意外脆弱的一\r\n面。",
       "zh-Hans": "出现在涌油谷的大型飞龙。拥有引以为傲的庞大\r\n身躯，除了强力的高热射线，还能从体表喷出各\r\n种瓦斯。独特的外壳非常坚固，一般的攻击都不\r\n能伤其分毫。然而，一旦这层外壳被破坏，它的\r\n脆弱便会显现出来。",
       "ar": "وايفرن كبيرة توجد في حوض آبار النفط.\r\nتمتلك بنية متطورة وأشعة حرارية قوية\r\nومجموعة من الغازات التي تستطيع إطلاقها\r\nمن سطح جسمها. تشتهر هياكلها العظمية\r\nبالصلابة، لكنها تكشف عن لب شديد الهشاشة\r\nبمجرد تدميرها.",
+      "th": "ไวเวิร์นขนาดใหญ่ที่พบในแอ่งบ่อน้ำมัน พวกมัน\r\nมีร่างกายที่กำยำ สามารถปล่อยลำแสงความร้อน\r\nรุนแรงและแก๊สสารพัดชนิดจากร่างกาย นอกจากนี้\r\nกระดูกเปลือกแข็งของมันขึ้นชื่อเรื่องความแข็งแกร่ง\r\nแต่เมื่อถูกทำลายแล้วกลับเผยให้เห็นภายในที่\r\nเปราะบางเกินคาด",
       "es-419": "Wyverns gigantes de la Cuenca Oleosa.\r\nTienen un físico muy desarrollado, poderosos\r\nrayos abrasadores y reservas de gases\r\nque expulsan por su cuerpo. Sus corazas\r\nóseas se destacan por su dureza, pero dejan\r\nal descubierto un interior sorprendentemente\r\nfrágil al ser destruidas."
     },
     "tips": {
@@ -5929,6 +5974,7 @@
       "zh-Hant": "各部位都由堅固的外殼保護，因此非常堅硬，但反\r\n覆攻擊就可造成傷口。另外，若能識破牠的各種攻\r\n擊，就會發現牠的外殼縫隙會出現弱點。瞄準這些\r\n弱點反覆使用集中弱點攻擊，便可破壞各部位，製\r\n造更多攻擊機會。",
       "zh-Hans": "由于其身体各个部位都被坚固的外壳所保护，因\r\n此异常坚硬，不过仍然可以通过反复攻击来造成\r\n伤口。若成功识破它的各种攻击招数，其外壳的\r\n缝隙等弱点就会显露出来。瞄准这些弱点并反复\r\n使用集中攻击，便能破坏各个部位，创造更多机\r\n会。",
       "ar": "ليس من السهل اختراق الدرع الثقيل\r\nالذي يغطي (غرافيوس) من الرأس حتى المخالب،\r\nلكن الهجمات المتكررة ستحدث صدعًا في النهاية.\r\nهذا - بالإضافة إلى نقاط الضعف\r\nالتي يكشف عنها (غرافيوس) في درعه\r\nأثناء هجمات معينة - هي فرصتكَ\r\nلتوجيه ضربة مُركزة، وتدمير درعه قطعةً تلو الأخرى\r\nوخلق المزيد من الفرص.",
+      "th": "การทำลายเกราะหนักที่ห่อหุ้มกราวิออสตั้งแต่\r\nหัวจรดกรงเล็บนั้นไม่ใช่เรื่องง่าย แต่การโจมตี\r\nซ้ำๆ จะทำให้เกิดรอยแตกได้ในที่สุด ช่องโหว่\r\nที่เผยออกมาที่เปลือกแข็งในระหว่าง\r\nการโจมตีบางรูปแบบคือโอกาสของคุณในการ\r\nจู่โจมโฟกัส ควรทำลายเกราะทีละส่วนเพื่อ\r\nสร้างโอกาสในการโจมตีให้มากขึ้น",
       "es-419": "No es tarea fácil atravesar la resistente\r\narmadura que protege a un Gravios desde la\r\ncabeza hasta las garras, pero los ataques\r\ncontinuos terminarán por agrietarla. Eso,\r\nmás el punto débil que deja expuesto en su\r\ncoraza durante determinados ataques, son las\r\núnicas posibilidades que tienes de infligir\r\nataques de enfoque, destrozarlos poco a poco\r\ny crear incluso más oportunidades."
     },
     "variants": [
@@ -5948,6 +5994,7 @@
           "zh-Hant": "鎧龍（歷戰個體）",
           "zh-Hans": "铠龙（历战个体）",
           "ar": "غرافيوس غاضب",
+          "th": "กราวิออสสุดแกร่ง",
           "es-419": "Gravios curtido"
         }
       }
@@ -6565,6 +6612,7 @@
       "zh-Hant": "護鎖刃龍",
       "zh-Hans": "护锁刃龙",
       "ar": "آركفيلد حارس",
+      "th": "การ์เดียนอาร์คเวลด์",
       "es-419": "Arkveld Guardián"
     },
     "descriptions": {
@@ -6581,6 +6629,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有鎖刃龍之力。\r\n其原種早已滅絕，是傳說中的生物。",
       "zh-Hans": "古代文明创造出的造龙种，带有锁刃龙之力。\r\n普遍认为其原种早已灭绝，是传说般的生物。",
       "ar": "سلالة اصطناعية خلّقتها حضارة قديمة\r\nمستوحاة من وحش أسطوري اسمه (آركفيلد)\r\nساد اعتقاد بأنه منقرض.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้นโดย\r\nอาศัยมอนสเตอร์ในตำนานที่เชื่อกันว่าสูญพันธุ์\r\nไปแล้วนามว่า อาร์คเวลด์",
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con base en un monstruo legendario\r\nllamado Arkveld que se creía extinto."
     },
     "features": {
@@ -6597,6 +6646,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有鎖刃龍之力。不具有\r\n生殖功能，也不會捕食，靠攝取龍乳來獲取能量。\r\n和其他護龍一樣具備吸收和釋放能量的能力，更能\r\n從翅膀上的鎖刃吸收屬性能量，用作能量源。",
       "zh-Hans": "古代文明创造出的造龙种，带有锁刃龙之力。既\r\n没有生殖能力，也不会捕食，而是直接摄取龙乳\r\n作为能量来源。除了与其他护龙一样能够吸收和\r\n释放能量之外，还能通过翼上的锁刃吸收属性能\r\n量，转化为自身的养分。",
       "ar": "سلالة اصطناعية خلّقتها حضارة قديمة\r\nمشبعة بقوة وحش اسمه (آركفيلد). لا يمكنها\r\nالتكاثر ولا حاجة لها بتناول الطعام وتعتمد\r\nبدلًا من ذلك على حليب وايفرن للحصول\r\nعلى الطاقة. وبالإضافة إلى امتصاص\r\nالطاقة وإطلاقها كما تفعل الوحوش الحارسة\r\nالأخرى، فإن (آركفيلد) الحارس بإمكانه أيضًا\r\nامتصاص الطاقة العناصرية من خلال\r\nالنصال المتسلسلة التي على جناحيه\r\nواستخدامها كمصدر للغذاء.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้น และผสาน\r\nด้วยพลังของมอนสเตอร์ที่มีนามว่าอาร์คเวลด์ มันไม่\r\nสามารถสืบพันธุ์ได้และไม่ต้องกินอาหาร เพราะใช้\r\nไวเวิร์นมิลค์เป็นแหล่งพลังงานแทน นอกจากจะดูด\r\nซับและปลดปล่อยพลังงานในลักษณะเดียวกันกับ\r\nการ์เดียนตัวอื่นแล้ว การ์เดียนอาร์คเวลด์ยังสามารถ\r\nใช้ใบมีดลูกโซ่ที่ปีกเพื่อดูดซับพลังงานธาตุ และใช้\r\nเป็นพลังหล่อเลี้ยงตนเองได้อีกด้วย",
       "es-419": "Monstruos artificiales creados por una antigua\r\ncivilización e imbuidos con el poder del\r\nArkveld.\r\nNo pueden reproducirse, no necesitan comer\r\ny se energizan con leche de wyvern.\r\nAdemás de absorber y descargar energía como\r\nlo hacen los otros Guardianes, también\r\npueden absorber energía elemental a través\r\nde las hojas cadena de sus alas y usarla\r\ncomo sustento."
     },
     "tips": {
@@ -6613,6 +6663,7 @@
       "zh-Hant": "護鎖刃龍的特徵是會使用雙翼上能自由伸縮的鎖刃\r\n施展攻擊。鎖刃除了能用於釋放和吸收護龍特有的\r\n能量，有時還能將吸收的能量轉化成龍屬性並再次\r\n釋放。若能量擊中龍乳結晶，會引起同屬性爆炸，\r\n要多加小心。牠的攻擊形成的結晶會對屬性攻擊起\r\n反應並爆炸，因此屬性投射器彈等攻擊手段也很有\r\n效。",
       "zh-Hans": "护锁刃龙的特点是会利用左右两翼上可自由伸缩\r\n的锁刃开展攻击。锁刃不仅能吸收和释放护龙特\r\n有的能量，还能将吸收的能量转化为龙属性并再\r\n次释出。转化后的能量如果命中龙乳结晶将会引\r\n起同属性的爆炸，需多加小心。它攻击形成的结\r\n晶也会对属性攻击起反应并爆炸，因此属性投射\r\n器弹药等攻击手段也会非常有效。",
       "ar": "يستخدم وحش (آركفيلد) الحارس نصال سلاسل\r\nقابلة للطي على جناحيه للهجوم.\r\nالنصال لا تُستخدم لامتصاص الطاقة وإطلاقها فحسب\r\nمثل الوحوش الحارسة الأخرى، ولكن يمكنها أيضًا تحويل الطاقة إلى عنصر التنين\r\nوإطلاقها، ما يحفز انفجارًا للعنصر نفسه\r\nإذا اصطدم بـ (وايليبريستال).\r\nالبلورات المتشكلة من هجماتها ستنفجر من التدخل العنصري،\r\nما يجعل ذخيرة نبلة المعصم فعَّالة.",
+      "th": "การ์เดียนอาร์คเวลด์ใช้ใบมีดลูกโซ่แบบยืดหดได้\r\nบนปีกเป็นอาวุธโจมตี ใบมีดลูกโซ่นั้นนอกจากจะ\r\nสามารถดูดซับและปลดปล่อยพลังงานเช่นการ์เดียน\r\nอื่นๆ ได้แล้ว ยังสามารถแปลงพลังงานนั้นเป็นพลัง\r\nธาตุมังกรและปลดปล่อยออกมาได้ หากพลังนี้สัมผัส\r\nกับวิลค์คริสตัล จะทำให้วิลค์คริสตัลในบริเวณนั้น\r\nระเบิดเป็นธาตุมังกรด้วย นอกจากนี้ คริสตัลที่เกิดขึ้น\r\nในระหว่างการโจมตีของมันจะระเบิดเมื่อมีธาตุมา\r\nกระตุ้น กระสุนสลิงเกอร์จึงใช้งานได้ดีเป็นพิเศษ",
       "es-419": "El Arkveld Guardián usa hojas cadena\r\nretráctiles en sus alas para atacar. No solo\r\nabsorben y liberan energía, como otros\r\nGuardianes, pueden convertir la energía al\r\nelemento draco y lanzar ataques, lo que\r\nprovocará una explosión del mismo elemento si\r\nentra en contacto con wylkristales. Los\r\ncristales que se forman con sus ataques\r\nexplotarán por interferencia elemental, por\r\nlo que la munición de eslinga será efectiva."
     },
     "variants": [],
@@ -6994,6 +7045,7 @@
       "zh-Hant": "炎尾龍",
       "zh-Hans": "炎尾龙",
       "ar": "كيماتريس",
+      "th": "เคมาทริซ",
       "es-419": "Quematrice"
     },
     "descriptions": {
@@ -7010,6 +7062,7 @@
       "zh-Hant": "獸龍種，會在灑下易揮發的點火物質後，再利用\r\n尾巴磨擦點燃，引發火焰。習性獨特，會搶奪\r\n其他魔物殺死的獵物。",
       "zh-Hans": "兽龙种。散布容易汽化的易燃物质后，摩擦尾巴将\r\n之点燃，引发火焰。有抢夺其他怪物捕获的猎物的\r\n习性。",
       "ar": "وايفرن غاشمة تنشر بخارًا قابلًا للاشتعال\r\nومن ثم تشعله بذيولها. إنها تقتات\r\nعلى الفرائس التي تسرقها من المفترسات الأخرى.",
+      "th": "ไวเวิร์นดุร้ายที่พ่นไอระเหยติดไฟออกมาแล้วสะบัดหาง\r\nเพื่อจุดไฟ พวกมันดำรงชีวิตโดยการขโมยเหยื่อจาก\r\nผู้ล่าตัวอื่น",
       "es-419": "Wyverns brutales que propagan vapores\r\ninflamables que encienden con la cola.\r\nSe nutren de presas robadas a otros depredadores."
     },
     "features": {
@@ -7026,6 +7079,7 @@
       "zh-Hant": "獸龍種魔物，擁有比軀幹長的強壯尾巴。會灑下易\r\n揮發的易燃物質，再利用尾巴磨擦產生火花，引發\r\n火焰。幾乎不會自行狩獵，但會搶奪其他生物狩獵\r\n的草食種屍體。經常與小型肉食龍爭奪獵物。",
       "zh-Hans": "兽龙种怪物，拥有与其体长不成比例的发达长尾。\r\n它会散布易燃的挥发物，并通过尾巴摩擦地面产\r\n生火星，从而引发火焰。很少主动狩猎，而是习\r\n惯掠夺其他怪物捕获的草食种尸体，常与小型肉\r\n食龙争夺猎物。",
       "ar": "وايفرن غاشمة ذات ذيول طويلة غير متناسبة\r\nمع حجم أجسامها. إنها تنشر مادة قابلة للاشتعال\r\nتتبخر بسرعة، ثم تشعلها عن طريق جر ذيولها\r\nعلى الأرض. بطبيعتها، نادرًا ما تصطاد وحوش\r\n(كيماتريس) فرائسها، وبدلًا من ذلك، تتغذى على\r\nجيف الوحوش العاشبة التي خلفتها المفترسات\r\nالأخرى. يؤدي هذا غالبًا إلى مواجهات مع الوحوش\r\nآكلة اللحوم الأصغر حجمًا.",
+      "th": "ไวเวิร์นดุร้ายที่มีหางยาวไม่สมส่วน พวกมัน\r\nปล่อยสารไวไฟที่ระเหยอย่างรวดเร็วออกมา\r\nแล้วจุดไฟด้วยการลากหางไปกับพื้น โดยปกติ\r\nแล้ว เคมาทริซจะไม่ล่าเหยื่อเองแต่จะกินซาก\r\nของสัตว์กินพืชที่ผู้ล่าตัวอื่นทิ้งไว้ ทำให้มันต้อง\r\nปะทะกับสัตว์กินเนื้อขนาดเล็กชนิดอื่นอยู่บ่อยๆ",
       "es-419": "Wyverns brutales con colas excesivamente\r\nlargas. Propagan una sustancia inflamable\r\nque se vaporiza rápidamente y prenden fuego\r\nal arrastrar la cola por el suelo.\r\nEl Quematrice rara vez caza sus propias\r\npresas; suele alimentarse de cadáveres de\r\nherbívoros abandonados por otros\r\ndepredadores. Esto con frecuencia deriva\r\nen enfrentamientos con otros carnívoros\r\nmás pequeños."
     },
     "tips": {
@@ -7042,6 +7096,7 @@
       "zh-Hant": "觀察散落在地面上的易燃物質的位置，就能容易\r\n看出起火的範圍。特徵明顯的長尾攻擊範圍廣闊，\r\n也可用於點火，因此切斷尾巴就能削弱牠。",
       "zh-Hans": "注意散落在地面上的易燃物质的位置，即可判断\r\n出点火后的起火范围。其独特的长尾不仅攻击范\r\n围广，也是点火时的必要工具。因此推荐破坏尾\r\n部来削弱它。",
       "ar": "عليكَ الانتباه للمكان الذي استقرت فيه\r\nالمادة المشتعلة على الأرض لقياس نطاق اشتعالها.\r\nبما أن (كيماتريس) يعتمد على ذيله في هجومه\r\nطويل المدى وكذلك في إشعال النيران،\r\nيمكن للصياد أن يُضعف هذا الوحش\r\nبشدة من خلال بتر ذيله.",
+      "th": "จับตาดูตำแหน่งที่วัตถุติดไฟหล่นลงบนพื้นให้ดี\r\nเพื่อประเมินว่าไฟของเคมาทริซจะลามไปมาก\r\nน้อยเพียงใด มันใช้หางเป็นอาวุธหลักในการ\r\nโจมตีระยะไกลและจุดไฟ การตัดหางเคมาทริซ\r\nจึงช่วยทำให้มันอ่อนแอลงอย่างมาก",
       "es-419": "Observa dónde cae el material inflamable\r\npara calcular cuánto se expandirá el fuego\r\nde un Quematrice. Como confían en sus colas\r\npara atacar desde una cierta distancia y\r\npara iniciar las llamaradas, los cazadores\r\npueden debilitarlos notablemente si les\r\ncortan la cola."
     },
     "variants": [
@@ -7061,6 +7116,7 @@
           "zh-Hant": "炎尾龍（歷戰個體）",
           "zh-Hans": "炎尾龙（历战个体）",
           "ar": "كيماتريس غاضب",
+          "th": "เคมาทริซสุดแกร่ง",
           "es-419": "Quematrice curtido"
         }
       }
@@ -7681,6 +7737,7 @@
       "zh-Hant": "闢獸",
       "zh-Hans": "辟兽",
       "ar": "دوشاغوما",
+      "th": "โดชากุมา",
       "es-419": "Doshaguma"
     },
     "descriptions": {
@@ -7697,6 +7754,7 @@
       "zh-Hant": "闢獸的特徵在於強壯的身軀。牠們地盤意識極強，\r\n行動範圍廣且攻擊性高，偶爾也能目擊到大規模\r\n的群體。",
       "zh-Hans": "以强韧的躯体著称，有强烈的领地意识，行动范围\r\n广泛且攻击性强。偶尔也会目击到大规模的群体。",
       "ar": "وحوش قوية ذات أنياب تدافع عن منطقة نفوذها\r\nوتظهر ميولًا عدوانية وتعيش في مناطق واسعة.\r\nيتم رصدها أحيانًا في قطعان كبيرة.",
+      "th": "สัตว์เขี้ยวแหลมที่แข็งแกร่งและหวงถิ่น อุปนิสัยดุร้าย\r\nอาศัยอยู่ในอาณาเขตกว้างใหญ่ บางครั้งมักปรากฏตัว\r\nให้เห็นเป็นฝูง",
       "es-419": "Fuertes y territoriales bestias con colmillos,\r\nun carácter agresivo y un gran radio de\r\nacción. Suelen verse en grandes manadas."
     },
     "features": {
@@ -7713,6 +7771,7 @@
       "zh-Hant": "擁有強壯身軀的牙獸種，偶爾有牠們形成群體的目\r\n擊情報。攻擊性強，會抓取身邊的小型魔物再向目\r\n標投擲，因而得闢獸之名。牠們有時會將群體狩獵\r\n的獵物帶回巢穴，但群體有時也會為爭奪獵物而爭\r\n執。",
       "zh-Hans": "以强韧身体著称的牙兽种，偶尔会结成群体行动。\r\n它们有时会抓取身边的小型怪物扔向目标，这种\r\n极强的攻击性使其得名“辟兽”。辟兽群有时会\r\n将捕获的猎物拖回巢穴，但这种行为也可能引发\r\n群体内的争斗。",
       "ar": "وحوش ذات أنياب يمكن رؤيتها أحيانًا\r\nتسافر في مجموعات. وحوش (دوشاغوما) قوية البنية\r\nوعدوانية للغاية، ولن تتردد في استخدام\r\nكل قوتها ضد الأعداء، حتى الوحوش الصغيرة الأخرى.\r\nمن المعروف عنها أنها تعيد فرائسها إلى أوكارها،\r\nالأمر الذي يؤدي أحيانًا إلى نزاعات عنيفة.",
+      "th": "สัตว์เขี้ยวแหลมที่บางครั้งเห็นว่าออกล่าเป็นฝูง\r\nมีร่างกายบึกบึนและนิสัยก้าวร้าวมาก โดชากุมา\r\nจะเหวี่ยงทุกอย่างใส่ศัตรูโดยไม่ลังเล ไม่เว้น\r\nแม้แต่มอนสเตอร์ขนาดเล็กชนิดอื่น พวกมันมี\r\nนิสัยชอบนำเหยื่อกลับไปที่รัง ซึ่งบางครั้งก็\r\nนำไปสู่การปะทะกันอย่างดุเดือด",
       "es-419": "Bestias con colmillos que a veces viajan\r\nen manada.\r\nDe constitución fuerte y carácter muy agresivo,\r\nlos Doshaguma no dudan en lanzar\r\nlo que tienen a mano contra el enemigo,\r\nincluso otros monstruos más chicos.\r\nSuelen llevar a sus presas a las madrigueras,\r\nlo que a veces desencadena violentos\r\nenfrentamientos."
     },
     "tips": {
@@ -7729,6 +7788,7 @@
       "zh-Hant": "闢獸體力減少時，全身的傷口會綻開，也會變得更\r\n暴戾。瞄準創傷攻擊雖然有效，但也要小心反擊。\r\n牠們站立時會露出柔軟的腹部，有時會變成弱點。\r\n由於闢獸行動範圍廣，在牠憤怒時可利用這特點，\r\n引誘牠至落石或藤蔓陷阱。若在狩獵其他魔物時被\r\n闢獸群襲擊，不妨利用投射器異臭彈或投射器大異\r\n臭彈來脫困。",
       "zh-Hans": "辟兽因体力减少，导致全身的伤口裂开时，会变\r\n得更有攻击性。瞄准创伤部位攻击固然有效，但\r\n请务必提防它的反击。辟兽站起时，其相对柔软\r\n的腹部会暴露出来，可以作为弱点攻击。由于辟\r\n兽的活动范围广，可以趁它愤怒时，将其引诱至\r\n落石或藤蔓陷阱处。如果在狩猎其他怪物时被辟\r\n兽群盯上，可以使用投射器异臭弹或投射器大异\r\n臭弹来脱身。",
       "ar": "عندما تكون صحة (دوشاغوما) منخفضة،\r\nتتفتح جروحه كاشفةً عن نقطة ضعف.\r\nلكنه سيصبح أكثر عدوانية،\r\nلذا احذر من هجماته المضادة.\r\nتكون بطونه مكشوفة عند الوقوف\r\nعلى أرجله الخلفية، وهي هدف لين نسبيًا،\r\nمما يجعلها نقطة ضعف محتملة.\r\nاستغل حركته ضده لاستدراجه إلى فخاخ الصخور والكروم.\r\nإذا هاجمتكَ مجموعة من (دوشاغوما) أثناء صيد منفصل،\r\nفإن كبسولات الروث وكبسولات الروث الكبيرة هي أفضل صديق للصياد.",
+      "th": "เมื่อโดชากุมามีพลังชีวิตเหลือน้อย บาดแผลของมัน\r\nจะเผยให้เห็นจุดอ่อน แต่มันจะดุร้ายมากขึ้นจึงต้อง\r\nระวังการโจมตีโต้กลับให้ดี มันจะยืนด้วยขาหลังและ\r\nเผยช่องโหว่ที่ท้องซึ่งเป็นจุดที่อ่อนนุ่มและอาจเป็น\r\nจุดอ่อนได้ ใช้การเคลื่อนไหวที่รวดเร็วของมันเพื่อล่อ\r\nไปให้ติดกับดักหินและเถาวัลย์ หากโดนฝูงโดชากุมา\r\nโจมตีขณะออกล่าโดยลำพัง พ็อดมูลสัตว์และ\r\nพ็อดมูลสัตว์ขนาดใหญ่คืออาวุธคู่ใจของฮันเตอร์",
       "es-419": "Cuando los Doshaguma tienen poca salud, sus\r\nheridas exponen un punto débil. Pero se vuelven\r\nmás agresivos, así que ten cuidado con los\r\ncontraataques. Sus estómagos quedan expuestos\r\ncuando se elevan sobre sus patas traseras,\r\nsiendo un objetivo blando y un potencial punto\r\ndébil. Utiliza su movilidad para atraerlos\r\nhacia trampas de rocas y enredaderas. Si una\r\nmanada ataca durante otra cacería, las cápsulas\r\nboñiga normales y grandes son tu mejor amigo."
     },
     "variants": [
@@ -7748,6 +7808,7 @@
           "zh-Hant": "闢獸（頭領）",
           "zh-Hans": "辟兽（首领）",
           "ar": "قائد وحوش دوشاغوما",
+          "th": "อัลฟาโดชากุมา",
           "es-419": "Doshaguma Alfa"
         }
       },
@@ -7767,6 +7828,7 @@
           "zh-Hant": "闢獸（歷戰個體）",
           "zh-Hans": "辟兽（历战个体）",
           "ar": "دوشاغوما غاضب",
+          "th": "โดชากุมาสุดแกร่ง",
           "es-419": "Doshaguma curtido"
         }
       }
@@ -8318,6 +8380,7 @@
       "zh-Hant": "沙海龍",
       "zh-Hans": "沙海龙",
       "ar": "بالاهارا",
+      "th": "บาลาฮารา",
       "es-419": "Balahara"
     },
     "descriptions": {
@@ -8334,6 +8397,7 @@
       "zh-Hant": "棲息在沙地的海龍種。會以柔軟扭曲的身體形成\r\n流沙並用作陷阱。牠們潛入沙中時，使用音爆彈\r\n會相當有效。",
       "zh-Hans": "栖息在沙地的海龙种。它们利用灵活弯曲的身体形\r\n成流沙，并将其作为陷阱。当它们潜入沙中，使用\r\n音爆弹会非常有效。",
       "ar": "وحوش (ليفياثان) تعيش في الصحراء وتستخدم أجسامها المرنة الأفعوانية\r\nلإنشاء فخاخ الرمال المتحركة.\r\nعندما تنغمر الوحوش برمال الصحراء، تكون ضعيفة في مواجهة القنابل الصوتية.",
+      "th": "เลวีอาธานที่อาศัยอยู่ในทะเลทรายซึ่งใช้ร่างกายที่ยืดหยุ่น\r\nเหมือนงูในการสร้างกับดักทรายดูด เมื่ออยู่ใต้ผืนทราย\r\nมันจะแพ้ระเบิดเสียง",
       "es-419": "Leviatanes del desierto que usan sus ágiles\r\ny serpenteantes cuerpos para crear trampas de arena.\r\nVulnerables a las bombas sónicas cuando se sumergen."
     },
     "features": {
@@ -8350,6 +8414,7 @@
       "zh-Hant": "棲息在沙地的海龍種，會進食雷電形成的蒼雷晶，\r\n轉化成甲殼的材料，也會善用柔軟的骨骼和彎曲的\r\n身體在沙地上形成流沙陷阱，伏擊獵物。口腔內有\r\n多個用作感知器官的點狀眼睛。體內分泌的黏液則\r\n含有發光細菌，一般認為細菌用於提高牠們在地下\r\n或沙塵暴等黑暗環境中感知周遭的能力。",
       "zh-Hans": "栖息在沙地的海龙种。摄取由雷电生成的苍雷晶，\r\n并将之转化为自身甲壳的材料。运用柔软的骨骼\r\n系统和扭曲的身体来制造流沙陷阱，伏击猎物。\r\n口腔内有多个点状眼睛，作为感知器官使用。此\r\n外，其体内分泌的粘液中含有发光细菌，这通常\r\n被认为能够在昏暗的地下或沙尘暴中增强它们的\r\n感知能力。",
       "ar": "وحوش (ليفياثان) تعيش في الصحراء وتبني\r\nهياكلها من عيدان الصواعق التي تكونت بفعل\r\nضربات البرق. إنها تستخدم هياكلها العظمية\r\nالمرنة وأجسامها الأفعوانية لإنشاء فخاخ رمال\r\nمتحركة للفرائس غير الحذرة. يوجد داخل\r\nأفواهها أعضاء حسية متعددة تشبه العيون.\r\nيحتوي المخاط الذي تفرزه على بكتيريا مضيئة\r\nيُعتقد أنها تساعدها على الرؤية أثناء غوصها\r\nتحت الرمال وفي ظروف الإضاءة الخافتة\r\nالأخرى مثل العواصف الرملية.",
+      "th": "เลวีอาธานที่อาศัยอยู่ในทะเลทรายซึ่งสร้าง\r\nเปลือกแข็งจากฟูลเกอไรต์ที่ก่อตัวขึ้นจากฟ้าผ่า\r\nพวกมันใช้โครงกระดูกที่ยืดหยุ่นและลำตัวยาว\r\nคล้ายงูเพื่อสร้างกับดักทรายดูดสำหรับเหยื่อที่\r\nไม่ทันระวัง ภายในปากของมันมีอวัยวะรับสัมผัส\r\nคล้ายดวงตาจำนวนมาก เมือกที่มันพ่นออกมา\r\nมีแบคทีเรียเรืองแสง ซึ่งเชื่อกันว่าช่วยให้มัน\r\nมองเห็นขณะดำอยู่ใต้ผืนทรายหรืออยู่ใน\r\nสภาพแวดล้อมที่มีแสงน้อย เช่น พายุทราย",
       "es-419": "Leviatanes moradores del desierto con corazas\r\nde fulgorita formada por rayos. Sus esqueletos\r\nflexibles y cuerpos serpenteantes les permiten\r\ncrear trampas de arenas movedizas para las presas\r\nincautas. Cuentan con órganos sensoriales\r\ncon forma de ojos en el interior de sus bocas.\r\nSecretan una mucosidad con bacterias\r\nluminiscentes, que parece mejorar la visibilidad\r\nal sumergirse o en medio de la oscuridad,\r\ncomo en las tormentas de arena."
     },
     "tips": {
@@ -8366,6 +8431,7 @@
       "zh-Hant": "沙海龍的弱點在於柔軟的口內，牠吐出黏液後就是\r\n攻擊的好時機。由於牠們潛入沙裡後聽覺會特別敏\r\n銳，這時使用音爆彈會相當有效。投射器音爆彈可\r\n以從棲息於沙原一帶的音翅龍身上獲得。有時候大\r\n型魔物會被沙海龍形成的大流沙吞噬並送到地下，\r\n此時若跟著跳入大流沙的中心就可以追上。",
       "zh-Hans": "沙海龙的弱点在于其相对柔软的口腔，因此，在\r\n它吐出粘液后的瞬间是发起攻击的最佳时机。潜\r\n入沙里后，其听觉会变得格外敏锐，使用音爆弹\r\n是很不错的选择。栖息在沙原一带的爆翼龙身上\r\n也可以获取投射器音爆弹以供使用。沙海龙能够\r\n制造出大型的流沙陷阱。若有大型怪物不慎陷入，\r\n则可能会被卷入地下。但猎人也可以主动跳入流\r\n沙中心以继续追击。",
       "ar": "الجزء الداخلي من فم (بالاهارا) هو هدف لين\r\nيمكن استغلاله إذا ضربتَه\r\nمباشرةً بعد أن يفرز المخاط. بما أنه يعتمد\r\nعلى حاسة السمع القوية أثناء الغوص،\r\nفإن القنابل الصوتية ستكون فعالة للغاية.\r\nيمكنكَ الحصول على كبسولات الصراخ\r\nمن وحوش (بانوس) التي تستوطن المنطقة الصحراوية.\r\nفي بعض الأحيان، سيسقط الوحش الكبير\r\nالذي تصطاده في حفرة رمال (بالاهارا)... ولكن ما من شيء\r\nسيمنعكَ من ملاحقته.",
+      "th": "บาลาฮารามีจุดอ่อนอยู่ภายในปากที่เป็นเนื้ออ่อนนุ่ม\r\nซึ่งคุณสามารถฉวยโอกาสโจมตีทันทีที่มันคายเมือก\r\nออกมา และเนื่องจากพวกมันไวต่อเสียงเป็นพิเศษ\r\nขณะอยู่ใต้ผืนทราย ระเบิดเสียงหรือพ็อดระเบิดเสียง\r\nที่หาได้จากบาวนอสจึงใช้งานได้ดี ในบางครั้ง\r\nมอนสเตอร์ขนาดใหญ่ที่คุณกำลังล่าอยู่อาจถูกดูดลง\r\nไปในบ่อทรายของบาลาฮารา... แต่ก็ไม่มีสิ่งใดจะ\r\nหยุดยั้งคุณจากการไล่ตามมันได้",
       "es-419": "El interior de la boca del Balahara es\r\nsensible, y puedes aprovecharlo si atacas\r\njusto después de que lance sus mucosidades.\r\nComo utiliza su gran capacidad auditiva al\r\nestar bajo tierra, las bombas sónicas o las\r\ncápsulas chillonas obtenidas de los Baunos,\r\nserán muy efectivas. A veces, los monstruos\r\ngrandes que estés cazando serán atrapados\r\npor los hoyos de arena del Balahara, pero\r\neso no tiene por qué detenerte en continuar."
     },
     "variants": [
@@ -8385,6 +8451,7 @@
           "zh-Hant": "沙海龍（歷戰個體）",
           "zh-Hans": "沙海龙（历战个体）",
           "ar": "بالاهارا غاضب",
+          "th": "บาลาฮาราสุดแกร่ง",
           "es-419": "Balahara curtido"
         }
       }
@@ -8451,6 +8518,7 @@
           "zh-Hant": "僅在潛入地底時有效。",
           "zh-Hans": "仅在潜入地下时有效。",
           "ar": "فعّال في حالة الحفر فقط.",
+          "th": "ได้ผลเฉพาะตอนมุดดินเท่านั้น",
           "es-419": "Surte efecto solo al excavar."
         }
       },
@@ -9074,6 +9142,7 @@
       "zh-Hant": "千刃龍",
       "zh-Hans": "千刃龙",
       "ar": "سيرجيوس",
+      "th": "เซเรกิออส",
       "es-419": "Seregios"
     },
     "descriptions": {
@@ -9090,6 +9159,7 @@
       "zh-Hant": "地盤意識非常強烈的飛龍種，全身鋪滿名為「刃\r\n鱗」的銳利鱗片，因此得「千刃龍」之名。",
       "zh-Hans": "领地意识极强的飞龙种。全身覆盖着被称为“刃\r\n鳞”的锋利鳞片，并由此得名“千刃龙”。",
       "ar": "وحوش طائرة شرسة تُعرف بشراستها في الدفاع\r\nعن أراضيها، وتتميز بحراشفها الحادة التي تشبه\r\nالشفرات وتغطي أجسادها.",
+      "th": "ไวเวิร์นบินได้ที่หวงอาณาเขตอย่างดุร้าย\r\nมีจุดเด่นคือเกล็ดที่คมกริบราวกับใบมีด\r\nปกคลุมทั่วร่างกาย",
       "es-419": "Wyverns voladores muy territoriales. Famosos por\r\nlo afiladas que son las escamas de las que están\r\nrecubiertos."
     },
     "features": {
@@ -9106,6 +9176,7 @@
       "zh-Hant": "地盤意識非常強烈的飛龍種，全身鋪滿名為「刃\r\n鱗」的銳利鱗片，因此得「千刃龍」之名。牠只\r\n能短距離飛行，但速度極快，還會善用靈活的步\r\n伐擾亂對手，再以強韌的後腳攻擊。此外，牠可\r\n以射出全身的刃鱗，曾有報告指牠的對手遭受裂\r\n傷。",
       "zh-Hans": "领地意识极强的飞龙种。全身覆盖着被称为“刃\r\n鳞”的锋利鳞片，并由此得名“千刃龙”。虽然\r\n飞行距离较短，但速度极快，善于利用灵活的步\r\n伐扰乱对手，再用强韧的后腿攻击。有报告称它\r\n还能发射全身的刃鳞，从而让对手造成裂伤。",
       "ar": "تنين مجنح طائر ذو نزعة إقليمية شرسة،\r\nمعروف بحراشفه الحادة التي تغطي جسده\r\nوتشبه الشفرات. يتميز (سيرجيوس) بسرعة كبيرة\r\nفي الطيران وخفة حركة مذهلة،\r\nويستخدم قوائمه الخلفية القوية للانقضاض\r\nبسرعة على فرائسه. تؤكد التقارير\r\nأن (سيرجيوس) يمتلك أيضًا القدرة على إطلاق\r\nحراشفه نحو خصومه، مسببًا جروحًا تنزف بغزارة.",
+      "th": "ไวเวิร์นบินได้ที่หวงอาณาเขตอย่างดุร้าย มีจุดเด่น\r\nคือเกล็ดที่คมกริบราวกับใบมีดปกคลุมทั่วร่างกาย\r\nมีความคล่องตัวสูงขณะบินและมีฝีเท้าที่ว่องไว\r\nเซเรกิออสจัดการเหยื่ออย่างรวดเร็วด้วยขาหลังที่\r\nทรงพลัง นอกจากนี้ มีรายงานยืนยันว่าเซเรกิออส\r\nสามารถยิงเกล็ดออกจากร่างกายเพื่อสร้างบาดแผล\r\nฉีกขาดให้เหยื่อจนทำเลือดไหลทะลัก",
       "es-419": "Wyverns voladores muy territoriales,\r\nconocidos por sus escamas afiladas como\r\ncuchillas que recubren sus cuerpos.\r\nEl Seregios, con su rápida movilidad aérea\r\ny paso veloz, usa sus fuertes patas\r\ntraseras para terminar rápidamente\r\na sus presas. Los informes confirman\r\nque el Seregios también puede lanzar\r\nlas escamas de su cuerpo y provocar\r\nlaceraciones con sangrados abundantes."
     },
     "tips": {
@@ -9122,6 +9193,7 @@
       "zh-Hant": "千刃龍會利用優秀的飛行能力繞到獵物身後，再利\r\n用強韌的後腳攻擊，需要特別小心。此外，牠從全\r\n身射出的刃鱗不但會引發裂傷狀態，有時候射出刃\r\n鱗後還會馬上追擊，不可以鬆懈。不過亦有報告指\r\n出，只要破壞牠的頭部或尾巴，射出的刃鱗就會變\r\n少，因此建議優先破壞這些部位。另外，只要進食\r\n全熟肉或保持靜止一段時間，就能解除裂傷狀態。",
       "zh-Hans": "千刃龙会利用其极快的飞行能力和强健的后腿，\r\n从多个角度和不同距离发动攻击，需要格外小\r\n心。此外，千刃龙全身施放的刃鳞会导致裂伤状\r\n态，并且有时在施放后紧接着发动追击，必须时\r\n刻保持警惕。有记录表明，若能够成功破坏头部\r\n或尾巴，刃鳞的数量会减少，因此建议优先破坏\r\n这两个部位。一旦陷入裂伤状态，食用烤熟的肉\r\n或保持静止一段时间即可解除。",
       "ar": "احذر من الهجمات الجانبية وضربات الأرجل الخلفية\r\nالعنيفة. فهذه الوحوش عدوانية للغاية، وتطلق قشورًا\r\nحادة تشبه الشفرات يمكن أن تُسبب نزيفًا، يليها هجوم\r\nمباشر إضافي. تحطيم الرأس والذيل يقلل من عدد القشور\r\nالتي يمكنهم إطلاقها، لذا ركّز على تدمير الأجزاء أثناء\r\nمعالجة حالة النزيف باستخدام شرائح اللحم المطهوة\r\nأو من خلال الراحة لفترة وجيزة.",
+      "th": "ระวังการโจมตีจากด้านข้างและการจู่โจมที่รุนแรง\r\nจากขาหลังให้ดี เพราะนอกจากมันจะก้าวร้าว\r\nขั้นสุดแล้ว ยังปล่อยเกล็ดคมราวกับใบมีดที่ทำให้\r\nเลือดออกได้ และมักตามด้วยการโจมตีต่อเนื่อง\r\nทันที การทำลายหัวและหางจะลดจำนวนของ\r\nเกล็ดที่มันปล่อยได้ จึงควรเน้นทำลายชิ้นส่วนไป\r\nพร้อมกับรักษาสถานะเลือดออกด้วยการกินสเต๊ก\r\nสุกพอดี หรือหยุดพักระยะสั้นๆ ตามที่จำเป็น",
       "es-419": "Cuidado con los ataques de flanco y sus\r\nferoces golpes con las patas traseras.\r\nViciosamente agresivos, lanzan sus escamas\r\ncomo cuchillas que pueden causar sangrado\r\ny luego seguir con ataques adicionales.\r\nRomperles la cabeza y la cola puede reducir\r\nel número de escamas que pueden lanzar;\r\ncéntrate en romper partes, curando tu estado\r\nde sangrado según sea necesario con Filetes\r\nbien cocidos o descansando brevemente."
     },
     "variants": [
@@ -9141,6 +9213,7 @@
           "zh-Hant": "千刃龍（歷戰個體）",
           "zh-Hans": "千刃龙（历战个体）",
           "ar": "سيرجيوس غاضب",
+          "th": "เซเรกิออสสุดแกร่ง",
           "es-419": "Seregios curtido"
         }
       }
@@ -9691,6 +9764,7 @@
       "zh-Hant": "雌火龍",
       "zh-Hans": "雌火龙",
       "ar": "راثيان",
+      "th": "ราเธียน",
       "es-419": "Rathian"
     },
     "descriptions": {
@@ -9707,6 +9781,7 @@
       "zh-Hant": "雌火龍的特徵是出色的奔跑能力，以及具有猛毒的\r\n尾巴。這些特徵讓牠獲得了「陸地女王」的外號。",
       "zh-Hans": "拥有纵横大陆的强劲脚力以及猛毒之尾，这些特征\r\n亦赋予了它“陆之女王”的别称。",
       "ar": "\"ملكات الأرض\"، إناث وايفرن\r\nنافثة للنار، تُعرف بأرجلها القوية\r\nوذيولها الفتاكة النافثة للسم.",
+      "th": "ไวเวิร์นพ่นไฟเพศเมียที่รู้จักในนาม \"ราชินีแห่งผืนดิน\"\r\nเป็นที่โจษจันเรื่องกำลังขาที่ทรงพลังและหางที่หลั่งพิษ\r\nร้ายแรง",
       "es-419": "Wyverns hembra conocidas como \"reinas de la tierra\".\r\nPueden escupir fuego y poseen patas fuertes\r\ny mortíferas colas venenosas."
     },
     "features": {
@@ -9723,6 +9798,7 @@
       "zh-Hant": "雌火龍又稱「陸地女王」，奔跑能力卓越，主要在\r\n地面上狩獵，又以帶有致命猛毒的尾巴著稱。有時\r\n也能看見雌火龍和雄性的火龍一起狩獵。產卵後的\r\n雌火龍一旦發現巢中的卵有異樣，就會迅速趕回卵\r\n所在的巢穴，這時候要特別小心。",
       "zh-Hans": "雌火龙又被称为“陆之女王”。以陆地为中心的狩\r\n猎方式，使其拥有穿梭大地的强劲脚力及足以结\r\n果猎物的猛毒之尾。也曾有人目击到其与雄性的\r\n火龙成对狩猎的场景。产卵后的雌火龙对巢中蛋\r\n的状况极为敏感，一旦察觉异样，便会立刻返回。\r\n因此需要提高警惕，小心应对。",
       "ar": "أنثى وايفرن نافثة للنار\r\nتُعرف باسم \"ملكات الأرض\".\r\nأرجلها القوية وذيولها الفتاكة المفرزة للسم\r\nتجعلها صيادة أرضية ماهرة.\r\nأحيانًا يمكن رؤية (راثيان) و(راثالوس)\r\nيصطادان معًا كثنائي. بعد وضع البيض،\r\nتراقب وحوش (راثيان) أعشاشها\r\nبيقظة شديدة. وهذا يستدعي المزيد من الحذر\r\nلأن الأم ستتحرك بسرعة لحماية صغارها.",
+      "th": "ไวเวิร์นพ่นไฟเพศเมียที่รู้จักกันในนาม\r\n\"ราชินีแห่งผืนดิน\" กำลังขาที่ทรงพลังและ\r\nหางที่หลั่งพิษร้ายแรงทำให้มันเป็นนักล่า\r\nบนพื้นดินที่ร้ายกาจ บางครั้งอาจพบเห็น\r\nราเธียนและราธาลอสออกล่าเป็นคู่ หลัง\r\nจากวางไข่แล้ว ราเธียนจะหวงรังของตนเอง\r\nมากเป็นพิเศษ จึงควรลงมือด้วยความระวัง\r\nอย่างยิ่ง เพราะแม่จะพุ่งปกป้องลูกของมัน\r\nทันที",
       "es-419": "Wyverns hembra escupefuego conocidas como las\r\n\"reinas de la tierra\". Sus patas fuertes y sus\r\ncolas venenosas las convierten en eficientes\r\ndepredadoras terrestres. A veces se puede ver\r\na las Rathian y los Rathalos cazando juntos.\r\nTras la puesta de los huevos, las Rathian\r\nvigilan sus nidos sin descanso.\r\nSe deben extremar las precauciones, ya que\r\nla madre acudirá rápidamente para proteger\r\na sus crías."
     },
     "tips": {
@@ -9739,6 +9815,7 @@
       "zh-Hant": "尾巴的棘帶劇毒，加上尾巴攻擊範圍相當廣，狩獵\r\n時需要特別注意。如果切斷尾巴，就能縮小牠的攻\r\n擊範圍，令狩獵變得順利。牠噴火後口內會變得較\r\n柔軟，抓準機會攻擊就能事半功倍。",
       "zh-Hans": "其尾上之棘有致命毒素，且尾部攻击范围广，走\r\n位时需格外小心。若能成功切断它的尾巴，则可\r\n限制其攻击范围，降低狩猎难度。当它喷火后，\r\n口内会变得柔软，成为弱点，抓准时机进行攻击\r\n将能事半功倍。",
       "ar": "سيكون على الصيادين المناورة بحرص\r\nلتفادي السم القوي الموجود\r\nفي أشواك ذيل (راثيان)\r\nوأيضًا لتفادي مدى هجومه الواسع.\r\nمن خلال بتر الذيل، يمكنكَ\r\nتقييد منطقة تأثيرها وفرض سيطرتكَ.\r\nبعد نفث النار، يصبح داخل فم (راثيان) ضعيفًا،\r\nما يجعله أول هدف ينبغي ضربه.",
+      "th": "ฮันเตอร์ต้องเคลื่อนไหวด้วยความระมัดระวัง\r\nเพื่อหลบเลี่ยงพิษร้ายแรงจากหนามที่หางและ\r\nการโจมตีที่กินพื้นที่กว้างของราเธียน หากตัด\r\nหางมันได้ คุณสามารถจำกัดระยะโจมตีและ\r\nทำให้ได้เปรียบ หลังจากพ่นไฟ ภายในปาก\r\nของราเธียนจะอ่อนนุ่มลง จึงเป็นจุดสำคัญที่\r\nต้องโจมตี",
       "es-419": "Los cazadores deben andar con mucho cuidado\r\npara evitar el potente veneno de las púas de\r\nla cola de la Rathian y sus ataques de gran\r\nalcance. Si le cortas la cola, limitarás su\r\nalcance y obtendrás ventaja. Tras escupir\r\nfuego, el interior de las fauces de la\r\nRathian se vuelve sensible, así que fíjalo\r\ncomo objetivo principal."
     },
     "variants": [
@@ -9758,6 +9835,7 @@
           "zh-Hant": "雌火龍（歷戰個體）",
           "zh-Hans": "雌火龙（历战个体）",
           "ar": "راثيان غاضب",
+          "th": "ราเธียนสุดแกร่ง",
           "es-419": "Rathian curtida"
         }
       }
@@ -10267,6 +10345,7 @@
       "zh-Hant": "纏蛙",
       "zh-Hans": "缠蛙",
       "ar": "تشاتاكابرا",
+      "th": "ชาตาคาบรา",
       "es-419": "Chatacabra"
     },
     "descriptions": {
@@ -10283,6 +10362,7 @@
       "zh-Hant": "兩棲種，會利用帶黏性的唾液將礦石等物質附著在\r\n前腳上，藉此強化自己。若瞄準並破壞附著物，\r\n就會出現攻擊的機會。弱點是舌頭。",
       "zh-Hans": "两栖种。会利用有粘性的唾液将矿石等附着在前肢\r\n上，从而强化自身。瞄准附着物加以破坏，即可创\r\n造攻击良机。弱点是舌头。",
       "ar": "وحوش برمائية تُثبِّت الصخور على أطرافها الأمامية\r\nلتقوية الهجمات. عليكَ بتدمير هذا 'الدرع' لفتح مجال\r\nللهجوم. اللسان هو المنطقة الأكثر ضعفًا.",
+      "th": "สัตว์ครึ่งบกครึ่งน้ำที่มีหินติดบริเวณขาหน้าเพื่อเพิ่มพลัง\r\nโจมตี ทำลาย \"เกราะ\" นี้ให้แตกเพื่อเปิดช่องโหว่ในการ\r\nโจมตี จุดที่บอบบางที่สุดคือลิ้นของมัน",
       "es-419": "Anfibios que adhieren rocas a sus patas delanteras\r\npara potenciar ataques. Rompe esta \"armadura\" para\r\nexponerlos a ataques. Su punto débil es la lengua."
     },
     "features": {
@@ -10299,6 +10379,7 @@
       "zh-Hant": "利用長舌頭舔食各種物質的兩棲種，以捕食血刺蟲\r\n為生。前腳發達，能儲存帶黏性的唾液，興奮時前\r\n腳會和地面磨擦，使石頭和土沙附著，增加攻擊範\r\n圍和破壞力。也因這特性獲得了纏蛙之名。",
       "zh-Hans": "缠蛙属于两栖种，通过长舌舔食各种物质，会捕\r\n食血盗虫等生物。缠蛙兴奋时会用发达的前肢摩\r\n擦地面，而其前肢能附着带黏性的唾液，使石头\r\n和土沙黏附其上，从而扩大攻击范围和破坏力。\r\n它的名字“缠蛙”也因此而来。",
       "ar": "وحوش برمائية تستخدم ألسنتها الطويلة\r\nلاصطياد الفرائس والتهامها مثل وحوش (بولاكتشي)\r\nكمثال على فرائسها. أطرافها الأمامية المتطورة\r\nتخزن مادة لزجة تشبه المخاط.\r\nوعندما تشعر بالغضب، تفرك وحوش (تشاتاكابرا)\r\nأطرافها الأمامية بالأرض لجمع الحجارة والخامات،\r\nمما يوسع مدى ضرباتها وقوتها التدميرية.",
+      "th": "สัตว์ครึ่งบกครึ่งน้ำที่ใช้ลิ้นยาวเพื่อจับและกินเหยื่อ\r\nอย่างบูลัคชี ขาหน้าของพวกมันผ่านการวิวัฒนาการ\r\nเพื่อกักเก็บสารเหนียวคล้ายเมือก เมื่อมันโกรธจัด\r\nชาตาคาบราจะถูขาหน้ากับพื้นเพื่อเก็บเศษหินและ\r\nแร่ ซึ่งจะช่วยเพิ่มระยะและความรุนแรงของการโจมตี\r\nมากขึ้น",
       "es-419": "Anfibios que usan sus largas lenguas para\r\natacar y devorar a presas como los Bulaqchi.\r\nSus desarrolladas extremidades delanteras\r\nalmacenan una substancia mucosa pegajosa.\r\nSi se alteran, los Chatacabra frotan sus\r\nextremidades contra el suelo para recolectar\r\nrocas y minerales, lo que aumenta el alcance\r\ny la potencia de sus golpes."
     },
     "tips": {
@@ -10315,6 +10396,7 @@
       "zh-Hant": "纏蛙的長舌頭需要多加注意，但該處肉質柔軟，是\r\n牠的弱點，在牠攻擊後或露出疲態時就可對舌頭攻\r\n擊。另外，破壞前腳上的附著物也會讓牠露出大破\r\n綻，此時便是反擊的好機會。由於牠會在大範圍內\r\n活動，因此不妨利用落石或閃光翅蟲等周邊環境。\r\n生態報告指纏蛙天性貪婪，曾有目擊案例提到牠在\r\n衝刺時吞下整個桶子。",
       "zh-Hans": "缠蛙的长舌头需要特别留意，但它的肉质较为柔\r\n软，因此也是它的弱点。建议在缠蛙攻击后或显\r\n露疲态时进行攻击。此外，破坏其前肢上的附着\r\n物可以使其露出很大破绽，为反击提供良机。缠\r\n蛙的活动范围很广，因此可以灵活利用周围环境，\r\n如落石和闪光翅虫来辅助狩猎。生态报告指出，\r\n缠蛙天性贪婪，甚至有目击情报显示它在猛冲时\r\n甚至会将桶一并吞下。",
       "ar": "لسان (تشاتاكابرا) اللين هو المكان المناسب للاستهداف؛\r\nعليكَ البحث عن الثغرات بعد أن يهاجم أو يشعر بالإنهاك.\r\nسيؤدي تدمير فتات الصخور الملتصق بطرفيه الأماميين\r\nإلى جعله مكشوفًا لتلقي هجوم مضاد. يتجولون في منطقة\r\nواسعة، لذا فإن العناصر البيئية مثل الصخور المتساقطة\r\nأو الذباب الوامض ستكون مفيدة في القضاء عليهم.\r\nلإعطائكَ فكرة عن مدى جوع هذا الكائن، فقد أفاد بعض\r\nالصيادين أنهم رأوه يلتهم براميل كاملة أثناء اندفاعه.",
+      "th": "ชาตาคาบรามีจุดอ่อนคือลิ้นที่อ่อนนุ่มของมัน มองหา\r\nจังหวะหลังจากที่มันโจมตีหรือเมื่อมันอ่อนแรง การ\r\nทำลายแร่ที่ติดอยู่ตรงขาหน้าของมันจะช่วยเปิดช่อง\r\nโหว่ให้โจมตี พวกมันตระเวนไปตามพื้นที่กว้าง ดังนั้น\r\nการใช้สิ่งแวดล้อม เช่น หินก้อนใหญ่ถล่มหรือหิ่งห้อย\r\nแสงจะช่วยจัดการพวกมันได้อย่างมีประสิทธิภาพ เพื่อ\r\nให้เห็นภาพว่ามันหิวโหยแค่ไหน ฮันเตอร์บางคนเคย\r\nเห็นพวกมันกลืนถังทั้งใบลงไปขณะพุ่งเข้าใส่มาแล้ว",
       "es-419": "Su suave lengua debe ser tu blanco. Busca el\r\nmomento después de que ataque o se agote. Si\r\ndestruyes las rocas de sus patas delanteras,\r\npodrás atacar. Merodean por una amplia zona,\r\npor lo que puedes aprovechar los elementos\r\ndel entorno, como los desprendimientos de\r\nrocas o las noctilucas, para acabar con él.\r\nPara hacerte una idea de su voraz apetito,\r\nse los ha visto devorar barriles enteros\r\ndurante una embestida."
     },
     "variants": [
@@ -10334,6 +10416,7 @@
           "zh-Hant": "纏蛙（歷戰個體）",
           "zh-Hans": "缠蛙（历战个体）",
           "ar": "تشاتاكابرا غاضب",
+          "th": "ชาตาคาบราสุดแกร่ง",
           "es-419": "Chatacabra curtido"
         }
       }
@@ -10859,6 +10942,7 @@
       "zh-Hant": "巨戟龍",
       "zh-Hans": "巨戟龙",
       "ar": "غوغمازيوس",
+      "th": "ก็อกมาซิออส",
       "es-419": "Gogmazios"
     },
     "descriptions": {
@@ -10875,6 +10959,7 @@
       "zh-Hant": "全身滿佈黑色黏液的神秘古龍。被觀測到\r\n在火窯之村阿茲茲發現的地下空洞中休眠。",
       "zh-Hans": "全身覆盖着黑色高粘性液体的神秘古龙。在火窑\r\n村阿孜兹发现的地下空间中，被观测到处于休眠\r\n状态。",
       "ar": "تنينٌ قديم غامض مغطّى من الرأس\r\nحتى الذيل بسائلٍ أسود لزج،\r\nعُثِر عليه في سباتٍ عميق تحت أراضي (آزوز).",
+      "th": "มังกรเอลเดอร์ลึกลับที่มีของเหลวหนืดสีดำปกคลุม\r\nตั้งแต่หัวจรดหาง ถูกพบขณะจำศีลอยู่ใน\r\nอาณาบริเวณใต้อาซุส",
       "es-419": "Un misterioso dragón anciano cubierto de la cabeza\r\na la cola por un líquido negro viscoso que estaba\r\nhibernando en una extensión debajo de Azuz."
     },
     "features": {
@@ -10891,6 +10976,7 @@
       "zh-Hant": "全身滿佈黑色黏液的神秘古龍。被觀測到在火窯\r\n之村阿茲茲發現的地下空洞中休眠。報告中提到\r\n牠有追尋火藥的習性，並襲擊了各地的武器庫，\r\n在過程中有各式各樣的東西附著在身體上。連自\r\n古存在的古代武器都黏著在牠的身上，怪異的外\r\n型令「巨戟龍」更加名副其實。",
       "zh-Hans": "全身覆盖着黑色高粘性液体的神秘古龙。在火窑\r\n村阿孜兹发现的地下空间中，被观测到处于休眠\r\n状态。报告显示，该古龙具有寻找火药的习性，\r\n会在各地袭击武器库。它在战斗过程中全身附着\r\n了各种各样的东西，连自古存在的古代兵器都附\r\n着在它的身上，怪异的外型令“巨戟龙”之名更\r\n加名副其实。",
       "ar": "تنينٌ قديم غامض مغطّى من الرأس حتى الذيل\r\nبسائلٍ أسود لزج، عُثِر عليه وهو في سباتٍ تحت\r\nأرضٍ واسعة تحت (آزوز).\r\nيُقال إنه يهاجم مخازن الأسلحة في أنحاء البلاد\r\nلإشباع حاجته من البارود، وخلال هذه المواجهات\r\nتلاصقت بأجسامه عدة أشياء. ومن بين هذه الأشياء،\r\nوالأكثر لفتًا للنظر، سلاحٌ قديم هائل لم يُرَ مثله\r\nمنذ زمن بعيد.",
+      "th": "มังกรเอลเดอร์ลึกลับที่มีของเหลวหนืดสีดำปกคลุม\r\nตั้งแต่หัวจรดหาง ถูกพบขณะจำศีลอยู่ในอาณาบริเวณ\r\nใต้อาซุส มีรายงานว่ามันบุกคลังอาวุธไปทั่วดินแดน\r\nเพื่อกินดินปืนบรรเทาความหิว ระหว่างการบุกรุกนั้นเอง\r\nของต่างๆ ก็ได้ติดไปตามร่างของมัน ในบรรดาของ\r\nเหล่านั้น สิ่งที่น่าประหลาดใจที่สุดคืออาวุธโบราณ\r\nอันน่าเกรงขาม ซึ่งไม่ได้พบเห็นมานานมากแล้ว",
       "es-419": "Un misterioso dragón anciano cubierto de la cabeza\r\na la cola por un líquido negro viscoso que estaba\r\nhibernando en una extensión debajo de Azuz.\r\nSegún se informa, estuvo saqueando arsenales\r\nde armas por todo el territorio para saciar su sed\r\nde pólvora y, durante estos enfrentamientos,\r\nse le fueron adhiriendo al cuerpo una variedad\r\nde objetos. Entre ellos, se destaca una formidable\r\narma antigua que llevaba siglos sin ser vista."
     },
     "tips": {
@@ -10907,6 +10993,7 @@
       "zh-Hant": "覆蓋全身的黑色液體已經凝固硬化，但受到火屬性\r\n攻擊就會逐漸軟化，使攻擊容易奏效。此時弱點會\r\n變成龍屬性攻擊，因此要根據情況切換武器。有時\r\n會從軟化的地方露出古代武器碎片，破壞那些部位\r\n就可取得。此外，在牠飛行時積極攻擊翅膀，就能\r\n讓牠失去平衡，帶來絕佳的攻擊機會。不過，牠在\r\n氣體狀態下施放的吐息攻擊會引發極強的爆炸，需\r\n要小心。",
       "zh-Hans": "覆盖全身的黑色液体凝固后非常坚硬，但受到火\r\n属性攻击后会逐渐软化，使攻击变得更容易奏效，\r\n且弱点会转变为龙属性，因此要根据战况切换属\r\n性攻击。软化部位有时会露出古代武器碎片，可\r\n通过破坏该处来获取。当其飞起时，积极攻击其\r\n翅膀可破坏平衡制造攻击机会。不过其气体状态\r\n的吐息会引发超爆炸，具有极大的威力，需特别\r\n注意。",
       "ar": "يمكن تليين الزيت الذي يغطي جسم (غوغمازيوس)\r\nباستخدام هجمات النار، ما يسهل\r\nتوجيه الضربات ويكشف نقطة ضعفه\r\nأمام عنصر التنين. إن معرفة العنصر\r\nالمناسب لكل مرحلة أمر أساسي. قد تظهر شظايا\r\nأسلحة على بعض أجزاء جسده — حطّمها للحصول\r\nعلى المواد. مهاجمة (غوغمازيوس)\r\nأثناء الطيران تُفقده توازنه وتخلق فرصًا للهجوم.\r\nاحذر من الانفجار الهائل الذي يطلقه\r\nعندما ينفث نارًا في طوره الغازي.",
+      "th": "น้ำมันที่คลุมตัวก็อกมาซิออสจะละลายได้ด้วยการ\r\nโจมตีธาตุไฟ ทำให้โจมตีเข้าเนื้อได้ง่ายขึ้นและเปิด\r\nจุดอ่อนต่อธาตุมังกร การเลือกใช้ธาตุให้ถูกจังหวะ\r\nจึงสำคัญมาก คุณสามารถทำลายชิ้นส่วนอาวุธที่ติด\r\nอยู่ตามตัวเพื่อเก็บวัตถุดิบได้ หากโจมตีตอนมันบิน\r\nจะทำให้มันเสียหลักและเผยช่องโหว่ จงระวังการ\r\nระเบิดรุนแรงจากลมหายใจเพลิงในสถานะแก๊สให้ดี",
       "es-419": "El óleo que cubre el cuerpo del Gogmazios se\r\npuede ablandar con ataques de fuego, lo que\r\nfacilita los golpes y deja expuesta su debilidad\r\nal elemento draco. Es clave saber qué elemento\r\nusar en cada momento. Pueden aparecer fragmentos\r\nde armas en partes de su cuerpo, rómpelas para\r\nobtener materiales. Atacar al Gogmazios en el\r\naire lo sacará de su pose y lo dejará vulnerable.\r\nTen cuidado con la superexplosión provocada por\r\nsu aliento de fuego en estado gaseoso."
     },
     "variants": [
@@ -10926,6 +11013,7 @@
           "zh-Hant": "巨戟龍（歷戰個體）",
           "zh-Hans": "巨戟龙（历战个体）",
           "ar": "غوغمازيوس غاضب",
+          "th": "ก็อกมาซิออสสุดแกร่ง",
           "es-419": "Gogmazios curtido"
         }
       }
@@ -11615,6 +11703,7 @@
       "zh-Hant": "遊星歐米茄",
       "zh-Hans": "游星欧米茄",
       "ar": "أوميغا بلانيتيس",
+      "th": "โอเมกา แพลนเนตส์",
       "es-419": "Omega Planetes"
     },
     "descriptions": {
@@ -11631,6 +11720,7 @@
       "zh-Hant": "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的其中一台歐米茄框架。",
       "zh-Hans": "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。",
       "ar": "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة بحثًا\r\nعن كائنات أقوى وكواكب لغزوها.",
+      "th": "โอเมกา เฟรมที่เดินทางข้ามรอยแยกระหว่างมิติ มันลงมา\r\nยังแดนต้องห้ามเพื่อตามหาสิ่งมีชีวิตที่ทรงพลังยิ่งกว่าและ\r\nดวงเคราะห์ให้รุกราน",
       "es-419": "Un armazón Omega que cruzó la grieta interdimensional\r\ny descendió a las Tierras Prohibidas en busca de formas\r\nde vida más poderosas y planetas para invadir."
     },
     "features": {
@@ -11641,12 +11731,13 @@
       "de": "Ein Omega-Chassis, das auf der Suche nach\r\nmächtigen Wesen und zur Eroberung geeig-\r\nneten Planeten den Interdimensionalen Riss\r\ndurchquert hat und ins Verbotene Land\r\ngekommen ist. Sein Name Omega Planetes\r\nsoll es von anderen Omega-Chassis abheben,\r\nund es plant, die Wesen dieser Welt zu\r\nerforschen, vor allem die Monster des\r\nVerbotenen Landes, um sich zu entwickeln.",
       "es": "Un armazón Omega que ha cruzado la grieta\r\ninterdimensional hasta las Tierras Prohibidas\r\nen busca de formas de vida y planetas que invadir.\r\nConocido como Omega Planetes para distinguirse\r\nde otros armazones Omega, pretende estudiar\r\nlos monstruos de las Tierras Prohibidas para\r\nevolucionar y subyugar todo a su paso.",
       "ru": "Форма «Омега», которая отправилась\r\nна поиски планет и могучих существ для\r\nпокорения. Попала в Запретную землю через\r\nпространственный разлом. Чтобы отличить\r\nэтого представителя от прочих форм «Омега»,\r\nему дали уникальное имя: Омега-Планетес.\r\nЕго цель — изучить существ этого мира,\r\nв первую очередь монстров Запретной земли,\r\nчтобы затем эволюционировать и завоевать\r\nвсё, что окажется у него на пути.",
-      "pl": "Forma Omega, która przekroczyła międzywymiarową\r\nszczelinę i znalazła się na Zakazanych Ziemiach\r\nw poszukiwaniu potężniejszych form życia i planet\r\ndo najechania. Przyjęła nazwę Omega Planetes,\r\nby odróżnić się od innych form Omega. Planuje badać\r\nformy życia tego świata, przede wszystkim potwory\r\nz Zakazanych Ziem, by ewoluować i podbić wszystko,\r\nco stanie jej na drodze.",
+      "pl": "Forma Omega, która przekroczyła szczelinę\r\nmiędzywymiarową i znalazła się na Zakazanych\r\nZiemiach w poszukiwaniu potężniejszych form\r\nżycia i planet do najechania. Przyjęła nazwę\r\nOmega Planetes, by odróżnić się od innych\r\nform Omega. Planuje badać formy życia tego\r\nświata, przede wszystkim potwory z Zakazanych\r\nZiem, by ewoluować i podbić wszystko, co\r\nstanie jej na drodze.",
       "pt-BR": "Um modelo Omega que cruzou a fenda\r\ninterdimensional e chegou às Terras Proibidas\r\nem busca de formas de vida e planetas mais\r\npoderosos para invadir. Chamada de Omega\r\nPlanetes para distingui-la de outros modelos\r\nOmega, planeja estudar as formas de vida\r\ndeste mundo, principalmente os monstros\r\ndas Terras Proibidas, a fim de evoluir\r\ne subjugar tudo em seu caminho.",
       "ko": "침공할 별과 더 강한 생명체를 찾아\r\n차원의 틈을 통해 금지된 땅에 내려온\r\n오메가 프레임 1대.\r\n여타 오메가 프레임과 차별성을 두기 위해\r\n《오메가 플라네테스》라고 부른다.\r\n금지된 땅 몬스터 등 현생 생명체의\r\n능력을 학습해 스스로 진화하려는 듯하다.",
       "zh-Hant": "為了尋找要侵略的星球與更強的生命，而透過時空\r\n狹縫來到封禁之地的一台歐米茄框架。為了與其他\r\n歐米茄框架區分清楚而被稱為「遊星歐米茄」。它\r\n似乎在學習封禁之地的魔物以及其他現存生命體的\r\n能力，讓自己繼續進化。",
       "zh-Hans": "为了寻求值得侵略的星球与更强大的生命，通过\r\n时空狭缝来到封禁之地的一台欧米茄框架。为与\r\n其他欧米茄框架加以区分，它被称为“游星欧米\r\n茄”。它似乎意图通过学习封禁之地中猎人等生\r\n命体的能力，以实现自我进化。",
       "ar": "هيكل (أوميغا) اجتاز الصدع البُعدي\r\nوهبط في الأراضي المحظورة باحثًا عن أشكال حياتية أكثر\r\nقوة وكواكب لغزوها.\r\nسُمي (أوميغا بلانيتيس) لتمييزه عن هياكل (أوميغا) الأخرى،\r\nويخطط لدراسة الأشكال الحياتية لهذا العالم،\r\nوبالأخص وحوش الأراضي المحظورة،\r\nمن أجل التطور والسيطرة على كل ما يعترض طريقه.",
+      "th": "โอเมกา เฟรมที่เดินทางข้ามรอยแยกระหว่างมิติ\r\nลงมายังแดนต้องห้ามเพื่อตามหาสิ่งมีชีวิตที่ทรง\r\nพลังยิ่งกว่าและดาวเคราะห์ให้รุกราน มันถูกเรียก\r\nว่า โอเมกา แพลนเนตส์ เพื่อแยกความแตกต่าง\r\nจากโอเมกา เฟรมตัวอื่นๆ เป้าหมายของมันคือ\r\nการศึกษาสิ่งมีชีวิตของโลกนี้ โดยเฉพาะเหล่า\r\nมอนสเตอร์ในแดนต้องห้ามเพื่อวิวัฒน์ตนเองและ\r\nกำราบทุกสิ่งที่ขวางหน้า",
       "es-419": "Un armazón Omega que cruzó la grieta\r\ninterdimensional y descendió a las Tierras\r\nProhibidas en busca de formas de vida más\r\npoderosas y planetas para invadir.\r\nConocido como Omega Planetes para\r\ndistinguirlo de otros marcos Omega, planea\r\nestudiar las formas de vida de este mundo,\r\nen particular los monstruos de las Tierras\r\nProhibidas, con el fin de evolucionar y\r\nsubyugar todo a su paso."
     },
     "tips": {
@@ -11663,6 +11754,7 @@
       "zh-Hant": "名為「全能之主模式」的狀態非常危險，攻擊強到\r\n令人難以對付。不過只要一個獵人不斷攻擊頭部，\r\n吸引其仇恨，就能將危險的攻擊誘導到自己身上。\r\n另外，正在誘導其攻擊的獵人如果陷入危機，只要\r\n其他獵人攻擊頭部，也能轉移其仇恨到自己身上。\r\n因此夥伴間的合作和互相支援的意識相當重要。此\r\n外，集中攻擊其腿部也能製造進攻的良機，因此應\r\n該積極集中攻擊。",
       "zh-Hans": "名为“全能之主模式”的状态具备极强的攻击性，\r\n难以应付，十分危险。不过，只要有一名猎人集\r\n中攻击其头部，吸引仇恨，便能将这种危险攻击\r\n引导至自身。当诱导攻击的猎人陷入危机时，其\r\n他猎人则可通过攻击头部来转移仇恨。因此，队\r\n友之间的配合显得尤为重要。此外，集中攻击腿\r\n部也能创造出机会，建议积极运用这一战术。",
       "ar": "يصبح خطيرًا وعدوانيًا للغاية عند تفعيل\r\nوضع البانتوكراتور.\r\nيمكن أن يجعله الهجوم المتكرر على رأسه\r\nيركّز على صياد واحد وتوجيه هجماته إليه.\r\nوإذا كان الصياد المستهدَف في خطر،\r\nيمكن لصياد آخر جذب انتباهه من جديد\r\nبمهاجمة الرأس مرة أخرى. يمكنكَ أيضًا\r\nمهاجمة ساقيه لإتاحة فرص لهجمات أكثر،\r\nلذا تعاون مع الصيادين الآخرين لإسقاطه.",
+      "th": "เมื่อเข้าสู่โหมดแพนโตเครเตอร์ มันจะอันตรายและ\r\nก้าวร้าวอย่างรุนแรง การโจมตีที่หัวของมันซ้ำๆ จะทำให้\r\nมันเพ่งเล็งไปที่ฮันเตอร์ผู้โจมตี หากฮันเตอร์ที่ถูกเล็งตก\r\nอยู่ในอันตราย ฮันเตอร์อีกคนสามารถดึงความสนใจ\r\nของมันได้ด้วยการโจมตีหัวอีกครั้ง นอกจากนี้คุณยัง\r\nสามารถโจมตีที่ขาเพื่อเปิดช่องโหว่ในการโจมตีเพิ่มเติม\r\nจึงควรร่วมมือกันเป็นทีมกับฮันเตอร์คนอื่นเพื่อโค่นมัน\r\nให้ได้",
       "es-419": "Se vuelve muy peligroso y agresivo cuando se\r\nactiva el modo Pantocrátor. Si atacas su\r\ncabeza repetidas veces, este se centrará en\r\nun único cazador y así podrás dirigir sus\r\nataques. Si el cazador objetivo está en\r\npeligro, puedes cambiar su enfoque a otro\r\ncazador atacando la cabeza de nuevo. También\r\npuedes atacar las piernas para crear más\r\noportunidades de ataque, así que colabora\r\ncon otros cazadores para acabar con él."
     },
     "variants": [
@@ -11682,6 +11774,7 @@
           "zh-Hant": "遊星歐米茄",
           "zh-Hans": "游星欧米茄",
           "ar": "أوميغا بلانيتيس",
+          "th": "โอเมกา แพลนเนตส์",
           "es-419": "Omega Planetes"
         }
       }
@@ -12075,6 +12168,7 @@
       "zh-Hant": "泡狐龍",
       "zh-Hans": "泡狐龙",
       "ar": "ميزوتسوني",
+      "th": "มิซึสึเนะ",
       "es-419": "Mizutsune"
     },
     "descriptions": {
@@ -12091,6 +12185,7 @@
       "zh-Hant": "經歷獨特的進化，能利用體毛摩擦特殊分泌液來\r\n製造泡沫，並巧妙運用，因此得泡狐龍之名。",
       "zh-Hans": "经历独特的进化，能够利用特殊的分泌液与体毛\r\n摩擦产生泡沫，并巧妙地加以运用。由于这种奇\r\n特的生态特征，得名泡狐龙。",
       "ar": "وحوش (ليفياثان) المتطورة للغاية، (ميزوتسوني)\r\nيمكنها إفراز رغوة غريبة تغطي أعداءها\r\nبفقاعات خطيرة بمهارة.",
+      "th": "มิซึสึเนะคือเลวีอาธานที่วิวัฒนาการมาเป็นพิเศษ\r\nซึ่งปล่อยมวลฟองประหลาดเพื่อห่อหุ้มร่างศัตรู\r\nให้อยู่ในฟองอันตรายได้อย่างชำนาญ",
       "es-419": "Los Mizutsune son leviatanes evolucionados\r\nque segregan una peculiar espuma que cubre\r\na sus enemigos con burbujas peligrosas."
     },
     "features": {
@@ -12107,6 +12202,7 @@
       "zh-Hant": "經歷獨特的進化，能利用體毛摩擦特殊分泌液來製\r\n造泡沫，並巧妙運用，因此得泡狐龍之名。雖為海\r\n龍種，但在陸地上的行動也相當敏捷靈活，有報告\r\n指出牠會以輕快動作製造出泡沫來纏住獵物，使獵\r\n物無法自由活動，狩獵時的姿態宛如舞蹈。",
       "zh-Hans": "经历独特的进化，能够利用特殊的分泌液与体毛\r\n摩擦产生泡沫，并巧妙地加以运用。由于这种奇\r\n特的生态特征，得名泡狐龙。尽管属于海龙种，\r\n其在陆地上依然能够迅捷、灵活地移动。通过轻\r\n盈的动作，制造出大量泡沫，使猎物无法自由活\r\n动，其优雅的狩猎姿态宛如舞蹈。",
       "ar": "وحوش (ليفياثان) رشيقة الجسد\r\nالمتطورة للغاية، (ميزوتسوني)\r\nيمكنها إفراز رغوة غريبة تغطي أعداءها\r\nبفقاعات تعيق حركتهم.\r\nوبمجرد تقييد حركة فريستها\r\nتقترب منها بحركات رشيقة تشبه الرقص.",
+      "th": "มิซึสึเนะคือเลวีอาธานที่วิวัฒนาการมาเป็น\r\nพิเศษ โดยมีลำตัวที่เพรียวบางและว่องไว\r\nมันสามารถปล่อยมวลฟองประหลาดออกมา\r\nห่อหุ้มศัตรูให้อยู่ในฟองจนทำให้ขยับตัวไม่ได้\r\nเมื่อเหยื่อสูญเสียความสามารถในการเคลื่อน\r\nไหวแล้ว มันจะเข้าประชิดด้วยท่วงท่าที่พลิ้ว\r\nไหวราวกับการร่ายรำ",
       "es-419": "Leviatanes evolucionados con cuerpos\r\nflexibles y alisados. Estos segregan\r\nuna peculiar espuma que cubre a sus\r\nenemigos con una especie de burbujas\r\ninmovilizadoras. Una vez que la víctima está\r\nincapacitada, se acercan a ella danzando."
     },
     "tips": {
@@ -12123,6 +12219,7 @@
       "zh-Hant": "泡狐龍會利用自己製造的泡沫使地面變滑，在地上\r\n也能迅速繞到獵物後背，並利用前腳的爪子急停。\r\n牠在部分攻擊使用的泡沫有各種效果，包括使獵人\r\n陷入泡沫狀態，回復獵人體力和使獵人的攻擊力上\r\n升。此外，泡狐龍憤怒時，還會使用帶爆炸效果的\r\n特殊泡沫，因此狩獵時要懂得各種泡沫採取不同策\r\n略。另外，當獵人陷入泡沫狀態，受攻擊後會露出\r\n較大破綻，但使用消散劑即可解除狀態。",
       "zh-Hans": "泡狐龙制造的泡沫会使地面变得湿滑，这一特性\r\n赋予它在陆地上超群的敏捷性，使其能够绕到猎\r\n人背后进行攻击，并利用前爪急停。泡狐龙的一\r\n部分攻击会使用泡沫，产生不同效果，包括触发\r\n“泡沫状态”或使猎人回复体力、提升攻击力等。\r\n若猎人陷入泡沫状态，受到攻击时将暴露较大的\r\n破绽，使用消散剂可以解除这一状态。泡狐龙愤\r\n怒时，还会使用带有爆炸效果的特殊泡沫。面对\r\n不同类型的泡沫，猎人需要采取相应的策略。",
       "ar": "تتيح رغوة وحوش (ميزوتسوني) لها بالتحرك\r\nبمرونة مذهلة حتى على اليابسة ولكن هذا ليس كل\r\nشيء. تنتج أنواع مختلفة من الرغوة تأثيرات\r\nفريدة على الصيادين، مثل إلحاق وباء الفقاعات\r\nولكن هناك تأثيرات أخري مثل تعزيز الشفاء، أو زيادة قوة الهجمات.\r\nكما انها تطلق رغوة متفجرة عند الغضب. إذا أُصبتَ بوباء الفقاعات فستظل عرضة\r\nللهجوم لفترة أطول بعد الهجوم لذلك يجب عليكَ\r\nمعالجة نفسكَ بسرعة باستخدام المنظف.",
+      "th": "ฟองของมิซึสึเนะช่วยให้มันเคลื่อนที่ได้คล่องตัว\r\nอย่างมากแม้อยู่บนบก การโจมตีที่ใช้ฟองให้ผลลัพธ์\r\nที่แตกต่างกัน เช่น สร้างสถานะฟองสบู่ ฟื้นฟู หรือ\r\nเพิ่มพลังโจมตีให้คุณ เมื่อมันโกรธจะปล่อยฟองระเบิด\r\nหากติดสถานะฟองสบู่ คุณจะเปิดช่องโหว่นานขึ้น\r\nหลังจากถูกโจมตี จึงต้องรีบใช้น้ำยาชำระล้างเพื่อ\r\nฟื้นฟูตัวเอง",
       "es-419": "La espuma de un Mizutsune le permite moverse\r\ncon gran agilidad aun en tierra. Además, sus\r\nburbujas producen una variedad de efectos\r\ncomo obtener autocuración, potenciación de\r\nataques o infligir a los cazadores plaga de\r\nburbujas. Ten cuidado si se enfurece, ya que\r\nusará una espuma explosiva. Si la plaga de\r\nburbujas te afecta, quedarás vulnerable por\r\nmás tiempo tras recibir ataques, por lo es\r\nmejor usar rápido un limpiador."
     },
     "variants": [
@@ -12142,6 +12239,7 @@
           "zh-Hant": "泡狐龍（歷戰個體）",
           "zh-Hans": "泡狐龙（历战个体）",
           "ar": "ميزوتسوني الغاضب ",
+          "th": "มิซึสึเนะสุดแกร่ง",
           "es-419": "Mizutsune curtido"
         }
       }
@@ -12722,6 +12820,7 @@
       "zh-Hant": "護雷顎龍",
       "zh-Hans": "护雷颚龙",
       "ar": "أنجاناث رعدي حارس",
+      "th": "การ์เดียนฟูลเกอร์อันจานาธ",
       "es-419": "Anjanath Fulgúreo Guardián"
     },
     "descriptions": {
@@ -12738,6 +12837,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有雷顎龍之力。\r\n不但會釋放身上的雷電，還會施展強力的\r\n撕咬攻擊。",
       "zh-Hans": "古代文明创造出的造龙种，带有雷颚龙之力。\r\n能释放身上的雷电，还能施展强有力的撕咬攻击。",
       "ar": "سلالة اصطناعية خلّقتها حضارة قديمة\r\nباستخدام قوة (أنجاناث) رعدي. يمكنها إطلاق البرق\r\nوالعض بشراسة.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้นโดยอาศัย\r\nพลังของฟูลเกอร์อันจานาธ มันสามารถปลดปล่อย\r\nสายฟ้าและกัดอย่างรุนแรง",
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con el poder del Anjanath Fulgúreo.\r\nLanza rayos y tiene una mordida devastadora."
     },
     "features": {
@@ -12754,6 +12854,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有雷顎龍之力。不具有\r\n生殖功能，也不會捕食，靠攝取龍乳來獲取能量。\r\n除了會釋放身上的雷電外，還會用雷電強化自己，\r\n並使出強力的撕咬。",
       "zh-Hans": "古代文明创造出的造龙种，带有雷颚龙之力。既\r\n没有生殖能力，也不会捕食，而是直接摄取龙乳\r\n作为能量来源。除了会释放身上的雷电外，还会\r\n用雷电强化自身，发起强有力的撕咬。",
       "ar": "سلالة وحوش اصطناعية خلّقتها حضارة\r\nقديمة مشبعة بقوة (أنجاناث) رعدي.\r\nلا يمكن لوحوش (أنجاناث) الرعدية الحارسة\r\nالتكاثر ولا حاجة لها بتناول الطعام وتعتمد\r\nبدلًا من ذلك على حليب وايفرن للحصول\r\nعلى الطاقة. لا يمكن إطلاق البرق المشحون\r\nفي أجسادها على هيئة هجوم فحسب،\r\nبل يمكنها أيضًا استخدامها لتعزيز قوتها\r\nوتوجيه هجمات عض شرسة.",
+      "th": "การ์เดียนฟูลเกอร์อันจานาธ คือสายพันธุ์\r\nมอนสเตอร์เทียมที่อารยธรรมโบราณสร้างขึ้น\r\nและผสานด้วยพลังของฟูลเกอร์อันจานาธ\r\nมันไม่สามารถสืบพันธุ์ได้และไม่ต้องกินอาหาร\r\nเพราะใช้ไวเวิร์นมิลค์เป็นแหล่งพลังงานแทน\r\nพลังสายฟ้าที่สะสมในร่างกายของมัน นอกจาก\r\nจะใช้ปลดปล่อยเป็นการโจมตีได้แล้ว ยังใช้เพื่อ\r\nเสริมพลังให้ตัวมันเองและโจมตีด้วยการกัดอย่าง\r\nรุนแรงได้อีกด้วย",
       "es-419": "Monstruos artificiales creados por una antigua\r\ncivilización e imbuidos con el poder del\r\nAnjanath Fulgúreo.\r\nNo pueden reproducirse, no necesitan comer\r\ny se energizan con leche de wyvern.\r\nNo solo pueden liberar los rayos almacenados\r\nen sus cuerpos como un ataque, sino que también\r\npueden usarlos para energizarse a sí mismos\r\ny realizar mordidas devastadoras."
     },
     "tips": {
@@ -12770,6 +12871,7 @@
       "zh-Hant": "護雷顎龍的特徵是由放電產生的雷擊和撕咬攻擊。\r\n光是帶有雷電的攻擊就十分危險，而帶有護龍能量\r\n的撕咬爆炸範圍廣大，更需要多加小心。除了積極\r\n攻擊牠的腳就能使牠倒地外，牠的攻擊形成的結晶\r\n會對屬性攻擊起反應並爆炸，因此屬性投射器彈等\r\n攻擊手段也很有效。",
       "zh-Hans": "护雷颚龙的特点是通过发电产生的雷击，以及强\r\n力的撕咬攻击。带有雷电的攻击本已极具威胁，\r\n而蕴含护龙能量的撕咬更是会引发范围广泛的爆\r\n炸，需要特别警惕。除了集中攻击它的腿部让其\r\n倒地外，它攻击形成的结晶也会对属性攻击起反\r\n应并爆炸，因此属性投射器弹药等攻击手段也会\r\n非常有效。",
       "ar": "يجب على الصياد الحذر من شرارات وأسنان\r\nوحوش (أنجاناث) الرعدي الحارسة.\r\nبينما هجمات البرق وحدها تشكل تهديدًا،\r\nفإن فكوكها المشبعة بطاقة الوحوش الحارسة\r\nستتسبب بانفجارات واسعة النطاق.\r\nحاول إسقاط أحدها باستهداف\r\nساقيه بشكل مكثف. البلورات التي تتشكل\r\nمن هجماتها ستنفجر من خلال التدخل العناصري،\r\nلذا قد تكون ذخيرة نبلة المعصم فعَّالة أيضًا.",
+      "th": "ฮันเตอร์ต้องระวังประกายไฟและฟันของการ์เดียน\r\nฟูลเกอร์อันจานาธให้ดี แม้เพียงแค่การโจมตีด้วย\r\nสายฟ้าก็อันตรายแล้ว แต่เมื่อขากรรไกรของมัน\r\nเต็มไปด้วยพลังงานการ์เดียน จะก่อให้เกิดการ\r\nระเบิดเป็นวงกว้าง เน้นการโจมตีที่ขาเพื่อทำให้มัน\r\nเสียหลัก คริสตัลที่เกิดขึ้นในระหว่างการโจมตีของ\r\nมันจะระเบิดเมื่อมีธาตุมากระตุ้น กระสุนสลิงเกอร์\r\nจึงใช้งานได้ดีเช่นกัน",
       "es-419": "Los cazadores deben prestar atención a los\r\nataques de rayo y la mordida del Anjanath\r\nFulgúreo. Si bien su ataque de rayo de por\r\nsí es una amenaza, su hocico imbuido con la\r\nenergía de Guardián provocará explosiones\r\nde un alcance extendido. Se puede derribar\r\nal atacar de forma agresiva sus patas. Los\r\ncristales que se forman en ellas explotarán\r\na través de interferencia elemental, así que\r\nla munición de eslinga puede ser efectiva."
     },
     "variants": [
@@ -12789,6 +12891,7 @@
           "zh-Hant": "護雷顎龍（歷戰個體）",
           "zh-Hans": "护雷颚龙（历战个体）",
           "ar": "وحش أنجاناث رعدي حارس غاضب",
+          "th": "การ์เดียนฟูลเกอร์อันจานาธสุดแกร่ง",
           "es-419": "Anjanath Fulgúreo Guardián curtido"
         }
       }
@@ -13379,6 +13482,7 @@
       "zh-Hant": "風鋏龍",
       "zh-Hans": "风铗龙",
       "ar": "هيرابامي",
+      "th": "ฮิราบามิ",
       "es-419": "Hirabami"
     },
     "descriptions": {
@@ -13395,6 +13499,7 @@
       "zh-Hant": "棲息在冰霧斷崖的海龍種。尾巴有鉗狀的尾爪，\r\n會以獨特方式飛行，更能利用頸部的特殊膜乘風\r\n飄浮。",
       "zh-Hans": "栖息在冰雾断崖的海龙种。尾部长有钳状的尾爪，\r\n有着独特的飞行生态，能利用颈部特殊的膜乘风\r\n飘飞。",
       "ar": "وحوش (ليفياثان) تستوطن منحدرات الشظايا الجليدية.\r\nتحوذ ذيولًا حادة تشبه الكماشة\r\nوأغشية على رقباتها تمتلئ بالهواء لتجعلها تحلّق.",
+      "th": "เลวีอาธานที่อาศัยอยู่ในผาคมน้ำแข็ง มีหางแหลมคล้าย\r\nก้ามหนีบ และเยื่ออ่อนบริเวณลำคอที่ช่วยดักลมเพื่อให้\r\nลอยตัวกลางอากาศได้",
       "es-419": "Leviatanes de los Acantilados Espinahelada, con\r\ncolas filosas como pinzas y membranas especiales\r\nen el cuello que atrapan aire para poder flotar."
     },
     "features": {
@@ -13411,6 +13516,7 @@
       "zh-Hant": "棲息在冰霧斷崖的海龍種。尾巴有鉗狀的尾爪，更\r\n能利用頸部的特殊膜乘風飄浮飛行，因此得風鋏龍\r\n之名。龍群棲息在冰霧斷崖，有時可看牠們用前腳\r\n的爪子和全身鱗片緊貼在牆壁或洞頂上睡覺。",
       "zh-Hans": "栖息于冰雾断崖的海龙种，因尾部生有锐利且巨\r\n大的尾爪，并擅长利用颈部独特的膜衣乘风飘飞，\r\n故得名风铗龙。风铗龙多群居，人们时常能目睹\r\n它们聚集在一起，用前爪或全身的鳞片，紧贴在\r\n岩壁或洞顶休憩的景象。",
       "ar": "وحوش (ليفياثان) تستوطن منحدرات الشظايا\r\n الجليدية. تحوز ذيولًا حادة تشبه الكماشة\r\nوأغشية غريبة على رقبتها تمتلئ بالهواء\r\nلتجعلها تحلّق. يمكن رصد وحوش (هيرابامي)\r\nأحيانًا معششة في مجموعات على طول\r\nالمنحدرات، مستخدمة قشورها أو مخالبها\r\nالأمامية للتشبث بالجدران أو الأسقف\r\nأثناء نومها.",
+      "th": "เลวีอาธานที่อาศัยอยู่ในผาคมน้ำแข็ง มีหาง\r\nแหลมคล้ายก้ามหนีบ และเยื่ออ่อนประหลาด\r\nบริเวณลำคอที่ช่วยดักลมเพื่อให้ลอยตัวกลาง\r\nอากาศได้ บางครั้งอาจพบเห็นฮิราบามิทำรังอยู่\r\nเป็นกลุ่มตามแนวผา โดยใช้เกล็ดหรือกรงเล็บ\r\nคู่หน้ายึดเกาะผนังหรือเพดานขณะหลับ",
       "es-419": "Leviatanes que habitan los Acantilados\r\nEspinahelada.\r\nTienen colas filosas como pinzas\r\ny membranas peculiares en el cuello\r\npor las que toman aire para poder flotar.\r\nA veces se ven a los Hirabami en grupo\r\nen los acantilados, donde usan sus escamas\r\no garras delanteras para agarrarse\r\nde muros o techos mientras duermen."
     },
     "tips": {
@@ -13427,6 +13533,7 @@
       "zh-Hant": "風鋏龍會飄浮在空中，並以獨特方式移動，能巧妙\r\n來往地上與空中。雖然要小心牠特有的尾爪攻擊，\r\n但是只要應對得當，就會出現反擊的良機。此外，\r\n只要破壞牠頸部附近的特殊膜，牠飄浮時就會露出\r\n破綻。只要攻擊在膜上的傷口，就能讓飄浮中的風\r\n鋏龍掉到地上，因此要積極攻擊牠的頸部。",
       "zh-Hans": "风铗龙会飘浮在空中，并以独特的方式移动，能\r\n灵活地来往于地上与空中。虽然要小心它特有的\r\n尾爪攻击，但只要应对得当，亦可成为反击的良\r\n机。此外，如果破坏颈部的特殊膜衣，就能使它\r\n在飘浮时露出破绽。且若攻击膜衣上的伤口，还\r\n能击落漂浮的风铗龙。因此推荐瞄准其颈部攻击。",
       "ar": "يمكن لـ(هيرابامي) البقاء محلقًا\r\nأثناء مناورته بمهارة بين الأرض والسماء.\r\nسيكون عليكَ الانتباه لمخالب الذيل،\r\nلكن تعامل مع الهجوم جيدًا\r\nلتحويله إلى فرصة لشن ضربة مضادة.\r\nسيتسبب تدمير غشاء رقبته\r\nفي إضعاف دفاعاته أثناء تحليقه.\r\nعلاوة على ذلك، يمكنكَ استهداف جرح الغشاء\r\nلإسقاطه من الهواء ما يجعله هدفًا رئيسيًا.",
+      "th": "ฮิราบามิสามารถลอยตัวอยู่กลางอากาศได้ และ\r\nเคลื่อนไหวอย่างคล่องแคล่วระหว่างผืนดินและท้องฟ้า\r\nคุณจะต้องระวังกรงเล็บที่หางของมันให้ดี แต่ถ้ารับมือ\r\nได้ถูกจังหวะ ก็สามารถพลิกโอกาสเป็นการจู่โจมสวน\r\nกลับได้ การทำลายเยื่อที่คอจะทำให้มันเสียการป้องกัน\r\nขณะลอยตัว ยิ่งไปกว่านั้น การโจมตีบาดแผลบนเยื่อจะ\r\nทำให้มันร่วงจากอากาศ จึงเป็นจุดสำคัญที่ต้องโจมตี",
       "es-419": "El Hirabami puede permanecer en el aire\r\nmientras este maniobra hábilmente entre el\r\nsuelo y el cielo. Tendrás que tener cuidado\r\ncon las garras de la cola, pero, si lo\r\nhaces bien, un ataque se puede convertir en\r\nun contraataque. Si destruyes la membrana\r\ndel cuello, bajarán la guardia mientras\r\nestén en lo alto. Además, puedes apuntar a\r\nla herida de la membrana para derribarlos\r\ndel aire, por lo que es tu blanco principal."
     },
     "variants": [
@@ -13446,6 +13553,7 @@
           "zh-Hant": "風鋏龍（歷戰個體）",
           "zh-Hans": "风铗龙（历战个体）",
           "ar": "هيرابامي غاضب",
+          "th": "ฮิราบามิสุดแกร่ง",
           "es-419": "Hirabami curtido"
         }
       },
@@ -13465,6 +13573,7 @@
           "zh-Hant": "狂龍化風鋏龍",
           "zh-Hans": "狂龙化风铗龙",
           "ar": "هيرابامي مسعور",
+          "th": "ฮิราบามิบ้าคลั่ง",
           "es-419": "Hirabami colérico"
         }
       }
@@ -14070,6 +14179,7 @@
       "zh-Hant": "怪鳥",
       "zh-Hans": "怪鸟",
       "ar": "يان كوت-كو",
+      "th": "ยีอานคุท-คู",
       "es-419": "Yian Kut-Ku"
     },
     "descriptions": {
@@ -14086,6 +14196,7 @@
       "zh-Hant": "有一對大耳朵和強壯喙部的鳥龍種。雖然天性\r\n膽小，但面對外敵時會勇敢迎戰。常常能目擊\r\n牠們捕食蟲子的模樣。",
       "zh-Hans": "有一对大耳朵和雄壮喙部的鸟龙种。天性胆小，但\r\n面对外敌时却会勇敢应战。经常有人目睹它们喜食\r\n虫类的样子。",
       "ar": "وايفرن طائرة ذات مناقير مدهشة وأذنين كبيرتين\r\nوشهية للحشرات. خجولة بطبيعتها،\r\nلكنها ستستمر في القتال إذا تعرضت للتهديد.",
+      "th": "นกไวเวิร์นที่มีจะงอยปากอันโดดเด่น ใบหูใหญ่\r\nและชอบกินแมลงเป็นอาหาร แม้จะมีนิสัยขี้ตกใจ\r\nแต่ก็พร้อมสู้กลับหากโดนคุกคาม",
       "es-419": "Wyverns pájaro con picos imponentes,\r\norejas enormes y hambre de insectos.\r\nSon asustadizos, pero dan pelea a toda amenaza."
     },
     "features": {
@@ -14102,6 +14213,7 @@
       "zh-Hant": "有一對大耳朵和強壯喙部的鳥龍種。天性膽小，但\r\n有時會主動對抗外敵。當緋紅森林進入豐收期，怪\r\n鳥偶爾會形成大規模的群體飛來，但卻幾乎沒有發\r\n現卵或幼鳥留下，因此學者認為如此行動並非為了\r\n繁殖，而是為了求偶以及儲備營養。",
       "zh-Hans": "有着雄壮大颚和一对大耳朵的鸟龙种。天性胆小，\r\n但有时面对外敌会主动发起攻击。在绯红森林进\r\n入丰饶期后，常常可以看到大批怪鸟群飞至此地。\r\n由于没有发现蛋和幼雏，学者推测它们来到这里\r\n并非为了繁殖，而是为了求偶和获取营养。",
       "ar": "وايفرن طائرة ذات مناقير مدهشة\r\nوأذنين كبيرتين. إنها تميل إلى أن تكون\r\nخجولة، لكنها في بعض الأحيان قد تشن\r\nهجمات على التهديدات المحتملة.\r\nتصل وحوش (يان كوت-كو) بأعداد\r\nكبيرة خلال موسم الوفرة في الغابة\r\nالقرمزية. غياب البيض أو الصغار\r\nيشير إلى أن الغرض من ذلك ليس\r\nالتكاثر، بل للبحث عن الأقران والغذاء.",
+      "th": "นกไวเวิร์นที่มีจะงอยปากอันโดดเด่นและใบหูขนาดใหญ่\r\nโดยปกติมีนิสัยขี้ตกใจ แต่บางครั้งก็เป็นฝ่ายเริ่มโจมตี\r\nสิ่งที่มองว่าเป็นภัยคุกคาม ยีอานคุท-คูมักปรากฏตัวเป็น\r\nฝูงใหญ่ในฤดูอุดมสมบูรณ์ของป่าโลหิต การที่ไม่พบไข่\r\nหรือลูกอ่อนบ่งชี้ได้ว่าวัตถุประสงค์ของการรวมฝูงไม่ใช่เพื่อ\r\nสืบพันธุ์ แต่เพื่อหาคู่และหาอาหาร",
       "es-419": "Wyverns pájaro con picos imponentes\r\ny orejas enormes. Suelen ser asustadizos,\r\npero a veces atacan a la más mínima señal\r\nde amenaza.\r\nLos Yian Kut-Ku acuden en grandes bandadas\r\ndurante la estación de la abundancia en el\r\nBosque Escarlata. La ausencia de huevos o crías\r\nindica que el fin de este comportamiento no es\r\nreproductivo, sino más bien de relacionamiento\r\ny alimentación."
     },
     "tips": {
@@ -14118,6 +14230,7 @@
       "zh-Hant": "怪鳥聽覺極佳，但對聲音非常敏感，受到巨大聲響\r\n驚嚇時，有時候會暫時失去行動能力。因此可利用\r\n此特點，善加利用音爆彈來對付。但受音爆彈刺激\r\n後怪鳥會變得異常興奮，攻擊也會更激烈，因此需\r\n多加注意。",
       "zh-Hans": "怪鸟的听觉发达，但这也导致它们对声音异常敏\r\n感。一旦听到巨响，就有可能因受惊而短暂丧失\r\n行动能力。可以善加利用这一特点，使用音爆弹\r\n来对付它们。但另一方面，受音爆弹刺激后的怪\r\n鸟会进入兴奋状态，攻击更加猛烈，需要多加防\r\n范。",
       "ar": "يأتي السمع الفائق الذي تتمتع به\r\nوحوش (يان كوت-كو) مع حساسية كبيرة للصوت.\r\nأحيانًا يكون الضجيج المفاجئ هو كل ما يلزم\r\nلإيقافها في مساراتها. هذا سبب كافٍ\r\nلاستخدام القنابل الصوتية بكثرة،\r\nولكن هناك مشكلة:\r\nبمجرد أن يستعيد (يان كوت-كو) توازنه،\r\nسيندفع بجنون ويهاجم الصياد\r\nبشراسة أكبر من ذي قبل.",
+      "th": "โสตประสาทที่ยอดเยี่ยมของยีอานคุท-คูมา\r\nพร้อมกับความไวต่อเสียงเป็นพิเศษ บางครั้ง\r\nเสียงดังเพียงครั้งเดียวก็หยุดการเคลื่อนไหว\r\nของมันได้ จึงเป็นเหตุผลที่ควรนำระเบิดเสียง\r\nมาใช้ แต่ก็มีข้อเสียคือ เมื่อยีอานคุท-คูกลับ\r\nมาได้สติ มันจะเดือดดาลสุดขีดและโจมตี\r\nใส่ฮันเตอร์อย่างดุร้ายยิ่งกว่าเดิม",
       "es-419": "La increíble capacidad auditiva del Yian\r\nKut-Ku viene con una gran sensibilidad a\r\nlos sonidos. A veces, un ruido alto puede\r\nparalizarlos por completo. Por eso, el\r\nuso indiscriminado de bombas sónicas es\r\nlo ideal. Pero existe un problema: cuando\r\nun Yian Kut-Ku recobra el sentido, lo\r\nhace enloquecido, y va tras los cazadores\r\ncon mucha más agresividad que antes."
     },
     "variants": [
@@ -14137,6 +14250,7 @@
           "zh-Hant": "怪鳥（歷戰個體）",
           "zh-Hans": "怪鸟（历战个体）",
           "ar": "يان كوت-كو غاضب",
+          "th": "ยีอานคุท-คูสุดแกร่ง",
           "es-419": "Yian Kut-Ku curtido"
         }
       },
@@ -14156,6 +14270,7 @@
           "zh-Hant": "狂龍化怪鳥",
           "zh-Hans": "狂龙化怪鸟",
           "ar": "يان كوت-كو مسعور",
+          "th": "ยีอานคุท-คูบ้าคลั่ง",
           "es-419": "Yian Kut-Ku colérico"
         }
       }
@@ -14223,6 +14338,7 @@
           "zh-Hant": "僅在非憤怒狀態時有效。",
           "zh-Hans": "仅在非愤怒状态时有效。",
           "ar": "فعّال في أي حالة ماعدا حالة الغضب.",
+          "th": "ได้ผลกับทุกสถานะยกเว้นตอนโกรธจัด",
           "es-419": "Eficaz contra cualquier estado menos enfurecido."
         }
       },
@@ -14790,6 +14906,7 @@
       "zh-Hant": "沼噴龍",
       "zh-Hans": "沼喷龙",
       "ar": "رومبوبولو",
+      "th": "รอมโปโปโล",
       "es-419": "Rompopolo"
     },
     "descriptions": {
@@ -14806,6 +14923,7 @@
       "zh-Hant": "在湧油山谷盤據的獸龍種，身上帶有斑紋。能從舌\r\n尖噴射毒性瓦斯，還能從尾巴尖端往地下注入瓦斯\r\n並引發爆炸。",
       "zh-Hans": "带有斑纹的兽龙种，以涌油谷为据地。不仅能从舌\r\n尖喷射出有毒气体，还能通过尾巴末端将气体注入\r\n地下并引发爆炸。",
       "ar": "وايفرن غاشمة مرقطة تجوب حوض آبار النفط.\r\nالغاز المنبعث من ألسنتها سام،\r\nويمكن للغاز الموجود في ذيولها أن يفجر الأرض.",
+      "th": "ไวเวิร์นดุร้ายลายด่างที่ออกหากินในแอ่งบ่อน้ำมัน\r\nแก๊สจากลิ้นของมันมีพิษร้าย ส่วนแก๊สจากหาง\r\nสามารถทำให้พื้นดินระเบิดได้",
       "es-419": "Wyverns brutales moteados oriundos\r\nde la Cuenca Oleosa. El gas de la lengua\r\nes tóxico y el de la cola puede detonar la tierra."
     },
     "features": {
@@ -14822,6 +14940,7 @@
       "zh-Hant": "在湧油山谷盤據的獸龍種，身上帶有斑紋。會將尾\r\n巴插到地下注入瓦斯引發爆炸，藉此掀開地面，捕\r\n食裡面的小型生物。牠的舌頭噴射的瓦斯帶毒性，\r\n通常會先用毒削弱敵人，再以爆炸解決。具有強烈\r\n的地盤意識，甚至會與同類爭奪地盤。",
       "zh-Hans": "带有斑纹的兽龙种，以涌油谷为领地。通过尾巴\r\n将瓦斯注入地下引发爆炸，借此掀开地面并捕食\r\n被炸出的生物。其舌头释放的瓦斯带有毒性，通\r\n常会先利用毒削弱对手，再以爆炸进行致命一击。\r\n领地意识极强，甚至同类之间也会爆发争斗。",
       "ar": "وايفرن غاشمة مرقطة، تجوب حوض آبار\r\nالنفط. إنها تستخدم ذيولها لحقن الغاز في الأرض\r\nوتفجيرها، ثم تتغذى على الكائنات الصغيرة التي\r\nتخرج من باطن الأرض. يعمل الغاز السام الذي\r\nترشه من ألسنتها على إضعاف الفريسة، ومن ثم\r\nتقضي عليها بالانفجارات. إن وحوش (رومبوبولو)\r\nتدافع بقوة عن منطقة نفوذها وستشتبك بسهولة\r\nمع وحوش من نفس نوعها.",
+      "th": "ไวเวิร์นดุร้ายลายด่างที่ออกหากินในแอ่งบ่อ\r\nน้ำมัน พวกมันใช้หางฉีดแก๊สลงไปในดินเพื่อ\r\nจุดระเบิด แล้วกินสิ่งมีชีวิตขนาดเล็กที่กระเด็น\r\nขึ้นมา แก๊สที่พ่นออกจากลิ้นมีไว้เพื่อทำให้\r\nเหยื่ออ่อนแรง จากนั้นจึงจัดการกับเหยื่อด้วย\r\nระเบิด รอมโปโปโลมีนิสัยหวงถิ่นอย่างมาก\r\nและพร้อมจะต่อสู้กับพวกเดียวกันเสมอ",
       "es-419": "Wyverns moteados brutales oriundos\r\nde la Cuenca Oleosa. Usan sus colas para inyectar\r\ngas en la tierra y provocar explosiones\r\npara alimentarse de las pequeñas criaturas\r\nque salen a la superficie. El gas tóxico\r\nque expulsan con sus lenguas les permite\r\ndebilitar a las presas, las cuales acaban\r\ncon explosiones. Los Rompopolo son\r\nincreíblemente territoriales, llegando incluso\r\na enfrentarse entre sí."
     },
     "tips": {
@@ -14838,6 +14957,7 @@
       "zh-Hant": "狩獵沼噴龍需注意牠的毒和爆炸瓦斯。牠的全身\r\n各處都有稱為瓦斯囊的部位，頭部的瓦斯囊會釋\r\n出毒，尾巴的囊則會釋出爆炸瓦斯。瓦斯囊膨脹\r\n時，記得加以攻擊使其收縮。另外，牠在油泥地\r\n帶引發爆炸時，隆起的油泥可用作立足點，方便\r\n移動，有機會時可多利用。",
       "zh-Hans": "要小心其释放的毒瓦斯和爆炸瓦斯。沼喷龙全身\r\n布满了被称为瓦斯囊的部位。其中，头部的瓦斯\r\n囊可释放毒瓦斯，而尾部的则能释放爆炸瓦斯。\r\n当瓦斯囊膨胀时，应立即发动攻击以使其萎缩。\r\n另外，在油泥地形中，被爆炸瓦斯炸起的淤泥会\r\n形成便于移动的落脚点，有机会时应善加利用。",
       "ar": "يجب على الصيادين الحذر من انفجارات\r\n(رومبوبولو) السامة. يمكن العثور على أكياس الغاز\r\nفي جميع أنحاء أجسامها؛ تحتوي الأكياس الأمامية\r\nعلى السم، بينما الأكياس الخلفية مخصصة للانفجارات.\r\nإذا رأيتَ أحد الأكياس يبدأ\r\nفي الانتفاخ، عليكَ ضربه لتقليص حجمه مرة أخرى.\r\nعند القتال في طمي النفط، ستُحدث الانفجارات ركامًا\r\nيكون بمثابة موطئ قدم مستقر.",
+      "th": "ฮันเตอร์ต้องระวังระเบิดพิษของรอมโปโปโลให้ดี\r\nมันมีถุงแก๊สทั่วทั้งร่าง โดยถุงด้านหน้ามีพิษบรรจุอยู่\r\nส่วนถุงด้านหลังมีไว้สำหรับการจุดระเบิด ถ้าเห็นถุง\r\nเริ่มพองตัว ให้รีบโจมตีเพื่อให้ถุงแฟบลง เมื่อต่อสู้\r\nบนโคลนน้ำมัน แรงระเบิดจะทำให้เศษซากกระเด็น\r\nขึ้นมาซึ่งสามารถใช้เป็นจุดยืนที่มั่นคงได้",
       "es-419": "Los cazadores deben tener cuidado con las\r\nexplosiones venenosas de los Rompopolo. Sus\r\ncuerpos están cubiertos de sacos de gas. Los\r\ndelanteros contienen veneno, y los traseros,\r\nun agente explosivo. Si ves que uno comienza\r\na inflarse, atácalo para que vuelva a su\r\ntamaño normal. Al luchar en fango oleoso,\r\nlas explosiones crearán escombros que pueden\r\nservir como una superficie estable."
     },
     "variants": [
@@ -14857,6 +14977,7 @@
           "zh-Hant": "沼噴龍（歷戰個體）",
           "zh-Hans": "沼喷龙（历战个体）",
           "ar": "رومبوبولو غاضب",
+          "th": "รอมโปโปโลสุดแกร่ง",
           "es-419": "Rompopolo curtido"
         }
       }
@@ -15514,6 +15635,7 @@
       "zh-Hant": "鎖刃龍",
       "zh-Hans": "锁刃龙",
       "ar": "آركفيلد",
+      "th": "อาร์คเวลด์",
       "es-419": "Arkveld"
     },
     "descriptions": {
@@ -15530,6 +15652,7 @@
       "zh-Hant": "擁有鎖鏈形翅膀的飛龍。翅膀上的鎖刃伸縮自如，\r\n不但能橫掃獵物，還能吸收屬性能量。",
       "zh-Hans": "拥有锁链形翅膀的飞龙。两翼的锁刃伸缩自如，\r\n不仅可以横扫猎物，还能用于吸收属性能量。",
       "ar": "وايفرن ذو أجنحة تشبه السلاسل.\r\nتُستخدم الشفرات المرنة بشكل سلاسل على أجنحته\r\nلقتل الفريسة وامتصاص الطاقة العناصرية.",
+      "th": "ไวเวิร์นที่มีปีกคล้ายลูกโซ่ ปีกใบมีดลูกโซ่ที่ยืดหยุ่นนี้\r\nสามารถใช้จัดการเหยื่อและดูดซับพลังงานธาตุได้",
       "es-419": "Un wyvern con alas en forma de cadenas. Las hojas\r\nflexibles de las cadenas se emplean para rebanar\r\na sus presas y absorber energía elemental."
     },
     "features": {
@@ -15546,6 +15669,7 @@
       "zh-Hant": "據公會保存的文獻指出，這是早已滅絕的飛龍種魔\r\n物。翅膀的一部分有形狀獨特的刀刃，有如鎖鏈，\r\n能自由伸縮展開。橫掃獵物。除了能透過鎖刃吸收\r\n屬性能量，用作能量源，還能將體內的能量轉換成\r\n龍屬性並釋放。",
       "zh-Hans": "公会保存的文献指出，这种飞龙早已灭绝。翅膀\r\n的一部分有独特的刀刃，形如锁链，能够自由伸\r\n缩并横扫猎物。不仅如此，它还能通过锁刃吸收\r\n属性能量，作为自己的能源，甚至能够将吸收的\r\n能量转化为龙属性并释放出来。",
       "ar": "طبقًا للمراجع التي تركتها الرابطة خلفها،\r\nفإن هذا الوايفرن الطائر كان منقرضًا.\r\nأجنحته مزودة بنصال فريدة تشبه السلاسل\r\nيمكنها التمدد والانكماش بحرية للنيل من\r\nفريسته. يمكنه امتصاص الطاقة العناصرية\r\nمن خلال هذه النصال المتسلسلة ليتغذى عليه،\r\nويمكنه تحويل الطاقة لإطلاق هجمات تنين.",
+      "th": "ไวเวิร์นบินได้ที่เคยเข้าใจว่าสูญพันธุ์ไปแล้ว\r\nตามข้อมูลในเอกสารที่กิลด์ทิ้งไว้ ปีกของมันมี\r\nใบมีดพิเศษที่เหมือนกับลูกโซ่ซึ่งสามารถหด\r\nและยืดออกได้อย่างอิสระเพื่อจัดการกับเหยื่อ\r\nพวกมันกินพลังงานธาตุที่ดูดซับผ่านใบมีดลูกโซ่\r\nและสามารถแปลงพลังงานเป็นพลังธาตุมังกร",
       "es-419": "Según la información recopilada por el gremio,\r\nestos wyverns voladores habían sido declarados\r\nextintos. Sus alas tienen una hoja única,\r\nsimilar a una cadena, que se extiende y retrae\r\ncon libertad para acabar con sus presas.\r\nConsumen la energía elemental que absorben\r\na través de esta hoja cadena y pueden\r\ntransformarla para lanzar ataques de draco."
     },
     "tips": {
@@ -15562,6 +15686,7 @@
       "zh-Hant": "鎖刃龍吸收的能量越多，各種攻擊會變得越猛烈。\r\n能量充裕時，鎖刃會朝左右展開，擴大攻擊範圍。\r\n另外，只要把攻擊集中在會吸收能量的鎖刃，有時\r\n候能造成能量洩漏。只要利用這一特點不斷施加屬\r\n性攻擊，使屬性能量溢出，也許就能解除牠的強化\r\n狀態。",
       "zh-Hans": "锁刃龙吸收的能量越多，攻击也会变得更加凶猛。\r\n能量充沛时，它的锁刃会左右展开，攻击范围随\r\n之扩大。然而，它翅膀上的刀刃也用于吸收能量，\r\n只要集中攻击，就可能导致能量外泄。利用这一\r\n点，不断施加属性攻击，使属性能量溢出，就有\r\n机会解除它的强化状态。",
       "ar": "كلما ازدادت كمية الطاقة التي تمتصها هذه الوحوش،\r\nازدادت شراسة هجماتها. عندما تمتلئ خزانات طاقتها،\r\nستتمدد النصال السلاسل لمهاجمة منطقة أوسع.\r\nعلى النقيض، بما أن أجنحتها تحوي أعضاء لامتصاص الطاقة،\r\nيمكن للصياد دفع الطاقة إلى التسرب\r\nعن طريق تركيز الهجمات عليها.\r\nإغراق الأعضاء بهجمات عناصرية مستمرة سيرهقها في النهاية،\r\nما يجبر الوحوش على الخروج من حالتها المُحسنة.",
+      "th": "ยิ่งมอนสเตอร์ตัวนี้ดูดซับพลังงานมากเท่าไร การโจมตี\r\nของมันก็จะยิ่งรุนแรงขึ้นเท่านั้น เมื่อมันเติมพลังงานจน\r\nเต็ม ใบมีดลูกโซ่จะกางออกเพื่อโจมตีในรัศมีที่กว้าง\r\nกว่าเดิม ในทางกลับกัน เนื่องจากปีกของมันมีอวัยวะที่\r\nดูดซับพลังงานได้ ฮันเตอร์สามารถทำให้พลังงานที่มัน\r\nกักเก็บไว้รั่วไหลออกมาด้วยการโจมตีที่ปีก การใช้ธาตุ\r\nโจมตีจุดนี้อย่างต่อเนื่องจะทำพลังงานเอ่อล้น จนมัน\r\nหลุดจากสภาวะเสริมพลังได้",
       "es-419": "Cuanta más energía absorba, más feroz se\r\nvolverá. Una vez llenos sus tanques de\r\nenergía, sacará su hoja cadena para atacar\r\nuna zona incluso mayor. Por otra parte, sus\r\nalas poseen órganos que absorben energía, y\r\nun cazador puede hacer salir la energía si\r\nconcentra los ataques allí. Al hacer un\r\nataque elemental tras otro, los órganos se\r\nsobrecargarán, y el monstruo se verá\r\nobligado a salir de su estado mejorado."
     },
     "variants": [
@@ -15581,6 +15706,7 @@
           "zh-Hant": "鎖刃龍（歷戰個體）",
           "zh-Hans": "锁刃龙（历战个体）",
           "ar": "آركفيلد غاضب",
+          "th": "อาร์คเวลด์สุดแกร่ง",
           "es-419": "Arkveld curtido"
         }
       }
@@ -16137,6 +16263,7 @@
       "zh-Hant": "赫猿獸",
       "zh-Hans": "赫猿兽",
       "ar": "أجاراكان",
+      "th": "อาจาราคาน",
       "es-419": "Ajarakan"
     },
     "descriptions": {
@@ -16153,6 +16280,7 @@
       "zh-Hant": "牙獸種，會摩擦身體上附著的金屬產生高溫並引發\r\n爆炸。在奔火節期間，可目擊到牠們成群結隊行動\r\n的樣子。",
       "zh-Hans": "牙兽种。会摩擦身上附着的金属，产生高温并引发\r\n爆炸。在奔火祭典时期，经常可以目击到数头赫猿\r\n兽一起行动。",
       "ar": "وحوش ذات أنياب تُلصق المعدن بأجسامها\r\nوتستخدم الاحتكاك لرفع حرارتها وإحداث انفجارات.\r\nإنها تتحرك في مجموعات أثناء ينبوع النيران.",
+      "th": "สัตว์เขี้ยวแหลมที่มีโลหะติดอยู่กับร่างกาย\r\nและใช้การถูตัวเองเพื่อสร้างความร้อนและระเบิด\r\nพวกมันเคลื่อนที่เป็นฝูงในช่วงเพลิงปะทุ",
       "es-419": "Bestias que adhieren metal a sus cuerpos y usan\r\nla fricción para calentarse y generar explosiones.\r\nSe mueven en grupo durante el brote ígneo."
     },
     "features": {
@@ -16169,6 +16297,7 @@
       "zh-Hant": "赫猿獸的特徵是包覆著背部的發達甲殼。牠會將熔\r\n化的金屬附著在身上，再不斷磨擦來蓄積熱量並引\r\n發爆炸。牠的身體處於高溫狀態時，甚至可以融化\r\n接觸到的地面和子彈。根據推測，這種高溫可能由\r\n金屬摩擦引起。牠們手臂發達，可以在高處攀爬，\r\n因此狩獵時也需注意上方。",
       "zh-Hans": "赫猿兽的特征是其背部覆盖着发达的甲壳。它会\r\n将融化的金属附着在体表，通过连续摩擦积蓄热\r\n能，引发爆炸。在高温状态下，甚至能够熔化地\r\n面和子弹。据推测，正是赫猿兽甲壳上的金属成\r\n分，才使其能在摩擦时积蓄如此之高的热能。其\r\n手臂也极为强壮，能够攀附高处进行立体式移动，\r\n因此在狩猎时务必警惕上方。",
       "ar": "يتميز (أجاراكان) بأصداف متطورة للغاية،\r\nحيث يلف نفسه في معدن منصهر، ثم يفركه\r\nمعًا لتسخينه وإحداث انفجارات. ومن المحتمل\r\nأن تصل حرارته إلى مستويات عالية نتيجة\r\nاحتكاك المعدن، مما يسمح له بإذابة الأرض\r\nأو حتى الرصاص. كما يمكنه استخدام أطرافه\r\nالقوية للتشبث بالسقف والتحرك بحرية،\r\nلذا يجب على الصياد الحذر من جميع الزوايا،\r\nبما في ذلك الأعلى.",
+      "th": "อาจาราคานมีจุดเด่นอยู่ที่เปลือกแข็งที่แข็งแกร่ง\r\nมันห่อหุ้มตัวเองด้วยโลหะหลอมเหลวที่มันถู\r\nเข้าหากันเพื่อสร้างความร้อนและก่อระเบิด ด้วย\r\nโลหะที่เสียดสีกันนี้เอง มันสามารถสร้างความ\r\nร้อนที่มีอุณหภูมิสูงมากพอที่จะทำให้พื้นดิน\r\nหรือกระสุนละลายได้ พวกมันยังสามารถใช้\r\nแขนขาที่แข็งแรงเกาะเพดานและเคลื่อนไหว\r\nอย่างอิสระได้อีกด้วย ฮันเตอร์จึงต้องระวังการ\r\nโจมตีทุกทิศทาง รวมถึงจากด้านบน",
       "es-419": "Los Ajarakan se caracterizan por sus caparazones\r\naltamente desarrollados. Se envuelven en\r\nmetal fundido, el cual frotan para calentar\r\ny crear explosiones. Quizás debido\r\na la fricción del metal, pueden alcanzar\r\ntemperaturas tan altas como para derretir\r\nel suelo o las balas. También usan sus fuertes\r\nextremidades para agarrarse del techo\r\ny moverse libremente, por lo que un cazador\r\ndebe vigilar desde todos los ángulos."
     },
     "tips": {
@@ -16185,6 +16314,7 @@
       "zh-Hant": "靠近處於高溫狀態的赫猿獸時，就會流失體力，此\r\n時記得使用冷飲或冰冷蓑衣蟲。要特別注意牠的肩\r\n部甲殼溫度相當高，一般子彈或箭矢命中時會直接\r\n熔化，因此需使用耐高溫的裝備，或者先射出幾發\r\n水球苔降低牠身體表面的溫度，才能用一般子彈和\r\n箭矢攻擊。另外，牠在不斷摩擦身體後會進入高溫\r\n狀態，但同時身體表面也會軟化。",
       "zh-Hans": "仅仅是靠近高温状态下的赫猿兽，都会造成体力\r\n下降，使用冷饮或冰冷蓑衣虫可以有效缓解这一\r\n问题。需特别注意它温度奇高的肩部甲壳，普通\r\n的弹药和箭矢射到上面会直接熔化。因此，需要\r\n使用耐高温的攻击方式。也可以先用水球苔打上\r\n几发让它体表温度下降，这样普通的弹药和箭矢\r\n就会生效。此外，虽然连续摩擦身体能让赫猿兽\r\n进入高温状态，但同时也会软化它的体表，提供\r\n攻击的机会。",
       "ar": "إن الاقتراب من حرارة (أجاراكان) الشديدة سيستنزف\r\nصحتكَ، لذا استخدم المشروبات\r\nالباردة وحشرات عباءة البرودة.\r\nستذوب الذخيرة العادية والسهام\r\nإذا حاولتَ اختراق هيكله المنصهر،\r\nلذا يجب عليكَ استخدام معدات مقاومة للحرارة\r\nأو إصابته بطحلب الماء لخفض درجة حرارته أولًا.\r\nسيؤدي الاحتكاك المستمر إلى ارتفاع درجة حرارة\r\nجسمه، ولكنه سيُليِّن صدفته الخارجية.",
+      "th": "ผู้ใดที่เข้าใกล้อาจาราคานจะสูญเสียพลังชีวิตลง\r\nเรื่อยๆ จากความร้อนที่รุนแรง จึงควรใช้เครื่องดื่ม\r\nเย็นหรือแมลงเปลือกน้ำแข็งเพื่อบรรเทาความร้อน\r\nกระสุนธรรมดาและลูกธนูจะละลายหากยิงใส่เปลือก\r\nแข็งที่ร้อนระอุของมัน คุณจึงต้องใช้อุปกรณ์ทน\r\nความร้อนหรือยิงมอสส์น้ำใส่เพื่อให้เย็นลงก่อน\r\nการที่มันถูตัวอย่างต่อเนื่องจะทำให้อุณหภูมิร่างกาย\r\nของมันสูงขึ้น ขณะเดียวกันก็ทำให้เปลือกด้านนอก\r\nอ่อนตัวลงด้วย",
       "es-419": "El calor extremo de un Ajarakan te restará\r\nsalud, así que usa bebidas frías o bichos\r\nescarchados. La munición normal y las\r\nflechas se derretirán si intentas atravesar\r\nsus caparazones fundidos, así que debes\r\nusar equipo resistente al calor o golpearles\r\nprimero con acuamusgo para bajar\r\nsu temperatura. La fricción continua hará\r\nque su temperatura corporal aumente,\r\npero ablandará sus corazas exteriores."
     },
     "variants": [
@@ -16204,6 +16334,7 @@
           "zh-Hant": "赫猿獸（歷戰個體）",
           "zh-Hans": "赫猿兽（历战个体）",
           "ar": "أجاراكان غاضب",
+          "th": "อาจาราคานสุดแกร่ง",
           "es-419": "Ajarakan curtido"
         }
       }
@@ -16937,6 +17068,7 @@
       "zh-Hant": "毒怪鳥",
       "zh-Hans": "毒怪鸟",
       "ar": "جيبسيروس",
+      "th": "จิปเซรอส",
       "es-419": "Gypceros"
     },
     "descriptions": {
@@ -16953,6 +17085,7 @@
       "zh-Hant": "毒怪鳥的特徵是其頭冠。牠們會敲打頭冠發出\r\n閃光，剝奪外敵的視野，並吐出毒液加以削弱。",
       "zh-Hans": "头冠极具特点的怪物。能通过敲打头冠释放闪光，\r\n使外敌目眩，并吐出毒液加以削弱。",
       "ar": "وحوش تستخدم عُرفها البارز لصعق الأعداء\r\nبومضات ضوئية تسبب الدوار\r\nقبل القضاء عليها باللعاب السام.",
+      "th": "มอนสเตอร์ที่ใช้หงอนอันเด่นชัดในการส่องแสงจ้าเพื่อ\r\nสตันศัตรูให้มึนงง ก่อนที่จะปลิดชีพด้วยน้ำลายพิษ",
       "es-419": "Monstruos que emplean sus abultadas crestas\r\npara aturdir a sus enemigos con destellos\r\nde luz y rematarlos con saliva venenosa."
     },
     "features": {
@@ -16963,12 +17096,13 @@
       "de": "Wyvern, die Feinde betäuben können, indem sie\r\nihre auffälligen Kämme aneinanderschlagen, um\r\nstarke Lichtblitze zu erzeugen. Ihre gummiartige\r\nHaut widersteht stumpfen Einschlägen und ver-\r\nringert die Wirksamkeit von Schockfallen. Kluge\r\nJäger wissen, wie sie ihren giftigen Speichel um-\r\ngehen, der von Decken und Abhängen tropft.",
       "es": "Wyverns capaces de aturdir a sus enemigos\r\nal golpear sus prominentes crestas para generar\r\ndestellos luminosos. Su piel elástica y gomosa\r\nresiste los impactos contundentes y reduce la\r\nefectividad de las trampas eléctricas. Los\r\nbuenos cazadores saben esquivar su saliva\r\nvenenosa, que puede gotear desde el techo\r\no desde las laderas.",
       "ru": "Виверны, которые используют свой\r\nвыдающийся гребень, чтобы ошеломлять\r\nжертв вспышками света. Их эластичная\r\nшкура хорошо защищает от ударного\r\nоружия и снижает эффективность шоковых\r\nловушек. Охотнику следует избегать их\r\nядовитой слюны, которая может капать\r\nсверху или стекать по склонам.",
-      "pl": "Wiwerny, które uderzając w swoje wydatne\r\ngrzebienie, generują potężne błyski światła\r\ni ogłuszają wrogów. Ich rozciągliwa,\r\ngumowata skóra jest odporna na tępe\r\nuderzenia i zmniejsza skuteczność\r\npułapek rażących. Sprytny łowca wie,\r\njak ostrożnie obchodzić się z ich trującą\r\nśliną, która kapie z sufitów\r\nlub spływa po zboczach.",
+      "pl": "Wiwerny, które uderzając w swoje wydatne\r\ngrzebienie, generują potężne błyski światła\r\ni ogłuszają wrogów. Ich rozciągliwa,\r\ngumowata skóra jest odporna na tępe\r\nuderzenia i zmniejsza skuteczność pułapek\r\nrażących. Sprytny łowca wie, jak ostrożnie\r\nobchodzić się z ich trującą śliną, która\r\nkapie z sufitów lub spływa po zboczach.",
       "pt-BR": "Serpes capazes de atordoar inimigos ao usar\r\nsuas cristas proeminentes para gerar poderosos\r\nclarões. Seu couro elástico e emborrachado é\r\nresistente contra impactos bruscos e menos\r\nsuscetível a armadilhas de choque. Um caçador\r\nesperto sabe que deve desviar com cuidado de\r\nsua sujeira venenosa, que goteja de tetos ou\r\nescorre em inclinações.",
       "ko": "머리에 달린 볏이 특징인 몬스터.\r\n볏을 맞부딪쳐 강력한 섬광을 발산해\r\n적을 눈 부시게 한다. 고무 질감 비슷한\r\n피부는 신축성이 있어 타격에 강하고\r\n마비덫에 대한 내성도 있다.\r\n독성을 지닌 오물을 주위에 내뿜기 때문에\r\n오물이 흐르기 쉬운 천장이나 경사면에서는\r\n특히 조심히 움직여야 한다.",
       "zh-Hant": "毒怪鳥的特徵是頭冠。牠們會敲打頭冠發出閃光，\r\n剝奪外敵的視野。另外，牠們的皮膚伸縮性強，質\r\n感類似橡膠，能對抗打擊，對麻痺陷阱也具抗性。\r\n牠們會向四周吐出有毒污物，污物附在高處或傾斜\r\n面等容易流動的地形時，就要注意立足點。",
       "zh-Hans": "毒怪鸟拥有独特的头冠，它们会敲击头冠释放闪\r\n光，使外敌短暂目眩。其皮肤如橡胶般富有弹性，\r\n耐打击性强，并且对麻痹陷阱有一定的耐性。此\r\n外，毒怪鸟还会向四周喷吐有毒污物。污物附着\r\n在高处或斜坡等易流动的地方时，需格外注意走\r\n位。",
       "ar": "الـ وايفرن يمكنها صعق الأعداء من خلال\r\nضرب أعرافها البارزة لإنتاج ومضات ضوئية\r\nقوية. يقاوم جلدها المطاطي القابل للتمدد الضربات\r\nالخشنة ويقلل من فاعلية فخاخ الصدمة.\r\nيعرف الصياد الذكي كيفية المناورة بحذر حول\r\nالقذارة السامة التي ينفثونها، والتي يمكنها أن\r\nتتساقط من الأسقف أو تتدفق إلى أسفل المنحدرات.",
+      "th": "ไวเวิร์นที่สามารถสตันศัตรูได้ด้วยการกระแทก\r\nหงอนขนาดใหญ่เข้าหากันเพื่อสร้างแสงจ้าอย่าง\r\nรุนแรง ร่างกายของมันปกคลุมด้วยหนังยางยืดที่\r\nมีลักษณะยืดหยุ่น ซึ่งต้านทานต่อการโจมตีแบบ\r\nกระแทก และลดทอนประสิทธิภาพของกับดักไฟฟ้า\r\nฮันเตอร์ที่ฉลาดจะรู้ว่าต้องเคลื่อนไหวหลบของ\r\nเสียพิษที่มันพ่นออกมาอย่างระวัง เนื่องจากพิษ\r\nนั้นสามารถหยดลงมาจากเพดานหรือไหลลงมา\r\nตามพื้นที่ลาดได้ทุกเมื่อ",
       "es-419": "Wyverns que aturden a sus enemigos mediante\r\ndestellos luminosos generados al golpear\r\nsus prominentes crestas. Su elástica y gomosa\r\npiel resiste impactos contundentes y reduce\r\nla efectividad de las trampas eléctricas.\r\nUn cazador inteligente sabe cómo evadir\r\nsu saliva venenosa, que puede gotear desde\r\nlos techos o bajar por las pendientes."
     },
     "tips": {
@@ -16985,6 +17119,7 @@
       "zh-Hant": "對付毒怪鳥需特別留意兩點：毒和閃光。毒會殘留\r\n在地面上防礙行動，但用水球苔就可以清除。若能\r\n破壞牠的頭冠，則能阻止牠發出閃光。破壞頭冠前\r\n也可以躲在陰影，所以不妨利用頭冠的光來判斷牠\r\n是否馬上要發出閃光。若能看見光，便代表目前身\r\n在閃光範圍內，相當危險。",
       "zh-Hans": "对付毒怪鸟时需特别注意两点：毒和闪光。毒会\r\n残留在地表，干扰走位，利用水球苔可使其无效。\r\n头冠会释放闪光，可利用地形阴影躲避。作为预\r\n兆，可以观察头冠的光来判断是否即将释放闪光。\r\n能看到光时，就意味着自己处于闪光的范围内，\r\n十分危险。破坏头冠后，即可阻止它释放闪光。",
       "ar": "في مواجهة (جيبسيروس)،\r\nتقابل الصياد مشكلتان يجب التعامل معهما:\r\nالسم والومضات. سيتجمع السم ويعيق حركاتكَ،\r\nلكن يمكنكَ التخلص منه\r\nباستخدام بعض الطحالب المائية.\r\nبالنسبة إلى الومضات، سيؤدي تدمير عُرف (جيبسيروس)\r\nإلى إيقافها؛ في هذه الأثناء، يكون الاحتماء فكرة جيدة.\r\nإذا كان بإمكانكَ رؤية عُرفه يتوهج قبل الهجوم،\r\nفهذا يعني أنكَ ما زلتَ داخل نطاق الوميض\r\nوفي خطر.",
+      "th": "เมื่อเผชิญหน้ากับจิปเซรอส ฮันเตอร์จะต้อง\r\nรับมือกับปัญหาที่น่าปวดหัวสองอย่าง นั่นคือ\r\nพิษกับแสงจ้า โดยพิษจะกองสะสมและทำให้\r\nเคลื่อนไหวลำบาก แต่คุณสามารถใช้มอสส์น้ำ\r\nเพื่อชะล้างพิษได้ ส่วนแสงจ้านั้นสามารถหยุด\r\nได้โดยการทำลายหงอนของมัน แต่ในระหว่าง\r\nนั้น คุณควรมองหาที่กำบังไว้ หากเห็นหงอน\r\nของมันเรืองแสงก่อนการโจมตี แสดงว่าคุณยัง\r\nอยู่ในรัศมีอันตรายของแสงจ้า",
       "es-419": "Al enfrentarse a un Gypceros, el cazador\r\ntiene dos problemas a los que hacer frente:\r\nel veneno y los destellos. El veneno\r\nentorpece el movimiento, pero no es nada que\r\nno pueda resolver el acuamusgo. En cuanto a\r\nlos destellos, basta con destruir la cresta,\r\npero mientras tanto será mejor refugiarse.\r\nSi ves brillar la cresta antes de atacar,\r\nsignifica que sigues dentro del radio de\r\nacción del peligro."
     },
     "variants": [
@@ -17004,6 +17139,7 @@
           "zh-Hant": "毒怪鳥（歷戰個體）",
           "zh-Hans": "毒怪鸟（历战个体）",
           "ar": "جيبسيروس غاضب",
+          "th": "จิปเซรอสสุดแกร่ง",
           "es-419": "Gypceros curtido"
         }
       },
@@ -17023,6 +17159,7 @@
           "zh-Hant": "狂龍化毒怪鳥",
           "zh-Hans": "狂龙化毒怪鸟",
           "ar": "جيبسيروس مسعور",
+          "th": "จิปเซรอสบ้าคลั่ง",
           "es-419": "Gypceros colérico"
         }
       }
@@ -17633,6 +17770,7 @@
       "zh-Hant": "暗器鱆",
       "zh-Hans": "暗器蛸",
       "ar": "شو وو",
+      "th": "ซือวู",
       "es-419": "Xu Wu"
     },
     "descriptions": {
@@ -17649,6 +17787,7 @@
       "zh-Hant": "盤據在龍都遺跡的頭足種，會捕食護龍。有時候\r\n會和護龍互相打鬥。",
       "zh-Hans": "盘踞在龙都遗迹的头足种。以捕食护龙为生，因\r\n此会与护龙发生争斗。",
       "ar": "رأسيات أرجل تهيم في أطلال وايفيريا\r\nوتفترس الوحوش الحارسة. وهذا غالبًا ما يقود\r\nإلى صراع بين هذين النوعين من الوحوش.",
+      "th": "เซฟาโลพอดที่อาศัยอยู่ในซากนครไววีเรียและล่าการ์เดียน\r\nเป็นเหยื่อ ซึ่งมักนำไปสู่การปะทะกันของมอนสเตอร์สองตัว",
       "es-419": "Cefalópodos que deambulan por las Ruinas\r\nde Wyveria y cazan Guardianes. Esto suele\r\nocasionar conflictos entre ambos monstruos."
     },
     "features": {
@@ -17665,6 +17804,7 @@
       "zh-Hant": "捕食對象包括大型護龍的頭足種。從觸手分泌的黏\r\n液會在短時間內硬化，形成銳利的形狀，讓人聯想\r\n到刀和槍，因此有了「暗器鱆」的名字。身體內側\r\n藏有捕食口，即便是大型獵物也能大快朵頤。",
       "zh-Hans": "会捕食大型护龙的头足种。触手分泌的粘液能在\r\n短时间内硬化，形成锐利的形状，看上去就像是\r\n刀和矛，所以人们将其命名为暗器蛸。其身体内\r\n侧隐藏着捕食口器，即使是大型猎物也可以轻松\r\n吞下。",
       "ar": "مفترسات رأسية الأرجل تتضمن فرائسها الوحوش\r\nالحارسة. المخاط المخفي في مجساتها يجف بسرعة\r\nمتحولًا إلى حواف حادة تمثل نصالًا أو رماحًا،\r\nوهذا السبب الذي من أجله يسمي البعض وحش\r\n(شو وو) بـ\"القاتل المخترق\". الفم الكبير المخفي\r\nفي الجانب السفلي منها يسمح لها بابتلاع فرائس\r\nكبيرة نسبيًا.",
+      "th": "เซฟาโลพอดผู้ล่าที่มีมอนสเตอร์การ์เดียนเป็นหนึ่ง\r\nในเหยื่อ เมือกที่หลั่งออกมาจากหนวดจะแข็งตัว\r\nอย่างรวดเร็ว กลายเป็นคมแหลมคล้ายกับดาบหรือ\r\nหอก ทำให้ซือวูได้รับฉายาว่า \"นักฆ่าทะลวง\" ปาก\r\nขนาดใหญ่ที่ซ่อนอยู่ด้านล่างทำให้มันเขมือบเหยื่อ\r\nขนาดใหญ่ได้",
       "es-419": "Depredadores cefalópodos cuyas presas\r\nincluyen Guardianes.\r\nLa mucosidad que segregan sus tentáculos\r\nse endurece rápidamente para formar objetos\r\nfilosos que se asemejan a espadas o lanzas,\r\ny por eso se conoce a los Xu Wu como\r\n\"los asesinos desgarradores\".\r\nLa gran boca oculta en su parte inferior\r\nles permite devorar presas incluso más grandes."
     },
     "tips": {
@@ -17681,6 +17821,7 @@
       "zh-Hant": "暗器鱆有捕食護龍的特性，因此可預期牠會與棲息\r\n地中的護龍魔物爭鬥。牠沒有眼睛，但其他感覺器\r\n官相對更加發達，很擅長從獵物的死角發動攻擊。\r\n有時候會鑽進細小縫隙，也會像在地面爬行般快速\r\n移動。牠張開嘴巴施展的攻擊雖然非常危險，但此\r\n時只要重創牠就能使牠倒地。",
       "zh-Hans": "由于其捕食护龙的特性，可预期它会与出现在其\r\n栖息地的护龙发生争斗。虽然没有眼睛，但其他\r\n感知器官都很发达，擅长从猎物的视觉死角发动\r\n奇袭。此外，它似乎能够潜入细小的缝隙，以及\r\n紧贴地面急速移动。露出整个口器发动的攻击极\r\n为危险，但只要抓住时机对其造成重创，就可以\r\n使它倒地。",
       "ar": "بسبب طبيعة وحوش (شو وو) المحبة للافتراس،\r\nيمكن توقع مهاجمتها للوحوش الحارسة في مواطنها.\r\nليست لها عيون، لكنّ أعضاءها الأخرى متطورة\r\nوتتفوق في مهاجمة الفرائس على حين غرة.\r\nخاصةً بقدرتها على دخول شقوق صغيرة\r\nوالزحف داخلها عبر الأرض بسرعة.\r\nعندما يكشف أحدها عن فمه،\r\nفهذا يعني أن هجومًا مميتًا\r\nيوشك أن يقع، لكن بضربة قوية\r\nيمكنكَ إسقاط هذا المخلوق. ",
+      "th": "ซือวูมีสัญชาตญาณของนักล่า มันจะโจมตีการ์เดียน\r\nที่เข้ามารุกรานถิ่นอาศัย แม้ไม่มีดวงตาแต่ประสาท\r\nสัมผัสส่วนอื่นของมันเฉียบคม ทำให้มันเชี่ยวชาญ\r\nด้านการลอบโจมตีเหยื่อแบบไม่ทันตั้งตัว โดยเฉพาะ\r\nความสามารถในการแทรกตัวเข้าช่องแคบๆ และคลาน\r\nได้อย่างรวดเร็วไปทั่วพื้นดิน เมื่อมันอ้าปากแสดงว่า\r\nมันกำลังจะใช้ท่าโจมตีที่ร้ายแรง แต่หากคุณโจมตี\r\nสวนกลับอย่างรุนแรง ก็อาจทำให้มันล้มลงได้ ",
       "es-419": "Por su naturaleza depredadora, se espera que\r\nXu Wu ataque a los Guardianes en su hábitat.\r\nNo tiene ojos, pero el resto de sus sentidos\r\nestán desarrollados, y se destaca por atrapar\r\na sus presas desprevenidas, sobre todo por su\r\ncapacidad de entrar en lugares pequeños y\r\narrastrarse rápidamente por el suelo. Cuando\r\nla boca queda expuesta, significa que lanzará\r\nun ataque letal, pero, con un fuerte golpe,\r\nquizás se pueda derribar."
     },
     "variants": [
@@ -17700,6 +17841,7 @@
           "zh-Hant": "暗器鱆（歷戰個體）",
           "zh-Hans": "暗器蛸（历战个体）",
           "ar": "شو وو غاضب",
+          "th": "ซือวูสุดแกร่ง",
           "es-419": "Xu Wu curtido"
         }
       }
@@ -18466,6 +18608,7 @@
       "zh-Hant": "護火龍",
       "zh-Hans": "护火龙",
       "ar": "راثالوس حارس",
+      "th": "การ์เดียนราธาลอส",
       "es-419": "Rathalos Guardián"
     },
     "descriptions": {
@@ -18482,6 +18625,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有火龍之力。\r\n利爪攻擊時會釋放能量，非常強力。",
       "zh-Hans": "古代文明创造出的造龙种，带有火龙之力。\r\n其利爪攻击时会释放能量，十分强悍。",
       "ar": "سلالة اصطناعية خلّقتها حضارة قديمة\r\nباستخدام قوة راثالوس. انتبه للطاقة\r\nالمنبعثة من هجمات مخالبها القوية.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้นโดยอาศัย\r\nพลังของราธาลอส จงระวังพลังงานที่ปลดปล่อยออก\r\nมาจากการโจมตีด้วยกรงเล็บอันทรงพลังของมัน",
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con el poder de un Rathalos.\r\nCuidado con la energía de sus ataques con garras."
     },
     "features": {
@@ -18498,6 +18642,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶著火龍之力。不具有生\r\n殖功能，也不會捕食，但靠攝取龍乳來獲取能量。\r\n具有與原種同樣的優異飛行能力，從空中施展的利\r\n爪攻擊比原種更加強勁。",
       "zh-Hans": "古代文明创造出的造龙种，带有火龙之力。既没\r\n有生殖能力，也不会捕食，而是直接摄取龙乳作\r\n为能量来源。具有与原种同等优秀的飞行能力，\r\n从空中发起的利爪攻击比原种更为猛烈。",
       "ar": "سلالة وحوش اصطناعية خلّقتها حضارة\r\nقديمة مشبعة بقوة (راثالوس). لا يمكن لوحوش\r\n(راثالوس) الحارسة التكاثر ولا حاجة\r\nلها بتناول الطعام وتعتمد بدلًا من ذلك\r\nعلى حليب وايفرن للحصول على الطاقة.\r\nومثل وحوش (راثالوس) الأصلية تمامًا،\r\nفهي وحوش محلِّقة متفوقة وستهاجم\r\nبعنف أكبر بمخالبها أثناء تحليقها عاليًا.",
+      "th": "การ์เดียนราธาลอสคือมอนสเตอร์เทียมที่\r\nอารยธรรมโบราณสร้างขึ้นและผสานด้วยพลัง\r\nของราธาลอส มันไม่สามารถสืบพันธุ์ได้และ\r\nไม่ต้องกินอาหาร เพราะใช้ไวเวิร์นมิลค์เป็น\r\nแหล่งพลังงานแทน การ์เดียนราธาลอสเป็น\r\nมอนสเตอร์บินได้ที่เหนือชั้นและใช้กรงเล็บ\r\nโจมตีได้อย่างดุร้ายยิ่งขึ้นเมื่ออยู่กลางอากาศ\r\nเช่นเดียวกับราธาลอสดั้งเดิม",
       "es-419": "Monstruos artificiales creados por una antigua\r\ncivilización e imbuidos con el poder del\r\nRathalos.\r\nNo pueden reproducirse, no necesitan comer\r\ny se energizan con leche de wyvern.\r\nAl igual que el Rathalos original, su vuelo\r\nes magistral, y atacarán con mayor violencia\r\ncon sus garras al estar volando."
     },
     "tips": {
@@ -18514,6 +18659,7 @@
       "zh-Hant": "利爪攻擊帶有護龍特有的能量並會引發爆炸，非常\r\n危險。此外，釋放的能量接觸到滲出地面的龍乳時\r\n會形成結晶。此時如果護火龍的火球等火屬性攻擊\r\n擊中結晶，就會產生同屬性的爆炸，要多加小心。\r\n牠的攻擊形成的結晶會對屬性攻擊起反應並爆炸，\r\n因此屬性投射器彈等攻擊手段也很有效。",
       "zh-Hans": "护火龙的利爪攻击带有护龙特有的能量，能引发\r\n爆炸，非常危险。而且，释放出的能量一旦接触\r\n到渗出地面的龙乳，就会形成结晶。如果火球等\r\n火属性攻击命中这些结晶，会引发同属性的爆炸，\r\n因此需要多加小心。它攻击形成的结晶也会对属\r\n性攻击起反应并爆炸，因此属性投射器弹药等攻\r\n击手段也会非常有效。",
       "ar": "طاقة الوحوش الحارسة الفريدة المنبعثة\r\nمن هجمات مخالب وحش راثالوس حارس\r\nمتفجرة وخطيرة. هذه الطاقة ستتسبب\r\nفي تبلور حليب وايفرن\r\nعلى الأرض، وإذا تعرضت هذه البلورات\r\nلهجوم النار من الوحش،\r\nفستتسبب بانفجار للعنصر نفسه.\r\nونظرًا لأنها تتحفز بالتدخل العناصري،\r\nيمكن استخدام ذخيرة نبلة المعصم بفاعلية ضدها.",
+      "th": "พลังงานการ์เดียนเฉพาะตัวจากการโจมตีด้วย\r\nกรงเล็บของการ์เดียนราธาลอสมีความรุนแรงและ\r\nอันตราย พลังงานนี้สามารถทำให้ไวเวิร์นมิลค์บน\r\nพื้นจับตัวกันเป็นคริสตัล และหากคริสตัลเหล่านี้\r\nถูกโจมตีด้วยไฟจากมอนสเตอร์ ก็จะระเบิดเป็น\r\nธาตุนั้นออกมาด้วย เนื่องจากคริสตัลนี้ถูกกระตุ้น\r\nด้วยธาตุ กระสุนสลิงเกอร์จึงสามารถใช้ได้อย่าง\r\nมีประสิทธิภาพ",
       "es-419": "La energía única de Guardián de los\r\nataques con garra del Rathalos Guardián es\r\nexplosiva y peligrosa. Esta energía\r\ncristaliza la leche de wyvern en el suelo\r\ny, si el fuego impacta estos cristales, se\r\nproducirá una energía del mismo elemento.\r\nDado que se encienden con interferencia\r\nelemental, la munición de eslinga se puede\r\nusar eficazmente contra ellos."
     },
     "variants": [
@@ -18533,6 +18679,7 @@
           "zh-Hant": "護火龍（歷戰個體）",
           "zh-Hans": "护火龙（历战个体）",
           "ar": "راثالوس حارس غاضب",
+          "th": "การ์เดียนราธาลอสสุดแกร่ง",
           "es-419": "Rathalos Guardián curtido"
         }
       }
@@ -19259,6 +19406,7 @@
       "zh-Hant": "波衣龍",
       "zh-Hans": "波衣龙",
       "ar": "أوث دونا",
+      "th": "อุธ ดูนา",
       "es-419": "Uth Duna"
     },
     "descriptions": {
@@ -19275,6 +19423,7 @@
       "zh-Hant": "君臨緋紅森林生態系頂點的海龍種。能將水分變成\r\n液膜來保護自身，並以強力的一擊引發波浪衝走\r\n敵人。",
       "zh-Hans": "君临绯红森林的海龙种。能将水分变成面纱状以保\r\n护自身，并以重重一击掀起波浪冲走敌人。",
       "ar": "وحش (ليفياثان) الذي يهيمن على النظام البيئي\r\nللغابة القرمزية. يمكن لوشاحه الواقي أيضًا\r\nأن يولِّد موجة لإبقاء الأعداء بعيدًا.",
+      "th": "เลวีอาธานที่ครองจุดสูงสุดเหนือระบบนิเวศในป่าโลหิต\r\nม่านคุ้มครองของมันสามารถสร้างคลื่นเพื่อผลักศัตรู\r\nให้ออกห่างได้",
       "es-419": "El leviatán que ejerce su supremacía en el\r\nBosque Escarlata. Su velo protector puede\r\ngenerar una onda que mantiene a raya al enemigo."
     },
     "features": {
@@ -19291,6 +19440,7 @@
       "zh-Hant": "君臨緋紅森林生態系頂點的海龍種。已適應水源豐\r\n富的生態，目擊情報多出現在集中暴雨期間。身體\r\n分泌的物質會與水混合，形成膜狀結構覆蓋身體。\r\n液膜不僅能吸收外敵的攻擊保護本體，還能增加重\r\n量，助其使出重擊，以此引發波浪將周圍的東西沖\r\n走。",
       "zh-Hans": "君临绯红森林生态系统顶点的海龙种。已完全适\r\n应了水源丰富的环境，通常在局部暴雨期间被目\r\n击到。其身体分泌物与水混合后形成纱状结构，\r\n覆盖在体表。这层液纱不仅能吸收外敌的攻击，\r\n保护其本体，还能增加自身体重，助其发动强力\r\n重击，并引发波浪，将周围的敌人一并冲走。",
       "ar": "وحش (ليفياثان) الذي يهيمن على النظام البيئي\r\nللغابة القرمزية. لقد تكيف مع البيئات الغنية\r\nبالمياه، ويمكن رؤيته غالبًا أثناء هطول الأمطار.\r\nتشكل إفرازات (أوث دونا)، عند دمجها مع\r\nالماء، وشاحًا وقائيًا لا يمتص الضربات المعادية\r\nفحسب، ولكنه أيضًا يضيف وزنًا، والذي يضربه\r\nأرضًا لتوليد موجة قوية بما يكفي لاجتياح\r\nالتهديدات المحيطة.",
+      "th": "เลวีอาธานที่ครองจุดสูงสุดของระบบนิเวศในป่า\r\nโลหิต มันปรับตัวเข้ากับสภาพแวดล้อมที่อุดม\r\nไปด้วยน้ำ และมักพบเห็นได้บ่อยที่สุดในช่วง\r\nฝนกระหน่ำ เมื่อสารคัดหลั่งของอุธ ดูนาผสม\r\nเข้ากับน้ำจะทำให้เกิดม่านป้องกันที่ไม่เพียง\r\nแค่ดูดซับการโจมตีของศัตรู แต่ยังเพิ่มน้ำหนัก\r\nให้มันด้วย ซึ่งมันจะโถมทิ้งตัวลงมาด้วยแรง\r\nมหาศาลเพื่อสร้างคลื่นที่ซัดกวาดภัยคุกคาม\r\nรอบด้าน",
       "es-419": "Leviatanes que ejercen su supremacía\r\nen el ecosistema del Bosque Escarlata.\r\nLograron adaptarse a entornos con mucha agua\r\ny suelen aparecer durante el aguacero.\r\nAl mezclarse con agua, las secreciones de los\r\nUth Duna forman un velo protector que no solo\r\nabsorbe golpes, sino que agrega peso, por lo que\r\npueden usarlo para golpear con una fuerza capaz\r\nde erradicar las amenazas con la onda generada."
     },
     "tips": {
@@ -19307,6 +19457,7 @@
       "zh-Hant": "液膜覆蓋著牠身體時，對本體的攻擊會變弱，因此\r\n必須先剝除牠身體表面的液膜。當牠無法保持一定\r\n水分，液膜便會脫落，此時正是進攻的時機，不過\r\n同時牠的行動也會變得敏捷，會積極發動攻擊，因\r\n此也要特別留意。牠產生波浪時可以用楔蟲往上方\r\n避開，或可以往任意方向迴避來逃脫。",
       "zh-Hans": "波衣龙的液纱会削弱对其本体的攻击效果，因此\r\n应优先剥除体表的液纱。若波衣龙的水量低于一\r\n定水平，液纱便会被剥离，此时正是进攻的好时\r\n机。不过波衣龙也会因此变得更轻盈，且攻击更\r\n加积极，需谨慎应对。面对它制造的波浪，可以\r\n利用楔虫向上回避，或选择任意方向闪避逃脱。",
       "ar": "بما أن وشاح (أوث دونا) يقلل من أضرار الهجوم،\r\n سيتعين عليكَ تبديد الوشاح عندما يظهر.\r\nسيسقط الوشاح بمجرد أن يفقد الوحش ما يكفي من الماء،\r\nلكن هذا ليس خبرًا سارًا تمامًا؛\r\nفمن دون الوشاح الذي يُثقل كاهل الوحش،\r\nسيصبح (أوث دونا) أكثر رشاقة وعدوانية.\r\nيمكنكَ تجنب موجته بمراوغة مُبتكرة،\r\nأو باستخدام أشياء مثل خنفساء الوتد للهروب إلى أعلى.",
+      "th": "อุธ ดูนา มีม่านป้องกันที่ลดความเสียหายจากการโจมตี\r\nได้ การทำลายม่านป้องกันจึงเป็นสิ่งที่ควรทำอันดับแรก\r\nม่านป้องกันจะหลุดหายไปเมื่อมันสูญเสียน้ำมากพอ แต่\r\nนั่นก็ไม่ใช่เรื่องดีนัก เพราะเมื่อไม่มีม่านป้องกันคอยถ่วง\r\nอุธ ดูนาจะคล่องตัวและดุร้ายขึ้น คุณสามารถหลบคลื่น\r\nโจมตีของมันได้ด้วยการหลบหลีกอย่างสร้างสรรค์หรือ\r\nใช้ด้วงลิ่มเพื่อหนีขึ้นด้านบน",
       "es-419": "El velo del Uth Duna puede reducir el daño\r\nde tus ataques, así que trata de disiparlo\r\nrápidamente. El velo se desprende cuando\r\npierde suficiente agua, lo que no es tan\r\npositivo, ya que, sin el peso del velo, este\r\nse vuelve más ágil y agresivo. Puedes\r\nesquivar su estela evadiéndola creativamente\r\no recurriendo a escarabajos cuña para huir\r\nhacia arriba."
     },
     "variants": [
@@ -19326,6 +19477,7 @@
           "zh-Hant": "波衣龍（歷戰個體）",
           "zh-Hans": "波衣龙（历战个体）",
           "ar": "أوث دونا غاضب",
+          "th": "อุธ ดูนาสุดแกร่ง",
           "es-419": "Uth Duna curtido"
         }
       }
@@ -20167,6 +20319,7 @@
       "zh-Hant": "凍峰龍",
       "zh-Hans": "冻峰龙",
       "ar": "جين دهاد",
+      "th": "จิน ดาฮาด",
       "es-419": "Jin Dahaad"
     },
     "descriptions": {
@@ -20183,6 +20336,7 @@
       "zh-Hant": "君臨冰霧斷崖生態系頂點的海龍種。有巨大身軀，\r\n能以冷卻器官吸收汽化熱，將周遭降至超低溫。",
       "zh-Hans": "君临冰雾断崖生态系统顶点的怪物，拥有引以为\r\n豪的巨大身躯。能运用汽化的原理，通过冷却器\r\n官制造出超低温。",
       "ar": "(ليفياثان) يتربع على قمة النظام البيئي لمنحدرات الشظايا الجليدية.\r\nيولد هواءً باردًا عن طريق أعضاء تبريد\r\nمنتشرة في جسمه الهائل.",
+      "th": "เลวีอาธานที่อยู่บนจุดสูงสุดของระบบนิเวศแห่ง\r\nผาคมน้ำแข็ง มันสร้างกระแสลมเย็นโดยใช้อวัยวะ\r\nควบคุมความเย็นที่กระจายอยู่ทั่วร่างอันมหึมา",
       "es-419": "Un leviatán que habita en la cima de los\r\nAcantilados Espinahelada. Genera aire frío con\r\nlos órganos refrigerantes de su masivo cuerpo."
     },
     "features": {
@@ -20199,6 +20353,7 @@
       "zh-Hant": "君臨冰霧斷崖生態系頂點的海龍種。以超低溫的巨\r\n大身軀行走，因此得名為凍峰龍。其超低溫來自身\r\n體各部位的冷卻器官，除了能用於透過手腳產生冰\r\n霜，在牆上或飄浮岩石上移動，也能用來發動猛烈\r\n的攻擊。",
       "zh-Hans": "君临冰雾断崖生态系统顶点的海龙种。以在超低\r\n温中缓缓移动的巨大身躯著称，因此得名冻峰龙。\r\n其利用全身各处的冷却器官制造超低温，这不仅\r\n能使其四肢凝结冰霜，在陡峭的山壁和漂浮的岩\r\n石上自如移动，还成为其发动猛烈攻击的利器。",
       "ar": "(ليفياثان) يتربع على قمة النظام البيئي\r\nلمنحدرات الشظايا الجليدية. يحيط جسده\r\nالضخم بدرجة حرارة منخفضة عن طريق\r\nأعضاء تبريد تشبه النتوءات منتشرة في\r\nجسمه بالكامل؛ الصقيع الذي تنتجه أطرافه\r\nيلعب وظيفة مزدوجة في استخدامه كسلاح\r\nمحتمل أو التنقل على طول الجدران أو\r\nالصخور الطافية.",
+      "th": "เลวีอาธานที่อยู่บนจุดสูงสุดของระบบนิเวศ\r\nแห่งผาคมน้ำแข็ง มันทำให้อุณหภูมิรอบ\r\nร่างกายอันมหึมาลดต่ำลง โดยใช้อวัยวะ\r\nคล้ายสันที่กระจายอยู่ทั่วร่างเพื่อสร้าง\r\nความเย็น น้ำแข็งที่ขาของมันสร้างขึ้นนั้น\r\nไม่เพียงเป็นอาวุธทรงพลัง แต่ยังใช้ในการ\r\nยึดเกาะเพื่อไต่ไปตามผนังและหินลอยฟ้า\r\nได้อีกด้วย",
       "es-419": "Leviatanes que están en la cima del ecosistema\r\nde los Acantilados Espinahelada.\r\nMantienen sus enormes figuras a bajas\r\ntemperaturas a través de los órganos\r\nrefrigerantes tipo cresta que tienen\r\nen el cuerpo.\r\nLa escarcha que producen sus extremidades\r\nfunciona como arma poderosa y método\r\npara desplazarse por muros y rocas flotantes."
     },
     "tips": {
@@ -20215,6 +20370,7 @@
       "zh-Hant": "必須小心牠從身體各部位放出強烈寒氣的攻擊，但\r\n只要破壞各個冷卻器官，就能加以削弱，因此應該\r\n積極攻擊這些部位。尤其牠背上的冷卻器官巨大又\r\n強力，破壞該處可帶來非常大的效果。雖然該部位\r\n的肉質在戰鬥初期非常堅硬，攻擊難以生效，但是\r\n只要破壞掉其他冷卻器官，肉質就會軟化，所以先\r\n破壞其他冷卻器官會比較有效。",
       "zh-Hans": "它会从身体的各个部位喷出强冷气进行攻击，因\r\n此需要务必小心。但同时，只要破坏这些冷却器\r\n官，就能很大程度地将其弱化，建议积极攻击这\r\n些器官。其背部的冷却器官尤其巨大且强力，因\r\n此破坏该处的效果也将格外显著。只是，那里的\r\n肉质在战斗初期非常坚硬，攻击难以奏效。不过，\r\n只要先破坏其他冷却器官，就能使之软化，因此\r\n先从其他冷却器官开始破坏会更有效。",
       "ar": "كل جزء من جسم (جين دهاد) الهائل\r\nيمكنه شن هجوم تجميد.\r\nيمكنكَ تقليص قدراته الهجومية\r\nبمهاجمة النتوءات التي يستخدمها للتبريد.\r\nالنتوءات الأكبر التي على ظهره\r\nهي الأقوى ويجب تدميرها،\r\nلكن الجلد قاسٍ جدًا\r\nإلا في حالة التخلص من النتوءات\r\nالأخرى أولًا.",
+      "th": "ทุกส่วนบนร่างกายขนาดใหญ่ของจิน ดาฮาด\r\nสามารถสร้างการโจมตีเยือกแข็งที่ทรงพลัง\r\nใส่คุณได้ ลดทอนความสามารถในการโจมตี\r\nของมันได้ด้วยการทำลายสันหลังที่ระบาย\r\nความเย็น สันขนาดใหญ่บนหลังของมันจะ\r\nสร้างพลังได้มากเป็นพิเศษ จึงควรทำลายทิ้ง\r\nแต่หนังบริเวณนั้นแข็งแกร่งมาก เว้นแต่คุณ\r\nจะจัดการสันส่วนอื่นๆ ก่อน",
       "es-419": "Cada parte del monumental cuerpo de Jin\r\nDahaad es capaz de potentes ataques\r\ncongelantes. Reduce su capacidad ofensiva\r\nsi recibe ataques en las crestas que usa\r\npara congelar. La enorme cresta en su\r\nespalda es particularmente peligrosa y\r\nvale la pena deshacerse de ella, pero la\r\npiel es muy dura, por lo que hay que\r\ndestruir las otras crestas primero."
     },
     "variants": [
@@ -20234,6 +20390,7 @@
           "zh-Hant": "凍峰龍（歷戰個體）",
           "zh-Hans": "冻峰龙（历战个体）",
           "ar": "جين دهاد غاضب",
+          "th": "จิน ดาฮาดสุดแกร่ง",
           "es-419": "Jin Dahaad curtido"
         }
       }
@@ -21009,6 +21166,7 @@
       "zh-Hant": "獄焰鱆",
       "zh-Hans": "狱焰蛸",
       "ar": "نو أودرا",
+      "th": "นู อูดรา",
       "es-419": "Nu Udra"
     },
     "descriptions": {
@@ -21025,6 +21183,7 @@
       "zh-Hant": "君臨湧油山谷生態系頂點的頭足種。全身被有如\r\n煉獄般猛烈的火焰籠罩著，會利用多隻觸手與\r\n猛烈燃燒的油泥將獵物逼入絕路。",
       "zh-Hans": "君临涌油谷的“狱焰蛸”。全身笼罩着宛如来自炼\r\n狱的熊熊烈火，利用多只触手和燃烧的油泥将猎物\r\n逼进绝路。",
       "ar": "وحش (سيفالوبود) الذي يهيمن على النظام البيئي\r\nلحوض آبار النفط. كابوس من الجحيم،\r\nيهاجم بالمسجات وطمي النفط المشتعل.",
+      "th": "เซฟาโลพอดที่ครองจุดสูงสุดของระบบนิเวศ\r\nในแอ่งบ่อน้ำมัน ผู้เปรียบดังภาพนรกที่มีชีวิต\r\nมันใช้หนวดโจมตีและจุดโคลนน้ำมันให้ติดไฟ",
       "es-419": "Cefalópodo que ejerce su supremacía en el\r\necosistema de la Cuenca Oleosa. Tiene un aspecto\r\ninfernal y ataca con tentáculos y fango ardiente."
     },
     "features": {
@@ -21035,12 +21194,13 @@
       "de": "Der Cephalopode, der über das Ökosystem am\r\nÖlquellbecken herrscht. Wenn er gesichtet\r\nwird, ist er für gewöhnlich mit Ölschlamm\r\nbedeckt, aber wenn er wütend wird, entzündet\r\ner diese Schicht und verwandelt sich in\r\nein Inferno des Entsetzens. Die Öffnungen,\r\ndie auf seinem Körper erscheinen, und die\r\nvielen Arme sind vermutlich Sinnesorgane,\r\naber Genaueres ist bislang nicht bekannt.",
       "es": "Cefalópodo que ejerce su supremacía en el\r\necosistema de la Cuenca Oleosa. Suele estar\r\nrecubierto de un fango oleoso al que prende\r\nfuego cuando se altera, transformándose\r\nen una bestia flamígera. Los óculos que\r\naparecen en su cuerpo y los muchos\r\ntentáculos podrían ser órganos sensoriales,\r\npero aún no se ha demostrado.",
       "ru": "Крупнейшее головоногое в экосистеме\r\nНефтяной низины. Покрывает себя донной\r\nнефтью, а впадая в ярость, поджигает её\r\nи загорается. Считается, что отверстия\r\nна туловище и многочисленные конечности\r\nслужат ну удре органами чувств, но\r\nдоподлинно это неизвестно.",
-      "pl": "Cefalopod, który panuje nad ekosystemem Kotliny Oleju.\r\nNu Udra zazwyczaj jest pokryty oleistym mułem,\r\nale w chwili wzburzenia zapala powłokę,\r\nprzekształcając się w ogniste straszydło.\r\nOczy, które pojawiają się na jego ciele\r\ni licznych ramionach, są prawdopodobnie organami\r\nsensorycznymi, ale prawdziwość tej tezy\r\nwciąż jest w fazie badań.",
+      "pl": "Cefalopod, który panuje nad ekosystemem\r\nKotliny Oleju. Nu Udra zazwyczaj jest\r\npokryty oleistym mułem, ale w chwili\r\nwzburzenia zapala powłokę, przekształcając\r\nsię w ogniste straszydło. Oczy, które\r\npojawiają się na jego ciele i licznych\r\nramionach, są prawdopodobnie organami\r\nsensorycznymi, ale prawdziwość tej tezy\r\nwciąż jest w fazie badań.",
       "pt-BR": "Cefalópode que reina supremo sobre o\r\necossistema da Bacia Oleídea. Geralmente,\r\nquando avistado, Nu Udra está coberto\r\nde limóleo, mas quando é enfurecido,\r\nincendeia esse revestimento, virando uma\r\nmonstruosidade em chamas. Supõe-se\r\nque os olhos que aparecem em seu corpo,\r\nassim como os muitos braços, sejam órgãos\r\nsensoriais, mas a verdade ainda está\r\nsendo investigada.",
       "ko": "기름 솟는 계곡 생태계의 정점에 군림하는\r\n두족종. 평소에는 전신이 기름 진흙으로\r\n뒤덮여 있고 흥분하면 몸 표면을 발화시켜\r\n거친 화염을 두른 모습으로 변한다.\r\n흥분하면 드러나는 눈알이나 팔 끝에 달린\r\n눈 같은 부위는 주변 정보를 파악하는\r\n감각 기관으로 추측되나, 정체는 아직\r\n밝혀지지 않았다.",
       "zh-Hant": "君臨湧油山谷生態系頂點的頭足種。平時全身會被\r\n油泥覆蓋，但興奮時會將油泥點燃，變成身披猛烈\r\n火焰的姿態，更會露出眼球以及每隻觸手末端類似\r\n眼睛的構造，目前推測這些構造是用於感知周圍環\r\n境的感覺器官，但尚有待查明。",
       "zh-Hans": "君临涌油谷生态系统顶点的头足种。通常全身被\r\n油泥覆盖，但一旦进入兴奋状态，这些油泥便会\r\n被点燃，转而化身为熊熊燃烧的烈焰状态。据推\r\n测，它在兴奋时露出的眼球以及触手尖端类似眼\r\n睛的部分，可能是用来掌握周围情况的感知器官，\r\n但这一点尚未得到证实。",
       "ar": "وحش (سيفالوبود) الذي يهيمن على النظام\r\nالبيئي لحوض آبار النفط. عادةً عند رؤيته،\r\nيكون (نو أودرا) مغطى بغطاء من طمي\r\nالنفط، عندما يغضب، سيشعل الغطاء،\r\nمحولًا نفسه إلى رعب من اللهب.\r\nيُفترض أن العيون التي تظهر على جسمه\r\nوالعديد من أذرعه هي أعضاء حسية،\r\nلكن الحقيقة لا تزال قيد الاستقصاء.",
+      "th": "เซฟาโลพอดที่ครองจุดสูงสุดของระบบนิเวศใน\r\nแอ่งบ่อน้ำมัน โดยทั่วไปเมื่อพบเห็นนู อูดรา มันจะ\r\nมีโคลนน้ำมันปกคลุมทั่วร่างกาย แต่เมื่อโกรธจัด\r\nมันจะจุดไฟเผาโคลนน้ำมันที่ห่อหุ้มตัว แปรเปลี่ยน\r\nตัวเองเป็นอสูรเพลิงที่น่าสะพรึง ดวงตาที่ปรากฏ\r\nอยู่บนลำตัวและหนวดจำนวนมากนั้นเชื่อกันว่าเป็น\r\nอวัยวะรับสัมผัส แต่ข้อเท็จจริงยังอยู่ในระหว่าง\r\nการตรวจสอบ",
       "es-419": "Cefalópodos que ejercen su supremacía\r\nen el ecosistema de la Cuenca Oleosa.\r\nSuelen estar recubiertos de un fango\r\noleoso, el cual se prende fuego cuando\r\nse alteran, transformándose en bestias\r\nflamígeras. Se estima que los óculos\r\nque aparecen en sus cuerpos y en sus muchos\r\ntentáculos podrían ser órganos sensoriales,\r\npero aún se sigue investigando al respecto."
     },
     "tips": {
@@ -21057,6 +21217,7 @@
       "zh-Hant": "獄焰鱆的獨特觸手可以每隻單獨切斷。牠憤怒時全\r\n身會被火焰包覆，非常危險，此時對燃燒部位使用\r\n水球苔，或對該部位攻擊就能撲滅火焰，成功後可\r\n使牠大幅弱化，帶來攻擊的好時機。另外，牠有時\r\n會利用柔軟的身體鑽進地面縫隙，因此需小心牠預\r\n料之外的行動。",
       "zh-Hans": "狱焰蛸的触手可以被单独切断。在愤怒状态下，\r\n其全身会被火焰包裹，极其危险。此时可以将水\r\n球苔投射至燃烧部位，或直接攻击该部位来扑灭\r\n火焰。成功后可大幅削弱狱焰蛸，创造有利机会。\r\n此外，它有时会利用柔软的身体钻入地面缝隙，\r\n因此需时刻保持警惕，提防它的突然袭击。",
       "ar": "يمكن بتر كل مجس من مجسات (نو أودرا)\r\nالفريدة العديدة. لكن انتبه عندما يغضب\r\nوينفجر مشتعلًا! يمكنكَ إخماد أي أجزاء مشتعلة\r\nبطحلب الماء، استراتيجية موصى بها،\r\nلأنها ستتسبب في إضعاف الوحش.\r\nيسمح جسم (نو أودرا) اللين\r\nبالانزلاق عبر الشقوق والتحرك\r\nبطرق مدهشة، لذا لا تدعه\r\nيتفوق عليكَ.",
+      "th": "นู อูดรามีหนวดมากมายซึ่งสามารถตัดขาดได้ แต่\r\nต้องระวังเวลาที่มันโกรธ หนวดเหล่านั้นจะลุกเป็นไฟ\r\nกลยุทธ์ที่แนะนำในการดับส่วนที่กำลังไหม้คือการใช้\r\nมอสส์น้ำ ซึ่งจะทำให้มอนสเตอร์อ่อนแรงลง ร่างกาย\r\nที่อ่อนนุ่มของนู อูดราช่วยให้มันเล็ดลอดผ่านรอยแยก\r\nและเคลื่อนไหวในแบบที่คาดไม่ถึง จึงต้องระวังอย่า\r\nให้มันเล่นงานคุณโดยไม่ทันตั้งตัว",
       "es-419": "Se pueden cercenar todos y cada uno de los\r\ntentáculos del Nu Udra. ¡Pero cuidado,\r\nporque estalla en llamas cuando se enfada!\r\nPuedes apagar el fuego con acuamusgo y, de\r\nhecho, es la mejor estrategia, porque lo\r\ndebilita. El cuerpo maleable del Nu Udra\r\nle permite deslizarse por grietas y realizar\r\nmovimientos sorprendentes, así que no dejes\r\nque se te adelante."
     },
     "variants": [
@@ -21076,6 +21237,7 @@
           "zh-Hant": "獄焰鱆（歷戰個體）",
           "zh-Hans": "狱焰蛸（历战个体）",
           "ar": "نو أودرا غاضب",
+          "th": "นู อูดราสุดแกร่ง",
           "es-419": "Nu Udra curtido"
         }
       }
@@ -21836,6 +21998,7 @@
       "zh-Hant": "護兇爪龍",
       "zh-Hans": "护凶爪龙",
       "ar": "أودوغارون أسمر حارس",
+      "th": "การ์เดียนเอโบนีโอโดการอน",
       "es-419": "Odogaron Ébano Guardián"
     },
     "descriptions": {
@@ -21852,6 +22015,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有兇爪龍之力。\r\n以前腳施展的銳爪連續攻擊非常具威脅。",
       "zh-Hans": "古代文明创造出的造龙种，带有凶爪龙之力。\r\n它挥舞前肢，以利爪施展的连续攻击极具威胁。",
       "ar": "سلالة اصطناعية خلّفتها حضارة قديمة\r\nباستخدام قوة (أودوغارون) أسمر.\r\nتشكّل العواصف المنطلقة من مخالبها الأمامية تهديدًا.",
+      "th": "สายพันธุ์เทียมที่อารยธรรมโบราณสร้างขึ้นโดยอาศัย\r\nพลังเอโบนีโอโดการอน การโจมตีรัวจากกรงเล็บหน้า\r\nของมันเป็นอันตรายอย่างยิ่ง",
       "es-419": "Una especie artificial creada por una antigua\r\ncivilización con el poder de un Odogaron Ébano.\r\nCuidado con las ráfagas de sus garras delanteras."
     },
     "features": {
@@ -21868,6 +22032,7 @@
       "zh-Hant": "古代文明創造的造龍種，帶有兇爪龍之力。不具有\r\n生殖功能，也不會捕食，靠攝取龍乳來獲取能量。\r\n主要利用非常發達的爪和尾巴使出連續攻擊，將對\r\n手逼入絕境。",
       "zh-Hans": "古代文明创造出的造龙种，带有凶爪龙之力。既\r\n没有生殖能力，也不会捕食，而是直接摄取龙乳\r\n作为能量来源。它们主要利用发达的爪子和尾巴\r\n发起连续攻击，把目标逼入绝境。",
       "ar": "سلالة وحوش اصطناعية خلّقتها حضارة\r\nقديمة مشبعة بقوة (أودوغارون) أسمر.\r\nلا يمكن لوحوش الـ(أودوغارون) السمراء\r\nالحارسة التكاثر ولا حاجة لها بتناول الطعام\r\nوتعتمد بدلًا من ذلك على حليب وايفرن\r\nللحصول على الطاقة. ستحاول التضييق\r\nعلى الأهداف بعواصف من الهجمات\r\nمن مخالبها وذيولها المتطورة للغاية.",
+      "th": "การ์เดียนเอโบนีโอโดการอน คือสายพันธุ์\r\nมอนสเตอร์เทียมที่อารยธรรมโบราณสร้างขึ้น\r\nและผสานด้วยพลังเอโบนีโอโดการอน มันไม่\r\nสามารถสืบพันธุ์ได้และไม่ต้องกินอาหารเพราะ\r\nใช้ไวเวิร์นมิลค์เป็นแหล่งพลังงานแทน มัน\r\nพยายามต้อนเหยื่อให้จนมุมด้วยการโจมตีรัว\r\nด้วยกรงเล็บและหางที่พัฒนามาอย่างแข็งแกร่ง",
       "es-419": "Monstruos artificiales creados por una antigua\r\ncivilización e imbuidos con el poder del\r\nOdogaron Ébano.\r\nNo pueden reproducirse, no necesitan comer\r\ny se energizan con leche de wyvern.\r\nIntentarán acorralar a las presas con\r\nráfagas de ataques de sus garras y colas\r\ndesarrolladas."
     },
     "tips": {
@@ -21884,6 +22049,7 @@
       "zh-Hant": "護兇爪龍的特徵是以發達的爪和尾巴施展的巧妙攻\r\n擊。受到牠的利爪攻擊就會陷入裂傷狀態。此外，\r\n有時候牠的爪和尾巴分別帶有護龍能量，會引發爆\r\n炸，需要多加小心。另外，帶有龍屬性的攻擊如果\r\n擊中龍乳結晶，也會引發同屬性爆炸，要多留意。\r\n牠的攻擊形成的結晶會對屬性攻擊起反應並爆炸，\r\n因此屬性投射器彈等攻擊手段也很有效。",
       "zh-Hans": "护凶爪龙的特点是通过发达的爪子和尾巴进行巧\r\n妙的攻击。若被其利爪击中，猎人将陷入裂伤状\r\n态。此外，它的爪子和尾巴可能携带护龙能量，\r\n导致爆炸，必须小心应对。它的龙属性攻击命中\r\n龙乳结晶后，也会引发同属性的爆炸，尤需注意。\r\n由于攻击形成的结晶会对属性攻击起反应并爆炸，\r\n属性投射器弹药等攻击手段在这种情况下也会非\r\n常有效。",
       "ar": "تتميز وحوش (أودوغارون) السمراء الحارسة\r\nبهجمات بمخالبها الحادة التي تسبب النزيف\r\nوذيولها الرشيقة، وكلاهما يحمل طاقة\r\nالوحوش الحارسة التي تحفز الانفجارات.\r\nإذا أصابت هجمات عنصر التنين\r\n(وايليبريستال)، فستتسبب في انفجار للعنصر\r\nنفسه. ومع ذلك، نظرًا لأن البلورات تتحفز\r\nمن خلال التدخل العنصري، يمكن استخدام\r\nذخيرة نبلة المعصم بفاعلية أيضًا.",
+      "th": "การ์เดียนเอโบนีโอโดการอนมีจุดเด่นอยู่ที่กรงเล็บ\r\nอันแหลมคมที่ทำให้เลือดออก และหางที่คล่องแคล่ว\r\nซึ่งทั้งสองส่วนกักเก็บพลังงานการ์เดียนที่จุดระเบิดได้\r\nหากการโจมตีธาตุมังกรของมันสัมผัสกับวิลค์คริสตัล\r\nจะทำให้วิลค์คริสตัลในบริเวณนั้นระเบิดเป็นธาตุมังกร\r\nด้วย อย่างไรก็ตาม เนื่องจากคริสตัลนี้จะระเบิดเมื่อ\r\nมีธาตุมากระตุ้น กระสุนสลิงเกอร์จึงใช้งานได้ดีมาก\r\nเช่นกัน",
       "es-419": "El Odogaron Ébano Guardián destaca por sus\r\ngarras desarrolladas que producen sangrado\r\ny sus hábiles coletazos; ambos tienen\r\nenergía de Guardián que puede desatar\r\nexplosiones. Si sus ataques de draco se\r\nconectan con wylkristales, causarán una\r\nexplosión del mismo elemento. Sin embargo,\r\ncomo los cristales se activan a través de\r\ninterferencia elemental, la munición de\r\neslinga también puede ser efectiva."
     },
     "variants": [
@@ -21903,6 +22069,7 @@
           "zh-Hant": "護兇爪龍（歷戰個體）",
           "zh-Hans": "护凶爪龙（历战个体）",
           "ar": "أودوغارون أسمر حارس غاضب",
+          "th": "การ์เดียนเอโบนีโอโดการอนสุดแกร่ง",
           "es-419": "Odogaron Ébano Guardián curtido"
         }
       }
@@ -22724,6 +22891,7 @@
       "zh-Hant": "火龍",
       "zh-Hans": "火龙",
       "ar": "راثالوس",
+      "th": "ราธาลอส",
       "es-419": "Rathalos"
     },
     "descriptions": {
@@ -22740,6 +22908,7 @@
       "zh-Hant": "擁有天空王者之名，受人畏懼的飛龍。會以優異的\r\n飛行能力從高空迅速降下，並使用帶毒的強力爪擊\r\n攻擊敵人。",
       "zh-Hans": "令人畏惧的飞龙，又称“天空王者”。它会以优异\r\n的飞行能力，从上空急速俯冲而下，以含毒的利爪\r\n攻击对方。",
       "ar": "تنانين وايفرن مهيبة تُعرف باسم \"ملوك السماء\".\r\nمسلحة بمخالب سامة قوية وتستخدم براعتها في\r\nالطيران للانقضاض على فريستها من الأعلى.",
+      "th": "ไวเวิร์นที่น่าสะพรึงกลัวซึ่งรู้จักกันในชื่อ \"ราชาแห่งท้องฟ้า\"\r\nมีกรงเล็บพิษที่รุนแรงพวกมันใช้พลังในการบินเพื่อโฉบ\r\nเหยื่อจากที่สูง",
       "es-419": "Wyverns temibles llamados \"reyes de los cielos\".\r\nDotados de fuertes garras venenosas, embisten a\r\nsus presas en picada con su gran pericia aérea."
     },
     "features": {
@@ -22756,6 +22925,7 @@
       "zh-Hant": "由於會噴出火焰，因此名為火龍。別名又稱「天空\r\n王者」，是受人畏懼的飛龍。會與雌火龍以巢穴為\r\n中心展開地盤，並從空中監視。發現入侵者時會以\r\n優異的飛行能力從高空迅速降下，使用帶毒的強力\r\n爪擊攻擊敵人。",
       "zh-Hans": "火龙因其喷火能力而得名，别称“天空王者”，\r\n是令人畏惧的飞龙。火龙会与雌火龙一起以巢穴\r\n为中心占据广阔领地，并从空中监视。一旦发现\r\n入侵者，火龙便会发挥自身飞行优势，从高空急\r\n速俯冲而下，以带毒的利爪抓向对方。",
       "ar": "ذكور وايفرن مهيبة\r\nتُعرف باسم \"ملوك السماء\".\r\nتحرس بجانب وحوش (راثيان)\r\nمنطقة نفوذ واسعة حول أعشاشها،\r\nويقع على عاتق الذكر دور المراقبة من الأعلى.\r\nمسلحةً بمخالب سامة قوية وأنفاس نارية، تستخدم وحوش (راثالوس)\r\nبراعتها في الطيران للانقضاض على الغزاة.",
+      "th": "ไวเวิร์นเพศผู้ที่น่าสะพรึงกลัว ซึ่งรู้จักกันในนาม\r\n\"ราชาแห่งท้องนภา\" มันยึดครองอาณาเขตรอบรัง\r\nเป็นบริเวณกว้างคู่กับราเธียน และทำหน้าที่ของ\r\nเพศผู้ในการเฝ้าระวังจากเบื้องบน ราธาลอสใช้กรง\r\nเล็บพิษที่ร้ายกาจและลมหายใจเพลิงเป็นอาวุธ\r\nทั้งยังใช้ความชำนาญบนท้องฟ้าพุ่งโจมตีผู้บุกรุก\r\nจากด้านบน",
       "es-419": "Wyverns macho temibles conocidos como\r\nlos \"reyes de los cielos\".\r\nControlan, junto con las Rathian, extensos\r\nterritorios alrededor de sus nidos y son\r\nlos machos los que vigilan desde el cielo.\r\nEscupen fuego y tienen fuertes garras\r\nvenenosas. Aprovechan su habilidad aérea\r\npara lanzarse en picada sobre los invasores."
     },
     "tips": {
@@ -22772,6 +22942,7 @@
       "zh-Hant": "火龍正如其別稱「天空王者」，會從空中發動各式\r\n各樣的攻擊。使用強烈的閃光剝奪牠的視野，就能\r\n將牠擊落。牠在戰鬥中處於劣勢時，雌火龍也可能\r\n會出現，多多利用投射器異臭彈或投射器大異臭彈\r\n吧。",
       "zh-Hans": "正如其天空王者之名，它会从空中发起各种攻击。\r\n但是，只要使用强烈的闪光等使其目眩，便可一\r\n举将其击落。当它处于劣势时，可能会有雌火龙\r\n赶来支援，推荐使用投射器异臭弹或投射器大异\r\n臭弹灵活应对。",
       "ar": "كونهم ملوك السماء، فإن وحوش (راثالوس)\r\nستهاجم بمجموعة من الضربات الجوية.\r\nسيكفي ضوء ساطع لإرباكها وإجبارها\r\nعلى الهبوط إلى الأرض. حين يكون وحش (راثالوس)\r\nفي خطر، فإن وحوش (راثيان) رفيقته قد تنقض لنجدته،\r\nلذا احرص على أن تكون كبسولات الروث\r\nوكبسولات الروث الكبيرة جاهزة للاستخدام.",
+      "th": "ในฐานะราชาแห่งท้องนภา ราธาลอสจะโจมตี\r\nทางอากาศหลากหลายรูปแบบ แสงจ้าก็เพียง\r\nพอที่จะทำให้มันสับสนและร่วงลงมาได้ เมื่อ\r\nราธาลอสพลาดท่า ราเธียนที่เป็นคู่ของมันอาจ\r\nรีบพุ่งเข้ามาช่วย ดังนั้น ควรเตรียมพ็อดมูลสัตว์\r\nและพ็อดมูลสัตว์ขนาดใหญ่ไว้ให้พร้อม",
       "es-419": "Los Rathalos son los reyes de los cielos\r\ny tienen una variedad de ataques aéreos.\r\nUn destello resplandeciente podría bastar\r\npara desorientarlos y hacerlos aterrizar.\r\nSi un Rathalos se encuentra en apuros, una\r\nRathian, su gran compañera, podría acudir\r\nen su ayuda, así que ten preparadas varias\r\ncápsulas boñiga normales y grandes."
     },
     "variants": [
@@ -22791,6 +22962,7 @@
           "zh-Hant": "火龍（歷戰個體）",
           "zh-Hans": "火龙（历战个体）",
           "ar": "راثالوس غاضب",
+          "th": "ราธาลอสสุดแกร่ง",
           "es-419": "Rathalos curtido"
         }
       }
@@ -23332,6 +23504,7 @@
       "zh-Hant": "雪獅子王",
       "zh-Hans": "雪狮子王",
       "ar": "بلانجونجا",
+      "th": "บลังกองกา",
       "es-419": "Blangonga"
     },
     "descriptions": {
@@ -23348,6 +23521,7 @@
       "zh-Hant": "統率雪獅子的大型白色牙獸。會率領群體攻擊入侵\r\n地盤的生物，在冰天雪地的環境中動作尤其多變。",
       "zh-Hans": "统率雪狮子的白色大型牙兽种。会率领群体对入\r\n侵领地的生物发起攻击，积雪环境中的动作尤其\r\n多变。",
       "ar": "وحوش بيضاء ضخمة ذات أنياب\r\nتسيطر على الـ(بلانغو)، وتهاجم في مجموعات.\r\nتتميز بمدى حركة خاصةً في المناخات الثلجية.",
+      "th": "สัตว์เขี้ยวแหลมสีขาวขนาดใหญ่ ซึ่งปกครองบลังโก\r\nตัวอื่นและนำฝูงออกโจมตี พวกมันมีความคล่องตัว\r\nสูงโดยเฉพาะในสภาพอากาศที่ปกคลุมด้วยหิมะ",
       "es-419": "Bestias enormes y blancas que controlan a otros\r\nBlango y atacan en manada. Su rango de movilidad\r\nes amplio, particularmente en climas nevados."
     },
     "features": {
@@ -23358,12 +23532,13 @@
       "de": "Große, weiße Reißzahn-Bestie, die Blango-\r\nRudel anführt und Eindringlinge angreift.\r\nMuskulös und beweglich, was auch im Schnee\r\nschnelle Angriffe sowie Sprünge aus\r\ngroßer Entfernung ermöglicht – Jäger mit\r\nFernkampfwaffen können sich nicht in\r\nSicherheit wiegen. Große Hauer sind das\r\nZeichen eines starken Alphamännchens.",
       "es": "Bestias enormes y blancas que controlan\r\na los otros Blango y atacan a los intrusos\r\nen manada. Su musculatura y movilidad\r\nles permite atacar con rapidez, incluso\r\nen una nevada reciente, así como saltar\r\ngrandes distancias.\r\nLos cazadores de larga distancia deben\r\nir con cuidado. La seña de un líder son\r\nlos grandes colmillos.",
       "ru": "Эти крупные клыкастые звери с белым\r\nмехом — вожаки бланго. Они нападают\r\nсо стаей на тех, кто окажется на их\r\nтерритории. Блангонги очень сильны и\r\nбыстро передвигаются даже по свежевы-\r\nпавшему снегу. Они могут преодолеть\r\nвнушительное расстояние одним прыжком,\r\nтак что будьте начеку, даже если используете\r\nдальнобойное оружие. Крупные бивни\r\nблангонги — символ могучего вожака.",
-      "pl": "Duże, białe, zębate bestie, które rządzą innymi\r\nBlango, atakując intruzów stadem. Ich\r\nmuskularność i mobilność sprawiają, że mogą\r\nuderzać błyskawicznie, nawet poruszając się\r\npo świeżym śniegu i przypuszczać atak z dużych\r\nodległości – zatem łowcy korzystający z broni\r\ndalekiego zasięgu muszą mieć się \r\nna baczności. Duże kły są oznaką potężnego\r\nprzywódcy.",
+      "pl": "Duże, białe, zębate bestie, które rządzą innymi\r\nBlango, atakując intruzów stadem. Ich\r\nmuskularność i mobilność sprawiają, że mogą\r\nuderzać błyskawicznie, nawet poruszając się\r\npo świeżym śniegu i przypuszczać atak z dużych\r\nodległości – zatem łowcy korzystający z broni\r\ndalekiego zasięgu muszą mieć się na baczności.\r\nDuże kły są oznaką potężnego przywódcy.",
       "pt-BR": "Grandes feras brancas de presas que dominam\r\noutros Blangos, e costumam atacar em bando.\r\nSua musculatura e mobilidade permitem que\r\nataquem rápido, saltando a longas distâncias\r\ne até na neve fresca. Mesmo caçadores com\r\narmas de longo alcance ainda precisam ficar\r\natentos. As presas grandes são indicativo\r\nde um líder poderoso.",
       "ko": "블랑고를 이끄는 하얀 대형 아수종.\r\n영역을 침범하면 무리 지어 공격한다.\r\n힘이 강하며 눈 속을 이동해 급습하거나\r\n떨어진 위치에서 뛰어올라 덤비는 등\r\n기동력을 살린 공격을 펼치므로,\r\n사격 무기 사용 시에도 주의가 필요하다.\r\n커다란 이빨은 무리의 리더라는 증표.",
       "zh-Hant": "統率雪獅子的大型白色牙獸。會率領群體攻擊入侵\r\n地盤的生物。臂力強大，機動力強，會在雪中移動\r\n發動奇襲，或從遠處大幅跳躍攻擊，使用遠程武器\r\n時也要多加小心。巨大的牙齒是領袖的身份象徵。",
       "zh-Hans": "统率着雪狮子的白色大型牙兽种。会率领族群对\r\n入侵领地的生物发起攻击。臂力惊人，机动力极\r\n强，善于在雪下移动以发动奇袭，或是从远处一\r\n跃而至展开攻击。因此即使是使用远程武器，也\r\n要格外注意。巨大的獠牙是它身为首领的身份象\r\n征。",
       "ar": "وحوش بيضاء ضخمة ذات أنياب تسيطر على\r\nالـ(بلانغو)، وتهاجم المتطفلين في مجموعات.\r\nتسمح لها قوتها العضلية وقدرتها على الحركة\r\nبتوجيه الضربات بسرعة حتى على الثلج الجديد\r\nوالانقضاض من مسافات بعيدة.لذا، يظل\r\nالصيادون ذوي الأسلحة بعيدة المدى بحاجة\r\nإلى توخي الحذر.\r\nالأنياب الكبيرة علامة على قوة القائد.",
+      "th": "สัตว์เขี้ยวแหลมสีขาวขนาดใหญ่ ซึ่งปกครอง\r\nบลังโกตัวอื่นและนำฝูงออกโจมตีผู้บุกรุก\r\nร่างกายที่กำยำและความคล่องแคล่วของมัน\r\nทำให้สามารถโจมตีได้รวดเร็วแม้บนพื้นหิมะ\r\nและสามารถพุ่งกระโจนจากระยะไกลได้\r\nดังนั้น ฮันเตอร์ที่ใช้อาวุธระยะไกลก็ยังคง\r\nต้องระวัง งาขนาดใหญ่ของมันคือสัญลักษณ์\r\nของผู้นำที่ทรงพลัง",
       "es-419": "Bestias blancas enormes que comandan\r\na los Blango y atacan a los intrusos\r\nen manada. Su musculatura y movilidad les\r\npermite saltar grandes distancias y atacar\r\ncon rapidez, incluso sobre nieve fresca.\r\nDebido a esto, los cazadores con armas\r\nde larga distancia deben andar con cuidado.\r\nSus colmillos grandes son el símbolo\r\nde un líder poderoso."
     },
     "tips": {
@@ -23380,6 +23555,7 @@
       "zh-Hant": "牠在冰天雪地的環境中除了會利用雪使出各種攻擊\r\n外，由於有時也會呼喚雪獅子，因此需要小心牠們\r\n的聯手攻擊。尤其牠發怒時，有時會和夥伴一起發\r\n動攻擊，非常危險。此外，牠的吐息帶凍結效果，\r\n需要注意。據說只要破壞牠的獠牙，就能降低牠的\r\n領導能力，讓牠無法和雪獅子聯手攻擊。",
       "zh-Hans": "雪狮子王不仅善于利用积雪环境发动多种攻击，\r\n还能够召唤雪狮子共同作战。尤其是在它发怒时，\r\n可能会率群体一齐发动猛烈攻势，极其危险。此\r\n外，它的吐息带有冻结效果，也需要谨慎应对。\r\n据说只要破坏它的獠牙，就能削弱其统领能力，\r\n使其无法与雪狮子协同攻击。",
       "ar": "تستغل الـ(بلانجونجا) البيئات الثلجية\r\nلصالحها لتسمح لها بمزيد من الحركة،\r\nويمكنها استدعاء وحوش (بلانغو) أخرى\r\nللاتحاد ضد الصيادين الغافلين.\r\nتوخَّ مزيدًا من الحذر أثناء غضبها،\r\nلأن بإمكانها توجيه المجموعة بأكملها\r\nضد هدف مختار بكفاءة هائلة.\r\nانتبه لتلك الأنفاس المجمِدة أيضًا.\r\nيُعتقد أن تدمير أنياب (بلانجونجا)\r\nيهدم سلطتها على الـ(بلانغو) الأخرى\r\nما يعطل عملهما الجماعي.",
+      "th": "บลังกองกาใช้พื้นที่หิมะปกคลุมอย่างเป็นประโยชน์\r\nเพื่อเพิ่มความคล่องตัว และสามารถเรียกบลังโก\r\nตัวอื่นมารุมเล่นงานฮันเตอร์ที่ไม่ทันระวัง จงระวังเป็น\r\nพิเศษเมื่อมันโกรธเพราะมันสามารถสั่งให้มอนสเตอร์\r\nทั้งฝูงรุมโจมตีเป้าหมายที่เลือกได้ ต้องระวังลมหายใจ\r\nเยือกแข็งของมันด้วย ว่ากันว่าเมื่องาของบลังกองกา\r\nถูกทำลาย มันจะสูญเสียอำนาจเหนือบลังโกตัวอื่น\r\nและทำให้ความสามัคคีในฝูงพังลง",
       "es-419": "Los Blangonga usan los terrenos nevados\r\na su favor para tener movilidad adicional,\r\ny pueden llamar a otros Blangos para\r\natacar a los cazadores incautos. Más vale\r\ntener cuidado si están enojados, ya que\r\nson capaces de hacer que toda la manada\r\nataque a un objetivo con gran eficacia.\r\nCuidado con su aliento helado. Se cree que\r\nal destruir sus colmillos se socava su\r\nautoridad y se altera su colaboración."
     },
     "variants": [
@@ -23399,6 +23575,7 @@
           "zh-Hant": "雪獅子王（歷戰個體）",
           "zh-Hans": "雪狮子王（历战个体）",
           "ar": "بلانجونجا غاضب",
+          "th": "บลังกองกาสุดแกร่ง",
           "es-419": "Blangonga curtido"
         }
       },
@@ -23418,6 +23595,7 @@
           "zh-Hant": "狂龍化雪獅子王",
           "zh-Hans": "狂龙化雪狮子王",
           "ar": "بلانجونجا مسعور",
+          "th": "บลังกองกาบ้าคลั่ง",
           "es-419": "Blangonga colérico"
         }
       }

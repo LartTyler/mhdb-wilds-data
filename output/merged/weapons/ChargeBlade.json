@@ -29,6 +29,7 @@
       "zh-Hant": "希望兵裝Ⅰ",
       "zh-Hans": "希望兵装Ⅰ",
       "ar": "نصل الأمل القوي 1",
+      "th": "ศาสตราโฮป I",
       "es-419": "Aspa esperanza I"
     },
     "descriptions": {
@@ -45,6 +46,7 @@
       "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
       "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
       "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\nأطلق العنان لقوتكَ!",
+      "th": "ชาร์จเบลดที่ทำขึ้นเพื่อการสำรวจ\r\nโดยเฉพาะ โล่ทำได้มากกว่าใช้\r\nป้องกัน ปลดปล่อยพลังออกมา!",
       "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
     },
     "rarity": 1,
@@ -98,6 +100,7 @@
       "zh-Hant": "希望兵裝Ⅱ",
       "zh-Hans": "希望兵装Ⅱ",
       "ar": "نصل الأمل القوي 2",
+      "th": "ศาสตราโฮป II",
       "es-419": "Aspa esperanza II"
     },
     "descriptions": {
@@ -114,6 +117,7 @@
       "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
       "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
       "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\nأطلق العنان لقوتكَ!",
+      "th": "ชาร์จเบลดที่ทำขึ้นเพื่อการสำรวจ\r\nโดยเฉพาะ โล่ทำได้มากกว่าใช้\r\nป้องกัน ปลดปล่อยพลังออกมา!",
       "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
     },
     "rarity": 1,
@@ -171,6 +175,7 @@
       "zh-Hant": "希望兵裝Ⅲ",
       "zh-Hans": "希望兵装Ⅲ",
       "ar": "نصل الأمل القوي 3",
+      "th": "ศาสตราโฮป III",
       "es-419": "Aspa esperanza III"
     },
     "descriptions": {
@@ -187,6 +192,7 @@
       "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
       "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
       "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\nأطلق العنان لقوتكَ!",
+      "th": "ชาร์จเบลดที่ทำขึ้นเพื่อการสำรวจ\r\nโดยเฉพาะ โล่ทำได้มากกว่าใช้\r\nป้องกัน ปลดปล่อยพลังออกมา!",
       "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
     },
     "rarity": 3,
@@ -246,6 +252,7 @@
       "zh-Hant": "希望兵裝Ⅳ",
       "zh-Hans": "希望兵装Ⅳ",
       "ar": "نصل الأمل القوي 4",
+      "th": "ศาสตราโฮป IV",
       "es-419": "Aspa esperanza IV"
     },
     "descriptions": {
@@ -262,6 +269,7 @@
       "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
       "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
       "ar": "نصل مشحون مصنوع خصيصًا للبعثة.\r\nالترس ليس للدفاع فقط.\r\nأطلق العنان لقوتكَ!",
+      "th": "ชาร์จเบลดที่ทำขึ้นเพื่อการสำรวจ\r\nโดยเฉพาะ โล่ทำได้มากกว่าใช้\r\nป้องกัน ปลดปล่อยพลังออกมา!",
       "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
     },
     "rarity": 5,
@@ -322,6 +330,7 @@
       "zh-Hant": "希望兵裝Ⅴ",
       "zh-Hans": "希望兵装Ⅴ",
       "ar": "نصل الأمل القوي 5",
+      "th": "ศาสตราโฮป V",
       "es-419": "Aspa esperanza V"
     },
     "descriptions": {
@@ -338,6 +347,7 @@
       "zh-Hant": "為東部地區調查特別開發的充能斧。\r\n盾牌並非只用於防禦，注入力量再\r\n加以解放吧！",
       "zh-Hans": "为调查东部地区而特别制作的盾斧。\r\n盾牌的功能可不单单是格挡。灌注\r\n力量，释放它的威力吧！",
       "ar": "نصل مشحون مصنوع خصيصًا للبعثة. \r\nالترس ليس للدفاع فقط. \r\nأطلق العنان لقوتكَ!",
+      "th": "ชาร์จเบลดที่ทำขึ้นเพื่อการสำรวจ\r\nโดยเฉพาะ โล่ทำได้มากกว่าใช้\r\nป้องกัน ปลดปล่อยพลังออกมา!",
       "es-419": "Un hacha cargada hecha para la\r\nexpedición. Un escudo es más que\r\nuna defensa. ¡Desata tu poder!"
     },
     "rarity": 7,
@@ -400,6 +410,7 @@
       "zh-Hant": "骨製兵裝Ⅰ",
       "zh-Hans": "骨制兵装Ⅰ",
       "ar": "نصل العظام القوي 1",
+      "th": "ศาสตรากระดูก I",
       "es-419": "Aspa ósea I"
     },
     "descriptions": {
@@ -416,6 +427,7 @@
       "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
       "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
       "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "th": "ชาร์จเบลดที่ตกแต่งด้วยกระดูก\r\nไร้ซึ่งกลไกที่ซับซ้อนเพื่อเน้น\r\nโครงสร้างที่มีความแข็งแรง",
       "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
     },
     "rarity": 1,
@@ -474,6 +486,7 @@
       "zh-Hant": "骨製兵裝Ⅱ",
       "zh-Hans": "骨制兵装Ⅱ",
       "ar": "نصل العظام القوي 2",
+      "th": "ศาสตรากระดูก II",
       "es-419": "Aspa ósea II"
     },
     "descriptions": {
@@ -490,6 +503,7 @@
       "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
       "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
       "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "th": "ชาร์จเบลดที่ตกแต่งด้วยกระดูก\r\nไร้ซึ่งกลไกที่ซับซ้อนเพื่อเน้น\r\nโครงสร้างที่มีความแข็งแรง",
       "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
     },
     "rarity": 2,
@@ -550,6 +564,7 @@
       "zh-Hant": "骨製兵裝Ⅲ",
       "zh-Hans": "骨制兵装Ⅲ",
       "ar": "نصل العظام القوي 3",
+      "th": "ศาสตรากระดูก III",
       "es-419": "Aspa ósea III"
     },
     "descriptions": {
@@ -566,6 +581,7 @@
       "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
       "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
       "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "th": "ชาร์จเบลดที่ตกแต่งด้วยกระดูก\r\nไร้ซึ่งกลไกที่ซับซ้อนเพื่อเน้น\r\nโครงสร้างที่มีความแข็งแรง",
       "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
     },
     "rarity": 4,
@@ -625,6 +641,7 @@
       "zh-Hant": "骨製兵裝Ⅳ",
       "zh-Hans": "骨制兵装Ⅳ",
       "ar": "نصل العظام القوي 4",
+      "th": "ศาสตรากระดูก IV",
       "es-419": "Aspa ósea IV"
     },
     "descriptions": {
@@ -641,6 +658,7 @@
       "zh-Hant": "以骨頭加工而成的充能斧。\r\n為了發揮素材本身的強韌性，\r\n刻意不使用過於精密的結構。",
       "zh-Hans": "加工骨头所得的盾斧。为了发挥素\r\n材的强韧度，有意避免了复杂纤细\r\n的设计。",
       "ar": "نصل عظمي مشحون\r\nيستغني عن أي آليات معقّدة\r\nلصالح بنية متينة.",
+      "th": "ชาร์จเบลดที่ตกแต่งด้วยกระดูก\r\nไร้ซึ่งกลไกที่ซับซ้อนเพื่อเน้น\r\nโครงสร้างที่มีความแข็งแรง",
       "es-419": "Hacha cargada hecha de hueso.\r\nEvita cualquier mecanismo\r\nelaborado en favor de una\r\nconstrucción robusta."
     },
     "rarity": 6,
@@ -702,6 +720,7 @@
       "zh-Hant": "硬骨兵裝",
       "zh-Hans": "硬骨兵装",
       "ar": "نصل العظام الصلب",
+      "th": "ศาสตรากระดูกแข็ง",
       "es-419": "Aspa de hueso pétreo"
     },
     "descriptions": {
@@ -712,12 +731,13 @@
       "de": "Dieser verbesserte Knochen-\r\nSchläger besteht aus stärkeren\r\nMaterialien und bietet Jägern\r\nzusätzliche Kraft.",
       "es": "Aspa ósea reparada con materiales\r\nmás fuertes. Ofrece esa potencia\r\nadicional que todo buen cazador\r\nansía.",
       "ru": "Укреплённый вариант «Костяного\r\nштык-ножа». Ни один охотник не\r\nоткажется от более эффективного\r\nоружия.",
-      "pl": "Ta ulepszona kościana siłówka\r\nwyposażona w mocniejsze materiały\r\nzapewnia dodatkową moc,\r\nktórej pragną łowcy.",
+      "pl": "Ta ulepszona kościana siłówka\r\nwyposażona w mocniejsze\r\nmateriały zapewnia dodatkową\r\nmoc, której pragną łowcy.",
       "pt-BR": "Usando materiais mais fortes, este\r\nBraço Ósseo tem o poder ofensivo\r\nextra que os caçadores procuram.",
       "ko": "단단한 뼈를 엄선해 보강한\r\n본암즈. 사용감은 유지하고\r\n위력을 올렸다.",
       "zh-Hant": "精選堅硬的骨頭，補強了各個部位的\r\n骨製兵裝。保留良好手感，並提升了\r\n威力。",
       "zh-Hans": "精选硬质的骨进行强化后的骨制兵\r\n装。保留良好手感，进一步提升了\r\n威力。",
       "ar": "نصل عظام قوي متطور\r\nمُعاد تصنيعه من مواد أقوى\r\nيحوز القوة الإضافية\r\nالتي يتوق إليها الصياد.",
+      "th": "ศาสตรากระดูกขั้นสูงที่ปรับปรุงด้วย\r\nวัตถุดิบที่แข็งแกร่งขึ้น มาพร้อมพลัง\r\nพิเศษที่เหล่าฮันเตอร์หมายปอง",
       "es-419": "Creada con materiales más\r\nresistentes, esta aspa avanzada\r\nofrece esa potencia adicional\r\nque todo buen cazador ansía."
     },
     "rarity": 8,
@@ -780,6 +800,7 @@
       "zh-Hant": "鍛鐵充能斧Ⅰ",
       "zh-Hans": "混铅盾斧Ⅰ",
       "ar": "الواقي الفائق 1",
+      "th": "ไฮเปอร์การ์ด I",
       "es-419": "Hiperguardia I"
     },
     "descriptions": {
@@ -796,6 +817,7 @@
       "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
       "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
       "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "th": "ชาร์จเบลดที่ใช้กันแพร่หลาย\r\nไร้ความประณีต แต่ทนความ\r\nเสียหายและมีขนาดที่เหมาะ\r\nสมกับมือใหม่",
       "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
     },
     "rarity": 2,
@@ -855,6 +877,7 @@
       "zh-Hant": "鍛鐵充能斧Ⅱ",
       "zh-Hans": "混铅盾斧Ⅱ",
       "ar": "الواقي الفائق 2",
+      "th": "ไฮเปอร์การ์ด II",
       "es-419": "Hiperguardia II"
     },
     "descriptions": {
@@ -871,6 +894,7 @@
       "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
       "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
       "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "th": "ชาร์จเบลดที่ใช้กันแพร่หลาย\r\nไร้ความประณีต แต่ทนความ\r\nเสียหายและมีขนาดที่เหมาะ\r\nสมกับมือใหม่",
       "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
     },
     "rarity": 4,
@@ -930,6 +954,7 @@
       "zh-Hant": "鍛鐵充能斧Ⅲ",
       "zh-Hans": "混铅盾斧Ⅲ",
       "ar": "الواقي الفائق 3",
+      "th": "ไฮเปอร์การ์ด III",
       "es-419": "Hiperguardia III"
     },
     "descriptions": {
@@ -946,6 +971,7 @@
       "zh-Hant": "常見的充能斧，適合初學者。由於是\r\n量產型，作工較粗糙，但堅固結實，\r\n容易操作。",
       "zh-Hans": "大量流通的新手用盾斧。因为是量\r\n产型，略微有些粗糙，但坚固且易\r\n用。",
       "ar": "نصل مشحون متداول بكثرة\r\nمظهره متواضع، لكنه صعب\r\nالكسر ومثالي للمبتدئين.",
+      "th": "ชาร์จเบลดที่ใช้กันแพร่หลาย\r\nไร้ความประณีต แต่ทนความ\r\nเสียหายและมีขนาดที่เหมาะ\r\nสมกับมือใหม่",
       "es-419": "Un hacha cargada en amplia\r\ncirculación. Rudimentaria, pero\r\ndifícil de romper y con el peso\r\njusto para los novatos."
     },
     "rarity": 6,
@@ -1007,6 +1033,7 @@
       "zh-Hant": "合金充能斧",
       "zh-Hans": "合金盾斧",
       "ar": "ريجاس الفائق",
+      "th": "รีกัสไฮเปอร์",
       "es-419": "Hiperregas"
     },
     "descriptions": {
@@ -1023,6 +1050,7 @@
       "zh-Hant": "混合多種金屬的強化版鍛鐵充能斧。\r\n保留了容易操作的優點，且大幅提升\r\n破壞力。",
       "zh-Hans": "以多种金属互相配合，提高了使用\r\n性能。保留原本的手感，进一步加\r\n强了破坏力。",
       "ar": "تسمح المعادن الأفضل لهذا الواقي\r\nالفائق المتطور بإلحاق المزيد من\r\nالأذى دون التضحية بأي قدرة على\r\nالتحكم.",
+      "th": "โลหะที่ดียิ่งขึ้นช่วยให้ไฮเปอร์การ์ด\r\nขั้นสูงรุ่นนี้สร้างความเสียหายได้\r\nรุนแรงขึ้นโดยไม่ลดประสิทธิภาพ\r\nในการควบคุม",
       "es-419": "El uso de mejores metales\r\npermite a esta Hiperguardia\r\navanzada infligir más daño sin\r\nsacrificar su maniobrabilidad."
     },
     "rarity": 8,
@@ -1083,6 +1111,7 @@
       "zh-Hant": "纏蛙兵裝Ⅰ",
       "zh-Hans": "缠蛙兵装Ⅰ",
       "ar": "نصل تشاتا القوي 1",
+      "th": "ศาสตราชาตา I",
       "es-419": "Aspa de Chata I"
     },
     "descriptions": {
@@ -1099,6 +1128,7 @@
       "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
       "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
       "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "th": "ชาร์จเบลดชาตาคาบรา กลไกเปลี่ยน\r\nรูปร่างหุ้มเกราะช่วยเพิ่มความทนทาน",
       "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
     },
     "rarity": 1,
@@ -1157,6 +1187,7 @@
       "zh-Hant": "纏蛙兵裝Ⅱ",
       "zh-Hans": "缠蛙兵装Ⅱ",
       "ar": "نصل تشاتا القوي 2",
+      "th": "ศาสตราชาตา II",
       "es-419": "Aspa de Chata II"
     },
     "descriptions": {
@@ -1173,6 +1204,7 @@
       "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
       "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
       "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "th": "ชาร์จเบลดชาตาคาบรา กลไกเปลี่ยน\r\nรูปร่างหุ้มเกราะช่วยเพิ่มความทนทาน",
       "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
     },
     "rarity": 3,
@@ -1232,6 +1264,7 @@
       "zh-Hant": "纏蛙兵裝Ⅲ",
       "zh-Hans": "缠蛙兵装Ⅲ",
       "ar": "نصل تشاتا القوي 3",
+      "th": "ศาสตราชาตา III",
       "es-419": "Aspa de Chata III"
     },
     "descriptions": {
@@ -1248,6 +1281,7 @@
       "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
       "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
       "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "th": "ชาร์จเบลดชาตาคาบรา กลไกเปลี่ยน\r\nรูปร่างหุ้มเกราะช่วยเพิ่มความทนทาน",
       "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
     },
     "rarity": 5,
@@ -1310,6 +1344,7 @@
       "zh-Hant": "纏蛙兵裝Ⅳ",
       "zh-Hans": "缠蛙兵装Ⅳ",
       "ar": "نصل تشاتا القوي 4",
+      "th": "ศาสตราชาตา IV",
       "es-419": "Aspa de Chata IV"
     },
     "descriptions": {
@@ -1326,6 +1361,7 @@
       "zh-Hant": "以纏蛙素材與骨製成的充能斧。變形\r\n的關鍵零件有素材包覆，穩定性得以\r\n提升。",
       "zh-Hans": "使用缠蛙的素材和骨制成的盾斧。\r\n变形的关键部件得到了包裹，稳定\r\n性得以提高。",
       "ar": "نصل مشحون من (تشاتاكابرا).\r\nآلية التحول المحمية تزيد من المتانة.",
+      "th": "ชาร์จเบลดชาตาคาบรา กลไกเปลี่ยน\r\nรูปร่างหุ้มเกราะช่วยเพิ่มความทนทาน",
       "es-419": "Hacha cargada hecha de partes\r\nde Chatacabra. Su mecanismo\r\ntransformador protegido\r\naumenta la estabilidad."
     },
     "rarity": 7,
@@ -1388,6 +1424,7 @@
       "zh-Hant": "刺花盾Ⅰ",
       "zh-Hans": "刺花盾斧Ⅰ",
       "ar": "بوكليير بارينا 1",
+      "th": "บารินาบูคลิเอร์ I",
       "es-419": "Bouclier de Barina I"
     },
     "descriptions": {
@@ -1404,6 +1441,7 @@
       "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
       "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
       "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "th": "ชาร์จเบลดที่อัดแน่นไปด้วยเส้นใยของ\r\nลาลา บารินา การฟันโจมตีทำให้เหยื่อ\r\nเป็นอัมพาตจนต้องยอมสยบ",
       "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
     },
     "rarity": 1,
@@ -1470,6 +1508,7 @@
       "zh-Hant": "刺花盾Ⅱ",
       "zh-Hans": "刺花盾斧Ⅱ",
       "ar": "بوكليير بارينا 2",
+      "th": "บารินาบูคลิเอร์ II",
       "es-419": "Bouclier de Barina II"
     },
     "descriptions": {
@@ -1486,6 +1525,7 @@
       "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
       "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
       "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "th": "ชาร์จเบลดที่อัดแน่นไปด้วยเส้นใยของ\r\nลาลา บารินา การฟันโจมตีทำให้เหยื่อ\r\nเป็นอัมพาตจนต้องยอมสยบ",
       "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
     },
     "rarity": 3,
@@ -1552,6 +1592,7 @@
       "zh-Hant": "刺花盾Ⅲ",
       "zh-Hans": "刺花盾斧Ⅲ",
       "ar": "بوكليير بارينا 3",
+      "th": "บารินาบูคลิเอร์ III",
       "es-419": "Bouclier de Barina III"
     },
     "descriptions": {
@@ -1568,6 +1609,7 @@
       "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
       "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
       "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "th": "ชาร์จเบลดที่อัดแน่นไปด้วยเส้นใยของ\r\nลาลา บารินา การฟันโจมตีทำให้เหยื่อ\r\nเป็นอัมพาตจนต้องยอมสยบ",
       "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
     },
     "rarity": 5,
@@ -1637,6 +1679,7 @@
       "zh-Hant": "刺花盾Ⅳ",
       "zh-Hans": "刺花盾斧Ⅳ",
       "ar": "بوكليير بارينا 4",
+      "th": "บารินาบูคลิเอร์ IV",
       "es-419": "Bouclier de Barina IV"
     },
     "descriptions": {
@@ -1653,6 +1696,7 @@
       "zh-Hant": "布滿刺花蜘蛛纖維的充能斧。斬擊帶\r\n麻痺屬性，絕不會放過到手的獵物。",
       "zh-Hans": "布满了刺花蜘蛛纤维的盾斧。斩击\r\n带有麻痹属性，绝不会放走任何到\r\n手猎物。",
       "ar": "نصل (لالا بارينا) مشحون مُزود بالألياف.\r\nتشل هجماته القاطعة\r\nحركة الفريسة وتخضعها.",
+      "th": "ชาร์จเบลดที่อัดแน่นไปด้วยเส้นใยของ\r\nลาลา บารินา การฟันโจมตีทำให้เหยื่อ\r\nเป็นอัมพาตจนต้องยอมสยบ",
       "es-419": "Un hacha cargada de Lala Barina\r\ncon sus fibras. Sus ataques\r\ntipo tajo paralizan a la presa\r\ny la abaten."
     },
     "rarity": 7,
@@ -1722,6 +1766,7 @@
       "zh-Hant": "捕鳥蛛刺花盾斧",
       "zh-Hans": "毒蛛刺花盾斧",
       "ar": "يومينوفور لالا",
+      "th": "ลาลายูเมโนฟอร์",
       "es-419": "Eumenofor de Lala"
     },
     "descriptions": {
@@ -1738,6 +1783,7 @@
       "zh-Hant": "以更加強韌的纖維連接各部位的\r\n強化版刺花盾。行雲流水的攻擊\r\n破壞力十分驚人。",
       "zh-Hans": "刺花盾斧的强化版，用更加柔韧的\r\n纤维连接了各个部位。在灵活的联\r\n动下，每一次攻击都异常强劲。",
       "ar": "(بوكليير بارينا) مطوَّر.\r\nتتيح شبكة الألياف الصلبة\r\nضربات أكثر شراسة.",
+      "th": "บารินาบูคลิเอร์รุ่นอัปเกรด โครง\r\nข่ายเส้นใยที่แข็งแกร่งช่วยให้\r\nการโจมตีดุดันยิ่งขึ้น",
       "es-419": "Una versión mejorada de\r\nBouclier de Barina con una\r\nred de fibras resistentes\r\npara impactos más feroces."
     },
     "rarity": 8,
@@ -1807,6 +1853,7 @@
       "zh-Hant": "波衣盾Ⅰ",
       "zh-Hans": "波涛盾斧Ⅰ",
       "ar": "فاليروخي أوث 1",
+      "th": "อุธวาเลโรเฮ I",
       "es-419": "Valeroje de Uth I"
     },
     "descriptions": {
@@ -1823,6 +1870,7 @@
       "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
       "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
       "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "th": "ชาร์จเบลดอุธ ดูนา โล่ที่งดงาม\r\nเข้าคู่กับคมดาบที่ห่อหุ้มด้วยน้ำ\r\nเพื่อพิฆาตศัตรู",
       "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
     },
     "rarity": 3,
@@ -1888,6 +1936,7 @@
       "zh-Hant": "波衣盾Ⅱ",
       "zh-Hans": "波涛盾斧Ⅱ",
       "ar": "فاليروخي أوث 2",
+      "th": "อุธวาเลโรเฮ II",
       "es-419": "Valeroje de Uth II"
     },
     "descriptions": {
@@ -1904,6 +1953,7 @@
       "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
       "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
       "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "th": "ชาร์จเบลดอุธ ดูนา โล่ที่งดงาม\r\nเข้าคู่กับคมดาบที่ห่อหุ้มด้วยน้ำ\r\nเพื่อพิฆาตศัตรู",
       "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
     },
     "rarity": 5,
@@ -1972,6 +2022,7 @@
       "zh-Hant": "波衣盾Ⅲ",
       "zh-Hans": "波涛盾斧Ⅲ",
       "ar": "فاليروخي أوث 3",
+      "th": "อุธวาเลโรเฮ III",
       "es-419": "Valeroje de Uth III"
     },
     "descriptions": {
@@ -1988,6 +2039,7 @@
       "zh-Hant": "以波衣龍素材製作的充能斧。美麗\r\n的盾牌能保護主人，帶水的斧刃則能\r\n以重擊壓潰對方。",
       "zh-Hans": "使用波衣龙素材制作的盾斧。美丽\r\n的盾会守护主人，带水的斧会用重\r\n击碾碎对方。",
       "ar": "نصل (أوث دونا) مشحون\r\nمُزود بترس جميل وشفرة مشبعة بالماء\r\nلتوجيه ضربات ساحقة للفريسة.",
+      "th": "ชาร์จเบลดอุธ ดูนา โล่ที่งดงาม\r\nเข้าคู่กับคมดาบที่ห่อหุ้มด้วยน้ำ\r\nเพื่อพิฆาตศัตรู",
       "es-419": "Un hacha cargada de Uth\r\nDuna. Su adorable escudo con\r\nun filo revestido de agua\r\npuede aplastar a su presa."
     },
     "rarity": 7,
@@ -2058,6 +2110,7 @@
       "zh-Hant": "狂瀾波濤盾斧",
       "zh-Hans": "狂澜波涛盾斧",
       "ar": "فاليروخي الأمواج",
+      "th": "วาเลโรเฮแห่งเกลียวคลื่น",
       "es-419": "Valeroje de las olas"
     },
     "descriptions": {
@@ -2068,12 +2121,13 @@
       "de": "Eine verbesserte Uth Valeroje\r\nmit einem verführerischen\r\nSchimmer. Stürzt sich auf\r\nFeinde wie reißende Fluten.",
       "es": "Uth Valeroje mejorada con un\r\nfulgor irresistible. Aplasta a\r\nlos enemigos como un alud,\r\nanulando cualquier opción.",
       "ru": "Улучшенный вариант «Утдунового\r\nщита волн» манит своим блеском\r\nи очищает от дурных намерений\r\nподобно бушующему потоку воды.",
-      "pl": "Ulepszona wersja falującej\r\ntarczy Utha o nęcącym blasku.\r\nUderza we wrogów niczym powódź,\r\nusuwając złe zamiary.",
+      "pl": "Ulepszona wersja falującej\r\ntarczy Utha o nęcącym blasku.\r\nUderza we wrogów niczym\r\npowódź, usuwając złe zamiary.",
       "pt-BR": "Uth Valeroje melhorado com um\r\nbrilho encantador. Esmaga os\r\ninimigos como uma enchente,\r\npurificando más intenções.",
       "ko": "요염하게 빛나는 우드 발레로야\r\n강화판. 중격이 자아내는\r\n방대한 물줄기는 사냥감의\r\n악의마저도 휩쓸어버린다.",
       "zh-Hant": "閃耀妖異光輝的強化版波衣盾。沉重\r\n攻擊產生的龐大水量足以將獵物連同\r\n惡意一併沖走。",
       "zh-Hans": "闪耀着妖艳光芒的波涛盾斧强化版。\r\n重击产生的庞大水量会将猎物连同\r\n它的恶意一道卷走。",
       "ar": "(فاليروخي أوث) مطوَّر مع بريق جذاب.\r\nيضرب الأعداء مثل الطوفان\r\nويطهر النوايا السيئة.",
+      "th": "อุธวาเลโรเฮรุ่นอัปเกรดที่มีแสง\r\nเรืองรองอย่างน่าดึงดูดพร้อม\r\nฟาดฟันศัตรูเหมือนน้ำหลาก\r\nชะล้างความอาฆาตหายสิ้น",
       "es-419": "Un Uth Valeroje mejorado con un\r\nbrillo atractivo. Golpea a los\r\nenemigos como un aluvión,\r\npurgando toda mala intención."
     },
     "rarity": 8,
@@ -2142,6 +2196,7 @@
       "zh-Hant": "沼噴防衛斧Ⅰ",
       "zh-Hans": "沼喷盾斧Ⅰ",
       "ar": "حامل ترس رومبو 1",
+      "th": "ดาบพิทักษ์รอมโป I",
       "es-419": "Rompoescudo I"
     },
     "descriptions": {
@@ -2158,6 +2213,7 @@
       "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
       "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
       "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "th": "ขวานที่สร้างจากชิ้นส่วนรอมโปโปโล\r\nสามารถปล่อยพิษที่ทำให้รู้สึก\r\nเจ็บปวดแสนสาหัสได้",
       "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
     },
     "rarity": 3,
@@ -2224,6 +2280,7 @@
       "zh-Hant": "沼噴防衛斧Ⅱ",
       "zh-Hans": "沼喷盾斧Ⅱ",
       "ar": "حامل ترس رومبو 2",
+      "th": "ดาบพิทักษ์รอมโป II",
       "es-419": "Rompoescudo II"
     },
     "descriptions": {
@@ -2240,6 +2297,7 @@
       "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
       "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
       "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "th": "ขวานที่สร้างจากชิ้นส่วนรอมโปโปโล\r\nสามารถปล่อยพิษที่ทำให้รู้สึกเจ็บ\r\nปวดแสนสาหัสได้",
       "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
     },
     "rarity": 5,
@@ -2308,6 +2366,7 @@
       "zh-Hant": "沼噴防衛斧Ⅲ",
       "zh-Hans": "沼喷盾斧Ⅲ",
       "ar": "حامل ترس رومبو 3",
+      "th": "ดาบพิทักษ์รอมโป III",
       "es-419": "Rompoescudo III"
     },
     "descriptions": {
@@ -2324,6 +2383,7 @@
       "zh-Hant": "以沼噴龍素材製作的充能斧。機關\r\n打開時會噴出內藏的毒氣，令斧刃\r\n斬中的對手痛苦無比。",
       "zh-Hans": "使用沼喷龙素材制作的盾斧。机关\r\n展开时会释放内部的毒，让接触到\r\n斧刃的对手感到痛苦。",
       "ar": "هذا الفأس مصنوع من أجزاء (رومبوبولو).\r\nيمكنه إطلاق سم\r\nيسبب ألمًا مبرحًا.",
+      "th": "ขวานที่สร้างจากชิ้นส่วนรอมโปโปโล\r\nสามารถปล่อยพิษที่ทำให้รู้สึก\r\nเจ็บปวดแสนสาหัสได้",
       "es-419": "Hecha de partes de Rompopolo,\r\nesta hacha puede liberar un\r\nveneno que provoca un dolor\r\ninsoportable."
     },
     "rarity": 7,
@@ -2392,6 +2452,7 @@
       "zh-Hant": "曼巴蛇毒沼噴盾斧",
       "zh-Hans": "沼喷蛇毒盾斧",
       "ar": "ديندروتوكس رومبو",
+      "th": "รอมโปเดนโดรทอกซ์",
       "es-419": "Dendrotoxina de Rompo"
     },
     "descriptions": {
@@ -2401,13 +2462,14 @@
       "it": "Parla il Difensore Rompo: la mia\r\nspada vanta dosi maggiori e il\r\nmio scudo, più tempo. Cerco un\r\npadrone dalla mente sagace.",
       "de": "Der Rompo-Beschützer spricht:\r\nMein Schwert hat mehr Gift,\r\nmein Schild hat mehr Zeit. Mein\r\nTräger braucht Verschlagenheit.",
       "es": "La Romposcudo habla: \"Mi hoja\r\npresume de sus grandes dosis, y\r\nmi escudo, de su duración. Busco\r\na alguien astuto que me empuñe\".",
-      "ru": "Улучшенный «Ромпополовый защитник»\r\nмолвит: мой клинок насыщеннее,\r\nа щит долговечнее. Я ищу для\r\nсебя мудрого обладателя.",
+      "ru": "Улучшенный «Ромпополовый\r\nзащитник» молвит: «Мой клинок\r\nмощнее, а щит долговечнее.\r\nЯ ищу мудрого владельца».",
       "pl": "Romprotego zwiastuje:\r\nMiecz niesie silniejszą truciznę.\r\na tarcza spowalnia jej moc.\r\nPoszukuję mądrego posiadacza.",
       "pt-BR": "O Escudeiro Rompo fala: Minha\r\nespada possui doses maiores, e\r\nmeu escudo possui mais tempo.\r\nBusco um mestre de mente afiada.",
       "ko": "푸푸로가더의 강화형은 고한다.\r\n검에겐 다음 투여량. 방패에겐\r\n독의 발병 시간.\r\n현명한 식견을 우리는 원한다.",
       "zh-Hant": "強化版沼噴防衛斧如此說道：劍上\r\n刻有下次用毒的劑量，盾上則提示\r\n毒發時間。知識乃吾之所欲。",
       "zh-Hans": "强化版的沼喷盾斧如是说：剑上刻\r\n有下次用毒剂量，盾上则提示毒发\r\n时间。知识乃吾之所欲。",
       "ar": "يتكلم (حامل ترس رومبو):\r\nيتمتع سيفي بجرعات أكبر\r\nوترسي بوقت أطول.\r\nأبحث عن حامل ذكي.",
+      "th": "ดาบพิทักษ์รอมโปกล่าวว่า: ดาบ\r\nของข้ามีพิษที่รุนแรงกว่าสิ่งใดและ\r\nโล่ของข้า ทำให้พิษทนนานกว่า\r\nข้าแสวงหาผู้ครอบครองที่รอบรู้",
       "es-419": "El Rompoescudo dice:\r\nmi espada ostenta grandeza\r\ny mi escudo, tiempo.\r\nBusco a un portador atento."
     },
     "rarity": 8,
@@ -2475,6 +2537,7 @@
       "zh-Hant": "煌雷盾Ⅰ",
       "zh-Hans": "煌雷盾斧Ⅰ",
       "ar": "راي أسترابي 1",
+      "th": "เรย์แอสทราพี I",
       "es-419": "Ástrape de Rey I"
     },
     "descriptions": {
@@ -2485,12 +2548,13 @@
       "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
       "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
       "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
-      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pl": "Ładowane ostrze nasycone\r\ngromem Rey Dau. Ostre szpony\r\nskrzydłowe przebiją każdą łuskę.",
       "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
       "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
       "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
       "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
       "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "th": "ชาร์จเบลดที่ซึมซับพลังสายฟ้า\r\nของเรย์ ดาว กรงเล็บติดปีกคม\r\nกริบสามารถจะทะลวงเกล็ด\r\nแข็งได้ทุกชนิด",
       "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
     },
     "rarity": 3,
@@ -2557,6 +2621,7 @@
       "zh-Hant": "煌雷盾Ⅱ",
       "zh-Hans": "煌雷盾斧Ⅱ",
       "ar": "راي أسترابي 2",
+      "th": "เรย์แอสทราพี II",
       "es-419": "Ástrape de Rey II"
     },
     "descriptions": {
@@ -2567,12 +2632,13 @@
       "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
       "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
       "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
-      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pl": "Ładowane ostrze nasycone\r\ngromem Rey Dau. Ostre szpony\r\nskrzydłowe przebiją każdą łuskę.",
       "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
       "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
       "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
       "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
       "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "th": "ชาร์จเบลดที่ซึมซับพลังสายฟ้า\r\nของเรย์ ดาว กรงเล็บติดปีกคม\r\nกริบสามารถจะทะลวงเกล็ด\r\nแข็งได้ทุกชนิด",
       "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
     },
     "rarity": 5,
@@ -2642,6 +2708,7 @@
       "zh-Hant": "煌雷盾Ⅲ",
       "zh-Hans": "煌雷盾斧Ⅲ",
       "ar": "راي أسترابي 3",
+      "th": "เรย์แอสทราพี III",
       "es-419": "Ástrape de Rey III"
     },
     "descriptions": {
@@ -2652,12 +2719,13 @@
       "de": "Eine von Ray Daus Donner\r\nerfüllte Energieklinge. Ihre\r\nscharfen Flügelklauen können\r\njede Schuppe durchdringen.",
       "es": "Hacha cargada imbuida con\r\nla energía del rayo del Rey Dau.\r\nSus afiladas garras de ala\r\nperforan cualquier escama.",
       "ru": "Силовой клинок, заряженный\r\nгрозовой энергией рей дау. Острые\r\nкогти на вращающемся клинке\r\nмогут пронзить любую чешую.",
-      "pl": "Ładowane ostrze nasycone gromem\r\nRey Dau. Ostre szpony skrzydłowe\r\nprzebiją każdą łuskę.",
+      "pl": "Ładowane ostrze nasycone\r\ngromem Rey Dau. Ostre szpony\r\nskrzydłowe przebiją każdą łuskę.",
       "pt-BR": "Lâmina dínamo imbuída com o\r\ntrovão de Rey Dau. As garras\r\nafiadas na lâmina giratória\r\nperfuram qualquer escama.",
       "ko": "레 다우의 벼락을 두른\r\n차지액스. 회전날의 예리한\r\n뇌정발톱이 아무리 단단한\r\n비늘이라도 베어버린다.",
       "zh-Hant": "帶有煌雷龍雷電的充能斧。不論鱗片\r\n有多堅硬，迴轉刀刃上的銳利雷晶爪\r\n都可斬開。",
       "zh-Hans": "带有煌雷龙雷电的盾斧。旋转刃上\r\n有锐利的雷晶爪，无论多么坚硬的\r\n鳞都能劈开。",
       "ar": "نصل مشحون مُشبع برعد (راي داو).\r\nيمكن لمخالب أجنحتها الحادة\r\nأن تخترق أي قشور.",
+      "th": "ชาร์จเบลดที่ซึมซับพลังสายฟ้า\r\nของเรย์ ดาว กรงเล็บติดปีกคม\r\nกริบสามารถจะทะลวงเกล็ด\r\nแข็งได้ทุกชนิด",
       "es-419": "Un hacha cargada impregnada con\r\nel rayo de Rey Dau. Las zarpas\r\nafiladas pueden atravesar\r\ncualquier escama."
     },
     "rarity": 7,
@@ -2728,6 +2796,7 @@
       "zh-Hant": "煌雷閃電盾斧",
       "zh-Hans": "煌雷霹雳盾斧",
       "ar": "فأس أسترابي البراق",
+      "th": "ขวานแสงแอสทราพี",
       "es-419": "Hachaclara de Ástrape"
     },
     "descriptions": {
@@ -2744,6 +2813,7 @@
       "zh-Hant": "強化版煌雷盾。雷電啊，解放自身\r\n力量，打出轟動天地的一擊，連\r\n反抗者也一併支配吧。",
       "zh-Hans": "强化版的煌雷盾斧。释放雷电的宏\r\n伟之力，以天地鸣动之一击，使反\r\n抗者臣服于脚下。",
       "ar": "(راي أسترابي) مطوَّر. ليتردد\r\nصدى رعده بحرية فيهز السماء\r\nوالأرض ويقهر كل الأعداء.",
+      "th": "เรย์แอสทราพีรุ่นอัปเกรด ขอให้\r\nฟ้าคำรามกึกก้องไร้พันธนาการ\r\nสะเทือนลั่นไปทั่วฟ้าดินและทำ\r\nให้ศัตรูทั้งหลายต้องศิโรราบ",
       "es-419": "Una versión mejorada de Ástrape\r\nde Rey. Que su rayo resuene y\r\nretumbe en los cielos y la tierra\r\npara postrar a sus enemigos."
     },
     "rarity": 8,
@@ -2813,6 +2883,7 @@
       "zh-Hant": "阿剌克涅之鱗Ⅰ",
       "zh-Hans": "阿剌克涅之鳞Ⅰ",
       "ar": "نصل العنكبوت 1",
+      "th": "อาแรคโนสเกล I",
       "es-419": "Aracnoscala I"
     },
     "descriptions": {
@@ -2829,6 +2900,7 @@
       "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
       "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
       "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "th": "ชาร์จเบลดของเนอร์ซิลลาที่ใช้\r\nชิ้นส่วนที่มีรูปร่างเป็นเอกลักษณ์\r\nเพื่อปลดปล่อยความร้อน\r\nจากการฟัน",
       "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
     },
     "rarity": 3,
@@ -2895,6 +2967,7 @@
       "zh-Hant": "阿剌克涅之鱗Ⅱ",
       "zh-Hans": "阿剌克涅之鳞Ⅱ",
       "ar": "نصل العنكبوت 2",
+      "th": "อาแรคโนสเกล II",
       "es-419": "Aracnoscala II"
     },
     "descriptions": {
@@ -2911,6 +2984,7 @@
       "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
       "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
       "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "th": "ชาร์จเบลดของเนอร์ซิลลาที่ใช้\r\nชิ้นส่วนที่มีรูปร่างเป็นเอกลักษณ์\r\nเพื่อปลดปล่อยความร้อน\r\nจากการฟัน",
       "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
     },
     "rarity": 5,
@@ -2980,6 +3054,7 @@
       "zh-Hant": "阿剌克涅之鱗Ⅲ",
       "zh-Hans": "阿剌克涅之鳞Ⅲ",
       "ar": "نصل العنكبوت 3",
+      "th": "อาแรคโนสเกล III",
       "es-419": "Aracnoscala III"
     },
     "descriptions": {
@@ -2996,6 +3071,7 @@
       "zh-Hant": "巧妙運用影蜘蛛素材的形狀拼接製成\r\n的充能斧。擁有特殊機關，能有效\r\n排出斬擊時產生的摩擦熱能。",
       "zh-Hans": "活用影蜘蛛素材的形状组成的盾斧。\r\n其特殊的构造可以充分释放斩击时\r\n产生的摩擦热。",
       "ar": "نصل (نيرسكيلا) يستخدم مكوناته\r\nمن  أجزائه الفريدة لإطلاق\r\nحرارة احتكاكية.",
+      "th": "ชาร์จเบลดของเนอร์ซิลลาที่ใช้\r\nชิ้นส่วนที่มีรูปร่างเป็นเอกลักษณ์\r\nเพื่อปลดปล่อยความร้อน\r\nจากการฟัน",
       "es-419": "Un hacha cargada de Nerscylla\r\nque utiliza sus partes con\r\nforma única para liberar calor\r\npor fricción con cada tajo."
     },
     "rarity": 7,
@@ -3066,6 +3142,7 @@
       "zh-Hant": "阿剌克涅之鐮",
       "zh-Hans": "阿剌克涅之镰",
       "ar": "منجل العنكبوت",
+      "th": "อาแรคโนไซธ์",
       "es-419": "Aracnoguadaña"
     },
     "descriptions": {
@@ -3082,6 +3159,7 @@
       "zh-Hant": "強化版阿剌克涅之鱗，特殊機關能\r\n進一步降低摩擦。面對堅硬甲殼也是\r\n削鐵如泥。",
       "zh-Hans": "强化后的阿剌克涅之鳞，进一步降\r\n低了摩擦。坚硬的甲壳也能像切黄\r\n油般被一刀两断。",
       "ar": "نصل العنكبوت مطوَّر.\r\nيمكن لمزيل الحرارة المحسّن أن\r\nيقطع الصفائح السميكة مثل الزبدة.",
+      "th": "อาแรคโนสเกลรุ่นอัปเกรด ปรับ\r\nปรุงตัวปล่อยความร้อนใหม่จึง\r\nสามารถตัดแผ่นเกราะหนา\r\nได้เหมือนตัดเนย",
       "es-419": "Aracnoscala mejorada. El\r\nliberador de calor mejorado\r\npuede cortar corazas gruesas\r\ncomo si fuera mantequilla."
     },
     "rarity": 8,
@@ -3150,6 +3228,7 @@
       "zh-Hant": "風爪盾斧Ⅰ",
       "zh-Hans": "风爪盾斧Ⅰ",
       "ar": "شاحن الرياح العاتية 1",
+      "th": "ชาร์จเบลดผ่าลม I",
       "es-419": "Cargador azotavento I"
     },
     "descriptions": {
@@ -3166,6 +3245,7 @@
       "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
       "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
       "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "th": "ขวานที่สร้างขึ้นจากวัตถุดิบ\r\nฮิราบามิ ไม่มีเหยื่อตัวใดรอดพ้น\r\nจากกรงเล็บของมันไปได้",
       "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
     },
     "rarity": 3,
@@ -3233,6 +3313,7 @@
       "zh-Hant": "風爪盾斧Ⅱ",
       "zh-Hans": "风爪盾斧Ⅱ",
       "ar": "شاحن الرياح العاتية 2",
+      "th": "ชาร์จเบลดผ่าลม II",
       "es-419": "Cargador azotavento II"
     },
     "descriptions": {
@@ -3249,6 +3330,7 @@
       "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
       "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
       "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "th": "ขวานที่สร้างขึ้นจากวัตถุดิบ\r\nฮิราบามิ ไม่มีเหยื่อตัวใดรอดพ้น\r\nจากกรงเล็บของมันไปได้",
       "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
     },
     "rarity": 5,
@@ -3318,6 +3400,7 @@
       "zh-Hant": "風爪盾斧Ⅲ",
       "zh-Hans": "风爪盾斧Ⅲ",
       "ar": "شاحن الرياح العاتية 3",
+      "th": "ชาร์จเบลดผ่าลม III",
       "es-419": "Cargador azotavento III"
     },
     "descriptions": {
@@ -3334,6 +3417,7 @@
       "zh-Hant": "活用風鋏龍素材特性的充能斧。\r\n合體時伸出的爪不會放過任何\r\n碰到的獵物。",
       "zh-Hans": "利用风铗龙素材的特性制成的盾斧。\r\n合体时张开的利爪不会放过任何触\r\n碰到的猎物。",
       "ar": "فأس مصنوع من مواد (هيرابامي).\r\nلا يمكن لأي فريسة\r\nالهروب من مخالبه.",
+      "th": "ขวานที่สร้างขึ้นจากวัตถุดิบ\r\nฮิราบามิ ไม่มีเหยื่อตัวใดรอดพ้น\r\nจากกรงเล็บของมันไปได้",
       "es-419": "Hacha hecha con materiales de\r\nHirabami. No hay presa capaz de\r\nescapar de sus garras."
     },
     "rarity": 7,
@@ -3403,6 +3487,7 @@
       "zh-Hant": "風爪蓄蝕盾斧",
       "zh-Hans": "蓄蚀风爪盾斧",
       "ar": "تامبامي الرياح العاتية",
+      "th": "ทาเมะบามิผ่าลม",
       "es-419": "Tamebami azotavento"
     },
     "descriptions": {
@@ -3413,12 +3498,13 @@
       "de": "Eine verbesserte Windstoß-\r\nLader. Kann jeden Gegner\r\nbezwingen, der in die heftigen\r\nBöen ihrer Windtänze gerät.",
       "es": "Garra vendaval mejorada. Capaz\r\nde derribar a cualquier oponente\r\natrapado entre las violentas\r\nráfagas de su sinergia danzante.",
       "ru": "Улучшенный вариант «Терзающего\r\nветра». Свирепый вихрь танца\r\nлезвия и щита обещает победу\r\nнад любым противником.",
-      "pl": "Ulepszony Wiatrołomot Szarży,\r\nzdolny powalić przeciwnika\r\nzłapanego w gwałtowne podmuchy\r\ntanecznej synergii.",
+      "pl": "Ulepszony Wiatrołomot Szarży,\r\nzdolny powalić przeciwnika\r\nzłapanego w gwałtowne\r\npodmuchy tanecznej synergii.",
       "pt-BR": "Dínamo Rasgavento melhorado.\r\nCapaz de derrubar qualquer\r\noponente com as rajadas ferozes\r\nde sua sinergia graciosa.",
       "ko": "풍조순부의 강화형.\r\n검과 방패의 연계는\r\n무생연무처럼 소용돌이치는\r\n돌풍과 함께 적을 친다.",
       "zh-Hant": "強化版風爪盾斧。劍與盾的配合有如\r\n武生的劍舞，與逆流的突風一同討伐\r\n敵人。",
       "zh-Hans": "风爪盾斧的强化形态。剑盾联动有\r\n如华丽的剑舞，携逆流的烈风一道\r\n消灭敌人。",
       "ar": "شاحن الرياح العاتية مطوَّر.\r\nقادر على الإطاحة بأي خصم\r\nيقع في خضم تآزر عواصفه الهوجاء\r\nالتي تشبه الرقص.",
+      "th": "ชาร์จเบลดผ่าลมรุ่นอัปเกรด ใช้โค่น\r\nศัตรูด้วยสายลมสุดหฤโหดที่เปรียบ\r\nเสมือนการสอดประสานดั่งเต้นรำ",
       "es-419": "Un cargador azotavento mejorado.\r\nDerriba a todo enemigo\r\natrapado en las feroces ráfagas\r\nde su sinergia danzante."
     },
     "rarity": 8,
@@ -3487,6 +3573,7 @@
       "zh-Hant": "獄鱆斧Ⅰ",
       "zh-Hans": "狱焰盾斧Ⅰ",
       "ar": "بويزا نو 1",
+      "th": "นูพเวซา I",
       "es-419": "Pweza de Nu I"
     },
     "descriptions": {
@@ -3503,6 +3590,7 @@
       "zh-Hant": "以象徵煉獄的獄焰鱆素材製作的\r\n充能斧。其斬擊帶有困於此世的\r\n詛咒，將帶來不幸。",
       "zh-Hans": "以象征炼狱的狱焰蛸素材制成的盾\r\n斧。其斩击带有困于现世的诅咒，\r\n会给对手招致不幸。",
       "ar": "نصل (نو أودرا) مشحون.\r\nيحبس العالم الحي\r\nفي دوامة من اللعنات.",
+      "th": "ชาร์จเบลดของนู อูดราซึ่งจะขังโลก\r\nทั้งใบไว้ในวังวนแห่งคำสาป",
       "es-419": "Un hacha cargada de Nu Udra.\r\nSume el mundo de los vivos en\r\nuna vorágine de perdición."
     },
     "rarity": 4,
@@ -3570,6 +3658,7 @@
       "zh-Hant": "獄鱆斧Ⅱ",
       "zh-Hans": "狱焰盾斧Ⅱ",
       "ar": "بويزا نو 2",
+      "th": "นูพเวซา II",
       "es-419": "Pweza de Nu II"
     },
     "descriptions": {
@@ -3586,6 +3675,7 @@
       "zh-Hant": "以象徵煉獄的獄焰鱆素材製作的\r\n充能斧。其斬擊帶有困於此世的\r\n詛咒，將帶來不幸。",
       "zh-Hans": "以象征炼狱的狱焰蛸素材制成的盾\r\n斧。其斩击带有困于现世的诅咒，\r\n会给对手招致不幸。",
       "ar": "نصل (نو أودرا) مشحون.\r\nيربط العالم الحي باسم الجحيم\r\nفي دوامة من اللعنات.",
+      "th": "ชาร์จเบลดของนู อูดราซึ่งจะขังโลก\r\nทั้งใบไว้ในวังวนแห่งคำสาป",
       "es-419": "Un hacha cargada de Nu Udra.\r\nSume el mundo de los vivos en\r\nuna vorágine de perdición."
     },
     "rarity": 7,
@@ -3655,6 +3745,7 @@
       "zh-Hant": "獄焰惡鱆盾斧",
       "zh-Hans": "恶蛸狱焰盾斧",
       "ar": "بويزا أبادوني",
+      "th": "พเวซาขุมนรก",
       "es-419": "Pweza de Abadón"
     },
     "descriptions": {
@@ -3665,12 +3756,13 @@
       "de": "Verbesserte Nu Pweza aus den\r\ntiefsten Tiefen der Unterwelt.\r\nSie ist bereit, alle Hoffnung\r\nim Höllenfeuer zu verbrennen.",
       "es": "Nu Pweza mejorada. Desde los\r\nconfines más recónditos, siempre\r\npresta a inmolar toda esperanza\r\ncon su fuego infernal.",
       "ru": "Улучшенный вариант «Удрового\r\nспрута». Тянется к жертве из\r\nбездны, стремясь испепелить\r\nлюбую надежду.",
-      "pl": "Ulepszona wersja pwezy Nu.\r\nZ najdalszych krańców jest gotowa spalić\r\nwszelką nadzieję w piekielnym ogniu.",
+      "pl": "Ulepszona wersja pwezy Nu Urdy.\r\nZ najdalszych krańców jest\r\ngotowa spalić wszelką nadzieję\r\nw piekielnym ogniu.",
       "pt-BR": "Nu Pweza melhorado.\r\nDas profundezas subterrâneas,\r\nse prepara para incendiar toda\r\na esperança em fogo infernal.",
       "ko": "깊숙한 곳에서 세계를\r\n들여다보는 누 푸에자 강화형.\r\n저승의 밑바닥에 불타는 불꽃이\r\n희망을 모조리 불태워버린다.",
       "zh-Hant": "從深淵窺看世界的強化版獄鱆斧。\r\n此斧將解放冥府深處燃燒的火焰，\r\n燒盡世間一切希望。",
       "zh-Hans": "狱焰盾斧的强化型，从炼狱深处窥\r\n探世界。它会释放冥府之底燃烧的\r\n烈焰，将所有希望全数焚尽。",
       "ar": "(بويزا نو) مطوَّر.\r\nمن أقصى الأعماق، على استعداد\r\nلحرق كل أمل في نار جهنمية.",
+      "th": "นูพเวซารุ่นอัปเกรด พร้อมแผดเผา\r\nความหวังทั้งปวงด้วยไฟโลกันตร์\r\nจากอเวจี",
       "es-419": "Una versión mejorada de Pweza\r\nde Nu. Desde las profundidades,\r\npretende inmolar toda esperanza\r\nen el fuego infernal."
     },
     "rarity": 8,
@@ -3739,6 +3831,7 @@
       "zh-Hant": "白炎火龍斧Ⅰ",
       "zh-Hans": "白炎盾斧Ⅰ",
       "ar": "نصل ألبيراث 1",
+      "th": "ดาบอัลบิราธ I",
       "es-419": "Hoja de Albirath I"
     },
     "descriptions": {
@@ -3755,6 +3848,7 @@
       "zh-Hant": "以護火龍素材製作的充能斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙素材制作的盾斧。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
       "ar": "نصل (راثالوس) حارس مشحون. روح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "th": "ชาร์จเบลดการ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟลุกโชนให้แก่ผู้ใช้",
       "es-419": "Un hacha cargada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 4,
@@ -3824,6 +3918,7 @@
       "zh-Hant": "白炎火龍斧Ⅱ",
       "zh-Hans": "白炎盾斧Ⅱ",
       "ar": "نصل ألبيراث 2",
+      "th": "ดาบอัลบิราธ II",
       "es-419": "Hoja de Albirath II"
     },
     "descriptions": {
@@ -3840,6 +3935,7 @@
       "zh-Hant": "以護火龍素材製作的充能斧。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙素材制作的盾斧。能带给\r\n持有者如熊熊烈火一般绝不屈服的\r\n斗志。",
       "ar": "نصل (راثالوس) حارس مشحون. روح حامله كنار متأججة\r\nلا تخبو أبدًا.",
+      "th": "ชาร์จเบลดการ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟลุกโชนให้แก่ผู้ใช้",
       "es-419": "Un hacha cargada de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 6,
@@ -3910,6 +4006,7 @@
       "zh-Hant": "灰滅火龍斧",
       "zh-Hans": "湮灭护火盾斧",
       "ar": "ألباثوس حارس",
+      "th": "การ์เดียนอัลบาธอส",
       "es-419": "Albathos Guardián"
     },
     "descriptions": {
@@ -3926,6 +4023,7 @@
       "zh-Hant": "強化版白炎火龍斧。在皓白之力的\r\n奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
       "zh-Hans": "强化后的白炎盾斧。在皓白之力形\r\n成的涌流中，可以感受到高贵的王\r\n者之魂。",
       "ar": "سيف (ألبيراث) مطوَّر. تقبع روح راقية وسط\r\nفيض قوته الخالصة.",
+      "th": "ดาบอัลบิราธรุ่นอัปเกรด\r\nจิตวิญญาณอันสูงส่งสถิตอยู่\r\nภายในกระแสพลังอันยิ่งใหญ่\r\nและบริสุทธิ์",
       "es-419": "Una Hoja de Albirath mejorada. Hay\r\nun alma digna de la realeza en su\r\ninmaculado flujo de potencia."
     },
     "rarity": 8,
@@ -3995,6 +4093,7 @@
       "zh-Hant": "異界之炎Ⅰ",
       "zh-Hans": "异界之炎Ⅰ",
       "ar": "اللهب الكاثوني 1",
+      "th": "เพลิงใต้พิภพ I",
       "es-419": "Llama chthoniana I"
     },
     "descriptions": {
@@ -4011,6 +4110,7 @@
       "zh-Hant": "以護兇爪龍素材製作的充能斧。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
       "zh-Hans": "使用护凶爪龙素材制作的盾斧。是\r\n将屈服于渴望的野兽本能化为实体\r\n的武器。",
       "ar": "نصل (أودوغارون) أسمر حارس\r\nمشحون. بسبب خضوعه لرغباته\r\nالوحشية، لا يرتوي عطشه للدماء أبدًا.",
+      "th": "ชาร์จเบลดการ์เดียนเอโบนีโอโด\r\nการอน ด้วยอำนาจของความ\r\nกระหายเยี่ยงสัตว์ ความโหยหา\r\nเลือดของมันไม่เคยจางหายไป",
       "es-419": "Un hacha cargada de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su sed\r\nde sangre es inagotable."
     },
     "rarity": 4,
@@ -4078,6 +4178,7 @@
       "zh-Hant": "異界之炎Ⅱ",
       "zh-Hans": "异界之炎Ⅱ",
       "ar": "اللهب الكاثوني 2",
+      "th": "เพลิงใต้พิภพ II",
       "es-419": "Llama chthoniana II"
     },
     "descriptions": {
@@ -4094,6 +4195,7 @@
       "zh-Hant": "以護兇爪龍素材製作的充能斧。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
       "zh-Hans": "使用护凶爪龙素材制作的盾斧。是\r\n将屈服于渴望的野兽本能化为实体\r\n的武器。",
       "ar": "نصل (أودوغارون) أسمر حارس\r\nمشحون. بسبب خضوعه لرغباته\r\nالوحشية، لا يرتوي عطشه للدماء أبدًا.",
+      "th": "ชาร์จเบลดการ์เดียนเอโบนีโอโด\r\nการอน ด้วยอำนาจของความ\r\nกระหายเยี่ยงสัตว์ ความโหยหา\r\nเลือดของมันไม่เคยจางหายไป",
       "es-419": "Un hacha cargada de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su sed\r\nde sangre es inagotable."
     },
     "rarity": 6,
@@ -4161,6 +4263,7 @@
       "zh-Hant": "遺恨",
       "zh-Hans": "遗恨",
       "ar": "عداء موروث",
+      "th": "พยาบาทตกทอด",
       "es-419": "Enemistad legada"
     },
     "descriptions": {
@@ -4177,6 +4280,7 @@
       "zh-Hant": "強化版異界之炎。飢渴的野獸撕裂\r\n輪迴，將此永不滿足的空殼遺留在\r\n現世。",
       "zh-Hans": "强化后的异界之炎。饥渴的凶兽撕\r\n裂轮回，将此永不满足的器物残留\r\n在人间。",
       "ar": "اللهب الكاثوني مطوَّر.\r\nرغم عدم انتظاره دورة الجوع\r\nليلتهم الفرائس، إلا أنه لا يشبع.",
+      "th": "ชาร์จเบลดเพลิงใต้พิภพรุ่นอัปเกรด\r\nแม้จะหลุดพ้นจากวัฏจักรแห่งความ\r\nหิวโหย แต่สัตว์ร้ายตัวนี้ก็ยังไม่\r\nรู้จักอิ่ม",
       "es-419": "Una versión mejorada de la\r\nLlama chthoniana. Si bien ya no\r\nnecesita alimentarse, la bestia\r\nsigue ávida."
     },
     "rarity": 8,
@@ -4245,6 +4349,7 @@
       "zh-Hant": "護鎖刃充能斧Ⅰ",
       "zh-Hans": "护锁刃盾斧Ⅰ",
       "ar": "لابريس فيلديان حارس 1",
+      "th": "ก. เวลเดียนลาบริส I",
       "es-419": "Labrys veldian G. I"
     },
     "descriptions": {
@@ -4261,6 +4366,7 @@
       "zh-Hant": "以護龍素材製作的充能斧。據說如非\r\n精神強韌之人，使用此武器必被力量\r\n吞噬，陷入苦境。",
       "zh-Hans": "以护龙素材制作的盾斧。传说若非\r\n精神坚韧之人，使用此武器必会沉\r\n溺于力量，陷入苦境。",
       "ar": "نصل مشحون مصنوع من غنائم وحش حارس.\r\nإذا استخدمته روح أقل شأنًا،\r\nفإن قوته تفسد وتجلب الدمار.",
+      "th": "ชาร์จเบลดที่สร้างจากชิ้นส่วน\r\nการ์เดียน หากผู้ที่มีจิตอ่อนแอใช้งาน\r\nพลังของมันจะนำไปสู่ความเสื่อมทราม\r\nและนำมาซึ่งหายนะ",
       "es-419": "Hacha cargada hecha con restos\r\nde Guardián. Su poder convoca\r\nun estado de ruina y se corrompe\r\nsi la porta un espíritu débil."
     },
     "rarity": 4,
@@ -4331,6 +4437,7 @@
       "zh-Hant": "護鎖刃充能斧Ⅱ",
       "zh-Hans": "护锁刃盾斧Ⅱ",
       "ar": "لابريس فيلديان حارس 2",
+      "th": "ก. เวลเดียนลาบริส II",
       "es-419": "Labrys veldian G. II"
     },
     "descriptions": {
@@ -4347,6 +4454,7 @@
       "zh-Hant": "以護龍素材製作的充能斧。據說如非\r\n精神強韌之人，使用此武器必被力量\r\n吞噬，陷入苦境。",
       "zh-Hans": "以护龙素材制作的盾斧。传说若非\r\n精神坚韧之人，使用此武器必会沉\r\n溺于力量，陷入苦境。",
       "ar": "نصل مشحون مصنوع من غنائم وحش حارس.\r\nإذا استخدمته روح أقل شأنًا،\r\nفإن قوته تفسد وتجلب الدمار.",
+      "th": "ชาร์จเบลดที่สร้างจากชิ้นส่วน\r\nการ์เดียน หากผู้ที่มีจิตอ่อนแอใช้งาน\r\nพลังของมันจะนำไปสู่ความเสื่อมทราม\r\nและนำมาซึ่งหายนะ",
       "es-419": "Hacha cargada hecha con restos\r\nde Guardián. Su poder convoca\r\nun estado de ruina y se corrompe\r\nsi la porta un espíritu débil."
     },
     "rarity": 6,
@@ -4418,6 +4526,7 @@
       "zh-Hant": "護鎖刃充能斧高文",
       "zh-Hans": "护锁刃盾斧·高文",
       "ar": "جاوين أبدي حارس",
+      "th": "ก. กาเวนผู้ยึดมั่น",
       "es-419": "Gawain Perdurable G."
     },
     "descriptions": {
@@ -4434,6 +4543,7 @@
       "zh-Hant": "強化版護鎖刃充能斧。據說用此\r\n武器打倒龍的戰士在大地留下了\r\n無數的鎖鏈痕跡。",
       "zh-Hans": "强化后的护锁刃盾斧。传说手持此\r\n武器屠龙的战士，曾在大地上留下\r\n无数锁链的痕迹。",
       "ar": "(لابريس فيلديان) حارس مطوَّر.\r\nلا تزال الأرض تحمل آثار صراعه\r\nالعظيم مع وايفرن.",
+      "th": "การ์เดียนเวลเดียนลาบริสรุ่นอัปเกรด\r\nโลกยังคงมีร่องรอยของการประชัน\r\nอันเดือดดาลของมันกับไวเวิร์น",
       "es-419": "Una Labrys veldian G. mejorada.\r\nLa tierra aún conserva las\r\nmarcas de un gran choque con un\r\nwyvern."
     },
     "rarity": 8,
@@ -4502,6 +4612,7 @@
       "zh-Hant": "毒液之淚Ⅰ",
       "zh-Hans": "剧毒之泪Ⅰ",
       "ar": "نصل السم 1",
+      "th": "ดาบพิษ I",
       "es-419": "Hoja venenosa I"
     },
     "descriptions": {
@@ -4518,6 +4629,7 @@
       "zh-Hant": "內部裝有毒怪鳥毒袋的恐怖充能斧。\r\n帶毒的利刃會順滑地刺入獵物體內\r\n深處。",
       "zh-Hans": "内部设有毒怪鸟毒囊的恐怖盾斧。\r\n毒刃能顺利地刺入猎物体内。",
       "ar": "نصل مشحون مروع مزود بسم (جيبسيروس).\r\nشفرته السامة تقطع الفريسة\r\nكأنها قطعة زبدة.",
+      "th": "ชาร์จเบลดอันน่าสะพรึงที่แฝงด้วย\r\nพิษของจิปเซรอส คมดาบอาบ\r\nยาพิษเชือดเฉือนศัตรูได้เหมือน\r\nตัดเนย",
       "es-419": "Una terrible hacha cargada con\r\nveneno de Gypceros. Su filo\r\nvenenoso rebana a las presas\r\ncomo mantequilla."
     },
     "rarity": 5,
@@ -4588,6 +4700,7 @@
       "zh-Hant": "毒液之淚Ⅱ",
       "zh-Hans": "剧毒之泪Ⅱ",
       "ar": "نصل السم 2",
+      "th": "ดาบพิษ II",
       "es-419": "Hoja venenosa II"
     },
     "descriptions": {
@@ -4604,6 +4717,7 @@
       "zh-Hant": "內部裝有毒怪鳥毒袋的恐怖充能斧。\r\n帶毒的利刃會順滑地刺入獵物體內\r\n深處。",
       "zh-Hans": "内部设有毒怪鸟毒囊的恐怖盾斧。\r\n毒刃能顺利地刺入猎物体内。",
       "ar": "نصل مشحون مروع مزود بسم (جيبسيروس).\r\nشفرته السامة تقطع الفريسة\r\nكأنها قطعة زبدة.",
+      "th": "ชาร์จเบลดอันน่าสะพรึงที่แฝงด้วย\r\nพิษของจิปเซรอส คมดาบอาบ\r\nยาพิษเชือดเฉือนศัตรูได้เหมือน\r\nตัดเนย",
       "es-419": "Una terrible hacha cargada con\r\nveneno de Gypceros. Su filo\r\nvenenoso rebana a las presas\r\ncomo mantequilla."
     },
     "rarity": 6,
@@ -4673,6 +4787,7 @@
       "zh-Hant": "劇毒盾斧",
       "zh-Hans": "剧毒盾斧",
       "ar": "قبلة السم",
+      "th": "จุมพิตอสรพิษ",
       "es-419": "Beso envenenado"
     },
     "descriptions": {
@@ -4689,6 +4804,7 @@
       "zh-Hant": "強化版毒液之淚。其劇毒如蛆附骨，\r\n利刃如尖牙利爪。受其斬殺者將終生\r\n受惡夢折磨。",
       "zh-Hans": "剧毒之泪强化版，遍布猛毒的刀刃\r\n终于露出了獠牙。为其所伤者将永\r\n受噩梦之苦。",
       "ar": "نصل السم مطوَّر.\r\nيقطر سمومًا قاتلة ويدفع الفريسة\r\nإلى كابوس بطيء ومؤلم.",
+      "th": "ดาบพิษรุ่นอัปเกรดที่อาบพิษร้าย\r\nและทำให้เหยื่อต้องจมดิ่งสู่ฝันร้าย\r\nอันแสนทรมานอย่างช้าๆ",
       "es-419": "Una versión mejorada de la Hoja\r\nvenenosa con una toxina mortal\r\nque sume a la presa en una\r\npesadilla larga y tormentosa."
     },
     "rarity": 8,
@@ -4758,6 +4874,7 @@
       "zh-Hant": "阿提米絲盾斧Ⅰ",
       "zh-Hans": "焰火盾斧Ⅰ",
       "ar": "دير لوتيميس 1",
+      "th": "ลูเทมิสที่รัก I",
       "es-419": "Querido Lutermis I"
     },
     "descriptions": {
@@ -4774,6 +4891,7 @@
       "zh-Hant": "高貴中暗藏著不祥的雌火龍充能斧。\r\n握把上的尖棘保留了女王的風格。",
       "zh-Hans": "于高贵中暗藏不祥的雌火龙之盾斧。\r\n荆棘把手保留了女王的风格。",
       "ar": "نصل (راثيان) مشحون،\r\nمشؤوم بقدر ما هو أنيق. يعيش\r\nهواءها الملكي في الأشواك\r\nالمبطنة للمقبض.",
+      "th": "ชาร์จเบลดราเธียนที่ดูน่าสะพรึง\r\nแต่ก็หรูหรา กลิ่นอายแห่งความ\r\nสง่างามยังคงสถิตอยู่ในหนาม\r\nที่เรียงร้อยบนด้ามจับ",
       "es-419": "Hacha cargada de Rathian tan\r\nominosa como elegante. Su aire\r\nregio perdura en las espinas\r\nque recubren el mango."
     },
     "rarity": 5,
@@ -4845,6 +4963,7 @@
       "zh-Hant": "阿提米絲盾斧Ⅱ",
       "zh-Hans": "焰火盾斧Ⅱ",
       "ar": "دير لوتيميس 2",
+      "th": "ลูเทมิสที่รัก II",
       "es-419": "Querido Lutermis II"
     },
     "descriptions": {
@@ -4861,6 +4980,7 @@
       "zh-Hant": "高貴中暗藏著不祥的雌火龍充能斧。\r\n握把上的尖棘保留了女王的風格。",
       "zh-Hans": "于高贵中暗藏不祥的雌火龙之盾斧。\r\n荆棘把手保留了女王的风格。",
       "ar": "نصل (راثيان) مشحون،\r\nمشؤوم بقدر ما هو أنيق. يعيش\r\nهواءها الملكي في الأشواك\r\nالمبطنة للمقبض.",
+      "th": "ชาร์จเบลดราเธียนที่ดูน่าสะพรึง\r\nแต่ก็หรูหรา กลิ่นอายแห่งความ\r\nสง่างามยังคงสถิตอยู่ในหนาม\r\nที่เรียงร้อยบนด้ามจับ",
       "es-419": "Hacha cargada de Rathian tan\r\nominosa como elegante. Su aire\r\nregio perdura en las espinas\r\nque recubren el mango."
     },
     "rarity": 7,
@@ -4931,6 +5051,7 @@
       "zh-Hant": "雌火盾斧",
       "zh-Hans": "雌火盾斧",
       "ar": "دير لوتيميا",
+      "th": "ลูเทเมียที่รัก",
       "es-419": "Querida Lutemia"
     },
     "descriptions": {
@@ -4947,6 +5068,7 @@
       "zh-Hant": "強化版阿提米絲盾斧，是女王之\r\n充能斧。美麗的姿態彰顯著高貴\r\n及冷酷。",
       "zh-Hans": "女王之盾斧，焰火盾斧的强化。\r\n其美丽姿态满溢高贵与残酷。",
       "ar": "نصل دير لوتيميس مطوَّر.\r\nيتمتع بجمال راقٍ لكنه عنيف\r\nفي الوقت ذاته.",
+      "th": "ลูเทมิสที่รักรุ่นอัปเกรด ดูสวยงาม\r\nจนน่าหลงใหล แต่ก็ดูน่าเกรงขาม\r\nในเวลาเดียวกัน",
       "es-419": "Querido Lutermis mejorado.\r\nSu belleza es sublime y\r\nmortífera a la vez."
     },
     "rarity": 8,
@@ -5016,6 +5138,7 @@
       "zh-Hant": "神魔觜宿一Ⅰ",
       "zh-Hans": "盾斧觜宿一Ⅰ",
       "ar": "شاحن أسلات 1",
+      "th": "ชาร์จเบลดแอสแลท I",
       "es-419": "Carga oblicua I"
     },
     "descriptions": {
@@ -5032,6 +5155,7 @@
       "zh-Hant": "將千刃龍素材漂亮地交疊在一起製成\r\n的充能斧。閃耀著金光的鋒刃是志在\r\n革命者的希望之光。",
       "zh-Hans": "以千刃龙素材巧妙堆叠打造而成的\r\n盾斧。金光闪耀的刃锋，化作心怀\r\n革命志向之人的希望之光。",
       "ar": "نصل مشحون لـ(سيرجيوس) رائع.\r\nنصله الذهبي اللامع يعد بمثابة شعلة أمل\r\nلأولئك الذين يطمحون إلى الثورة.",
+      "th": "ชาร์จเบลดของเซเรกิออสที่งดงาม\r\nใบมีดที่เป็นประกายสีทองเปรียบ\r\nเสมือนสัญลักษณ์แห่งความหวัง\r\nสำหรับผู้ที่ต้องการปฏิวัติ",
       "es-419": "Una hermosa hacha cargada de\r\nSeregios. Su radiante hoja es\r\nuna luz de esperanza para todo\r\naquel que aspira a una rebelión."
     },
     "rarity": 7,
@@ -5094,6 +5218,7 @@
       "zh-Hant": "叛充能斧觜宿一",
       "zh-Hans": "叛盾斧觜宿一",
       "ar": "شاحن ثائر",
+      "th": "ชาร์จเบลดขบถ",
       "es-419": "Carga rebelde"
     },
     "descriptions": {
@@ -5110,6 +5235,7 @@
       "zh-Hant": "革命者的驕傲藏於此黃金之刃。帶上\r\n強化版神魔觜宿一，將世界破壞殆盡\r\n吧。",
       "zh-Hans": "革命者的骄傲寄宿于此黄金之刃。\r\n盾斧觜宿一的强化型，将世界破坏\r\n殆尽吧。",
       "ar": "روح الثورة تكمن في نصله الذهبي.\r\nاستخدم شاحن (أسلات) الذي تمت ترقيته\r\nودمِّر العالم بأسره.",
+      "th": "จิตวิญญาณแห่งการปฏิวัติสถิตอยู่\r\nในใบมีดสีทอง จงถือชาร์จเบลด\r\nแอสแลทรุ่นอัปเกรดแล้วฉีกโลกนี้\r\nให้เป็นเสี่ยงๆ",
       "es-419": "Un espíritu revolucionario vive\r\nen el interior de la hoja dorada.\r\nBlande la carga oblicua mejorada\r\ny siembra el caos en el mundo."
     },
     "rarity": 8,
@@ -5171,6 +5297,7 @@
       "zh-Hant": "炎斧俄里翁Ⅰ",
       "zh-Hans": "炎斧俄里翁Ⅰ",
       "ar": "نصل أكزيليون 1",
+      "th": "ดาบแอกเซเลียน I",
       "es-419": "Filo Hachelion I"
     },
     "descriptions": {
@@ -5187,6 +5314,7 @@
       "zh-Hant": "使用火龍素材作成的充能斧。能夠\r\n活用素材起火的特性來攻擊。",
       "zh-Hans": "用火龙素材制成的盾斧。\r\n可活用点火性能进行攻击。",
       "ar": "نصل مشحون مصنوع\r\nمن مواد (راثالوس).\r\nيُعزز الهجمات المشتعلة.",
+      "th": "ชาร์จเบลดที่สร้างจากชิ้นส่วน\r\nราธาลอส เพิ่มกลไกเผาไหม้\r\nให้กับการโจมตี",
       "es-419": "Esta hoja cargada hecha\r\ncon materiales de Rathalos\r\nañade un mecanismo de\r\ncombustión a los ataques."
     },
     "rarity": 6,
@@ -5257,6 +5385,7 @@
       "zh-Hant": "紅蓮斧俄里翁",
       "zh-Hans": "红莲斧俄里翁",
       "ar": "نصل بارديشيون",
+      "th": "ดาบบาร์ดิเชียน",
       "es-419": "Filo de Bardichion"
     },
     "descriptions": {
@@ -5273,6 +5402,7 @@
       "zh-Hant": "強化版炎斧俄里翁。刻於盾上的容貌\r\n表現出了火龍的憤怒，會以紅蓮烈焰\r\n來抹殺獵物。",
       "zh-Hans": "刻于盾上的容貌现出火龙之怒。利\r\n用红莲烈焰抹杀猎物的炎斧俄里翁\r\n强化型。",
       "ar": "نصل أكزيليون مطوَّر.\r\nيبدو ذلك الوايفرن المزمجل\r\nوالمنحوت على الدرع متحمسًا\r\nلحرق الفريسة.",
+      "th": "ดาบแอกเซเลียนรุ่นอัปเกรด\r\nสัญลักษณ์รูปไวเวิร์นบนโล่ดู\r\nกระหายที่จะแผดเผาเหยื่อ",
       "es-419": "Filo Hachelion mejorado. El\r\nwyvern grabado en el escudo\r\nparece ansioso por incinerar a\r\nsu presa."
     },
     "rarity": 8,
@@ -5341,6 +5471,7 @@
       "zh-Hant": "力量of墮落Ⅰ",
       "zh-Hans": "力量of堕落Ⅰ",
       "ar": "فأس إليندسكرافت",
+      "th": "เอเล็นท์สครัฟท์ I",
       "es-419": "Pena I"
     },
     "descriptions": {
@@ -5357,6 +5488,7 @@
       "zh-Hant": "黑蝕龍的充能斧。骷髏裝飾累積了\r\n極限的力量，會將敵人打落黑暗的\r\n深淵。",
       "zh-Hans": "黑蚀龙之盾斧，骷髅印记中蕴含着\r\n已积累至极限的力量。能将对抗者\r\n击向黑暗的深渊。",
       "ar": "نصل (جور ماجالا) مشحون مزين\r\nبجمجمة تفيض بالقوة. يتعطش لإلقاء\r\nالأعداء في الظلام.",
+      "th": "ชาร์จเบลดกอร์ มากาลา ประดับ\r\nด้วยหัวกระโหลกที่เปี่ยมพลังล้น\r\nกระหายที่จะต้อนเหยื่อไปสู่ความ\r\nมืดมิด",
       "es-419": "Un hacha cargada de Gore Magala\r\ncon una calavera rebosante de\r\npoder. Tiene hambre de arrojar\r\na los enemigos a la oscuridad."
     },
     "rarity": 7,
@@ -5426,6 +5558,7 @@
       "zh-Hant": "力量of破壞",
       "zh-Hans": "力量of破灭",
       "ar": "فأس ليدنسكرافت",
+      "th": "ไลเดินส์ครัฟท์",
       "es-419": "Miseria"
     },
     "descriptions": {
@@ -5442,6 +5575,7 @@
       "zh-Hant": "強化版力量of墮落，是主宰破滅的\r\n充能斧。等待著獵物的是哀聲四起\r\n的冥府深處。",
       "zh-Hans": "主宰破灭的盾斧，强化形态的力量\r\nof堕落。引领猎物前往哀声四起的\r\n冥府深处。",
       "ar": "فأس إليندسكرافت مطوَّر.\r\nإنه يدعو ضحاياه لزيارة\r\nأعماق الجحيم المظلمة.",
+      "th": "เอเล็นท์สครัฟท์รุ่นอัปเกรด\r\nที่พร้อมเชื้อเชิญเหยื่อให้\r\nดำดิ่งไปสู่นรกอันดำมืด",
       "es-419": "Pena mejorada. Invita a sus\r\nvíctimas a una travesía por las\r\nprofundidades oscuras e\r\ninfernales."
     },
     "rarity": 8,
@@ -5510,6 +5644,7 @@
       "zh-Hant": "鎖刃充能斧Ⅰ",
       "zh-Hans": "锁刃盾斧Ⅰ",
       "ar": "لابريس فيلديان 1",
+      "th": "เวลเดียนลาบริส I",
       "es-419": "Labrys veldian I"
     },
     "descriptions": {
@@ -5526,6 +5661,7 @@
       "zh-Hant": "以鎖刃龍素材製作的充能斧。過去曾\r\n有騎士用此古代充能斧，擊退人們畏\r\n懼的龍，照亮未來。",
       "zh-Hans": "使用锁刃龙素材制作的盾斧。据说\r\n此盾斧曾为古代骑士所用，骑士击\r\n退人们畏惧的龙，照亮未来的路。",
       "ar": "نصل (آركفيلد) مشحون .\r\nاستخدمه الفرسان لطرد الوايفرن\r\nوإضاءة الطريق نحو المستقبل.",
+      "th": "ชาร์จเบลดอาร์คเวลด์ที่อัศวินใช้เพื่อ\r\nขับไล่ไวเวิร์นและส่องทางไปสู่\r\nอนาคต",
       "es-419": "Un hacha cargada de Arkveld.\r\nLos caballeros la usaban para\r\nexpulsar a los wyverns y\r\navanzar al mañana."
     },
     "rarity": 7,
@@ -5596,6 +5732,7 @@
       "zh-Hant": "機械兵裝Ⅰ",
       "zh-Hans": "机械防御者Ⅰ",
       "ar": "مدافع أرتيان 1",
+      "th": "ดาบพิทักษ์อาร์เทียน I",
       "es-419": "Defensor artiano I"
     },
     "descriptions": {
@@ -5612,6 +5749,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代充能\r\n斧。據說環環相扣的複雜齒輪會記\r\n錄某種終結的時刻。",
       "zh-Hans": "由发现的武器碎片组成的古代盾斧。\r\n据说那些复杂地咬合在一起的齿轮\r\n中，暗含着某种终焉的时刻。",
       "ar": "سلاح مصنوع من شظايا مُكتشفة.\r\nيُقال إن التروس المعقدة فيه تعمل\r\nعلى تحقيق هدف غير معروف.",
+      "th": "อาวุธที่สร้างจากชิ้นส่วนที่ขุดพบ\r\nว่ากันว่าชุดเฟืองที่ซับซ้อน\r\nเคลื่อนไหวไม่รู้จบ",
       "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Dicen que los\r\nengranajes complejos marchan\r\ncon un fin desconocido."
     },
     "rarity": 6,
@@ -5666,6 +5804,7 @@
       "zh-Hant": "機械兵裝Ⅱ",
       "zh-Hans": "机械防御者Ⅱ",
       "ar": "مدافع أرتيان 2",
+      "th": "ดาบพิทักษ์อาร์เทียน II",
       "es-419": "Defensor artiano II"
     },
     "descriptions": {
@@ -5682,6 +5821,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代充能\r\n斧。據說環環相扣的複雜齒輪會記\r\n錄某種終結的時刻。",
       "zh-Hans": "由发现的武器碎片组成的古代盾斧。\r\n据说那些复杂地咬合在一起的齿轮\r\n中，暗含着某种终焉的时刻。",
       "ar": "سلاح مصنوع من شظايا مُكتشفة.\r\nيُقال إن التروس المعقدة فيه تعمل\r\nعلى تحقيق هدف غير معروف.",
+      "th": "อาวุธที่สร้างจากชิ้นส่วนที่ขุดพบ\r\nว่ากันว่าชุดเฟืองที่ซับซ้อน\r\nเคลื่อนไหวไม่รู้จบ",
       "es-419": "Un arma hecha con fragmentos\r\ndesenterrados. Dicen que los\r\nengranajes complejos marchan\r\ncon un fin desconocido."
     },
     "rarity": 7,
@@ -5736,6 +5876,7 @@
       "zh-Hant": "時間齒輪",
       "zh-Hans": "时间齿轮",
       "ar": "تروس الزمن",
+      "th": "โครโนเกียร์",
       "es-419": "Engranaje de Cronos"
     },
     "descriptions": {
@@ -5752,6 +5893,7 @@
       "zh-Hant": "擁有潛藏性能的太古充能斧。修復後\r\n重新走動的時針開始計時，再也無人\r\n可阻止。",
       "zh-Hans": "有着潜藏性能的太古的盾斧。自修\r\n复之时起，它的指针就开始计时，\r\n没有人可以阻止。",
       "ar": "سلاح قديم ذو قدرات كامنة.\r\nبعد إصلاحه، لا يمكن إيقاف\r\nعقارب ساعته.",
+      "th": "อาวุธโบราณที่มีศักยภาพแฝงเร้น\r\nเมื่อซ่อมแซมแล้ว เข็มนาฬิกา\r\nที่ติดอยู่ไม่อาจหยุดเดินได้",
       "es-419": "Un arma antigua con potencial\r\nlatente. Ahora que están\r\nreparadas, sus manillas de\r\nreloj son imparables."
     },
     "rarity": 8,
@@ -5806,6 +5948,7 @@
       "zh-Hant": "祈望兵裝",
       "zh-Hans": "期冀兵装",
       "ar": "نصل إسبيرانزا القوي",
+      "th": "ศาสตราเอสเปรันซา",
       "es-419": "Aspa esperanzadora"
     },
     "descriptions": {
@@ -5822,6 +5965,7 @@
       "zh-Hant": "經實地調查後改良而成的希望兵裝。\r\n盾牌積蓄的不只是力量，還有希望。",
       "zh-Hans": "通过实地调查而改良的希望兵装。\r\n其盾牌积蓄的不只力量，还有希望。",
       "ar": "نصل الأمل القوي مُختبر بالكامل\r\nفي الساحة. مع كل شحنة، يصبح اليأس\r\nذكرى بعيدة.",
+      "th": "ศาสตราโฮปที่ผ่านการทดสอบ\r\nในสนามจริงมาแล้ว ทุกครั้งที่ชาร์จ\r\nความสิ้นหวังก็จะอันตรธานหายไป\r\nในพริบตา",
       "es-419": "Un aspa de esperanza probada en\r\ncampo. Con cada carga, la\r\ndesesperación se vuelve un\r\nrecuerdo más lejano."
     },
     "rarity": 8,
@@ -5883,6 +6027,7 @@
       "zh-Hant": "纏蛙強蓄盾斧",
       "zh-Hans": "缠蛙强蓄盾斧",
       "ar": "كوثارجا مُغلف",
+      "th": "คูธาร์จาอำพราง",
       "es-419": "Kutharja amortajada"
     },
     "descriptions": {
@@ -5892,13 +6037,14 @@
       "it": "Una versione più forte del\r\nDominatore Chata. Devia attacchi\r\ne schiaccia nemici con il suo\r\nscudo di energia.",
       "de": "Eine verbesserte Version des\r\nChata-Schlägers. Wehrt wahl-\r\nweise Angriffe ab oder schlägt\r\nFeinde in Stücke.",
       "es": "Versión potenciada del Segur\r\nChata. Capaz de desviar ataques\r\ny de aplastar a sus enemigos\r\ncon su aura de energía.",
-      "ru": "Усиленное чатакабровое лезвие,\r\nокружённое потоком энергии,\r\nпозволяет как отражать атаки,\r\nтак и наносить ответные удары.",
+      "ru": "Усиленный «Чатакабровый оплот»,\r\nокружённый потоком энергии,\r\nпозволяет как отражать атаки,\r\nтак и наносить ответные удары.",
       "pl": "Mocniejsza wersja siłówki\r\nz Chaty. Odbija ataki oraz\r\nmiażdży wrogów swoją\r\nosłoną energetyczną.",
       "pt-BR": "Braço Chata melhorado.\r\nCapaz de defletir ataques e\r\nesmagar adversários com\r\nseu manto de energia.",
       "ko": "차타암즈의 강화판.\r\n증강된 방패는 공격을 전부\r\n차단하고, 검이 두른 에너지는\r\n모든 것을 산산조각 낸다.",
       "zh-Hant": "強化版纏蛙兵裝。變強的盾可阻擋\r\n一切攻擊，劍上的能量可斬斷所有\r\n事物。",
       "zh-Hans": "缠蛙兵装的强化版。变强的盾可以\r\n阻挡袭来的一切攻击，萦绕在剑上\r\n的能量能砍断一切事物。",
       "ar": "نسخة أقوى من نصل (تشاتا) القوي.\r\nقادرة على صد الهجمات\r\nوسحق الأعداء\r\nبفضل غطائه من الطاقة.",
+      "th": "ศาสตราชาตารุ่นที่แข็งแกร่งขึ้น\r\nสามารถหักเหการโจมตี และทำ\r\nลายศัตรูด้วยพลังงานที่ปกคลุม",
       "es-419": "Versión más poderosa de aspa de\r\nChata. Capaz de desviar ataques\r\ny aplastar a los enemigos con\r\nsu envoltura de energía."
     },
     "rarity": 8,
@@ -5960,6 +6106,7 @@
       "zh-Hant": "鎖刃充能斧高文",
       "zh-Hans": "锁刃盾斧·高文",
       "ar": "جاوين أبدي",
+      "th": "กาเวนผู้ยึดมั่น",
       "es-419": "Gawain Perdurable"
     },
     "descriptions": {
@@ -5976,6 +6123,7 @@
       "zh-Hant": "強化版鎖刃充能斧。據說受太陽眷顧\r\n的騎士帶來了烈日般的勝利。",
       "zh-Hans": "锁刃盾斧的强化版。据说那位受太\r\n阳眷顾的骑士带来了灼灼烈日般的\r\n胜利。",
       "ar": "(لابريس فيلديان) مطوَّر.\r\nمحبوب من الشمس، وحامله فارس\r\nأشعل طريق النصر.",
+      "th": "เวลเดียนลาบริสรุ่นอัปเกรด\r\nด้วยพลังแห่งดวงตะวันจะ\r\nจุดไฟให้อัศวินที่ครอบ\r\nครองไปสู่ชัยชนะ",
       "es-419": "Una Labrys veldian mejorada. El\r\ncaballero que portaba este\r\nobjeto de devoción trazó con\r\nfuego su camino a la victoria."
     },
     "rarity": 8,
@@ -6044,6 +6192,7 @@
       "zh-Hant": "熾・耶利米Ⅰ",
       "zh-Hans": "白炽斧耶利米Ⅰ",
       "ar": "زو يرمييا I",
+      "th": "โซห์เยอร์มิยา I",
       "es-419": "Zoh Yirmiya I"
     },
     "descriptions": {
@@ -6060,6 +6209,7 @@
       "zh-Hant": "以白熾龍素材製作的充能斧。此斧以\r\n純白的贖罪為冠。飛翔的白盾將不分\r\n敵我淨化一切。",
       "zh-Hans": "由白炽龙素材锻造，冠以纯白救赎\r\n之名的盾斧。翱翔的白盾将不分敌\r\n我净化一切。",
       "ar": "نصل (زو شيا)\r\nالمشحون بتاج أبيض كالثلج.\r\nيمنح الفداء والتطهير\r\nمع كل ضربة.",
+      "th": "ชาร์จเบลดของโซห์ ชิอาประดับ\r\nมงกุฎสีขาวราวกับหิมะ มอบพลัง\r\nแห่งการไถ่บาปและการชำระล้าง\r\nทุกครั้งที่ฟาดฟัน",
       "es-419": "Hacha cargada de Zoh Shia\r\ncon una corona nívea. Otorga\r\nredención y purificación\r\ncon cada golpe."
     },
     "rarity": 7,
@@ -6129,6 +6279,7 @@
       "zh-Hant": "熾光耶利米",
       "zh-Hans": "炽光斧耶利米",
       "ar": "يرمييا الملتهب",
+      "th": "เยอร์มิยาจรัสแสง",
       "es-419": "Yirmiya ardiente"
     },
     "descriptions": {
@@ -6145,6 +6296,7 @@
       "zh-Hant": "天上的耶利米在此宣告：渴求贖罪而\r\n憤慨之輩啊，即使展開的雙翼破滅，\r\n仍得繼續祈望。",
       "zh-Hans": "耶利米自天上传下意志——渴求赎\r\n罪的愤懑者啊，那张开的双翼连毁\r\n灭亦可实现。",
       "ar": "ينادي (يرمييا) من الأعالي:\r\nأيها الساعي إلى الجزاء\r\nلتمتد أجنحتك\r\nحتى في وجه الفناء.",
+      "th": "เยอร์มิยาเปล่งวาจาจากเบื้องบน:\r\nผู้แสวงหาการชดใช้เอ๋ย ขอให้ปีก\r\nของเจ้าสยายออก แม้จะต้อง\r\nเผชิญกับความพินาศก็ตาม",
       "es-419": "Yirmiya brama desde lo alto:\r\nQuienes buscan recompensas,\r\nque sus alas se abran\r\nfrente a la ruina."
     },
     "rarity": 8,
@@ -6213,6 +6365,7 @@
       "zh-Hant": "狐衣斧鏡花水月央Ⅰ",
       "zh-Hans": "狐衣斧【镜花水月深】Ⅰ",
       "ar": "مثقاب ميزونيا I",
+      "th": "สว่านมิสึนิยะ I",
       "es-419": "Taladro de Mizuniya I"
     },
     "descriptions": {
@@ -6229,6 +6382,7 @@
       "zh-Hant": "徹底追求風流的雅士遺留的風雅\r\n衣斧。白裳殘影，輕曳朱水。",
       "zh-Hans": "毕生追求风流的战士所留下的雅致\r\n衣斧。白裳残影，轻曳茜水。",
       "ar": "نصل مشحون أنيق\r\nمشهور بقدرته على تلطيخ ملابس الأعداء\r\nباللون الأحمر الداكن.",
+      "th": "ชาร์จเบลดที่สง่างาม\r\nขึ้นชื่อในการทำให้เสื้อผ้า\r\nของศัตรูแดงฉานดั่งโลหิต",
       "es-419": "Elegante hacha cargada\r\nfamosa por teñir de rojo\r\nsangre las prendas enemigas."
     },
     "rarity": 6,
@@ -6299,6 +6453,7 @@
       "zh-Hant": "潔白衣斧之御帝",
       "zh-Hans": "白布衣斧之帝王",
       "ar": "نصل الميدان الأخير",
+      "th": "ดาบสงครามสุดท้าย",
       "es-419": "Navaja definitiva"
     },
     "descriptions": {
@@ -6315,6 +6470,7 @@
       "zh-Hant": "強化版狐衣斧鏡花水月央。茜海\r\n之前，翻弄優雅衣斧，使殘塵\r\n退去無蹤。",
       "zh-Hans": "狐衣斧【镜花水月深】强化版。沧\r\n海红如血，水镜斧翻覆，波卷残滓\r\n尽。",
       "ar": "مثقاب (ميزونيا) تمت ترقيته.\r\nيخلف وراءه بحرًا من اللون القرمزي\r\nيجرف كل الأعداء.",
+      "th": "สว่านมิสึนิยะรุ่นอัปเกรด สร้าง\r\nทะเลโลหิตที่ชะล้างศัตรูทั้งหมด\r\nให้สิ้นซาก",
       "es-419": "Taladro de Mizuniya\r\nmejorado. Acaba con tus\r\nenemigos con su mar carmesí."
     },
     "rarity": 8,
@@ -6384,6 +6540,7 @@
       "zh-Hant": "海龍漩渦Ⅰ",
       "zh-Hans": "海龙暴风雨Ⅰ",
       "ar": "عاصفة لاغيا",
+      "th": "ลาเกียสตอร์ม I",
       "es-419": "Tormenta de Lagia I"
     },
     "descriptions": {
@@ -6400,6 +6557,7 @@
       "zh-Hant": "以在蒼海掀起漩渦的海龍素材製作的\r\n充能斧。響徹四方的雷鳴會宣告狩獵\r\n開始。",
       "zh-Hans": "使用苍海中卷起漩涡的海龙的素材\r\n打造而成的盾斧。响彻四方的雷鸣\r\n宣告着狩猎的开始。",
       "ar": "نصل مشحون مصنوع من مواد (لاغياكروس).\r\nينذر ببدء الصيد بهدير الرعد.",
+      "th": "ชาร์จเบลดที่สร้างจากวัตถุดิบของ\r\nลาเกียครุส ส่งเสียงกึกก้องคำราม\r\nเป็นสัญญาณของการออกล่า",
       "es-419": "Un hacha cargada hecha con\r\nmateriales de Lagiacrus. Marca\r\nel inicio de una cacería con\r\nun rugido atronador."
     },
     "rarity": 7,
@@ -6470,6 +6628,7 @@
       "zh-Hant": "雷盾斧勝者漩渦",
       "zh-Hans": "雷盾斧胜者漩涡",
       "ar": "نصل فانكروم",
+      "th": "ดาบแวนครอม",
       "es-419": "Hoja de Vankrom"
     },
     "descriptions": {
@@ -6486,6 +6645,7 @@
       "zh-Hant": "強化版海龍漩渦，帶有稱霸大海的\r\n海龍之力。猛烈的雷電漩渦會劈開\r\n蒼海。",
       "zh-Hans": "海龙暴风雨的强化形态，封印了称\r\n霸海洋的海龙之力，激烈的雷电漩\r\n涡劈开苍海。",
       "ar": "عاصفة (لاغيا) تمت ترقيتها،\r\nمُشبعة بقوة (لاغياكروس)، سيد البحار.\r\nعاصفتها العاتية تشقّ طريقها عبر البحر.",
+      "th": "ลาเกียสตอร์มรุ่นอัปเกรด หลอมรวม\r\nด้วยพลังของลาเกียครุส เจ้าแห่ง\r\nท้องทะเล พายุอันเกรี้ยวกราดของมัน\r\nจะแหวกผ่านผืนน้ำเป็นทาง",
       "es-419": "Una tormenta de Lagia mejorada\r\ne imbuida con el poder del señor\r\nde los mares. Su feroz tempestad\r\nse abre camino en el mar."
     },
     "rarity": 8,
@@ -6555,6 +6715,7 @@
       "zh-Hant": "代價深淵齒輪",
       "zh-Hans": "代价的深渊齿轮",
       "ar": "الهاوية الموعودة",
+      "th": "นรกที่ไม่อาจเลี่ยง",
       "es-419": "Abismo prometido"
     },
     "descriptions": {
@@ -6571,6 +6732,7 @@
       "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
       "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
       "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "th": "อาวุธประหลาดที่กระหายศักยภาพ\r\nโลงต้องห้ามของมันเปิดออก\r\nโดยบาปที่ยังไม่ได้รับการชำระ",
       "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
     },
     "rarity": 8,
@@ -6625,6 +6787,7 @@
       "zh-Hant": "代價深淵齒輪",
       "zh-Hans": "代价的深渊齿轮",
       "ar": "الهاوية الموعودة",
+      "th": "นรกที่ไม่อาจเลี่ยง",
       "es-419": "Abismo prometido"
     },
     "descriptions": {
@@ -6641,6 +6804,7 @@
       "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
       "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
       "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "th": "อาวุธประหลาดที่กระหายศักยภาพ\r\nโลงต้องห้ามของมันเปิดออก\r\nโดยบาปที่ยังไม่ได้รับการชำระ",
       "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
     },
     "rarity": 8,
@@ -6695,6 +6859,7 @@
       "zh-Hant": "代價深淵齒輪",
       "zh-Hans": "代价的深渊齿轮",
       "ar": "الهاوية الموعودة",
+      "th": "นรกที่ไม่อาจเลี่ยง",
       "es-419": "Abismo prometido"
     },
     "descriptions": {
@@ -6711,6 +6876,7 @@
       "zh-Hant": "異形的淺眠吞噬潛藏性能。禁忌的\r\n棺木正苦候因背叛而生的開鎖瞬間。",
       "zh-Hans": "吞噬隐藏性能的异形之微眠。禁忌\r\n之棺正焦灼渴望着由背叛所带来的\r\n开锁瞬间。",
       "ar": "سلاح شنيع متعطّش لاكتشاف\r\nقدرته الكامنة، تابوته المحرم قد انفرج\r\nعلى مصراعيه بخطيئة لم تُعاقَب.",
+      "th": "อาวุธประหลาดที่กระหายศักยภาพ\r\nโลงต้องห้ามของมันเปิดออก\r\nโดยบาปที่ยังไม่ได้รับการชำระ",
       "es-419": "Un arma grotesca que ansía su potencial,\r\nsu ataúd prohibido abierto\r\nde par en par por pecados impunes."
     },
     "rarity": 8,

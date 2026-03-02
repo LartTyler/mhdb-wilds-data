@@ -18,6 +18,7 @@
           "zh-Hant": "防風護石Ⅰ",
           "zh-Hans": "防风护石Ⅰ",
           "ar": "تميمة صد الرياح 1",
+          "th": "เครื่องรางกันลม I",
           "es-419": "Amuleto de viento I"
         },
         "descriptions": {
@@ -34,6 +35,7 @@
           "zh-Hant": "發動風壓耐性技能的護身符。",
           "zh-Hans": "发动风压耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة صد الرياح.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกันลม",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiviento."
         },
         "rarity": 4,
@@ -66,6 +68,7 @@
           "zh-Hant": "防風護石Ⅱ",
           "zh-Hans": "防风护石Ⅱ",
           "ar": "تميمة صد الرياح 2",
+          "th": "เครื่องรางกันลม II",
           "es-419": "Amuleto de viento II"
         },
         "descriptions": {
@@ -82,6 +85,7 @@
           "zh-Hant": "發動風壓耐性技能的護身符。",
           "zh-Hans": "发动风压耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة صد الرياح.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกันลม",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiviento."
         },
         "rarity": 5,
@@ -114,6 +118,7 @@
           "zh-Hant": "防風護石Ⅲ",
           "zh-Hans": "防风护石Ⅲ",
           "ar": "تميمة صد الرياح 3",
+          "th": "เครื่องรางกันลม III",
           "es-419": "Amuleto de viento III"
         },
         "descriptions": {
@@ -130,6 +135,7 @@
           "zh-Hant": "發動風壓耐性技能的護身符。",
           "zh-Hans": "发动风压耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة صد الرياح.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกันลม",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiviento."
         },
         "rarity": 6,
@@ -168,6 +174,7 @@
           "zh-Hant": "飯糰護石",
           "zh-Hans": "饭团护石",
           "ar": "تميمة أونيغيري",
+          "th": "เครื่องรางข้าวปั้น",
           "es-419": "Amuleto de onigiri"
         },
         "descriptions": {
@@ -184,6 +191,7 @@
           "zh-Hant": "發動飯糰技能的護身符。\r\n（鬥技大會任務專用）",
           "zh-Hans": "发动饭团技能的护身符。\r\n（斗技大会任务专用）",
           "ar": "تميمة تمنح مهارة \"أونيغيري\".\r\n(متاحة فقط في مهام الحلبة.)",
+          "th": "เครื่องรางที่ให้สกิลข้าวปั้น\r\n(เควสต์ลานประลองเท่านั้น)",
           "es-419": "Un amuleto que otorga\r\nla habilidad Onigiri.\r\n(Solo en misiones de la Arena)."
         },
         "rarity": 6,
@@ -217,6 +225,7 @@
           "zh-Hant": "整備護石Ⅰ",
           "zh-Hans": "整备护石Ⅰ",
           "ar": "تميمة أعمال الصيانة 1",
+          "th": "เครื่องรางบำรุงรักษา I",
           "es-419": "Amuleto reparación I"
         },
         "descriptions": {
@@ -233,6 +242,7 @@
           "zh-Hant": "發動整備技能的護身符。",
           "zh-Hans": "发动整备技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمختص الأدوات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nชำนาญเครื่องมือ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nherramientas."
         },
         "rarity": 4,
@@ -265,6 +275,7 @@
           "zh-Hant": "整備護石Ⅱ",
           "zh-Hans": "整备护石Ⅱ",
           "ar": "تميمة أعمال الصيانة 2",
+          "th": "เครื่องรางบำรุงรักษา II",
           "es-419": "Amuleto reparación II"
         },
         "descriptions": {
@@ -281,6 +292,7 @@
           "zh-Hant": "發動整備技能的護身符。",
           "zh-Hans": "发动整备技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمختص الأدوات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nชำนาญเครื่องมือ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nherramientas."
         },
         "rarity": 6,
@@ -313,6 +325,7 @@
           "zh-Hant": "整備護石Ⅲ",
           "zh-Hans": "整备护石Ⅲ",
           "ar": "تميمة أعمال الصيانة 3",
+          "th": "เครื่องรางบำรุงรักษา III",
           "es-419": "Amuleto reparación III"
         },
         "descriptions": {
@@ -329,6 +342,7 @@
           "zh-Hant": "發動整備技能的護身符。",
           "zh-Hans": "发动整备技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمختص الأدوات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nชำนาญเครื่องมือ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nherramientas."
         },
         "rarity": 7,
@@ -361,6 +375,7 @@
           "zh-Hant": "整備護石Ⅳ",
           "zh-Hans": "整备护石Ⅳ",
           "ar": "تميمة أعمال الصيانة 4",
+          "th": "เครื่องรางบำรุงรักษา IV",
           "es-419": "Amuleto reparación IV"
         },
         "descriptions": {
@@ -377,6 +392,7 @@
           "zh-Hant": "發動整備技能的護身符。",
           "zh-Hans": "发动整备技能的护身符。",
           "ar": "سحر يمنح مهارة\r\nمختص الأدوات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nชำนาญเครื่องมือ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nherramientas."
         },
         "rarity": 8,
@@ -415,6 +431,7 @@
           "zh-Hant": "耐火護石Ⅰ",
           "zh-Hans": "耐火护石Ⅰ",
           "ar": "تميمة النار 1",
+          "th": "เครื่องรางกันไฟ I",
           "es-419": "Amuleto de fuego I"
         },
         "descriptions": {
@@ -431,6 +448,7 @@
           "zh-Hant": "發動火耐性技能的護身符。",
           "zh-Hans": "发动火耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة النار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุไฟ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antifuego."
         },
         "rarity": 2,
@@ -462,6 +480,7 @@
           "zh-Hant": "耐火護石Ⅱ",
           "zh-Hans": "耐火护石Ⅱ",
           "ar": "تميمة النار 2",
+          "th": "เครื่องรางกันไฟ II",
           "es-419": "Amuleto de fuego II"
         },
         "descriptions": {
@@ -478,6 +497,7 @@
           "zh-Hant": "發動火耐性技能的護身符。",
           "zh-Hans": "发动火耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة النار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุไฟ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antifuego."
         },
         "rarity": 4,
@@ -510,6 +530,7 @@
           "zh-Hant": "耐火護石Ⅲ",
           "zh-Hans": "耐火护石Ⅲ",
           "ar": "تميمة النار 3",
+          "th": "เครื่องรางกันไฟ III",
           "es-419": "Amuleto de fuego III"
         },
         "descriptions": {
@@ -526,6 +547,7 @@
           "zh-Hant": "發動火耐性技能的護身符。",
           "zh-Hans": "发动火耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة النار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุไฟ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antifuego."
         },
         "rarity": 5,
@@ -564,6 +586,7 @@
           "zh-Hant": "無食護石Ⅰ",
           "zh-Hans": "断食护石Ⅰ",
           "ar": "تميمة الشبع 1",
+          "th": "เครื่องรางต้านหิว I",
           "es-419": "Amuleto antihambre I"
         },
         "descriptions": {
@@ -580,6 +603,7 @@
           "zh-Hant": "發動飢餓耐性技能的護身符。",
           "zh-Hans": "发动饥饿耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الجوع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานความหิว",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus reducción RES."
         },
         "rarity": 2,
@@ -611,6 +635,7 @@
           "zh-Hant": "無食護石Ⅱ",
           "zh-Hans": "断食护石Ⅱ",
           "ar": "تميمة الشبع 2",
+          "th": "เครื่องรางต้านหิว II",
           "es-419": "Amuleto antihambre II"
         },
         "descriptions": {
@@ -627,6 +652,7 @@
           "zh-Hant": "發動飢餓耐性技能的護身符。",
           "zh-Hans": "发动饥饿耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الجوع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานความหิว",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus reducción RES."
         },
         "rarity": 4,
@@ -659,6 +685,7 @@
           "zh-Hant": "無食護石Ⅲ",
           "zh-Hans": "断食护石Ⅲ",
           "ar": "تميمة الشبع 3",
+          "th": "เครื่องรางต้านหิว III",
           "es-419": "Amuleto antihambre III"
         },
         "descriptions": {
@@ -675,6 +702,7 @@
           "zh-Hant": "發動飢餓耐性技能的護身符。",
           "zh-Hans": "发动饥饿耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الجوع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานความหิว",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus reducción RES."
         },
         "rarity": 5,
@@ -713,6 +741,7 @@
           "zh-Hant": "潛力護石Ⅰ",
           "zh-Hans": "底力护石Ⅰ",
           "ar": "تميمة الصلابة 1",
+          "th": "เครื่องรางหาญสู้ I",
           "es-419": "Amuleto abrasivo I"
         },
         "descriptions": {
@@ -729,6 +758,7 @@
           "zh-Hant": "發動火場怪力技能的護身符。",
           "zh-Hans": "发动火场怪力技能的护身符。",
           "ar": "تميمة تمنح مهارة أعمال بطولية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังฮึดสู้",
           "es-419": "Un amuleto que otorga\r\nla habilidad Heroicidad."
         },
         "rarity": 4,
@@ -761,6 +791,7 @@
           "zh-Hant": "潛力護石Ⅱ",
           "zh-Hans": "底力护石Ⅱ",
           "ar": "تميمة الصلابة 2",
+          "th": "เครื่องรางหาญสู้ II",
           "es-419": "Amuleto abrasivo II"
         },
         "descriptions": {
@@ -777,6 +808,7 @@
           "zh-Hant": "發動火場怪力技能的護身符。",
           "zh-Hans": "发动火场怪力技能的护身符。",
           "ar": "تميمة تمنح مهارة أعمال بطولية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังฮึดสู้",
           "es-419": "Un amuleto que otorga\r\nla habilidad Heroicidad."
         },
         "rarity": 6,
@@ -809,6 +841,7 @@
           "zh-Hant": "潛力護石Ⅲ",
           "zh-Hans": "底力护石Ⅲ",
           "ar": "تميمة الصلابة 3",
+          "th": "เครื่องรางหาญสู้ III",
           "es-419": "Amuleto abrasivo III"
         },
         "descriptions": {
@@ -825,6 +858,7 @@
           "zh-Hant": "發動火場怪力技能的護身符。",
           "zh-Hans": "发动火场怪力技能的护身符。",
           "ar": "تميمة تمنح مهارة أعمال بطولية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังฮึดสู้",
           "es-419": "Un amuleto que otorga\r\nla habilidad Heroicidad."
         },
         "rarity": 7,
@@ -857,6 +891,7 @@
           "zh-Hant": "潛力護石Ⅳ",
           "zh-Hans": "底力护石Ⅳ",
           "ar": "تميمة الصلابة 4",
+          "th": "เครื่องรางหาญสู้ IV",
           "es-419": "Amuleto abrasivo IV"
         },
         "descriptions": {
@@ -873,6 +908,7 @@
           "zh-Hant": "發動火場怪力技能的護身符。",
           "zh-Hans": "发动火场怪力技能的护身符。",
           "ar": "تميمة تمنح مهارة أعمال بطولية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังฮึดสู้",
           "es-419": "Un amuleto que otorga\r\nla habilidad Heroicidad."
         },
         "rarity": 8,
@@ -911,6 +947,7 @@
           "zh-Hant": "小胃口護石Ⅰ",
           "zh-Hans": "小胃口护石Ⅰ",
           "ar": "تميمة الزاهد 1",
+          "th": "เครื่องรางกินจุบจิบ I",
           "es-419": "Amuleto del hambre I"
         },
         "descriptions": {
@@ -927,6 +964,7 @@
           "zh-Hant": "發動滿足感技能的護身符。",
           "zh-Hans": "发动满足感技能的护身符。",
           "ar": "تميمة تمنح مهارة وجبة مجانية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินฟรี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Comida gratis."
         },
         "rarity": 4,
@@ -959,6 +997,7 @@
           "zh-Hant": "小胃口護石Ⅱ",
           "zh-Hans": "小胃口护石Ⅱ",
           "ar": "تميمة الزاهد 2",
+          "th": "เครื่องรางกินจุบจิบ II",
           "es-419": "Amuleto del hambre II"
         },
         "descriptions": {
@@ -975,6 +1014,7 @@
           "zh-Hant": "發動滿足感技能的護身符。",
           "zh-Hans": "发动满足感技能的护身符。",
           "ar": "تميمة تمنح مهارة وجبة مجانية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินฟรี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Comida gratis."
         },
         "rarity": 5,
@@ -1007,6 +1047,7 @@
           "zh-Hant": "小胃口護石Ⅲ",
           "zh-Hans": "小胃口护石Ⅲ",
           "ar": "تميمة الزاهد 3",
+          "th": "เครื่องรางกินจุบจิบ III",
           "es-419": "Amuleto del hambre III"
         },
         "descriptions": {
@@ -1023,6 +1064,7 @@
           "zh-Hant": "發動滿足感技能的護身符。",
           "zh-Hans": "发动满足感技能的护身符。",
           "ar": "تميمة تمنح مهارة وجبة مجانية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินฟรี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Comida gratis."
         },
         "rarity": 6,
@@ -1061,6 +1103,7 @@
           "zh-Hant": "跳躍護石Ⅰ",
           "zh-Hans": "跳跃护石Ⅰ",
           "ar": "تميمة الوثب 1",
+          "th": "เครื่องรางพุ่งกระโจน I",
           "es-419": "Amuleto de salto I"
         },
         "descriptions": {
@@ -1077,6 +1120,7 @@
           "zh-Hant": "發動迴避距離上升技能的護身符。",
           "zh-Hans": "发动回避距离提升技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتوسيع مدى التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระยะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Distancia evasiva."
         },
         "rarity": 4,
@@ -1109,6 +1153,7 @@
           "zh-Hant": "跳躍護石Ⅱ",
           "zh-Hans": "跳跃护石Ⅱ",
           "ar": "تميمة الوثب 2",
+          "th": "เครื่องรางพุ่งกระโจน II",
           "es-419": "Amuleto de salto II"
         },
         "descriptions": {
@@ -1125,6 +1170,7 @@
           "zh-Hant": "發動迴避距離上升技能的護身符。",
           "zh-Hans": "发动回避距离提升技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتوسيع مدى التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระยะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Distancia evasiva."
         },
         "rarity": 5,
@@ -1157,6 +1203,7 @@
           "zh-Hant": "跳躍護石Ⅲ",
           "zh-Hans": "跳跃护石Ⅲ",
           "ar": "تميمة الوثب 3",
+          "th": "เครื่องรางพุ่งกระโจน III",
           "es-419": "Amuleto de salto III"
         },
         "descriptions": {
@@ -1173,6 +1220,7 @@
           "zh-Hant": "發動迴避距離上升技能的護身符。",
           "zh-Hans": "发动回避距离提升技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتوسيع مدى التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระยะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Distancia evasiva."
         },
         "rarity": 6,
@@ -1211,6 +1259,7 @@
           "zh-Hant": "無傷護石Ⅰ",
           "zh-Hans": "无伤护石Ⅰ",
           "ar": "تميمة الآمن 1",
+          "th": "เครื่องรางไร้รอยแผล I",
           "es-419": "Amuleto ileso I"
         },
         "descriptions": {
@@ -1227,6 +1276,7 @@
           "zh-Hant": "發動無傷技能的護身符。",
           "zh-Hans": "发动无伤技能的护身符。",
           "ar": "تميمة تمنح مهارة ذروة الأداء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nสมรรถนะสูงสุด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Plena forma."
         },
         "rarity": 5,
@@ -1259,6 +1309,7 @@
           "zh-Hant": "無傷護石Ⅱ",
           "zh-Hans": "无伤护石Ⅱ",
           "ar": "تميمة الآمن 2",
+          "th": "เครื่องรางไร้รอยแผล II",
           "es-419": "Amuleto ileso ll"
         },
         "descriptions": {
@@ -1275,6 +1326,7 @@
           "zh-Hant": "發動無傷技能的護身符。",
           "zh-Hans": "发动无伤技能的护身符。",
           "ar": "تميمة تمنح مهارة ذروة الأداء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nสมรรถนะสูงสุด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Plena forma."
         },
         "rarity": 7,
@@ -1307,6 +1359,7 @@
           "zh-Hant": "無傷護石Ⅲ",
           "zh-Hans": "无伤护石Ⅲ",
           "ar": "تميمة الآمن 3",
+          "th": "เครื่องรางไร้รอยแผล III",
           "es-419": "Amuleto ileso III"
         },
         "descriptions": {
@@ -1323,6 +1376,7 @@
           "zh-Hant": "發動無傷技能的護身符。",
           "zh-Hans": "发动无伤技能的护身符。",
           "ar": "تميمة تمنح مهارة ذروة الأداء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nสมรรถนะสูงสุด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Plena forma."
         },
         "rarity": 8,
@@ -1361,6 +1415,7 @@
           "zh-Hant": "不明護石",
           "zh-Hans": "不明护石",
           "ar": "تعويذة مجهولة",
+          "th": "เครื่องรางปริศนา",
           "es-419": "Amuleto desconocido"
         },
         "descriptions": {
@@ -1377,6 +1432,7 @@
           "zh-Hant": "連於何時製造都不清楚的護石。\r\n據說能引出持有者的潛在能力。",
           "zh-Hans": "甚至不知道何时制造出的护石。\r\n相传能够激发持有者潜藏的能力。",
           "ar": "تعويذة غامضة لا يمكن تحديد عمرها.\r\nيُقال إنها تستخرج القوى الخفية لحاملها.",
+          "th": "เครื่องรางที่ไม่ทราบอายุ ว่ากันว่า\r\nจะปลดปล่อยพลังแฝงที่อยู่ในตัว\r\nผู้สวมใส่",
           "es-419": "Amuleto de edad indeterminada.\r\nSe dice que extrae las fuerzas\r\nocultas de su poseedor."
         },
         "rarity": 5,
@@ -1408,6 +1464,7 @@
           "zh-Hant": "耐眠護石Ⅰ",
           "zh-Hans": "耐眠护石Ⅰ",
           "ar": "تميمة النوم 1",
+          "th": "เครื่องรางกันหลับ I",
           "es-419": "Amuleto de sueño I"
         },
         "descriptions": {
@@ -1424,6 +1481,7 @@
           "zh-Hant": "發動睡眠耐性技能的護身符。",
           "zh-Hans": "发动睡眠耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النوم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานหลับ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antisueño."
         },
         "rarity": 3,
@@ -1455,6 +1513,7 @@
           "zh-Hant": "耐眠護石Ⅱ",
           "zh-Hans": "耐眠护石Ⅱ",
           "ar": "تميمة النوم 2",
+          "th": "เครื่องรางกันหลับ II",
           "es-419": "Amuleto de sueño II"
         },
         "descriptions": {
@@ -1471,6 +1530,7 @@
           "zh-Hant": "發動睡眠耐性技能的護身符。",
           "zh-Hans": "发动睡眠耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النوم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานหลับ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antisueño."
         },
         "rarity": 4,
@@ -1503,6 +1563,7 @@
           "zh-Hant": "耐眠護石Ⅲ",
           "zh-Hans": "耐眠护石Ⅲ",
           "ar": "تميمة النوم 3",
+          "th": "เครื่องรางกันหลับ III",
           "es-419": "Amuleto de sueño III"
         },
         "descriptions": {
@@ -1519,6 +1580,7 @@
           "zh-Hant": "發動睡眠耐性技能的護身符。",
           "zh-Hans": "发动睡眠耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النوم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานหลับ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antisueño."
         },
         "rarity": 5,
@@ -1557,6 +1619,7 @@
           "zh-Hant": "快吃護石Ⅰ",
           "zh-Hans": "快吃护石Ⅰ",
           "ar": "تميمة الشره 1",
+          "th": "เครื่องรางกินมูมมาม I",
           "es-419": "Amuleto de gula I"
         },
         "descriptions": {
@@ -1573,6 +1636,7 @@
           "zh-Hant": "發動快吃技能的護身符。",
           "zh-Hans": "发动快吃技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالأكل السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad VEL al comer."
         },
         "rarity": 2,
@@ -1605,6 +1669,7 @@
           "zh-Hant": "快吃護石Ⅱ",
           "zh-Hans": "快吃护石Ⅱ",
           "ar": "تميمة الشره 2",
+          "th": "เครื่องรางกินมูมมาม II",
           "es-419": "Amuleto de gula II"
         },
         "descriptions": {
@@ -1621,6 +1686,7 @@
           "zh-Hant": "發動快吃技能的護身符。",
           "zh-Hans": "发动快吃技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالأكل السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad VEL al comer."
         },
         "rarity": 4,
@@ -1653,6 +1719,7 @@
           "zh-Hant": "快吃護石Ⅲ",
           "zh-Hans": "快吃护石Ⅲ",
           "ar": "تميمة الشره 3",
+          "th": "เครื่องรางกินมูมมาม III",
           "es-419": "Amuleto de gula III"
         },
         "descriptions": {
@@ -1669,6 +1736,7 @@
           "zh-Hant": "發動快吃技能的護身符。",
           "zh-Hans": "发动快吃技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالأكل السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกินเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad VEL al comer."
         },
         "rarity": 5,
@@ -1707,6 +1775,7 @@
           "zh-Hant": "挑戰護石Ⅰ",
           "zh-Hans": "挑战护石Ⅰ",
           "ar": "تميمة المتحدّي 1",
+          "th": "เครื่องรางท้าทาย I",
           "es-419": "Amuleto del desafío I"
         },
         "descriptions": {
@@ -1723,6 +1792,7 @@
           "zh-Hant": "發動挑戰者技能的護身符。",
           "zh-Hans": "发动挑战者技能的护身符。",
           "ar": "تميمة تمنح مهارة المشاغب.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nยั่วโทสะ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Instigador."
         },
         "rarity": 5,
@@ -1755,6 +1825,7 @@
           "zh-Hant": "挑戰護石Ⅱ",
           "zh-Hans": "挑战护石Ⅱ",
           "ar": "تميمة المتحدّي 2",
+          "th": "เครื่องรางท้าทาย II",
           "es-419": "Amuleto del desafío II"
         },
         "descriptions": {
@@ -1771,6 +1842,7 @@
           "zh-Hant": "發動挑戰者技能的護身符。",
           "zh-Hans": "发动挑战者技能的护身符。",
           "ar": "تميمة تمنح مهارة المشاغب.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nยั่วโทสะ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Instigador."
         },
         "rarity": 7,
@@ -1803,6 +1875,7 @@
           "zh-Hant": "挑戰護石Ⅲ",
           "zh-Hans": "挑战护石Ⅲ",
           "ar": "تميمة المتحدّي 3",
+          "th": "เครื่องรางท้าทาย III",
           "es-419": "Amuleto del desafío III"
         },
         "descriptions": {
@@ -1819,6 +1892,7 @@
           "zh-Hant": "發動挑戰者技能的護身符。",
           "zh-Hans": "发动挑战者技能的护身符。",
           "ar": "تميمة تمنح مهارة المشاغب.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nยั่วโทสะ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Instigador."
         },
         "rarity": 8,
@@ -1857,6 +1931,7 @@
           "zh-Hant": "迴避護石Ⅰ",
           "zh-Hans": "回避护石Ⅰ",
           "ar": "تميمة التفادي 1",
+          "th": "เครื่องรางหลบหลีก I",
           "es-419": "Amuleto de evasión I"
         },
         "descriptions": {
@@ -1873,6 +1948,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจังหวะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
         },
         "rarity": 4,
@@ -1905,6 +1981,7 @@
           "zh-Hant": "迴避護石Ⅱ",
           "zh-Hans": "回避护石Ⅱ",
           "ar": "تميمة التفادي 2",
+          "th": "เครื่องรางหลบหลีก II",
           "es-419": "Amuleto de evasión II"
         },
         "descriptions": {
@@ -1921,6 +1998,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจังหวะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
         },
         "rarity": 5,
@@ -1953,6 +2031,7 @@
           "zh-Hant": "迴避護石Ⅲ",
           "zh-Hans": "回避护石Ⅲ",
           "ar": "تميمة التفادي 3",
+          "th": "เครื่องรางหลบหลีก III",
           "es-419": "Amuleto de evasión III"
         },
         "descriptions": {
@@ -1969,6 +2048,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจังหวะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo evasión."
         },
         "rarity": 6,
@@ -2001,6 +2081,7 @@
           "zh-Hant": "迴避護石Ⅳ",
           "zh-Hans": "回避护石Ⅳ",
           "ar": "تميمة التفادي 4",
+          "th": "เครื่องรางหลบหลีก IV",
           "es-419": "Amuleto de evasión IV"
         },
         "descriptions": {
@@ -2017,6 +2098,7 @@
           "zh-Hant": "發動迴避性能技能的護身符。",
           "zh-Hans": "发动回避性能技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nفترة التفادي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจังหวะหลบหลีก",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Intervalo de evasión."
         },
         "rarity": 7,
@@ -2055,6 +2137,7 @@
           "zh-Hant": "耐爆護石Ⅰ",
           "zh-Hans": "耐爆护石Ⅰ",
           "ar": "تميمة الانفجار 1",
+          "th": "เครื่องรางกันระเบิด I",
           "es-419": "Amuleto nitro I"
         },
         "descriptions": {
@@ -2071,6 +2154,7 @@
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
           "zh-Hans": "发动爆破异常耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antinitro."
         },
         "rarity": 3,
@@ -2102,6 +2186,7 @@
           "zh-Hant": "耐爆護石Ⅱ",
           "zh-Hans": "耐爆护石Ⅱ",
           "ar": "تميمة الانفجار 2",
+          "th": "เครื่องรางกันระเบิด II",
           "es-419": "Amuleto nitro II"
         },
         "descriptions": {
@@ -2118,6 +2203,7 @@
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
           "zh-Hans": "发动爆破异常耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antinitro."
         },
         "rarity": 4,
@@ -2150,6 +2236,7 @@
           "zh-Hant": "耐爆護石Ⅲ",
           "zh-Hans": "耐爆护石Ⅲ",
           "ar": "تميمة الانفجار 3",
+          "th": "เครื่องรางกันระเบิด III",
           "es-419": "Amuleto nitro III"
         },
         "descriptions": {
@@ -2166,6 +2253,7 @@
           "zh-Hant": "發動爆破異常耐性技能的護身符。",
           "zh-Hans": "发动爆破异常耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antinitro."
         },
         "rarity": 5,
@@ -2204,6 +2292,7 @@
           "zh-Hant": "秘歷護石",
           "zh-Hans": "秘史护石",
           "ar": "تعويذة سرية",
+          "th": "เครื่องรางเร้นลับ",
           "es-419": "Amuleto secreto"
         },
         "descriptions": {
@@ -2220,6 +2309,7 @@
           "zh-Hant": "蘊藏著尚未公布之歷史真相的護石。\r\n據說持有者終將觸及世界的深淵。",
           "zh-Hans": "藏有尚未解明的历史真相的护石。\r\n相传持有者终将触碰到世界的深渊。",
           "ar": "تعويذة تحمل أسرار التاريخ المجهولة.\r\nسيشهد حاملها يومًا ما هاوية العالم.",
+          "th": "เครื่องรางที่ซ่อนความลับทาง\r\nประวัติศาสตร์เอาไว้ ผู้สวมใส่จะ\r\nได้เห็นด้านมืดของโลกสักวันหนึ่ง",
           "es-419": "Un amuleto que contiene secretos\r\nhistóricos sin revelar.\r\nEl portador verá un día el abismo\r\ndel mundo."
         },
         "rarity": 7,
@@ -2251,6 +2341,7 @@
           "zh-Hant": "渾身護石Ⅰ",
           "zh-Hans": "浑身护石Ⅰ",
           "ar": "تميمة الهائل 1",
+          "th": "เครื่องรางเต็มแรง I",
           "es-419": "Amuleto potente I"
         },
         "descriptions": {
@@ -2267,6 +2358,7 @@
           "zh-Hant": "發動精神抖擻技能的護身符。",
           "zh-Hans": "发动精神抖擞技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة القصوى.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังเต็มพิกัด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder máximo."
         },
         "rarity": 5,
@@ -2299,6 +2391,7 @@
           "zh-Hant": "渾身護石Ⅱ",
           "zh-Hans": "浑身护石Ⅱ",
           "ar": "تميمة الهائل 2",
+          "th": "เครื่องรางเต็มแรง II",
           "es-419": "Amuleto potente II"
         },
         "descriptions": {
@@ -2315,6 +2408,7 @@
           "zh-Hant": "發動精神抖擻技能的護身符。",
           "zh-Hans": "发动精神抖擞技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة القصوى.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังเต็มพิกัด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder máximo."
         },
         "rarity": 7,
@@ -2347,6 +2441,7 @@
           "zh-Hant": "渾身護石Ⅲ",
           "zh-Hans": "浑身护石Ⅲ",
           "ar": "تميمة الهائل 3",
+          "th": "เครื่องรางเต็มแรง III",
           "es-419": "Amuleto potente III"
         },
         "descriptions": {
@@ -2363,6 +2458,7 @@
           "zh-Hant": "發動精神抖擻技能的護身符。",
           "zh-Hans": "发动精神抖擞技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة القصوى.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังเต็มพิกัด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder máximo."
         },
         "rarity": 8,
@@ -2401,6 +2497,7 @@
           "zh-Hant": "耐絕護石Ⅰ",
           "zh-Hans": "耐绝护石Ⅰ",
           "ar": "تميمة الصعق 1",
+          "th": "เครื่องรางกันสตัน I",
           "es-419": "Amuleto aturdidor I"
         },
         "descriptions": {
@@ -2417,6 +2514,7 @@
           "zh-Hant": "發動昏厥耐性技能的護身符。",
           "zh-Hans": "发动昏厥耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الصعق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสตัน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiaturdimiento."
         },
         "rarity": 3,
@@ -2448,6 +2546,7 @@
           "zh-Hant": "耐絕護石Ⅱ",
           "zh-Hans": "耐绝护石Ⅱ",
           "ar": "تميمة الصعق 2",
+          "th": "เครื่องรางกันสตัน II",
           "es-419": "Amuleto aturdidor II"
         },
         "descriptions": {
@@ -2464,6 +2563,7 @@
           "zh-Hant": "發動昏厥耐性技能的護身符。",
           "zh-Hans": "发动昏厥耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الصعق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสตัน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiaturdimiento."
         },
         "rarity": 4,
@@ -2496,6 +2596,7 @@
           "zh-Hant": "耐絕護石Ⅲ",
           "zh-Hans": "耐绝护石Ⅲ",
           "ar": "تميمة الصعق 3",
+          "th": "เครื่องรางกันสตัน III",
           "es-419": "Amuleto aturdidor III"
         },
         "descriptions": {
@@ -2512,6 +2613,7 @@
           "zh-Hant": "發動昏厥耐性技能的護身符。",
           "zh-Hans": "发动昏厥耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الصعق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสตัน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiaturdimiento."
         },
         "rarity": 5,
@@ -2550,6 +2652,7 @@
           "zh-Hant": "希望護石",
           "zh-Hans": "希望护石",
           "ar": "تميمة الأمل",
+          "th": "เครื่องรางความหวัง",
           "es-419": "Amuleto de la esperanza"
         },
         "descriptions": {
@@ -2566,6 +2669,7 @@
           "zh-Hant": "發動鑽研技能與體力回復量上升技能\r\n的護身符。",
           "zh-Hans": "发动钻研技能和体力回复量提升技能\r\n的护身符。",
           "ar": "تميمة تمنح مهارتي\r\nالتحسّن الذاتي وزيادة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพัฒนาตัวเองและฟื้นฟูเพิ่มขึ้น",
           "es-419": "Un amuleto que otorga\r\nlas habilidades Automejora y\r\nRecuperación."
         },
         "rarity": 5,
@@ -2600,6 +2704,7 @@
           "zh-Hant": "耐麻護石Ⅰ",
           "zh-Hans": "耐麻护石Ⅰ",
           "ar": "تميمة الشلل 1",
+          "th": "เครื่องรางต้านอัมพาต I",
           "es-419": "Amuleto parálisis I"
         },
         "descriptions": {
@@ -2616,6 +2721,7 @@
           "zh-Hant": "發動麻痺耐性技能的護身符。",
           "zh-Hans": "发动麻痹耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الشلل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานอัมพาต",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiparálisis."
         },
         "rarity": 2,
@@ -2647,6 +2753,7 @@
           "zh-Hant": "耐麻護石Ⅱ",
           "zh-Hans": "耐麻护石Ⅱ",
           "ar": "تميمة الشلل 2",
+          "th": "เครื่องรางต้านอัมพาต II",
           "es-419": "Amuleto parálisis II"
         },
         "descriptions": {
@@ -2663,6 +2770,7 @@
           "zh-Hant": "發動麻痺耐性技能的護身符。",
           "zh-Hans": "发动麻痹耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الشلل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานอัมพาต",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiparálisis."
         },
         "rarity": 4,
@@ -2695,6 +2803,7 @@
           "zh-Hant": "耐麻護石Ⅲ",
           "zh-Hans": "耐麻护石Ⅲ",
           "ar": "تميمة الشلل 3",
+          "th": "เครื่องรางต้านอัมพาต III",
           "es-419": "Amuleto parálisis III"
         },
         "descriptions": {
@@ -2711,6 +2820,7 @@
           "zh-Hant": "發動麻痺耐性技能的護身符。",
           "zh-Hans": "发动麻痹耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الشلل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานอัมพาต",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiparálisis."
         },
         "rarity": 5,
@@ -2749,6 +2859,7 @@
           "zh-Hant": "環境護石Ⅰ",
           "zh-Hans": "环境护石Ⅰ",
           "ar": "تميمة النجاة 1",
+          "th": "เครื่องรางรอดชีวิต I",
           "es-419": "Amuleto supervivencia I"
         },
         "descriptions": {
@@ -2765,6 +2876,7 @@
           "zh-Hant": "發動環境利用知識技能的護身符。",
           "zh-Hans": "发动环境利用知识技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nخبير النجاة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเอาตัวรอดช่ำชอง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nsupervivencia."
         },
         "rarity": 3,
@@ -2796,6 +2908,7 @@
           "zh-Hant": "環境護石Ⅱ",
           "zh-Hans": "环境护石Ⅱ",
           "ar": "تميمة النجاة 2",
+          "th": "เครื่องรางรอดชีวิต II",
           "es-419": "Amuleto supervivencia II"
         },
         "descriptions": {
@@ -2812,6 +2925,7 @@
           "zh-Hant": "發動環境利用知識技能的護身符。",
           "zh-Hans": "发动环境利用知识技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nخبير النجاة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเอาตัวรอดช่ำชอง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nsupervivencia."
         },
         "rarity": 5,
@@ -2844,6 +2958,7 @@
           "zh-Hant": "環境護石Ⅲ",
           "zh-Hans": "环境护石Ⅲ",
           "ar": "تميمة النجاة 3",
+          "th": "เครื่องรางรอดชีวิต III",
           "es-419": "Amuleto supervivencia III"
         },
         "descriptions": {
@@ -2860,6 +2975,7 @@
           "zh-Hant": "發動環境利用知識技能的護身符。",
           "zh-Hans": "发动环境利用知识技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nخبير النجاة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเอาตัวรอดช่ำชอง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Experto en\r\nsupervivencia."
         },
         "rarity": 6,
@@ -2898,6 +3014,7 @@
           "zh-Hant": "耳塞護石Ⅰ",
           "zh-Hans": "耳塞护石Ⅰ",
           "ar": "تميمة سدادات الأذن 1",
+          "th": "เครื่องรางกันเสียงคำราม I",
           "es-419": "Amuleto antirrugidos I"
         },
         "descriptions": {
@@ -2914,6 +3031,7 @@
           "zh-Hant": "發動耳塞技能的護身符。",
           "zh-Hans": "发动耳塞技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nسدادات الأذن.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกันเสียงคำราม",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antirrugidos."
         },
         "rarity": 6,
@@ -2946,6 +3064,7 @@
           "zh-Hant": "耳塞護石Ⅱ",
           "zh-Hans": "耳塞护石Ⅱ",
           "ar": "تميمة سدادات الأذن 2",
+          "th": "เครื่องรางกันเสียงคำราม II",
           "es-419": "Amuleto antirrugidos II"
         },
         "descriptions": {
@@ -2962,6 +3081,7 @@
           "zh-Hant": "發動耳塞技能的護身符。",
           "zh-Hans": "发动耳塞技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nسدادات الأذن.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nกันเสียงคำราม",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antirrugidos."
         },
         "rarity": 7,
@@ -3000,6 +3120,7 @@
           "zh-Hant": "耐雷護石Ⅰ",
           "zh-Hans": "耐雷护石Ⅰ",
           "ar": "تميمة الرعد 1",
+          "th": "เครื่องรางกันสายฟ้า I",
           "es-419": "Amuleto de rayo I"
         },
         "descriptions": {
@@ -3016,6 +3137,7 @@
           "zh-Hant": "發動雷耐性技能的護身符。",
           "zh-Hans": "发动雷耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الرعد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุสายฟ้า",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antirrayo."
         },
         "rarity": 3,
@@ -3047,6 +3169,7 @@
           "zh-Hant": "耐雷護石Ⅱ",
           "zh-Hans": "耐雷护石Ⅱ",
           "ar": "تميمة الرعد 2",
+          "th": "เครื่องรางกันสายฟ้า II",
           "es-419": "Amuleto de rayo II"
         },
         "descriptions": {
@@ -3063,6 +3186,7 @@
           "zh-Hant": "發動雷耐性技能的護身符。",
           "zh-Hans": "发动雷耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الرعد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุสายฟ้า",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antirrayo."
         },
         "rarity": 4,
@@ -3095,6 +3219,7 @@
           "zh-Hant": "耐雷護石Ⅲ",
           "zh-Hans": "耐雷护石Ⅲ",
           "ar": "تميمة الرعد 3",
+          "th": "เครื่องรางกันสายฟ้า III",
           "es-419": "Amuleto de rayo III"
         },
         "descriptions": {
@@ -3111,6 +3236,7 @@
           "zh-Hant": "發動雷耐性技能的護身符。",
           "zh-Hans": "发动雷耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الرعد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุสายฟ้า",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antirrayo."
         },
         "rarity": 5,
@@ -3149,6 +3275,7 @@
           "zh-Hant": "早氣護石Ⅰ",
           "zh-Hans": "早气护石Ⅰ",
           "ar": "تميمة الاندفاع 1",
+          "th": "เครื่องรางพลุ่งพล่าน I",
           "es-419": "Amuleto de recarga I"
         },
         "descriptions": {
@@ -3165,6 +3292,7 @@
           "zh-Hant": "發動耐力急速回復技能的護身符。",
           "zh-Hans": "发动耐力急速回复技能的护身符。",
           "ar": "تميمة تمنح مهارة اندفاع قوة التحمل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังกายพลุ่งพล่าน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Aumento de\r\nresistencia."
         },
         "rarity": 4,
@@ -3197,6 +3325,7 @@
           "zh-Hant": "早氣護石Ⅱ",
           "zh-Hans": "早气护石Ⅱ",
           "ar": "تميمة الاندفاع 2",
+          "th": "เครื่องรางพลุ่งพล่าน II",
           "es-419": "Amuleto de recarga II"
         },
         "descriptions": {
@@ -3213,6 +3342,7 @@
           "zh-Hant": "發動耐力急速回復技能的護身符。",
           "zh-Hans": "发动耐力急速回复技能的护身符。",
           "ar": "تميمة تمنح مهارة اندفاع قوة التحمل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังกายพลุ่งพล่าน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Aumento de\r\nresistencia."
         },
         "rarity": 5,
@@ -3245,6 +3375,7 @@
           "zh-Hant": "早氣護石Ⅲ",
           "zh-Hans": "早气护石Ⅲ",
           "ar": "تميمة الاندفاع 3",
+          "th": "เครื่องรางพลุ่งพล่าน III",
           "es-419": "Amuleto de recarga III"
         },
         "descriptions": {
@@ -3261,6 +3392,7 @@
           "zh-Hant": "發動耐力急速回復技能的護身符。",
           "zh-Hans": "发动耐力急速回复技能的护身符。",
           "ar": "تميمة تمنح مهارة اندفاع قوة التحمل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังกายพลุ่งพล่าน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Aumento de\r\nresistencia."
         },
         "rarity": 6,
@@ -3299,6 +3431,7 @@
           "zh-Hant": "全開護石Ⅰ",
           "zh-Hans": "全开护石Ⅰ",
           "ar": "تميمة القوة 1",
+          "th": "เครื่องรางทรงพลัง I",
           "es-419": "Amuleto de poder I"
         },
         "descriptions": {
@@ -3315,6 +3448,7 @@
           "zh-Hant": "發動力量解放技能的護身符。",
           "zh-Hans": "发动力量解放技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة الكامنة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังแฝง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder latente."
         },
         "rarity": 5,
@@ -3347,6 +3481,7 @@
           "zh-Hant": "全開護石Ⅱ",
           "zh-Hans": "全开护石Ⅱ",
           "ar": "تميمة القوة 2",
+          "th": "เครื่องรางทรงพลัง II",
           "es-419": "Amuleto de poder II"
         },
         "descriptions": {
@@ -3363,6 +3498,7 @@
           "zh-Hant": "發動力量解放技能的護身符。",
           "zh-Hans": "发动力量解放技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة الكامنة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังแฝง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder latente."
         },
         "rarity": 7,
@@ -3395,6 +3531,7 @@
           "zh-Hant": "全開護石Ⅲ",
           "zh-Hans": "全开护石Ⅲ",
           "ar": "تميمة القوة 3",
+          "th": "เครื่องรางทรงพลัง III",
           "es-419": "Amuleto de poder III"
         },
         "descriptions": {
@@ -3411,6 +3548,7 @@
           "zh-Hant": "發動力量解放技能的護身符。",
           "zh-Hans": "发动力量解放技能的护身符。",
           "ar": "تميمة تمنح مهارة القوة الكامنة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลังแฝง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Poder latente."
         },
         "rarity": 8,
@@ -3449,6 +3587,7 @@
           "zh-Hant": "防禦護石Ⅰ",
           "zh-Hans": "防御护石Ⅰ",
           "ar": "تميمة الدفاع 1",
+          "th": "เครื่องรางพลังป้องกัน I",
           "es-419": "Amuleto de defensa I"
         },
         "descriptions": {
@@ -3465,6 +3604,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเพิ่มพลังป้องกัน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 2,
@@ -3497,6 +3637,7 @@
           "zh-Hant": "防禦護石Ⅱ",
           "zh-Hans": "防御护石Ⅱ",
           "ar": "تميمة الدفاع 2",
+          "th": "เครื่องรางพลังป้องกัน II",
           "es-419": "Amuleto de defensa II"
         },
         "descriptions": {
@@ -3513,6 +3654,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเพิ่มพลังป้องกัน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 4,
@@ -3545,6 +3687,7 @@
           "zh-Hant": "防禦護石Ⅲ",
           "zh-Hans": "防御护石Ⅲ",
           "ar": "تميمة الدفاع 3",
+          "th": "เครื่องรางพลังป้องกัน III",
           "es-419": "Amuleto de defensa III"
         },
         "descriptions": {
@@ -3561,6 +3704,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเพิ่มพลังป้องกัน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 5,
@@ -3593,6 +3737,7 @@
           "zh-Hant": "防禦護石Ⅳ",
           "zh-Hans": "防御护石Ⅳ",
           "ar": "تميمة الدفاع 4",
+          "th": "เครื่องรางพลังป้องกัน IV",
           "es-419": "Amuleto de defensa IV"
         },
         "descriptions": {
@@ -3609,6 +3754,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเพิ่มพลังป้องกัน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 6,
@@ -3641,6 +3787,7 @@
           "zh-Hant": "防禦護石Ⅴ",
           "zh-Hans": "防御护石Ⅴ",
           "ar": "تميمة الدفاع 5",
+          "th": "เครื่องรางพลังป้องกัน V",
           "es-419": "Amuleto de defensa V"
         },
         "descriptions": {
@@ -3657,6 +3804,7 @@
           "zh-Hant": "發動防禦技能的護身符。",
           "zh-Hans": "发动防御技能的护身符。",
           "ar": "تميمة تمنح مهارة تعزيز الدفاع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเพิ่มพลังป้องกัน",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Bonus DEF."
         },
         "rarity": 7,
@@ -3695,6 +3843,7 @@
           "zh-Hant": "耐毒護石Ⅰ",
           "zh-Hans": "耐毒护石Ⅰ",
           "ar": "تميمة السم 1",
+          "th": "เครื่องรางต้านพิษ I",
           "es-419": "Amuleto de veneno I"
         },
         "descriptions": {
@@ -3711,6 +3860,7 @@
           "zh-Hant": "發動毒耐性技能的護身符。",
           "zh-Hans": "发动毒耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة السم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานพิษ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiveneno."
         },
         "rarity": 3,
@@ -3742,6 +3892,7 @@
           "zh-Hant": "耐毒護石Ⅱ",
           "zh-Hans": "耐毒护石Ⅱ",
           "ar": "تميمة السم 2",
+          "th": "เครื่องรางต้านพิษ II",
           "es-419": "Amuleto de veneno II"
         },
         "descriptions": {
@@ -3758,6 +3909,7 @@
           "zh-Hant": "發動毒耐性技能的護身符。",
           "zh-Hans": "发动毒耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة السم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานพิษ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiveneno."
         },
         "rarity": 4,
@@ -3790,6 +3942,7 @@
           "zh-Hant": "耐毒護石Ⅲ",
           "zh-Hans": "耐毒护石Ⅲ",
           "ar": "تميمة السم 3",
+          "th": "เครื่องรางต้านพิษ III",
           "es-419": "Amuleto de veneno III"
         },
         "descriptions": {
@@ -3806,6 +3959,7 @@
           "zh-Hant": "發動毒耐性技能的護身符。",
           "zh-Hans": "发动毒耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة السم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานพิษ",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Antiveneno."
         },
         "rarity": 5,
@@ -3844,6 +3998,7 @@
           "zh-Hant": "逆襲護石Ⅰ",
           "zh-Hans": "逆袭护石Ⅰ",
           "ar": "تميمة الضربة العكسية 1",
+          "th": "เครื่องรางสวนกลับ I",
           "es-419": "Amuleto venganza I"
         },
         "descriptions": {
@@ -3860,6 +4015,7 @@
           "zh-Hant": "發動逆襲技能的護身符。",
           "zh-Hans": "发动逆袭技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالضربة العكسية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจู่โจมสวนกลับ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Venganza."
         },
         "rarity": 5,
@@ -3892,6 +4048,7 @@
           "zh-Hant": "逆襲護石Ⅱ",
           "zh-Hans": "逆袭护石Ⅱ",
           "ar": "تميمة الضربة العكسية 2",
+          "th": "เครื่องรางสวนกลับ II",
           "es-419": "Amuleto venganza II"
         },
         "descriptions": {
@@ -3908,6 +4065,7 @@
           "zh-Hant": "發動逆襲技能的護身符。",
           "zh-Hans": "发动逆袭技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالضربة العكسية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจู่โจมสวนกลับ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Venganza."
         },
         "rarity": 6,
@@ -3940,6 +4098,7 @@
           "zh-Hant": "逆襲護石Ⅲ",
           "zh-Hans": "逆袭护石Ⅲ",
           "ar": "تميمة الضربة العكسية 3",
+          "th": "เครื่องรางสวนกลับ III",
           "es-419": "Amuleto venganza III"
         },
         "descriptions": {
@@ -3956,6 +4115,7 @@
           "zh-Hant": "發動逆襲技能的護身符。",
           "zh-Hans": "发动逆袭技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالضربة العكسية.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nจู่โจมสวนกลับ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Venganza."
         },
         "rarity": 7,
@@ -3994,6 +4154,7 @@
           "zh-Hant": "收刀護石Ⅰ",
           "zh-Hans": "纳刀护石Ⅰ",
           "ar": "تميمة الغمد 1",
+          "th": "เครื่องรางเก็บอาวุธ I",
           "es-419": "Amuleto envainado I"
         },
         "descriptions": {
@@ -4010,6 +4171,7 @@
           "zh-Hant": "發動收刀術技能的護身符。",
           "zh-Hans": "发动纳刀术技能的护身符。",
           "ar": "تميمة تمنح مهارة الغمد السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเก็บอาวุธเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Envainado veloz."
         },
         "rarity": 4,
@@ -4042,6 +4204,7 @@
           "zh-Hant": "收刀護石Ⅱ",
           "zh-Hans": "纳刀护石Ⅱ",
           "ar": "تميمة الغمد 2",
+          "th": "เครื่องรางเก็บอาวุธ II",
           "es-419": "Amuleto envainado II"
         },
         "descriptions": {
@@ -4058,6 +4221,7 @@
           "zh-Hant": "發動收刀術技能的護身符。",
           "zh-Hans": "发动纳刀术技能的护身符。",
           "ar": "تميمة تمنح مهارة الغمد السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเก็บอาวุธเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Envainado veloz."
         },
         "rarity": 5,
@@ -4090,6 +4254,7 @@
           "zh-Hant": "收刀護石Ⅲ",
           "zh-Hans": "纳刀护石Ⅲ",
           "ar": "تميمة الغمد 3",
+          "th": "เครื่องรางเก็บอาวุธ III",
           "es-419": "Amuleto envainado III"
         },
         "descriptions": {
@@ -4106,6 +4271,7 @@
           "zh-Hant": "發動收刀術技能的護身符。",
           "zh-Hans": "发动纳刀术技能的护身符。",
           "ar": "تميمة تمنح مهارة الغمد السريع.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nเก็บอาวุธเร็ว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Envainado veloz."
         },
         "rarity": 6,
@@ -4144,6 +4310,7 @@
           "zh-Hant": "耐水護石Ⅰ",
           "zh-Hans": "耐水护石Ⅰ",
           "ar": "تميمة الماء 1",
+          "th": "เครื่องรางกันน้ำ I",
           "es-419": "Amuleto de agua I"
         },
         "descriptions": {
@@ -4160,6 +4327,7 @@
           "zh-Hant": "發動水耐性技能的護身符。",
           "zh-Hans": "发动水耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الماء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiagua."
         },
         "rarity": 2,
@@ -4191,6 +4359,7 @@
           "zh-Hant": "耐水護石Ⅱ",
           "zh-Hans": "耐水护石Ⅱ",
           "ar": "تميمة الماء 2",
+          "th": "เครื่องรางกันน้ำ II",
           "es-419": "Amuleto de agua II"
         },
         "descriptions": {
@@ -4207,6 +4376,7 @@
           "zh-Hant": "發動水耐性技能的護身符。",
           "zh-Hans": "发动水耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الماء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiagua."
         },
         "rarity": 4,
@@ -4239,6 +4409,7 @@
           "zh-Hant": "耐水護石Ⅲ",
           "zh-Hans": "耐水护石Ⅲ",
           "ar": "تميمة الماء 3",
+          "th": "เครื่องรางกันน้ำ III",
           "es-419": "Amuleto de agua III"
         },
         "descriptions": {
@@ -4255,6 +4426,7 @@
           "zh-Hant": "發動水耐性技能的護身符。",
           "zh-Hans": "发动水耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الماء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiagua."
         },
         "rarity": 5,
@@ -4293,6 +4465,7 @@
           "zh-Hant": "友愛護石Ⅰ",
           "zh-Hans": "友爱护石Ⅰ",
           "ar": "تميمة الصداقة 1",
+          "th": "เครื่องรางมิตรภาพ I",
           "es-419": "Amuleto de amistad I"
         },
         "descriptions": {
@@ -4309,6 +4482,7 @@
           "zh-Hant": "發動廣域化技能的護身符。",
           "zh-Hans": "发动广域化技能的护身符。",
           "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nส่งผลระยะกว้าง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
         },
         "rarity": 3,
@@ -4341,6 +4515,7 @@
           "zh-Hant": "友愛護石Ⅱ",
           "zh-Hans": "友爱护石Ⅱ",
           "ar": "تميمة الصداقة 2",
+          "th": "เครื่องรางมิตรภาพ II",
           "es-419": "Amuleto de amistad II"
         },
         "descriptions": {
@@ -4357,6 +4532,7 @@
           "zh-Hant": "發動廣域化技能的護身符。",
           "zh-Hans": "发动广域化技能的护身符。",
           "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nส่งผลระยะกว้าง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
         },
         "rarity": 4,
@@ -4389,6 +4565,7 @@
           "zh-Hant": "友愛護石Ⅲ",
           "zh-Hans": "友爱护石Ⅲ",
           "ar": "تميمة الصداقة 3",
+          "th": "เครื่องรางมิตรภาพ III",
           "es-419": "Amuleto de amistad III"
         },
         "descriptions": {
@@ -4405,6 +4582,7 @@
           "zh-Hant": "發動廣域化技能的護身符。",
           "zh-Hans": "发动广域化技能的护身符。",
           "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nส่งผลระยะกว้าง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
         },
         "rarity": 4,
@@ -4437,6 +4615,7 @@
           "zh-Hant": "友愛護石Ⅳ",
           "zh-Hans": "友爱护石Ⅳ",
           "ar": "تميمة الصداقة 4",
+          "th": "เครื่องรางมิตรภาพ IV",
           "es-419": "Amuleto de amistad IV"
         },
         "descriptions": {
@@ -4453,6 +4632,7 @@
           "zh-Hant": "發動廣域化技能的護身符。",
           "zh-Hans": "发动广域化技能的护身符。",
           "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nส่งผลระยะกว้าง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
         },
         "rarity": 5,
@@ -4485,6 +4665,7 @@
           "zh-Hant": "友愛護石Ⅴ",
           "zh-Hans": "友爱护石Ⅴ",
           "ar": "تميمة الصداقة 5",
+          "th": "เครื่องรางมิตรภาพ V",
           "es-419": "Amuleto de amistad V"
         },
         "descriptions": {
@@ -4501,6 +4682,7 @@
           "zh-Hant": "發動廣域化技能的護身符。",
           "zh-Hans": "发动广域化技能的护身符。",
           "ar": "تميمة تمنح مهارة المدى الكبير.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nส่งผลระยะกว้าง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Efecto área."
         },
         "rarity": 6,
@@ -4539,6 +4721,7 @@
           "zh-Hant": "耐屬護石Ⅰ",
           "zh-Hans": "耐属护石Ⅰ",
           "ar": "تميمة الوباء 1",
+          "th": "เครื่องรางกันไบลท์ I",
           "es-419": "Amuleto de plaga I"
         },
         "descriptions": {
@@ -4555,6 +4738,7 @@
           "zh-Hant": "發動屬性異常耐性技能的\r\n護身符。",
           "zh-Hans": "发动属性异常耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة مقاومة الوباء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานไบลท์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiplagas."
         },
         "rarity": 6,
@@ -4587,6 +4771,7 @@
           "zh-Hant": "耐屬護石Ⅱ",
           "zh-Hans": "耐属护石Ⅱ",
           "ar": "تميمة الوباء 2",
+          "th": "เครื่องรางกันไบลท์ II",
           "es-419": "Amuleto de plaga II"
         },
         "descriptions": {
@@ -4603,6 +4788,7 @@
           "zh-Hant": "發動屬性異常耐性技能的\r\n護身符。",
           "zh-Hans": "发动属性异常耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة مقاومة الوباء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานไบลท์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiplagas."
         },
         "rarity": 7,
@@ -4635,6 +4821,7 @@
           "zh-Hant": "耐屬護石Ⅲ",
           "zh-Hans": "耐属护石Ⅲ",
           "ar": "تميمة الوباء 3",
+          "th": "เครื่องรางกันไบลท์ III",
           "es-419": "Amuleto de plaga III"
         },
         "descriptions": {
@@ -4651,6 +4838,7 @@
           "zh-Hant": "發動屬性異常耐性技能的\r\n護身符。",
           "zh-Hans": "发动属性异常耐性技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة مقاومة الوباء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานไบลท์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiplagas."
         },
         "rarity": 8,
@@ -4689,6 +4877,7 @@
           "zh-Hant": "持續護石Ⅰ",
           "zh-Hans": "持续护石Ⅰ",
           "ar": "تميمة التمديد 1",
+          "th": "เครื่องรางยืดเวลา I",
           "es-419": "Amuleto extensión I"
         },
         "descriptions": {
@@ -4705,6 +4894,7 @@
           "zh-Hant": "發動道具使用強化技能的護身符。",
           "zh-Hans": "发动道具使用强化技能的护身符。",
           "ar": "تميمة تمنح مهارة تمديد العنصر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไอเทมยาวนาน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Duración de objetos."
         },
         "rarity": 3,
@@ -4737,6 +4927,7 @@
           "zh-Hant": "持續護石Ⅱ",
           "zh-Hans": "持续护石Ⅱ",
           "ar": "تميمة التمديد 2",
+          "th": "เครื่องรางยืดเวลา II",
           "es-419": "Amuleto extensión II"
         },
         "descriptions": {
@@ -4753,6 +4944,7 @@
           "zh-Hant": "發動道具使用強化技能的護身符。",
           "zh-Hans": "发动道具使用强化技能的护身符。",
           "ar": "تميمة تمنح مهارة تمديد العنصر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไอเทมยาวนาน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Duración de objetos."
         },
         "rarity": 4,
@@ -4785,6 +4977,7 @@
           "zh-Hant": "持續護石Ⅲ",
           "zh-Hans": "持续护石Ⅲ",
           "ar": "تميمة التمديد 3",
+          "th": "เครื่องรางยืดเวลา III",
           "es-419": "Amuleto extensión III"
         },
         "descriptions": {
@@ -4801,6 +4994,7 @@
           "zh-Hant": "發動道具使用強化技能的護身符。",
           "zh-Hans": "发动道具使用强化技能的护身符。",
           "ar": "تميمة تمنح مهارة تمديد العنصر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไอเทมยาวนาน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Duración de objetos."
         },
         "rarity": 5,
@@ -4839,6 +5033,7 @@
           "zh-Hant": "耐冰護石Ⅰ",
           "zh-Hans": "耐冰护石Ⅰ",
           "ar": "تميمة الثلج 1",
+          "th": "เครื่องรางกันน้ำแข็ง I",
           "es-419": "Amuleto de hielo I"
         },
         "descriptions": {
@@ -4855,6 +5050,7 @@
           "zh-Hant": "發動冰耐性技能的護身符。",
           "zh-Hans": "发动冰耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الثلج.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำแข็ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antihielo."
         },
         "rarity": 3,
@@ -4886,6 +5082,7 @@
           "zh-Hant": "耐冰護石Ⅱ",
           "zh-Hans": "耐冰护石Ⅱ",
           "ar": "تميمة الثلج 2",
+          "th": "เครื่องรางกันน้ำแข็ง II",
           "es-419": "Amuleto de hielo II"
         },
         "descriptions": {
@@ -4902,6 +5099,7 @@
           "zh-Hant": "發動冰耐性技能的護身符。",
           "zh-Hans": "发动冰耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الثلج.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำแข็ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antihielo."
         },
         "rarity": 4,
@@ -4934,6 +5132,7 @@
           "zh-Hant": "耐冰護石Ⅲ",
           "zh-Hans": "耐冰护石Ⅲ",
           "ar": "تميمة الثلج 3",
+          "th": "เครื่องรางกันน้ำแข็ง III",
           "es-419": "Amuleto de hielo III"
         },
         "descriptions": {
@@ -4950,6 +5149,7 @@
           "zh-Hant": "發動冰耐性技能的護身符。",
           "zh-Hans": "发动冰耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الثلج.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุน้ำแข็ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antihielo."
         },
         "rarity": 5,
@@ -4988,6 +5188,7 @@
           "zh-Hant": "重擊護石Ⅰ",
           "zh-Hans": "重击护石Ⅰ",
           "ar": "تميمة الكاسر 1",
+          "th": "เครื่องรางทำลาย I",
           "es-419": "Amuleto de troceo I"
         },
         "descriptions": {
@@ -5004,6 +5205,7 @@
           "zh-Hant": "發動破壞王技能的護身符。",
           "zh-Hans": "发动破坏王技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nكاسر الأجزاء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักทำลายชิ้นส่วน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Rompepartes."
         },
         "rarity": 5,
@@ -5036,6 +5238,7 @@
           "zh-Hant": "重擊護石Ⅱ",
           "zh-Hans": "重击护石Ⅱ",
           "ar": "تميمة الكاسر 2",
+          "th": "เครื่องรางทำลาย II",
           "es-419": "Amuleto de troceo II"
         },
         "descriptions": {
@@ -5052,6 +5255,7 @@
           "zh-Hant": "發動破壞王技能的護身符。",
           "zh-Hans": "发动破坏王技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nكاسر الأجزاء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักทำลายชิ้นส่วน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Rompepartes."
         },
         "rarity": 7,
@@ -5084,6 +5288,7 @@
           "zh-Hant": "重擊護石Ⅲ",
           "zh-Hans": "重击护石Ⅲ",
           "ar": "تميمة الكاسر 3",
+          "th": "เครื่องรางทำลาย III",
           "es-419": "Amuleto de troceo III"
         },
         "descriptions": {
@@ -5100,6 +5305,7 @@
           "zh-Hant": "發動破壞王技能的護身符。",
           "zh-Hans": "发动破坏王技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nكاسر الأجزاء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักทำลายชิ้นส่วน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Rompepartes."
         },
         "rarity": 8,
@@ -5138,6 +5344,7 @@
           "zh-Hant": "榮世護石",
           "zh-Hans": "盛世护石",
           "ar": "تعويذة العصر الذهبي",
+          "th": "เครื่องรางยุคทอง",
           "es-419": "Amuleto de la edad dorada"
         },
         "descriptions": {
@@ -5154,6 +5361,7 @@
           "zh-Hant": "刻劃著古時繁榮文明之大智的護石。\r\n據說拿到的人能瞥見傳說的一部分。",
           "zh-Hans": "刻有曾经繁荣的文明之睿智的护石。\r\n相传持有者能够瞥见一部分传说。",
           "ar": "تعويذة نُقشت عليها حكمة حضارة متقدمة،\r\nتمنح لمحة عن عصر الأساطير.",
+          "th": "เครื่องรางที่มีภูมิปัญญาแห่ง\r\nอารยธรรมชั้นสูงสลักอยู่ ช่วย\r\nเปิดโลกสู่ยุคแห่งตำนาน",
           "es-419": "Un amuleto inscrito con la\r\nsabiduría de una cultura\r\navanzada. Ofrece una mirada\r\na una era de leyendas."
         },
         "rarity": 8,
@@ -5185,6 +5393,7 @@
           "zh-Hant": "抗狂護石Ⅰ",
           "zh-Hans": "抗狂护石Ⅰ",
           "ar": "تميمة العقلانية 1",
+          "th": "เครื่องรางคงสติ I",
           "es-419": "Amuleto de cordura I"
         },
         "descriptions": {
@@ -5201,6 +5410,7 @@
           "zh-Hant": "發動無我境界技能的護身符。",
           "zh-Hans": "发动无我之境技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمضاد الفيروسات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านไวรัส",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antivirus."
         },
         "rarity": 5,
@@ -5233,6 +5443,7 @@
           "zh-Hant": "抗狂護石Ⅱ",
           "zh-Hans": "抗狂护石Ⅱ",
           "ar": "تميمة العقلانية 2",
+          "th": "เครื่องรางคงสติ II",
           "es-419": "Amuleto de cordura II"
         },
         "descriptions": {
@@ -5249,6 +5460,7 @@
           "zh-Hant": "發動無我境界技能的護身符。",
           "zh-Hans": "发动无我之境技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمضاد الفيروسات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านไวรัส",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antivirus."
         },
         "rarity": 6,
@@ -5281,6 +5493,7 @@
           "zh-Hant": "抗狂護石Ⅲ",
           "zh-Hans": "抗狂护石Ⅲ",
           "ar": "تميمة العقلانية 3",
+          "th": "เครื่องรางคงสติ III",
           "es-419": "Amuleto de cordura III"
         },
         "descriptions": {
@@ -5297,6 +5510,7 @@
           "zh-Hant": "發動無我境界技能的護身符。",
           "zh-Hans": "发动无我之境技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمضاد الفيروسات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านไวรัส",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antivirus."
         },
         "rarity": 7,
@@ -5335,6 +5549,7 @@
           "zh-Hant": "威嚇護石Ⅰ",
           "zh-Hans": "威吓护石Ⅰ",
           "ar": "تميمة المخيف 1",
+          "th": "เครื่องรางข่มขวัญ I",
           "es-419": "Amuleto intimidante I"
         },
         "descriptions": {
@@ -5351,6 +5566,7 @@
           "zh-Hant": "發動威嚇技能的護身符。",
           "zh-Hans": "发动威吓技能的护身符。",
           "ar": "تميمة تمنح مهارة المخيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nข่มขวัญ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Intimidador."
         },
         "rarity": 3,
@@ -5383,6 +5599,7 @@
           "zh-Hant": "威嚇護石Ⅱ",
           "zh-Hans": "威吓护石Ⅱ",
           "ar": "تميمة المخيف 2",
+          "th": "เครื่องรางข่มขวัญ II",
           "es-419": "Amuleto intimidante II"
         },
         "descriptions": {
@@ -5399,6 +5616,7 @@
           "zh-Hant": "發動威嚇技能的護身符。",
           "zh-Hans": "发动威吓技能的护身符。",
           "ar": "تميمة تمنح مهارة المخيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nข่มขวัญ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Intimidador."
         },
         "rarity": 5,
@@ -5431,6 +5649,7 @@
           "zh-Hant": "威嚇護石Ⅲ",
           "zh-Hans": "威吓护石Ⅲ",
           "ar": "تميمة المخيف 3",
+          "th": "เครื่องรางข่มขวัญ III",
           "es-419": "Amuleto intimidante III"
         },
         "descriptions": {
@@ -5447,6 +5666,7 @@
           "zh-Hant": "發動威嚇技能的護身符。",
           "zh-Hans": "发动威吓技能的护身符。",
           "ar": "تميمة تمنح مهارة المخيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nข่มขวัญ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Intimidador."
         },
         "rarity": 6,
@@ -5485,6 +5705,7 @@
           "zh-Hant": "耐衝護石Ⅰ",
           "zh-Hans": "耐冲护石Ⅰ",
           "ar": "تميمة التصادم 1",
+          "th": "เครื่องรางแรงปะทะ I",
           "es-419": "Amuleto de impacto I"
         },
         "descriptions": {
@@ -5501,6 +5722,7 @@
           "zh-Hant": "發動減輕膽怯技能的護身符。",
           "zh-Hans": "发动减轻胆怯技能的护身符。",
           "ar": "تميمة تمنح مهارة الثبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไม่สะทกสะท้าน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Mejora de balance."
         },
         "rarity": 3,
@@ -5533,6 +5755,7 @@
           "zh-Hant": "耐衝護石Ⅱ",
           "zh-Hans": "耐冲护石Ⅱ",
           "ar": "تميمة التصادم 2",
+          "th": "เครื่องรางแรงปะทะ II",
           "es-419": "Amuleto de impacto II"
         },
         "descriptions": {
@@ -5549,6 +5772,7 @@
           "zh-Hant": "發動減輕膽怯技能的護身符。",
           "zh-Hans": "发动减轻胆怯技能的护身符。",
           "ar": "تميمة تمنح مهارة الثبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไม่สะทกสะท้าน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Mejora de balance."
         },
         "rarity": 4,
@@ -5581,6 +5805,7 @@
           "zh-Hant": "耐衝護石Ⅲ",
           "zh-Hans": "耐冲护石Ⅲ",
           "ar": "تميمة التصادم 3",
+          "th": "เครื่องรางแรงปะทะ III",
           "es-419": "Amuleto de impacto III"
         },
         "descriptions": {
@@ -5597,6 +5822,7 @@
           "zh-Hant": "發動減輕膽怯技能的護身符。",
           "zh-Hans": "发动减轻胆怯技能的护身符。",
           "ar": "تميمة تمنح مهارة الثبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nไม่สะทกสะท้าน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Mejora de balance."
         },
         "rarity": 5,
@@ -5635,6 +5861,7 @@
           "zh-Hant": "愛菇護石Ⅰ",
           "zh-Hans": "嗜菇护石Ⅰ",
           "ar": "تميمة الفطر 1",
+          "th": "เครื่องรางเห็ด I",
           "es-419": "Amuleto de hongo I"
         },
         "descriptions": {
@@ -5651,6 +5878,7 @@
           "zh-Hant": "發動最愛菇類技能的護身符。",
           "zh-Hans": "发动最爱蘑菇技能的护身符。",
           "ar": "تميمة تمنح مهارة آكل الفطر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nคนรักเห็ด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Adivinahongos."
         },
         "rarity": 4,
@@ -5683,6 +5911,7 @@
           "zh-Hant": "愛菇護石Ⅱ",
           "zh-Hans": "嗜菇护石Ⅱ",
           "ar": "تميمة الفطر 2",
+          "th": "เครื่องรางเห็ด II",
           "es-419": "Amuleto de hongo II"
         },
         "descriptions": {
@@ -5699,6 +5928,7 @@
           "zh-Hant": "發動最愛菇類技能的護身符。",
           "zh-Hans": "发动最爱蘑菇技能的护身符。",
           "ar": "تميمة تمنح مهارة آكل الفطر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nคนรักเห็ด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Adivinahongos."
         },
         "rarity": 6,
@@ -5731,6 +5961,7 @@
           "zh-Hant": "愛菇護石Ⅲ",
           "zh-Hans": "嗜菇护石Ⅲ",
           "ar": "تميمة الفطر 3",
+          "th": "เครื่องรางเห็ด III",
           "es-419": "Amuleto de hongo III"
         },
         "descriptions": {
@@ -5747,6 +5978,7 @@
           "zh-Hant": "發動最愛菇類技能的護身符。",
           "zh-Hans": "发动最爱蘑菇技能的护身符。",
           "ar": "تميمة تمنح مهارة آكل الفطر.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nคนรักเห็ด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Adivinahongos."
         },
         "rarity": 7,
@@ -5785,6 +6017,7 @@
           "zh-Hant": "反攻護石Ⅰ",
           "zh-Hans": "反攻护石Ⅰ",
           "ar": "تميمة الهجوم المضاد 1",
+          "th": "เครื่องรางโจมตีสวนกลับ I",
           "es-419": "Amuleto adrenalina I"
         },
         "descriptions": {
@@ -5801,6 +6034,7 @@
           "zh-Hant": "發動巧擊技能的護身符。",
           "zh-Hans": "发动巧击技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتسارع الأدرينالين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nอะดรีนาลีนหลั่ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Subida de\r\nadrenalina."
         },
         "rarity": 5,
@@ -5833,6 +6067,7 @@
           "zh-Hant": "反攻護石Ⅱ",
           "zh-Hans": "反攻护石Ⅱ",
           "ar": "تميمة الهجوم المضاد 2",
+          "th": "เครื่องรางโจมตีสวนกลับ II",
           "es-419": "Amuleto adrenalina II"
         },
         "descriptions": {
@@ -5849,6 +6084,7 @@
           "zh-Hant": "發動巧擊技能的護身符。",
           "zh-Hans": "发动巧击技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتسارع الأدرينالين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nอะดรีนาลีนหลั่ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Subida de\r\nadrenalina."
         },
         "rarity": 7,
@@ -5881,6 +6117,7 @@
           "zh-Hant": "反攻護石Ⅲ",
           "zh-Hans": "反攻护石Ⅲ",
           "ar": "تميمة الهجوم المضاد 3",
+          "th": "เครื่องรางโจมตีสวนกลับ III",
           "es-419": "Amuleto adrenalina III"
         },
         "descriptions": {
@@ -5897,6 +6134,7 @@
           "zh-Hant": "發動巧擊技能的護身符。",
           "zh-Hans": "发动巧击技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nتسارع الأدرينالين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nอะดรีนาลีนหลั่ง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Subida de\r\nadrenalina."
         },
         "rarity": 8,
@@ -5935,6 +6173,7 @@
           "zh-Hant": "史傳護石",
           "zh-Hans": "史传护石",
           "ar": "تعويذة تاريخية",
+          "th": "เครื่องรางประวัติศาสตร์",
           "es-419": "Amuleto histórico"
         },
         "descriptions": {
@@ -5951,6 +6190,7 @@
           "zh-Hant": "記載於古書角落的稀有護石。據說\r\n其光芒深處藏有更悠久的歷史。",
           "zh-Hans": "记载于古代文献一隅的稀有护石。\r\n在它的光芒深处，据说还有更多的\r\n历史沉睡其中。",
           "ar": "تعويذة غريبة ورد ذكرها في نصوص تاريخية.\r\nيشعّ توهّجها بأعماق الماضي.",
+          "th": "เครื่องรางประหลาดที่ถูกกล่าวถึง\r\nในบันทึกประวัติศาสตร์ ภายในแสง\r\nเรืองรองของมันมีประวัติศาสตร์ที่\r\nลึกล้ำซ่อนอยู่",
           "es-419": "Un extraño amuleto sobre el que\r\nse escribió en textos\r\nhistóricos. Su brillo encierra\r\nlas profundidades del pasado."
         },
         "rarity": 6,
@@ -5982,6 +6222,7 @@
           "zh-Hant": "強走護石Ⅰ",
           "zh-Hans": "强走护石Ⅰ",
           "ar": "تميمة الماراثون 1",
+          "th": "เครื่องรางมาราธอน I",
           "es-419": "Amuleto de maratón I"
         },
         "descriptions": {
@@ -5998,6 +6239,7 @@
           "zh-Hant": "發動跑者技能的護身符。",
           "zh-Hans": "发动跑者技能的护身符。",
           "ar": "تميمة تمنح مهارة عداء الماراثون.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักวิ่งมาราธอน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Maratonista."
         },
         "rarity": 4,
@@ -6030,6 +6272,7 @@
           "zh-Hant": "強走護石Ⅱ",
           "zh-Hans": "强走护石Ⅱ",
           "ar": "تميمة الماراثون 2",
+          "th": "เครื่องรางมาราธอน II",
           "es-419": "Amuleto de maratón II"
         },
         "descriptions": {
@@ -6046,6 +6289,7 @@
           "zh-Hant": "發動跑者技能的護身符。",
           "zh-Hans": "发动跑者技能的护身符。",
           "ar": "تميمة تمنح مهارة عداء الماراثون.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักวิ่งมาราธอน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Maratonista."
         },
         "rarity": 5,
@@ -6078,6 +6322,7 @@
           "zh-Hant": "強走護石Ⅲ",
           "zh-Hans": "强走护石Ⅲ",
           "ar": "تميمة الماراثون 3",
+          "th": "เครื่องรางมาราธอน III",
           "es-419": "Amuleto de maratón III"
         },
         "descriptions": {
@@ -6094,6 +6339,7 @@
           "zh-Hant": "發動跑者技能的護身符。",
           "zh-Hans": "发动跑者技能的护身符。",
           "ar": "تميمة تمنح مهارة عداء الماراثون.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักวิ่งมาราธอน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Maratonista."
         },
         "rarity": 6,
@@ -6132,6 +6378,7 @@
           "zh-Hant": "耐震護石Ⅰ",
           "zh-Hans": "耐震护石Ⅰ",
           "ar": "تميمة الزلازل 1",
+          "th": "เครื่องรางพื้นสะเทือน I",
           "es-419": "Amuleto temblores I"
         },
         "descriptions": {
@@ -6148,6 +6395,7 @@
           "zh-Hant": "發動耐震技能的護身符。",
           "zh-Hans": "发动耐震技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة الزلزال.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานแรงสะเทือน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antitemblores."
         },
         "rarity": 4,
@@ -6180,6 +6428,7 @@
           "zh-Hant": "耐震護石Ⅱ",
           "zh-Hans": "耐震护石Ⅱ",
           "ar": "تميمة الزلازل 2",
+          "th": "เครื่องรางพื้นสะเทือน II",
           "es-419": "Amuleto temblores II"
         },
         "descriptions": {
@@ -6196,6 +6445,7 @@
           "zh-Hant": "發動耐震技能的護身符。",
           "zh-Hans": "发动耐震技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الزلزال.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานแรงสะเทือน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antitemblores."
         },
         "rarity": 5,
@@ -6228,6 +6478,7 @@
           "zh-Hant": "耐震護石Ⅲ",
           "zh-Hans": "耐震护石Ⅲ",
           "ar": "تميمة الزلازل 3",
+          "th": "เครื่องรางพื้นสะเทือน III",
           "es-419": "Amuleto temblores III"
         },
         "descriptions": {
@@ -6244,6 +6495,7 @@
           "zh-Hant": "發動耐震技能的護身符。",
           "zh-Hans": "发动耐震技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة الزلزال.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานแรงสะเทือน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antitemblores."
         },
         "rarity": 6,
@@ -6282,6 +6534,7 @@
           "zh-Hant": "鎖刃護石Ⅰ",
           "zh-Hans": "锁刃护石Ⅰ",
           "ar": "تميمة النصل المتسلسل 1",
+          "th": "เครื่องรางดาบโซ่ I",
           "es-419": "Amuleto hoja cadena I"
         },
         "descriptions": {
@@ -6298,6 +6551,7 @@
           "zh-Hant": "發動鎖刃刺擊技能的護身符。",
           "zh-Hans": "发动锁刃刺击技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالساحق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nถลกหนัง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Desuelle."
         },
         "rarity": 4,
@@ -6330,6 +6584,7 @@
           "zh-Hant": "鎖刃護石Ⅱ",
           "zh-Hans": "锁刃护石Ⅱ",
           "ar": "تميمة النصل المتسلسل 2",
+          "th": "เครื่องรางดาบโซ่ II",
           "es-419": "Amuleto hoja cadena II"
         },
         "descriptions": {
@@ -6346,6 +6601,7 @@
           "zh-Hant": "發動鎖刃刺擊技能的護身符。",
           "zh-Hans": "发动锁刃刺击技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالساحق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nถลกหนัง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Desuelle."
         },
         "rarity": 7,
@@ -6360,6 +6616,56 @@
             "463": 3,
             "465": 1,
             "661": 5
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "鎖刃の護石Ⅲ",
+          "en": "Chainblade Charm III",
+          "fr": "Talisman d'incision III",
+          "it": "Amuleto frusta III",
+          "de": "KettenklingTalismanIII",
+          "es": "Amuleto desollador III",
+          "ru": "Оберег цепного клинка III",
+          "pl": "Am. ostrza łańcuch. III",
+          "pt-BR": "Amuleto Correlâmina III",
+          "ko": "쇄인의 호석Ⅲ",
+          "zh-Hant": "鎖刃護石Ⅲ",
+          "zh-Hans": "锁刃护石Ⅲ",
+          "ar": "تميمة النصل المتسلسل 3",
+          "th": "เครื่องรางดาบโซ่ III",
+          "es-419": "Amuleto de hoja cadena III"
+        },
+        "descriptions": {
+          "ja": "装備することで鎖刃刺撃スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Flayer\r\nskill.",
+          "fr": "Un talisman qui confère\r\nle talent Écorcheur.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Frustata.",
+          "de": "Dieses Amulett gewährt die\r\nSchinder-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"desuello\".",
+          "ru": "Оберег, дарующий навык\r\n«Рассечение».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Obdzieracz.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nEsfolamento.",
+          "ko": "장비하면 쇄인자격 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動鎖刃刺擊技能的護身符。",
+          "zh-Hans": "发动锁刃刺击技能的护身符。",
+          "ar": "تميمة تمنح مهارة\r\nالساحق.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nถลกหนัง",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Desuelle."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "-856322816": 3
+        },
+        "recipe": {
+          "inputs": {
+            "462": 6,
+            "552": 3,
+            "554": 1,
+            "762": 3
           }
         }
       }
@@ -6384,6 +6690,7 @@
           "zh-Hant": "轉福護石Ⅰ",
           "zh-Hans": "转福护石Ⅰ",
           "ar": "تميمة العنقاء 1",
+          "th": "เครื่องรางฟินิกซ์ I",
           "es-419": "Amuleto del fénix I"
         },
         "descriptions": {
@@ -6400,6 +6707,7 @@
           "zh-Hant": "發動轉禍為福技能的護身符。",
           "zh-Hans": "发动因祸得福技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة الالتحام.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลิกวิกฤติ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Coalescencia."
         },
         "rarity": 6,
@@ -6432,6 +6740,7 @@
           "zh-Hant": "轉福護石Ⅱ",
           "zh-Hans": "转福护石Ⅱ",
           "ar": "تميمة العنقاء 2",
+          "th": "เครื่องรางฟินิกซ์ II",
           "es-419": "Amuleto del fénix II"
         },
         "descriptions": {
@@ -6448,6 +6757,7 @@
           "zh-Hant": "發動轉禍為福技能的護身符。",
           "zh-Hans": "发动因祸得福技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة الالتحام.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลิกวิกฤติ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Coalescencia."
         },
         "rarity": 7,
@@ -6480,6 +6790,7 @@
           "zh-Hant": "轉福護石Ⅲ",
           "zh-Hans": "转福护石Ⅲ",
           "ar": "تميمة العنقاء 3",
+          "th": "เครื่องรางฟินิกซ์ III",
           "es-419": "Amuleto del fénix III"
         },
         "descriptions": {
@@ -6496,6 +6807,7 @@
           "zh-Hant": "發動轉禍為福技能的護身符。",
           "zh-Hans": "发动因祸得福技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة الالتحام.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพลิกวิกฤติ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Coalescencia."
         },
         "rarity": 8,
@@ -6534,6 +6846,7 @@
           "zh-Hant": "爆師護石Ⅰ",
           "zh-Hans": "爆师护石Ⅰ",
           "ar": "تميمة المدفعي 1",
+          "th": "เครื่องรางมือระเบิด I",
           "es-419": "Amuleto bombardeo I"
         },
         "descriptions": {
@@ -6550,6 +6863,7 @@
           "zh-Hant": "發動炸彈客技能的護身符。",
           "zh-Hans": "发动炸弹客技能的护身符。",
           "ar": "تميمة تمنح مهارة المدفعي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nมือระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Bombardero."
         },
         "rarity": 4,
@@ -6582,6 +6896,7 @@
           "zh-Hant": "爆師護石Ⅱ",
           "zh-Hans": "爆师护石Ⅱ",
           "ar": "تميمة المدفعي 2",
+          "th": "เครื่องรางมือระเบิด II",
           "es-419": "Amuleto bombardeo II"
         },
         "descriptions": {
@@ -6598,6 +6913,7 @@
           "zh-Hant": "發動炸彈客技能的護身符。",
           "zh-Hans": "发动炸弹客技能的护身符。",
           "ar": "تميمة تمنح مهارة المدفعي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nมือระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Bombardero."
         },
         "rarity": 5,
@@ -6630,6 +6946,7 @@
           "zh-Hant": "爆師護石Ⅲ",
           "zh-Hans": "爆师护石Ⅲ",
           "ar": "تميمة المدفعي 3",
+          "th": "เครื่องรางมือระเบิด III",
           "es-419": "Amuleto bombardeo III"
         },
         "descriptions": {
@@ -6646,6 +6963,7 @@
           "zh-Hant": "發動炸彈客技能的護身符。",
           "zh-Hans": "发动炸弹客技能的护身符。",
           "ar": "تميمة تمنح مهارة المدفعي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nมือระเบิด",
           "es-419": "Un amuleto que otorga\r\nla habilidad Bombardero."
         },
         "rarity": 6,
@@ -6684,6 +7002,7 @@
           "zh-Hant": "耐裂護石Ⅰ",
           "zh-Hans": "耐裂护石Ⅰ",
           "ar": "تميمة النزيف 1",
+          "th": "เครื่องรางห้ามเลือด I",
           "es-419": "Amuleto de sangre I"
         },
         "descriptions": {
@@ -6700,6 +7019,7 @@
           "zh-Hant": "發動裂傷耐性技能的護身符。",
           "zh-Hans": "发动裂伤耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النزيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานเลือดออก",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antisangrado."
         },
         "rarity": 3,
@@ -6732,6 +7052,7 @@
           "zh-Hant": "耐裂護石Ⅱ",
           "zh-Hans": "耐裂护石Ⅱ",
           "ar": "تميمة النزيف 2",
+          "th": "เครื่องรางห้ามเลือด II",
           "es-419": "Amuleto de sangre II"
         },
         "descriptions": {
@@ -6748,6 +7069,7 @@
           "zh-Hant": "發動裂傷耐性技能的護身符。",
           "zh-Hans": "发动裂伤耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النزيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานเลือดออก",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antisangrado."
         },
         "rarity": 5,
@@ -6780,6 +7102,7 @@
           "zh-Hant": "耐裂護石Ⅲ",
           "zh-Hans": "耐裂护石Ⅲ",
           "ar": "تميمة النزيف 3",
+          "th": "เครื่องรางห้ามเลือด III",
           "es-419": "Amuleto de sangre III"
         },
         "descriptions": {
@@ -6796,6 +7119,7 @@
           "zh-Hant": "發動裂傷耐性技能的護身符。",
           "zh-Hans": "发动裂伤耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة مقاومة النزيف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานเลือดออก",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antisangrado."
         },
         "rarity": 6,
@@ -6834,6 +7158,7 @@
           "zh-Hant": "屬變護石Ⅰ",
           "zh-Hans": "属变护石Ⅰ",
           "ar": "تميمة التحويل 1",
+          "th": "เครื่องรางแปลงธาตุ I",
           "es-419": "Amuleto conversión I"
         },
         "descriptions": {
@@ -6850,6 +7175,7 @@
           "zh-Hant": "發動屬性轉換技能的護身符。",
           "zh-Hans": "发动属性变换技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nعنصر التحويل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nแปลงธาตุ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Conversión de\r\nelemento."
         },
         "rarity": 7,
@@ -6882,6 +7208,7 @@
           "zh-Hant": "屬變護石Ⅱ",
           "zh-Hans": "属变护石Ⅱ",
           "ar": "تميمة التحويل 2",
+          "th": "เครื่องรางแปลงธาตุ II",
           "es-419": "Amuleto de conversión II"
         },
         "descriptions": {
@@ -6898,6 +7225,7 @@
           "zh-Hant": "發動屬性轉換技能的護身符。",
           "zh-Hans": "发动属性变换技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nعنصر التحويل.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nแปลงธาตุ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Conversión de\r\nelemento."
         },
         "rarity": 8,
@@ -6936,6 +7264,7 @@
           "zh-Hant": "加護護石Ⅰ",
           "zh-Hans": "加护护石Ⅰ",
           "ar": "تميمة المبارِك 1",
+          "th": "เครื่องรางอำนวยพร I",
           "es-419": "Amuleto bendición I"
         },
         "descriptions": {
@@ -6952,6 +7281,7 @@
           "zh-Hant": "發動精靈加護技能的護身符。",
           "zh-Hans": "发动精灵加护技能的护身符。",
           "ar": "تميمة تمنح مهارة المباركة المقدسة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพรจากสวรรค์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Protección divina."
         },
         "rarity": 3,
@@ -6984,6 +7314,7 @@
           "zh-Hant": "加護護石Ⅱ",
           "zh-Hans": "加护护石Ⅱ",
           "ar": "تميمة المبارِك 2",
+          "th": "เครื่องรางอำนวยพร II",
           "es-419": "Amuleto bendición II"
         },
         "descriptions": {
@@ -7000,6 +7331,7 @@
           "zh-Hant": "發動精靈加護技能的護身符。",
           "zh-Hans": "发动精灵加护技能的护身符。",
           "ar": "تميمة تمنح مهارة المباركة المقدسة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพรจากสวรรค์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Protección divina."
         },
         "rarity": 4,
@@ -7032,6 +7364,7 @@
           "zh-Hant": "加護護石Ⅲ",
           "zh-Hans": "加护护石Ⅲ",
           "ar": "تميمة المبارِك 3",
+          "th": "เครื่องรางอำนวยพร III",
           "es-419": "Amuleto bendición III"
         },
         "descriptions": {
@@ -7048,6 +7381,7 @@
           "zh-Hant": "發動精靈加護技能的護身符。",
           "zh-Hans": "发动精灵加护技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة المباركة المقدسة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nพรจากสวรรค์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Protección divina."
         },
         "rarity": 5,
@@ -7086,6 +7420,7 @@
           "zh-Hant": "耐防護石Ⅰ",
           "zh-Hans": "耐防护石Ⅰ",
           "ar": "تميمة التصدي 1",
+          "th": "เครื่องรางป้องกัน I",
           "es-419": "Amuleto de guarda I"
         },
         "descriptions": {
@@ -7102,6 +7437,7 @@
           "zh-Hant": "發動防禦力下降耐性技能的護身符。",
           "zh-Hans": "发动防御力下降耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة الجلد الحديدي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nหนังเหนียว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Piel de hierro."
         },
         "rarity": 3,
@@ -7134,6 +7470,7 @@
           "zh-Hant": "耐防護石Ⅱ",
           "zh-Hans": "耐防护石Ⅱ",
           "ar": "تميمة التصدي 2",
+          "th": "เครื่องรางป้องกัน II",
           "es-419": "Amuleto de guarda II"
         },
         "descriptions": {
@@ -7150,6 +7487,7 @@
           "zh-Hant": "發動防禦力下降耐性技能的護身符。",
           "zh-Hans": "发动防御力下降耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة الجلد الحديدي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nหนังเหนียว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Piel de hierro."
         },
         "rarity": 5,
@@ -7182,6 +7520,7 @@
           "zh-Hant": "耐防護石Ⅲ",
           "zh-Hans": "耐防护石Ⅲ",
           "ar": "تميمة التصدي 3",
+          "th": "เครื่องรางป้องกัน III",
           "es-419": "Amuleto de guarda III"
         },
         "descriptions": {
@@ -7198,6 +7537,7 @@
           "zh-Hant": "發動防禦力下降耐性技能的護身符。",
           "zh-Hans": "发动防御力下降耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة الجلد الحديدي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nหนังเหนียว",
           "es-419": "Un amuleto que otorga\r\nla habilidad Piel de hierro."
         },
         "rarity": 6,
@@ -7236,6 +7576,7 @@
           "zh-Hant": "急襲護石Ⅰ",
           "zh-Hans": "急袭护石Ⅰ",
           "ar": "تميمة الهبوط 1",
+          "th": "เครื่องรางจู่โจม I",
           "es-419": "Amuleto de descenso I"
         },
         "descriptions": {
@@ -7252,6 +7593,7 @@
           "zh-Hant": "發動急襲技能的護身符。",
           "zh-Hans": "发动急袭技能的护身符。",
           "ar": "تميمة تمنح مهارة الهبوط.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nซุ่มโจมตี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Emboscada."
         },
         "rarity": 4,
@@ -7284,6 +7626,7 @@
           "zh-Hant": "急襲護石Ⅱ",
           "zh-Hans": "急袭护石Ⅱ",
           "ar": "تميمة الهبوط 2",
+          "th": "เครื่องรางจู่โจม II",
           "es-419": "Amuleto de descenso II"
         },
         "descriptions": {
@@ -7300,6 +7643,7 @@
           "zh-Hant": "發動急襲技能的護身符。",
           "zh-Hans": "发动急袭技能的护身符。",
           "ar": "تميمة تمنح مهارة الهبوط.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nซุ่มโจมตี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Emboscada."
         },
         "rarity": 6,
@@ -7332,6 +7676,7 @@
           "zh-Hant": "急襲護石Ⅲ",
           "zh-Hans": "急袭护石Ⅲ",
           "ar": "تميمة الهبوط 3",
+          "th": "เครื่องรางจู่โจม III",
           "es-419": "Amuleto de descenso III"
         },
         "descriptions": {
@@ -7348,6 +7693,7 @@
           "zh-Hant": "發動急襲技能的護身符。",
           "zh-Hans": "发动急袭技能的护身符。",
           "ar": "تميمة تمنح مهارة الهبوط.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nซุ่มโจมตี",
           "es-419": "Un amuleto que otorga\r\nla habilidad Emboscada."
         },
         "rarity": 7,
@@ -7386,6 +7732,7 @@
           "zh-Hant": "屬吸護石Ⅰ",
           "zh-Hans": "属吸护石Ⅰ",
           "ar": "تميمة الامتصاص 1",
+          "th": "เครื่องรางดูดซับ I",
           "es-419": "Amuleto de bebida I"
         },
         "descriptions": {
@@ -7402,6 +7749,7 @@
           "zh-Hant": "發動屬性吸收技能的護身符。",
           "zh-Hans": "发动属性吸收技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالامتصاص العناصري.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nดูดซับพลังธาตุ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Absorción\r\nelemental."
         },
         "rarity": 7,
@@ -7434,6 +7782,7 @@
           "zh-Hant": "屬吸護石Ⅱ",
           "zh-Hans": "属吸护石Ⅱ",
           "ar": "تميمة الامتصاص 2",
+          "th": "เครื่องรางดูดซับ II",
           "es-419": "Amuleto de bebida II"
         },
         "descriptions": {
@@ -7450,6 +7799,7 @@
           "zh-Hant": "發動屬性吸收技能的護身符。",
           "zh-Hans": "发动属性吸收技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nالامتصاص العناصري.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nดูดซับพลังธาตุ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Absorción\r\nelemental."
         },
         "rarity": 8,
@@ -7488,6 +7838,7 @@
           "zh-Hant": "耐縛護石Ⅰ",
           "zh-Hans": "耐缚护石Ⅰ",
           "ar": "تميمة الهروب 1",
+          "th": "เครื่องรางหลบหนี I",
           "es-419": "Amuleto escape I"
         },
         "descriptions": {
@@ -7504,6 +7855,7 @@
           "zh-Hant": "發動束縛耐性技能的護身符。",
           "zh-Hans": "发动束缚耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التقييد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสถานะตรึง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiataduras."
         },
         "rarity": 4,
@@ -7536,6 +7888,7 @@
           "zh-Hant": "耐縛護石Ⅱ",
           "zh-Hans": "耐缚护石Ⅱ",
           "ar": "تميمة الهروب 2",
+          "th": "เครื่องรางหลบหนี II",
           "es-419": "Amuleto escape II"
         },
         "descriptions": {
@@ -7552,6 +7905,7 @@
           "zh-Hant": "發動束縛耐性技能的護身符。",
           "zh-Hans": "发动束缚耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التقييد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสถานะตรึง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiataduras."
         },
         "rarity": 6,
@@ -7584,6 +7938,7 @@
           "zh-Hant": "耐縛護石Ⅲ",
           "zh-Hans": "耐缚护石Ⅲ",
           "ar": "تميمة الهروب 3",
+          "th": "เครื่องรางหลบหนี III",
           "es-419": "Amuleto escape III"
         },
         "descriptions": {
@@ -7600,6 +7955,7 @@
           "zh-Hant": "發動束縛耐性技能的護身符。",
           "zh-Hans": "发动束缚耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التقييد.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานสถานะตรึง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antiataduras."
         },
         "rarity": 7,
@@ -7638,6 +7994,7 @@
           "zh-Hant": "早復護石Ⅰ",
           "zh-Hans": "早复护石Ⅰ",
           "ar": "تميمة سرعة الشفاء 1",
+          "th": "เครื่องรางเร่งรักษา I",
           "es-419": "Amuleto cura veloz I"
         },
         "descriptions": {
@@ -7654,6 +8011,7 @@
           "zh-Hant": "發動回復速度技能的護身符。",
           "zh-Hans": "发动回复速度技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nسرعة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nความเร็วการฟื้นฟู",
           "es-419": "Un amuleto que otorga\r\nla habilidad Recuperación rápida."
         },
         "rarity": 2,
@@ -7686,6 +8044,7 @@
           "zh-Hant": "早復護石Ⅱ",
           "zh-Hans": "早复护石Ⅱ",
           "ar": "تميمة سرعة الشفاء 2",
+          "th": "เครื่องรางเร่งรักษา II",
           "es-419": "Amuleto cura veloz II"
         },
         "descriptions": {
@@ -7702,6 +8061,7 @@
           "zh-Hant": "發動回復速度技能的護身符。",
           "zh-Hans": "发动回复速度技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nسرعة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nความเร็วการฟื้นฟู",
           "es-419": "Un amuleto que otorga\r\nla habilidad Recuperación rápida."
         },
         "rarity": 4,
@@ -7734,6 +8094,7 @@
           "zh-Hant": "早復護石Ⅲ",
           "zh-Hans": "早复护石Ⅲ",
           "ar": "تميمة سرعة الشفاء 3",
+          "th": "เครื่องรางเร่งรักษา III",
           "es-419": "Amuleto cura veloz III"
         },
         "descriptions": {
@@ -7750,6 +8111,7 @@
           "zh-Hant": "發動回復速度技能的護身符。",
           "zh-Hans": "发动回复速度技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nسرعة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nความเร็วการฟื้นฟู",
           "es-419": "Un amuleto que otorga\r\nla habilidad Recuperación rápida."
         },
         "rarity": 5,
@@ -7788,6 +8150,7 @@
           "zh-Hant": "治癒護石Ⅰ",
           "zh-Hans": "治愈护石Ⅰ",
           "ar": "تميمة التعافي 1",
+          "th": "เครื่องรางฟื้นฟู I",
           "es-419": "Amuleto recuperación I"
         },
         "descriptions": {
@@ -7804,6 +8167,7 @@
           "zh-Hant": "發動體力回復量上升技能的護身符。",
           "zh-Hans": "发动体力回复量提升技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة زيادة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nฟื้นฟูเพิ่มขึ้น",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Recuperación."
         },
         "rarity": 3,
@@ -7836,6 +8200,7 @@
           "zh-Hant": "治癒護石Ⅱ",
           "zh-Hans": "治愈护石Ⅱ",
           "ar": "تميمة التعافي 2",
+          "th": "เครื่องรางฟื้นฟู II",
           "es-419": "Amuleto recuperac. II"
         },
         "descriptions": {
@@ -7852,6 +8217,7 @@
           "zh-Hant": "發動體力回復量上升技能的護身符。",
           "zh-Hans": "发动体力回复量提升技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة زيادة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nฟื้นฟูเพิ่มขึ้น",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Recuperación."
         },
         "rarity": 4,
@@ -7884,6 +8250,7 @@
           "zh-Hant": "治癒護石Ⅲ",
           "zh-Hans": "治愈护石Ⅲ",
           "ar": "تميمة التعافي 3",
+          "th": "เครื่องรางฟื้นฟู III",
           "es-419": "Amuleto recuperac. III"
         },
         "descriptions": {
@@ -7900,6 +8267,7 @@
           "zh-Hant": "發動體力回復量上升技能的護身符。",
           "zh-Hans": "发动体力回复量提升技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nزيادة التعافي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nฟื้นฟูเพิ่มขึ้น",
           "es-419": "Un amuleto que otorga la\r\nhabilidad Recuperación."
         },
         "rarity": 5,
@@ -7938,6 +8306,7 @@
           "zh-Hant": "體術護石Ⅰ",
           "zh-Hans": "体术护石Ⅰ",
           "ar": "تميمة اللياقة 1",
+          "th": "เครื่องรางสมรรถภาพ I",
           "es-419": "Amuleto en forma I"
         },
         "descriptions": {
@@ -7954,6 +8323,7 @@
           "zh-Hant": "發動體術技能的護身符。",
           "zh-Hans": "发动体术技能的护身符。",
           "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nวิชาตัวเบา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
         },
         "rarity": 4,
@@ -7986,6 +8356,7 @@
           "zh-Hant": "體術護石Ⅱ",
           "zh-Hans": "体术护石Ⅱ",
           "ar": "تميمة اللياقة 2",
+          "th": "เครื่องรางสมรรถภาพ II",
           "es-419": "Amuleto en forma II"
         },
         "descriptions": {
@@ -8002,6 +8373,7 @@
           "zh-Hant": "發動體術技能的護身符。",
           "zh-Hans": "发动体术技能的护身符。",
           "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nวิชาตัวเบา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
         },
         "rarity": 5,
@@ -8034,6 +8406,7 @@
           "zh-Hant": "體術護石Ⅲ",
           "zh-Hans": "体术护石Ⅲ",
           "ar": "تميمة اللياقة 3",
+          "th": "เครื่องรางสมรรถภาพ III",
           "es-419": "Amuleto en forma III"
         },
         "descriptions": {
@@ -8050,6 +8423,7 @@
           "zh-Hant": "發動體術技能的護身符。",
           "zh-Hans": "发动体术技能的护身符。",
           "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nวิชาตัวเบา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
         },
         "rarity": 6,
@@ -8082,6 +8456,7 @@
           "zh-Hant": "體術護石Ⅳ",
           "zh-Hans": "体术护石Ⅳ",
           "ar": "تميمة اللياقة 4",
+          "th": "เครื่องรางสมรรถภาพ IV",
           "es-419": "Amuleto en forma IV"
         },
         "descriptions": {
@@ -8098,6 +8473,7 @@
           "zh-Hant": "發動體術技能的護身符。",
           "zh-Hans": "发动体术技能的护身符。",
           "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nวิชาตัวเบา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
         },
         "rarity": 7,
@@ -8130,6 +8506,7 @@
           "zh-Hant": "體術護石Ⅴ",
           "zh-Hans": "体术护石Ⅴ",
           "ar": "تميمة اللياقة 5",
+          "th": "เครื่องรางสมรรถภาพ V",
           "es-419": "Amuleto en forma V"
         },
         "descriptions": {
@@ -8146,6 +8523,7 @@
           "zh-Hant": "發動體術技能的護身符。",
           "zh-Hans": "发动体术技能的护身符。",
           "ar": "تميمة تمنح مهارة بنية الجسم.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nวิชาตัวเบา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Constitución."
         },
         "rarity": 8,
@@ -8184,6 +8562,7 @@
           "zh-Hant": "暴怒護石Ⅰ",
           "zh-Hans": "暴怒护石Ⅰ",
           "ar": "تميمة الغاضب 1",
+          "th": "เครื่องรางโทสะ I",
           "es-419": "Amuleto de furia I"
         },
         "descriptions": {
@@ -8200,6 +8579,7 @@
           "zh-Hant": "發動怨恨技能的護身符。",
           "zh-Hans": "发动怨恨技能的护身符。",
           "ar": "تميمة تمنح مهارة الاستياء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nแรงแค้น",
           "es-419": "Un amuleto que otorga\r\nla habilidad Resentimiento."
         },
         "rarity": 5,
@@ -8232,6 +8612,7 @@
           "zh-Hant": "暴怒護石Ⅱ",
           "zh-Hans": "暴怒护石Ⅱ",
           "ar": "تميمة الغاضب 2",
+          "th": "เครื่องรางโทสะ II",
           "es-419": "Amuleto de furia II"
         },
         "descriptions": {
@@ -8248,6 +8629,7 @@
           "zh-Hant": "發動怨恨技能的護身符。",
           "zh-Hans": "发动怨恨技能的护身符。",
           "ar": "تميمة تمنح مهارة الاستياء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nแรงแค้น",
           "es-419": "Un amuleto que otorga\r\nla habilidad Resentimiento."
         },
         "rarity": 7,
@@ -8280,6 +8662,7 @@
           "zh-Hant": "暴怒護石Ⅲ",
           "zh-Hans": "暴怒护石Ⅲ",
           "ar": "تميمة الغاضب 3",
+          "th": "เครื่องรางโทสะ III",
           "es-419": "Amuleto de furia III"
         },
         "descriptions": {
@@ -8296,6 +8679,7 @@
           "zh-Hant": "發動怨恨技能的護身符。",
           "zh-Hans": "发动怨恨技能的护身符。",
           "ar": "تميمة تمنح مهارة الاستياء.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nแรงแค้น",
           "es-419": "Un amuleto que otorga\r\nla habilidad Resentimiento."
         },
         "rarity": 8,
@@ -8334,6 +8718,7 @@
           "zh-Hant": "地學護石Ⅰ",
           "zh-Hans": "地学护石Ⅰ",
           "ar": "تميمة الجيولوجيا 1",
+          "th": "เครื่องรางธรณีวิทยา I",
           "es-419": "Amuleto de geología I"
         },
         "descriptions": {
@@ -8350,6 +8735,7 @@
           "zh-Hant": "發動地質學技能的護身符。",
           "zh-Hans": "发动地质学技能的护身符。",
           "ar": "تميمة تمنح مهارة الجيولوجي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักธรณีวิทยา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Geólogo."
         },
         "rarity": 2,
@@ -8381,6 +8767,7 @@
           "zh-Hant": "地學護石Ⅱ",
           "zh-Hans": "地学护石Ⅱ",
           "ar": "تميمة الجيولوجيا 2",
+          "th": "เครื่องรางธรณีวิทยา II",
           "es-419": "Amuleto de geología II"
         },
         "descriptions": {
@@ -8397,6 +8784,7 @@
           "zh-Hant": "發動地質學技能的護身符。",
           "zh-Hans": "发动地质学技能的护身符。",
           "ar": "تميمة تمنح مهارة الجيولوجي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักธรณีวิทยา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Geólogo."
         },
         "rarity": 4,
@@ -8429,6 +8817,7 @@
           "zh-Hant": "地學護石Ⅲ",
           "zh-Hans": "地学护石Ⅲ",
           "ar": "تميمة الجيولوجيا 3",
+          "th": "เครื่องรางธรณีวิทยา III",
           "es-419": "Amuleto de geología III"
         },
         "descriptions": {
@@ -8445,6 +8834,7 @@
           "zh-Hant": "發動地質學技能的護身符。",
           "zh-Hans": "发动地质学技能的护身符。",
           "ar": "تميمة تمنح مهارة الجيولوجي.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักธรณีวิทยา",
           "es-419": "Un amuleto que otorga\r\nla habilidad Geólogo."
         },
         "rarity": 5,
@@ -8483,6 +8873,7 @@
           "zh-Hant": "植學護石Ⅰ",
           "zh-Hans": "植学护石Ⅰ",
           "ar": "تميمة علم النبات 1",
+          "th": "เครื่องรางพฤกษศาสตร์ I",
           "es-419": "Amuleto botánica I"
         },
         "descriptions": {
@@ -8499,6 +8890,7 @@
           "zh-Hant": "發動植生學技能的護身符。",
           "zh-Hans": "发动植生学技能的护身符。",
           "ar": "تميمة تمنح مهارة عالمة النبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักพฤกษศาสตร์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Botánico."
         },
         "rarity": 2,
@@ -8530,6 +8922,7 @@
           "zh-Hant": "植學護石Ⅱ",
           "zh-Hans": "植学护石Ⅱ",
           "ar": "تميمة علم النبات 2",
+          "th": "เครื่องรางพฤกษศาสตร์ II",
           "es-419": "Amuleto botánica II"
         },
         "descriptions": {
@@ -8546,6 +8939,7 @@
           "zh-Hant": "發動植生學技能的護身符。",
           "zh-Hans": "发动植生学技能的护身符。",
           "ar": "تميمة تمنح مهارة عالمة النبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักพฤกษศาสตร์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Botánico."
         },
         "rarity": 4,
@@ -8578,6 +8972,7 @@
           "zh-Hant": "植學護石Ⅲ",
           "zh-Hans": "植学护石Ⅲ",
           "ar": "تميمة علم النبات 3",
+          "th": "เครื่องรางพฤกษศาสตร์ III",
           "es-419": "Amuleto botánica III"
         },
         "descriptions": {
@@ -8594,6 +8989,7 @@
           "zh-Hant": "發動植生學技能的護身符。",
           "zh-Hans": "发动植生学技能的护身符。",
           "ar": "تميمة تمنح مهارة عالمة النبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักพฤกษศาสตร์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Botánico."
         },
         "rarity": 4,
@@ -8626,6 +9022,7 @@
           "zh-Hant": "植學護石Ⅳ",
           "zh-Hans": "植学护石Ⅳ",
           "ar": "تميمة علم النبات 4",
+          "th": "เครื่องรางพฤกษศาสตร์ IV",
           "es-419": "Amuleto botánica IV"
         },
         "descriptions": {
@@ -8642,6 +9039,7 @@
           "zh-Hant": "發動植生學技能的護身符。",
           "zh-Hans": "发动植生学技能的护身符。",
           "ar": "تميمة تمنح مهارة عالمة النبات.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nนักพฤกษศาสตร์",
           "es-419": "Un amuleto que otorga\r\nla habilidad Botánico."
         },
         "rarity": 5,
@@ -8680,6 +9078,7 @@
           "zh-Hant": "耐龍護石Ⅰ",
           "zh-Hans": "耐龙护石Ⅰ",
           "ar": "تميمة التنين 1",
+          "th": "เครื่องรางกันมังกร I",
           "es-419": "Amuleto de draco I"
         },
         "descriptions": {
@@ -8696,6 +9095,7 @@
           "zh-Hant": "發動龍耐性技能的護身符。",
           "zh-Hans": "发动龙耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التنين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุมังกร",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antidraco."
         },
         "rarity": 3,
@@ -8727,6 +9127,7 @@
           "zh-Hant": "耐龍護石Ⅱ",
           "zh-Hans": "耐龙护石Ⅱ",
           "ar": "تميمة التنين 2",
+          "th": "เครื่องรางกันมังกร II",
           "es-419": "Amuleto de draco II"
         },
         "descriptions": {
@@ -8743,6 +9144,7 @@
           "zh-Hant": "發動龍耐性技能的護身符。",
           "zh-Hans": "发动龙耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التنين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุมังกร",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antidraco."
         },
         "rarity": 4,
@@ -8775,6 +9177,7 @@
           "zh-Hant": "耐龍護石Ⅲ",
           "zh-Hans": "耐龙护石Ⅲ",
           "ar": "تميمة التنين 3",
+          "th": "เครื่องรางกันมังกร III",
           "es-419": "Amuleto de draco III"
         },
         "descriptions": {
@@ -8791,6 +9194,7 @@
           "zh-Hant": "發動龍耐性技能的護身符。",
           "zh-Hans": "发动龙耐性技能的护身符。",
           "ar": "تميمة تمنح مهارة\r\nمقاومة التنين.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nต้านทานธาตุมังกร",
           "es-419": "Un amuleto que otorga\r\nla habilidad Antidraco."
         },
         "rarity": 5,
@@ -8829,6 +9233,7 @@
           "zh-Hant": "痛擊護石Ⅰ",
           "zh-Hans": "痛击护石Ⅰ",
           "ar": "تميمة المستغِل 1",
+          "th": "เครื่องรางนักฉวยโอกาส I",
           "es-419": "Amuleto provechoso I"
         },
         "descriptions": {
@@ -8845,6 +9250,7 @@
           "zh-Hant": "發動弱點特效技能的護身符。",
           "zh-Hans": "发动弱点特效技能的护身符。",
           "ar": "تميمة تمنح مهارة استغلال نقاط الضعف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nขยี้จุดอ่อน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Punto débil."
         },
         "rarity": 5,
@@ -8877,6 +9283,7 @@
           "zh-Hant": "痛擊護石Ⅱ",
           "zh-Hans": "痛击护石Ⅱ",
           "ar": "تميمة المستغِل 2",
+          "th": "เครื่องรางนักฉวยโอกาส II",
           "es-419": "Amuleto provechoso II"
         },
         "descriptions": {
@@ -8893,6 +9300,7 @@
           "zh-Hant": "發動弱點特效技能的護身符。",
           "zh-Hans": "发动弱点特效技能的护身符。",
           "ar": "تميمة تمنح مهارة استغلال نقاط الضعف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nขยี้จุดอ่อน",
           "es-419": "Un amuleto que otorga\r\nla habilidad Punto débil."
         },
         "rarity": 7,
@@ -8907,6 +9315,56 @@
             "660": 3,
             "661": 5,
             "705": 1
+          }
+        }
+      },
+      {
+        "names": {
+          "ja": "痛撃の護石Ⅲ",
+          "en": "Exploiter Charm III",
+          "fr": "Talisman de cruauté III",
+          "it": "Amuleto abuso III",
+          "de": "Vorteil-Talisman III",
+          "es": "Amuleto provecho III",
+          "ru": "Оберег хитреца III",
+          "pl": "Amulet spryciarza III",
+          "pt-BR": "Amuleto de Fraqueza III",
+          "ko": "통격의 호석Ⅲ",
+          "zh-Hant": "痛擊護石Ⅲ",
+          "zh-Hans": "痛击护石Ⅲ",
+          "ar": "تميمة المستغِل 3",
+          "th": "เครื่องรางนักฉวยโอกาส III",
+          "es-419": "Amuleto provechoso III"
+        },
+        "descriptions": {
+          "ja": "装備することで弱点特効スキルが\r\n発動するお守り。",
+          "en": "A charm that grants the Weakness\r\nExploit skill.",
+          "fr": "Un talisman qui confère\r\nle talent Mise à mort.",
+          "it": "Un amuleto che potenzia\r\nl'abilità Punto debole.",
+          "de": "Dieses Amulett gewährt die\r\nSchwächevorteil-Fähigkeit.",
+          "es": "Amuleto que otorga la habilidad\r\n\"punto débil\".",
+          "ru": "Оберег, дарующий навык\r\n«Поиск уязвимостей».",
+          "pl": "Amulet, który zapewnia\r\numiejętność Wykorzystanie\r\nsłabości.",
+          "pt-BR": "Amuleto que concede a habilidade\r\nExploração de Fraqueza.",
+          "ko": "장비하면 약점 특효 스킬이\r\n발동하는 부적.",
+          "zh-Hant": "發動弱點特效技能的護身符。",
+          "zh-Hans": "发动弱点特效技能的护身符。",
+          "ar": "تميمة تمنح مهارة استغلال\r\nنقاط الضعف.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nขยี้จุดอ่อน",
+          "es-419": "Un amuleto que otorga\r\nla habilidad Punto débil."
+        },
+        "rarity": 8,
+        "level": 3,
+        "price": 16000,
+        "skills": {
+          "-397570464": 3
+        },
+        "recipe": {
+          "inputs": {
+            "463": 4,
+            "714": 4,
+            "736": 1,
+            "762": 3
           }
         }
       }
@@ -8931,6 +9389,7 @@
           "zh-Hant": "攻勢護石Ⅰ",
           "zh-Hans": "攻势护石Ⅰ",
           "ar": "تميمة الغارة 1",
+          "th": "เครื่องรางรุกคืบ I",
           "es-419": "Amuleto de irrupción I"
         },
         "descriptions": {
@@ -8947,6 +9406,7 @@
           "zh-Hant": "發動攻勢技能的護身符。",
           "zh-Hans": "发动攻势技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة الغارة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nรุกคืบ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Irrupción."
         },
         "rarity": 4,
@@ -8979,6 +9439,7 @@
           "zh-Hant": "攻勢護石Ⅱ",
           "zh-Hans": "攻势护石Ⅱ",
           "ar": "تميمة الغارة 2",
+          "th": "เครื่องรางรุกคืบ II",
           "es-419": "Amuleto de irrupción II"
         },
         "descriptions": {
@@ -8995,6 +9456,7 @@
           "zh-Hant": "發動攻勢技能的護身符。",
           "zh-Hans": "发动攻势技能的护身符。",
           "ar": "تميمة تمنح\r\nمهارة الغارة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nรุกคืบ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Irrupción."
         },
         "rarity": 6,
@@ -9027,6 +9489,7 @@
           "zh-Hant": "攻勢護石Ⅲ",
           "zh-Hans": "攻势护石Ⅲ",
           "ar": "تميمة الغارة 3",
+          "th": "เครื่องรางรุกคืบ III",
           "es-419": "Amuleto de irrupción III"
         },
         "descriptions": {
@@ -9043,6 +9506,7 @@
           "zh-Hant": "發動攻勢技能的護身符。",
           "zh-Hans": "发动攻势技能的护身符。",
           "ar": "تميمة تمنح مهارة الغارة.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nรุกคืบ",
           "es-419": "Un amuleto que otorga\r\nla habilidad Irrupción."
         },
         "rarity": 7,
@@ -9081,6 +9545,7 @@
           "zh-Hant": "連擊護石Ⅰ",
           "zh-Hans": "连击护石Ⅰ",
           "ar": "تميمة السلسلة 1",
+          "th": "เครื่องรางต่อเนื่อง I",
           "es-419": "Amuleto de cadena I"
         },
         "descriptions": {
@@ -9097,6 +9562,7 @@
           "zh-Hant": "發動連擊技能的護身符。",
           "zh-Hans": "发动连击技能的护身符。",
           "ar": "تميمة تمنح مهارة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระเบิดพลัง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Ráfaga."
         },
         "rarity": 5,
@@ -9129,6 +9595,7 @@
           "zh-Hant": "連擊護石Ⅱ",
           "zh-Hans": "连击护石Ⅱ",
           "ar": "تميمة السلسلة 2",
+          "th": "เครื่องรางต่อเนื่อง II",
           "es-419": "Amuleto de cadena II"
         },
         "descriptions": {
@@ -9145,6 +9612,7 @@
           "zh-Hant": "發動連擊技能的護身符。",
           "zh-Hans": "发动连击技能的护身符。",
           "ar": "تميمة تمنح مهارة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระเบิดพลัง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Ráfaga."
         },
         "rarity": 7,
@@ -9177,6 +9645,7 @@
           "zh-Hant": "連擊護石Ⅲ",
           "zh-Hans": "连击护石Ⅲ",
           "ar": "تميمة السلسلة 3",
+          "th": "เครื่องรางต่อเนื่อง III",
           "es-419": "Amuleto de cadena III"
         },
         "descriptions": {
@@ -9193,6 +9662,7 @@
           "zh-Hant": "發動連擊技能的護身符。",
           "zh-Hans": "发动连击技能的护身符。",
           "ar": "تميمة تمنح مهارة الانفجار.",
+          "th": "เครื่องรางที่ช่วยมอบสกิล\r\nระเบิดพลัง",
           "es-419": "Un amuleto que otorga\r\nla habilidad Ráfaga."
         },
         "rarity": 8,

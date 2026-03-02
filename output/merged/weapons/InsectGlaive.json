@@ -29,6 +29,7 @@
       "zh-Hant": "希望棍Ⅰ",
       "zh-Hans": "希望虫棍Ⅰ",
       "ar": "سيف أمل عريض النصل 1",
+      "th": "พลองโฮป I",
       "es-419": "Glaive esperanza I"
     },
     "descriptions": {
@@ -45,6 +46,7 @@
       "zh-Hant": "為東部地區調查特別開發的操蟲棍。\r\n可用於操縱蟲，用起來還相當輕巧。",
       "zh-Hans": "为调查东部地区而特别制作的操虫\r\n棍。不仅可以操控猎虫，也是一件\r\n轻便灵活的武器。",
       "ar": "سيف حشرات عريض النصل\r\nمصنوع خصيصًا للبعثة. تحكم في الحشرات\r\nبينما تتحرك بمرونة وسهولة.",
+      "th": "พลองแมลงที่สร้างมาเพื่อการสำรวจ\r\nโดยเฉพาะ ควบคุมแมลงได้ในขณะที่\r\nเคลื่อนที่ได้อย่างคล่องแคล่ว",
       "es-419": "Glaive insecto fabricada\r\nespecialmente para la expedición.\r\nControla insectos mientras te\r\nmueves con ligereza."
     },
     "rarity": 1,
@@ -98,6 +100,7 @@
       "zh-Hant": "希望棍Ⅱ",
       "zh-Hans": "希望虫棍Ⅱ",
       "ar": "سيف أمل عريض النصل 2",
+      "th": "พลองโฮป II",
       "es-419": "Glaive esperanza II"
     },
     "descriptions": {
@@ -114,6 +117,7 @@
       "zh-Hant": "為東部地區調查特別開發的操蟲棍。\r\n可用於操縱蟲，用起來還相當輕巧。",
       "zh-Hans": "为调查东部地区而特别制作的操虫\r\n棍。不仅可以操控猎虫，也是一件\r\n轻便灵活的武器。",
       "ar": "سيف حشرات عريض النصل\r\nمصنوع خصيصًا للبعثة. تحكم في الحشرات\r\nبينما تتحرك بمرونة وسهولة.",
+      "th": "พลองแมลงที่สร้างมาเพื่อการสำรวจ\r\nโดยเฉพาะ ควบคุมแมลงได้ในขณะที่\r\nเคลื่อนที่ได้อย่างคล่องแคล่ว",
       "es-419": "Glaive insecto fabricada\r\nespecialmente para la expedición.\r\nControla insectos mientras te\r\nmueves con ligereza."
     },
     "rarity": 1,
@@ -172,6 +176,7 @@
       "zh-Hant": "希望棍Ⅲ",
       "zh-Hans": "希望虫棍Ⅲ",
       "ar": "سيف أمل عريض النصل 3",
+      "th": "พลองโฮป III",
       "es-419": "Glaive esperanza III"
     },
     "descriptions": {
@@ -188,6 +193,7 @@
       "zh-Hant": "為東部地區調查特別開發的操蟲棍。\r\n可用於操縱蟲，用起來還相當輕巧。",
       "zh-Hans": "为调查东部地区而特别制作的操虫\r\n棍。不仅可以操控猎虫，也是一件\r\n轻便灵活的武器。",
       "ar": "سيف حشرات عريض النصل\r\nمصنوع خصيصًا للبعثة. تحكم في الحشرات\r\nبينما تتحرك بمرونة وسهولة.",
+      "th": "พลองแมลงที่สร้างมาเพื่อการสำรวจ\r\nโดยเฉพาะ ควบคุมแมลงได้ในขณะที่\r\nเคลื่อนที่ได้อย่างคล่องแคล่ว",
       "es-419": "Glaive insecto fabricada\r\nespecialmente para la expedición.\r\nControla insectos mientras te\r\nmueves con ligereza."
     },
     "rarity": 3,
@@ -247,6 +253,7 @@
       "zh-Hant": "希望棍Ⅳ",
       "zh-Hans": "希望虫棍Ⅳ",
       "ar": "سيف أمل عريض النصل 4",
+      "th": "พลองโฮป IV",
       "es-419": "Glaive esperanza IV"
     },
     "descriptions": {
@@ -263,6 +270,7 @@
       "zh-Hant": "為東部地區調查特別開發的操蟲棍。\r\n可用於操縱蟲，用起來還相當輕巧。",
       "zh-Hans": "为调查东部地区而特别制作的操虫\r\n棍。不仅可以操控猎虫，也是一件\r\n轻便灵活的武器。",
       "ar": "سيف حشرات عريض النصل\r\nمصنوع خصيصًا للبعثة. تحكم في الحشرات،\r\nبينما تتحرك بمرونة وسهولة.",
+      "th": "พลองแมลงที่สร้างมาเพื่อการสำรวจ\r\nโดยเฉพาะ ควบคุมแมลงได้ในขณะที่\r\nเคลื่อนที่ได้อย่างคล่องแคล่ว",
       "es-419": "Glaive insecto fabricada\r\nespecialmente para la expedición.\r\nControla insectos mientras te\r\nmueves con ligereza."
     },
     "rarity": 5,
@@ -323,6 +331,7 @@
       "zh-Hant": "希望棍Ⅴ",
       "zh-Hans": "希望虫棍Ⅴ",
       "ar": "سيف أمل عريض النصل 5",
+      "th": "พลองโฮป V",
       "es-419": "Glaive esperanza V"
     },
     "descriptions": {
@@ -339,6 +348,7 @@
       "zh-Hant": "為東部地區調查特別開發的操蟲棍。\r\n可用於操縱蟲，用起來還相當輕巧。",
       "zh-Hans": "为调查东部地区而特别制作的操虫\r\n棍。不仅可以操控猎虫，也是一件\r\n轻便灵活的武器。",
       "ar": "سيف حشرات عريض النصل\r\nمصنوع خصيصًا للبعثة. تحكم في الحشرات،\r\nبينما تتحرك بمرونة وسهولة.",
+      "th": "พลองแมลงที่สร้างมาเพื่อการสำรวจ\r\nโดยเฉพาะ ควบคุมแมลงได้ในขณะที่\r\nเคลื่อนที่ได้อย่างคล่องแคล่ว",
       "es-419": "Glaive insecto fabricada\r\nespecialmente para la expedición.\r\nControla insectos mientras te\r\nmueves con ligereza."
     },
     "rarity": 7,
@@ -401,6 +411,7 @@
       "zh-Hant": "骨棍Ⅰ",
       "zh-Hans": "骨制虫棍Ⅰ",
       "ar": "عصا عظمية 1",
+      "th": "พลองกระดูก I",
       "es-419": "Vara ósea I"
     },
     "descriptions": {
@@ -417,6 +428,7 @@
       "zh-Hant": "使用骨素材製成，外表樸素的\r\n操蟲棍。根據今後的改良，\r\n有可能變成強力的武器。",
       "zh-Hans": "用骨素材制成，外表朴素的操虫棍。\r\n根据今后的改良，有可能变为强力\r\n的武器。",
       "ar": "سيف الحشرة البسيط مصنوع من العظم.\r\nمع التحديثات المناسبة، لديه القدرة\r\nعلى أن يصبح سلاحًا قويًا.",
+      "th": "พลองแมลงธรรมดาที่ทำจากกระดูก\r\nหากอัปเกรดถูกต้อง มีศักยภาพที่จะ\r\nเป็นอาวุธทรงพลัง",
       "es-419": "Sencilla glaive insecto de\r\nhueso. Con las mejoras\r\ncorrectas, tiene el potencial\r\nde ser un arma poderosa."
     },
     "rarity": 1,
@@ -475,6 +487,7 @@
       "zh-Hant": "骨棍Ⅱ",
       "zh-Hans": "骨制虫棍Ⅱ",
       "ar": "عصا عظمية 2",
+      "th": "พลองกระดูก II",
       "es-419": "Vara ósea II"
     },
     "descriptions": {
@@ -491,6 +504,7 @@
       "zh-Hant": "使用骨素材製成，外表樸素的\r\n操蟲棍。根據今後的改良，\r\n有可能變成強力的武器。",
       "zh-Hans": "用骨素材制成，外表朴素的操虫棍。\r\n根据今后的改良，有可能变为强力\r\n的武器。",
       "ar": "سيف الحشرة البسيط مصنوع من العظم.\r\nمع التحديثات المناسبة، لديه القدرة\r\nعلى أن يصبح سلاحًا قويًا.",
+      "th": "พลองแมลงธรรมดาที่ทำจากกระดูก\r\nหากอัปเกรดถูกต้อง มีศักยภาพที่จะ\r\nเป็นอาวุธทรงพลัง",
       "es-419": "Sencilla glaive insecto de\r\nhueso. Con las mejoras\r\ncorrectas, tiene el potencial\r\nde ser un arma poderosa."
     },
     "rarity": 2,
@@ -550,6 +564,7 @@
       "zh-Hant": "骨棍Ⅲ",
       "zh-Hans": "骨制虫棍Ⅲ",
       "ar": "عصا عظمية 3",
+      "th": "พลองกระดูก III",
       "es-419": "Vara ósea III"
     },
     "descriptions": {
@@ -566,6 +581,7 @@
       "zh-Hant": "使用骨素材製成，外表樸素的\r\n操蟲棍。根據今後的改良，\r\n有可能變成強力的武器。",
       "zh-Hans": "用骨素材制成，外表朴素的操虫棍。\r\n根据今后的改良，有可能变为强力\r\n的武器。",
       "ar": "سيف الحشرة البسيط مصنوع من العظم.\r\nمع التحديثات المناسبة، لديه القدرة\r\nعلى أن يصبح سلاحًا قويًا.",
+      "th": "พลองแมลงธรรมดาที่ทำจากกระดูก\r\nหากอัปเกรดถูกต้อง มีศักยภาพที่จะ\r\nเป็นอาวุธทรงพลัง",
       "es-419": "Sencilla glaive insecto de\r\nhueso. Con las mejoras\r\ncorrectas, tiene el potencial\r\nde ser un arma poderosa."
     },
     "rarity": 4,
@@ -625,6 +641,7 @@
       "zh-Hant": "骨棍Ⅳ",
       "zh-Hans": "骨制虫棍Ⅳ",
       "ar": "عصا عظمية 4",
+      "th": "พลองกระดูก IV",
       "es-419": "Vara ósea IV"
     },
     "descriptions": {
@@ -641,6 +658,7 @@
       "zh-Hant": "使用骨素材製成，外表樸素的\r\n操蟲棍。根據今後的改良，\r\n有可能變成強力的武器。",
       "zh-Hans": "用骨素材制成，外表朴素的操虫棍。\r\n根据今后的改良，有可能变为强力\r\n的武器。",
       "ar": "سيف الحشرة البسيط مصنوع من العظم.\r\nمع التحديثات المناسبة، لديه القدرة\r\nعلى أن يصبح سلاحًا قويًا.",
+      "th": "พลองแมลงธรรมดาที่ทำจากกระดูก\r\nหากอัปเกรดถูกต้อง มีศักยภาพที่จะ\r\nเป็นอาวุธทรงพลัง",
       "es-419": "Sencilla glaive insecto de\r\nhueso. Con las mejoras\r\ncorrectas, tiene el potencial\r\nde ser un arma poderosa."
     },
     "rarity": 6,
@@ -702,6 +720,7 @@
       "zh-Hant": "舞空長刃",
       "zh-Hans": "舞空长刃",
       "ar": "السيف الهوائي",
+      "th": "พลองอากาศ",
       "es-419": "Glaive aérea"
     },
     "descriptions": {
@@ -718,6 +737,7 @@
       "zh-Hant": "保留了簡單的外觀，反覆改良強化後\r\n製成的骨棍。適合任何人使用。",
       "zh-Hans": "保留了简单的外观，不断进行改良\r\n强化的骨制虫棍。适合所有人使用。",
       "ar": "لقد انتجت الترقيات المتكررة هذه العصا\r\nالعظمية الجاهزة للاستخدام، ولها الميزات ذاتها\r\nمن المظهر الخالي من الزخرفة وسهولة الاستخدام.",
+      "th": "การอัปเกรดซ้ำแล้วซ้ำเล่าทำให้ได้\r\nพลองกระดูกที่เสร็จสมบูรณ์นี้มา\r\nพร้อมรูปลักษณ์ที่เรียบง่ายและ\r\nใช้งานสะดวกเช่นเดิม",
       "es-419": "Las mejoras continuas llevaron\r\na esta vara ósea finalizada,\r\ncon el mismo aspecto simple y\r\nmanejo sencillo."
     },
     "rarity": 8,
@@ -780,6 +800,7 @@
       "zh-Hant": "鋼鐵疾風Ⅰ",
       "zh-Hans": "钢铁疾风Ⅰ",
       "ar": "الإعصار الحديدي 1",
+      "th": "พลองพายุเหล็ก I",
       "es-419": "Vendaval férreo I"
     },
     "descriptions": {
@@ -790,12 +811,13 @@
       "de": "Eine Insektenglefe, abgestimmt,\r\num Kollateralschaden zu ver-\r\nmeiden. Die beiden ungleichen\r\nKlingen erzeugen Fliehkraft.",
       "es": "Glaive insecto calibrado para\r\nevitar daños colaterales.\r\nDos hojas únicas generan\r\nuna fuerza centrífuga.",
       "ru": "Глефа насекомых, конструкция\r\nкоторой позволяет избегать\r\nненужных разрушений. Два особых\r\nклинка создают центробежную силу.",
-      "pl": "Owadzia glewia skalibrowana tak,\r\nby uniknąć obrażeń dodatkowych.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
+      "pl": "Owadzia glewia wyważona tak,\r\nby unikać dodatkowych obrażeń.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
       "pt-BR": "Glaive inseto calibrada para\r\nevitar danos colaterais. Duas\r\nlâminas especiais produzem\r\nforça centrífuga.",
       "ko": "불필요한 훼손이 일어나지 \r\n않도록 조정한 조충곤.\r\n생김새가 다른 두 개의\r\n칼날이 원심력을 만들어 낸다.",
       "zh-Hant": "為了不傷及無辜之人而調整過的操蟲\r\n棍。兩頭形狀相異的刀刃會產生離心\r\n力。",
       "zh-Hans": "为了避免造成不必要的伤害而特别\r\n调整过的操虫棍。能通过两头形状\r\n各异的刀刃产生离心力。",
       "ar": "سيف حشرات عريض النصل\r\nمُصمم لتجنب الأضرار الجانبية.\r\nنصلان فريدان يولدان قوة طرد مركزي.",
+      "th": "พลองแมลงที่ปรับแต่งมาเพื่อ\r\nป้องกันความเสียหายข้างเคียง\r\nด้วยใบมีดคู่ที่ไม่เหมือนใครซึ่ง\r\nสร้างแรงเหวี่ยงมหาศาล",
       "es-419": "Glaive insecto calibrada para\r\nevitar daños colaterales. Dos\r\nhojas únicas que generan una\r\nfuerza centrífuga."
     },
     "rarity": 2,
@@ -854,6 +876,7 @@
       "zh-Hant": "鋼鐵疾風Ⅱ",
       "zh-Hans": "钢铁疾风Ⅱ",
       "ar": "الإعصار الحديدي 2",
+      "th": "พลองพายุเหล็ก II",
       "es-419": "Vendaval férreo II"
     },
     "descriptions": {
@@ -864,12 +887,13 @@
       "de": "Eine Insektenglefe, abgestimmt,\r\num Kollateralschaden zu ver-\r\nmeiden. Die beiden ungleichen\r\nKlingen erzeugen Fliehkraft.",
       "es": "Glaive insecto calibrado para\r\nevitar daños colaterales.\r\nDos hojas únicas generan\r\nuna fuerza centrífuga.",
       "ru": "Глефа насекомых, конструкция\r\nкоторой позволяет избегать\r\nненужных разрушений. Два особых\r\nклинка создают центробежную силу.",
-      "pl": "Owadzia glewia skalibrowana tak,\r\nby uniknąć obrażeń dodatkowych.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
+      "pl": "Owadzia glewia wyważona tak,\r\nby unikać dodatkowych obrażeń.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
       "pt-BR": "Glaive Inseto calibrada para\r\nevitar danos colaterais. Duas\r\nlâminas especiais produzem\r\nforça centrífuga.",
       "ko": "불필요한 훼손이 일어나지 \r\n않도록 조정한 조충곤.\r\n생김새가 다른 두 개의\r\n칼날이 원심력을 만들어 낸다.",
       "zh-Hant": "為了不傷及無辜之人而調整過的操蟲\r\n棍。兩頭形狀相異的刀刃會產生離心\r\n力。",
       "zh-Hans": "为了避免造成不必要的伤害而特别\r\n调整过的操虫棍。能通过两头形状\r\n各异的刀刃产生离心力。",
       "ar": "سيف حشرات عريض النصل\r\nمُصمم لتجنب الأضرار الجانبية.\r\nنصلان فريدان يولدان قوة طرد مركزي.",
+      "th": "พลองแมลงที่ปรับแต่งมาเพื่อ\r\nป้องกันความเสียหายข้างเคียง\r\nด้วยใบมีดคู่ที่ไม่เหมือนใครซึ่ง\r\nสร้างแรงเหวี่ยงมหาศาล",
       "es-419": "Glaive insecto calibrada para\r\nevitar daños colaterales. Dos\r\nhojas únicas que generan una\r\nfuerza centrífuga."
     },
     "rarity": 4,
@@ -930,6 +954,7 @@
       "zh-Hant": "鋼鐵疾風Ⅲ",
       "zh-Hans": "钢铁疾风Ⅲ",
       "ar": "الإعصار الحديدي 3",
+      "th": "พลองพายุเหล็ก III",
       "es-419": "Vendaval férreo III"
     },
     "descriptions": {
@@ -940,12 +965,13 @@
       "de": "Eine Insektenglefe, abgestimmt,\r\num Kollateralschaden zu ver-\r\nmeiden. Die beiden ungleichen\r\nKlingen erzeugen Fliehkraft.",
       "es": "Glaive insecto calibrado para\r\nevitar daños colaterales.\r\nDos hojas únicas generan\r\nuna fuerza centrífuga.",
       "ru": "Глефа насекомых, конструкция\r\nкоторой позволяет избегать\r\nненужных разрушений. Два особых\r\nклинка создают центробежную силу.",
-      "pl": "Owadzia glewia skalibrowana tak,\r\nby uniknąć obrażeń dodatkowych.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
+      "pl": "Owadzia glewia wyważona tak,\r\nby unikać dodatkowych obrażeń.\r\nDwa unikalne ostrza wytwarzają\r\nsiłę odśrodkową.",
       "pt-BR": "Glaive Inseto calibrada para\r\nevitar danos colaterais. Duas\r\nlâminas especiais produzem\r\nforça centrífuga.",
       "ko": "불필요한 훼손이 일어나지 \r\n않도록 조정한 조충곤.\r\n생김새가 다른 두 개의\r\n칼날이 원심력을 만들어 낸다.",
       "zh-Hant": "為了不傷及無辜之人而調整過的操蟲\r\n棍。兩頭形狀相異的刀刃會產生離心\r\n力。",
       "zh-Hans": "为了避免造成不必要的伤害而特别\r\n调整过的操虫棍。能通过两头形状\r\n各异的刀刃产生离心力。",
       "ar": "سيف حشرات عريض النصل\r\nمُصمم لتجنب الأضرار الجانبية.\r\nنصلان فريدان يولدان قوة طرد مركزي.",
+      "th": "พลองแมลงที่ปรับแต่งมาเพื่อ\r\nป้องกันความเสียหายข้างเคียง\r\nด้วยใบมีดคู่ที่ไม่เหมือนใครซึ่ง\r\nสร้างแรงเหวี่ยงมหาศาล",
       "es-419": "Glaive insecto calibrada para\r\nevitar daños colaterales. Dos\r\nhojas únicas que generan una\r\nfuerza centrífuga."
     },
     "rarity": 6,
@@ -1008,6 +1034,7 @@
       "zh-Hant": "鉻鋼疾風",
       "zh-Hans": "铬钢疾风",
       "ar": "إعصار الكروم",
+      "th": "พลองพายุโครเมียม",
       "es-419": "Vendaval cromado"
     },
     "descriptions": {
@@ -1024,6 +1051,7 @@
       "zh-Hant": "以稀有鋼鐵進一步強化的鋼鐵疾風。\r\n可使出如疾風般的連擊。",
       "zh-Hans": "利用稀有钢铁进一步强化的钢铁疾\r\n风。能施展出疾风般的连击。",
       "ar": "إعصار حديدي محسّن بفولاذ نادر.\r\nيتيح للمستخدم الهجوم \r\nكأنه الرياح نفسها.",
+      "th": "พลองพายุเหล็กที่เสริมแกร่งด้วย\r\nเหล็กกล้าหายาก ทำให้ผู้ใช้สามารถ\r\nโจมตีได้ดุจดั่งสายลม",
       "es-419": "Un Vendaval férreo más mejorado\r\ncon un acero raro. Permite a quien\r\nlo empuñe atacar como el viento."
     },
     "rarity": 8,
@@ -1084,6 +1112,7 @@
       "zh-Hant": "纏蛙棍Ⅰ",
       "zh-Hans": "缠蛙棍Ⅰ",
       "ar": "سيف تشاتا عريض النصل 1",
+      "th": "พลองชาตา I",
       "es-419": "Glaive de Chata I"
     },
     "descriptions": {
@@ -1100,6 +1129,7 @@
       "zh-Hant": "以纏蛙素材製作的操蟲棍。設計保持\r\n重心平衡，使獵人在空中行動自如。",
       "zh-Hans": "使用缠蛙素材制作的操虫棍。棍身\r\n的造型设计有助于使用者在空中平\r\n衡重心，行动自如。",
       "ar": "سيف الحشرة مصنوع من مواد\r\n(تشاتاكابرا)، موزونة بشكل مثالي\r\nلتنساب بثبات عبر الهواء.",
+      "th": "พลองแมลงที่สร้างจากวัตถุดิบ\r\nชาตาคาบรา มีน้ำหนักที่ปรับสมดุล\r\nอย่างพอเหมาะเพื่อให้แหวกอากาศ\r\nได้อย่างมั่นคง",
       "es-419": "Una glaive insecto fabricada\r\ncon materiales de Chatacabra.\r\nTiene el peso ideal para fluir\r\ncon firmeza por el aire."
     },
     "rarity": 1,
@@ -1158,6 +1188,7 @@
       "zh-Hant": "纏蛙棍Ⅱ",
       "zh-Hans": "缠蛙棍Ⅱ",
       "ar": "سيف تشاتا عريض النصل 2",
+      "th": "พลองชาตา II",
       "es-419": "Glaive de Chata II"
     },
     "descriptions": {
@@ -1174,6 +1205,7 @@
       "zh-Hant": "以纏蛙素材製作的操蟲棍。設計保持\r\n重心平衡，使獵人在空中行動自如。",
       "zh-Hans": "使用缠蛙素材制作的操虫棍。棍身\r\n的造型设计有助于使用者在空中平\r\n衡重心，行动自如。",
       "ar": "سيف الحشرة مصنوع من مواد\r\n(تشاتاكابرا)، موزونة بشكل مثالي\r\nلتنساب بثبات عبر الهواء.",
+      "th": "พลองแมลงที่สร้างจากวัตถุดิบ\r\nชาตาคาบรา มีน้ำหนักที่ปรับสมดุล\r\nอย่างพอเหมาะเพื่อให้แหวกอากาศ\r\nได้อย่างมั่นคง",
       "es-419": "Una glaive insecto fabricada\r\ncon materiales de Chatacabra.\r\nTiene el peso ideal para fluir\r\ncon firmeza por el aire."
     },
     "rarity": 3,
@@ -1232,6 +1264,7 @@
       "zh-Hant": "纏蛙棍Ⅲ",
       "zh-Hans": "缠蛙棍Ⅲ",
       "ar": "سيف تشاتا عريض النصل 3",
+      "th": "พลองชาตา III",
       "es-419": "Glaive de Chata III"
     },
     "descriptions": {
@@ -1248,6 +1281,7 @@
       "zh-Hant": "以纏蛙素材製作的操蟲棍。設計保持\r\n重心平衡，使獵人在空中行動自如。",
       "zh-Hans": "使用缠蛙素材制作的操虫棍。棍身\r\n的造型设计有助于使用者在空中平\r\n衡重心，行动自如。",
       "ar": "سيف الحشرة مصنوع من مواد\r\n(تشاتاكابرا)، موزونة بشكل مثالي\r\nلتنساب بثبات عبر الهواء.",
+      "th": "พลองแมลงที่สร้างจากวัตถุดิบ\r\nชาตาคาบรา มีน้ำหนักที่ปรับสมดุล\r\nอย่างพอเหมาะเพื่อให้แหวกอากาศ\r\nได้อย่างมั่นคง",
       "es-419": "Una glaive insecto fabricada\r\ncon materiales de Chatacabra.\r\nTiene el peso ideal para fluir\r\ncon firmeza por el aire."
     },
     "rarity": 5,
@@ -1309,6 +1343,7 @@
       "zh-Hant": "纏蛙棍Ⅳ",
       "zh-Hans": "缠蛙棍Ⅳ",
       "ar": "سيف تشاتا عريض النصل 4",
+      "th": "พลองชาตา IV",
       "es-419": "Glaive de Chata IV"
     },
     "descriptions": {
@@ -1325,6 +1360,7 @@
       "zh-Hant": "以纏蛙素材製作的操蟲棍。設計保持\r\n重心平衡，使獵人在空中行動自如。",
       "zh-Hans": "使用缠蛙素材制作的操虫棍。棍身\r\n的造型设计有助于使用者在空中平\r\n衡重心，行动自如。",
       "ar": "سيف الحشرة مصنوع من مواد\r\n(تشاتاكابرا)، موزونة بشكل مثالي\r\nلتنساب بثبات عبر الهواء.",
+      "th": "พลองแมลงที่สร้างจากวัตถุดิบ\r\nชาตาคาบรา มีน้ำหนักที่ปรับสมดุล\r\nอย่างพอเหมาะเพื่อให้แหวกอากาศ\r\nได้อย่างมั่นคง",
       "es-419": "Una glaive insecto fabricada\r\ncon materiales de Chatacabra.\r\nTiene el peso ideal para fluir\r\ncon firmeza por el aire."
     },
     "rarity": 7,
@@ -1386,6 +1422,7 @@
       "zh-Hant": "刺花棍Ⅰ",
       "zh-Hans": "刺花棍Ⅰ",
       "ar": "عصا بارينا الطويلة 1",
+      "th": "บารินาแปร์เช่ I",
       "es-419": "Percha Barina I"
     },
     "descriptions": {
@@ -1402,6 +1439,7 @@
       "zh-Hant": "如刺花蜘蛛般華麗的操蟲棍。若是\r\n不想陷入麻痺，就不能在它舞動時\r\n移開視線。",
       "zh-Hans": "不愧于刺花蜘蛛之名的华丽操虫棍。\r\n若是不想被麻痹，可得留神盯紧它\r\n的舞步。",
       "ar": "سيف حشرة (لالا بارينا) عريض النصل.\r\nيتمتع برشاقة تشبه اسمه. لتجنب لدغته،\r\nيجب مراقبة حركات رقصته.",
+      "th": "พลองแมลงลาลา บารินา ที่สง่างาม\r\nดั่งชื่อ หากไม่อยากถูกเหล็กในแทง\r\nก็ต้องจับตาดูการร่ายรำของมันให้ดี",
       "es-419": "Glaive insecto de Lala Barina\r\ntan grácil como su homónima.\r\nPresta atención a la danza\r\npara evitar el aguijón."
     },
     "rarity": 1,
@@ -1468,6 +1506,7 @@
       "zh-Hant": "刺花棍Ⅱ",
       "zh-Hans": "刺花棍Ⅱ",
       "ar": "عصا بارينا الطويلة 2",
+      "th": "บารินาแปร์เช่ II",
       "es-419": "Percha Barina II"
     },
     "descriptions": {
@@ -1484,6 +1523,7 @@
       "zh-Hant": "如刺花蜘蛛般華麗的操蟲棍。若是\r\n不想陷入麻痺，就不能在它舞動時\r\n移開視線。",
       "zh-Hans": "不愧于刺花蜘蛛之名的华丽操虫棍。\r\n若是不想被麻痹，可得留神盯紧它\r\n的舞步。",
       "ar": "سيف حشرة (لالا بارينا) عريض النصل.\r\nيتمتع برشاقة تشبه اسمه. لتجنب لدغته،\r\nيجب مراقبة حركات رقصته.",
+      "th": "พลองแมลงลาลา บารินา ที่สง่างาม\r\nดั่งชื่อ หากไม่อยากถูกเหล็กในแทง\r\nก็ต้องจับตาดูการร่ายรำของมันให้ดี",
       "es-419": "Glaive insecto de Lala Barina\r\ntan grácil como su homónima.\r\nPresta atención a la danza\r\npara evitar el aguijón."
     },
     "rarity": 3,
@@ -1550,6 +1590,7 @@
       "zh-Hant": "刺花棍Ⅲ",
       "zh-Hans": "刺花棍Ⅲ",
       "ar": "عصا بارينا الطويلة 3",
+      "th": "บารินาแปร์เช่ III",
       "es-419": "Percha Barina III"
     },
     "descriptions": {
@@ -1566,6 +1607,7 @@
       "zh-Hant": "如刺花蜘蛛般華麗的操蟲棍。若是\r\n不想陷入麻痺，就不能在它舞動時\r\n移開視線。",
       "zh-Hans": "不愧于刺花蜘蛛之名的华丽操虫棍。\r\n若是不想被麻痹，可得留神盯紧它\r\n的舞步。",
       "ar": "سيف حشرة (لالا بارينا) عريض النصل.\r\nيتمتع برشاقة تشبه اسمه. لتجنب لدغته،\r\nيجب مراقبة حركات رقصته.",
+      "th": "พลองแมลงลาลา บารินา ที่สง่างาม\r\nดั่งชื่อ หากไม่อยากถูกเหล็กในแทง\r\nก็ต้องจับตาดูการร่ายรำของมันให้ดี",
       "es-419": "Glaive insecto de Lala Barina\r\ntan grácil como su homónima.\r\nPresta atención a la danza\r\npara evitar el aguijón."
     },
     "rarity": 5,
@@ -1635,6 +1677,7 @@
       "zh-Hant": "刺花棍Ⅳ",
       "zh-Hans": "刺花棍Ⅳ",
       "ar": "عصا بارينا الطويلة 4",
+      "th": "บารินาแปร์เช่ IV",
       "es-419": "Percha Barina IV"
     },
     "descriptions": {
@@ -1651,6 +1694,7 @@
       "zh-Hant": "如刺花蜘蛛般華麗的操蟲棍。若是\r\n不想陷入麻痺，就不能在它舞動時\r\n移開視線。",
       "zh-Hans": "不愧于刺花蜘蛛之名的华丽操虫棍。\r\n若是不想被麻痹，可得留神盯紧它\r\n的舞步。",
       "ar": "سيف حشرة (لالا بارينا) عريض النصل.\r\nيتمتع برشاقة تشبه اسمه. لتجنب لدغته،\r\nيجب مراقبة حركات رقصته.",
+      "th": "พลองแมลงลาลา บารินา ที่สง่างาม\r\nดั่งชื่อ หากไม่อยากถูกเหล็กในแทง\r\nก็ต้องจับตาดูการร่ายรำของมันให้ดี",
       "es-419": "Glaive insecto de Lala Barina\r\ntan grácil como su homónima.\r\nPresta atención a la danza\r\npara evitar el aguijón."
     },
     "rarity": 7,
@@ -1720,6 +1764,7 @@
       "zh-Hant": "羽毛腳巴布刺花棍",
       "zh-Hans": "毒蛛刺花棍",
       "ar": "ستروماتوبيلم لالا",
+      "th": "ลาลาสโตรมาโทเพลม",
       "es-419": "Stromatopelma Lala"
     },
     "descriptions": {
@@ -1736,6 +1781,7 @@
       "zh-Hant": "更美麗、更鋒利的刺花棍。惜命之人\r\n絕不能沉醉於它的舞蹈。",
       "zh-Hans": "更美丽、更锋利的刺花棍。若还珍\r\n惜自己的性命，切不可被它的舞步\r\n迷了心窍。",
       "ar": "عصا (بارينا) طويلة أكثر حدة وجمالًا.\r\nمَن يُفتن برقصتها يخاطر بحياته.",
+      "th": "บารินาแปร์เช่ที่คมกริบและงดงาม\r\nยิ่งกว่าเดิม หากหลงใหลไปกับ\r\nการร่ายรำของมัน ก็เท่ากับเป็น\r\nการยอมสังเวยชีวิต",
       "es-419": "Percha Barina más afilada y\r\nencantadora. Si dejas que su\r\ndanza te embruje, ya has\r\nperdido la vida."
     },
     "rarity": 8,
@@ -1805,6 +1851,7 @@
       "zh-Hant": "沙海棍Ⅰ",
       "zh-Hans": "沙海长刃Ⅰ",
       "ar": "سيف بالاهارا عريض النصل 1",
+      "th": "พลองบาลาฮารา I",
       "es-419": "Glaive de Balahara I"
     },
     "descriptions": {
@@ -1821,6 +1868,7 @@
       "zh-Hant": "以沙海龍素材製作的操蟲棍。重量\r\n偏向前端，需要相當訓練才能隨心\r\n所欲地揮動。",
       "zh-Hans": "使用沙海龙素材制作的操虫棍。重\r\n量偏向于前端，想要随心所欲挥舞\r\n需要专门的训练。",
       "ar": "سيف حشرة (بالاهارا) عريض النصل\r\nيتركز معظم وزنه في طرفه،\r\nما يجعل من الصعب استخدامه بتمكن دون تدريب.",
+      "th": "พลองแมลงบาลาฮาราที่มีน้ำหนักส่วน\r\nใหญ่อยู่ที่ปลาย ทำให้สั่งการได้ยาก\r\nหากไม่ได้ฝึกฝน",
       "es-419": "Glaive insecto de Balahara con\r\nla mayor parte del peso en la\r\npunta, lo que dificulta su\r\ncontrol sin entrenamiento."
     },
     "rarity": 2,
@@ -1887,6 +1935,7 @@
       "zh-Hant": "沙海棍Ⅱ",
       "zh-Hans": "沙海长刃Ⅱ",
       "ar": "سيف بالاهارا عريض النصل 2",
+      "th": "พลองบาลาฮารา II",
       "es-419": "Glaive de Balahara II"
     },
     "descriptions": {
@@ -1903,6 +1952,7 @@
       "zh-Hant": "以沙海龍素材製作的操蟲棍。重量\r\n偏向前端，需要相當訓練才能隨心\r\n所欲地揮動。",
       "zh-Hans": "使用沙海龙素材制作的操虫棍。重\r\n量偏向于前端，想要随心所欲挥舞\r\n需要专门的训练。",
       "ar": "سيف حشرة (بالاهارا) عريض النصل\r\nيتركز معظم وزنه في طرفه،\r\nما يجعل من الصعب استخدامه بتمكن دون تدريب.",
+      "th": "พลองแมลงบาลาฮาราที่มีน้ำหนักส่วน\r\nใหญ่อยู่ที่ปลาย ทำให้สั่งการได้ยาก\r\nหากไม่ได้ฝึกฝน",
       "es-419": "Glaive insecto de Balahara con\r\nla mayor parte del peso en la\r\npunta, lo que dificulta su\r\ncontrol sin entrenamiento."
     },
     "rarity": 4,
@@ -1970,6 +2020,7 @@
       "zh-Hant": "沙海棍Ⅲ",
       "zh-Hans": "沙海长刃Ⅲ",
       "ar": "سيف بالاهارا عريض النصل 3",
+      "th": "พลองบาลาฮารา III",
       "es-419": "Glaive de Balahara III"
     },
     "descriptions": {
@@ -1986,6 +2037,7 @@
       "zh-Hant": "以沙海龍素材製作的操蟲棍。重量\r\n偏向前端，需要相當訓練才能隨心\r\n所欲地揮動。",
       "zh-Hans": "使用沙海龙素材制作的操虫棍。重\r\n量偏向于前端，想要随心所欲挥舞\r\n需要专门的训练。",
       "ar": "سيف حشرة (بالاهارا) عريض النصل\r\nيتركز معظم وزنه في طرفه،\r\nما يجعل من الصعب استخدامه بتمكن دون تدريب.",
+      "th": "พลองแมลงบาลาฮาราที่มีน้ำหนักส่วน\r\nใหญ่อยู่ที่ปลาย ทำให้สั่งการได้ยาก\r\nหากไม่ได้ฝึกฝน",
       "es-419": "Glaive insecto de Balahara con\r\nla mayor parte del peso en la\r\npunta, lo que dificulta su\r\ncontrol sin entrenamiento."
     },
     "rarity": 5,
@@ -2055,6 +2107,7 @@
       "zh-Hant": "沙海棍Ⅳ",
       "zh-Hans": "沙海长刃Ⅳ",
       "ar": "سيف بالاهارا عريض النصل 4",
+      "th": "พลองบาลาฮารา IV",
       "es-419": "Glaive de Balahara IV"
     },
     "descriptions": {
@@ -2071,6 +2124,7 @@
       "zh-Hant": "以沙海龍素材製作的操蟲棍。重量\r\n偏向前端，需要相當訓練才能隨心\r\n所欲地揮動。",
       "zh-Hans": "使用沙海龙素材制作的操虫棍。重\r\n量偏向于前端，想要随心所欲挥舞\r\n需要专门的训练。",
       "ar": "سيف حشرة (بالاهارا) عريض النصل\r\nيتركز معظم وزنه في طرفه،\r\nما يجعل من الصعب استخدامه بتمكن دون تدريب.",
+      "th": "พลองแมลงบาลาฮาราที่มีน้ำหนักส่วน\r\nใหญ่อยู่ที่ปลาย ทำให้สั่งการได้ยาก\r\nหากไม่ได้ฝึกฝน",
       "es-419": "Glaive insecto de Balahara con\r\nla mayor parte del peso en la\r\npunta, lo que dificulta su\r\ncontrol sin entrenamiento."
     },
     "rarity": 7,
@@ -2139,6 +2193,7 @@
       "zh-Hant": "沙海棍躍動者",
       "zh-Hans": "跃动沙海棍",
       "ar": "أوشالتيّا بحر الرمال",
+      "th": "อุชาลติยาทะเลทราย",
       "es-419": "Mararena Uchaltiya"
     },
     "descriptions": {
@@ -2155,6 +2210,7 @@
       "zh-Hant": "可於荒野自在舞動的沙海棍強化版。\r\n以多重素材增加了刀刃的重量，以提\r\n高威力。",
       "zh-Hans": "能于荒野自由自在舞动的沙海长刃\r\n强化版。为了提升威力，层层叠加\r\n素材，增强了刀刃的重量。",
       "ar": "سيف (بالاهارا) عريض النصل مطوَّر\r\nيضيف وزنًا أكثر تدميرًا\r\nإلى طرف السلاح.",
+      "th": "พลองบาลาฮารารุ่นอัปเกรดที่เพิ่ม\r\nน้ำหนักปลายอาวุธให้รุนแรงยิ่งขึ้น",
       "es-419": "Glaive de Balahara mejorada\r\nque añade un peso aún más\r\ndevastador a la punta del arma."
     },
     "rarity": 8,
@@ -2222,6 +2278,7 @@
       "zh-Hant": "煌雷棍Ⅰ",
       "zh-Hans": "煌雷棍Ⅰ",
       "ar": "موجه صواعق راي 1",
+      "th": "เรย์ฮาลิลินทาร์ I",
       "es-419": "Rey Halilintar I"
     },
     "descriptions": {
@@ -2238,6 +2295,7 @@
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
       "ar": "سيف حشرة مهيب مشبع برعد\r\n(راي داو). يُقال أنه يستحضر البرق\r\nعند رفعه عاليًا.",
+      "th": "พลองแมลงที่ซึมซับพลังสายฟ้าของ\r\nเรย์ ดาว เล่ากันว่าเพียงแค่ชูขึ้นฟ้าก็\r\nเรียกฟ้าผ่าลงมาได้",
       "es-419": "Glaive insecto imponente,\r\nimbuido con la tormenta del Rey\r\nDau. Se dice que invoca rayos\r\ncuando está en el aire."
     },
     "rarity": 3,
@@ -2304,6 +2362,7 @@
       "zh-Hant": "煌雷棍Ⅱ",
       "zh-Hans": "煌雷棍Ⅱ",
       "ar": "موجه صواعق راي 2",
+      "th": "เรย์ฮาลิลินทาร์ II",
       "es-419": "Rey Halilintar II"
     },
     "descriptions": {
@@ -2320,6 +2379,7 @@
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
       "ar": "سيف حشرة مهيب مشبع برعد\r\n(راي داو). يُقال أنه يستحضر البرق\r\nعند رفعه عاليًا.",
+      "th": "พลองแมลงที่ซึมซับพลังสายฟ้าของ\r\nเรย์ ดาว เล่ากันว่าเพียงแค่ชูขึ้นฟ้าก็\r\nเรียกฟ้าผ่าลงมาได้",
       "es-419": "Glaive insecto imponente,\r\nimbuido con la tormenta del Rey\r\nDau. Se dice que invoca rayos\r\ncuando está en el aire."
     },
     "rarity": 5,
@@ -2389,6 +2449,7 @@
       "zh-Hant": "煌雷棍Ⅲ",
       "zh-Hans": "煌雷棍Ⅲ",
       "ar": "موجه صواعق راي 3",
+      "th": "เรย์ฮาลิลินทาร์ III",
       "es-419": "Rey Halilintar III"
     },
     "descriptions": {
@@ -2405,6 +2466,7 @@
       "zh-Hant": "帶有煌雷龍雷電的操蟲棍。散發著\r\n壓迫感，據說在狂風暴雨高舉此棍\r\n就會引發落雷。",
       "zh-Hans": "带有煌雷龙雷电的操虫棍。自带不\r\n怒而威的气势，据说在暴风骤雨中\r\n举起它能引发落雷。",
       "ar": "سيف حشرة مهيب مشبع برعد\r\n(راي داو). يُقال أنه يستحضر البرق\r\nعند رفعه عاليًا.",
+      "th": "พลองแมลงที่ซึมซับพลังสายฟ้าของ\r\nเรย์ ดาว เล่ากันว่าเพียงแค่ชูขึ้นฟ้าก็\r\nเรียกฟ้าผ่าลงมาได้",
       "es-419": "Glaive insecto imponente,\r\nimbuido con la tormenta del Rey\r\nDau. Se dice que invoca rayos\r\ncuando está en el aire."
     },
     "rarity": 7,
@@ -2475,6 +2537,7 @@
       "zh-Hant": "煌雷閃電棍",
       "zh-Hans": "煌雷霹雳棍",
       "ar": "سيف هليلينتار البراق",
+      "th": "พลองแสงฮาลิลินทาร์",
       "es-419": "Glaive claro Halilintar"
     },
     "descriptions": {
@@ -2491,6 +2554,7 @@
       "zh-Hant": "強化版煌雷棍。雷電啊，四處迸濺，\r\n乘著猛烈的氣流，以雷霆漩渦席捲\r\n戰場吧。",
       "zh-Hans": "强化后的煌雷棍。迸发吧！雷电！\r\n乘着狂暴的气流，以雷霆之漩涡肆\r\n虐战场！",
       "ar": "سيف صواعق (راي) مطوَّر.\r\nلعل برقه يؤجج الرياح العاتية\r\nويجتاح ساحة المعركة. ",
+      "th": "เรย์ฮาลิลินทาร์รุ่นอัปเกรด ขอให้\r\nสายฟ้าโหมกระหน่ำไปพร้อมกับ\r\nสายลมที่เกรี้ยวกราด และทำลาย\r\nสมรภูมิให้สิ้นซาก",
       "es-419": "Mejora del Rey Halilintar. Que\r\nsu oleada de rayos caiga sobre\r\nlos vientos enfurecidos y arrasen\r\ncon el campo de batalla."
     },
     "rarity": 8,
@@ -2560,6 +2624,7 @@
       "zh-Hant": "潛行蟲棍Ⅰ",
       "zh-Hans": "潜行虫棍Ⅰ",
       "ar": "الشبح 1",
+      "th": "พลองลอบเร้น I",
       "es-419": "Glaive furtivo I"
     },
     "descriptions": {
@@ -2576,6 +2641,7 @@
       "zh-Hant": "擁有驚人柔韌性的操蟲棍。拔刀時\r\n突起處將會展開，釋放出影蜘蛛的\r\n氣味。",
       "zh-Hans": "实现了柔韧强度的操虫棍。拔刀后\r\n棍身上的凸起会展开，并喷撒出影\r\n蜘蛛的气味分子。",
       "ar": "سيف قوي ومرن.\r\nعند التلويح به، تنتشر\r\nأشواكه وتطلق رائحة (نيرسكيلا).",
+      "th": "พลองที่แข็งแกร่งและยืดหยุ่น เมื่อดึง\r\nออกมาใช้ เงี่ยงปลายจะกางออกพร้อม\r\nปล่อยฟีโรโมนของเนอร์ซิลลาออกมา",
       "es-419": "Glaive flexible y resistente.\r\nAl desenvainarlo, despliega sus\r\npúas para liberar feromonas de\r\nNerscylla."
     },
     "rarity": 3,
@@ -2642,6 +2708,7 @@
       "zh-Hant": "潛行蟲棍Ⅱ",
       "zh-Hans": "潜行虫棍Ⅱ",
       "ar": "الشبح 2",
+      "th": "พลองลอบเร้น II",
       "es-419": "Glaive furtivo II"
     },
     "descriptions": {
@@ -2658,6 +2725,7 @@
       "zh-Hant": "擁有驚人柔韌性的操蟲棍。拔刀時\r\n突起處將會展開，釋放出影蜘蛛的\r\n氣味。",
       "zh-Hans": "实现了柔韧强度的操虫棍。拔刀后\r\n棍身上的凸起会展开，并喷撒出影\r\n蜘蛛的气味分子。",
       "ar": "سيف قوي ومرن.\r\nعند التلويح به، تنتشر \r\nأشواكه وتطلق رائحة (نيرسكيلا).",
+      "th": "พลองที่แข็งแกร่งและยืดหยุ่น เมื่อดึง\r\nออกมาใช้ เงี่ยงปลายจะกางออกพร้อม\r\nปล่อยฟีโรโมนของเนอร์ซิลลาออกมา",
       "es-419": "Glaive flexible y resistente.\r\nAl desenvainarlo, despliega sus\r\npúas para liberar feromonas de\r\nNerscylla."
     },
     "rarity": 5,
@@ -2727,6 +2795,7 @@
       "zh-Hant": "潛行蟲棍Ⅲ",
       "zh-Hans": "潜行虫棍Ⅲ",
       "ar": "الشبح 3",
+      "th": "พลองลอบเร้น III",
       "es-419": "Glaive furtivo III"
     },
     "descriptions": {
@@ -2743,6 +2812,7 @@
       "zh-Hant": "擁有驚人柔韌性的操蟲棍。拔刀時\r\n突起處將會展開，釋放出影蜘蛛的\r\n氣味。",
       "zh-Hans": "实现了柔韧强度的操虫棍。拔刀后\r\n棍身上的凸起会展开，并喷撒出影\r\n蜘蛛的气味分子。",
       "ar": "سيف قوي ومرن.\r\nعند التلويح به، تنتشر \r\nأشواكه وتطلق رائحة (نيرسكيلا).",
+      "th": "พลองที่แข็งแกร่งและยืดหยุ่น เมื่อดึง\r\nออกมาใช้ เงี่ยงปลายจะกางออกพร้อม\r\nปล่อยฟีโรโมนของเนอร์ซิลลาออกมา",
       "es-419": "Glaive flexible y resistente.\r\nAl desenvainarlo, despliega sus\r\npúas para liberar feromonas de\r\nNerscylla."
     },
     "rarity": 7,
@@ -2813,6 +2883,7 @@
       "zh-Hant": "高級潛行蟲棍",
       "zh-Hans": "隐秘潜行虫棍",
       "ar": "الشبح المتطور",
+      "th": "พลองลอบเร้นรีดักซ์",
       "es-419": "Glaive más furtivo"
     },
     "descriptions": {
@@ -2829,6 +2900,7 @@
       "zh-Hant": "潛行蟲棍的強化版。某位擅長操蟲的\r\n間諜組織成員以此武器立下了無數\r\n戰功。",
       "zh-Hans": "潜行虫棍的强化型。某个擅长操虫\r\n的情报组织成员在使用后，收获了\r\n累累战果。",
       "ar": "تحسين لسيف التسلل عريض النصل.\r\nالسلاح المفضل لمستخدمي (كينسيكت)\r\nالخبراء في المجتمع السري.",
+      "th": "พลองลอบเร้นรุ่นปรับปรุง ถือเป็น\r\nอาวุธคู่กายของผู้เชี่ยวชาญการใช้\r\nคินเซ็กต์ในสมาคมลับเลยทีเดียว",
       "es-419": "Forma mejorada del glaive furtivo.\r\nEl arma preferida de un experto en\r\nkinsectos en una sociedad secreta."
     },
     "rarity": 8,
@@ -2897,6 +2969,7 @@
       "zh-Hant": "赫炎三叉戟Ⅰ",
       "zh-Hans": "赫炎三叉戟Ⅰ",
       "ar": "رمح أجارا الثلاثي 1",
+      "th": "ตรีศูลอาจารา I",
       "es-419": "Tridente Ajara I"
     },
     "descriptions": {
@@ -2913,6 +2986,7 @@
       "zh-Hant": "蘊藏赫猿獸之力的操蟲棍。連擊和\r\n爆破連綿不絕地掀起熱風，灼燒\r\n空氣。",
       "zh-Hans": "蕴含赫猿兽之力的操虫棍。伴随着\r\n连绵不绝的爆破连击卷起热浪，连\r\n空气也一并焚尽。",
       "ar": "سيف حشرة (أجاراكان) الذي يطلق\r\nسلسلة من الضربات المتفجرة\r\nالتي يمكن أن تحرق الهواء نفسه.",
+      "th": "พลองแมลงอาจาราคานที่ปล่อยชุด\r\nโจมตีระเบิดรุนแรง จนสามารถเผาไหม้\r\nอากาศรอบตัวได้เลย",
       "es-419": "Glaive insecto de Ajarakan que\r\nlanza una ráfaga de golpes\r\nexplosivos que pueden abrasar\r\nhasta el aire."
     },
     "rarity": 3,
@@ -2978,6 +3052,7 @@
       "zh-Hant": "赫炎三叉戟Ⅱ",
       "zh-Hans": "赫炎三叉戟Ⅱ",
       "ar": "رمح أجارا الثلاثي 2",
+      "th": "ตรีศูลอาจารา II",
       "es-419": "Tridente Ajara II"
     },
     "descriptions": {
@@ -2994,6 +3069,7 @@
       "zh-Hant": "蘊藏赫猿獸之力的操蟲棍。連擊和\r\n爆破連綿不絕地掀起熱風，灼燒\r\n空氣。",
       "zh-Hans": "蕴含赫猿兽之力的操虫棍。伴随着\r\n连绵不绝的爆破连击卷起热浪，连\r\n空气也一并焚尽。",
       "ar": "سيف حشرة (أجاراكان) الذي يطلق\r\nسلسلة من الضربات المتفجرة\r\nالتي يمكن أن تحرق الهواء نفسه.",
+      "th": "พลองแมลงอาจาราคานที่ปล่อยชุด\r\nโจมตีระเบิดรุนแรง จนสามารถเผาไหม้\r\nอากาศรอบตัวได้เลย",
       "es-419": "Glaive insecto de Ajarakan que\r\nlanza una ráfaga de golpes\r\nexplosivos que pueden abrasar\r\nhasta el aire."
     },
     "rarity": 6,
@@ -3063,6 +3139,7 @@
       "zh-Hant": "赫炎叉戟跋陀羅",
       "zh-Hans": "赫炎叉戟·跋陀罗",
       "ar": "أجارا بهادرا",
+      "th": "อาจารา-ภัทรา",
       "es-419": "Ajara-Bhadra"
     },
     "descriptions": {
@@ -3079,6 +3156,7 @@
       "zh-Hant": "獲授真名的赫炎三叉戟。工匠獲得\r\n天啟後，將救世願望託付於三個\r\n槍頭，打造出這把武器。",
       "zh-Hans": "得授真名的赫炎三叉戟。匠人得到\r\n天启，在三支枪头中注满救世之愿。",
       "ar": "رمح (أجارا) الثلاثي بالمعنى الحقيقي.\r\nبإلهام إلهي، غرس الحرفي فيه\r\nآمال الخلاص ثلاث مرات.",
+      "th": "ตรีศูลอาจาราที่แท้จริง ช่างฝีมือได้รับ\r\nการชี้แนะจากเทพเจ้า จึงผสานพลังสาม\r\nครั้งด้วยความหวังที่จะกอบกู้โลก",
       "es-419": "Tridente Ajara que hace honor a\r\nsu nombre. El artesano, por\r\nmediación divina, lo imbuyó tres\r\nveces con esperanzas de salvación."
     },
     "rarity": 8,
@@ -3146,6 +3224,7 @@
       "zh-Hant": "護火龍棍Ⅰ",
       "zh-Hans": "护火龙棍Ⅰ",
       "ar": "راثمول حارس 1",
+      "th": "การ์เดียนราธมอล I",
       "es-419": "Rathmaul Guardián I"
     },
     "descriptions": {
@@ -3162,6 +3241,7 @@
       "zh-Hant": "以護火龍素材製作的操蟲棍。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙的素材制作的操虫棍。能\r\n带给持有者如熊熊烈火一般绝不屈\r\n服的斗志。",
       "ar": "سيف حشرة (راثالوس) حارس\r\nعريض النصل. روح حامله كنار\r\nمتأججة لا تخبو أبدًا.",
+      "th": "พลองแมลงการ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟลุกโชนให้แก่ผู้ใช้",
       "es-419": "Glaive insecto de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 4,
@@ -3231,6 +3311,7 @@
       "zh-Hant": "護火龍棍Ⅱ",
       "zh-Hans": "护火龙棍Ⅱ",
       "ar": "راثمول حارس 2",
+      "th": "การ์เดียนราธมอล II",
       "es-419": "Rathmaul Guardián II"
     },
     "descriptions": {
@@ -3247,6 +3328,7 @@
       "zh-Hant": "以護火龍素材製作的操蟲棍。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙的素材制作的操虫棍。能\r\n带给持有者如熊熊烈火一般绝不屈\r\n服的斗志。",
       "ar": "سيف حشرة (راثالوس) حارس\r\nعريض النصل. روح حامله كنار\r\nمتأججة لا تخبو أبدًا.",
+      "th": "พลองแมลงการ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟลุกโชนให้แก่ผู้ใช้",
       "es-419": "Glaive insecto de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 6,
@@ -3317,6 +3399,7 @@
       "zh-Hant": "護火龍棍【白妙】",
       "zh-Hans": "护火龙棍【白妙】",
       "ar": "راثمول المرمري",
+      "th": "อะลาบาสเตอร์ราธมอล",
       "es-419": "Rathmaul alabastro"
     },
     "descriptions": {
@@ -3333,6 +3416,7 @@
       "zh-Hant": "強化版護火龍棍。在皓白之力的奔流\r\n中能感受到王者的榮耀與高尚的\r\n氣魄。",
       "zh-Hans": "强化后的护火龙棍。在皓白之力的\r\n涌流中，可以感受到高贵的王者之\r\n魂。",
       "ar": "(راثمول) حارس مطوَّر.\r\nوسط فيض قوته الخالصة\r\nيمكن للمرء أن يلمح روحًا راقية.",
+      "th": "การ์เดียนราธมอลรุ่นอัปเกรด\r\nจิตวิญญาณอันสูงส่งสถิตอยู่ภายใน\r\nกระแสพลังอันยิ่งใหญ่และบริสุทธิ์",
       "es-419": "Versión mejorada de Rathmaul\r\nGuardián. Dentro de su flujo\r\nde poder, se percibe un alma\r\ndigna de la realeza."
     },
     "rarity": 8,
@@ -3402,6 +3486,7 @@
       "zh-Hant": "凍峰金屬棒Ⅰ",
       "zh-Hans": "冻峰金属棍Ⅰ",
       "ar": "جين داتشهاد",
+      "th": "จินดาชฮัด",
       "es-419": "Jin Dhachhad"
     },
     "descriptions": {
@@ -3418,6 +3503,7 @@
       "zh-Hant": "以凍峰龍素材製作的操蟲棍。會釋放\r\n寒氣，颳起寒風，無差別地凍結周遭\r\n一切。",
       "zh-Hans": "以冻峰龙素材制作的操虫棍，能够\r\n放出寒气。挥舞之时能卷起风霜，\r\n无差别地冻结周围的一切。",
       "ar": "سيف حشرة (جين دهاد) عريض النصل\r\nيستحضر رياح الصقيع ويجمد\r\nكل شيء في الأفق دون هوادة.",
+      "th": "พลองแมลงจิน ดาฮาด ที่เรียกพายุ\r\nเยือกแข็งออกมา พลังน้ำแข็งนั้นจะ\r\nแช่แข็งทุกสิ่งที่มองเห็นเท่าเทียมกัน\r\nหมด",
       "es-419": "Glaive insecto de Jin Dahaad que\r\ninvoca vientos helados y congela\r\ntodo indiscriminadamente."
     },
     "rarity": 7,
@@ -3487,6 +3573,7 @@
       "zh-Hant": "斷崖金屬棒",
       "zh-Hans": "断崖金属棍",
       "ar": "هاوية جيومجيل",
+      "th": "เกือมเกลเงื้อมผา",
       "es-419": "Precipicio Geumgel"
     },
     "descriptions": {
@@ -3503,6 +3590,7 @@
       "zh-Hant": "強化版凍峰金屬棒，凍霞包覆的棒刃\r\n散發著如銀嶺般的光輝，會將獵物\r\n凍結，關入冰壁。",
       "zh-Hans": "冻峰金属棍的强化版，散发出宛如\r\n雪岭般的光辉。寒霜包覆的利刃能\r\n将猎物冻结，封印在冰壁之中。",
       "ar": "(جين داتشاهاد) مطوَّر.\r\nمُغطى بضباب متجمد ويحبس نصله\r\nالفريسة داخل سجن من الجليد.",
+      "th": "จินดาชฮัดรุ่นอัปเกรด ถูกห่อหุ้ม\r\nในหมอกน้ำแข็ง ทำให้คมดาบ\r\nสามารถแช่แข็งเหยื่อให้ติดอยู่\r\nในคุกน้ำแข็งได้ทันที",
       "es-419": "Una versión mejorada de Jin\r\nDhachhad. Su hoja, envuelta en\r\nuna bruma helada, atrapa a la\r\npresa en una prisión helada."
     },
     "rarity": 8,
@@ -3571,6 +3659,7 @@
       "zh-Hant": "異界三鈷杵Ⅰ",
       "zh-Hans": "异界三钴杵Ⅰ",
       "ar": "فاجرا كاثوني 1",
+      "th": "วัชระใต้พิภพ I",
       "es-419": "Vajra chthoniana I"
     },
     "descriptions": {
@@ -3587,6 +3676,7 @@
       "zh-Hant": "以護兇爪龍素材製作的操蟲棍。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
       "zh-Hans": "使用护凶爪龙素材制作的操虫棍。\r\n是将屈服于渴望的野兽本能化为实\r\n体的武器。",
       "ar": "سيف حشرة (أودوغارون) أسمر حارس عريض النصل.\r\nبسبب خضوعه لرغباته الوحشية،\r\nلا يرتوي عطشه للدماء أبدًا.",
+      "th": "พลองแมลงการ์เดียนเอโบนีโอโด\r\nการอน ตกอยู่ภายใต้อำนาจของ\r\nความกระหายเลือดเยี่ยงสัตว์และ\r\nไม่เคยจางหายไป",
       "es-419": "Glaive insecto de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su\r\nsed de sangre es inagotable."
     },
     "rarity": 4,
@@ -3654,6 +3744,7 @@
       "zh-Hant": "異界三鈷杵Ⅱ",
       "zh-Hans": "异界三钴杵Ⅱ",
       "ar": "فاجرا كاثوني 2",
+      "th": "วัชระใต้พิภพ II",
       "es-419": "Vajra chthoniana II"
     },
     "descriptions": {
@@ -3670,6 +3761,7 @@
       "zh-Hant": "以護兇爪龍素材製作的操蟲棍。\r\n是任由慾望驅使的野獸本能所\r\n化身的武器。",
       "zh-Hans": "使用护凶爪龙素材制作的操虫棍。\r\n是将屈服于渴望的野兽本能化为实\r\n体的武器。",
       "ar": "سيف حشرة (أودوغارون) أسمر حارس عريض النصل.\r\nبسبب خضوعه لرغباته الوحشية،\r\nلا يرتوي عطشه للدماء أبدًا.",
+      "th": "พลองแมลงการ์เดียนเอโบนีโอโด\r\nการอน ตกอยู่ภายใต้อำนาจของ\r\nความกระหายเลือดเยี่ยงสัตว์และ\r\nไม่เคยจางหายไป",
       "es-419": "Glaive insecto de Odogaron\r\nÉbano Guardián. Sus ansias\r\nbestiales nunca acaban y su\r\nsed de sangre es inagotable."
     },
     "rarity": 6,
@@ -3737,6 +3829,7 @@
       "zh-Hant": "遺戒",
       "zh-Hans": "遗戒",
       "ar": "عهد موروث",
+      "th": "เจตนารมณ์ตกทอด",
       "es-419": "Testamento legado"
     },
     "descriptions": {
@@ -3753,6 +3846,7 @@
       "zh-Hant": "強化版異界三鈷杵。飢渴的野獸撕裂\r\n輪迴，將此永不滿足的空殼遺留在現\r\n世。",
       "zh-Hans": "强化后的异界三钴杵。饥渴的凶兽\r\n撕裂轮回，将此永不满足的器物残\r\n留在人间。",
       "ar": "(فاجرا) كاثوني مطوَّر.\r\nرغم عدم انتظاره دورة الجوع\r\nليلتهم الفرائس، إلا أنه لا يشبع.",
+      "th": "วัชระใต้พิภพรุ่นอัปเกรด แม้จะ\r\nหลุดพ้นจากวัฏจักรแห่งความหิวโหย\r\nแต่สัตว์ร้ายตัวนี้ก็ยังไม่รู้จักอิ่ม",
       "es-419": "Versión mejorada de Vajra\r\nchthoniana. Si bien ya no\r\nnecesita alimentarse, la\r\nbestia sigue ávida."
     },
     "rarity": 8,
@@ -3821,6 +3915,7 @@
       "zh-Hant": "護鎖刃戟Ⅰ",
       "zh-Hans": "护锁刃戟Ⅰ",
       "ar": "تروديس فيلديان حارس 1",
+      "th": "ก. เวลเดียนทรูดิส I",
       "es-419": "Trudis veldian G. I"
     },
     "descriptions": {
@@ -3837,6 +3932,7 @@
       "zh-Hant": "以護龍素材製作的操蟲棍。據說每當\r\n揮舞刃棍，持有者會逐漸失去區分善\r\n惡的能力。",
       "zh-Hans": "以护龙素材制作的操虫棍。据说每\r\n当挥舞刃戟之时，善恶的界限便会\r\n从手中滑落。",
       "ar": "سيف حشرة عريض النصل مصنوع من غنائم وحش حارس.\r\nتقلل كل ضربة متأرجحة من قدرة الشخص\r\nعلى التمييز بين الخير والشر.",
+      "th": "พลองแมลงที่สร้างจากชิ้นส่วน\r\nการ์เดียน ทุกครั้งที่ฟาดฟันจะ\r\nยิ่งทำให้ความรู้สึกผิดชอบชั่วดี\r\nเลือนหายไป",
       "es-419": "Glaive insecto hecha con restos\r\nde un Guardián. Cada golpe\r\nempobrece la capacidad de\r\ndiscernir el bien del mal."
     },
     "rarity": 4,
@@ -3907,6 +4003,7 @@
       "zh-Hant": "護鎖刃戟Ⅱ",
       "zh-Hans": "护锁刃戟Ⅱ",
       "ar": "تروديس فيلديان حارس 2",
+      "th": "ก. เวลเดียนทรูดิส II",
       "es-419": "Trudis veldian G. II"
     },
     "descriptions": {
@@ -3923,6 +4020,7 @@
       "zh-Hant": "以護龍素材製作的操蟲棍。據說每當\r\n揮舞刃棍，持有者會逐漸失去區分善\r\n惡的能力。",
       "zh-Hans": "以护龙素材制作的操虫棍。据说每\r\n当挥舞刃戟之时，善恶的界限便会\r\n从手中滑落。",
       "ar": "سيف حشرة عريض النصل مصنوع من غنائم وحش حارس.\r\nتقلل كل ضربة متأرجحة من قدرة الشخص\r\nعلى التمييز بين الخير والشر.",
+      "th": "พลองแมลงที่สร้างจากชิ้นส่วน\r\nการ์เดียน ทุกครั้งที่ฟาดฟันจะ\r\nยิ่งทำให้ความรู้สึกผิดชอบชั่วดี\r\nเลือนหายไป",
       "es-419": "Glaive insecto hecha con restos\r\nde un Guardián. Cada golpe\r\nempobrece la capacidad de\r\ndiscernir el bien del mal."
     },
     "rarity": 6,
@@ -3994,6 +4092,7 @@
       "zh-Hant": "護鎖刃戟托爾",
       "zh-Hans": "护锁刃戟·陶尔",
       "ar": "تور صامد حارس",
+      "th": "ก. ทอร์ผู้อดทน",
       "es-419": "Tor impasible G."
     },
     "descriptions": {
@@ -4010,6 +4109,7 @@
       "zh-Hant": "強化版護鎖刃戟。即使歷經悠久的\r\n時光後失去挑戰的理由，仍然一心\r\n一意地揮舞著戟刃。",
       "zh-Hans": "强化之后的护锁刃戟。即使在悠久\r\n的时光中已经遗忘了挑战的理由，\r\n依然心无旁骛地挥舞着戟刃。",
       "ar": "(تروديس فيلديان) حارس مطوَّر.\r\nبعد فترة طويلة من زوال سبب حربه،\r\nلا يزال النصل فتاكًا.",
+      "th": "ก. เวลเดียนทรูดิสรุ่นอัปเกรด แม้จะ\r\nไร้ซึ่งเหตุผลในการทำสงคราม\r\nไปนานแล้ว แต่คมดาบยังคง\r\nเกรี้ยวกราดไม่เสื่อมคลาย",
       "es-419": "Trudis veldian Guardián\r\nmejorada. Mucho después de\r\nhaber desaparecido su razón de\r\nexistir, la hoja arremete."
     },
     "rarity": 8,
@@ -4079,6 +4179,7 @@
       "zh-Hant": "怪鳥矛Ⅰ",
       "zh-Hans": "怪鸟矛Ⅰ",
       "ar": "رمح كوت-كو حاد 1",
+      "th": "หลาวคุท-คู I",
       "es-419": "Pica de Kut-Ku I"
     },
     "descriptions": {
@@ -4095,6 +4196,7 @@
       "zh-Hant": "以朝獵物猛撲的怪鳥為靈感製成的\r\n操蟲棍。華麗的裝飾能鼓舞獵人。",
       "zh-Hans": "此操虫棍的设计灵感，来源于朝着\r\n猎物飞奔而去的怪鸟。鲜艳的装饰\r\n鼓舞着猎手。",
       "ar": "سيف حشرات مثير ذو تصميم واقعي\r\nيحاكي الطريقة التي ينقض بها\r\n(يان كوت-كو) على فريسته.",
+      "th": "พลองแมลงที่มีดีไซน์ฉูดฉาดเร้าใจ\r\nเลียนแบบท่วงท่าการพุ่งตะปบเหยื่อ\r\nของยีอานคุท-คู",
       "es-419": "Glaive insecto de diseño\r\nvigoroso que imita el modo en\r\nque el Yian Kut-Ku cae sobre\r\nsu presa."
     },
     "rarity": 5,
@@ -4166,6 +4268,7 @@
       "zh-Hant": "怪鳥矛Ⅱ",
       "zh-Hans": "怪鸟矛Ⅱ",
       "ar": "رمح كوت-كو حاد 2",
+      "th": "หลาวคุท-คู II",
       "es-419": "Pica de Kut-Ku II"
     },
     "descriptions": {
@@ -4182,6 +4285,7 @@
       "zh-Hant": "以朝獵物猛撲的怪鳥為靈感製成的\r\n操蟲棍。華麗的裝飾能鼓舞獵人。",
       "zh-Hans": "此操虫棍的设计灵感，来源于朝着\r\n猎物飞奔而去的怪鸟。鲜艳的装饰\r\n鼓舞着猎手。",
       "ar": "سيف حشرات مثير ذو تصميم واقعي\r\nيحاكي الطريقة التي ينقض بها\r\n(يان كوت-كو) على فريسته.",
+      "th": "พลองแมลงที่มีดีไซน์ฉูดฉาดเร้าใจ\r\nเลียนแบบท่วงท่าการพุ่งตะปบเหยื่อ\r\nของยีอานคุท-คู",
       "es-419": "Glaive insecto de diseño\r\nvigoroso que imita el modo en\r\nque el Yian Kut-Ku cae sobre\r\nsu presa."
     },
     "rarity": 7,
@@ -4252,6 +4356,7 @@
       "zh-Hant": "赤甲大嘴怪鳥矛",
       "zh-Hans": "赤甲大嘴之怪鸟矛",
       "ar": "رمح الطوقان الحاد",
+      "th": "หลาวทูแคน",
       "es-419": "Pica de tucán"
     },
     "descriptions": {
@@ -4268,6 +4373,7 @@
       "zh-Hant": "怪鳥矛的強化版，彷彿能像怪鳥般以\r\n銳利的大嘴猛攻獵物。沒有獵物能逃\r\n過其攻擊。",
       "zh-Hans": "挥动尖锐大嘴，发起突然袭击的怪\r\n鸟矛强化型。没有任何办法能逃离\r\n那张大嘴。",
       "ar": "رمح كوت-كُو حاد مطوَّر.\r\nلا مفر من فتك منقاره\r\nالحاد الملتوي.",
+      "th": "หลาวคุท-คูรุ่นอัปเกรด ไม่มีใครหลบหนี\r\nจากการขย้ำอันดุร้ายของจะงอยปากที่\r\nแหลมคมของมันได้",
       "es-419": "Pica de Kut-Ku mejorada.\r\nNada escapa al letal ataque\r\nde su filoso pico."
     },
     "rarity": 8,
@@ -4335,6 +4441,7 @@
       "zh-Hant": "公主權杖Ⅰ",
       "zh-Hans": "公主宝器Ⅰ",
       "ar": "الأميرة ريغاليا 1",
+      "th": "เครื่องยศองค์หญิง I",
       "es-419": "Gala de princesa I"
     },
     "descriptions": {
@@ -4351,6 +4458,7 @@
       "zh-Hant": "以崇高的雌火龍素材製作的操蟲棍。\r\n散發高尚品味的美麗裝飾，象徵著貴\r\n族的權威。",
       "zh-Hans": "使用了高贵雌火龙素材的操虫棍。\r\n散发着品格的华丽装饰象征贵族的\r\n无上权威。",
       "ar": "سيف الحشرة مصنوع بسخاء من\r\nزخارف (راثيان) المذهلة والملكية.",
+      "th": "พลองแมลงที่สร้างขึ้นอย่างหรูหรา\r\nจากชุดประดับอันสง่างามและสูงส่ง\r\nของราเธียน",
       "es-419": "Glaive insecto de diseño lujoso\r\nhecha con increíbles y regios\r\nelementos de Rathian."
     },
     "rarity": 5,
@@ -4422,6 +4530,7 @@
       "zh-Hant": "公主權杖Ⅱ",
       "zh-Hans": "公主宝器Ⅱ",
       "ar": "الأميرة ريغاليا 2",
+      "th": "เครื่องยศองค์หญิง II",
       "es-419": "Gala de princesa II"
     },
     "descriptions": {
@@ -4438,6 +4547,7 @@
       "zh-Hant": "以崇高的雌火龍素材製作的操蟲棍。\r\n散發高尚品味的美麗裝飾，象徵著貴\r\n族的權威。",
       "zh-Hans": "使用了高贵雌火龙素材的操虫棍。\r\n散发着品格的华丽装饰象征贵族的\r\n无上权威。",
       "ar": "سيف حشرات مصنوع بسخاء\r\nمن زخارف (راثيان) المذهلة والملكية.",
+      "th": "พลองแมลงที่สร้างขึ้นอย่างหรูหรา\r\nจากชุดประดับอันสง่างามและสูงส่ง\r\nของราเธียน",
       "es-419": "Glaive insecto de diseño lujoso\r\nhecha con increíbles y regios\r\nelementos de Rathian."
     },
     "rarity": 7,
@@ -4508,6 +4618,7 @@
       "zh-Hant": "女王權杖",
       "zh-Hans": "女王宝器",
       "ar": "الملكة ريغاليا",
+      "th": "เครื่องยศราชินี",
       "es-419": "Gala de reina"
     },
     "descriptions": {
@@ -4524,6 +4635,7 @@
       "zh-Hant": "美麗的事物總是暗藏著劇毒……\r\n這把公主權杖的強化形態深刻\r\n體現了這美麗的殘酷真相。",
       "zh-Hans": "美丽的东西总是有毒……这把公主\r\n宝器的强化形态诉说着关于美的残\r\n酷真相。",
       "ar": "النسخة المحسنة من الأميرة ريغاليا.\r\nلكل زهرة شوكتها..\r\nأو في هذه الحالة، سمها القاتل.",
+      "th": "เครื่องยศองค์หญิงรุ่นปรับปรุง กุหลาบ\r\nทุกดอกย่อมมีหนาม… หรือในกรณีนี้\r\nคือพิษที่แสนอำมหิต",
       "es-419": "Gala de princesa mejorada.\r\nToda rosa tiene sus espinas...\r\ny en este caso, su veneno letal."
     },
     "rarity": 8,
@@ -4593,6 +4705,7 @@
       "zh-Hant": "雷顎白杖Ⅰ",
       "zh-Hans": "护雷白杖Ⅰ",
       "ar": "رعدي ناهض 1",
+      "th": "ฟูลเกอร์ทะยานฟ้า I",
       "es-419": "Fulgur ascendente I"
     },
     "descriptions": {
@@ -4609,6 +4722,7 @@
       "zh-Hant": "以護雷顎龍素材製作的操蟲棍。唯有\r\n以理性壓抑蠻力，才能用上這武器。",
       "zh-Hans": "使用护雷颚龙素材制作的操虫棍。\r\n唯有能以理性抑制蛮勇之力者方可\r\n使用。",
       "ar": "سيف حشرة (أنجاناث) رعدي حارس\r\nعريض النصل. لا يستطيع\r\nحمله سوى القادر على ترويض\r\nوحشيته بحكمة.",
+      "th": "พลองการ์เดียนฟูลเกอร์อันจานาธ\r\nมีเพียงผู้ที่กำราบความดุร้ายของมัน\r\nด้วยเหตุผลเท่านั้น จึงจะสามารถใช้\r\nอาวุธนี้ได้",
       "es-419": "Glaive insecto de Anjanath\r\nFulgúreo Guardián. Solo quien\r\npueda dominar su brutalidad a\r\ntravés de la razón podrá portarlo."
     },
     "rarity": 6,
@@ -4679,6 +4793,7 @@
       "zh-Hant": "護雷棍守衛之杖",
       "zh-Hans": "狂暴护雷杖",
       "ar": "سيف رعدي حارس عريض النصل",
+      "th": "พลองฟูลเกอร์การ์เดียนา",
       "es-419": "Fulgur glaive Guardiana"
     },
     "descriptions": {
@@ -4695,6 +4810,7 @@
       "zh-Hant": "強化版雷顎白杖。壓倒性的力量顯然\r\n於世，足以歪曲常理。沉醉於力量者\r\n終將自滅。",
       "zh-Hans": "护雷白杖的强化版。具备强大到足\r\n以扭曲常理的力量。如果沉溺于这\r\n份力量，也会自取灭亡。",
       "ar": "رعدي ناهض مطوَّر.\r\nتعطل رغباته الوحشية صوت العقل\r\nوسيدمر حامله إذا زاد حماسه عن اللازم.",
+      "th": "ฟูลเกอร์ทะยานฟ้ารุ่นอัปเกรด\r\nสัญชาตญาณป่าเถื่อนของมัน\r\nบิดเบือนเหตุผล หากผู้ใช้\r\nขาดสติอาจนำไปสู่ความพินาศ",
       "es-419": "Fulgur ascendente mejorada.\r\nSus impulsos nublan la razón\r\ny destruyen a un portador\r\nansioso."
     },
     "rarity": 8,
@@ -4763,6 +4879,7 @@
       "zh-Hant": "暴風雪棍Ⅰ",
       "zh-Hans": "暴雪棍Ⅰ",
       "ar": "سيف عاصفة ثلجية عريض النصل 1",
+      "th": "พลองพายุหิมะ I",
       "es-419": "Glaive de ventisca I"
     },
     "descriptions": {
@@ -4779,6 +4896,7 @@
       "zh-Hant": "能使出如同狂亂暴風雪般連擊的\r\n雪獅子王操蟲棍。能夠不畏任何\r\n風暴，隨心所欲翱翔天際。",
       "zh-Hans": "能施展出如同最狂放的暴风雪般连\r\n击的雪狮子王操虫棍。无视一切狂\r\n风，纵横飞舞。",
       "ar": "سيف حشرة (بلانجونجا) عريض النصل\r\nيهاجم الفريسة بسلسلة من الضربات\r\nولا يتأثر في مواجهة أي عاصفة.",
+      "th": "พลองแมลงบลังกองกาที่โจมตี\r\nเหยื่อเป็นชุด ไม่ยอมให้พายุใด\r\nพรากความคล่องแคล่ว",
       "es-419": "Glaive insecto de Blangonga que\r\nataca a la presa con una ráfaga\r\nde golpes y no cede ante ninguna\r\ntormenta."
     },
     "rarity": 6,
@@ -4848,6 +4966,7 @@
       "zh-Hant": "碧雪棍",
       "zh-Hans": "皓白暴雪棍",
       "ar": "عاصفة ثلجية نقية",
+      "th": "พายุหิมะไร้มลทิน",
       "es-419": "Ventisca inmaculada"
     },
     "descriptions": {
@@ -4864,6 +4983,7 @@
       "zh-Hant": "強化版暴風雪棍。據說使用者可獲得\r\n如猿神般的跳躍能力，從一島跳到另\r\n一島，跨越大海。",
       "zh-Hans": "暴雪棍的强化版。使用者可获猴神\r\n般跳跃之力，跨越岛屿，横渡海洋。",
       "ar": "سيف عاصفة ثلجية عريض النصل مطوَّر\r\nيضرب برشاقة مثل سيد (سيميان)\r\nالذي اجتاز جزر البحر.",
+      "th": "พลองพายุหิมะรุ่นอัปเกรด คล่องตัวใน\r\nการใช้งานดุจดั่งเทพวานรที่เหินข้าม\r\nเกาะแก่งในทะเล",
       "es-419": "Glaive de ventisca mejorada que\r\nse maneja con tanta agilidad\r\ncomo el dios simio que superó\r\nlas islas del mar."
     },
     "rarity": 8,
@@ -4933,6 +5053,7 @@
       "zh-Hant": "重力衝刺棍Ⅰ",
       "zh-Hans": "铠龙坚骨棍Ⅰ",
       "ar": "جرافيافارين 1",
+      "th": "กราเวียฟาเรน I",
       "es-419": "Graviafaren I"
     },
     "descriptions": {
@@ -4949,6 +5070,7 @@
       "zh-Hant": "以鎧龍骨頭製成的操蟲棍。棍子前端\r\n做成了鎧龍頭部的形狀，令人聯想到\r\n鎧龍衝刺。",
       "zh-Hans": "用铠龙的骨头制成的操虫棍。尖端\r\n的铠龙头部装饰，让人联想到铠龙\r\n的猛烈冲刺。",
       "ar": "سيف حشرة عريض النصل مصنوع من عظام (غرافيوس).\r\nيبدو أن حلية الرأس تنبئ\r\nبقرب قدوم (غرافيوس) حقيقي.",
+      "th": "พลองแมลงที่สร้างจากกระดูก\r\nกราวิออส เครื่องประดับหัวดูราวกับ\r\nเป็นลางบอกเหตุถึงการมาเยือนของ\r\nกราวิออสตัวจริง",
       "es-419": "Glaive insecto hecha con el\r\nhueso de un Gravios. El adorno\r\npara la cabeza parece anunciar\r\nla llegada de un Gravios real."
     },
     "rarity": 6,
@@ -5018,6 +5140,7 @@
       "zh-Hant": "重力突進棍",
       "zh-Hans": "铠龙焦土棍",
       "ar": "جرافورديوس",
+      "th": "กราวอร์ดิอุส",
       "es-419": "Gravordius"
     },
     "descriptions": {
@@ -5034,6 +5157,7 @@
       "zh-Hant": "強化版重力衝刺棍。能噴發烈焰開拓\r\n道路，烈焰所到之處僅留焦土。",
       "zh-Hans": "铠龙坚骨棍的强化版。喷射强力火\r\n焰，开辟道路。其所到之处只留下\r\n焦土一片。",
       "ar": "نيران جهنمية تشق الطريق\r\nولا تخلف ورائها سوى الرماد\r\nهكذا هو (جرافيافارين) الذي تمت ترقيته.",
+      "th": "เพลิงนรกที่จะแผดเผาทุกอย่างที่ขวาง\r\nหน้า เหลือไว้เพียงเถ้าธุลี สมกับเป็น\r\nกราเวียฟาเรนรุ่นอัปเกรด",
       "es-419": "Un infierno que abrasa el\r\ncamino, dejando nada más que\r\ncenizas a su paso. Así es el\r\nGraviafaren mejorada."
     },
     "rarity": 8,
@@ -5103,6 +5227,7 @@
       "zh-Hant": "蟲棍河鼓二Ⅰ",
       "zh-Hans": "虫棍河鼓二Ⅰ",
       "ar": "النسر الطائر 1",
+      "th": "อัลแทร์ I",
       "es-419": "Altair I"
     },
     "descriptions": {
@@ -5119,6 +5244,7 @@
       "zh-Hant": "附鋒利刀刃，銳可劈風的千刃龍操蟲\r\n棍。兩端突出的銳爪可將阻擋其去路\r\n者全數掃蕩。",
       "zh-Hans": "其刀刃锐可劈风的千刃龙操虫棍。\r\n此棍的特征是两端侧突起的利爪，\r\n可扫空一切障碍。",
       "ar": "سيف حشرة (سيرجيوس) عريض النصل.\r\nنصاله الحادة المبطنة على جانبيه\r\nقادرة على تمزيق أي شيء في طريقها.",
+      "th": "พลองแมลงเซเรกิออส ใบมีดคมกริบ\r\nที่เรียงรายตรงปลายพลองทั้ง\r\nสองด้านสามารถตัดผ่านทุกอย่าง\r\nที่ขวางหน้า",
       "es-419": "Glaive insecto de Seregios.\r\nLas afiladas hojas a ambos\r\nlados del glaive cortan\r\ntodo lo que tocan."
     },
     "rarity": 7,
@@ -5181,6 +5307,7 @@
       "zh-Hant": "叛棍河鼓二",
       "zh-Hans": "叛棍河鼓二",
       "ar": "ألتيل",
+      "th": "อัลทีล",
       "es-419": "Alteal"
     },
     "descriptions": {
@@ -5197,6 +5324,7 @@
       "zh-Hant": "強化版蟲棍河鼓二。反逆者之棍奔馳\r\n於戰場，將不共戴天的獵物劈開。",
       "zh-Hans": "虫棍河鼓二的强化型。反逆者之棍\r\n奔驰于战场，将不共戴天的猎物撕\r\n裂。",
       "ar": "النسر الطائر الذي تمّ ترقيته.\r\nعند استخدامه في المعركة،\r\nيُقضى على الأعداء اللدودين بسهولة.",
+      "th": "อัลแทร์รุ่นอัปเกรด เมื่อใช้ในการต่อสู้\r\nศัตรูคู่แค้นจะถูกสังหารอย่างง่ายดาย",
       "es-419": "Forma mejorada del Altair.\r\nHace pedazos a los enemigos\r\nacérrimos con facilidad."
     },
     "rarity": 8,
@@ -5258,6 +5386,7 @@
       "zh-Hant": "火龍棍Ⅰ",
       "zh-Hans": "火龙棍Ⅰ",
       "ar": "راثمول 1",
+      "th": "ราธมอล I",
       "es-419": "Rathmaul I"
     },
     "descriptions": {
@@ -5274,6 +5403,7 @@
       "zh-Hant": "以火龍素材製作的操蟲棍。其帶有\r\n火焰的攻擊展現出王者的強烈憤怒。",
       "zh-Hans": "用火龙素材制造而成的操虫棍。裹\r\n挟着火炎的一击，正是王者的炽热\r\n愤怒。",
       "ar": "سيف مصنوع من أجزاء\r\n(راثالوس). تجسد كل\r\nضربة غضب الملك الشجاع.",
+      "th": "พลองแมลงที่สร้างจากวัตถุดิบ\r\nราธาลอส การโจมตีอันร้อนแรง\r\nแต่ละครั้งจะปลุกเร้าโทสะแห่ง\r\nราชัน",
       "es-419": "Glaive insecto de materiales de\r\nRathalos. Cada golpe encarna la\r\nviolenta furia del rey."
     },
     "rarity": 6,
@@ -5344,6 +5474,7 @@
       "zh-Hant": "火龍棍【炎舞】",
       "zh-Hans": "火龙棍【炎舞】",
       "ar": "راثمول الناري",
+      "th": "ราธมอลระบำเพลิง",
       "es-419": "Rathmaul Danza Ígnea"
     },
     "descriptions": {
@@ -5360,6 +5491,7 @@
       "zh-Hant": "經過強化後的火龍棍，蘊含其中的\r\n王之憤怒瀕臨爆發。其猛擊將化為\r\n燒盡大地的火焰之舞。",
       "zh-Hans": "火龙棍得到强化，蕴藏的王者之怒\r\n也濒临喷发。其猛击将化作焚尽大\r\n地的火焰之舞。",
       "ar": "سيف راثمول مطوّر.\r\nشاهد لهبه وهو يتراقص\r\nحول خصومك بينما تقتلهم.",
+      "th": "ราธมอลรุ่นอัปเกรด โทสะแห่งราชัน\r\nมิอาจสกัดกั้น และพร้อมจะกลืนกินทุก\r\nสรรพสิ่ง",
       "es-419": "Rathmaul mejorada. Ya\r\nincontenible, la furia del rey\r\npronto devorará la tierra."
     },
     "rarity": 8,
@@ -5428,6 +5560,7 @@
       "zh-Hant": "狙擊of戲法Ⅰ",
       "zh-Hans": "狙击of戏法Ⅰ",
       "ar": "قبضة السراب",
+      "th": "เลอมุนส์ลิสต์",
       "es-419": "Truco maestro"
     },
     "descriptions": {
@@ -5438,12 +5571,13 @@
       "de": "Eine Insektenglefe, die von dem\r\nAnimus eines toten Gore Magala\r\nerfüllt ist. Träger beschwören\r\nein unheilvolles Miasma.",
       "es": "Glaive insecto imbuido de la\r\ninquina de un Gore Magala\r\nmuerto. Solo con blandirlo\r\nse percibe una torva miasma.",
       "ru": "Глефа насекомых, пронизанная\r\nвраждебностью лишённой жизни\r\nкровавой магалы. Оружие сочится\r\nзлобой, отравляющей всё вокруг.",
-      "pl": "Owadzia glewia skąpana w\r\nnienawiści martwego Gore Magali.\r\nWystarczy ją chwycić, aby\r\nprzywołać złowrogi miazmat.",
+      "pl": "Owadzia glewia skąpana w\r\nnienawiści martwego Gore\r\nMagali. Wystarczy ją chwycić,\r\naby przywołać złowrogi miazmat.",
       "pt-BR": "Glaive inseto imbuída com a\r\nhostilidade de um Gore Magala\r\nfalecido. Basta empunhá-la para\r\nconjurar um miasma nefasto.",
       "ko": "쓰러진 고어 마가라의 분노가\r\n깃들었다는 불길한 조충곤.\r\n사악한 독기가 주위를 맴돈다.",
       "zh-Hant": "據說蘊藏著受屠黑蝕龍悔恨的不祥\r\n之棍。只要擺出攻擊架勢，周遭就\r\n會捲起邪惡的瘴氣。",
       "zh-Hans": "不祥之棍，据说其中寄宿着被屠黑\r\n蚀龙的悔恨。只要一摆出攻击架势，\r\n周围就会卷起瘴气。",
       "ar": "سيف الحشرة محمَّل بالروح العدوانية لـ\r\n(جور ماجالا) ميت.\r\nمجرد حمله يطلق سحابة سامة مليئة\r\nبالطاقة القاتمة.",
+      "th": "พลองแมลงที่แฝงจิตวิญญาณอาฆาต\r\nแห่งกอร์ มากาลาที่ดับสิ้น เพียงแค่จับ\r\nก็ปลดปล่อยหมอกพิษอัปมงคลออกมา",
       "es-419": "Una glaive de insecto imbuida\r\ncon la esencia vengativa de un\r\nGore Magala. Solo con sostenerla\r\nse conjura un miasma funesto."
     },
     "rarity": 7,
@@ -5513,6 +5647,7 @@
       "zh-Hant": "狙擊of變幻",
       "zh-Hans": "狙击of变幻",
       "ar": "لعنة السراب",
+      "th": "เลอมุนส์กิฟต์",
       "es-419": "Truco engañoso"
     },
     "descriptions": {
@@ -5529,6 +5664,7 @@
       "zh-Hant": "強化版狙擊of戲法。持續擴散的瘴氣\r\n將籠罩整個世界，使其化作災禍的\r\n溫床。",
       "zh-Hans": "持续扩散的瘴气将笼罩整个世界，\r\n化作灾祸的温床。狙击of戏法的\r\n强化版本。",
       "ar": "النسخة المحسنة من قبضة السراب.\r\nينتشر التأثير المدمر كالنار في الهشيم،\r\nويقضي على كل من في طريقه.",
+      "th": "เลอมุนส์ลิสต์รุ่นปรับปรุง หมอกพิษ\r\nนี้จะแพร่กระจายไปทั่วแผ่นดินและ\r\nทำลายล้างทุกอย่างที่ขวางทาง",
       "es-419": "Truco maestro mejorado.\r\nEl miasma impregna la tierra\r\ny deja la ruina a su paso."
     },
     "rarity": 8,
@@ -5597,6 +5733,7 @@
       "zh-Hant": "鎖刃戟Ⅰ",
       "zh-Hans": "锁刃戟Ⅰ",
       "ar": "تروديس فيلديان 1",
+      "th": "เวลเดียนทรูดิส I",
       "es-419": "Trudis veldian I"
     },
     "descriptions": {
@@ -5613,6 +5750,7 @@
       "zh-Hant": "以鎖刃龍素材製作的操蟲棍。曾有\r\n博愛騎士為守護一切生命，使用了\r\n這把古代武器。",
       "zh-Hans": "使用锁刃龙素材制作的操虫棍。据\r\n说此戟曾为古代骑士所用，骑士博\r\n爱，守护着一切生灵。",
       "ar": "سيف حشرة (آركفيلد).\r\nكان الفرسان الذين يحملوه\r\nيتمتعون بقلوب رحيمة\r\nتجاه الطبيعة بأكملها.",
+      "th": "พลองแมลงอาร์คเวลด์ อัศวิน\r\nผู้เคยถือครองมีหัวใจเมตตาต่อ\r\nทุกสรรพสิ่งในธรรมชาติ",
       "es-419": "Glaive insecto de un Arkveld de\r\nantaño. Los caballeros que la\r\nblandían tenían un corazón\r\ncaritativo con la naturaleza."
     },
     "rarity": 7,
@@ -5683,6 +5821,7 @@
       "zh-Hant": "機械刃棍Ⅰ",
       "zh-Hans": "机械刃棍Ⅰ",
       "ar": "سيف أرتيان عريض النصل 1",
+      "th": "พลองอาร์เทียน I",
       "es-419": "Glaive artiano I"
     },
     "descriptions": {
@@ -5699,6 +5838,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代刃棍。\r\n據傳刃棍展開的螺旋結構來自某種\r\n生物的設計圖。",
       "zh-Hans": "由发现的武器碎片组成的古代刃棍。\r\n据说它展开的螺旋形状实际上是某\r\n种生物的设计图。",
       "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nيبدو أن الحلزون المنتشر\r\nبمثابة مخطط لمخلوق.",
+      "th": "อาวุธที่ประกอบขึ้นจากชิ้นส่วนที่ถูกขุดพบ\r\nเกลียวที่กางออกมานั้นดูราวกับเป็นต้นแบบ\r\nของสิ่งมีชีวิตชนิดหนึ่ง",
       "es-419": "Un arma ensamblada con\r\nfragmentos desenterrados. La\r\nhélice que usa parece ser el\r\nesquema de una criatura."
     },
     "rarity": 6,
@@ -5753,6 +5893,7 @@
       "zh-Hant": "機械刃棍Ⅱ",
       "zh-Hans": "机械刃棍Ⅱ",
       "ar": "سيف أرتيان عريض النصل 2",
+      "th": "พลองอาร์เทียน II",
       "es-419": "Glaive artiano II"
     },
     "descriptions": {
@@ -5769,6 +5910,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代刃棍。\r\n據傳刃棍展開的螺旋結構來自某種\r\n生物的設計圖。",
       "zh-Hans": "由发现的武器碎片组成的古代刃棍。\r\n据说它展开的螺旋形状实际上是某\r\n种生物的设计图。",
       "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nيبدو أن الحلزون المنتشر\r\nبمثابة مخطط لمخلوق.",
+      "th": "อาวุธที่ประกอบขึ้นจากชิ้นส่วนที่ถูกขุดพบ\r\nเกลียวที่กางออกมานั้นดูราวกับเป็นต้นแบบ\r\nของสิ่งมีชีวิตชนิดหนึ่ง",
       "es-419": "Un arma ensamblada con\r\nfragmentos desenterrados. La\r\nhélice que usa parece ser el\r\nesquema de una criatura."
     },
     "rarity": 7,
@@ -5823,6 +5965,7 @@
       "zh-Hant": "雙重螺旋刃棍",
       "zh-Hans": "双重螺旋",
       "ar": "ديبريلتشا",
+      "th": "ดิปรีเอลชา",
       "es-419": "Diprielcha"
     },
     "descriptions": {
@@ -5839,6 +5982,7 @@
       "zh-Hant": "擁有潛藏性能的太古刃棍。復原後的\r\n二重螺旋描繪的究竟是進化的希望，\r\n抑或是……",
       "zh-Hans": "有着潜藏性能的太古刃棍。修复后\r\n的双螺旋描绘的究竟是进化的希望，\r\n还是……",
       "ar": "سلاح قديم ذو إمكانات كامنة.\r\nالتطور في الحلزون...\r\nهل يمثل الأمل، أم...؟",
+      "th": "อาวุธโบราณที่มีศักยภาพแฝงเร้น\r\nการวิวัฒนาการในเกลียว... มันสื่อ\r\nถึงความหวัง หรือว่า...",
       "es-419": "Un arma ancestral con potencial\r\nlatente. La evolución de la hélice...\r\n¿Representa esperanza o...?"
     },
     "rarity": 8,
@@ -5893,6 +6037,7 @@
       "zh-Hant": "祈望棍",
       "zh-Hans": "期冀虫棍",
       "ar": "سيف إسبيرانزا عريض النصل",
+      "th": "พลองเอสเปรันซา",
       "es-419": "Glaive esperanzadora"
     },
     "descriptions": {
@@ -5909,6 +6054,7 @@
       "zh-Hant": "經實地調查後改良而成的希望棍。\r\n持此棍者胸懷希望，盡情翱翔天\r\n際。",
       "zh-Hans": "通过实地调查而改良的希望虫棍。\r\n持此棍者胸怀希望，纵横翱翔于长\r\n空。",
       "ar": "سيف الأمل عريض النصل مُختبر بالكامل في الساحة.\r\nإنه يرفع معنويات القلب اليائس، ويرفعكَ بسهولة في الهواء.",
+      "th": "พลองโฮปที่ผ่านการทดสอบในสนาม\r\nจริงมาแล้ว ปลอบประโลมจิตใจที่\r\nสิ้นหวัง ให้กลับมามีแรงพร้อมลุยต่อ",
       "es-419": "Glaive esperanza probada en\r\ncampo. Mantiene a flote un\r\ncorazón sin esperanza que te\r\neleva en el aire sin esfuerzo."
     },
     "rarity": 8,
@@ -5970,6 +6116,7 @@
       "zh-Hant": "纏蛙強躍棍",
       "zh-Hans": "缠蛙强跃棍",
       "ar": "لافوكا مُغلف",
+      "th": "ลาโฟก้าอำพราง",
       "es-419": "Laphoka amortajado"
     },
     "descriptions": {
@@ -5986,6 +6133,7 @@
       "zh-Hant": "使用優質素材改良的纏蛙棍。無論是\r\n在地上還是在空中，挾帶沙礫的連擊\r\n都不會中斷。",
       "zh-Hans": "用优质素材制作的改良版缠蛙棍。\r\n无论在地上还是空中，伴随着沙砾\r\n的连击都将永不停歇。",
       "ar": "سيف (تشاتا) مطوَّر،\r\nقادرة على إطلاق وابلٍ لا ينقطع\r\nمن الحصى على الخصوم،\r\nكعاصفة رملية لا تنتهي.",
+      "th": "พลองชาตารุ่นอัปเกรด โจมตีคู่ต่อสู้\r\nได้อย่างดุดันด้วยพายุกรวดที่โถม\r\nกระหน่ำไม่สิ้นสุด",
       "es-419": "Glaive Chata mejorada capaz de\r\navasallar a los enemigos con\r\nla tenacidad de una lluvia\r\ninfinita de gravilla."
     },
     "rarity": 8,
@@ -6046,6 +6194,7 @@
       "zh-Hant": "鎖刃戟托爾",
       "zh-Hans": "锁刃戟·陶尔",
       "ar": "تور صامد",
+      "th": "ทอร์ผู้อดทน",
       "es-419": "Tor impasible"
     },
     "descriptions": {
@@ -6062,6 +6211,7 @@
       "zh-Hant": "強化版鎖刃戟。騎士即使身處亂世，\r\n仍一心祈願人民獲得安寧，領導民\r\n眾。",
       "zh-Hans": "锁刃戟的强化版。在战乱之世中，\r\n那位骑士依然一边祈祷着百姓的安\r\n宁，一边指引着人民。",
       "ar": "(تروديس فيلديان) مطوَّر. في أرض\r\nمزقتها الحرب، سعى الفارس الذي يحمله\r\nإلى قيادة الناس للسلام.",
+      "th": "เวลเดียนทรูดิสรุ่นอัปเกรด\r\nในดินแดนที่เต็มไปด้วยสงคราม\r\nอัศวินผู้ใช้มันมุ่งหวังที่จะนำ\r\nสันติภาพมาสู่ผู้คน",
       "es-419": "Trudis veldian mejorada. En una\r\ntierra asolada por la guerra,\r\nel portador intentó liderar a\r\nsu gente hacia la paz."
     },
     "rarity": 8,
@@ -6130,6 +6280,7 @@
       "zh-Hant": "熾・卡赫特爾Ⅰ",
       "zh-Hans": "白炽棍卡提勒Ⅰ",
       "ar": "زو كاتير 1",
+      "th": "โซห์คาเทียร์ I",
       "es-419": "Zoh Katir I"
     },
     "descriptions": {
@@ -6146,6 +6297,7 @@
       "zh-Hant": "以白熾龍素材製作的操蟲棍。此棍\r\n以清淨的繁榮為冠，清濁混合的寶\r\n珠將吸收萬物，閃閃發光。",
       "zh-Hans": "由白炽龙素材锻造，冠以清澄繁荣\r\n之名的操虫棍。镶嵌的宝珠清浊兼\r\n容吸收一切能量绽放光芒。",
       "ar": "سيف حشرة (زو شيا) عريض النصل\r\nتزينه جوهرة متعددة الألوان\r\nتضيء في تجاوب مع الكون.",
+      "th": "พลองแมลงโซห์ ชิอาที่มีอัญมณี\r\nหลากสีเปล่งประกายตอบรับการ\r\nก่อกำเนิดทั้งปวง",
       "es-419": "Glaive insecto de Zoh Shia con\r\nuna joya multicolor que brilla\r\nen respuesta a toda la creación."
     },
     "rarity": 7,
@@ -6215,6 +6367,7 @@
       "zh-Hant": "熾光卡赫特爾",
       "zh-Hans": "炽光棍卡提勒",
       "ar": "كاتير الملتهب",
+      "th": "คาเทียร์จรัสแสง",
       "es-419": "Katir ardiente"
     },
     "descriptions": {
@@ -6224,13 +6377,14 @@
       "it": "Katir declama dall'alto:\r\nTu che cerchi prosperità,\r\npossa il tuo gioiello\r\nguidarti alla meta.",
       "de": "Katir ruft von oben herab:\r\nJene, die Reichtum suchen!\r\nMöge euer Juwel euch ans\r\nEnde führen!",
       "es": "Katir brama desde lo alto:\r\nQuienes buscáis prosperidad,\r\nque vuestra joya os guíe\r\nhasta el fin.",
-      "ru": "И воскликнула вознёсшаяся\r\nКатир: «Ты, что алчешь\r\nбогатства! Пусть самоцвет этот\r\nукажет тебе пусть к цели твоей!»",
-      "pl": "Z wysoka rzecze Katir:\r\nty, który chwały szukasz bogactwa,\r\nniech twój klejnot poprowadzi\r\ncię do ostateczności.",
+      "ru": "И воскликнула вознёсшаяся\r\nКатир: «Ты, что алчешь\r\nбогатства! Пусть самоцвет этот\r\nукажет тебе путь к цели твоей!»",
+      "pl": "Z wysoka rzecze Katir: ty, który\r\nchwały szukasz i bogactwa,\r\nniech twój klejnot poprowadzi\r\ncię do ostateczności.",
       "pt-BR": "Katir brada das alturas:\r\nTu que buscas prosperidade,\r\nque tua joia te guie ao fim.",
       "ko": "하늘에 올라 카티라가 고한다.\r\n그대, 번영을 추구해 교만한\r\n자여. 소용돌이치는 보주가\r\n종말까지 인도하리라.",
       "zh-Hant": "天上的卡赫特爾在此宣告：渴求繁榮\r\n而驕矜之輩啊，迴旋轉動的寶珠將引\r\n汝走向終結。",
       "zh-Hans": "卡提勒自天上传下意志——渴求繁\r\n荣的高傲者啊，宝珠卷起的漩涡当\r\n引领汝直至终焉。",
       "ar": "ينادي (كاتير) من الأعالي:\r\nأيها الساعي إلى الازدهار\r\nلعل جوهرتك تهديك\r\nإلى النهاية.",
+      "th": "คาเทียร์เปล่งวาจาจากเบื้องบน:\r\nผู้แสวงหาความรุ่งเรืองเอ๋ย\r\nขอให้มณีของเจ้านำทางเจ้า\r\nสู่จุดสิ้นสุด",
       "es-419": "Katir brama desde lo alto:\r\nQuienes buscan la prosperidad,\r\nque su joya los guíe hacia esa\r\nfinalidad."
     },
     "rarity": 8,
@@ -6299,6 +6453,7 @@
       "zh-Hant": "狐薙刀秋風拂朝露Ⅰ",
       "zh-Hans": "狐薙刀【秋风引枝露】Ⅰ",
       "ar": "مِطرَد الثعلب I",
+      "th": "ง้าวจิ้งจอก I",
       "es-419": "Alabarda de zorro I"
     },
     "descriptions": {
@@ -6315,6 +6470,7 @@
       "zh-Hant": "侍奉君主直到最後之死士所遺留的\r\n風雅薙刀。絢麗花刃將隨風馳騁於\r\n戰場。",
       "zh-Hans": "至死都陪伴在主君身边的武士所遗\r\n留的风雅薙刀。凛丽花刃追随清风，\r\n驱马驰骋战场之上。",
       "ar": "سيف عريض النصل كان يملكه\r\nمحارب أفنى حياته في الخدمة.\r\nيتحرك نصله برشاقة كالرياح.",
+      "th": "พลองของนักรบผู้รับใช้จนตัวตาย\r\nคมมีดของมันร่ายรำดุจสายลม",
       "es-419": "Glaive insecto de un guerrero\r\nque sirvió hasta la muerte.\r\nSu filo baila como el viento."
     },
     "rarity": 6,
@@ -6385,6 +6541,7 @@
       "zh-Hant": "如薹草根之漩渦",
       "zh-Hans": "薹草长薙之漩涡",
       "ar": "ناغاناغي منحنٍ",
+      "th": "นางานางิโค้ง",
       "es-419": "Naganagi curvada"
     },
     "descriptions": {
@@ -6401,6 +6558,7 @@
       "zh-Hant": "強化版狐薙刀秋風拂朝露。圖拂野\r\n旋風之涼則命休矣，見風雅薙刀之\r\n花盛開眼前。",
       "zh-Hans": "狐薙刀【秋风引枝露】强化型。只\r\n要不断于荒野上经受旋风的洗礼。\r\n风雅薙刀之华终将盛开。",
       "ar": "مِطرَد ثعلب مُحسَّن.\r\nيجتاح ساحة المعركة\r\nكنسيم بارد.",
+      "th": "ง้าวจิ้งจอกรุ่นปรับปรุง\r\nทะยานโลดแล่นกลางสมรภูมิ\r\nราวกับสายลมเย็นพัดผ่าน",
       "es-419": "Alabarda de zorro mejorada.\r\nBarre el campo de batalla\r\ncomo una brisa fresca."
     },
     "rarity": 8,
@@ -6470,6 +6628,7 @@
       "zh-Hant": "歐米茄之杖",
       "zh-Hans": "欧米茄之杖",
       "ar": "عصا أوميغا",
+      "th": "คทาของโอเมกา",
       "es-419": "Glaive de Omega"
     },
     "descriptions": {
@@ -6486,6 +6645,7 @@
       "zh-Hant": "仿造某自律型兵器產生的武器而製成\r\n的操蟲棍。使出的連擊會源源不斷地\r\n擊中目標。",
       "zh-Hans": "此操虫棍的造型模仿了某个自律型\r\n兵器生成的武器。使出的连击会源\r\n源不断地击中目标。",
       "ar": "سيف حشرة مصمم على غرار سلاح\r\nمعين ذاتي التشغيل. يمطر الهدف\r\nبوابل من الهجمات.",
+      "th": "พลองแมลงที่จำลองแบบมาจาก\r\nอาวุธอัตโนมัติชนิดหนึ่ง กระหน่ำ\r\nโจมตีเป้าหมายได้ไม่หยุด",
       "es-419": "Una glaive insecto modelada\r\nsegún cierta arma autónoma.\r\nBombardea al objetivo con\r\nataques."
     },
     "rarity": 7,
@@ -6555,6 +6715,7 @@
       "zh-Hant": "真・歐米茄之杖",
       "zh-Hans": "欧米茄之杖·真",
       "ar": "عصا أوميغا الحقيقية",
+      "th": "คทาของโอเมกาขั้นสุด",
       "es-419": "Glaive de Omega verdadera"
     },
     "descriptions": {
@@ -6571,6 +6732,7 @@
       "zh-Hant": "歷經諸多戰鬥而進化的歐米茄之杖。\r\n其創造的光彈之雨將會掃清一切。",
       "zh-Hans": "历经无数次战斗实现进化的欧米茄\r\n之杖。生成的光弹之雨能够扫清一\r\n切障碍。",
       "ar": "عصا (أوميغا) بعد أن تطوّرت\r\nفي أتون المعارك، لتنزل الهلاك\r\nبسيلٍ جارفٍ من النور.",
+      "th": "คทาของโอเมกาที่พัฒนาขึ้นหลัง\r\nผ่านการต่อสู้ สาดสายฝนแห่งแสง\r\nทำลายสิ้นทุกสิ่ง",
       "es-419": "Una glaive de Omega que ha\r\ncrecido a través del combate.\r\nTrae la aniquilación con un\r\ndiluvio de luz."
     },
     "rarity": 8,
@@ -6639,6 +6801,7 @@
       "zh-Hant": "三叉海龍雷棍Ⅰ",
       "zh-Hans": "雷棍三叉戟Ⅰ",
       "ar": "سيف حشرة ترياكروس الرعدي 1",
+      "th": "พลองสายฟ้าไทรอาครุส I",
       "es-419": "Glaive triacrus trueno I"
     },
     "descriptions": {
@@ -6655,6 +6818,7 @@
       "zh-Hant": "海龍的三叉棍。每當揮舞此棍便能引\r\n發雷擊，其威力甚至足以將山脈一劈\r\n為二。",
       "zh-Hans": "海龙的三叉戟棍，随手一挥就能卷\r\n起足以劈山裂谷的雷霆万钧。",
       "ar": "سيف حشرة (لاغياكروس) ثلاثي الرؤوس.\r\nضربة واحدة تُطلق صاعقة برق قوية\r\nبما يكفي لشق جبل إلى نصفين.",
+      "th": "พลองแมลงลาเกียครุสสามง่าม\r\nฟาดฟันเพียงหนึ่งครั้งก็ปล่อย\r\nสายฟ้าที่ทรงพลังจนผ่าภูเขา\r\nเป็นสองซีกได้",
       "es-419": "Glaive insecto de Lagiacrus de\r\ntres puntas. Un solo tajo libera\r\nun relámpago tan potente como\r\npara partir una montaña en dos."
     },
     "rarity": 7,
@@ -6725,6 +6889,7 @@
       "zh-Hant": "雷叉棍雷電海龍",
       "zh-Hans": "雷叉棍海龙戟",
       "ar": "سيف حشرة بولتلاغيا الكسري",
+      "th": "พลองแฟร็กทัลโบลท์ลาเกีย",
       "es-419": "Glaive relampagia fractal"
     },
     "descriptions": {
@@ -6741,6 +6906,7 @@
       "zh-Hant": "強化版三叉海龍雷棍。據傳其雷擊\r\n體現了海神之怒，可輕易粉碎萬物。",
       "zh-Hans": "强化版的雷棍三叉戟。雷击是海神\r\n怒火的具象，可轻而易举粉碎万物。",
       "ar": "سيف حشرة (ترياكروس) الرعدي\r\nتمت ترقيته. صواعقه تُجسّد\r\nغضب إله البحر، وتسحق\r\nكل ما في طريقه.",
+      "th": "พลองสายฟ้าไทรอาครุสรุ่นอัปเกรด\r\nสายฟ้าฟาดของมันเปรียบดั่งโทสะ\r\nของเทพแห่งท้องทะเล ทำลาย\r\nทุกสิ่งที่ขวางหน้า",
       "es-419": "Glaive triacrus trueno mejorada.\r\nSus relámpagos encarnan la ira\r\nde un dios del mar, aplastándolo\r\ntodo a su paso."
     },
     "rarity": 8,
@@ -6810,6 +6976,7 @@
       "zh-Hant": "墮世之淚雙重螺旋",
       "zh-Hans": "堕世之泪双重螺旋",
       "ar": "برزخ لاكور",
+      "th": "เสียงสะอื้นจากขุมนรก",
       "es-419": "Limbo Llor"
     },
     "descriptions": {
@@ -6826,6 +6993,7 @@
       "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
       "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
       "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "th": "หยาดน้ำตาหลอกหลอนที่จ้องจะกลืน\r\nกินพลังแฝง แม้ว่าความหวังอื่นๆ จะ\r\nจมหายไปในความเศร้าหมดแล้วก็ตาม",
       "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
     },
     "rarity": 8,
@@ -6880,6 +7048,7 @@
       "zh-Hant": "墮世之淚雙重螺旋",
       "zh-Hans": "堕世之泪双重螺旋",
       "ar": "برزخ لاكور",
+      "th": "เสียงสะอื้นจากขุมนรก",
       "es-419": "Limbo Llor"
     },
     "descriptions": {
@@ -6896,6 +7065,7 @@
       "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
       "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
       "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "th": "หยาดน้ำตาหลอกหลอนที่จ้องจะกลืน\r\nกินพลังแฝง แม้ว่าความหวังอื่นๆ จะ\r\nจมหายไปในความเศร้าหมดแล้วก็ตาม",
       "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
     },
     "rarity": 8,
@@ -6950,6 +7120,7 @@
       "zh-Hant": "墮世之淚雙重螺旋",
       "zh-Hans": "堕世之泪双重螺旋",
       "ar": "برزخ لاكور",
+      "th": "เสียงสะอื้นจากขุมนรก",
       "es-419": "Limbo Llor"
     },
     "descriptions": {
@@ -6966,6 +7137,7 @@
       "zh-Hant": "異形的暗淚吞噬潛藏性能。崩壞的\r\n螺旋被棄如敝屣，使所有希望浸染\r\n哀泣。",
       "zh-Hans": "吞噬隐藏性能的异形之暗泪。弃置\r\n崩坏的螺旋，以悲泣浸染希望。",
       "ar": "دموع تطارد الأرواح متعطّشة لاكتشاف\r\nقدرتها الكامنة، في حين تغرق كل الآمال\r\nالأخرى في بحر الأسى.",
+      "th": "หยาดน้ำตาหลอกหลอนที่จ้องจะกลืน\r\nกินพลังแฝง แม้ว่าความหวังอื่นๆ จะ\r\nจมหายไปในความเศร้าหมดแล้วก็ตาม",
       "es-419": "Lágrimas espectrales que ansían\r\npotencial, aun cuando toda esperanza\r\nse ahoga en un mar de lamentos."
     },
     "rarity": 8,
@@ -7021,6 +7193,7 @@
       "zh-Hant": "衝鋒隊長杖",
       "zh-Hans": "先锋团长杖",
       "ar": "سيف الطليعة عريض النصل",
+      "th": "พลองแนวหน้า",
       "es-419": "Glaive vanguardista"
     },
     "descriptions": {
@@ -7037,6 +7210,7 @@
       "zh-Hant": "以庫納法村的鷺鷹龍騎手使用的長杖\r\n為原型所製成。原本是贈予可獨當\r\n一面之騎手的證明。",
       "zh-Hans": "模仿库纳法村鹭鹰龙骑手所用的长\r\n杖制作而成，原本是授予能够独当\r\n一面的骑手的证明。",
       "ar": "سيف الحشرة يشبه العصا التي\r\nيستخدمها راكبو (سيكريت) في\r\nقرية (كُنافة). يُمنح وفق التقاليد\r\nكرمز لبلوغ سن الرشد.",
+      "th": "พลองแมลงรูปร่างคล้ายไม้เท้าที่นักขี่\r\nเซย์เคร็ทแห่งหมู่บ้านคูนาฟานิยมใช้\r\nเป็นหลักฐานการเติบโตเป็นผู้ใหญ่\r\nที่มอบให้ตามประเพณี",
       "es-419": "Glaive insecto similar a la vara\r\nusada por los jinetes de Seikret\r\nde Kunafa. Es habitual recibirla\r\nal cumplir la mayoría de edad."
     },
     "rarity": 7,
@@ -7102,6 +7276,7 @@
       "zh-Hant": "衝鋒隊長杖【真傳】",
       "zh-Hans": "先锋团长杖【皆传】",
       "ar": "فخر الطليعة",
+      "th": "พลองเกียรติภูมิแนวหน้า",
       "es-419": "Orgullo vanguardista"
     },
     "descriptions": {
@@ -7118,6 +7293,7 @@
       "zh-Hant": "衝鋒隊長杖經長久使用後的的最終\r\n型態。與鷺鷹龍互通心靈的騎手\r\n揮舞長杖之姿宛如人龍一體。",
       "zh-Hans": "长期使用的先锋团长杖达到极致。\r\n与鹭鹰龙心意相通时挥舞的姿态，\r\n可谓人龙一体。",
       "ar": "الشكل النهائي لسيف الطليعة\r\nعريض النصل. حينما يُستخدم بتناغم\r\nمع (سيكريت)، فكأنّ حامله\r\nيقاتل إلى جانب تنين.",
+      "th": "พลองแมลงแนวหน้าขั้นสูงสุด\r\nเมื่อใช้ประสานกับเซย์เคร็ทจะเปรียบ\r\nเสมือนมีมังกรเป็นสหายร่วมสู้",
       "es-419": "Forma definitiva de la glaive\r\nvanguardista. Cuando se blande\r\nen armonía con un Seikret, es\r\ncomo luchar junto a un dragón."
     },
     "rarity": 8,

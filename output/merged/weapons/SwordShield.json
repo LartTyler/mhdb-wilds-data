@@ -28,6 +28,7 @@
       "zh-Hant": "希望劍Ⅰ",
       "zh-Hans": "希望之剑Ⅰ",
       "ar": "سيف الأمل 1",
+      "th": "ดาบโฮป I",
       "es-419": "Espada esperanza I"
     },
     "descriptions": {
@@ -38,12 +39,13 @@
       "de": "Ein speziell für die Expedition\r\nangefertigtes Schwert & Schild,\r\ndas die pausenlose Entfesslung\r\nvon Angriffen ermöglicht.",
       "es": "Espada y escudo fabricados\r\nespecialmente para la expedición.\r\nLe permite a un cazador lanzar\r\nataques sin descanso.",
       "ru": "Меч и щит, изготовленные\r\nспециально для экспедиции.\r\nТаким оружием можно\r\nатаковать безостановочно.",
-      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy wyprowadzanie\r\nataków bez przerwy.",
+      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy ciągłe\r\nwyprowadzanie ataków.",
       "pt-BR": "Espada e escudo feitos para\r\na expedição. Permite que um\r\ncaçador desfira ataques sem\r\ninterrupção.",
       "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 한손검.\r\n검과 방패를 사용하여\r\n끊임없이 공격할 수 있다.",
       "zh-Hant": "為東部地區調查特別開發的單手劍。\r\n可利用劍與盾連綿不絕攻擊。",
       "zh-Hans": "为调查东部地区而特别制作的单手\r\n剑。活用剑和盾牌，就可以发动连\r\n绵不绝的攻击。",
       "ar": "سيف وترس مصنوعان خصيصًا للبعثة.\r\nيتيحان للصياد إطلاق الهجمات\r\nدون توقف.",
+      "th": "ดาบโล่ที่สร้างมาเพื่อการสำรวจโดย\r\nเฉพาะ ทำให้ฮันเตอร์ปล่อยการโจมตี\r\nได้ไม่มีสะดุด",
       "es-419": "Espada y escudo hechos para la\r\nexpedición. Le permite a un\r\ncazador lanzar ataques sin\r\ninterrupción."
     },
     "rarity": 1,
@@ -97,6 +99,7 @@
       "zh-Hant": "希望劍Ⅱ",
       "zh-Hans": "希望之剑Ⅱ",
       "ar": "سيف الأمل 2",
+      "th": "ดาบโฮป II",
       "es-419": "Espada esperanza II"
     },
     "descriptions": {
@@ -107,12 +110,13 @@
       "de": "Ein speziell für die Expedition\r\nangefertigtes Schwert & Schild,\r\ndas die pausenlose Entfesslung\r\nvon Angriffen ermöglicht.",
       "es": "Espada y escudo fabricados\r\nespecialmente para la expedición.\r\nLe permite a un cazador lanzar\r\nataques sin descanso.",
       "ru": "Меч и щит, изготовленные\r\nспециально для экспедиции.\r\nТаким оружием можно\r\nатаковать безостановочно.",
-      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy wyprowadzanie\r\nataków bez przerwy.",
+      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy ciągłe\r\nwyprowadzanie ataków.",
       "pt-BR": "Espada e escudo feitos para\r\na expedição. Permite que um\r\ncaçador desfira ataques sem\r\ninterrupção.",
       "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 한손검.\r\n검과 방패를 사용하여\r\n끊임없이 공격할 수 있다.",
       "zh-Hant": "為東部地區調查特別開發的單手劍。\r\n可利用劍與盾連綿不絕攻擊。",
       "zh-Hans": "为调查东部地区而特别制作的单手\r\n剑。活用剑和盾牌，就可以发动连\r\n绵不绝的攻击。",
       "ar": "سيف وترس مصنوعان خصيصًا للبعثة.\r\nيتيحان للصياد إطلاق الهجمات\r\nدون توقف.",
+      "th": "ดาบโล่ที่สร้างมาเพื่อการสำรวจโดย\r\nเฉพาะ ทำให้ฮันเตอร์ปล่อยการโจมตี\r\nได้ไม่มีสะดุด",
       "es-419": "Espada y escudo hechos para la\r\nexpedición. Le permite a un\r\ncazador lanzar ataques sin\r\ninterrupción."
     },
     "rarity": 1,
@@ -170,6 +174,7 @@
       "zh-Hant": "希望劍Ⅲ",
       "zh-Hans": "希望之剑Ⅲ",
       "ar": "سيف الأمل 3",
+      "th": "ดาบโฮป III",
       "es-419": "Espada esperanza III"
     },
     "descriptions": {
@@ -180,12 +185,13 @@
       "de": "Ein speziell für die Expedition\r\nangefertigtes Schwert & Schild,\r\ndas die pausenlose Entfesslung\r\nvon Angriffen ermöglicht.",
       "es": "Espada y escudo fabricados\r\nespecialmente para la expedición.\r\nLe permite a un cazador lanzar\r\nataques sin descanso.",
       "ru": "Меч и щит, изготовленные\r\nспециально для экспедиции.\r\nТаким оружием можно\r\nатаковать безостановочно.",
-      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy wyprowadzanie\r\nataków bez przerwy.",
+      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy ciągłe\r\nwyprowadzanie ataków.",
       "pt-BR": "Espada e escudo feitos para\r\na expedição. Permite que um\r\ncaçador desfira ataques sem\r\ninterrupção.",
       "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 한손검.\r\n검과 방패를 사용하여\r\n끊임없이 공격할 수 있다.",
       "zh-Hant": "為東部地區調查特別開發的單手劍。\r\n可利用劍與盾連綿不絕攻擊。",
       "zh-Hans": "为调查东部地区而特别制作的单手\r\n剑。活用剑和盾牌，就可以发动连\r\n绵不绝的攻击。",
       "ar": "سيف وترس مصنوعان خصيصًا للبعثة.\r\nيتيحان للصياد إطلاق الهجمات\r\nدون توقف.",
+      "th": "ดาบโล่ที่สร้างมาเพื่อการสำรวจโดย\r\nเฉพาะ ทำให้ฮันเตอร์ปล่อยการโจมตี\r\nได้ไม่มีสะดุด",
       "es-419": "Espada y escudo hechos para la\r\nexpedición. Le permite a un\r\ncazador lanzar ataques sin\r\ninterrupción."
     },
     "rarity": 3,
@@ -244,6 +250,7 @@
       "zh-Hant": "希望劍Ⅳ",
       "zh-Hans": "希望之剑Ⅳ",
       "ar": "سيف الأمل 4",
+      "th": "ดาบโฮป IV",
       "es-419": "Espada esperanza IV"
     },
     "descriptions": {
@@ -254,12 +261,13 @@
       "de": "Ein speziell für die Expedition\r\nangefertigtes Schwert & Schild,\r\ndas die pausenlose Entfesslung\r\nvon Angriffen ermöglicht.",
       "es": "Espada y escudo fabricados\r\nespecialmente para la expedición.\r\nLe permite a un cazador lanzar\r\nataques sin descanso.",
       "ru": "Меч и щит, изготовленные\r\nспециально для экспедиции.\r\nТаким оружием можно\r\nатаковать безостановочно.",
-      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy wyprowadzanie\r\nataków bez przerwy.",
+      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy ciągłe\r\nwyprowadzanie ataków.",
       "pt-BR": "Espada e escudo feitos para\r\na expedição. Permite que um\r\ncaçador desfira ataques sem\r\ninterrupção.",
       "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 한손검.\r\n검과 방패를 사용하여\r\n끊임없이 공격할 수 있다.",
       "zh-Hant": "為東部地區調查特別開發的單手劍。\r\n可利用劍與盾連綿不絕攻擊。",
       "zh-Hans": "为调查东部地区而特别制作的单手\r\n剑。活用剑和盾牌，就可以发动连\r\n绵不绝的攻击。",
       "ar": "سيف وترس مصنوعان خصيصًا للبعثة.\r\nيتيحان للصياد إطلاق الهجمات\r\nدون توقف.",
+      "th": "ดาบโล่ที่สร้างมาเพื่อการสำรวจโดย\r\nเฉพาะ ทำให้ฮันเตอร์ปล่อยการโจมตี\r\nได้ไม่มีสะดุด",
       "es-419": "Espada y escudo hechos para la\r\nexpedición. Le permite a un\r\ncazador lanzar ataques sin\r\ninterrupción."
     },
     "rarity": 5,
@@ -319,6 +327,7 @@
       "zh-Hant": "希望劍Ⅴ",
       "zh-Hans": "希望之剑Ⅴ",
       "ar": "سيف الأمل 5",
+      "th": "ดาบโฮป V",
       "es-419": "Espada esperanza V"
     },
     "descriptions": {
@@ -329,12 +338,13 @@
       "de": "Ein speziell für die Expedition\r\nangefertigtes Schwert & Schild,\r\ndas die pausenlose Entfesslung\r\nvon Angriffen ermöglicht.",
       "es": "Espada y escudo fabricados\r\nespecialmente para la expedición.\r\nLe permite a un cazador lanzar\r\nataques sin descanso.",
       "ru": "Меч и щит, изготовленные\r\nспециально для экспедиции.\r\nТаким оружием можно\r\nатаковать безостановочно.",
-      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy wyprowadzanie\r\nataków bez przerwy.",
+      "pl": "Miecz i tarcza wykonane\r\nspecjalnie na potrzeby wyprawy.\r\nUmożliwiają łowcy ciągłe\r\nwyprowadzanie ataków.",
       "pt-BR": "Espada e escudo feitos para\r\na expedição. Permite que um\r\ncaçador desfira ataques sem\r\ninterrupção.",
       "ko": "동쪽 지역 조사를 위해 특별히\r\n만든 한손검.\r\n검과 방패를 사용하여\r\n끊임없이 공격할 수 있다.",
       "zh-Hant": "為東部地區調查特別開發的單手劍。\r\n可利用劍與盾連綿不絕攻擊。",
       "zh-Hans": "为调查东部地区而特别制作的单手\r\n剑。活用剑和盾牌，就可以发动连\r\n绵不绝的攻击。",
       "ar": "سيف وترس مصنوعان خصيصًا للبعثة.\r\nيتيحان للصياد إطلاق الهجمات\r\nدون توقف.",
+      "th": "ดาบโล่ที่สร้างมาเพื่อการสำรวจโดย\r\nเฉพาะ ทำให้ฮันเตอร์ปล่อยการโจมตี\r\nได้ไม่มีสะดุด",
       "es-419": "Espada y escudo hechos para la\r\nexpedición. Le permite a un\r\ncazador lanzar ataques sin\r\ninterrupción."
     },
     "rarity": 7,
@@ -395,6 +405,7 @@
       "zh-Hant": "煌雷劍Ⅰ",
       "zh-Hans": "煌雷剑Ⅰ",
       "ar": "كوارا راي 1",
+      "th": "เรย์คัวรา I",
       "es-419": "Rey Kuara I"
     },
     "descriptions": {
@@ -405,12 +416,13 @@
       "de": "Ein von Rey Daus Donner erfüll-\r\ntes Schwert & Schild, das mit\r\njedem elektrisierenden Hieb die\r\nMaterie selbst zersetzen kann.",
       "es": "Escudo y espada imbuidos\r\ncon el rayo del Rey Dau,\r\nque desintegra la materia\r\ncon cada corte galvánico.",
       "ru": "Меч и щит, заряженные грозовой\r\nэнергией рей дау. Искрящийся\r\nэлектричеством клинок расщепляет\r\nматерию при каждом взмахе.",
-      "pl": "Miecz i tarcza nasycone piorunami\r\nRey Dau, które dezintegrują\r\nmaterię każdym naelektryzowanym\r\nuderzeniem.",
+      "pl": "Miecz i tarcza naznaczone\r\npiorunami Rey Dau, niszczące\r\nmaterię z każdym elektrycznym\r\nzamachem.",
       "pt-BR": "Espada e escudo imbuídos\r\ndo trovão de Rey Dau, que\r\ndesintegram matéria a cada\r\ngolpe galvânico.",
       "ko": "레 다우의 벼락을 두른\r\n한손검. 휘두르면 발생하는\r\n고압 전류가 주변의 티끌조차\r\n녹여 버린다.",
       "zh-Hant": "帶有煌雷龍雷電的單手劍。一揮劍\r\n就會產生高壓電，連周圍每顆塵埃\r\n都會熔化。",
       "zh-Hans": "带有煌雷龙雷电的单手剑。挥舞时\r\n所产生的高压电将熔化一切，连周\r\n围的尘埃也无法幸免。",
       "ar": "سيف وترس مشبعان برعد (راي داو)،\r\nيفتتان المادة مع كل ضربة كهربائية.",
+      "th": "ดาบโล่ที่ซึมซับพลังสายฟ้าของเรย์ ดาว\r\nทุกการเหวี่ยงที่ปลดปล่อยกระแสไฟฟ้า\r\nจะสลายสสารให้ดับสูญ",
       "es-419": "Escudo y espada imbuidos con\r\nla tormenta del Rey Dau, que\r\ndesintegra la materia con\r\ncada corte galvánico."
     },
     "rarity": 3,
@@ -476,6 +488,7 @@
       "zh-Hant": "煌雷劍Ⅱ",
       "zh-Hans": "煌雷剑Ⅱ",
       "ar": "كوارا راي 2",
+      "th": "เรย์คัวรา II",
       "es-419": "Rey Kuara II"
     },
     "descriptions": {
@@ -486,12 +499,13 @@
       "de": "Ein von Rey Daus Donner erfüll-\r\ntes Schwert & Schild, das mit\r\njedem elektrisierenden Hieb die\r\nMaterie selbst zersetzen kann.",
       "es": "Escudo y espada imbuidos\r\ncon el rayo del Rey Dau,\r\nque desintegra la materia\r\ncon cada corte galvánico.",
       "ru": "Меч и щит, заряженные грозовой\r\nэнергией рей дау. Искрящийся\r\nэлектричеством клинок расщепляет\r\nматерию при каждом взмахе.",
-      "pl": "Miecz i tarcza nasycone piorunami\r\nRey Dau, które dezintegrują\r\nmaterię każdym naelektryzowanym\r\nuderzeniem.",
+      "pl": "Miecz i tarcza naznaczone\r\npiorunami Rey Dau, niszczące\r\nmaterię z każdym elektrycznym\r\nzamachem.",
       "pt-BR": "Espada e escudo imbuídos\r\ndo trovão de Rey Dau, que\r\ndesintegram matéria a cada\r\ngolpe galvânico.",
       "ko": "레 다우의 벼락을 두른\r\n한손검. 휘두르면 발생하는\r\n고압 전류가 주변의 티끌조차\r\n녹여 버린다.",
       "zh-Hant": "帶有煌雷龍雷電的單手劍。一揮劍\r\n就會產生高壓電，連周圍每顆塵埃\r\n都會熔化。",
       "zh-Hans": "带有煌雷龙雷电的单手剑。挥舞时\r\n所产生的高压电将熔化一切，连周\r\n围的尘埃也无法幸免。",
       "ar": "سيف وترس مشبعان برعد (راي داو)،\r\nيفتتان المادة مع كل ضربة كهربائية.",
+      "th": "ดาบโล่ที่ซึมซับพลังสายฟ้าของเรย์ ดาว\r\nทุกการเหวี่ยงที่ปลดปล่อยกระแสไฟฟ้า\r\nจะสลายสสารให้ดับสูญ",
       "es-419": "Escudo y espada imbuidos con\r\nla tormenta del Rey Dau, que\r\ndesintegra la materia con\r\ncada corte galvánico."
     },
     "rarity": 5,
@@ -560,6 +574,7 @@
       "zh-Hant": "煌雷劍Ⅲ",
       "zh-Hans": "煌雷剑Ⅲ",
       "ar": "كوارا راي 3",
+      "th": "เรย์คัวรา III",
       "es-419": "Rey Kuara III"
     },
     "descriptions": {
@@ -570,12 +585,13 @@
       "de": "Ein von Rey Daus Donner erfüll-\r\ntes Schwert & Schild, das mit\r\njedem elektrisierenden Hieb die\r\nMaterie selbst zersetzen kann.",
       "es": "Escudo y espada imbuidos\r\ncon el rayo del Rey Dau,\r\nque desintegra la materia\r\ncon cada corte galvánico.",
       "ru": "Меч и щит, заряженные грозовой\r\nэнергией рей дау. Искрящийся\r\nэлектричеством клинок расщепляет\r\nматерию при каждом взмахе.",
-      "pl": "Miecz i tarcza nasycone piorunami\r\nRey Dau, które dezintegrują\r\nmaterię każdym naelektryzowanym\r\nuderzeniem.",
+      "pl": "Miecz i tarcza naznaczone\r\npiorunami Rey Dau, niszczące\r\nmaterię z każdym elektrycznym\r\nzamachem.",
       "pt-BR": "Espada e escudo imbuídos\r\ndo trovão de Rey Dau, que\r\ndesintegram matéria a cada\r\ngolpe galvânico.",
       "ko": "레 다우의 벼락을 두른\r\n한손검. 휘두르면 발생하는\r\n고압 전류가 주변의 티끌조차\r\n녹여 버린다.",
       "zh-Hant": "帶有煌雷龍雷電的單手劍。一揮劍\r\n就會產生高壓電，連周圍每顆塵埃\r\n都會熔化。",
       "zh-Hans": "带有煌雷龙雷电的单手剑。挥舞时\r\n所产生的高压电将熔化一切，连周\r\n围的尘埃也无法幸免。",
       "ar": "سيف وترس مشبعان برعد (راي داو)،\r\nيفتتان المادة مع كل ضربة كهربائية.",
+      "th": "ดาบโล่ที่ซึมซับพลังสายฟ้าของเรย์ ดาว\r\nทุกการเหวี่ยงที่ปลดปล่อยกระแสไฟฟ้า\r\nจะสลายสสารให้ดับสูญ",
       "es-419": "Escudo y espada imbuidos con\r\nla tormenta del Rey Dau, que\r\ndesintegra la materia con\r\ncada corte galvánico."
     },
     "rarity": 7,
@@ -645,6 +661,7 @@
       "zh-Hant": "煌雷霹靂劍",
       "zh-Hans": "煌雷霹雳剑",
       "ar": "سيف كوارا البراق",
+      "th": "ดาบแสงคุอารา",
       "es-419": "Espada clara Kuara"
     },
     "descriptions": {
@@ -661,6 +678,7 @@
       "zh-Hant": "強化版煌雷劍。每次揮劍，閃電就會\r\n在空中飛舞，猶如在宣示自己存在。",
       "zh-Hans": "煌雷剑的强化版。每一剑挥出，便\r\n有闪电划过空中，宛如在昭示它的\r\n存在。",
       "ar": "سيف (كوارا راي) مطوَّر.\r\nمع كل وميض للنصل، يعلن عن نفسه\r\nبصيحة من البرق.",
+      "th": "เรย์คัวรารุ่นอัปเกรด ทุกครั้งที่สะบัดดาบ\r\nก็ส่งเสียงสายฟ้าฟาดดังสนั่น",
       "es-419": "Rey Kuara mejorada. Con cada\r\ndestello de la hoja, anuncio\r\nsu llegada con un estallido\r\nde rayos."
     },
     "rarity": 8,
@@ -730,6 +748,7 @@
       "zh-Hant": "銳牙星宿一Ⅰ",
       "zh-Hans": "单手剑星宿一Ⅰ",
       "ar": "سيف الناب 1",
+      "th": "ดาบนาบ I",
       "es-419": "Espada Naab I"
     },
     "descriptions": {
@@ -746,6 +765,7 @@
       "zh-Hant": "疊合千刃龍鱗片製作的單手劍。劍身\r\n有大量棘狀刀刃，能咬進目標肉體，\r\n將對象撕裂殆盡。",
       "zh-Hans": "重叠千刃龙鳞片制成的单手剑。带\r\n有许多棘状刃，可深深刺入目标的\r\n体内，撕裂其血肉。",
       "ar": "سيف مصنوع من قشور\r\n(سيرجيوس)، نصله المدبب\r\nيخترق اللحم بعمق.",
+      "th": "ดาบและโล่ที่สร้างขึ้นจากเกล็ด\r\nของเซเรกิออส ตัวดาบมีหนาม\r\nแหลมที่แทงทะลุถึงเนื้อ",
       "es-419": "Espada y escudo hechos con\r\nescamas de Seregios. Su hoja\r\ncon púas se hunde en la carne."
     },
     "rarity": 7,
@@ -807,6 +827,7 @@
       "zh-Hant": "叛牙星宿一",
       "zh-Hans": "叛牙星宿一",
       "ar": "الأنياب الوحشية",
+      "th": "เขี้ยวพิฆาต",
       "es-419": "Colmillos salvajes"
     },
     "descriptions": {
@@ -823,6 +844,7 @@
       "zh-Hant": "強化版銳牙星宿一。手持不朽革命劍\r\n之人肩負著改變世界的宿命。",
       "zh-Hans": "单手剑星宿一的强化版。手持不朽\r\n的革命剑之人，肩负着改变世界的\r\n宿命。",
       "ar": "أولئك الذين يحملون\r\nسيف الناب المُحسَّن هذا\r\nيقودون الثورات نحو النصر.",
+      "th": "ผู้ถือครองดาบนาบรุ่นปรับปรุง\r\nเล่มนี้จะนำการปฏิวัติไปสู่ชัยชนะ",
       "es-419": "Quien empuña la Espada Naab\r\nmejorada guía revoluciones\r\nhasta la victoria."
     },
     "rarity": 8,
@@ -883,6 +905,7 @@
       "zh-Hant": "生命of檢驗者Ⅰ",
       "zh-Hans": "生命of检验者Ⅰ",
       "ar": "عنخ المطارد 1",
+      "th": "ซูเคอร์อังค์ I",
       "es-419": "Ankh de rastreador I"
     },
     "descriptions": {
@@ -899,6 +922,7 @@
       "zh-Hant": "以黑蝕龍素材製作的黑劍。據說\r\n從那睜開的魔眼深處能夠窺見冥府\r\n的入口。",
       "zh-Hans": "以黑蚀龙素材锻造而成的黑剑。据\r\n说在睁开的魔眼眼底可以窥探到冥\r\n府的入口。",
       "ar": "سيف وترس (جور ماجالا) أسود.\r\nإن التحديق في عينه المفتوحة يعني إلقاء\r\nنظرة خاطفة على فوهة العالم السفلي.",
+      "th": "ดาบโล่กอร์ มากาลาสีนิล แค่\r\nจ้องมองเข้าไปในดวงตาที่เปิด\r\nอยู่ ก็เหมือนได้เห็นปากอเวจี",
       "es-419": "Espada y escudo de Gore Magala\r\nde ébano. Contemplar su ojo es\r\nver las fauces del inframundo."
     },
     "rarity": 7,
@@ -967,6 +991,7 @@
       "zh-Hant": "生命of探索者",
       "zh-Hans": "生命of探索者",
       "ar": "عنخ الصياد",
+      "th": "เยเกอร์อังค์",
       "es-419": "Ankh de explorador"
     },
     "descriptions": {
@@ -983,6 +1008,7 @@
       "zh-Hant": "生命of檢驗者的強化版。當魔眼擁有\r\n真正力量之時，其持有者將墮落為冥\r\n府的先驅。",
       "zh-Hans": "魔眼拥有真正的力量之时，持有者\r\n将堕落为冥府的先驱。生命of检验\r\n者的强化型。",
       "ar": "عنخ الصياد المطوَّر.\r\nنظرته تجبر الضعفاء على\r\nإلقاء أنفسهم في الهاوية.",
+      "th": "ซูเคอร์อังค์รุ่นอัปเกรด แค่จ้องมองก็\r\nบีบบังคับผู้ที่อ่อนแอให้พุ่งลงสู่เหวได้",
       "es-419": "Ankh de rastreador mejorado. Su\r\nmirada incita a los débiles\r\na arrojarse al abismo."
     },
     "rarity": 8,
@@ -1050,6 +1076,7 @@
       "zh-Hant": "刺花劍Ⅰ",
       "zh-Hans": "刺花短剑Ⅰ",
       "ar": "خنجر بارينا 1",
+      "th": "บารินาดากู I",
       "es-419": "Daga Barina I"
     },
     "descriptions": {
@@ -1066,6 +1093,7 @@
       "zh-Hant": "使刺花蜘蛛素材製作的麻痺屬性\r\n單手劍。跳舞般的連擊會將獵物\r\n緩緩逼入絕境。",
       "zh-Hans": "使用刺花蜘蛛素材制作的单手剑，\r\n带有麻痹属性。翩然起舞般的连击\r\n将猎物一步步逼入绝境。",
       "ar": "سيف وترس بحافة مميتة تسبب الشلل.\r\nتقع الفريسة في الفخ بسهولة بفضل\r\nهجماته الرشيقة والمستمرة.",
+      "th": "ดาบโล่ที่มีคมดาบอัมพาต ใช้ต้อน\r\nเหยื่อได้อย่างง่ายดายด้วยการโจมตี\r\nที่พลิ้วไหว แต่ไร้ปรานี",
       "es-419": "Escudo y espada de Lala Barina,\r\ncon un toque paralizante. La presa\r\nse acorrala fácilmente con sus\r\nataques gráciles pero implacables."
     },
     "rarity": 1,
@@ -1131,6 +1159,7 @@
       "zh-Hant": "刺花劍Ⅱ",
       "zh-Hans": "刺花短剑Ⅱ",
       "ar": "خنجر بارينا 2",
+      "th": "บารินาดากู II",
       "es-419": "Daga Barina II"
     },
     "descriptions": {
@@ -1147,6 +1176,7 @@
       "zh-Hant": "使刺花蜘蛛素材製作的麻痺屬性\r\n單手劍。跳舞般的連擊會將獵物\r\n緩緩逼入絕境。",
       "zh-Hans": "使用刺花蜘蛛素材制作的单手剑，\r\n带有麻痹属性。翩然起舞般的连击\r\n将猎物一步步逼入绝境。",
       "ar": "سيف وترس بحافة مميتة تسبب الشلل.\r\nتقع الفريسة في الفخ بسهولة بفضل\r\nهجماته الرشيقة والمستمرة.",
+      "th": "ดาบโล่ที่มีคมดาบอัมพาต ใช้ต้อน\r\nเหยื่อได้อย่างง่ายดายด้วยการโจมตี\r\nที่พลิ้วไหว แต่ไร้ปรานี",
       "es-419": "Escudo y espada de Lala Barina,\r\ncon un toque paralizante. La presa\r\nse acorrala fácilmente con sus\r\nataques gráciles pero implacables."
     },
     "rarity": 3,
@@ -1212,6 +1242,7 @@
       "zh-Hant": "刺花劍Ⅲ",
       "zh-Hans": "刺花短剑Ⅲ",
       "ar": "خنجر بارينا 3",
+      "th": "บารินาดากู III",
       "es-419": "Daga Barina III"
     },
     "descriptions": {
@@ -1228,6 +1259,7 @@
       "zh-Hant": "使刺花蜘蛛素材製作的麻痺屬性\r\n單手劍。跳舞般的連擊會將獵物\r\n緩緩逼入絕境。",
       "zh-Hans": "使用刺花蜘蛛素材制作的单手剑，\r\n带有麻痹属性。翩然起舞般的连击\r\n将猎物一步步逼入绝境。",
       "ar": "سيف وترس بحافة مميتة تسبب الشلل.\r\nتقع الفريسة في الفخ  بسهولة بفضل\r\nهجماته الرشيقة والمستمرة.",
+      "th": "ดาบโล่ที่มีคมดาบอัมพาต ใช้ต้อน\r\nเหยื่อได้อย่างง่ายดายด้วยการโจมตี\r\nที่พลิ้วไหว แต่ไร้ปรานี",
       "es-419": "Escudo y espada de Lala Barina,\r\ncon un toque paralizante. La presa\r\nse acorrala fácilmente con sus\r\nataques gráciles pero implacables."
     },
     "rarity": 5,
@@ -1296,6 +1328,7 @@
       "zh-Hant": "刺花劍Ⅳ",
       "zh-Hans": "刺花短剑Ⅳ",
       "ar": "خنجر بارينا 4",
+      "th": "บารินาดากู IV",
       "es-419": "Daga Barina IV"
     },
     "descriptions": {
@@ -1312,6 +1345,7 @@
       "zh-Hant": "使刺花蜘蛛素材製作的麻痺屬性\r\n單手劍。跳舞般的連擊會將獵物\r\n緩緩逼入絕境。",
       "zh-Hans": "使用刺花蜘蛛素材制作的单手剑，\r\n带有麻痹属性。翩然起舞般的连击\r\n将猎物一步步逼入绝境。",
       "ar": "سيف وترس بحافة مميتة تسبب الشلل.\r\nتقع الفريسة في الفخ بسهولة بفضل\r\nهجماته الرشيقة والمستمرة.",
+      "th": "ดาบโล่ที่มีคมดาบอัมพาต ใช้ต้อน\r\nเหยื่อได้อย่างง่ายดายด้วยการโจมตี\r\nที่พลิ้วไหว แต่ไร้ปรานี",
       "es-419": "Escudo y espada de Lala Barina,\r\ncon un toque paralizante. La presa\r\nse acorrala fácilmente con sus\r\nataques gráciles pero implacables."
     },
     "rarity": 7,
@@ -1380,6 +1414,7 @@
       "zh-Hant": "巴布蜘蛛刺花劍",
       "zh-Hans": "毒蛛刺花剑",
       "ar": "أكانثوبيلم لالا",
+      "th": "ลาลาอะแคนโทเพลม",
       "es-419": "Acanthopelma Lala"
     },
     "descriptions": {
@@ -1396,6 +1431,7 @@
       "zh-Hant": "反覆強化後的刺花劍。舞蹈會使觀眾\r\n心神動搖，失去自由，迎來人生最後\r\n一幕。",
       "zh-Hans": "多番强化后的刺花短剑。华丽的舞\r\n步令所见之人为之心神动摇，遂被\r\n夺去自由，迎来生命的终焉。",
       "ar": "خنجر (بارينا) مطوَّر.\r\nيستمتع الجمهور برقصته،\r\nفيتخلى عن حريته ويحتضن الموت.",
+      "th": "บารินาดากูรุ่นอัปเกรด ผู้ที่มองมัน\r\nต่างหลงใหลในลีลาการร่ายรำจนยอม\r\nทิ้งอิสรภาพและโอบรับความตาย",
       "es-419": "Daga Barina mejorada. Los\r\nespectadores, atraídos por su\r\ndanza, abandonan su libertad\r\ny abrazan la muerte."
     },
     "rarity": 8,
@@ -1464,6 +1500,7 @@
       "zh-Hant": "炎尾劍Ⅰ",
       "zh-Hans": "炎尾短匕Ⅰ",
       "ar": "سكين كيماتريس 1",
+      "th": "เคมาทริซคูชิลโล I",
       "es-419": "Cuchillo Quematrice I"
     },
     "descriptions": {
@@ -1474,12 +1511,13 @@
       "de": "Ein Schwert & Schild aus Quema-\r\ntrice-Teilen mit austauschbarer\r\nKlinge – nötig, denn das ständige\r\nAnzünden schädigt die Klinge.",
       "es": "Espada y escudo de Quematrice con\r\nhoja reemplazable. Útil cuando\r\ntodas sus igniciones dañan el\r\nfilo.",
       "ru": "Кематрисовые меч и щит. Оружие\r\nсо сменным клинком. Это очень\r\nудобно, ведь его поверхность\r\nбыстро чернеет от пламени.",
-      "pl": "Miecz i tarcza z Chematrice'a z\r\nwymiennym ostrzem. Przydaje się,\r\ngdy kolejne zapłony szpecą\r\npowierzchnię.",
+      "pl": "Miecz i tarcza z Chematrice'a\r\nz wymiennym ostrzem.\r\nPrzydaje się, gdy kolejne\r\nzapłony szpecą powierzchnię.",
       "pt-BR": "Espada e escudo de Quematrice\r\ncom lâmina substituível. Útil\r\nquando repetidas ignições\r\ndanificam sua superfície.",
       "ko": "케마트리스 소재 한손검.\r\n칼날은 교환할 수 있으니\r\n공격할 때 붙는 불로 그을려도\r\n걱정하지 않아도 된다.",
       "zh-Hant": "以炎尾龍素材製作的單手劍。採用\r\n可交換刀身的設計，就算因為攻擊\r\n而起火燒焦也不用擔心。",
       "zh-Hans": "使用炎尾龙素材制造的单手剑。刀\r\n身可更换，不必担心被攻击时的火\r\n焰烧焦。",
       "ar": "سيف وترس (كيماتريس) بنصل\r\nقابل للتبديل، مفيد عند إتلاف\r\nسطحه من الاشتعال المتكرر.",
+      "th": "ดาบโล่เคมาทริซ ด้วยใบมีดที่\r\nเปลี่ยนได้... ไม่ต้องกังวลแม้\r\nใบมีดถูกเผาทำลายซ้ำๆ",
       "es-419": "Escudo y espada de Quematrice\r\ncon hoja reemplazable. Útil\r\nante repetidos arranques que\r\ndañan su superficie."
     },
     "rarity": 1,
@@ -1544,6 +1582,7 @@
       "zh-Hant": "炎尾劍Ⅱ",
       "zh-Hans": "炎尾短匕Ⅱ",
       "ar": "سكين كيماتريس 2",
+      "th": "เคมาทริซคูชิลโล II",
       "es-419": "Cuchillo Quematrice II"
     },
     "descriptions": {
@@ -1554,12 +1593,13 @@
       "de": "Ein Schwert & Schild aus Quema-\r\ntrice-Teilen mit austauschbarer\r\nKlinge – nötig, denn das ständige\r\nAnzünden schädigt die Klinge.",
       "es": "Espada y escudo de Quematrice con\r\nhoja reemplazable. Útil cuando\r\ntodas sus igniciones dañan el\r\nfilo.",
       "ru": "Кематрисовые меч и щит. Оружие\r\nсо сменным клинком. Это очень\r\nудобно, ведь его поверхность\r\nбыстро чернеет от пламени.",
-      "pl": "Miecz i tarcza z Chematrice'a z\r\nwymiennym ostrzem. Przydaje się,\r\ngdy kolejne zapłony szpecą\r\npowierzchnię.",
+      "pl": "Miecz i tarcza z Chematrice'a\r\nz wymiennym ostrzem.\r\nPrzydaje się, gdy kolejne\r\nzapłony szpecą powierzchnię.",
       "pt-BR": "Espada e escudo de Quematrice\r\ncom lâmina substituível. Útil\r\nquando repetidas ignições\r\ndanificam sua superfície.",
       "ko": "케마트리스 소재 한손검.\r\n칼날은 교환할 수 있으니\r\n공격할 때 붙는 불로 그을려도\r\n걱정하지 않아도 된다.",
       "zh-Hant": "以炎尾龍素材製作的單手劍。採用\r\n可交換刀身的設計，就算因為攻擊\r\n而起火燒焦也不用擔心。",
       "zh-Hans": "使用炎尾龙素材制造的单手剑。刀\r\n身可更换，不必担心被攻击时的火\r\n焰烧焦。",
       "ar": "سيف وترس (كيماتريس) بنصل\r\nقابل للتبديل، مفيد عند إتلاف\r\nسطحه من الاشتعال المتكرر.",
+      "th": "ดาบโล่เคมาทริซ ด้วยใบมีดที่\r\nเปลี่ยนได้... ไม่ต้องกังวลแม้\r\nใบมีดถูกเผาทำลายซ้ำๆ",
       "es-419": "Escudo y espada de Quematrice\r\ncon hoja reemplazable. Útil\r\nante repetidos arranques que\r\ndañan su superficie."
     },
     "rarity": 3,
@@ -1624,6 +1664,7 @@
       "zh-Hant": "炎尾劍Ⅲ",
       "zh-Hans": "炎尾短匕Ⅲ",
       "ar": "سكين كيماتريس 3",
+      "th": "เคมาทริซคูชิลโล III",
       "es-419": "Cuchillo Quematrice III"
     },
     "descriptions": {
@@ -1634,12 +1675,13 @@
       "de": "Ein Schwert & Schild aus Quema-\r\ntrice-Teilen mit austauschbarer\r\nKlinge – nötig, denn das ständige\r\nAnzünden schädigt die Klinge.",
       "es": "Espada y escudo de Quematrice con\r\nhoja reemplazable. Útil cuando\r\ntodas sus igniciones dañan el\r\nfilo.",
       "ru": "Кематрисовые меч и щит. Оружие\r\nсо сменным клинком. Это очень\r\nудобно, ведь его поверхность\r\nбыстро чернеет от пламени.",
-      "pl": "Miecz i tarcza z Chematrice'a z\r\nwymiennym ostrzem. Przydaje się,\r\ngdy kolejne zapłony szpecą\r\npowierzchnię.",
+      "pl": "Miecz i tarcza z Chematrice'a\r\nz wymiennym ostrzem.\r\nPrzydaje się, gdy kolejne\r\nzapłony szpecą powierzchnię.",
       "pt-BR": "Espada e escudo de Quematrice\r\ncom lâmina substituível. Útil\r\nquando repetidas ignições\r\ndanificam sua superfície.",
       "ko": "케마트리스 소재 한손검.\r\n칼날은 교환할 수 있으니\r\n공격할 때 붙는 불로 그을려도\r\n걱정하지 않아도 된다.",
       "zh-Hant": "以炎尾龍素材製作的單手劍。採用\r\n可交換刀身的設計，就算因為攻擊\r\n而起火燒焦也不用擔心。",
       "zh-Hans": "使用炎尾龙素材制造的单手剑。刀\r\n身可更换，不必担心被攻击时的火\r\n焰烧焦。",
       "ar": "سيف وترس (كيماتريس) بنصل\r\nقابل للتبديل، مفيد عند إتلاف\r\nسطحه من الاشتعال المتكرر.",
+      "th": "ดาบโล่เคมาทริซ ด้วยใบมีดที่\r\nเปลี่ยนได้... ไม่ต้องกังวลแม้\r\nใบมีดถูกเผาทำลายซ้ำๆ",
       "es-419": "Escudo y espada de Quematrice\r\ncon hoja reemplazable. Útil\r\nante repetidos arranques que\r\ndañan su superficie."
     },
     "rarity": 5,
@@ -1707,6 +1749,7 @@
       "zh-Hant": "炎尾劍Ⅳ",
       "zh-Hans": "炎尾短匕Ⅳ",
       "ar": "سكين كيماتريس 4",
+      "th": "เคมาทริซคูชิลโล IV",
       "es-419": "Cuchillo Quematrice IV"
     },
     "descriptions": {
@@ -1717,12 +1760,13 @@
       "de": "Ein Schwert & Schild aus Quema-\r\ntrice-Teilen mit austauschbarer\r\nKlinge – nötig, denn das ständige\r\nAnzünden schädigt die Klinge.",
       "es": "Espada y escudo de Quematrice con\r\nhoja reemplazable. Útil cuando\r\ntodas sus igniciones dañan el\r\nfilo.",
       "ru": "Кематрисовые меч и щит. Оружие\r\nсо сменным клинком. Это очень\r\nудобно, ведь его поверхность\r\nбыстро чернеет от пламени.",
-      "pl": "Miecz i tarcza z Chematrice'a z\r\nwymiennym ostrzem. Przydaje się,\r\ngdy kolejne zapłony szpecą\r\npowierzchnię.",
+      "pl": "Miecz i tarcza z Chematrice'a\r\nz wymiennym ostrzem.\r\nPrzydaje się, gdy kolejne\r\nzapłony szpecą powierzchnię.",
       "pt-BR": "Espada e escudo de Quematrice\r\ncom lâmina substituível. Útil\r\nquando repetidas ignições\r\ndanificam sua superfície.",
       "ko": "케마트리스 소재 한손검.\r\n칼날은 교환할 수 있으니\r\n공격할 때 붙는 불로 그을려도\r\n걱정하지 않아도 된다.",
       "zh-Hant": "以炎尾龍素材製作的單手劍。採用\r\n可交換刀身的設計，就算因為攻擊\r\n而起火燒焦也不用擔心。",
       "zh-Hans": "使用炎尾龙素材制造的单手剑。刀\r\n身可更换，不必担心被攻击时的火\r\n焰烧焦。",
       "ar": "سيف وترس (كيماتريس) بنصل\r\nقابل للتبديل، مفيد عند إتلاف\r\nسطحه من الاشتعال المتكرر.",
+      "th": "ดาบโล่เคมาทริซ ด้วยใบมีดที่\r\nเปลี่ยนได้... ไม่ต้องกังวลแม้\r\nใบมีดถูกเผาทำลายซ้ำๆ",
       "es-419": "Escudo y espada de Quematrice\r\ncon hoja reemplazable. Útil\r\nante repetidos arranques que\r\ndañan su superficie."
     },
     "rarity": 7,
@@ -1791,6 +1835,7 @@
       "zh-Hant": "炎尾火爐劍",
       "zh-Hans": "火灶炎尾剑",
       "ar": "فورناكس الذيل الناري",
+      "th": "ฟอร์แนกซ์ธารอัคคี",
       "es-419": "Fornax de fuego"
     },
     "descriptions": {
@@ -1807,6 +1852,7 @@
       "zh-Hant": "聽取使用者的意見後改良的炎尾劍。\r\n盾與劍的連擊帶來的灼熱火焰會燒盡\r\n萬物。",
       "zh-Hans": "听取使用者的意见进行了改良的炎\r\n尾龙短匕。盾与剑连击产生灼热火\r\n焰会燃尽一切。",
       "ar": "خنجر (كيماتريس) مطوَّر.\r\nحصل مالكوه على ما طلبوه:\r\nعواصف أكثر سخونة، ودمار أشد حرارة.",
+      "th": "เคมาทริซคูชิลโลรุ่นอัปเกรด ผู้ใช้\r\nได้สิ่งที่ร้องขอ นั่นคือการโจมตีรัวที่\r\nร้อนแรงกว่าเดิมและการทำลายล้าง\r\nแผดเผายิ่งขึ้น",
       "es-419": "Cuchillo Quematrice mejorado.\r\nLos dueños tienen lo que\r\npidieron: ráfagas más llameantes\r\ny una carnicería más abrasadora."
     },
     "rarity": 8,
@@ -1874,6 +1920,7 @@
       "zh-Hant": "鎧龍西福斯Ⅰ",
       "zh-Hans": "铠龙重剑Ⅰ",
       "ar": "غرافيوس سيفوس 1",
+      "th": "กราวิออสไซฟอส I",
       "es-419": "Xifos de Gravios I"
     },
     "descriptions": {
@@ -1890,6 +1937,7 @@
       "zh-Hant": "充滿憤怒的白刃爆劍。沉重巨大的\r\n身影與住在火山的白龍如出一轍。",
       "zh-Hans": "充斥着愤怒的白刃爆剑。沉重巨大\r\n的身影与住在火山的白龙如出一辙。",
       "ar": "سيف ذو خصائص انفجارية.\r\nضخم وأبيض اللون من شدة قوته\r\nيبدو وكأنه خرج من بركان.",
+      "th": "ดาบที่มีคุณสมบัติระเบิด มโหฬาร\r\nและขาวโพลนด้วยความเดือดดาล\r\nราวกับเพิ่งถูกควักออกมาจากปาก\r\nปล่องภูเขาไฟ",
       "es-419": "Una espada con propiedades nitro.\r\nTan gigante y llena de furia,\r\nparece como salida de un volcán."
     },
     "rarity": 6,
@@ -1958,6 +2006,7 @@
       "zh-Hant": "重劍泰坦",
       "zh-Hans": "泰坦重剑",
       "ar": "سلاح العملاق",
+      "th": "ศาสตราไททัน",
       "es-419": "Armamento de titán"
     },
     "descriptions": {
@@ -1968,12 +2017,13 @@
       "de": "Verbessertes Gravios-Syphos. Je-\r\nder Hieb löst eine Explosion aus,\r\nwährend der schwere Schild abso-\r\nluten Schutz bietet.",
       "es": "Xifos Gravios mejorado. Cada\r\ngolpe genera una explosión\r\ny el escudo proporciona\r\nuna absoluta defensa.",
       "ru": "Улучшенный «Гравиосовый Cифос».\r\nКаждый удар вызывает взрыв,\r\nа тяжёлый щит даёт идеальную\r\nзащиту.",
-      "pl": "Ulepszony syfos z Graviosa.\r\nKażde uderzenie powoduje\r\nwybuch, a ciężka tarcza zapewnia\r\ncałkowitą obronę.",
+      "pl": "Ulepszony syfos z Graviosa.\r\nKażde uderzenie powoduje\r\nwybuch, a ciężka tarcza\r\nzapewnia całkowitą obronę.",
       "pt-BR": "Xifo de Gravios melhorado.\r\nCada golpe gera uma explosão,\r\ne o escudo pesado esbanja da\r\ndefesa absoluta.",
       "ko": "그라비드사이포스의 강화형.\r\n검격은 폭파를 일으키고,\r\n중후한 방패는 절대적인\r\n방어를 가능케 한다.",
       "zh-Hant": "強化版鎧龍西福斯。揮舞巨劍攻擊\r\n便能引發爆炸，盾牌則厚重無比，\r\n有絕對的防禦力。",
       "zh-Hans": "铠龙重剑的强化版。剑击可引发爆\r\n炸，厚重的盾牌则有着绝对的防御\r\n力。",
       "ar": "(غرافيوس سيفوس) مطوَّر.\r\nينتج عن كل ضربة انفجارًا\r\nويمنح الترس الثقيل دفاعًا مطلقًا.",
+      "th": "กราวิออสไซฟอสรุ่นอัปเกรด ทุกการ\r\nโจมตีจะเกิดการระเบิด ขณะที่โล่อันหนัก\r\nอึ้งก็จะมอบการป้องกันที่สมบูรณ์แบบ",
       "es-419": "Un Xifos de Gravios mejorado.\r\nCada golpe genera una explosión\r\ny el escudo ofrece una defensa\r\ninquebrantable."
     },
     "rarity": 8,
@@ -2041,6 +2091,7 @@
       "zh-Hant": "初萌鐵劍Ⅰ",
       "zh-Hans": "青年铁剑Ⅰ",
       "ar": "المضرب الحديدي 1",
+      "th": "ดาบหัวตัดเหล็ก I",
       "es-419": "Machacadora férrea I"
     },
     "descriptions": {
@@ -2057,6 +2108,7 @@
       "zh-Hant": "年輕工匠在實習時打造的鐵劍。\r\n雖然較為粗糙，但不影響使用。\r\n祝願前途光明的工匠發展順利！",
       "zh-Hans": "年轻工匠在学习时制造的铁剑。还\r\n是略显粗糙，但足够实用。愿这些\r\n工匠们学有所成！",
       "ar": "سيف ودرع حديدي صنعه حرفي شاب.\r\nخام، ولكن مثل صانعه، يبدو واعدًا جدًا.",
+      "th": "ดาบโล่เหล็กที่ช่างฝีมือรุ่นเยาว์สร้างขึ้น\r\nถึงจะดูหยาบกร้าน แต่ก็มีแววเฉกเช่น\r\nผู้สร้างมัน",
       "es-419": "Espada y escudo de hierro\r\nhechos por un artesano joven.\r\nRudimentarios pero, como quien\r\nlos hizo, prometen mucho."
     },
     "rarity": 2,
@@ -2113,6 +2165,7 @@
       "zh-Hant": "初萌鐵劍Ⅱ",
       "zh-Hans": "青年铁剑Ⅱ",
       "ar": "المضرب الحديدي 2",
+      "th": "ดาบหัวตัดเหล็ก II",
       "es-419": "Machacadora férrea II"
     },
     "descriptions": {
@@ -2129,6 +2182,7 @@
       "zh-Hant": "年輕工匠在實習時打造的鐵劍。\r\n雖然較為粗糙，但不影響使用。\r\n祝願前途光明的工匠發展順利！",
       "zh-Hans": "年轻工匠在学习时制造的铁剑。还\r\n是略显粗糙，但足够实用。愿这些\r\n工匠们学有所成！",
       "ar": "سيف ودرع حديدي صنعه حرفي شاب.\r\nخام، ولكن مثل صانعه، يبدو واعدًا جدًا.",
+      "th": "ดาบโล่เหล็กที่ช่างฝีมือรุ่นเยาว์สร้างขึ้น\r\nถึงจะดูหยาบกร้าน แต่ก็มีแววเฉกเช่น\r\nผู้สร้างมัน",
       "es-419": "Espada y escudo de hierro\r\nhechos por un artesano joven.\r\nRudimentarios pero, como quien\r\nlos hizo, prometen mucho."
     },
     "rarity": 4,
@@ -2187,6 +2241,7 @@
       "zh-Hant": "初萌鐵劍Ⅲ",
       "zh-Hans": "青年铁剑Ⅲ",
       "ar": "المضرب الحديدي 3",
+      "th": "ดาบหัวตัดเหล็ก III",
       "es-419": "Machacadora férrea III"
     },
     "descriptions": {
@@ -2203,6 +2258,7 @@
       "zh-Hant": "年輕工匠在實習時打造的鐵劍。\r\n雖然較為粗糙，但不影響使用。\r\n祝願前途光明的工匠發展順利！",
       "zh-Hans": "年轻工匠在学习时制造的铁剑。还\r\n是略显粗糙，但足够实用。愿这些\r\n工匠们学有所成！",
       "ar": "سيف ودرع حديدي صنعه حرفي شاب.\r\nخام، ولكن مثل صانعه، يبدو واعدًا جدًا.",
+      "th": "ดาบโล่เหล็กที่ช่างฝีมือรุ่นเยาว์สร้างขึ้น\r\nถึงจะดูหยาบกร้าน แต่ก็มีแววเฉกเช่น\r\nผู้สร้างมัน",
       "es-419": "Espada y escudo de hierro\r\nhechos por un artesano joven.\r\nRudimentarios pero, como quien\r\nlos hizo, prometen mucho."
     },
     "rarity": 6,
@@ -2264,6 +2320,7 @@
       "zh-Hant": "花開重鐵劍",
       "zh-Hans": "成才重铁剑",
       "ar": "فخر ورشة الحدادة",
+      "th": "ศักดิ์ศรีช่างตีเหล็ก",
       "es-419": "Orgullo de herrero"
     },
     "descriptions": {
@@ -2280,6 +2337,7 @@
       "zh-Hant": "某位年輕工匠打造的粗糙之劍，\r\n稍以加工後便出現驚人的進化。\r\n沉睡的才能將開花結果……！？",
       "zh-Hans": "某个年轻工匠所造的粗糙铁剑，稍\r\n经加工就产生了惊人的变化。莫非\r\n是沉睡的才能显现……？！",
       "ar": "يبدو أن الحِرفي الصغير\r\nأصبح متمرسًا!\r\nفهذا النصل أخّاذ!",
+      "th": "แค่ปรับแต่งเตาหลอมเพียงเล็ก\r\nน้อย ดาบหัวตัดเหล็กที่หยาบ\r\nกร้านก็เผยศักยภาพอันน่าทึ่งเฉก\r\nเช่นผู้สร้างของมัน",
       "es-419": "Con unos pocos retoques en la\r\nforja, la tosca Machacadora férrea\r\nha revelado, al igual que su\r\ncreador, un potencial asombroso."
     },
     "rarity": 8,
@@ -2339,6 +2397,7 @@
       "zh-Hant": "凍峰金屬杖Ⅰ",
       "zh-Hans": "冻峰金属杖Ⅰ",
       "ar": "جين دهكلاب 1",
+      "th": "จินดาคลาบ I",
       "es-419": "Jin Dhaklab I"
     },
     "descriptions": {
@@ -2349,12 +2408,13 @@
       "de": "Ein Schwert & Schild aus Jin-\r\nDahaad-Material. Die seltsame\r\nForm erklärt den eisigen Biss.",
       "es": "Espada y escudo de Jin Dahaad.\r\nTiene varias capas de hojas,\r\nlo que mejora su gélido ataque\r\ny le da un aspecto peculiar.",
       "ru": "Меч и щит из джина дахаада.\r\nКлинок создан многослойным для\r\nпридания ему замораживающих\r\nсвойств и выглядит необычно.",
-      "pl": "Miecz i tarcza z Jin Dahaada.\r\nNawarstwienie ostrzy w celu\r\nwyostrzenia ich mroźnego ciosu,\r\nzaowocowało osobliwym kształtem.",
+      "pl": "Miecz i tarcza z Jin Dahaada.\r\nNawarstwione ostrza wzmacniają\r\nmroźny cios broni, nadając jej\r\nosobliwy kształt.",
       "pt-BR": "Espada e escudo de Jin Dahaad.\r\nLâminas em camadas aumentam\r\no ataque frígido e geram seu\r\nformato incomum.",
       "ko": "진 다하드의 얼어붙는 한손검.\r\n소재의 냉기를 살리기 위해\r\n날을 겹겹이 쌓았고, 그 결과\r\n특수한 모양이 만들어졌다.",
       "zh-Hant": "凍峰龍的凍結單手劍。為發揮素材的\r\n寒氣而疊合多重劍刃後，形成了特殊\r\n的形狀。",
       "zh-Hans": "冻峰龙的冻结单手剑。为发挥素材\r\n的寒气而叠合多重剑刃后，形成了\r\n特殊的形状。",
       "ar": "سيف وترس (جين دهاد). أدى وضع\r\nطبقات من النصال لشحذ لسعتهما\r\nالمجمدة إلى هذا الشكل غير المعتاد.",
+      "th": "ดาบโล่จิน ดาฮาด เกิดจากการซ้อนทับ\r\nใบมีด เพื่อเพิ่มความเยือกแข็งให้กัด\r\nกร่อนจนเกิดเป็นรูปทรงที่แปลกตา",
       "es-419": "Una espada y escudo de Jin\r\nDahaad. Las hojas ensambladas\r\npara afilar su mordida le dieron\r\nesta forma inusual."
     },
     "rarity": 7,
@@ -2423,6 +2483,7 @@
       "zh-Hant": "斷崖金屬杖",
       "zh-Hans": "断崖金属杖",
       "ar": "هاوية ماتيبترو",
+      "th": "มาเทปโทรเงื้อมผา",
       "es-419": "Precipicio Mateptro"
     },
     "descriptions": {
@@ -2439,6 +2500,7 @@
       "zh-Hant": "強化版凍峰金屬杖。超低溫的杖刃\r\n會持續奪走獵物的熱能，無人能抵\r\n禦其帶來的極寒。",
       "zh-Hans": "强化之后的冻峰金属杖。超低温的\r\n刀刃能不断夺走猎物的体温，没有\r\n任何生物能抵挡随之而来的极寒。",
       "ar": "(جين دهكلاب) مطوَّر. يمحو نصله\r\nكل الدفء، ولا يخلف سوى البرودة الشديدة\r\nالتي لا يمكن لأي مخلوق الصمود أمامها.",
+      "th": "จินดาคลาบรุ่นอัปเกรด ใบมีดที่จะขับไล่\r\nความอบอุ่นทั้งปวง เหลือไว้เพียงความ\r\nเย็นเยียบขมขื่นที่ไม่มีสิ่งมีชีวิตใดทนไหว",
       "es-419": "Un Jin Dhaklab mejorado.\r\nSu hoja elimina toda calidez,\r\npara solo dejar un frío glacial\r\nque todo lo mata."
     },
     "rarity": 8,
@@ -2506,6 +2568,7 @@
       "zh-Hant": "白斑火龍銳劍Ⅰ",
       "zh-Hans": "白炎之刃Ⅰ",
       "ar": "شفرة ألبيراث 1",
+      "th": "อัลบิราธเอดจ์ I",
       "es-419": "Filo de Albirath I"
     },
     "descriptions": {
@@ -2522,6 +2585,7 @@
       "zh-Hant": "以護火龍素材製作的單手劍。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙素材制作的单手剑。能带\r\n给持有者如熊熊烈火一般绝不屈服\r\n的斗志。",
       "ar": "سيف وترس (راثالوس) حارس.\r\nروح حاملهما كنار متأججة\r\nلا تخبو أبدًا.",
+      "th": "ดาบโล่การ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟที่ลุกโชนให้แก่ผู้ใช้",
       "es-419": "Espada y escudo de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 4,
@@ -2590,6 +2654,7 @@
       "zh-Hant": "白斑火龍銳劍Ⅱ",
       "zh-Hans": "白炎之刃Ⅱ",
       "ar": "شفرة ألبيراث 2",
+      "th": "อัลบิราธเอดจ์ II",
       "es-419": "Filo de Albirath II"
     },
     "descriptions": {
@@ -2606,6 +2671,7 @@
       "zh-Hant": "以護火龍素材製作的單手劍。會為持\r\n有者帶來如熊熊燃燒烈焰般決不放棄\r\n的鬥志。",
       "zh-Hans": "以护火龙素材制作的单手剑。能带\r\n给持有者如熊熊烈火一般绝不屈服\r\n的斗志。",
       "ar": "سيف وترس (راثالوس) حارس.\r\nروح حاملهما كنار متأججة\r\nلا تخبو أبدًا.",
+      "th": "ดาบโล่การ์เดียนราธาลอส\r\nมอบจิตวิญญาณที่ไม่เคยมอดดับ\r\nดุจเปลวไฟที่ลุกโชนให้แก่ผู้ใช้",
       "es-419": "Espada y escudo de Rathalos\r\nGuardián. Al igual que una\r\nllama abrasadora, el espíritu\r\ndel portador jamás cede."
     },
     "rarity": 6,
@@ -2675,6 +2741,7 @@
       "zh-Hant": "熾熔銳劍",
       "zh-Hans": "熔白之刃",
       "ar": "نقطة الإذابة",
+      "th": "จุดหลอมละลาย",
       "es-419": "Punto de fusión"
     },
     "descriptions": {
@@ -2691,6 +2758,7 @@
       "zh-Hant": "強化版白斑火龍銳劍。在皓白之力\r\n的奔流中能感受到王者的榮耀與高尚\r\n的氣魄。",
       "zh-Hans": "强化后的白炎之刃。在皓白之力的\r\n涌流中，可以感受到高贵的王者之\r\n魂。",
       "ar": "شفرة (ألبيراث) مطوَّرة.\r\nتقبع روح راقية وسط\r\nفيض قوتها الخالصة.",
+      "th": "อัลบิราธเอดจ์รุ่นอัปเกรด\r\nจิตวิญญาณอันสูงส่งสถิตอยู่\r\nภายในกระแสพลังอันยิ่งใหญ่\r\nและบริสุทธิ์",
       "es-419": "Versión mejorada de Filo de\r\nAlbirath. Hay un alma digna\r\nde la realeza en su\r\ninmaculado flujo de potencia."
     },
     "rarity": 8,
@@ -2759,6 +2827,7 @@
       "zh-Hant": "炙熱銳劍Ⅰ",
       "zh-Hans": "炙热锐剑Ⅰ",
       "ar": "الحد المشتعل 1",
+      "th": "ฮีทเอดจ์ I",
       "es-419": "Filo cálido I"
     },
     "descriptions": {
@@ -2775,6 +2844,7 @@
       "zh-Hant": "火龍的單手劍。刀身蘊藏著火龍的\r\n炎之力，隨時都帶著淡淡的紅色。",
       "zh-Hans": "火龙的单手剑。剑身蕴含火龙的炎\r\n之力，总是散发着淡淡的红光。",
       "ar": "هذا النصل من فئة السيف والترس\r\nيتوهج احمرارًا دائمًا،\r\nويحمل بداخله لهب راثالوس.",
+      "th": "ดาบโล่ราธาลอส คมดาบสีชาดที่\r\nส่องแสงเรืองรองด้วยเพลิงไวเวิร์นนั้น\r\nไม่มีวันหมองมัว",
       "es-419": "Una espada y escudo de\r\nRathalos. El rojo de su hoja,\r\nresplandeciente con el fuego\r\ndel wyvern, nunca se apaga."
     },
     "rarity": 6,
@@ -2844,6 +2914,7 @@
       "zh-Hant": "日冕短劍",
       "zh-Hans": "日冕短剑",
       "ar": "كورونا",
+      "th": "โคโลนา",
       "es-419": "Corona"
     },
     "descriptions": {
@@ -2860,6 +2931,7 @@
       "zh-Hant": "昇華為利刃的炙熱銳劍強化版。\r\n成功發揮了素材的潛力，使火焰\r\n的威力更上一層樓。",
       "zh-Hans": "升华为精湛利刃的炙热锐剑强化版。\r\n激发了素材的全部潜力，进一步提\r\n高了火焰的威力。",
       "ar": "النسخة المحسنة من الحد المشتعل،\r\nوهي قطعة تستغل كل جزء\r\nمن القوة الحارقة الكامنة في المواد.",
+      "th": "ฮีทเอดจ์รุ่นปรับปรุง ผลงานที่ดึงเอาพลัง\r\nเพลิงที่แฝงอยู่ในวัตถุดิบทุกชิ้นออกมา\r\nใช้จนหมดสิ้น",
       "es-419": "Filo cálido mejorado.\r\nPosee hasta el último atisbo\r\ndel poder incendiario de sus\r\nelementos."
     },
     "rarity": 8,
@@ -2927,6 +2999,7 @@
       "zh-Hant": "公主細劍Ⅰ",
       "zh-Hans": "公主细剑Ⅰ",
       "ar": "سيف مبارزة الأميرة 1",
+      "th": "เรเปียร์องค์หญิง I",
       "es-419": "Estoque de princesa I"
     },
     "descriptions": {
@@ -2943,6 +3016,7 @@
       "zh-Hant": "以雌火龍素材製作的劍。是毒系\r\n單手劍系列的最新款，性能極為\r\n穩定。",
       "zh-Hans": "用雌火龙素材加工而成的剑，是毒\r\n系单手剑系列的最新型号。性能极\r\n为稳定。",
       "ar": "سلاح مصنوع من راثيان\r\nفعال على نحو مطمئن، وهو الأحدث\r\nفي أسلحة السيف والدرع السامة.",
+      "th": "อาวุธราเธียนที่เปี่ยมประสิทธิภาพ\r\nและไว้ใจได้ชิ้นนี้ คือสุดยอดอาวุธ\r\nพิษล่าสุดในตระกูลดาบโล่",
       "es-419": "Eficaz como pocas, esta arma\r\nde Rathian es lo último en\r\nespada y escudo venenosos."
     },
     "rarity": 5,
@@ -3013,6 +3087,7 @@
       "zh-Hant": "公主細劍Ⅱ",
       "zh-Hans": "公主细剑Ⅱ",
       "ar": "سيف مبارزة الأميرة 2",
+      "th": "เรเปียร์องค์หญิง II",
       "es-419": "Estoque de princesa II"
     },
     "descriptions": {
@@ -3029,6 +3104,7 @@
       "zh-Hant": "以雌火龍素材製作的劍。是毒系\r\n單手劍系列的最新款，性能極為\r\n穩定。",
       "zh-Hans": "用雌火龙素材加工而成的剑，是毒\r\n系单手剑系列的最新型号。性能极\r\n为稳定。",
       "ar": "سلاح مصنوع من راثيان\r\nفعال على نحو مطمئن، وهو الأحدث\r\nفي أسلحة السيف والدرع السامة.",
+      "th": "อาวุธราเธียนที่เปี่ยมประสิทธิภาพ\r\nและไว้ใจได้ชิ้นนี้ คือสุดยอดอาวุธ\r\nพิษล่าสุดในตระกูลดาบโล่",
       "es-419": "Eficaz como pocas, esta arma\r\nde Rathian es lo último en\r\nespada y escudo venenosos."
     },
     "rarity": 7,
@@ -3098,6 +3174,7 @@
       "zh-Hant": "女王細劍",
       "zh-Hans": "女王细剑",
       "ar": "سيف مبارزة الملكة",
+      "th": "เรเปียร์ราชินี",
       "es-419": "Estoque reina"
     },
     "descriptions": {
@@ -3114,6 +3191,7 @@
       "zh-Hant": "強化版公主細劍。會讓敗於女王劍下\r\n之人跪地叩首，頓悟自己的愚昧。",
       "zh-Hans": "败于女王剑下之人将跪地叩首，痛\r\n悟自己的愚昧。公主细剑的强化形\r\n态。",
       "ar": "نسخة مطورة من سيف مبارزة الأميرة.\r\nسيعرف أولئك الذين تصيبهم\r\nضرباته كم هم وضيعون.",
+      "th": "เรเปียร์องค์หญิงรุ่นอัปเกรด แค่\r\nโจมตีเพียงครั้งเดียวก็เพียงพอที่จะ\r\nทำให้ผู้ท้าทายคุกเข่ายอมจำนนได้",
       "es-419": "Forma mejorada del Estoque de\r\nprincesa. Un golpe suyo basta\r\npara doblegar las rodillas y las\r\nvoluntades de los desafiantes."
     },
     "rarity": 8,
@@ -3181,6 +3259,7 @@
       "zh-Hant": "影蜘蛛鱗劍Ⅰ",
       "zh-Hans": "影蜘蛛盾剑Ⅰ",
       "ar": "سيف المخلب 1",
+      "th": "ดาบสเกลี I",
       "es-419": "Espada de escamas I"
     },
     "descriptions": {
@@ -3197,6 +3276,7 @@
       "zh-Hant": "精心磨細影蜘蛛的爪製成的單手劍。\r\n劍刃雖薄卻堅韌無比，能輕鬆切開\r\n獵物。",
       "zh-Hans": "用影蜘蛛的爪精心削制而成的单手\r\n剑。其薄刃强韧得令人难以置信，\r\n可轻松斩开猎物。",
       "ar": "مخلب (نيرسكيلا) المنحوت بدقة\r\nيمنح هذا النصل الرفيع من فئة\r\nالسيف والترس المتانة والقوة\r\nبشكل مدهش.",
+      "th": "กรงเล็บเนอร์ซิลลาที่สลักมาอย่าง\r\nประณีต ช่วยให้ใบมีดบางเฉียบ\r\nของดาบโล่นี้มีความทนทานและ\r\nคมกริบเกินคาด",
       "es-419": "Una garra de Nerscylla finamente\r\ntallada confiere a la hoja de esta\r\nespada y escudo una durabilidad y\r\nun agarre sorprendentes."
     },
     "rarity": 3,
@@ -3262,6 +3342,7 @@
       "zh-Hant": "影蜘蛛鱗劍Ⅱ",
       "zh-Hans": "影蜘蛛盾剑Ⅱ",
       "ar": "سيف المخلب 2",
+      "th": "ดาบสเกลี II",
       "es-419": "Espada de escamas II"
     },
     "descriptions": {
@@ -3278,6 +3359,7 @@
       "zh-Hant": "精心磨細影蜘蛛的爪製成的單手劍。\r\n劍刃雖薄卻堅韌無比，能輕鬆切開\r\n獵物。",
       "zh-Hans": "用影蜘蛛的爪精心削制而成的单手\r\n剑。其薄刃强韧得令人难以置信，\r\n可轻松斩开猎物。",
       "ar": "مخلب (نيرسكيلا) المنحوت بدقة\r\nيمنح هذا النصل الرفيع من فئة\r\nالسيف والترس المتانة والقوة\r\nبشكل مدهش.",
+      "th": "กรงเล็บเนอร์ซิลลาที่สลักมาอย่าง\r\nประณีต ช่วยให้ใบมีดบางเฉียบ\r\nของดาบโล่นี้มีความทนทานและ\r\nคมกริบเกินคาด",
       "es-419": "Una garra de Nerscylla finamente\r\ntallada confiere a la hoja de esta\r\nespada y escudo una durabilidad y\r\nun agarre sorprendentes."
     },
     "rarity": 5,
@@ -3345,6 +3427,7 @@
       "zh-Hant": "影蜘蛛鱗劍Ⅲ",
       "zh-Hans": "影蜘蛛盾剑Ⅲ",
       "ar": "سيف المخلب 3",
+      "th": "ดาบสเกลี III",
       "es-419": "Espada de escamas III"
     },
     "descriptions": {
@@ -3361,6 +3444,7 @@
       "zh-Hant": "精心磨細影蜘蛛的爪製成的單手劍。\r\n劍刃雖薄卻堅韌無比，能輕鬆切開\r\n獵物。",
       "zh-Hans": "用影蜘蛛的爪精心削制而成的单手\r\n剑。其薄刃强韧得令人难以置信，\r\n可轻松斩开猎物。",
       "ar": "مخلب (نيرسكيلا) المنحوت بدقة\r\nيمنح هذا النصل الرفيع من فئة\r\nالسيف والترس المتانة والقوة\r\nبشكل مدهش.",
+      "th": "กรงเล็บเนอร์ซิลลาที่สลักมาอย่าง\r\nประณีต ช่วยให้ใบมีดบางเฉียบ\r\nของดาบโล่นี้มีความทนทานและ\r\nคมกริบเกินคาด",
       "es-419": "Una garra de Nerscylla finamente\r\ntallada confiere a la hoja de esta\r\nespada y escudo una durabilidad y\r\nun agarre sorprendentes."
     },
     "rarity": 7,
@@ -3429,6 +3513,7 @@
       "zh-Hant": "影蜘蛛盾刃",
       "zh-Hans": "影蜘蛛之剑",
       "ar": "المخلب القاتل",
+      "th": "เนอร์สกิลเลอร์",
       "es-419": "Nerjecutora"
     },
     "descriptions": {
@@ -3445,6 +3530,7 @@
       "zh-Hant": "影蜘蛛鱗劍的強化版。充滿彈性的\r\n彎曲刀刃能滑入飛龍甲殼的縫隙，\r\n刺進肉身。",
       "zh-Hans": "影蜘蛛盾剑的强化版。剑刃极为柔\r\n韧，可滑入飞龙甲壳的缝隙之间，\r\n削开血肉。",
       "ar": "سيف المخلب المطوَّر.\r\nهذا النصل المرن يمكنه العثور\r\nعلى الشقوق في درع الوايفرن\r\nوتمزيق لحومها.",
+      "th": "ดาบสเกลีรุ่นอัปเกรด ใบมีดที่ยืด\r\nหยุ่นได้นี้จะแทรกผ่านรอยร้าวบน\r\nหนังหนาๆ ของไวเวิร์นและบาดลึก\r\nถึงเนื้อใน",
       "es-419": "Espada de escamas mejorada.\r\nLa hoja flexible encuentra\r\ngrietas en la armadura\r\nwyvern y corta la carne."
     },
     "rarity": 8,
@@ -3511,6 +3597,7 @@
       "zh-Hant": "沙海劍Ⅰ",
       "zh-Hans": "沙海剑Ⅰ",
       "ar": "نصل بالاهارا 1",
+      "th": "ดาบบาลาฮารา I",
       "es-419": "Filo de Balahara I"
     },
     "descriptions": {
@@ -3527,6 +3614,7 @@
       "zh-Hant": "以沙海龍素材製作的單手劍。外側\r\n較硬的刀刃會於攻擊時削去接觸到\r\n的地方。",
       "zh-Hans": "使用沙海龙素材制作的单手剑。剑\r\n身外缘的坚硬刀刃会在攻击时将触\r\n碰到的部分切削殆尽。",
       "ar": "سيف وترس (بالاهارا)\r\nبشفرة صلبة مصممة\r\nلتمزيق الأهداف بفاعلية.",
+      "th": "ดาบโล่บาลาฮาราที่มีคมดาบแข็งแกร่ง\r\nสร้างมาเพื่อฟาดฟันเป้าหมายอย่างมี\r\nประสิทธิภาพ",
       "es-419": "Una espada y escudo de Balahara\r\ncon un filo endurecido, diseñado\r\npara despedazar a los objetivos."
     },
     "rarity": 2,
@@ -3592,6 +3680,7 @@
       "zh-Hant": "沙海劍Ⅱ",
       "zh-Hans": "沙海剑Ⅱ",
       "ar": "نصل بالاهارا 2",
+      "th": "ดาบบาลาฮารา II",
       "es-419": "Filo de Balahara II"
     },
     "descriptions": {
@@ -3608,6 +3697,7 @@
       "zh-Hant": "以沙海龍素材製作的單手劍。外側\r\n較硬的刀刃會於攻擊時削去接觸到\r\n的地方。",
       "zh-Hans": "使用沙海龙素材制作的单手剑。剑\r\n身外缘的坚硬刀刃会在攻击时将触\r\n碰到的部分切削殆尽。",
       "ar": "سيف وترس (بالاهارا)\r\nبشفرة صلبة مصممة\r\nلتمزيق الأهداف بفاعلية.",
+      "th": "ดาบโล่บาลาฮาราที่มีคมดาบแข็งแกร่ง\r\nสร้างมาเพื่อฟาดฟันเป้าหมายอย่างมี\r\nประสิทธิภาพ",
       "es-419": "Una espada y escudo de Balahara\r\ncon un filo endurecido, diseñado\r\npara despedazar a los objetivos."
     },
     "rarity": 4,
@@ -3674,6 +3764,7 @@
       "zh-Hant": "沙海劍Ⅲ",
       "zh-Hans": "沙海剑Ⅲ",
       "ar": "نصل بالاهارا 3",
+      "th": "ดาบบาลาฮารา III",
       "es-419": "Filo de Balahara III"
     },
     "descriptions": {
@@ -3690,6 +3781,7 @@
       "zh-Hant": "以沙海龍素材製作的單手劍。外側\r\n較硬的刀刃會於攻擊時削去接觸到\r\n的地方。",
       "zh-Hans": "使用沙海龙素材制作的单手剑。剑\r\n身外缘的坚硬刀刃会在攻击时将触\r\n碰到的部分切削殆尽。",
       "ar": "سيف وترس (بالاهارا)\r\nبشفرة صلبة مصممة\r\nلتمزيق الأهداف بفاعلية.",
+      "th": "ดาบโล่บาลาฮาราที่มีคมดาบแข็งแกร่ง\r\nสร้างมาเพื่อฟาดฟันเป้าหมายอย่างมี\r\nประสิทธิภาพ",
       "es-419": "Una espada y escudo de Balahara\r\ncon un filo endurecido, diseñado\r\npara despedazar a los objetivos."
     },
     "rarity": 5,
@@ -3758,6 +3850,7 @@
       "zh-Hant": "沙海劍Ⅳ",
       "zh-Hans": "沙海剑Ⅳ",
       "ar": "نصل بالاهارا 4",
+      "th": "ดาบบาลาฮารา IV",
       "es-419": "Filo de Balahara IV"
     },
     "descriptions": {
@@ -3774,6 +3867,7 @@
       "zh-Hant": "以沙海龍素材製作的單手劍。外側\r\n較硬的刀刃會於攻擊時削去接觸到\r\n的地方。",
       "zh-Hans": "使用沙海龙素材制作的单手剑。剑\r\n身外缘的坚硬刀刃会在攻击时将触\r\n碰到的部分切削殆尽。",
       "ar": "سيف وترس (بالاهارا)\r\nبشفرة صلبة مصممة\r\nلتمزيق الأهداف بفاعلية.",
+      "th": "ดาบโล่บาลาฮาราที่มีคมดาบแข็งแกร่ง\r\nสร้างมาเพื่อฟาดฟันเป้าหมายอย่างมี\r\nประสิทธิภาพ",
       "es-419": "Una espada y escudo de Balahara\r\ncon un filo endurecido, diseñado\r\npara despedazar a los objetivos."
     },
     "rarity": 7,
@@ -3841,6 +3935,7 @@
       "zh-Hant": "沙海劍刀光劍影",
       "zh-Hans": "切斩沙海剑",
       "ar": "كاتدوفا بحر الرمال",
+      "th": "คัตดูวาทะเลทราย",
       "es-419": "Mararena Katduva"
     },
     "descriptions": {
@@ -3857,6 +3952,7 @@
       "zh-Hant": "強化後硬度變強的沙海劍。對於走遍\r\n沙海的戰士而言，劍和盾的性能可謂\r\n生死猶關。",
       "zh-Hans": "增强了硬度的沙海剑强化版。对横\r\n渡沙海的战士来说，剑与盾的性能\r\n决定着他们的生死。",
       "ar": "سيف (بالاهارا) مطوَّر.  \r\nعند عبور الرمال، يعيش\r\nالمحاربون ويموتون بناءً\r\nعلى اختيارهم للسلاح.",
+      "th": "ดาบบาลาฮารารุ่นอัปเกรด เมื่อ\r\nต้องกรำศึกท่ามกลางทะเลทราย\r\nชะตาชีวิตของนักรบขึ้นอยู่กับ\r\nอาวุธที่เลือกใช้",
       "es-419": "Un filo de Balahara mejorado.\r\nAl cruzar las arenas, los\r\nguerreros viven y mueren por\r\nsu elección de arma."
     },
     "rarity": 8,
@@ -3924,6 +4020,7 @@
       "zh-Hant": "骨製曲刀Ⅰ",
       "zh-Hans": "骨制反曲刀Ⅰ",
       "ar": "الكوكري العظمي 1",
+      "th": "คูครีกระดูก I",
       "es-419": "Kukri óseo I"
     },
     "descriptions": {
@@ -3940,6 +4037,7 @@
       "zh-Hant": "以骨頭打造而成的廉價單手劍。構造\r\n簡單且性能穩定，推薦給新手使用。",
       "zh-Hans": "用骨打造而成的廉价单手剑。构造\r\n简单，但性能稳定，推荐给新手使\r\n用。",
       "ar": "سيف ودرع اقتصاديان.\r\nيتميزان بالبساطة والأداء\r\nالموثوق، مما يجعلهما\r\nاختيارًا مثاليًا للمبتدئين.",
+      "th": "ดาบโล่ราคาย่อมเยา เรียบง่ายแต่\r\nก็มีประสิทธิภาพเชื่อถือได้ จึงเป็น\r\nตัวเลือกที่เหมาะสำหรับมือใหม่",
       "es-419": "Una espada y un escudo asequibles.\r\nSimplicidad y fiabilidad hacen de\r\nesta arma una buena elección para\r\nprincipiantes."
     },
     "rarity": 1,
@@ -3997,6 +4095,7 @@
       "zh-Hant": "骨製曲刀Ⅱ",
       "zh-Hans": "骨制反曲刀Ⅱ",
       "ar": "الكوكري العظمي 2",
+      "th": "คูครีกระดูก II",
       "es-419": "Kukri óseo II"
     },
     "descriptions": {
@@ -4013,6 +4112,7 @@
       "zh-Hant": "以骨頭打造而成的廉價單手劍。構造\r\n簡單且性能穩定，推薦給新手使用。",
       "zh-Hans": "用骨打造而成的廉价单手剑。构造\r\n简单，但性能稳定，推荐给新手使\r\n用。",
       "ar": "سيف ودرع اقتصاديان.\r\nيتميزان بالبساطة والأداء\r\nالموثوق، مما يجعلهما\r\nاختيارًا مثاليًا للمبتدئين.",
+      "th": "ดาบโล่ราคาย่อมเยา เรียบง่ายแต่\r\nก็มีประสิทธิภาพเชื่อถือได้ จึงเป็น\r\nตัวเลือกที่เหมาะสำหรับมือใหม่",
       "es-419": "Una espada y un escudo asequibles.\r\nSimplicidad y fiabilidad hacen de\r\nesta arma una buena elección para\r\nprincipiantes."
     },
     "rarity": 2,
@@ -4071,6 +4171,7 @@
       "zh-Hant": "骨製曲刀Ⅲ",
       "zh-Hans": "骨制反曲刀Ⅲ",
       "ar": "الكوكري العظمي 3",
+      "th": "คูครีกระดูก III",
       "es-419": "Kukri óseo lll"
     },
     "descriptions": {
@@ -4087,6 +4188,7 @@
       "zh-Hant": "以骨頭打造而成的廉價單手劍。構造\r\n簡單且性能穩定，推薦給新手使用。",
       "zh-Hans": "用骨打造而成的廉价单手剑。构造\r\n简单，但性能稳定，推荐给新手使\r\n用。",
       "ar": "سيف ودرع اقتصاديان.\r\nيتميزان بالبساطة والأداء\r\nالموثوق، مما يجعلهما\r\nاختيارًا مثاليًا للمبتدئين.",
+      "th": "ดาบโล่ราคาย่อมเยา เรียบง่ายแต่\r\nก็มีประสิทธิภาพเชื่อถือได้ จึงเป็น\r\nตัวเลือกที่เหมาะสำหรับมือใหม่",
       "es-419": "Una espada y un escudo asequibles.\r\nSimplicidad y fiabilidad hacen de\r\nesta arma una buena elección para\r\nprincipiantes."
     },
     "rarity": 4,
@@ -4145,6 +4247,7 @@
       "zh-Hant": "骨製曲刀Ⅳ",
       "zh-Hans": "骨制反曲刀Ⅳ",
       "ar": "الكوكري العظمي 4",
+      "th": "คูครีกระดูก IV",
       "es-419": "Kukri óseo IV"
     },
     "descriptions": {
@@ -4161,6 +4264,7 @@
       "zh-Hant": "以骨頭打造而成的廉價單手劍。構造\r\n簡單且性能穩定，推薦給新手使用。",
       "zh-Hans": "用骨打造而成的廉价单手剑。构造\r\n简单，但性能稳定，推荐给新手使\r\n用。",
       "ar": "سيف ودرع اقتصاديان.\r\nيتميزان بالبساطة والأداء\r\nالموثوق، مما يجعلهما\r\nاختيارًا مثاليًا للمبتدئين.",
+      "th": "ดาบโล่ราคาย่อมเยา เรียบง่ายแต่\r\nก็มีประสิทธิภาพเชื่อถือได้ จึงเป็น\r\nตัวเลือกที่เหมาะสำหรับมือใหม่",
       "es-419": "Una espada y un escudo asequibles.\r\nSimplicidad y fiabilidad hacen de\r\nesta arma una buena elección para\r\nprincipiantes."
     },
     "rarity": 6,
@@ -4221,6 +4325,7 @@
       "zh-Hant": "酋長曲刀",
       "zh-Hans": "领袖反曲刀",
       "ar": "الكوكري الأقوى",
+      "th": "คูครีหัวหน้าเผ่า",
       "es-419": "Kukri jefe"
     },
     "descriptions": {
@@ -4237,6 +4342,7 @@
       "zh-Hant": "強化版骨製曲刀。可承受更長時間的\r\n戰鬥，素材亦容易取得。",
       "zh-Hans": "骨制反曲刀的强化版。可承受更长\r\n时间的战斗。另一个特点是素材容\r\n易获取。",
       "ar": "كوكري عظمي مُحسَّن.\r\nمصمم لتحمل المعارك الطويلة،\r\nومن السهل العثور على\r\nالمواد اللازمة لتصنيعه.",
+      "th": "คูครีกระดูกรุ่นปรับปรุง สร้างมาให้\r\nทนต่อการต่อสู้ที่ยืดเยื้อ และหา\r\nวัตถุดิบมาสร้างได้ง่ายเป็นพิเศษ",
       "es-419": "Kukri óseo mejorado. Está\r\nhecho para resistir combates\r\nprolongados, y es muy fácil\r\nencontrar sus materiales."
     },
     "rarity": 8,
@@ -4299,6 +4405,7 @@
       "zh-Hant": "雷顎白刃Ⅰ",
       "zh-Hans": "护雷白刃Ⅰ",
       "ar": "رعدي ممزِق 1",
+      "th": "ฟูลเกอร์ฉีกกระชาก I",
       "es-419": "Fulgur desgarrador I"
     },
     "descriptions": {
@@ -4315,6 +4422,7 @@
       "zh-Hant": "以護雷顎龍素材製作的單手劍。唯有\r\n以理性壓抑蠻力，才能用上這武器。",
       "zh-Hans": "使用护雷颚龙素材制作的单手剑。\r\n唯有能以理性抑制蛮勇之力者方可\r\n使用。",
       "ar": "سيف وترس (أنجاناث) رعدي حارس.\r\nلا يستطيع حملهما سوى القادر\r\nعلى ترويض وحشيتهما بحكمة.",
+      "th": "ดาบโล่การ์เดียนฟูลเกอร์อันจานาธ\r\nมีเพียงผู้ที่กำราบความดุร้ายของมัน\r\nด้วยเหตุผลเท่านั้น จึงจะสามารถใช้\r\nอาวุธนี้ได้",
       "es-419": "Una espada y escudo de Anjanath\r\nFulgúreo Guardián. Solo quien\r\npueda dominar su brutalidad\r\na través de la razón podrá portarlo."
     },
     "rarity": 6,
@@ -4384,6 +4492,7 @@
       "zh-Hant": "護雷劍守衛之刃",
       "zh-Hans": "狂暴护雷刃",
       "ar": "سيف رعدي حارس",
+      "th": "ดาบฟูลเกอร์การ์เดียนา",
       "es-419": "Fulgur espada Guardiana"
     },
     "descriptions": {
@@ -4400,6 +4509,7 @@
       "zh-Hant": "強化版雷顎白刃。壓倒性的力量顯然\r\n於世，足以歪曲常理。沉醉於力量者\r\n終將自滅。",
       "zh-Hans": "护雷白刃的强化版，具备强大到足\r\n以扭曲常理的力量。如果沉溺于这\r\n份力量，将会自取灭亡。",
       "ar": "رعدي ممزِق مطوَّر. تعطل\r\nرغباته الوحشية صوت العقل\r\nوسيدمر حامله إذا زاد حماسه\r\nعن اللازم.",
+      "th": "ฟูลเกอร์ฉีกกระชากรุ่นอัปเกรด\r\nสัญชาตญาณป่าเถื่อนของมัน\r\nบิดเบือนเหตุผล หากผู้ใช้\r\nขาดสติอาจนำไปสู่ความพินาศ",
       "es-419": "Un Fulgur desgarrador mejorado.\r\nSus impulsos nublan la razón\r\ny destruyen a un portador\r\nansioso."
     },
     "rarity": 8,
@@ -4467,6 +4577,7 @@
       "zh-Hant": "劇毒毀滅Ⅰ",
       "zh-Hans": "剧毒毁灭Ⅰ",
       "ar": "ألم السم 1",
+      "th": "พิษแสบทรวง I",
       "es-419": "Dolor envenenado I"
     },
     "descriptions": {
@@ -4483,6 +4594,7 @@
       "zh-Hant": "使用了毒怪鳥身上產生毒素的器官，\r\n令劍身帶有毒液的特殊單手劍。",
       "zh-Hans": "使用了从毒怪鸟身上采集的毒素生\r\n成器官，剑身带有毒液的特殊单手\r\n剑。",
       "ar": "سيف وترس فريدان\r\nيستخدمان عضو (جيبسيروس) السام\r\nلتغليف النصل بشكل مستمر.",
+      "th": "ดาบโล่สุดพิเศษที่ใช้ต่อมพิษของ\r\nจิปเซรอสเคลือบคมดาบ",
       "es-419": "Un escudo y espada singular\r\nque usa el órgano toxigénico\r\nde un Gypceros para revestir\r\nconstantemente la hoja."
     },
     "rarity": 5,
@@ -4553,6 +4665,7 @@
       "zh-Hant": "劇毒毀滅Ⅱ",
       "zh-Hans": "剧毒毁灭Ⅱ",
       "ar": "ألم السم 2",
+      "th": "พิษแสบทรวง II",
       "es-419": "Dolor envenenado II"
     },
     "descriptions": {
@@ -4569,6 +4682,7 @@
       "zh-Hant": "使用了毒怪鳥身上產生毒素的器官，\r\n令劍身帶有毒液的特殊單手劍。",
       "zh-Hans": "使用了从毒怪鸟身上采集的毒素生\r\n成器官，剑身带有毒液的特殊单手\r\n剑。",
       "ar": "سيف وترس فريدان\r\nيستخدمان عضو (جيبسيروس) السام\r\nلتغليف النصل بشكل مستمر.",
+      "th": "ดาบโล่สุดพิเศษที่ใช้ต่อมพิษของ\r\nจิปเซรอสเคลือบคมดาบ",
       "es-419": "Un escudo y espada singular\r\nque usa el órgano toxigénico\r\nde un Gypceros para revestir\r\nconstantemente la hoja."
     },
     "rarity": 6,
@@ -4637,6 +4751,7 @@
       "zh-Hant": "致命劇毒軍刀",
       "zh-Hans": "致命剧毒剑",
       "ar": "سيف فايبيرين المُنحني",
+      "th": "เซเบอร์อสรพิษ",
       "es-419": "Sable viperino"
     },
     "descriptions": {
@@ -4653,6 +4768,7 @@
       "zh-Hant": "強化版劇毒毀滅。藉嚴選素材使劍身\r\n帶有更強的毒性，為獵物帶來痛苦。",
       "zh-Hans": "剧毒毁灭的强化版。通过精选素材\r\n使剑身上的毒液更为猛烈，给猎物\r\n带去可怕的痛苦。",
       "ar": "ألم السم المطوَّر يدمج\r\nالمزيد من المواد السامة\r\nلإلحاق أقصى قدر من\r\nالألم بالفريسة.",
+      "th": "พิษแสบทรวงรุ่นอัปเกรด ผสานสาร\r\nพิษเข้มข้นขึ้น เพื่อให้เหยื่อทนทุกข์\r\nทรมานขั้นสุด",
       "es-419": "Dolor envenenado mejorado que\r\nintegra más materiales\r\ntoxigenéticos para infligir el\r\nmáximo de agonía a la presa."
     },
     "rarity": 8,
@@ -4721,6 +4837,7 @@
       "zh-Hant": "赫炎護劍Ⅰ",
       "zh-Hans": "赫炎护剑Ⅰ",
       "ar": "سَيف أجارا المُنحني 1",
+      "th": "เซเบอร์อาจารา I",
       "es-419": "Sable Ajara I"
     },
     "descriptions": {
@@ -4737,6 +4854,7 @@
       "zh-Hant": "蘊藏赫猿獸之力的單手劍。為了保護\r\n持劍者不受烈火傷害，採用了劍柄和\r\n護拳合而為一的設計。",
       "zh-Hans": "蕴含赫猿兽之力的单手剑。为避免\r\n灼热火焰伤到持有者，采用了剑柄\r\n和手甲合而为一的设计。",
       "ar": "سيف وترس (أجاراكان)،\r\nمصممان لتغليف اليدين\r\nوحمايتهما من الارتداد الناري.",
+      "th": "ดาบโล่อาจาราคาน ออกแบบมาให้\r\nปกป้องมือผู้ใช้ และต้านทานแรงปะทะ\r\nจากเปลวเพลิง",
       "es-419": "Escudo y espada de Ajarakan,\r\ndiseñados para cubrir las\r\nmanos y proteger ante los\r\nfieros contragolpes."
     },
     "rarity": 3,
@@ -4801,6 +4919,7 @@
       "zh-Hant": "赫炎護劍Ⅱ",
       "zh-Hans": "赫炎护剑Ⅱ",
       "ar": "سَيف أجارا المُنحني 2",
+      "th": "เซเบอร์อาจารา II",
       "es-419": "Sable Ajara II"
     },
     "descriptions": {
@@ -4817,6 +4936,7 @@
       "zh-Hant": "蘊藏赫猿獸之力的單手劍。為了保護\r\n持劍者不受烈火傷害，採用了劍柄和\r\n護拳合而為一的設計。",
       "zh-Hans": "蕴含赫猿兽之力的单手剑。为避免\r\n灼热火焰伤到持有者，采用了剑柄\r\n和手甲合而为一的设计。",
       "ar": "سيف وترس (أجاراكان)،\r\nمصممان لتغليف اليدين\r\nوحمايتهما من الارتداد الناري.",
+      "th": "ดาบโล่อาจาราคาน ออกแบบมาให้\r\nปกป้องมือผู้ใช้ และต้านทานแรงปะทะ\r\nจากเปลวเพลิง",
       "es-419": "Escudo y espada de Ajarakan,\r\ndiseñados para cubrir las\r\nmanos y proteger ante los\r\nfieros contragolpes."
     },
     "rarity": 6,
@@ -4885,6 +5005,7 @@
       "zh-Hant": "赫炎護劍蘇頻陀",
       "zh-Hans": "赫炎护剑·苏频陀",
       "ar": "أجارا-سوبيندا",
+      "th": "อาจารา-สุบินดา",
       "es-419": "Ajara-Subinda"
     },
     "descriptions": {
@@ -4895,12 +5016,13 @@
       "de": "Verbesserter Ajara-Säbel.\r\nVerströmt nun genug Hitze, um\r\ndie Erde zu schwärzen und die\r\nLuft flimmern zu lassen.",
       "es": "Sable Ajara mejorado. Posee fuego\r\nsuficiente como para hacer que\r\nresplandezca el aire y oscurezca\r\nla tierra.",
       "ru": "Улучшенная «Ажаракановая сабля».\r\nВблизи раскалённого лезвия стоит\r\nмарево, а под ним чернеет земля.",
-      "pl": "Ulepszona szabla Ajary. Emanuje\r\nżarem, który sprawia, że powietrze\r\niskrzy, a ziemia czernieje.",
+      "pl": "Ulepszona szabla Ajary.\r\nEmanuje żarem, który\r\nsprawia, że powietrze\r\niskrzy, a ziemia czernieje.",
       "pt-BR": "Sabre Ajara melhorado.\r\nEmana calor o bastante para\r\ndeixar o ar turvo e escurecer\r\na terra.",
       "ko": "본명을 하사받은 혁염의 호검.\r\n공기가 진동할 정도의 고온을\r\n내뿜고 대지를 태우며 가른다.",
       "zh-Hant": "獲授真名的赫炎護劍。釋放的高溫能\r\n產生蜃景，在灼燒大地的同時不斷\r\n向前斬殺萬物。",
       "zh-Hans": "得授真名的赫炎护剑。释放的高温\r\n使空气都为之扭曲，灼烧着大地劈\r\n砍出一条新的道路。",
       "ar": "سيف (أجارا) المُنحني المطوَّر.\r\nيحمل الآن حرارة كافية\r\nلجعل الهواء يتلألأ والأرض تظلم.",
+      "th": "เซเบอร์อาจารารุ่นอัปเกรด อัดแน่น\r\nด้วยความร้อนที่มากพอจะทำให้\r\nอากาศสั่นระริกและผืนดินเป็นเถ้าถ่าน",
       "es-419": "Sable Ajara mejorado. Posee el\r\nfuego suficiente como para\r\nhacer que el aire resplandezca\r\ny oscurecer la tierra."
     },
     "rarity": 8,
@@ -4967,6 +5089,7 @@
       "zh-Hant": "雪白雙刃彎刀Ⅰ",
       "zh-Hans": "雪白双刃弯刀Ⅰ",
       "ar": "جنبية بيضاء كالثلج",
+      "th": "จัมบียะหิมะขาว I",
       "es-419": "Jambiya blancanieves I"
     },
     "descriptions": {
@@ -4983,6 +5106,7 @@
       "zh-Hant": "以雪獅子王素材製作的單手劍。\r\n刀刃覆有薄霜，形狀設計重視易於\r\n拔刀。",
       "zh-Hans": "使用雪狮子王素材制作的单手剑。\r\n缠绕着薄薄一层寒霜的刀刃被特别\r\n设计成便于拔刀的形状。",
       "ar": "سيف وترس (بلانجونجا).\r\nشكله وغلافه الثلجي الرقيق\r\nيجعلانه سريع السحب.",
+      "th": "ดาบโล่บลังกองกา รูปลักษณ์ที่\r\nเหมาะมือและชั้นน้ำแข็งบางๆ ทำให้\r\nชักฟันได้ฉับไว",
       "es-419": "Una espada y un escudo de\r\nBlangonga. Su forma y fino\r\nrevestimiento de hielo ayudan\r\na desenvainar más rápido."
     },
     "rarity": 6,
@@ -5052,6 +5176,7 @@
       "zh-Hant": "獅子雙刃彎刀",
       "zh-Hans": "狮子双刃弯刀",
       "ar": "جامبيا أسد الجليد",
+      "th": "จัมบียะราชสีห์หิมะ",
       "es-419": "Jambiya león nevado"
     },
     "descriptions": {
@@ -5068,6 +5193,7 @@
       "zh-Hant": "強化版雪白雙刃彎刀。唯有對武器\r\n抱以敬意之人，才得以自由自在操\r\n縱寒氣。",
       "zh-Hans": "雪白双刃弯刀的强化版。唯有对武\r\n器抱有敬意之人，方能自如地操控\r\n它的寒气。",
       "ar": "جامبيا الأبيض الثلجي مطوَّر.\r\nأظهر له الاحترام اللائق\r\nوسيصبح جليده تحت سيطرتكَ.",
+      "th": "จัมบียะหิมะขาวรุ่นอัปเกรด พลังแห่ง\r\nน้ำแข็งจะอยู่ใต้อาณัติของผู้ที่ให้เกียรติ\r\nมันเท่านั้น",
       "es-419": "Una Jambiya blancanieves\r\nmejorada. Muéstrale el debido\r\nrespeto y podrás controlar su\r\nhielo."
     },
     "rarity": 8,
@@ -5136,6 +5262,7 @@
       "zh-Hant": "纏蛙棒Ⅰ",
       "zh-Hans": "缠蛙狼牙棒Ⅰ",
       "ar": "هِراوة تشاتا 1",
+      "th": "กระบองชาตา I",
       "es-419": "Garrote Chata I"
     },
     "descriptions": {
@@ -5152,6 +5279,7 @@
       "zh-Hant": "以纏蛙的堅硬部位素材製作的棍棒型\r\n單手劍。因攻守兼備、易於使用而\r\n大受好評。",
       "zh-Hans": "使用缠蛙的坚硬部位素材制作的棍\r\n棒型单手剑。因攻守兼备且易于使\r\n用而广受好评。",
       "ar": "سيف وترس يشبهان الهراوة\r\nويستخدمان الأجزاء الصلبة من (تشاتاكابرا).\r\nيتميزان بأداء جيد في الهجوم والدفاع.",
+      "th": "ดาบโล่ทรงกระบองที่ใช้ส่วนที่แข็งของ\r\nชาตาคาบรา ทำให้ฟาดได้คล่องทั้งใน\r\nยามรุกและรับ",
       "es-419": "Una espada tipo garrote con\r\nescudo que usa las partes duras\r\nde un Chatacabra. Proporciona\r\nun buen ataque y defensa."
     },
     "rarity": 1,
@@ -5209,6 +5337,7 @@
       "zh-Hant": "纏蛙棒Ⅱ",
       "zh-Hans": "缠蛙狼牙棒Ⅱ",
       "ar": "هِراوة تشاتا 2",
+      "th": "กระบองชาตา II",
       "es-419": "Garrote Chata II"
     },
     "descriptions": {
@@ -5225,6 +5354,7 @@
       "zh-Hant": "以纏蛙的堅硬部位素材製作的棍棒型\r\n單手劍。因攻守兼備、易於使用而\r\n大受好評。",
       "zh-Hans": "使用缠蛙的坚硬部位素材制作的棍\r\n棒型单手剑。因攻守兼备且易于使\r\n用而广受好评。",
       "ar": "سيف وترس يشبهان الهراوة\r\nويستخدمان الأجزاء الصلبة من (تشاتاكابرا).\r\nيتميزان بأداء جيد في الهجوم والدفاع.",
+      "th": "ดาบโล่ทรงกระบองที่ใช้ส่วนที่แข็งของ\r\nชาตาคาบรา ทำให้ฟาดได้คล่องทั้งใน\r\nยามรุกและรับ",
       "es-419": "Una espada tipo garrote con\r\nescudo que usa las partes duras\r\nde un Chatacabra. Proporciona\r\nun buen ataque y defensa."
     },
     "rarity": 3,
@@ -5282,6 +5412,7 @@
       "zh-Hant": "纏蛙棒Ⅲ",
       "zh-Hans": "缠蛙狼牙棒Ⅲ",
       "ar": "هِراوة تشاتا 3",
+      "th": "กระบองชาตา III",
       "es-419": "Garrote Chata III"
     },
     "descriptions": {
@@ -5298,6 +5429,7 @@
       "zh-Hant": "以纏蛙的堅硬部位素材製作的棍棒型\r\n單手劍。因攻守兼備、易於使用而\r\n大受好評。",
       "zh-Hans": "使用缠蛙的坚硬部位素材制作的棍\r\n棒型单手剑。因攻守兼备且易于使\r\n用而广受好评。",
       "ar": "سيف وترس يشبهان الهراوة\r\nويستخدمان الأجزاء الصلبة من (تشاتاكابرا).\r\nيتميزان بأداء جيد في الهجوم والدفاع.",
+      "th": "ดาบโล่ทรงกระบองที่ใช้ส่วนที่แข็งของ\r\nชาตาคาบรา ทำให้ฟาดได้คล่องทั้งใน\r\nยามรุกและรับ",
       "es-419": "Una espada tipo garrote con\r\nescudo que usa las partes duras\r\nde un Chatacabra. Proporciona\r\nun buen ataque y defensa."
     },
     "rarity": 5,
@@ -5358,6 +5490,7 @@
       "zh-Hant": "纏蛙棒Ⅳ",
       "zh-Hans": "缠蛙狼牙棒Ⅳ",
       "ar": "هِراوة تشاتا 4",
+      "th": "กระบองชาตา IV",
       "es-419": "Garrote Chata IV"
     },
     "descriptions": {
@@ -5374,6 +5507,7 @@
       "zh-Hant": "以纏蛙的堅硬部位素材製作的棍棒型\r\n單手劍。因攻守兼備、易於使用而\r\n大受好評。",
       "zh-Hans": "使用缠蛙的坚硬部位素材制作的棍\r\n棒型单手剑。因攻守兼备且易于使\r\n用而广受好评。",
       "ar": "سيف وترس يشبهان الهراوة\r\nويستخدمان الأجزاء الصلبة من (تشاتاكابرا).\r\nيتميزان بأداء جيد في الهجوم والدفاع.",
+      "th": "ดาบโล่ทรงกระบองที่ใช้ส่วนที่แข็งของ\r\nชาตาคาบรา ทำให้ฟาดได้คล่องทั้งใน\r\nยามรุกและรับ",
       "es-419": "Una espada tipo garrote con\r\nescudo que usa las partes duras\r\nde un Chatacabra. Proporciona\r\nun buen ataque y defensa."
     },
     "rarity": 7,
@@ -5435,6 +5569,7 @@
       "zh-Hant": "虛無之劍Ⅰ",
       "zh-Hans": "虚无之剑Ⅰ",
       "ar": "سيف نيهيل 1",
+      "th": "ดาบนิฮิล I",
       "es-419": "Espada Nihil I"
     },
     "descriptions": {
@@ -5445,12 +5580,13 @@
       "de": "Ein eigentümlich geformtes\r\nSchwert & Schild aus Xu Wu.\r\nVor langer Zeit schworen\r\nAssassinen auf solche Waffen.",
       "es": "Escudo y espada de Xu Wu\r\ncon una forma peculiar.\r\nTiempo atrás, los asesinos\r\nconfiaban en un arma así.",
       "ru": "Сювуловые меч и щит странной\r\nформы. В давние времена убийцы\r\nдавали клятвы на похожем оружии.",
-      "pl": "Miecz i tarcza z Xu Wu o osobliwym\r\nkształcie. Dawno temu tajemniczy\r\nwojownicy chętnie polegali na tej\r\nbroni.",
+      "pl": "Miecz i tarcza z Xu Wu\r\no osobliwym kształcie. Dawno\r\ntemu tajemniczy wojownicy\r\nchętnie polegali na tej broni.",
       "pt-BR": "Espada e escudo de Xu Wu com\r\nformato peculiar. No passado, já\r\nfoi a arma preferida de assassinos.",
       "ko": "시이우의 소재를 쓴 한손검.\r\n특이하게 생겼으며, 먼 옛날\r\n암살자가 애용했다고 한다.",
       "zh-Hant": "以暗器鱆素材製作的單手劍。造型\r\n特殊，據說在古代深受刺客喜愛。",
       "zh-Hans": "使用暗器蛸素材制作的单手剑。形\r\n状十分特别，据说在很久以前深受\r\n刺客青睐。",
       "ar": "سيف وترس (شو وو) بشكل غريب.\r\nأقسم القتلة قديمًا بالولاء\r\nلمثل هذا السلاح.",
+      "th": "ดาบโล่ซือวูที่มีรูปลักษณ์แปลกตา\r\nสมัยก่อน เหล่านักฆ่าเคยสวามิภักดิ์ต่อ\r\nอาวุธชนิดนี้",
       "es-419": "Escudo y espada de Xu Wu con\r\nuna forma peculiar. Tiempo\r\natrás, los asesinos confiaban\r\nen un arma así."
     },
     "rarity": 4,
@@ -5517,6 +5653,7 @@
       "zh-Hant": "虛無之劍Ⅱ",
       "zh-Hans": "虚无之剑Ⅱ",
       "ar": "سيف نيهيل 2",
+      "th": "ดาบนิฮิล II",
       "es-419": "Espada Nihil II"
     },
     "descriptions": {
@@ -5527,12 +5664,13 @@
       "de": "Ein eigentümlich geformtes\r\nSchwert & Schild aus Xu Wu.\r\nVor langer Zeit schworen\r\nAssassinen auf solche Waffen.",
       "es": "Escudo y espada de Xu Wu\r\ncon una forma peculiar.\r\nTiempo atrás, los asesinos\r\nconfiaban en un arma así.",
       "ru": "Сювуловые меч и щит странной\r\nформы. В давние времена убийцы\r\nдавали клятвы на похожем оружии.",
-      "pl": "Miecz i tarcza z Xu Wu o osobliwym\r\nkształcie. Dawno temu tajemniczy\r\nwojownicy chętnie polegali na tej\r\nbroni.",
+      "pl": "Miecz i tarcza z Xu Wu\r\no osobliwym kształcie. Dawno\r\ntemu tajemniczy wojownicy\r\nchętnie polegali na tej broni.",
       "pt-BR": "Espada e escudo de Xu Wu com\r\nformato peculiar. No passado, já\r\nfoi a arma preferida de assassinos.",
       "ko": "시이우의 소재를 쓴 한손검.\r\n특이하게 생겼으며, 먼 옛날\r\n암살자가 애용했다고 한다.",
       "zh-Hant": "以暗器鱆素材製作的單手劍。造型\r\n特殊，據說在古代深受刺客喜愛。",
       "zh-Hans": "使用暗器蛸素材制作的单手剑。形\r\n状十分特别，据说在很久以前深受\r\n刺客青睐。",
       "ar": "سيف وترس (شو وو) بشكل غريب.\r\nأقسم القتلة قديمًا بالولاء\r\nلمثل هذا السلاح.",
+      "th": "ดาบโล่ซือวูที่มีรูปลักษณ์แปลกตา\r\nสมัยก่อน เหล่านักฆ่าเคยสวามิภักดิ์ต่อ\r\nอาวุธชนิดนี้",
       "es-419": "Escudo y espada de Xu Wu con\r\nuna forma peculiar. Tiempo\r\natrás, los asesinos confiaban\r\nen un arma así."
     },
     "rarity": 6,
@@ -5601,6 +5739,7 @@
       "zh-Hant": "暗彎刀科黛",
       "zh-Hans": "科黛之暗弯刀",
       "ar": "إبطال كوردايل",
+      "th": "คอร์เดย์เลล้มล้าง",
       "es-419": "Revocación de Cordayle"
     },
     "descriptions": {
@@ -5617,6 +5756,7 @@
       "zh-Hant": "散發不祥氣息的強化版虛無之劍。\r\n察覺到背後傳來它的氣息時，已經\r\n回天乏術。",
       "zh-Hans": "散发不祥气息的强化版虚无之剑。\r\n察觉到它从背后传来的气息时，早\r\n已无力回天。",
       "ar": "سيف (نيهيل) مطوَّر. إذا شعرت\r\nبشفرته المشؤومة موجهة نحوكَ،\r\nفقد فات الأوان بالفعل.",
+      "th": "ดาบนิฮิลรุ่นอัปเกรด หากคุณรู้สึกถึงคม\r\nดาบแห่งหายนะที่เล็งมา ก็สายเกินจะ\r\nหนีรอดแล้ว",
       "es-419": "Espada Nihil mejorada. Si\r\nsientes su ominoso filo\r\napuntándote, entonces ya es\r\ndemasiado tarde."
     },
     "rarity": 8,
@@ -5684,6 +5824,7 @@
       "zh-Hant": "護鎖刃劍Ⅰ",
       "zh-Hans": "护锁刃剑Ⅰ",
       "ar": "موكرو فيلديان حارس 1",
+      "th": "ก. เวลเดียนมูโคร I",
       "es-419": "Mucro veldian G. I"
     },
     "descriptions": {
@@ -5700,6 +5841,7 @@
       "zh-Hant": "以護龍素材製作的單手劍。舉起此劍\r\n會使心跳加快，感到全身充滿力量。",
       "zh-Hans": "以护锁刃龙素材制作的单手剑。举\r\n起此剑时，心跳加速，全身都充盈\r\n着力量。",
       "ar": "سيف وترس مصنوعان من غنائم وحش حارس.\r\nعند رفعهما، يسرعان النبض\r\nويمنحان دفعة من القوة.",
+      "th": "ดาบโล่ที่สร้างจากชิ้นส่วนการ์เดียน\r\nยามชูขึ้น มันจะเร่งเร้าชีพจรและมอบ\r\nคลื่นพลังงานให้แก่ผู้ใช้",
       "es-419": "Una espada y escudo hechos con\r\nrestos de un Guardián. Al\r\nblandirse, el pulso se acelera\r\ny otorga una subida de poder."
     },
     "rarity": 4,
@@ -5769,6 +5911,7 @@
       "zh-Hant": "護鎖刃劍Ⅱ",
       "zh-Hans": "护锁刃剑Ⅱ",
       "ar": "موكرو فيلديان حارس 2",
+      "th": "ก. เวลเดียนมูโคร II",
       "es-419": "Mucro veldian G. II"
     },
     "descriptions": {
@@ -5785,6 +5928,7 @@
       "zh-Hant": "以護龍素材製作的單手劍。舉起此劍\r\n會使心跳加快，感到全身充滿力量。",
       "zh-Hans": "以护锁刃龙素材制作的单手剑。举\r\n起此剑时，心跳加速，全身都充盈\r\n着力量。",
       "ar": "سيف وترس مصنوعان من غنائم \r\nوحش حارس. \r\nعند رفعهما، يسرعان النبض\r\nويمنحان دفعة من القوة.",
+      "th": "ดาบโล่ที่สร้างจากชิ้นส่วนการ์เดียน\r\nยามชูขึ้น มันจะเร่งเร้าชีพจรและมอบ\r\nคลื่นพลังงานให้แก่ผู้ใช้",
       "es-419": "Una espada y escudo hechos con\r\nrestos de un Guardián. Al\r\nblandirse, el pulso se acelera\r\ny otorga una subida de poder."
     },
     "rarity": 6,
@@ -5855,6 +5999,7 @@
       "zh-Hant": "護鎖刃劍亞瑟",
       "zh-Hans": "护锁刃剑·亚瑟",
       "ar": "أرتوريوس توجيهي حارس",
+      "th": "ก. อาร์โทเรียสผู้ชี้นำ",
       "es-419": "Artorius guía G."
     },
     "descriptions": {
@@ -5865,12 +6010,13 @@
       "de": "Ein verbessertes W.-Arkveld-\r\nMucro. Dieses Schwert & Schild\r\nführt seine Träger sogar allein\r\nzum Sieg.",
       "es": "Mucro veldiano G. mejorado.\r\nAunque no cuentes con ayuda,\r\nesta espada y escudo te\r\ngarantizarán la victoria.",
       "ru": "Улучшенный «Вельдстражевый\r\nмеч». С этим оружием в руках\r\nможно не сомневаться в победе,\r\nдаже сражаясь в одиночку.",
-      "pl": "Ulepszony Wiweriański Mucro S..\r\nNawet gdy walczysz w pojedynkę,\r\nten zestaw zapewni ci wygraną.",
+      "pl": "Ulepszony Wiweriański Mucro S..\r\nNawet walcząc w pojedynkę,\r\nzwycięstwo tym mieczem\r\ni tarczą jest pewne.",
       "pt-BR": "Mucro Veldiano G. melhorado.\r\nMesmo em solidão, sua vitória\r\nestá garantida com essa espada\r\ne escudo em mãos.",
       "ko": "강화된 갈슈무크로.\r\n비록 홀로 남았어도 방패를\r\n쥐고 검을 치켜들며\r\n승리할 것을 의심치 않는다.",
       "zh-Hant": "強化版護鎖刃劍。即便孤身一人，\r\n仍會架起盾牌高舉寶劍，堅信勝利。",
       "zh-Hans": "强化后的护锁刃剑。哪怕只有孤身\r\n一人，也将架起盾牌高举宝剑，对\r\n胜利笃信无疑。",
       "ar": "(موكرو فيلديان) حارس مطوَّر.\r\nسيف وترس يضمنان الانتصار\r\nحتى لو كنت بمفردكَ.",
+      "th": "ก. เวลเดียนมูโครรุ่นอัปเกรด ดาบ\r\nโล่นี้รับประกันชัยชนะ แม้ว่าผู้ใช้\r\nตัวคนเดียวก็ตาม",
       "es-419": "Un Mucro veldian G. mejorado.\r\nIncluso en solitario, este escudo\r\ny esta espada aseguran la victoria."
     },
     "rarity": 8,
@@ -5938,6 +6084,7 @@
       "zh-Hant": "鎖刃劍Ⅰ",
       "zh-Hans": "锁刃剑Ⅰ",
       "ar": "موكرو فيلديان 1",
+      "th": "เวลเดียนมูโคร I",
       "es-419": "Mucro veldian I"
     },
     "descriptions": {
@@ -5948,12 +6095,13 @@
       "de": "Ein Schwert & Schild aus\r\nArkveld-Teilen. Einst nutzte ein\r\nRitter die einzigartige Macht,\r\num ein Königreich zu leiten.",
       "es": "Espada y escudo de Arkveld.\r\nEn tiempos ancestrales, los\r\ncaballeros usaban su poder\r\nimparable para liderar reinos.",
       "ru": "Меч и щит из арквельда. Некогда\r\nтакое оружие использовал рыцарь,\r\nправивший королевством, полагаясь\r\nна свою непревзойдённую силу.",
-      "pl": "Miecz i tarcza z Arkvelda.\r\nW dawnych czasach rycerz używał\r\nich niezrównanej potęgi,\r\nby przewodzić królestwu.",
+      "pl": "Miecz i tarcza z Arkvelda.\r\nW zamierzchłych czasach rycerz\r\nwładał ich niezrównaną potęgą,\r\nby poprowadzić królestwo.",
       "pt-BR": "Espada e escudo de Arkveld.\r\nAntigamente, um cavaleiro\r\nusou seu poder inigualável\r\npara liderar um reino.",
       "ko": "알슈베르도 소재로 만든\r\n한손검. 무척 강한 힘으로\r\n나라를 이끈 기사가\r\n썼다는 검과 방패.",
       "zh-Hant": "以鎖刃龍素材製作的單手劍。據傳是\r\n曾以無與倫比的力量率領國家的騎士\r\n所使用的古代劍與盾。",
       "zh-Hans": "使用锁刃龙素材制作的单手剑。据\r\n说此剑与盾曾为古代骑士所用，骑\r\n士以举世无双的强大实力统率国家。",
       "ar": "سيف وترس (آركفيلد).\r\nفي الأيام الخوالي، استخدم الفرسان قوتهما\r\nمنقطعة النظير لقيادة مملكة.",
+      "th": "ดาบโล่อาร์คเวลด์ ในอดีตกาล\r\nอัศวินผู้ถือครองได้ใช้พลังอันไร้\r\nเทียมทานของมันนำทัพปกครอง\r\nอาณาจักร",
       "es-419": "Una espada y escudo de Arkveld.\r\nAntaño, los caballeros usaban\r\nsu poderío insuperable para\r\nliderar un reino."
     },
     "rarity": 7,
@@ -6023,6 +6171,7 @@
       "zh-Hant": "機械劍Ⅰ",
       "zh-Hans": "机械剑Ⅰ",
       "ar": "سيف أرتيان 1",
+      "th": "ดาบอาร์เทียน I",
       "es-419": "Espada artiana I"
     },
     "descriptions": {
@@ -6039,6 +6188,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代單手\r\n劍。劍與盾有未知的構造，偵測到\r\n危險就會展開。",
       "zh-Hans": "由发现的武器碎片组成的古代单手\r\n剑。有着一旦侦测到危险就会展开\r\n剑与盾的未知构造。",
       "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nالسيف والترس يُنشران من تلقاء نفسيهما\r\nعند استشعار الخطر.",
+      "th": "อาวุธที่ประกอบขึ้นจากชิ้นส่วน\r\nที่ถูกขุดพบ เมื่อสัมผัสได้ถึงภัย\r\nอันตราย ดาบโล่จะเปิดใช้งาน\r\nโดยอัตโนมัติ",
       "es-419": "Arma ensamblada con fragmentos\r\ndesenterrados. La espada y\r\nescudo se activan al sentir\r\npeligro."
     },
     "rarity": 6,
@@ -6092,6 +6242,7 @@
       "zh-Hant": "機械劍Ⅱ",
       "zh-Hans": "机械剑Ⅱ",
       "ar": "سيف أرتيان 2",
+      "th": "ดาบอาร์เทียน II",
       "es-419": "Espada artiana II"
     },
     "descriptions": {
@@ -6108,6 +6259,7 @@
       "zh-Hant": "以發現的武器碎片組成的古代單手\r\n劍。劍與盾有未知的構造，偵測到\r\n危險就會展開。",
       "zh-Hans": "由发现的武器碎片组成的古代单手\r\n剑。有着一旦侦测到危险就会展开\r\n剑与盾的未知构造。",
       "ar": "سلاح تم تجميعه من شظايا مُكتشفة.\r\nالسيف والترس يُنشران من تلقاء نفسيهما\r\nعند استشعار الخطر.",
+      "th": "อาวุธที่ประกอบขึ้นจากชิ้นส่วน\r\nที่ถูกขุดพบ เมื่อสัมผัสได้ถึงภัย\r\nอันตราย ดาบโล่จะเปิดใช้งาน\r\nโดยอัตโนมัติ",
       "es-419": "Arma ensamblada con fragmentos\r\ndesenterrados. La espada y\r\nescudo se activan al sentir\r\npeligro."
     },
     "rarity": 7,
@@ -6161,6 +6313,7 @@
       "zh-Hant": "真實之鑿",
       "zh-Hans": "真实之凿",
       "ar": "فيردولوتو",
+      "th": "เวอโดโลโต",
       "es-419": "Verdoloto"
     },
     "descriptions": {
@@ -6177,6 +6330,7 @@
       "zh-Hant": "擁有潛藏性能的太古單手劍。上面的\r\n紋路僅會對修復者揭露隱藏的真相。",
       "zh-Hans": "有着潜藏性能的太古单手剑。武器\r\n上镌刻的花纹仅会对修复者揭露隐\r\n藏的真相。",
       "ar": "سلاح قديم ذو إمكانات كامنة.\r\nلا تُكشف عن حقائق النقوش عليه\r\nإلا للمرمم.",
+      "th": "อาวุธโบราณที่มีศักยภาพแฝงเร้น\r\nความจริงที่ซ่อนอยู่ในลวดลายแกะ\r\nสลักจะเผยต่อผู้ที่ฟื้นฟูมันเท่านั้น",
       "es-419": "Un arma ancestral con\r\npotencial latente. La verdad\r\nde sus grabados solo se\r\nrevelará a quien la restaure."
     },
     "rarity": 8,
@@ -6230,6 +6384,7 @@
       "zh-Hant": "熾・米迦勒Ⅰ",
       "zh-Hans": "白炽单手剑米迦勒Ⅰ",
       "ar": "زو ميكال 1",
+      "th": "โซห์มิคาล I",
       "es-419": "Zoh Mikal I"
     },
     "descriptions": {
@@ -6246,6 +6401,7 @@
       "zh-Hant": "以白熾龍素材製作的單手劍。此劍以\r\n高潔的勝利為冠。露白的刀刃將引領\r\n敵人走向彼端。",
       "zh-Hans": "由白炽龙素材锻造，冠以高洁胜利\r\n之名的单手剑。万里挑一的利刃是\r\n黄泉彼岸的引路人。",
       "ar": "سيف ودرع (زو شيا)\r\nيتوجان المحارب الفاضل\r\nويقودانه إلى الأبدية.",
+      "th": "ดาบและโล่โซห์ ชิอาที่มอบเป็น\r\nเกียรติแก่ผู้กล้าเปี่ยมคุณธรรม\r\nเพื่อนำทางสู่แดนไกลโพ้น",
       "es-419": "Espada y escudo de Zoh Shia que\r\ncoronan a su virtuoso campeón\r\ny lo conducen al más allá."
     },
     "rarity": 7,
@@ -6314,6 +6470,7 @@
       "zh-Hant": "熾光米迦勒",
       "zh-Hans": "炽光单手剑米迦勒",
       "ar": "ميكال الملتهب",
+      "th": "มิคาลจรัสแสง",
       "es-419": "Mikal ardiente"
     },
     "descriptions": {
@@ -6330,6 +6487,7 @@
       "zh-Hant": "天上的米迦勒在此宣告：渴求勝利\r\n而跪地之輩啊，高舉的刀刃將引領\r\n汝走向冥府。",
       "zh-Hans": "米迦勒自天上传下意志——渴求胜\r\n利的跪拜者啊，当叫汝高举利刃，\r\n直取冥府。",
       "ar": "ينادي (ميكال) من الأعالي:\r\nأيها الساعي إلى النصر\r\nلعل نصلك المرفوع عاليًا\r\nيصاحبك إلى الأبد.",
+      "th": "มิคาลเปล่งวาจาจากเบื้องบน:\r\nผู้แสวงหาชัยชนะเอ๋ย ขอให้\r\nดาบที่เจ้าชูขึ้นอยู่เคียงข้างเจ้า\r\nชั่วนิรันดร์",
       "es-419": "Mikal brama desde lo alto:\r\nQuienes buscan la victoria,\r\nque la espada que empuñan\r\nlos acompañe por siempre."
     },
     "rarity": 8,
@@ -6397,6 +6555,7 @@
       "zh-Hant": "祈望劍",
       "zh-Hans": "期冀之剑",
       "ar": "سيف إسبيرانزا",
+      "th": "ดาบเอสเปรันซา",
       "es-419": "Espada esperanzadora"
     },
     "descriptions": {
@@ -6413,6 +6572,7 @@
       "zh-Hant": "經實地調查後改良而成的希望劍。\r\n此劍為緊握希望而存在。",
       "zh-Hans": "通过实地调查而改良的希望之剑。\r\n此剑为紧握希望而生。",
       "ar": "سيف الأمل مُختبر بالكامل في الساحة.\r\nله غرض واحد فقط: القضاء على اليأس\r\nواستعادة الغد.",
+      "th": "ดาบโฮปที่ผ่านการทดสอบในสนาม\r\nจริงมาแล้ว กำเนิดขึ้นด้วยเป้าหมาย\r\nเดียวคือ ทำลายความสิ้นหวังและ\r\nช่วงชิงวันพรุ่งนี้กลับมา",
       "es-419": "Espada de esperanza probada en\r\ncampo. Su propósito es castigar\r\nla desesperanza y reconquistar\r\nel mañana."
     },
     "rarity": 8,
@@ -6473,6 +6633,7 @@
       "zh-Hant": "纏蛙強劈劍",
       "zh-Hans": "缠蛙强劈棒",
       "ar": "كاتالو مُغلف",
+      "th": "คาทาโลอำพราง",
       "es-419": "Katalo cubierto"
     },
     "descriptions": {
@@ -6489,6 +6650,7 @@
       "zh-Hant": "以更鋒利、更堅固為目標的強化版\r\n纏蛙棒。被它痛毆的對手只會粉身\r\n碎骨。",
       "zh-Hans": "以更锋利、更坚固为目标制作的缠\r\n蛙狼牙棒强化版。被它全力击中的\r\n下场只有粉身碎骨。",
       "ar": "هِراوة (تشاتا) مطوَّرة تتميز بالحدة\r\nوالصلابة المحسَّنة التي تفكك\r\nأي شيء تصطدم به.",
+      "th": "กระบองชาตารุ่นอัปเกรด แข็งแกร่งขึ้น\r\nคมขึ้น สามารถแยกส่วนสิ่งที่ฟาดโดน\r\nเป็นชิ้นๆ",
       "es-419": "Un garrote Chata mejorado,\r\ncon un filo y una solidez superiores\r\nque desmantela todo lo que golpea."
     },
     "rarity": 8,
@@ -6549,6 +6711,7 @@
       "zh-Hant": "鎖刃劍亞瑟",
       "zh-Hans": "锁刃剑·亚瑟",
       "ar": "أرتوريوس توجيهي",
+      "th": "อาร์โทเรียสผู้ชี้นำ",
       "es-419": "Artorius guía"
     },
     "descriptions": {
@@ -6565,6 +6728,7 @@
       "zh-Hant": "強化版鎖刃劍。具備強大力量，被譽\r\n為聖劍。據傳還會自己選擇主人。",
       "zh-Hans": "锁刃剑的强化版。具备强大力量，\r\n被誉为圣剑。据传还会自己选择主\r\n人。",
       "ar": "(موكرو فيلديان) مطوَّر.\r\nيُعرف باسم سيف الملوك المقدس\r\nهذا السلاح القوي يختار حامله بنفسه.",
+      "th": "เวลเดียนมูโครรุ่นอัปเกรด ซึ่ง\r\nรู้จักในนามดาบศักดิ์สิทธิ์แห่ง\r\nราชัน อาวุธทรงอานุภาพนี้จะ\r\nเลือกผู้ถือครองด้วยตัวมันเอง",
       "es-419": "Mucro veldian mejorado. Esta\r\npoderosa arma, conocida como\r\nla espada sagrada de los reyes,\r\nelige a su portador."
     },
     "rarity": 8,
@@ -6632,6 +6796,7 @@
       "zh-Hant": "狐扇落花情依依Ⅰ",
       "zh-Hans": "狐扇【飞花实可叹】Ⅰ",
       "ar": "هانا نو ناجوريو 1",
+      "th": "ฮานะโนะนาโกริโอะ I",
       "es-419": "Hana no Nagoriwo I"
     },
     "descriptions": {
@@ -6648,6 +6813,7 @@
       "zh-Hant": "擁有忠誠家臣的武士留下的風雅\r\n摺扇。映照飛花的摺扇揚起清風，\r\n吹散脆弱的生命。",
       "zh-Hans": "拥有忠诚家臣的武士留下的风雅折\r\n扇。映照飞花的折扇扬起清风，吹\r\n散脆弱的生命。",
       "ar": "مراوح أنيقة حملها\r\nساموراي يدينون بولاء\r\nأبدي لأسيادهم.",
+      "th": "พัดสง่างามในครอบครองของเหล่า\r\nซามูไรผู้ภักดีต่อนายไม่สั่นคลอน",
       "es-419": "Abanicos que llevan los samuráis\r\ncon inquebrantable lealtad a sus\r\nseñores."
     },
     "rarity": 6,
@@ -6717,6 +6883,7 @@
       "zh-Hant": "深紅彩扇之薄重",
       "zh-Hans": "鲜红彩扇之薄重",
       "ar": "كوريناوي أوغي",
+      "th": "คุเรไนโอกิ",
       "es-419": "Kurenawi Ougi"
     },
     "descriptions": {
@@ -6733,6 +6900,7 @@
       "zh-Hant": "強化版狐扇落花情依依。生命凋零，\r\n紛亂消逝。無人能抵擋得住雅扇的\r\n花風。",
       "zh-Hans": "狐扇【飞花实可叹】强化型。生命\r\n凋零，委于风中。雅扇扬起花风，\r\n无人可以幸免。",
       "ar": "تتبعثر جميع أشكال\r\nالحياة مع الريح بترقية\r\nهانا نو ناجوريو هذه.",
+      "th": "สรรพชีวิตปลิดปลิวตามสายลม\r\nจากฮานะโนะนาโกริโอะรุ่นอัปเกรด",
       "es-419": "Hana no Nagoriwo mejorada.\r\nEsparce al viento todo tipo\r\nde formas de vida."
     },
     "rarity": 8,
@@ -6801,6 +6969,7 @@
       "zh-Hant": "採礦十字鎬",
       "zh-Hans": "矿工十字镐",
       "ar": "معول التنقيب",
+      "th": "อีเต้อขุดแร่",
       "es-419": "Pico de minería"
     },
     "descriptions": {
@@ -6817,6 +6986,7 @@
       "zh-Hant": "以十字鎬為劍，以礦脈為盾。此單手\r\n劍可謂體現了為採掘賭上性命的碳礦\r\n工之魂。",
       "zh-Hans": "以镐代剑，以矿脉为盾，这把单手\r\n剑体现了将一生奉献在采掘上的矿\r\n工之魂。",
       "ar": "معول يُستخدم كسيف،\r\nوقطعة خام تُستخدم كدرع.\r\nهذا المعول المعدني يعكس\r\nروحًا مُكرَّسة للتنقيب.",
+      "th": "ใช้อีเต้อต่างดาบ ใช้ก้อนแร่ต่างโล่\r\nจอบคนงานเหมืองเล่มนี้สะท้อนถึง\r\nจิตวิญญาณที่อุทิศตนเพื่อการขุดค้น",
       "es-419": "Un pico como espada y un trozo\r\nde mineral como escudo.\r\nEl pico de minería es reflejo\r\nde un alma dedicada a excavar."
     },
     "rarity": 7,
@@ -6879,6 +7049,7 @@
       "zh-Hant": "十字鎬劍挖不停",
       "zh-Hans": "鹤嘴剑猛挖",
       "ar": "معول الحرب ديغمور",
+      "th": "จอบศึกขุดแหลก",
       "es-419": "Pico de guerra cavamás"
     },
     "descriptions": {
@@ -6889,12 +7060,13 @@
       "de": "Eine verbesserte Bergbauspitz-\r\nhacke, geboren aus krankhafter\r\nBesessenheit von Erzadern. Erz\r\nmacht die Jagd erst zur Jagd!",
       "es": "Pico minero mejorado, nacido de\r\ntremenda obsesión con las vetas\r\nde mineral. Si no estás picando,\r\n¿qué sentido tiene vivir?",
       "ru": "Улучшенная «Кирка горняка»,\r\nпорождённая неестественной\r\nодержимостью рудными жилами.\r\nНе копал — значит, не жил.",
-      "pl": "Ulepszony kilof górniczy zrodzony\r\nz nietypowej obsesji na punkcie\r\nżył rud. Jeśli nie wydobywasz,\r\nto czy w ogóle żyjesz?",
+      "pl": "Ulepszony Kilof Górniczy,\r\nzrodzony z obsesji na punkcie\r\nżył rudy. Jeśli nie wydobywasz,\r\nczy można mówić, że żyjesz?",
       "pt-BR": "Picareta de Mineração melhorada,\r\nnascida de uma obsessão anormal\r\ncom veios de minério. Se você não\r\nestá minerando, está mesmo vivo?",
       "ko": "광맥을 향한 비정상적인 집착이\r\n만들어낸 마이닝피켈 강화형.\r\n사냥 중에도 채굴하라.",
       "zh-Hant": "對礦脈傾注異於常人的執著後誕生\r\n的採礦十字鎬強化版。狩獵中也無\r\n所謂，挖吧。",
       "zh-Hans": "对矿脉异乎寻常的执着，催生出的\r\n强化版矿工十字镐。即使身处狩猎\r\n之中，也要有一颗挖掘的心。",
       "ar": "معول تنقيب تمت ترقيته\r\nوُلد من هوس غير طبيعي\r\nبعروق الخام. إذا لم تكن تحفر،\r\nفهل تعتبر نفسكَ حيًا حقًا؟",
+      "th": "จอบขุดแร่รุ่นอัปเกรดที่เกิดจาก\r\nความคลั่งไคล้สายแร่จนผิดปกติ\r\nหากไม่ขุดแร่แล้วจะเรียกว่ามีชีวิต\r\nได้จริงหรือ",
       "es-419": "Un pico de minería mejorado,\r\nnacido de una obsesión con las\r\nvetas de minerales. Si no usas\r\nun pico, ¿qué punto tiene vivir?"
     },
     "rarity": 8,
@@ -6955,6 +7127,7 @@
       "zh-Hant": "歐米茄之劍",
       "zh-Hans": "欧米茄之剑",
       "ar": "نصل أوميغا",
+      "th": "ดาบของโอเมกา",
       "es-419": "Espada de Omega"
     },
     "descriptions": {
@@ -6965,12 +7138,13 @@
       "de": "Einer gewissen autonomen\r\nWaffe nachempfundenes\r\nSchwert & Schild. Vernichtet\r\nalle Bedrohungen.",
       "es": "Una espada y escudo con la forma\r\nde cierta arma autónoma.\r\nAniquila a todas las amenazas.",
       "ru": "Меч и щит, созданные по\r\nобразцу некоего автономного\r\nоружия. Служат для устранения\r\nлюбых угроз.",
-      "pl": "Miecz i tarcza zaprojektowane na\r\nwzór pewnej autonomicznej broni.\r\nEliminuje wszystkie zagrożenia.",
+      "pl": "Miecz i tarcza zaprojektowane\r\nna wzór pewnej autonomicznej\r\nbroni. Eliminuje wszystkie\r\nzagrożenia.",
       "pt-BR": "Espada e escudo inspirados em\r\numa certa arma autônoma.\r\nAniquila todas as ameaças.",
       "ko": "어느 자율병기가 만든 무기를\r\n모방한 한손검.\r\n휘두르는 참격이 눈앞에 닥친\r\n위협을 쓸어 버린다.",
       "zh-Hant": "仿造某自律型兵器產生的武器而製成\r\n的單手劍。其斬擊能清除眼前所有\r\n威脅。",
       "zh-Hans": "此单手剑的造型模仿了某个自律型\r\n兵器生成的武器。使出的斩击能够\r\n荡平眼前的威胁。",
       "ar": "سيف ودرع مُصممان\r\nعلى غرار سلاح ذاتي التشغيل.\r\nيقضيان على جميع التهديدات.",
+      "th": "ดาบและโล่ที่จำลองแบบมาจาก\r\nจากอาวุธอัตโนมัติชนิดหนึ่ง\r\nทำลายภัยคุกคามทั้งปวง",
       "es-419": "Una espada y escudo modelados\r\nsegún cierta arma autónoma.\r\nAniquila todas las amenazas."
     },
     "rarity": 7,
@@ -7033,6 +7207,7 @@
       "zh-Hant": "海龍劍Ⅰ",
       "zh-Hans": "海龙剑Ⅰ",
       "ar": "سيف لاغيا 1",
+      "th": "ดาบลาเกีย I",
       "es-419": "Espada de Lagia I"
     },
     "descriptions": {
@@ -7049,6 +7224,7 @@
       "zh-Hant": "帶有象徵海龍之力的雷屬性的單手\r\n劍。狂暴的雷電能為目標從內而外\r\n帶來痛苦。",
       "zh-Hans": "带有象征着海龙之力的雷属性单手\r\n剑。奔流的雷电将由内而外折磨猎\r\n物。",
       "ar": "سيف ودرع مشبعين بقوة (لاغياكروس).\r\nيتدفق عبر نصله برق يضاعف الألم.",
+      "th": "ดาบและโล่ที่อาบพลังของ\r\nลาเกียครุส สายฟ้าที่แล่นผ่าน\r\nตัวดาบสร้างความเจ็บปวดเพิ่ม\r\nอีกหลายเท่า",
       "es-419": "Espada y escudo imbuidos con\r\nel poder de un Lagiacrus. Sus\r\nhojas liberan relámpagos\r\nque multiplican el dolor."
     },
     "rarity": 7,
@@ -7118,6 +7294,7 @@
       "zh-Hant": "高等海龍劍",
       "zh-Hans": "高等海龙剑",
       "ar": "سيف لاغيا المطور",
+      "th": "ดาบลาเกียขั้นสูง",
       "es-419": "Alta espada Lagia"
     },
     "descriptions": {
@@ -7134,6 +7311,7 @@
       "zh-Hant": "強化版海龍劍，內有宛如盛怒海龍的\r\n力量。只需揮舞便能引發怒濤電流\r\n吞噬獵物。",
       "zh-Hans": "海龙剑的强化版，剑中含有狂怒的\r\n海龙般的力量。挥舞时的汹涌电流\r\n会吞噬猎物。",
       "ar": "سيف (لاغيا) تمت ترقيته.\r\nيسخر قوة العاصفة\r\nمع كل ضربة.",
+      "th": "ดาบลาเกียรุ่นอัปเกรด\r\nเปี่ยมพลังพายุทุกครั้งที่โจมตี",
       "es-419": "Espada de Lagia mejorada.\r\nAprovecha el poder de la\r\ntormenta en cada ataque."
     },
     "rarity": 8,
@@ -7202,6 +7380,7 @@
       "zh-Hant": "真・歐米茄之劍",
       "zh-Hans": "欧米茄之剑·真",
       "ar": "نصل أوميغا الحقيقي",
+      "th": "ดาบของโอเมกาขั้นสุด",
       "es-419": "Espada de Omega verdadera"
     },
     "descriptions": {
@@ -7218,6 +7397,7 @@
       "zh-Hant": "歷經諸多戰鬥而進化的歐米茄之劍。\r\n無數斬影將會泯滅一切。",
       "zh-Hans": "历经无数次战斗实现进化的欧米茄\r\n之剑。多道斩击迅捷如影，使一切\r\n灰飞烟灭。",
       "ar": "نصل (أوميغا) بعد أن تطوّر\r\nفي أتون المعارك،\r\nيبيد كل ما يعترض طريقه.",
+      "th": "ดาบของโอเมกาที่พัฒนาขึ้นหลัง\r\nผ่านการต่อสู้ กำจัดทุกสิ่งทุกอย่าง\r\nที่ขวางทาง",
       "es-419": "Espada de Omega que ha crecido\r\na través del combate. Extermina\r\ntodo a su paso."
     },
     "rarity": 8,
@@ -7279,6 +7459,7 @@
       "zh-Hant": "貓拳？",
       "zh-Hans": "猫？拳",
       "ar": "مخلب القط",
+      "th": "อุ้งเท้าแมว",
       "es-419": "Garra gatuna"
     },
     "descriptions": {
@@ -7295,6 +7476,7 @@
       "zh-Hant": "喜歡惡作劇的獸人族愛用的盜竊\r\n工具。據說也有人深受完整的肉\r\n球吸引而向獸人族購買。",
       "zh-Hans": "喜欢恶作剧的兽人族爱用的盗窃工\r\n具。也有人喜欢上面的肉球，特意\r\n从兽人族那里购买。",
       "ar": "أداة اللصوص المفضلة لـ(لينيان)\r\nالمشاغبين. بصمة المخلب الجميلة\r\nتجذب المشترين الآخرين أيضًا.",
+      "th": "อาวุธประจำตัวโจรสำหรับลินเนียน\r\nแสนซน รอยอุ้งเท้าสุดน่ารักดึงดูด\r\nผู้ซื้อคนอื่นๆ ด้วย",
       "es-419": "La herramienta predilecta de los traviesos\r\nLynians. La adorable huella de pata\r\ntambién atrae a otros compradores."
     },
     "rarity": 7,
@@ -7363,6 +7545,7 @@
       "zh-Hant": "喵喵棒",
       "zh-Hans": "喵喵棒",
       "ar": "اللص المتسلل",
+      "th": "แมวขโมย",
       "es-419": "Ladrón gatuno"
     },
     "descriptions": {
@@ -7379,6 +7562,7 @@
       "zh-Hant": "貓拳？的最終強化版。\r\n「喵♪喵喵喵♪」\r\n　　　老大的話",
       "zh-Hans": "猫？拳的强化版\r\n～喵♪喵喵喵♪～\r\n　　　　　——摘自首领语录",
       "ar": "الشكل النهائي لمخلب القط.\r\n\"مواء، مواء مواء مواء.\"\r\n- ميلينكس الشهير",
+      "th": "ร่างสุดท้ายของอุ้งเท้าแมว\r\n\"เมี้ยว เหมียว เหมียว หง่าว\"\r\n- เมลินซ์ชื่อดัง",
       "es-419": "La forma final de la garra gatuna.\r\n\"Miau, miau, miau\", como\r\nafirmó un Melynx famoso."
     },
     "rarity": 8,
@@ -7446,6 +7630,7 @@
       "zh-Hant": "破滅憐憫頌之鑿",
       "zh-Hans": "破灭祷词之凿",
       "ar": "كيري فيرد",
+      "th": "ไครีเวิร์ด",
       "es-419": "Kyrie Verd"
     },
     "descriptions": {
@@ -7462,6 +7647,7 @@
       "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
       "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
       "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "th": "เมื่อความสิ้นหวังกลืนกินทุกสิ่ง\r\nความเมตตาที่ถูกเหยียบย่ำของ\r\nคุณจะกลายเป็นโล่เมื่อต้อง\r\nเผชิญความสิ้นหวังที่แท้จริง",
       "es-419": "Mientras la desesperación todo\r\ndevora, tu compasión pisoteada\r\nservirá de escudo al descubrir\r\nla verdadera desesperanza."
     },
     "rarity": 8,
@@ -7515,6 +7701,7 @@
       "zh-Hant": "破滅憐憫頌之鑿",
       "zh-Hans": "破灭祷词之凿",
       "ar": "كيري فيرد",
+      "th": "ไครีเวิร์ด",
       "es-419": "Kyrie Verd"
     },
     "descriptions": {
@@ -7531,6 +7718,7 @@
       "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
       "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
       "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "th": "เมื่อความสิ้นหวังกลืนกินทุกสิ่ง\r\nความเมตตาที่ถูกเหยียบย่ำของ\r\nคุณจะกลายเป็นโล่เมื่อต้อง\r\nเผชิญความสิ้นหวังที่แท้จริง",
       "es-419": "Mientras la desesperación todo\r\ndevora, tu pisoteada compasión\r\nde escudo servirá al descubrir\r\nla verdadera desesperanza."
     },
     "rarity": 8,
@@ -7584,6 +7772,7 @@
       "zh-Hant": "破滅憐憫頌之鑿",
       "zh-Hans": "破灭祷词之凿",
       "ar": "كيري فيرد",
+      "th": "ไครีเวิร์ด",
       "es-419": "Kyrie Verd"
     },
     "descriptions": {
@@ -7600,6 +7789,7 @@
       "zh-Hant": "異形的腳步聲吞噬潛藏性能。以被\r\n踐踏的慈悲為盾，步步邁向絕望的\r\n真相。",
       "zh-Hans": "吞噬隐藏性能的异形之足音。将践\r\n踏殆尽的慈悲刻于盾上，迈向绝望\r\n的真实。",
       "ar": "بينما يبتلع اليأس كلَّ شيء،\r\nسيصبح عطفكَ الذي سُحق تحت الأقدام\r\nدرعًا يحميكَ وأنتَ تواجه\r\nقمة اليأس الحقيقي.",
+      "th": "เมื่อความสิ้นหวังกลืนกินทุกสิ่ง\r\nความเมตตาที่ถูกเหยียบย่ำของ\r\nคุณจะกลายเป็นโล่เมื่อต้อง\r\nเผชิญความสิ้นหวังที่แท้จริง",
       "es-419": "Mientras la desesperación todo\r\ndevora, tu pisoteada compasión\r\nde escudo servirá al descubrir\r\nla verdadera desesperanza."
     },
     "rarity": 8,
