@@ -1635,6 +1635,26 @@
           "th": "เรย์ ดาวสุดแกร่ง",
           "es-419": "Rey Dau curtido"
         }
+      },
+      {
+        "kind": "arch-tempered",
+        "names": {
+          "ja": "レ・ダウ（歴戦王）",
+          "en": "Arch-tempered Rey Dau",
+          "fr": "Rey Dau alpha suprême",
+          "it": "Rey Dau arcitemprato",
+          "de": "Kampfgehärteter Rey Dau",
+          "es": "Rey Dau hipercurtido",
+          "ru": "Архизакалённый рей дау",
+          "pl": "Arcyzahartowany Rey Dau",
+          "pt-BR": "Rey Dau Arquiaguerrido",
+          "ko": "레 다우(역전왕)",
+          "zh-Hant": "煌雷龍（歷戰王）",
+          "zh-Hans": "煌雷龙（历战王）",
+          "ar": "راي داو شديد الغضب",
+          "th": "เรย์ ดาวสุดแกร่งขั้นสุด",
+          "es-419": "Rey Dau hipercurtido"
+        }
       }
     ],
     "size": {
@@ -15709,6 +15729,26 @@
           "th": "อาร์คเวลด์สุดแกร่ง",
           "es-419": "Arkveld curtido"
         }
+      },
+      {
+        "kind": "arch-tempered",
+        "names": {
+          "ja": "アルシュベルド（歴戦王）",
+          "en": "Arch-tempered Arkveld",
+          "fr": "Arkveld alpha suprême",
+          "it": "Arkveld arcitemprato",
+          "de": "Kampfgehärteter Arkveld",
+          "es": "Arkveld hipercurtido",
+          "ru": "Архизакалённый арквельд",
+          "pl": "Arcyzahartowany Arkveld",
+          "pt-BR": "Arkveld Arquiaguerrido",
+          "ko": "알슈베르도(역전왕)",
+          "zh-Hant": "鎖刃龍（歷戰王）",
+          "zh-Hans": "锁刃龙（历战王）",
+          "ar": "آركفيلد شديد الغضب",
+          "th": "อาร์คเวลด์สุดแกร่งขั้นสุด",
+          "es-419": "Arkveld hipercurtido"
+        }
       }
     ],
     "size": {
@@ -19480,6 +19520,26 @@
           "th": "อุธ ดูนาสุดแกร่ง",
           "es-419": "Uth Duna curtido"
         }
+      },
+      {
+        "kind": "arch-tempered",
+        "names": {
+          "ja": "ウズ・トゥナ（歴戦王）",
+          "en": "Arch-tempered Uth Duna",
+          "fr": "Uth Duna alpha suprême",
+          "it": "Uth Duna arcitemprato",
+          "de": "Kampfgehärteter Uth Duna",
+          "es": "Uth Duna hipercurtido",
+          "ru": "Архизакалённый ут дуна",
+          "pl": "Arcyzahartowany Uth Duna",
+          "pt-BR": "Uth Duna Arquiaguerrido",
+          "ko": "우드 투나(역전왕)",
+          "zh-Hant": "波衣龍（歷戰王）",
+          "zh-Hans": "波衣龙（历战王）",
+          "ar": "أوث دونا شديد الغضب",
+          "th": "อุธ ดูนาสุดแกร่งขั้นสุด",
+          "es-419": "Uth Duna hipercurtido"
+        }
       }
     ],
     "size": {
@@ -20393,6 +20453,26 @@
           "th": "จิน ดาฮาดสุดแกร่ง",
           "es-419": "Jin Dahaad curtido"
         }
+      },
+      {
+        "kind": "arch-tempered",
+        "names": {
+          "ja": "ジン・ダハド（歴戦王）",
+          "en": "Arch-tempered Jin Dahaad",
+          "fr": "Jin Dahaad alpha suprême",
+          "it": "Jin Dahaad arcitemprato",
+          "de": "Kampfgehärteter Jin Dahaad",
+          "es": "Jin Dahaad hipercurtido",
+          "ru": "Архизакалённый джин дахаад",
+          "pl": "Arcyzahartowany Jin Dahaad",
+          "pt-BR": "Jin Dahaad Arquiaguerrido",
+          "ko": "진 다하드(역전왕)",
+          "zh-Hant": "凍峰龍（歷戰王）",
+          "zh-Hans": "冻峰龙（历战王）",
+          "ar": "جين دهاد شديد الغضب",
+          "th": "จิน ดาฮาดสุดแกร่งขั้นสุด",
+          "es-419": "Jin Dahaad hipercurtido"
+        }
       }
     ],
     "size": {
@@ -21239,6 +21319,26 @@
           "ar": "نو أودرا غاضب",
           "th": "นู อูดราสุดแกร่ง",
           "es-419": "Nu Udra curtido"
+        }
+      },
+      {
+        "kind": "arch-tempered",
+        "names": {
+          "ja": "ヌ・エグドラ（歴戦王）",
+          "en": "Arch-tempered Nu Udra",
+          "fr": "Nu Udra alpha suprême",
+          "it": "Nu Udra arcitemprato",
+          "de": "Kampfgehärteter Nu Udra",
+          "es": "Nu Udra hipercurtido",
+          "ru": "Архизакалённый ну удра",
+          "pl": "Arcyzahartowany Nu Udra",
+          "pt-BR": "Nu Udra Arquiaguerrido",
+          "ko": "누 이그드라(역전왕)",
+          "zh-Hant": "獄焰鱆（歷戰王）",
+          "zh-Hans": "狱焰蛸（历战王）",
+          "ar": "نو أودرا شديد الغضب",
+          "th": "นู อูดราสุดแกร่งขั้นสุด",
+          "es-419": "Nu Udra hipercurtido"
         }
       }
     ],
