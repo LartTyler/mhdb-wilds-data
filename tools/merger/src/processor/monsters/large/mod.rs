@@ -8,7 +8,9 @@ use crate::processor::monsters::large::size::Size;
 use crate::processor::monsters::{
     CommonData, MonsterId, SpeciesKind, MONSTER_DATA, MONSTER_STRINGS, REFS_FIELD,
 };
-use crate::processor::{LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
+use crate::processor::{
+    LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile,
+};
 use crate::serde::ordered_map;
 use anyhow::Context;
 use rslib::config::Config;
@@ -180,6 +182,7 @@ struct Variant {
 enum VariantKind {
     Alpha,
     Tempered,
+    ArchTempered,
     Frenzied,
 }
 
@@ -189,6 +192,7 @@ impl VariantKind {
             Self::Alpha => &data.alpha_name_guid,
             Self::Tempered => &data.tempered_name_guid,
             Self::Frenzied => &data.frenzied_name_guid,
+            Self::ArchTempered => &data.archtempered_name_guid,
         }
     }
 }

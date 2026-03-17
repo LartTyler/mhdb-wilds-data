@@ -69,6 +69,8 @@ struct CommonData {
     frenzied_name_guid: String,
     #[serde(rename = "_EnemyLegendaryName")]
     tempered_name_guid: String,
+    #[serde(rename = "_EnemyLegendaryKingName")]
+    archtempered_name_guid: String,
     #[serde(rename = "_EnemyExp")]
     description_guid: String,
     #[serde(rename = "_EnemyFeatures")]
