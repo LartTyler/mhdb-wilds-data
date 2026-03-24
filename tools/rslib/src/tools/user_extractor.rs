@@ -1,7 +1,7 @@
 use crate::maybe_prefix;
-use crate::tools::{Error, Extractor, Result, is_output_newer};
-use parser::layout::LayoutMap;
-use parser::rsz::user::User;
+use crate::tools::{is_output_newer, Error, Extractor, Result};
+use rsz::layout::LayoutMap;
+use rsz::User;
 use std::fs::File;
 use std::path::{Path, PathBuf};
 
@@ -52,8 +52,8 @@ impl UserExtractor {
         self
     }
 
-    pub fn with_force(mut self) -> Self {
-        self.force = true;
+    pub fn with_force(mut self, force: bool) -> Self {
+        self.force = force;
         self
     }
 
@@ -75,13 +75,16 @@ impl UserExtractor {
 
         match rsz_index.into() {
             Some(index) => {
-                let target = doc.content.objects[0].extract_field(index as usize).unwrap_or_else(|| {
-                    panic!("Document does not contain an RSZ element at {index}");
-                });
+                let target = doc.content.root_objects[0]
+                    .fields
+                    .get(index as usize)
+                    .unwrap_or_else(|| {
+                        panic!("Document does not contain an RSZ element at {index}");
+                    });
 
-                serde_json::to_writer_pretty(out_file, &target)
+                serde_json::to_writer_pretty(out_file, target)
             }
-            None => serde_json::to_writer_pretty(out_file, &doc.content.objects),
+            None => serde_json::to_writer_pretty(out_file, &doc.content.root_objects),
         }?;
 
         Ok(output.to_owned())

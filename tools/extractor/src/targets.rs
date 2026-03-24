@@ -1,4 +1,5 @@
 use anyhow::Result;
+use clap::ValueEnum;
 use rayon::iter::{IndexedParallelIterator, IntoParallelRefIterator, ParallelIterator};
 use std::collections::HashMap;
 use std::path::{Path, PathBuf};
@@ -78,4 +79,17 @@ pub struct Candidate {
     pub key: String,
     pub path: PathBuf,
     pub priority: usize,
+}
+
+#[derive(Debug, Copy, Clone, ValueEnum, Eq, PartialEq)]
+pub enum TargetKind {
+    All,
+    Msg,
+    Usr,
+}
+
+impl TargetKind {
+    pub fn matches(&self, other: TargetKind) -> bool {
+        self == &Self::All || self == &other
+    }
 }

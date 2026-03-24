@@ -55,7 +55,7 @@ pub enum Error {
     Io(#[from] std::io::Error),
 
     #[error("Parsing failed: {0}")]
-    Parser(#[from] parser::rsz::Error),
+    Parser(#[from] rsz::Error),
 
     #[error("Serialization failed: {0}")]
     Serializer(#[from] serde_json::Error),

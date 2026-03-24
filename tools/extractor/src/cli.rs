@@ -1,3 +1,4 @@
+use crate::targets::TargetKind;
 use clap::Parser;
 use std::path::PathBuf;
 
@@ -15,4 +16,7 @@ pub struct Cli {
 
     #[arg(long)]
     pub skip_translations: bool,
+
+    #[arg(long, short)]
+    pub force: Vec<TargetKind>,
 }

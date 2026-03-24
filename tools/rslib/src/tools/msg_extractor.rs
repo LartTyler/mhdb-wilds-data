@@ -38,8 +38,8 @@ impl MsgExtractor {
         self
     }
 
-    pub fn with_force(mut self) -> Self {
-        self.force = true;
+    pub fn with_force(mut self, force: bool) -> Self {
+        self.force = force;
         self
     }
 

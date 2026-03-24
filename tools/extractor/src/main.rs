@@ -1,4 +1,5 @@
 use crate::cli::Cli;
+use crate::targets::TargetKind;
 use anyhow::Context;
 use anyhow::Result;
 use clap::Parser;
@@ -30,14 +31,14 @@ fn main() -> Result<()> {
 
     if !cli.skip_data {
         println!("{} Running `user` targets...", style.apply_to("[1/2]"));
-        run_targets(&config, &config.user, ExtractorKind::User)?;
+        run_targets(&cli, &config, &config.user, ExtractorKind::User)?;
     } else {
         println!("{} Skipping `user` targets.", style.apply_to("[1/2]"));
     }
 
     if !cli.skip_translations {
         println!("{} Running `msg` targets...", style.apply_to("[2/2]"));
-        run_targets(&config, &config.msg, ExtractorKind::Msg)?;
+        run_targets(&cli, &config, &config.msg, ExtractorKind::Msg)?;
     } else {
         println!("{} Skipping `msg` targets.", style.apply_to("[2/2]"));
     }
@@ -51,10 +52,15 @@ enum ExtractorKind {
 }
 
 impl ExtractorKind {
-    fn create(&self, config: &Config) -> Result<Box<dyn Extractor>> {
+    fn create(&self, cli: &Cli, config: &Config) -> Result<Box<dyn Extractor>> {
+        let target_kind: TargetKind = self.into();
+        let force = cli.force.iter().any(|v| v.matches(target_kind));
+
         Ok(match self {
-            Self::User => Box::new(UserExtractor::create(&config.tools.rsz_layouts, None)?),
-            Self::Msg => Box::new(MsgExtractor::create(&config.tools.msg, None)),
+            Self::User => {
+                Box::new(UserExtractor::create(&config.tools.rsz_layouts, None)?.with_force(force))
+            }
+            Self::Msg => Box::new(MsgExtractor::create(&config.tools.msg, None).with_force(force)),
         })
     }
 
@@ -62,6 +68,17 @@ impl ExtractorKind {
         match self {
             Self::User => Path::new("user"),
             Self::Msg => Path::new("msg"),
+        }
+    }
+}
+
+impl From<&ExtractorKind> for TargetKind {
+    fn from(value: &ExtractorKind) -> Self {
+        use ExtractorKind::*;
+
+        match value {
+            User => Self::Usr,
+            Msg => Self::Msg,
         }
     }
 }
@@ -76,14 +93,19 @@ macro_rules! maybe_parallelize {
     };
 }
 
-fn run_targets(config: &Config, section: &Files, extractor_kind: ExtractorKind) -> Result<()> {
+fn run_targets(
+    cli: &Cli,
+    config: &Config,
+    section: &Files,
+    extractor_kind: ExtractorKind,
+) -> Result<()> {
     let out_dir = config.io.output.join(extractor_kind.get_output_prefix());
 
     if !fs::exists(&out_dir)? {
         fs::create_dir_all(&out_dir)?;
     }
 
-    let extractor = extractor_kind.create(config)?;
+    let extractor = extractor_kind.create(cli, config)?;
 
     let targets = get_candidate_targets(
         &config.io.data,
