@@ -30,10 +30,9 @@ where
     serializer.serialize_some(&value)
 }
 
-pub fn is_map_empty<K, V>(value: &HashMap<K, V>) -> bool
+pub fn is_default<T>(value: &T) -> bool
 where
-    K: Ord + Serialize,
-    V: Serialize,
+    T: Default + PartialEq,
 {
-    value.is_empty()
+    *value == T::default()
 }

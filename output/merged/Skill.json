@@ -360,7 +360,8 @@
           "ar": "حرس وايفيريا",
           "th": "ไววีเรียคุ้มครอง",
           "es-419": "Guarda de Wyveria"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -852,7 +853,8 @@
           "ar": "الإلهام",
           "th": "ทำนองปลุกใจ",
           "es-419": "Inspiración"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -914,7 +916,8 @@
           "ar": "طاقة متجددة 1",
           "th": "ก๊อกสอง I",
           "es-419": "Segunda oportunidad I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -951,7 +954,8 @@
           "ar": "طاقة متجددة 2",
           "th": "ก๊อกสอง II",
           "es-419": "Segunda oportunidad II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -1563,7 +1567,8 @@
           "ar": "أدرينالين",
           "th": "อะดรีนาลีน",
           "es-419": "Adrenalina"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -1727,7 +1732,8 @@
           "ar": "الجامع الصياد",
           "th": "ฮันเตอร์นักรวบรวม",
           "es-419": "Cazador recolector"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -1789,7 +1795,8 @@
           "ar": "حظ الباحث عن الطعام",
           "th": "วาสนานักรวบรวม",
           "es-419": "Suerte del mendigo"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -2219,7 +2226,8 @@
           "ar": "المولع بالبروتين 1",
           "th": "คนรักโปรตีน I",
           "es-419": "Demonio proteína I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -2256,7 +2264,8 @@
           "ar": "المولع بالبروتين 2",
           "th": "คนรักโปรตีน II",
           "es-419": "Demonio proteína II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -2318,7 +2327,8 @@
           "ar": "المهلك 1",
           "th": "หัวรุนแรง I",
           "es-419": "Diezmador I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -2355,7 +2365,8 @@
           "ar": "المهلك 2",
           "th": "หัวรุนแรง II",
           "es-419": "Diezmador II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -2417,7 +2428,8 @@
           "ar": "انفجار وايليب",
           "th": "วิลค์ระเบิดพลัง",
           "es-419": "Ráfaga de wylk"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -2929,7 +2941,8 @@
           "ar": "التعافي السريع 1",
           "th": "เร่งการฟื้นฟู I",
           "es-419": "Regeneración I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -2966,7 +2979,8 @@
           "ar": "التعافي السريع 2",
           "th": "เร่งการฟื้นฟู II",
           "es-419": "Regeneración II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -3028,7 +3042,8 @@
           "ar": "هبة رقصة الزهرة 1",
           "th": "พรระบำบุปผา I",
           "es-419": "Bendición de la Floradanza I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -3065,7 +3080,8 @@
           "ar": "هبة رقصة الزهرة 2",
           "th": "พรระบำบุปผา II",
           "es-419": "Bendición de la Floradanza II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -4679,7 +4695,8 @@
           "ar": "التعافي الفائق 1",
           "th": "ฟื้นฟูขั้นสุด I",
           "es-419": "Superrecuperación I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -4716,7 +4733,8 @@
           "ar": "التعافي الفائق 2",
           "th": "ฟื้นฟูขั้นสุด II",
           "es-419": "Superrecuperación II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -4982,7 +5000,8 @@
           "ar": "درع مثالي 1",
           "th": "เกราะไร้รอย I",
           "es-419": "Armadura precisa I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -5019,7 +5038,8 @@
           "ar": "درع مثالي 2",
           "th": "เกราะไร้รอย II",
           "es-419": "Armadura precisa II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -5163,7 +5183,8 @@
           "ar": "الرقصة الفقاعية 1",
           "th": "ระบำฟองสบู่ I",
           "es-419": "Danza burbujeante I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -5200,7 +5221,8 @@
           "ar": "الرقصة الفقاعية 2",
           "th": "ระบำฟองสบู่ II",
           "es-419": "Danza burbujeante II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -5772,7 +5794,8 @@
           "ar": "الهجوم المضاد المقيِّد 1",
           "th": "โต้กลับพันธนาการ I",
           "es-419": "Contraataque atrapador I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -5809,7 +5832,8 @@
           "ar": "الهجوم المضاد المقيِّد 2",
           "th": "โต้กลับพันธนาการ II",
           "es-419": "Contraataque atrapador II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -6505,7 +6529,8 @@
           "ar": "شديد القوة 1",
           "th": "ตัวตึง I",
           "es-419": "¡Qué fuertes! I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -6542,7 +6567,8 @@
           "ar": "شديد القوة 2",
           "th": "ตัวตึง II",
           "es-419": "¡Qué fuertes! II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -6604,7 +6630,8 @@
           "ar": "حارق 1",
           "th": "ไฟแผดเผา I",
           "es-419": "Abrasador I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -6641,7 +6668,8 @@
           "ar": "حارق 2",
           "th": "ไฟแผดเผา II",
           "es-419": "Abrasador II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -6907,7 +6935,8 @@
           "ar": "حظ",
           "th": "โชค",
           "es-419": "Suerte"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -7093,7 +7122,8 @@
           "ar": "Satsui no Hado",
           "th": "ซัตสึอิ โนะ ฮาโด",
           "es-419": "Satsui no Hado"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -7155,7 +7185,8 @@
           "ar": "العداء المتبادل 1",
           "th": "คู่ปรปักษ์ I",
           "es-419": "Hostilidad mutua I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -7192,7 +7223,8 @@
           "ar": "العداء المتبادل 2",
           "th": "คู่ปรปักษ์ II",
           "es-419": "Hostilidad mutua II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -7316,7 +7348,8 @@
           "ar": "هبة مهرجان اللهب 1",
           "th": "พรงานฉลองเปลวเพลิง I",
           "es-419": "Bendición de la Chisparranda I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -7353,7 +7386,8 @@
           "ar": "هبة مهرجان اللهب 2",
           "th": "พรงานฉลองเปลวเพลิง II",
           "es-419": "Bendición de la Chisparranda II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -7539,7 +7573,8 @@
           "ar": "هبة تعويذة الأحلام 1",
           "th": "พรนิทรามนตรา I",
           "es-419": "Bendición de Sueñiencanto I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -7576,7 +7611,8 @@
           "ar": "هبة تعويذة الأحلام 2",
           "th": "พรนิทรามนตรา II",
           "es-419": "Bendición de Sueñiencanto II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -7700,7 +7736,8 @@
           "ar": "سيد التقطيع",
           "th": "ปรมาจารย์แล่เนื้อ",
           "es-419": "Despiece extra"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -7762,7 +7799,8 @@
           "ar": "صاعقة زرقاء 1",
           "th": "อัสนีสีคราม I",
           "es-419": "Relámpago celeste I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -7799,7 +7837,8 @@
           "ar": "صاعقة زرقاء 2",
           "th": "อัสนีสีคราม II",
           "es-419": "Relámpago celeste II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -7923,7 +7962,8 @@
           "ar": "الفنون المظلمة",
           "th": "ศาสตร์มืด",
           "es-419": "Artes oscuras"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -7960,7 +8000,8 @@
           "ar": "الليلة الظلماء",
           "th": "ราตรีอนธการ",
           "es-419": "La noche más oscura"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -8270,7 +8311,8 @@
           "ar": "هبة ترنيمة النور 1",
           "th": "พรเพลงสดุดีแห่งแสง I",
           "es-419": "Bendición de Iluminario I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -8307,7 +8349,8 @@
           "ar": "هبة ترنيمة النور 2",
           "th": "พรเพลงสดุดีแห่งแสง II",
           "es-419": "Bendición de Iluminario II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -8431,7 +8474,8 @@
           "ar": "شفرة السلاح الحاد 1",
           "th": "ใบมีดคมกริบ I",
           "es-419": "Filo I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -8468,7 +8512,8 @@
           "ar": "شفرة السلاح الحاد 2",
           "th": "ใบมีดคมกริบ II",
           "es-419": "Filo II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -8530,7 +8575,8 @@
           "ar": "الصدى 1",
           "th": "พลังสั่นพ้อง I",
           "es-419": "Resonancia I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -8567,7 +8613,8 @@
           "ar": "الصدى 2",
           "th": "พลังสั่นพ้อง II",
           "es-419": "Resonancia II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -10059,7 +10106,8 @@
           "ar": "انزلاق نسبة الضرر",
           "th": "สไลด์เพิ่มโอกาสคริติคอล",
           "es-419": "Afinidad deslizante"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -10467,7 +10515,8 @@
           "ar": "الهدير الرعدي 1",
           "th": "อัสนีคํารณ I",
           "es-419": "Rugido atronador I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -10504,7 +10553,8 @@
           "ar": "الهدير الرعدي 2",
           "th": "อัสนีคํารณ II",
           "es-419": "Rugido atronador II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -10832,7 +10882,8 @@
           "ar": "التحويل",
           "th": "ล่อเป้า",
           "es-419": "Distracción"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -11710,7 +11761,8 @@
           "ar": "الكسوف الأسود 1",
           "th": "อุปราคามืดมิด I",
           "es-419": "Eclipse negro I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -11747,7 +11799,8 @@
           "ar": "الكسوف الأسود 2",
           "th": "อุปราคามืดมิด II",
           "es-419": "Eclipse negro II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -11809,7 +11862,8 @@
           "ar": "صيحة الحرب 1",
           "th": "คำรามสู้ศึก I",
           "es-419": "Grito de guerra I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -11846,7 +11900,8 @@
           "ar": "صيحة الحرب 2",
           "th": "คำรามสู้ศึก II",
           "es-419": "Grito de guerra II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -12622,7 +12677,8 @@
           "ar": "معزز الانفجار 1",
           "th": "เสริมพลังระเบิดพลัง I",
           "es-419": "Bonus de ráfaga I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -12659,7 +12715,8 @@
           "ar": "معزز الانفجار 2",
           "th": "เสริมพลังระเบิดพลัง II",
           "es-419": "Bonus de ráfaga II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -14351,7 +14408,8 @@
           "ar": "شجاعة (إصرار)",
           "th": "ใจสู้ (ความมุ่งมั่น)",
           "es-419": "Agallas (tenacidad)"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -14413,7 +14471,8 @@
           "ar": "سيد الامتطاء",
           "th": "เซียนขี่สัตว์",
           "es-419": "As de la montura"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -15047,7 +15106,8 @@
           "ar": "الراكض السريع",
           "th": "ย่องไว",
           "es-419": "Pies alados"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -16005,7 +16065,8 @@
           "ar": "صياد العسل",
           "th": "นักล่าน้ำผึ้ง",
           "es-419": "Cazamieles"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -16067,7 +16128,8 @@
           "ar": "ضغينة 1",
           "th": "โลหิตมลทิน I",
           "es-419": "Mala sangre I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -16104,7 +16166,8 @@
           "ar": "ضغينة 2",
           "th": "โลหิตมลทิน II",
           "es-419": "Mala sangre II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -16166,7 +16229,8 @@
           "ar": "التحصّن",
           "th": "เสริมแกร่ง",
           "es-419": "Fortalecimiento"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",
@@ -16432,7 +16496,8 @@
           "ar": "الوشاح الواقي 1",
           "th": "ม่านคุ้มครอง I",
           "es-419": "Velo protector I"
-        }
+        },
+        "set_pieces_required": 2
       },
       {
         "level": 2,
@@ -16469,7 +16534,8 @@
           "ar": "الوشاح الواقي 2",
           "th": "ม่านคุ้มครอง II",
           "es-419": "Velo protector II"
-        }
+        },
+        "set_pieces_required": 4
       }
     ],
     "kind": "set",
@@ -16673,7 +16739,8 @@
           "ar": "الإعاشة",
           "th": "ทางหนีทีรอด",
           "es-419": "Resistencia"
-        }
+        },
+        "set_pieces_required": 3
       }
     ],
     "kind": "group",

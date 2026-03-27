@@ -3,7 +3,7 @@ use crate::processor::armor::{Bonus, BonusRank};
 use crate::processor::{
     armor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
 };
-use crate::serde::is_map_empty;
+use crate::serde::is_default;
 use crate::serde::ordered_map;
 use crate::should_run;
 use indicatif::ProgressBar;
@@ -85,6 +85,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         // Once sorted, we can convert that to a "real" level by setting the level to the index + 1.
         if skill.kind.is_armor_bonus() {
             for (index, rank) in skill.ranks.iter_mut().enumerate() {
+                rank.set_pieces_required = rank.level;
                 rank.level = (index as u8) + 1;
             }
         }
@@ -98,43 +99,52 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
     for data in &mut data {
         progress.inc(1);
 
+        // We only need to consider the first piece of armor in the set, since every piece should
+        // have the same set/group bonuses (except for "cross-series" bonuses, such as the
+        // Gogmazios Alpha Helm also counting as one piece for Zoh Shia's Pulse)
         let Some(armor) = data.pieces.first_mut() else {
             continue;
         };
-
-        let mut to_remove: Vec<isize> = Vec::new();
 
         for id in armor.skills.keys().copied() {
             let Some(skill) = lookup.find_in(id, &merged) else {
                 continue;
             };
 
-            let bonus = match skill.kind {
+            let bonus_slot = match skill.kind {
+                SkillKind::Group => &mut data.group_bonus_id,
+                SkillKind::Set => &mut data.set_bonus_id,
+                _ => continue,
+            };
+
+            // Only the first entry belonging to the matched slot should be persisted. Additional
+            // entries of the same type are "cross-series" bonuses.
+            if bonus_slot.is_none() {
+                *bonus_slot = Some(skill.game_id);
+            }
+
+            // TODO Deprecated
+            // region Deprecated: To be removed after 2026-05-01
+            let deprecated_bonus = match skill.kind {
                 SkillKind::Group => &mut data.group_bonus,
                 SkillKind::Set => &mut data.set_bonus,
                 _ => continue,
             };
 
-            let bonus = bonus.get_or_insert_with(|| Bonus {
+            let deprecated_bonus = deprecated_bonus.get_or_insert_with(|| Bonus {
                 skill_id: id,
                 ranks: Vec::new(),
             });
 
             for rank in &skill.ranks {
-                bonus.ranks.push(BonusRank {
-                    pieces: rank.pieces,
+                deprecated_bonus.ranks.push(BonusRank {
+                    pieces: rank.set_pieces_required,
                     skill_level: rank.level,
                 });
             }
 
-            bonus.ranks.sort_by_key(|v| v.pieces);
-            to_remove.push(id);
-        }
-
-        for armor in &mut data.pieces {
-            for id in &to_remove {
-                armor.skills.remove(id);
-            }
+            deprecated_bonus.ranks.sort_by_key(|v| v.pieces);
+            // endregion
         }
     }
 
@@ -151,7 +161,10 @@ struct Skill {
     game_id: isize,
     #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
-    #[serde(serialize_with = "ordered_map", skip_serializing_if = "is_map_empty")]
+    #[serde(
+        serialize_with = "ordered_map",
+        skip_serializing_if = "LanguageMap::is_empty"
+    )]
     descriptions: LanguageMap,
     ranks: Vec<Rank>,
     kind: SkillKind,
@@ -176,20 +189,22 @@ impl From<&SkillData> for Skill {
 #[derive(Debug, Serialize)]
 struct Rank {
     level: u8,
-    // Used for set and group bonuses, not serialized to merged file.
-    #[serde(skip)]
-    pieces: u8,
     #[serde(serialize_with = "ordered_map")]
     descriptions: LanguageMap,
-    #[serde(skip_serializing_if = "is_map_empty", serialize_with = "ordered_map")]
+    #[serde(
+        skip_serializing_if = "LanguageMap::is_empty",
+        serialize_with = "ordered_map"
+    )]
     names: LanguageMap,
+    #[serde(skip_serializing_if = "is_default")]
+    set_pieces_required: u8,
 }
 
 impl From<&RankData> for Rank {
     fn from(value: &RankData) -> Self {
         Self {
             level: value.level,
-            pieces: value.level,
+            set_pieces_required: 0,
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
         }
