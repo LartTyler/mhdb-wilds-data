@@ -82,7 +82,7 @@ impl UserExtractor {
                         panic!("Document does not contain an RSZ element at {index}");
                     });
 
-                serde_json::to_writer_pretty(out_file, target)
+                serde_json::to_writer_pretty(out_file, &target.value)
             }
             None => serde_json::to_writer_pretty(out_file, &doc.content.root_objects),
         }?;
