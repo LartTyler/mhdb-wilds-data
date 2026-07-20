@@ -25,6 +25,10 @@ all the merged data files are available in
 See [`/tools/README.md`](tools/README.md) for credits and information on the various tools used to make this project
 possible.
 
+## Related Resources
+
+- [MH Wilds Guides](https://mhwildsguides.xyz/) — Monster Hunter Wilds weapon tier lists, monster guides, armor builds, and skill combos.
+
 # Credits
 - [REMSG_Converter by dtlnor](https://github.com/dtlnor/REMSG_Converter)
 - [ree-pak-gui by eigeen](https://github.com/eigeen/ree-pak-gui)
