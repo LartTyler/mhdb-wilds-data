@@ -11,7 +11,7 @@ mod large;
 
 type MonsterId = isize;
 
-const REFS_FIELD: &str = "msg/RefEnvironment.json";
+const REFS_FIELD: &str = "msg/references/RefEnvironment.json";
 
 const MONSTER_DATA: &str = "user/monsters/EnemyData.json";
 const MONSTER_STRINGS: &str = "msg/EnemyText.json";

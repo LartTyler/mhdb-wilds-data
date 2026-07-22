@@ -1,4 +1,4 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::locations::StageId;
 use crate::processor::monsters::large::effectives::{Resistance, SpecialKind, Weakness};
 use crate::processor::monsters::large::identifiers::{IdentifierMap, Identifiers};
@@ -8,9 +8,7 @@ use crate::processor::monsters::large::size::Size;
 use crate::processor::monsters::{
     CommonData, MonsterId, SpeciesKind, MONSTER_DATA, MONSTER_STRINGS, REFS_FIELD,
 };
-use crate::processor::{
-    LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile,
-};
+use crate::processor::{LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
 use crate::serde::ordered_map;
 use anyhow::Context;
 use rslib::config::Config;

@@ -1,92 +1,232 @@
-use crate::placeholders::listener::Listener;
+use crate::glob;
+use crate::placeholders::enemy::Enemy;
+use crate::placeholders::pronouns::Pronouns;
 use crate::placeholders::reference::Reference;
-use crate::processor::{Language, LanguageMap};
-use rslib::formats::msg::Msg;
+use crate::placeholders::remove::Remove;
+use crate::processor::{Language, LanguageMap, ReadFile, Result};
+use rslib::config::Config;
+use rslib::formats::msg::{LanguageCode, Msg};
+use std::ops::Deref;
+use std::path::Path;
+use std::rc::Rc;
 use unicode_segmentation::UnicodeSegmentation;
 
-pub mod listener;
-pub mod reference;
+mod enemy;
+mod pronouns;
+mod reference;
+mod remove;
 
-pub enum Placeholder {
-    Reference(Reference),
-    Listener(Listener),
-    Remove(String),
+type Strings = Rc<Vec<Msg>>;
+
+#[derive(Debug)]
+enum Kind<'a> {
+    Reference(Reference<'a>),
+    Pronouns(Pronouns<'a>),
+    Enemy(Enemy<'a>),
+    Remove(Remove<'a>),
 }
 
-impl Placeholder {
-    pub fn extract(value: &str) -> Vec<Self> {
-        let mut placeholders = Vec::new();
+impl Apply for Kind<'_> {
+    fn apply(&self, value: &str, context: &Context) -> String {
+        use Kind::*;
 
-        for item in Item::extract(value) {
-            let placeholder = match item.kind() {
-                "REF" => Self::Reference(Reference::new(item.value)),
-                "LSNR" => Self::Listener(Listener::new(item.value)),
-                "BOLD" | "/BOLD" | "COLOR" | "/COLOR" => Self::Remove(item.value),
-                v => panic!("Unrecognized placeholder name '{v}'"),
-            };
-
-            placeholders.push(placeholder);
+        match self {
+            Reference(v) => v.apply(value, context),
+            Pronouns(v) => v.apply(value, context),
+            Enemy(v) => v.apply(value, context),
+            Remove(v) => v.apply(value, context),
         }
+    }
+}
 
-        placeholders
+#[derive(Debug, Clone)]
+pub struct Placeholders {
+    strings: Vec<Strings>,
+}
+
+impl Placeholders {
+    pub fn new(strings: Vec<Msg>) -> Self {
+        Self {
+            strings: vec![Rc::new(strings)],
+        }
     }
 
-    pub fn process(values: &mut LanguageMap, context: &ApplyContext<'_>) {
-        for (lang, value) in values {
-            let context = if context.reference_strings.is_empty() {
-                context
-            } else {
-                &context.with_lang(*lang)
-            };
+    pub fn with_default_strings(config: &Config) -> Result<Self> {
+        const REFS_GLOB: &str = "msg/references/*.json";
 
-            let placeholders = Self::extract(value);
+        let strings = glob::expand(&config.io.output, REFS_GLOB)?
+            .into_iter()
+            .map(Msg::read_file)
+            .collect::<Result<Vec<_>>>()?;
 
-            for placeholder in placeholders {
-                let new_value = placeholder.apply(value, context);
-                *value = new_value;
+        Ok(Self::new(strings))
+    }
+
+    pub fn extend(&self) -> ExtendPlaceholders {
+        ExtendPlaceholders::new(self.clone())
+    }
+
+    pub fn append(&self, strings: Vec<Msg>) -> Self {
+        let mut strings = vec![Rc::new(strings)];
+        strings.extend(self.strings.iter().cloned());
+
+        Self { strings }
+    }
+
+    pub fn apply(&self, values: &mut LanguageMap) {
+        for (language, value) in values {
+            let context = Context::new(&self.strings, *language);
+            let nodes = Node::extract(value);
+            log::trace!("Found {} node(s) for '{}'", nodes.len(), value);
+
+            let new_value = nodes.into_iter().fold(value.to_owned(), |value, node| {
+                let placeholder: Kind = match node.id() {
+                    Reference::ID => Reference::new(&node).into(),
+                    Pronouns::ID_LISTENER | Pronouns::ID_SPEAKER => Pronouns::new(&node).into(),
+                    Enemy::ID_NORMAL => Enemy::normal(&node).into(),
+                    Enemy::ID_KANJI => Enemy::kanji(&node).into(),
+                    Remove::BOLD
+                    | Remove::BOLD_END
+                    | Remove::COLOR
+                    | Remove::COLOR_END
+                    | Remove::SIZE
+                    | Remove::SIZE_END
+                    | Remove::ICON => Remove::new(&node).into(),
+                    other => panic!("Unrecognized placeholder '{other}' in '{}'", value),
+                };
+
+                placeholder.apply(&value, &context)
+            });
+
+            *value = new_value;
+        }
+    }
+
+    pub fn find_by_guid(&self, guid: &str) -> Option<&Msg> {
+        log::trace!("Searching {} set(s) for {guid}", self.strings.len());
+
+        for set in &self.strings {
+            log::trace!("Set contains {} entries", set.len());
+
+            for strings in set.deref() {
+                if strings.find(guid).is_some() {
+                    return Some(strings);
+                }
             }
         }
+
+        None
     }
 }
 
-impl ApplyPlaceholder for Placeholder {
-    fn apply(&self, value: &str, context: &ApplyContext<'_>) -> String {
-        match self {
-            Self::Listener(v) => v.apply(value, context),
-            Self::Reference(v) => v.apply(value, context),
-            Self::Remove(pattern) => value.replace(pattern, ""),
+pub struct ExtendPlaceholders {
+    base: Placeholders,
+    to_add: Vec<Msg>,
+}
+
+impl ExtendPlaceholders {
+    fn new(base: Placeholders) -> Self {
+        Self {
+            base,
+            to_add: Vec::new(),
         }
     }
+
+    pub fn size(&self) -> usize {
+        self.to_add.len()
+    }
+
+    pub fn add(&mut self, strings: Msg) -> &mut Self {
+        self.to_add.push(strings);
+        self
+    }
+
+    pub fn add_file<P: AsRef<Path>>(&mut self, path: P) -> Result<&mut Self> {
+        self.add(Msg::read_file(path)?);
+        Ok(self)
+    }
+
+    pub fn add_glob<P: AsRef<Path>>(&mut self, base: P, glob: &str) -> Result<&mut Self> {
+        let files = glob::expand(base, glob)?;
+
+        for file in files {
+            self.add_file(file)?;
+        }
+
+        Ok(self)
+    }
+
+    pub fn done(self) -> Placeholders {
+        self.base.append(self.to_add)
+    }
 }
 
-enum State {
-    Read,
-    Placeholder { start: usize },
+#[derive(Debug)]
+struct Context<'a> {
+    string_sets: &'a [Strings],
+    language: LanguageCode,
 }
 
-struct Item {
-    value: String,
+impl<'a> Context<'a> {
+    fn new(strings: &'a [Strings], language: Language) -> Self {
+        Self {
+            string_sets: strings,
+            language: language.into(),
+        }
+    }
+
+    fn find_reference(&self, name: &str) -> Option<&str> {
+        log::trace!("Searching {} set(s) for {name}", self.string_sets.len());
+
+        for set in self.string_sets {
+            log::trace!("Set contains {} entries", set.len());
+
+            for strings in set.deref() {
+                if let Some(value) = strings.find_lang_by_name(name, self.language) {
+                    return Some(value);
+                }
+            }
+        }
+
+        None
+    }
 }
 
-impl Item {
-    const BOUNDARY_START_CHAR: &'static str = "<";
-    const BOUNDARY_END_CHAR: &'static str = ">";
+trait Apply {
+    fn apply(&self, value: &str, context: &Context) -> String;
+}
 
-    fn extract(value: &str) -> Vec<Self> {
-        let mut state = State::Read;
+#[derive(Debug)]
+struct Node<'a> {
+    matched: &'a str,
+}
+
+impl<'a> Node<'a> {
+    const BOUNDARY_START: &'static str = "<";
+    const BOUNDARY_END: &'static str = ">";
+
+    fn extract(value: &'a str) -> Vec<Self> {
+        enum State {
+            Search,
+            Consume { start: usize },
+        }
+
         let mut matches = Vec::new();
+        let mut state = State::Search;
 
         for (offset, char) in value.grapheme_indices(true) {
             match state {
-                State::Read => {
-                    if char == Self::BOUNDARY_START_CHAR {
-                        state = State::Placeholder { start: offset }
+                State::Search => {
+                    if char == Self::BOUNDARY_START {
+                        state = State::Consume { start: offset };
                     }
                 }
-                State::Placeholder { start } => {
-                    if char == Self::BOUNDARY_END_CHAR {
-                        matches.push(Self::new(&value[start..=offset]));
-                        state = State::Read;
+                State::Consume { start } => {
+                    if char == Self::BOUNDARY_END {
+                        state = State::Search;
+                        matches.push(Self {
+                            matched: &value[start..=offset],
+                        });
                     }
                 }
             }
@@ -95,55 +235,21 @@ impl Item {
         matches
     }
 
-    fn new(value: &str) -> Self {
-        Self {
-            value: value.to_owned(),
-        }
+    fn id(&self) -> &str {
+        let end = self.matched.find(' ').unwrap_or(self.matched.len() - 1);
+        &self.matched[1..end]
     }
 
-    fn kind(&self) -> &str {
-        let end_index = self.value.find(' ').unwrap_or(self.value.len() - 1);
-        &self.value[1..end_index]
-    }
-}
+    fn args(&self) -> Vec<&str> {
+        let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
 
-pub struct ApplyContext<'a> {
-    pub reference_strings: Vec<&'a Msg>,
-    pub language: Language,
-}
-
-impl<'a> ApplyContext<'a> {
-    pub fn empty() -> Self {
-        Self::new(vec![])
+        self.matched[start..self.matched.len() - 1]
+            .split(' ')
+            .collect()
     }
 
-    pub fn new(reference_strings: Vec<&'a Msg>) -> Self {
-        Self {
-            reference_strings,
-            language: Language::Disabled,
-        }
+    fn value(&self) -> &'a str {
+        let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
+        &self.matched[start..self.matched.len() - 1]
     }
-
-    pub fn with_lang(&self, language: Language) -> Self {
-        Self {
-            language,
-            reference_strings: self.reference_strings.clone(),
-        }
-    }
-
-    pub fn find_reference(&self, name: &str) -> Option<&str> {
-        let lang = self.language.into();
-
-        for strings in &self.reference_strings {
-            if let Some(value) = strings.find_lang_by_name(name, lang) {
-                return Some(value);
-            }
-        }
-
-        None
-    }
-}
-
-pub trait ApplyPlaceholder {
-    fn apply(&self, value: &str, context: &ApplyContext<'_>) -> String;
 }

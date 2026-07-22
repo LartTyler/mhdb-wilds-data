@@ -1,3 +1,4 @@
+use serde::ser::SerializeSeq;
 use serde::{Serialize, Serializer};
 use std::collections::{BTreeMap, HashMap};
 
@@ -28,6 +29,25 @@ where
 
     let value: BTreeMap<_, _> = value.iter().collect();
     serializer.serialize_some(&value)
+}
+
+pub fn vec_ordered_maps<S, K, V>(
+    value: &Vec<HashMap<K, V>>,
+    serializer: S,
+) -> Result<S::Ok, S::Error>
+where
+    S: Serializer,
+    K: Ord + Serialize,
+    V: Serialize,
+{
+    let mut seq = serializer.serialize_seq(Some(value.len()))?;
+
+    for item in value {
+        let item: BTreeMap<_, _> = item.iter().collect();
+        seq.serialize_element(&item)?;
+    }
+
+    seq.end()
 }
 
 pub fn is_default<T>(value: &T) -> bool

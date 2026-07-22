@@ -1,3 +1,5 @@
+use crate::placeholders::Placeholders;
+use crate::processor::context::Context;
 use clap::ValueEnum;
 use console::Style;
 use rslib::config::Config;
@@ -16,8 +18,10 @@ mod accessories;
 mod amulets;
 mod armor;
 mod charms;
+mod context;
 mod items;
 mod locations;
+mod missions;
 mod monsters;
 mod skills;
 mod weapons;
@@ -49,6 +53,7 @@ pub enum Processor {
     Monsters,
     Locations,
     WeaponSeries,
+    Missions,
 }
 
 impl Processor {
@@ -108,6 +113,48 @@ type IdMap = HashMap<isize, u8>;
 /// during processing.
 type LookupMap<K = isize> = HashMap<K, usize>;
 
+pub trait GameId {
+    type Id: Hash + Eq;
+    fn get_game_id(&self) -> Self::Id;
+}
+
+pub struct FileObjects<V: GameId> {
+    items: Vec<V>,
+    lookup: LookupMap<V::Id>,
+}
+
+impl<V: GameId> FileObjects<V> {
+    pub fn with_capacity(capacity: usize) -> Self {
+        Self {
+            items: Vec::with_capacity(capacity),
+            lookup: LookupMap::with_capacity(capacity),
+        }
+    }
+
+    pub fn size(&self) -> usize {
+        self.items.len()
+    }
+
+    pub fn add(&mut self, item: V) {
+        self.lookup.insert(item.get_game_id(), self.items.len());
+        self.items.push(item);
+    }
+
+    pub fn get(&self, id: V::Id) -> Option<&V> {
+        let index = self.lookup.get(&id)?;
+        self.items.get(*index)
+    }
+
+    pub fn take(&mut self, id: V::Id) -> Option<V> {
+        let index = self.lookup.remove(&id)?;
+        Some(self.items.swap_remove(index))
+    }
+
+    pub fn items(self) -> Vec<V> {
+        self.items
+    }
+}
+
 macro_rules! _replace_expr {
     ($_t:tt $sub:expr) => {
         $sub
@@ -139,6 +186,9 @@ macro_rules! sections {
 }
 
 pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
+    let placeholders = Placeholders::with_default_strings(config)?;
+    let context = Context::new(placeholders);
+
     sections! {
         "Merging accessory files..." => accessories::process(config, filters)?,
         "Merging item files..." => items::process(config, filters)?,
@@ -149,6 +199,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging weapon files..." => weapons::process(config, filters)?,
         "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
+        "Merging mission files..." => missions::process(config, filters, &context)?,
     }
 
     Ok(())
@@ -163,6 +214,12 @@ pub enum Error {
 
     #[error("parse: {0}")]
     Parse(#[from] serde_json::Error),
+
+    #[error("glob: {0}")]
+    Glob(#[from] wax::GlobError),
+
+    #[error("{0}")]
+    Generic(&'static str),
 }
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
@@ -355,7 +412,7 @@ impl PopulateStrings for Msg {
     }
 }
 
-trait ReadFile {
+pub trait ReadFile {
     fn read_file<P: AsRef<Path>>(path: P) -> Result<Self>
     where
         Self: Sized;
@@ -382,10 +439,8 @@ where
     fn write_file<P: AsRef<Path>>(&self, path: P) -> Result {
         let parent = path.as_ref().parent();
 
-        if let Some(parent) = parent {
-            if !parent.exists() {
-                fs::create_dir_all(parent)?;
-            }
+        if let Some(parent) = parent.filter(|v| v.exists()) {
+            fs::create_dir_all(parent)?;
         }
 
         fs::write(path, serde_json::to_string_pretty(self)?)?;

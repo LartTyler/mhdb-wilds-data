@@ -46,6 +46,7 @@ fn main() -> Result<()> {
     Ok(())
 }
 
+#[derive(Debug)]
 enum ExtractorKind {
     User,
     Msg,
@@ -99,19 +100,29 @@ fn run_targets(
     section: &Files,
     extractor_kind: ExtractorKind,
 ) -> Result<()> {
+    log::debug!("Starting {extractor_kind:?} extractor");
+
     let out_dir = config.io.output.join(extractor_kind.get_output_prefix());
+    log::debug!(
+        "Output directory = {out_dir:?}, cwd = {:?}",
+        std::env::current_dir()?
+    );
 
     if !fs::exists(&out_dir)? {
+        log::trace!("Creating output directory");
         fs::create_dir_all(&out_dir)?;
     }
 
     let extractor = extractor_kind.create(cli, config)?;
+    log::trace!("Built extractor.");
 
     let targets = get_candidate_targets(
         &config.io.data,
         section.input_prefix.as_deref(),
         &section.targets,
     )?;
+
+    log::trace!("Found candidates: {targets:#?}");
 
     let progress = ProgressBar::new(targets.len_all_files() as u64);
 
