@@ -145,12 +145,11 @@ impl<V: GameId> FileObjects<V> {
         self.items.get(*index)
     }
 
-    pub fn take(&mut self, id: V::Id) -> Option<V> {
-        let index = self.lookup.remove(&id)?;
-        Some(self.items.swap_remove(index))
+    pub fn items_mut(&mut self) -> &mut [V] {
+        self.items.as_mut()
     }
 
-    pub fn items(self) -> Vec<V> {
+    pub fn take_items(self) -> Vec<V> {
         self.items
     }
 }

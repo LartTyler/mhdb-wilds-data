@@ -29,6 +29,10 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
     let data: Vec<MissionData> = Vec::read_file(config.data_path(MISSION_DATA))?;
     let mut missions = FileObjects::with_capacity(data.len());
 
+    // We use this to track which steps actually got added to missions. Some missions use IDs that
+    // don't exist as part of their unlock requirements, which we need to exclude.
+    let mut step_ids = HashSet::with_capacity(steps.size());
+
     for data in data {
         log::trace!("Processing mission {}", data.id);
 
@@ -93,6 +97,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
                 continue;
             }
 
+            step_ids.insert(step.game_id);
             mission.steps.push(step);
         }
 
@@ -101,7 +106,22 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
 
     log::trace!("Found {} mission(s)", missions.size());
 
-    let mut missions = missions.items();
+    // Drop from mission requirements any required step whose ID we didn't add to another mission
+    // during the main merging loop. Those step IDs point to a mission step we ignored, most likely
+    // because the step didn't actually exist, or because it only contained blank/placeholder data.
+    for mission in missions.items_mut() {
+        let valid = mission
+            .requirements
+            .mission_steps
+            .iter()
+            .cloned()
+            .filter(|v| step_ids.contains(v))
+            .collect();
+
+        mission.requirements.mission_steps = valid;
+    }
+
+    let mut missions = missions.take_items();
     missions.sort_by_key(|v| v.game_id);
 
     missions.write_file(config.merged_path("Missions.json"))?;

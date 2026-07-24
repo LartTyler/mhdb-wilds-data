@@ -228,9 +228,7 @@
     ],
     "requirements": {
       "hunter_rank": null,
-      "mission_steps": [
-        1377068672
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -4894,7 +4892,6 @@
     "requirements": {
       "hunter_rank": null,
       "mission_steps": [
-        -1444411264,
         -282127296
       ]
     }
@@ -5563,9 +5560,6 @@
     "requirements": {
       "hunter_rank": null,
       "mission_steps": [
-        -1434284800,
-        -351740064,
-        873697728,
         2009542528
       ]
     }
@@ -6134,7 +6128,6 @@
     "requirements": {
       "hunter_rank": null,
       "mission_steps": [
-        -1069308800,
         -487541568
       ]
     }
@@ -8936,9 +8929,7 @@
     ],
     "requirements": {
       "hunter_rank": null,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -9037,7 +9028,6 @@
     "requirements": {
       "hunter_rank": null,
       "mission_steps": [
-        -1069308800,
         459256192
       ]
     }
@@ -9137,9 +9127,7 @@
     ],
     "requirements": {
       "hunter_rank": null,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -9237,9 +9225,7 @@
     ],
     "requirements": {
       "hunter_rank": null,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -9337,9 +9323,7 @@
     ],
     "requirements": {
       "hunter_rank": null,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -10348,7 +10332,6 @@
     "requirements": {
       "hunter_rank": 31,
       "mission_steps": [
-        -1069308800,
         814667328
       ]
     }
@@ -10525,7 +10508,6 @@
     "requirements": {
       "hunter_rank": 31,
       "mission_steps": [
-        -1069308800,
         814667328
       ]
     }
@@ -10601,9 +10583,7 @@
     ],
     "requirements": {
       "hunter_rank": 31,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
@@ -10701,9 +10681,7 @@
     ],
     "requirements": {
       "hunter_rank": 31,
-      "mission_steps": [
-        -1069308800
-      ]
+      "mission_steps": []
     }
   },
   {
