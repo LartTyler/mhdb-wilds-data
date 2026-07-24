@@ -174,7 +174,7 @@ macro_rules! sections {
         let count = _count!($( $msg )*);
 
         let mut header_fn = move |message: &str| {
-            println!("{} {message}", style.apply_to(format!("[{position}/{count}]")));
+            println!("{} {message}", style.apply_to(format!("[{position:2}/{count}]")));
             position += 1;
         };
 
