@@ -129,7 +129,8 @@ rsz = [0]
 [[user.targets]]
 output_prefix = "missions/data"
 files = [
-    "Mission/Mission????*/Ms*Data.user.3"
+    "Mission/Mission????*/Ms*Data.user.3",
+    "Mission/Mission????*/_Quest/Ms*QuestData.user.3"
 ]
 
 [msg]

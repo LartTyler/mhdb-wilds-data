@@ -34,7 +34,7 @@ impl<'a> Pronouns<'a> {
                 State::Search => {
                     if char == Self::BOUNDARY_CHAR {
                         log::trace!("Found boundary char, entering Prepare");
-                        state = State::Consume { start: offset };
+                        state = State::Prepare;
                     }
                 }
                 State::Prepare => {

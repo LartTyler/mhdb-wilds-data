@@ -21,10 +21,13 @@ mod charms;
 mod context;
 mod items;
 mod locations;
-mod missions;
 mod monsters;
+mod quests;
 mod skills;
 mod weapons;
+
+pub type Zenny = usize;
+pub type RankPoints = u16;
 
 #[derive(Debug, Deserialize, ValueEnum, Copy, Clone, Ord, PartialOrd, Eq, PartialEq)]
 #[serde(rename_all = "lowercase")]
@@ -53,7 +56,7 @@ pub enum Processor {
     Monsters,
     Locations,
     WeaponSeries,
-    Missions,
+    Quests,
 }
 
 impl Processor {
@@ -198,7 +201,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging weapon files..." => weapons::process(config, filters)?,
         "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
-        "Merging mission files..." => missions::process(config, filters, &context)?,
+        "Merging quest files..." => quests::process(config, filters, &context)?,
     }
 
     Ok(())
@@ -397,7 +400,7 @@ impl PopulateStrings for Msg {
     fn populate(&self, guid: &str, strings: &mut LanguageMap) {
         for (index, lang) in self.languages.iter().enumerate() {
             if let Some(value) = self.get(guid, index) {
-                strings.insert(lang.into(), value.to_owned());
+                strings.insert(lang.into(), value.trim_end().to_owned());
             }
         }
     }
@@ -405,7 +408,7 @@ impl PopulateStrings for Msg {
     fn populate_by_name(&self, name: &str, strings: &mut LanguageMap) {
         for (index, lang) in self.languages.iter().enumerate() {
             if let Some(value) = self.get_by_name(name, index) {
-                strings.insert(lang.into(), value.to_owned());
+                strings.insert(lang.into(), value.trim_end().to_owned());
             }
         }
     }

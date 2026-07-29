@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Merge Missions" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="By Type">
-    <option name="command" value="run --package merger --bin merger -- --filter missions" />
+  <configuration default="false" name="Merge Quests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="By Type">
+    <option name="command" value="run --package merger --bin merger -- --filter quests" />
     <option name="workingDirectory" value="file://$PROJECT_DIR$/../.." />
     <envs>
       <env name="RUST_LOG" value="debug" />

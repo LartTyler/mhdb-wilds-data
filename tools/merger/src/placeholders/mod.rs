@@ -1,5 +1,6 @@
 use crate::glob;
 use crate::placeholders::enemy::Enemy;
+use crate::placeholders::escape::Escape;
 use crate::placeholders::pronouns::Pronouns;
 use crate::placeholders::reference::Reference;
 use crate::placeholders::remove::Remove;
@@ -12,6 +13,7 @@ use std::rc::Rc;
 use unicode_segmentation::UnicodeSegmentation;
 
 mod enemy;
+mod escape;
 mod pronouns;
 mod reference;
 mod remove;
@@ -24,6 +26,7 @@ enum Kind<'a> {
     Pronouns(Pronouns<'a>),
     Enemy(Enemy<'a>),
     Remove(Remove<'a>),
+    Escape(Escape<'a>),
 }
 
 impl Apply for Kind<'_> {
@@ -35,6 +38,7 @@ impl Apply for Kind<'_> {
             Pronouns(v) => v.apply(value, context),
             Enemy(v) => v.apply(value, context),
             Remove(v) => v.apply(value, context),
+            Escape(v) => v.apply(value, context),
         }
     }
 }
@@ -80,11 +84,14 @@ impl Placeholders {
             log::trace!("Found {} node(s) for '{}'", nodes.len(), value);
 
             let new_value = nodes.into_iter().fold(value.to_owned(), |value, node| {
+                log::trace!(">> Processing node {}", node.matched);
+
                 let placeholder: Kind = match node.id() {
                     Reference::ID => Reference::new(&node).into(),
                     Pronouns::ID_LISTENER | Pronouns::ID_SPEAKER => Pronouns::new(&node).into(),
                     Enemy::ID_NORMAL => Enemy::normal(&node).into(),
                     Enemy::ID_KANJI => Enemy::kanji(&node).into(),
+                    Escape::ID => Escape::new(&node).into(),
                     Remove::BOLD
                     | Remove::BOLD_END
                     | Remove::COLOR
@@ -176,13 +183,26 @@ impl<'a> Context<'a> {
     }
 
     fn find_reference(&self, name: &str) -> Option<&str> {
-        log::trace!("Searching {} set(s) for {name}", self.string_sets.len());
+        log::trace!(
+            "Searching {} set(s) for {name} ({:?})",
+            self.string_sets.len(),
+            self.language
+        );
 
         for set in self.string_sets {
             log::trace!("Set contains {} entries", set.len());
 
             for strings in set.deref() {
                 if let Some(value) = strings.find_lang_by_name(name, self.language) {
+                    return Some(value);
+                }
+
+                // Some REFs, such as `EnemyText_JP_NAME_*`, seem to fall back on the
+                // Japanese entry if one isn't found for the user's current language.
+                //
+                // I _think_ this is to prevent duplicated values for languages that share the
+                // same value, such as Japanese and Simplified Chinese.
+                if let Some(value) = strings.find_lang_by_name(name, LanguageCode::Japanese) {
                     return Some(value);
                 }
             }
@@ -202,54 +222,89 @@ struct Node<'a> {
 }
 
 impl<'a> Node<'a> {
-    const BOUNDARY_START: &'static str = "<";
-    const BOUNDARY_END: &'static str = ">";
+    const PLACEHOLDER_START: &'static str = "<";
+    const PLACEHOLDER_END: &'static str = ">";
+    const ESCAPE_START: &'static str = "&";
+    const ESCAPE_END: &'static str = ";";
 
     fn extract(value: &'a str) -> Vec<Self> {
         enum State {
             Search,
-            Consume { start: usize },
+            Consume {
+                start: usize,
+                boundary_char: &'static str,
+            },
         }
 
-        let mut matches = Vec::new();
-        let mut state = State::Search;
+        let (_state, matches) = value.grapheme_indices(true).fold(
+            (State::Search, Vec::new()),
+            |(state, mut matches), (offset, char)| {
+                let new_state = match state {
+                    State::Search => match char {
+                        Self::PLACEHOLDER_START => State::Consume {
+                            start: offset,
+                            boundary_char: Self::PLACEHOLDER_END,
+                        },
+                        Self::ESCAPE_START => State::Consume {
+                            start: offset,
+                            boundary_char: Self::ESCAPE_END,
+                        },
+                        _ => state,
+                    },
+                    State::Consume {
+                        start,
+                        boundary_char,
+                    } => {
+                        if char == boundary_char {
+                            matches.push(Self {
+                                matched: &value[start..=offset],
+                            });
 
-        for (offset, char) in value.grapheme_indices(true) {
-            match state {
-                State::Search => {
-                    if char == Self::BOUNDARY_START {
-                        state = State::Consume { start: offset };
+                            State::Search
+                        } else {
+                            state
+                        }
                     }
-                }
-                State::Consume { start } => {
-                    if char == Self::BOUNDARY_END {
-                        state = State::Search;
-                        matches.push(Self {
-                            matched: &value[start..=offset],
-                        });
-                    }
-                }
-            }
-        }
+                };
+
+                (new_state, matches)
+            },
+        );
 
         matches
     }
 
+    fn is_escape(&self) -> bool {
+        self.matched.starts_with(Self::ESCAPE_START)
+    }
+
     fn id(&self) -> &str {
-        let end = self.matched.find(' ').unwrap_or(self.matched.len() - 1);
-        &self.matched[1..end]
+        if self.is_escape() {
+            "&"
+        } else {
+            let end = self.matched.find(' ').unwrap_or(self.matched.len() - 1);
+            &self.matched[1..end]
+        }
     }
 
     fn args(&self) -> Vec<&str> {
-        let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
+        if self.is_escape() {
+            vec![self.value()]
+        } else {
+            let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
 
-        self.matched[start..self.matched.len() - 1]
-            .split(' ')
-            .collect()
+            self.matched[start..self.matched.len() - 1]
+                .split(' ')
+                .collect()
+        }
     }
 
     fn value(&self) -> &'a str {
-        let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
-        &self.matched[start..self.matched.len() - 1]
+        if self.is_escape() {
+            &self.matched[1..self.matched.len() - 1]
+        } else {
+            let start = self.matched.find(' ').map(|v| v + 1).unwrap_or_default();
+            &self.matched[start..self.matched.len() - 1]
+        }
     }
 }
