@@ -7,6 +7,7 @@ use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::borrow::Borrow;
 use std::collections::HashMap;
 use std::fmt::Display;
 use std::fs;
@@ -127,6 +128,13 @@ pub struct FileObjects<V: GameId> {
 }
 
 impl<V: GameId> FileObjects<V> {
+    pub fn new() -> Self {
+        Self {
+            items: Vec::new(),
+            lookup: LookupMap::new(),
+        }
+    }
+
     pub fn with_capacity(capacity: usize) -> Self {
         Self {
             items: Vec::with_capacity(capacity),
@@ -143,9 +151,28 @@ impl<V: GameId> FileObjects<V> {
         self.items.push(item);
     }
 
-    pub fn get(&self, id: V::Id) -> Option<&V> {
-        let index = self.lookup.get(&id)?;
+    pub fn add_fetch_mut(&mut self, item: V) -> &mut V {
+        let id = item.get_game_id();
+        self.add(item);
+
+        self.get_mut(id)
+            .expect("Item was just inserted, it must exist")
+    }
+
+    pub fn get<Id>(&self, id: Id) -> Option<&V>
+    where
+        Id: Borrow<V::Id>,
+    {
+        let index = self.lookup.get(id.borrow())?;
         self.items.get(*index)
+    }
+
+    pub fn get_mut<Id>(&mut self, id: Id) -> Option<&mut V>
+    where
+        Id: Borrow<V::Id>,
+    {
+        let index = self.lookup.get(id.borrow())?;
+        self.items.get_mut(*index)
     }
 
     pub fn items_mut(&mut self) -> &mut [V] {

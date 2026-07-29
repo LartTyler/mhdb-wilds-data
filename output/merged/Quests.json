@@ -56,13 +56,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 41
+      "required_rank": 41
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 22320,
-      "rank_points": 1625
+      "rank_points": 1625,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -122,13 +154,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8280,
-      "rank_points": 90
+      "rank_points": 90,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -188,13 +252,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16560,
-      "rank_points": 825
+      "rank_points": 825,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -254,13 +350,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12600,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -320,13 +448,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 20
+      "required_rank": 20
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 35640,
-      "rank_points": 1694
+      "rank_points": 1694,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 598,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -386,13 +551,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 13320,
-      "rank_points": 550
+      "rank_points": 550,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 657,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -452,13 +649,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 4320,
-      "rank_points": 55
+      "rank_points": 55,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -518,13 +747,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 18000,
-      "rank_points": 825
+      "rank_points": 825,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -584,13 +845,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 792
+      "rank_points": 792,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -650,13 +948,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 9720,
-      "rank_points": 150
+      "rank_points": 150,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -716,13 +1051,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -782,13 +1149,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8280,
-      "rank_points": 90
+      "rank_points": 90,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -848,13 +1247,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7920,
-      "rank_points": 112
+      "rank_points": 112,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 23
+        }
+      ]
     }
   },
   {
@@ -914,13 +1345,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7560,
-      "rank_points": 120
+      "rank_points": 120,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -980,13 +1443,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 596,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -1046,13 +1536,55 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 46800,
-      "rank_points": 2534
+      "rank_points": 2534,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 2,
+          "chance": 6
+        },
+        {
+          "item_id": 160,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -1112,13 +1644,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 1
+      "required_rank": 1
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 57,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -1178,13 +1737,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 14040,
-      "rank_points": 600
+      "rank_points": 600,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 596,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -1244,13 +1830,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 6
+      "required_rank": 6
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8640,
-      "rank_points": 127
+      "rank_points": 127,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -1310,13 +1933,35 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 16
+      "required_rank": 16
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 15840,
-      "rank_points": 660
+      "rank_points": 660,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 418,
+          "amount": 1,
+          "chance": 40
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -1376,13 +2021,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 21960,
-      "rank_points": 1200
+      "rank_points": 1200,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 600,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 656,
+          "amount": 2,
+          "chance": 24
+        }
+      ]
     }
   },
   {
@@ -1442,13 +2114,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -1508,13 +2207,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -1574,13 +2300,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 16
+      "required_rank": 16
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 35280,
-      "rank_points": 1540
+      "rank_points": 1540,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 600,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -1640,13 +2393,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 6
+      "required_rank": 6
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7560,
-      "rank_points": 120
+      "rank_points": 120,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -1706,13 +2491,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -1772,13 +2584,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -1838,13 +2682,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7920,
-      "rank_points": 112
+      "rank_points": 112,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 23
+        }
+      ]
     }
   },
   {
@@ -1904,13 +2780,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 14760,
-      "rank_points": 650
+      "rank_points": 650,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 606,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -1970,13 +2873,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 455,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -2036,13 +2971,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 6
+      "required_rank": 6
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7560,
-      "rank_points": 120
+      "rank_points": 120,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -2102,13 +3069,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6480,
-      "rank_points": 75
+      "rank_points": 75,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -2168,13 +3167,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 4320,
-      "rank_points": 60
+      "rank_points": 60,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -2234,13 +3265,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -2300,13 +3363,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 6
+      "required_rank": 6
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8640,
-      "rank_points": 127
+      "rank_points": 127,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -2366,13 +3466,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 9000,
-      "rank_points": 135
+      "rank_points": 135,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -2432,13 +3569,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 15
+      "required_rank": 15
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 18000,
-      "rank_points": 780
+      "rank_points": 780,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 606,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -2498,13 +3662,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 1
+      "required_rank": 1
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -2564,13 +3760,45 @@
     },
     "conditions": {
       "max_players": 2,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 455,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -2630,13 +3858,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 9720,
-      "rank_points": 150
+      "rank_points": 150,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -2696,13 +3956,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12960,
-      "rank_points": 550
+      "rank_points": 550,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 535,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 602,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -2762,13 +4054,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 2,
+          "chance": 30
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -2828,13 +4152,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 45720,
-      "rank_points": 2343
+      "rank_points": 2343,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 570,
+          "amount": 2,
+          "chance": 3
+        },
+        {
+          "item_id": 570,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 12
+        }
+      ]
     }
   },
   {
@@ -2894,13 +4255,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 5760,
-      "rank_points": 84
+      "rank_points": 84,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -2960,13 +4353,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -3026,13 +4446,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8280,
-      "rank_points": 90
+      "rank_points": 90,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -3092,13 +4544,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 7560,
-      "rank_points": 120
+      "rank_points": 120,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -3158,13 +4642,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6120,
-      "rank_points": 65
+      "rank_points": 65,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -3224,13 +4740,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6480,
-      "rank_points": 75
+      "rank_points": 75,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -3290,13 +4838,55 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 43200,
-      "rank_points": 2204
+      "rank_points": 2204,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 2,
+          "chance": 6
+        },
+        {
+          "item_id": 160,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -3356,13 +4946,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 36000,
-      "rank_points": 1814
+      "rank_points": 1814,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -3422,13 +5044,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 15840,
-      "rank_points": 700
+      "rank_points": 700,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -3488,13 +5137,45 @@
     },
     "conditions": {
       "max_players": 2,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 9,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 126,
+          "amount": 3,
+          "chance": 14
+        },
+        {
+          "item_id": 176,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 227,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 781,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 807,
+          "amount": 1,
+          "chance": 18
+        }
+      ]
     }
   },
   {
@@ -3554,13 +5235,45 @@
     },
     "conditions": {
       "max_players": 2,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 9,
     "rewards": {
       "zenny": 15840,
-      "rank_points": 700
+      "rank_points": 700,
+      "items": [
+        {
+          "item_id": 5,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 12,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 226,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 646,
+          "amount": 1,
+          "chance": 3
+        },
+        {
+          "item_id": 779,
+          "amount": 1,
+          "chance": 37
+        },
+        {
+          "item_id": 807,
+          "amount": 1,
+          "chance": 28
+        }
+      ]
     }
   },
   {
@@ -3620,13 +5333,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 33480,
-      "rank_points": 2937
+      "rank_points": 2937,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -3686,13 +5431,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 3014
+      "rank_points": 3014,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -3752,13 +5529,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 35280,
-      "rank_points": 3168
+      "rank_points": 3168,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -3818,13 +5627,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 41
+      "required_rank": 41
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 3,
+          "chance": 18
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 738,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 739,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -3884,13 +5730,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19800,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -3950,13 +5828,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19800,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -4016,13 +5926,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19800,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -4082,13 +6024,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 3014
+      "rank_points": 3014,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -4148,13 +6122,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 100800,
-      "rank_points": 9000
+      "rank_points": 9000,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 669,
+          "amount": 10,
+          "chance": 1
+        },
+        {
+          "item_id": 669,
+          "amount": 5,
+          "chance": 29
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 36
+        }
+      ]
     }
   },
   {
@@ -4214,13 +6220,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -4280,13 +6318,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 41
+      "required_rank": 41
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 3,
+          "chance": 18
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 738,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 739,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -4346,13 +6421,45 @@
     },
     "conditions": {
       "max_players": 1,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 9,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 126,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 176,
+          "amount": 1,
+          "chance": 28
+        },
+        {
+          "item_id": 227,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 781,
+          "amount": 1,
+          "chance": 3
+        },
+        {
+          "item_id": 807,
+          "amount": 1,
+          "chance": 14
+        }
+      ]
     }
   },
   {
@@ -4412,13 +6519,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 3014
+      "rank_points": 3014,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -4478,13 +6617,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 3014
+      "rank_points": 3014,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -4544,13 +6715,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 50
+      "required_rank": 50
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 22680,
-      "rank_points": 2100
+      "rank_points": 2100,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 479,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 608,
+          "amount": 3,
+          "chance": 3
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 19
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 9
+        }
+      ]
     }
   },
   {
@@ -4610,13 +6813,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 5,
     "rewards": {
       "zenny": 39600,
-      "rank_points": 2550
+      "rank_points": 2550,
+      "items": [
+        {
+          "item_id": 479,
+          "amount": 3,
+          "chance": 24
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 756,
+          "amount": 3,
+          "chance": 10
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 5
+        },
+        {
+          "item_id": 822,
+          "amount": 2,
+          "chance": 18
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 26
+        }
+      ]
     }
   },
   {
@@ -4676,13 +6911,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34200,
-      "rank_points": 2976
+      "rank_points": 2976,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 4,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -4742,13 +7009,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 41
+      "required_rank": 41
     },
     "time_limit": 35,
     "lives": 3,
     "rewards": {
       "zenny": 30240,
-      "rank_points": 2100
+      "rank_points": 2100,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 2,
+          "chance": 23
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 23
+        },
+        {
+          "item_id": 625,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 668,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -4808,13 +7102,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 100800,
-      "rank_points": 9000
+      "rank_points": 9000,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 669,
+          "amount": 10,
+          "chance": 1
+        },
+        {
+          "item_id": 669,
+          "amount": 5,
+          "chance": 29
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 36
+        }
+      ]
     }
   },
   {
@@ -4874,13 +7200,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19800,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -4940,13 +7298,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 33120,
-      "rank_points": 2918
+      "rank_points": 2918,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -5006,13 +7396,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -5072,13 +7494,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 41
+      "required_rank": 41
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 30240,
-      "rank_points": 2100
+      "rank_points": 2100,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 2,
+          "chance": 23
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 23
+        },
+        {
+          "item_id": 625,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 668,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -5138,13 +7587,45 @@
     },
     "conditions": {
       "max_players": 2,
-      "required_hr": 16
+      "required_rank": 16
     },
     "time_limit": 50,
     "lives": 9,
     "rewards": {
       "zenny": 12240,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 5,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 12,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 226,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 646,
+          "amount": 1,
+          "chance": 3
+        },
+        {
+          "item_id": 778,
+          "amount": 1,
+          "chance": 37
+        },
+        {
+          "item_id": 807,
+          "amount": 1,
+          "chance": 28
+        }
+      ]
     }
   },
   {
@@ -5204,13 +7685,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34200,
-      "rank_points": 2976
+      "rank_points": 2976,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 4,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -5270,13 +7783,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 100800,
-      "rank_points": 9000
+      "rank_points": 9000,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 669,
+          "amount": 10,
+          "chance": 1
+        },
+        {
+          "item_id": 669,
+          "amount": 5,
+          "chance": 29
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 36
+        }
+      ]
     }
   },
   {
@@ -5336,13 +7881,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 100
+      "required_rank": 100
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 3014
+      "rank_points": 3014,
+      "items": [
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 35
+        },
+        {
+          "item_id": 625,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 5
+        },
+        {
+          "item_id": 661,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
+        }
+      ]
     }
   },
   {
@@ -5402,13 +7979,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -5468,13 +8077,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 5040,
-      "rank_points": 70
+      "rank_points": 70,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -5534,13 +8175,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -5600,13 +8273,55 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 47880,
-      "rank_points": 2613
+      "rank_points": 2613,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 2,
+          "chance": 6
+        },
+        {
+          "item_id": 160,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -5666,13 +8381,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 21960,
-      "rank_points": 1200
+      "rank_points": 1200,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 600,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 656,
+          "amount": 2,
+          "chance": 24
+        }
+      ]
     }
   },
   {
@@ -5732,13 +8474,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6480,
-      "rank_points": 70
+      "rank_points": 70,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -5798,13 +8572,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 8280,
-      "rank_points": 90
+      "rank_points": 90,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -5864,13 +8670,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 9000,
-      "rank_points": 135
+      "rank_points": 135,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -5930,13 +8773,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20520,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -5996,13 +8871,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 15840,
-      "rank_points": 770
+      "rank_points": 770,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -6062,13 +8969,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 3,
+          "chance": 31
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -6128,13 +9067,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12240,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 657,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -6194,13 +9165,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -6260,13 +9263,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 5760,
-      "rank_points": 55
+      "rank_points": 55,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -6326,13 +9361,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 455,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -6392,13 +9459,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 18000,
-      "rank_points": 825
+      "rank_points": 825,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -6458,13 +9557,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 13680,
-      "rank_points": 550
+      "rank_points": 550,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 602,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -6524,13 +9650,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 7
+      "required_rank": 7
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 10080,
-      "rank_points": 225
+      "rank_points": 225,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -6590,13 +9748,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 34560,
-      "rank_points": 1524
+      "rank_points": 1524,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -6656,13 +9851,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 1
+      "required_rank": 1
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 57,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -6722,13 +9944,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 606,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 2,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -6788,13 +10042,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -6854,13 +10135,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 21600,
-      "rank_points": 1140
+      "rank_points": 1140,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 418,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 570,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 16
+        }
+      ]
     }
   },
   {
@@ -6920,13 +10233,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -6986,13 +10326,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 4320,
-      "rank_points": 55
+      "rank_points": 55,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -7052,13 +10424,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 15120,
-      "rank_points": 650
+      "rank_points": 650,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 600,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -7118,13 +10517,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 3,
+          "chance": 31
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        }
+      ]
     }
   },
   {
@@ -7184,13 +10615,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20160,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 596,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -7250,13 +10708,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 6
+      "required_rank": 6
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 9720,
-      "rank_points": 150
+      "rank_points": 150,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 454,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -7316,13 +10806,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 40
+      "required_rank": 40
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 22320,
-      "rank_points": 1625
+      "rank_points": 1625,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -7382,13 +10904,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -7448,13 +10997,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16200,
-      "rank_points": 825
+      "rank_points": 825,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -7514,13 +11095,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -7580,13 +11193,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 1
+      "required_rank": 1
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 22
+        },
+        {
+          "item_id": 57,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -7646,13 +11286,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 8
+      "required_rank": 8
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12960,
-      "rank_points": 550
+      "rank_points": 550,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -7712,13 +11379,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6120,
-      "rank_points": 65
+      "rank_points": 65,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -7778,13 +11477,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 30
+      "required_rank": 30
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 20520,
-      "rank_points": 1080
+      "rank_points": 1080,
+      "items": [
+        {
+          "item_id": 62,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 158,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 7
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
+        }
+      ]
     }
   },
   {
@@ -7844,13 +11575,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 3
+      "required_rank": 3
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 5760,
-      "rank_points": 55
+      "rank_points": 55,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -7910,13 +11673,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16560,
-      "rank_points": 825
+      "rank_points": 825,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -7976,13 +11771,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12240,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
+        }
+      ]
     }
   },
   {
@@ -8042,13 +11869,40 @@
     },
     "conditions": {
       "max_players": 2,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12240,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -8108,13 +11962,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 1
+      "required_rank": 1
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -8174,13 +12060,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 5
+      "required_rank": 5
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 1440,
-      "rank_points": 10
+      "rank_points": 10,
+      "items": [
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 8
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 13
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -8240,13 +12163,40 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 3960,
-      "rank_points": 50
+      "rank_points": 50,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
+        }
+      ]
     }
   },
   {
@@ -8306,13 +12256,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 594,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 606,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 2,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -8372,13 +12354,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 16920,
-      "rank_points": 880
+      "rank_points": 880,
+      "items": [
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 598,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -8438,13 +12452,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 4
+      "required_rank": 4
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 6120,
-      "rank_points": 65
+      "rank_points": 65,
+      "items": [
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 54,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
+        }
+      ]
     }
   },
   {
@@ -8504,13 +12550,50 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 31
+      "required_rank": 31
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 37440,
-      "rank_points": 1742
+      "rank_points": 1742,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 159,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        }
+      ]
     }
   },
   {
@@ -8570,13 +12653,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 9
+      "required_rank": 9
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 12600,
-      "rank_points": 500
+      "rank_points": 500,
+      "items": [
+        {
+          "item_id": 55,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 59,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        }
+      ]
     }
   },
   {
@@ -8636,13 +12751,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 2
+      "required_rank": 2
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 4320,
-      "rank_points": 60
+      "rank_points": 60,
+      "items": [
+        {
+          "item_id": 13,
+          "amount": 1,
+          "chance": 14
+        },
+        {
+          "item_id": 26,
+          "amount": 2,
+          "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
+        },
+        {
+          "item_id": 53,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 58,
+          "amount": 1,
+          "chance": 17
+        },
+        {
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
+        }
+      ]
     }
   },
   {
@@ -8702,13 +12849,45 @@
     },
     "conditions": {
       "max_players": 4,
-      "required_hr": 21
+      "required_rank": 21
     },
     "time_limit": 50,
     "lives": 3,
     "rewards": {
       "zenny": 19080,
-      "rank_points": 935
+      "rank_points": 935,
+      "items": [
+        {
+          "item_id": 56,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 2,
+          "chance": 30
+        },
+        {
+          "item_id": 589,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        }
+      ]
     }
   }
 ]

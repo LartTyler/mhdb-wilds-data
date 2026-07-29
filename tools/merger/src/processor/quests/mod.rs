@@ -1,3 +1,5 @@
+mod rewards;
+
 use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
 use crate::processor::items::ItemId;
@@ -7,6 +9,7 @@ use crate::processor::{
 };
 use crate::serde::ordered_map;
 use crate::{glob, should_run};
+use rewards::Rewards;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
@@ -62,7 +65,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
         quests.add(quest);
     }
 
-    let mut quests = quests.take_items();
+    let mut quests = rewards::add_rewards(config, quests)?.take_items();
     quests.sort_by_key(|v| v.game_id);
 
     quests.write_file(config.merged_path("Quests.json"))
@@ -105,11 +108,7 @@ impl From<&QuestData> for Quest {
             conditions: value.conditions.clone(),
             time_limit: value.time_limit,
             lives: value.lives,
-            rewards: Rewards {
-                zenny: value.reward_zenny,
-                rank_points: value.reward_hr_points,
-                items: Vec::new(),
-            },
+            rewards: Rewards::new(value.reward_zenny, value.reward_hr_points),
         }
     }
 }
@@ -168,20 +167,6 @@ struct Conditions {
     max_players: u8,
     #[serde(rename(deserialize = "_OrderHR"))]
     required_rank: u8,
-}
-
-#[derive(Debug, Serialize)]
-struct Rewards {
-    zenny: Zenny,
-    rank_points: RankPoints,
-    items: Vec<ItemReward>,
-}
-
-#[derive(Debug, Serialize)]
-struct ItemReward {
-    item_id: ItemId,
-    amount: u8,
-    chance: u8,
 }
 
 #[derive(Debug, Deserialize)]

@@ -1,5 +1,5 @@
 use serde::{Serialize, Serializer};
-use std::collections::{BTreeMap, BTreeSet, HashMap, HashSet};
+use std::collections::{BTreeMap, HashMap};
 
 pub fn ordered_map<S, K, V>(value: &HashMap<K, V>, serializer: S) -> Result<S::Ok, S::Error>
 where
@@ -28,14 +28,6 @@ where
 
     let value: BTreeMap<_, _> = value.iter().collect();
     serializer.serialize_some(&value)
-}
-
-pub fn ordered_set<S, V>(value: &HashSet<V>, serializer: S) -> Result<S::Ok, S::Error>
-where
-    S: Serializer,
-    V: Ord + Serialize,
-{
-    value.iter().collect::<BTreeSet<_>>().serialize(serializer)
 }
 
 pub fn is_default<T>(value: &T) -> bool
