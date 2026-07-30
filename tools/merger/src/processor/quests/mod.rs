@@ -1,9 +1,5 @@
-mod rewards;
-mod unlocks;
-
 use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
-use crate::processor::items::ItemId;
 use crate::processor::quests::unlocks::UnlockCondition;
 use crate::processor::{
     FileObjects, GameId, Guid, LanguageMap, PopulateStrings, Processor, RankPoints, ReadFile,
@@ -17,6 +13,9 @@ use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 use std::path::Path;
+
+mod rewards;
+mod unlocks;
 
 pub type QuestId = isize;
 pub type QuestLevel = u8;
