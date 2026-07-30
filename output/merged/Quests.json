@@ -54,6 +54,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 7,
     "conditions": {
       "max_players": 4,
       "required_rank": 41
@@ -156,6 +157,7 @@
       "th": "เอริค (หน่วยแอสตรัม)",
       "es-419": "Erik (unidad Astrum)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -255,6 +257,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -354,6 +357,7 @@
       "th": "เจมมา (หน่วยเอวิส)",
       "es-419": "Gemma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -453,6 +457,7 @@
       "th": "โอลิเวีย (หน่วยแอสตรัม)",
       "es-419": "Olivia (unidad Astrum)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 20
@@ -557,6 +562,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -659,6 +665,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -761,6 +768,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -863,6 +871,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -967,6 +976,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -1071,6 +1081,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -1173,6 +1184,7 @@
       "th": "โอลิเวีย (หน่วยแอสตรัม)",
       "es-419": "Olivia (unidad Astrum)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -1272,6 +1284,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -1374,6 +1387,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -1473,6 +1487,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -1570,6 +1585,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -1679,6 +1695,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 1
@@ -1773,6 +1790,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -1870,6 +1888,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 6
@@ -1977,6 +1996,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 16
@@ -2066,6 +2086,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -2163,6 +2184,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -2260,6 +2282,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -2357,6 +2380,7 @@
       "th": "คอบบ์",
       "es-419": "Cobb"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 16
@@ -2451,6 +2475,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 6
@@ -2553,6 +2578,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -2650,6 +2676,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -2752,6 +2779,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -2851,6 +2879,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -2948,6 +2977,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -3050,6 +3080,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 6
@@ -3149,6 +3180,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -3251,6 +3283,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -3350,6 +3383,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -3452,6 +3486,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 6
@@ -3556,6 +3591,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -3663,6 +3699,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 15
@@ -3757,6 +3794,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 1
@@ -3859,6 +3897,7 @@
       "th": "พาลิโก (หน่วยเอวิส)",
       "es-419": "Camarada (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 2,
       "required_rank": 21
@@ -3958,6 +3997,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -4057,6 +4097,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -4159,6 +4200,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -4258,6 +4300,7 @@
       "th": "ฟาเบียส",
       "es-419": "Fabius"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -4362,6 +4405,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -4461,6 +4505,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -4558,6 +4603,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -4660,6 +4706,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -4762,6 +4809,7 @@
       "th": "อัลมา (พูดแทนโรฟ)",
       "es-419": "Alma (de parte de Rante)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -4861,6 +4909,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -4960,6 +5009,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -5069,6 +5119,7 @@
       "th": "เรกซ์",
       "es-419": "Rex"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -5168,6 +5219,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -5265,6 +5317,7 @@
       "th": "อาคุมะ",
       "es-419": "Akuma"
     },
+    "level": 5,
     "conditions": {
       "max_players": 2,
       "required_rank": 21
@@ -5367,6 +5420,7 @@
       "th": "ริคาร์โด (เสมียนลานประลอง)",
       "es-419": "Ricardo (ayudante de la Arena)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 2,
       "required_rank": 21
@@ -5469,6 +5523,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -5571,6 +5626,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -5673,6 +5729,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -5775,6 +5832,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 7,
     "conditions": {
       "max_players": 4,
       "required_rank": 41
@@ -5879,6 +5937,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -5978,6 +6037,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -6080,6 +6140,7 @@
       "th": "เอริค (หน่วยแอสตรัม)",
       "es-419": "Erik (unidad Astrum)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -6179,6 +6240,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -6281,6 +6343,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -6383,6 +6446,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -6482,6 +6546,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 7,
     "conditions": {
       "max_players": 4,
       "required_rank": 41
@@ -6589,6 +6654,7 @@
       "th": "อาคุมะ",
       "es-419": "Akuma"
     },
+    "level": 5,
     "conditions": {
       "max_players": 1,
       "required_rank": 21
@@ -6688,6 +6754,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -6790,6 +6857,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -6892,6 +6960,7 @@
       "th": "โอลิเวีย (หน่วยแอสตรัม)",
       "es-419": "Olivia (unidad Astrum)"
     },
+    "level": 8,
     "conditions": {
       "max_players": 4,
       "required_rank": 50
@@ -6991,6 +7060,7 @@
       "th": "ฟาเบียส",
       "es-419": "Fabius"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -7090,6 +7160,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -7192,6 +7263,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 8,
     "conditions": {
       "max_players": 4,
       "required_rank": 41
@@ -7289,6 +7361,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -7391,6 +7464,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -7493,6 +7567,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -7595,6 +7670,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -7697,6 +7773,7 @@
       "th": "โอเมกาและอัลฟา",
       "es-419": "Omega y Alpha"
     },
+    "level": 8,
     "conditions": {
       "max_players": 4,
       "required_rank": 41
@@ -7791,6 +7868,7 @@
       "th": "ริคาร์โด (เสมียนลานประลอง)",
       "es-419": "Ricardo (ayudante de la Arena)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 2,
       "required_rank": 16
@@ -7893,6 +7971,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -7995,6 +8074,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -8097,6 +8177,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 9,
     "conditions": {
       "max_players": 4,
       "required_rank": 100
@@ -8199,6 +8280,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -8301,6 +8383,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -8403,6 +8486,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -8505,6 +8589,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -8614,6 +8699,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -8708,6 +8794,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -8807,6 +8894,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -8909,6 +8997,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -9013,6 +9102,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -9115,6 +9205,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -9217,6 +9308,7 @@
       "th": "อัลมา (พูดแทนมากิ)",
       "es-419": "Alma (de parte de Maki)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -9316,6 +9408,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -9418,6 +9511,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -9517,6 +9611,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -9619,6 +9714,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -9721,6 +9817,7 @@
       "th": "เวอร์เนอร์ (หน่วยแอสตรัม)",
       "es-419": "Werner (unidad Astrum)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -9820,6 +9917,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -9917,6 +10015,7 @@
       "th": "ฮันเตอร์ (หน่วยเอวิส)",
       "es-419": "Cazador (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 7
@@ -10016,6 +10115,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -10120,6 +10220,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 1
@@ -10217,6 +10318,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -10319,6 +10421,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -10416,6 +10519,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -10518,6 +10622,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -10615,6 +10720,7 @@
       "th": "อัลมา (พูดแทนพลัมพีช)",
       "es-419": "Alma (de parte de Nectarina)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -10714,6 +10820,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -10811,6 +10918,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -10913,6 +11021,7 @@
       "th": "อัลมา (พูดแทนซัสซาฟริล)",
       "es-419": "Alma (de parte de Sassafrill)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -11007,6 +11116,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 6
@@ -11106,6 +11216,7 @@
       "th": "นาตา (หน่วยเอวิส)",
       "es-419": "Nata (unidad Avis)"
     },
+    "level": 7,
     "conditions": {
       "max_players": 4,
       "required_rank": 40
@@ -11205,6 +11316,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -11302,6 +11414,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -11404,6 +11517,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -11506,6 +11620,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 1
@@ -11603,6 +11718,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 8
@@ -11697,6 +11813,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -11799,6 +11916,7 @@
       "th": "อัลมา (พูดแทนซาโทห์)",
       "es-419": "Alma (de parte de Zatoh)"
     },
+    "level": 6,
     "conditions": {
       "max_players": 4,
       "required_rank": 30
@@ -11898,6 +12016,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 3
@@ -11997,6 +12116,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -12099,6 +12219,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -12201,6 +12322,7 @@
       "th": "พาลิโก (หน่วยเอวิส)",
       "es-419": "Camarada (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 2,
       "required_rank": 9
@@ -12295,6 +12417,7 @@
       "th": "พาลิโก (หน่วยเอวิส)",
       "es-419": "Camarada (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 1
@@ -12394,6 +12517,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 3,
     "conditions": {
       "max_players": 4,
       "required_rank": 5
@@ -12501,6 +12625,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -12598,6 +12723,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -12697,6 +12823,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21
@@ -12799,6 +12926,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 2,
     "conditions": {
       "max_players": 4,
       "required_rank": 4
@@ -12901,6 +13029,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 31
@@ -13005,6 +13134,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 4,
     "conditions": {
       "max_players": 4,
       "required_rank": 9
@@ -13107,6 +13237,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 1,
     "conditions": {
       "max_players": 4,
       "required_rank": 2
@@ -13209,6 +13340,7 @@
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
     },
+    "level": 5,
     "conditions": {
       "max_players": 4,
       "required_rank": 21

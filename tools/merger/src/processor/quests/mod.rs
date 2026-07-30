@@ -86,6 +86,7 @@ struct Quest {
     description: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
     client_name: LanguageMap,
+    level: QuestLevel,
     conditions: Conditions,
     time_limit: u8,
     lives: u8,
@@ -110,6 +111,7 @@ impl From<&QuestData> for Quest {
             title: LanguageMap::new(),
             description: LanguageMap::new(),
             client_name: LanguageMap::new(),
+            level: value.level,
             conditions: value.conditions.clone(),
             time_limit: value.time_limit,
             lives: value.lives,
