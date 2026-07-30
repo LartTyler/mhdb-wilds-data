@@ -25,16 +25,16 @@ pub fn add_rewards(config: &Config, mut quests: FileObjects<Quest>) -> Result<Fi
         let table = match reward_tables.get_mut(data.id) {
             Some(table) => table,
             None => {
-                log::trace!(">> Initialized new reward table with ID {}", data.id);
+                log::trace!("Initialized new reward table with ID {}", data.id);
                 reward_tables.add_fetch_mut(RewardTable::new(data.id))
             }
         };
 
-        log::trace!(">> Adding item {} to table {}", data.item_id, table.id);
+        log::trace!("Adding item {} to table {}", data.item_id, table.id);
         table.items.push(data.into());
     }
 
-    log::trace!(">> Sorting items in reward tables");
+    log::trace!("Sorting items in reward tables");
 
     for table in reward_tables.items_mut() {
         table.items.sort_by_key(|v| v.item_id);
@@ -46,7 +46,7 @@ pub fn add_rewards(config: &Config, mut quests: FileObjects<Quest>) -> Result<Fi
         .collect();
 
     for quest in quests.items_mut() {
-        log::trace!(">> Populating rewards for quest {}", quest.game_id);
+        log::trace!("Populating rewards for quest {}", quest.game_id);
 
         let Some(table_id) = data.get(&quest.game_id) else {
             continue;
@@ -57,7 +57,7 @@ pub fn add_rewards(config: &Config, mut quests: FileObjects<Quest>) -> Result<Fi
         };
 
         quest.rewards.items = table.items.clone();
-        log::trace!(">> Populated {} item reward(s)", quest.rewards.items.len());
+        log::trace!("Populated {} item reward(s)", quest.rewards.items.len());
     }
 
     Ok(quests)

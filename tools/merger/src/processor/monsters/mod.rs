@@ -9,7 +9,7 @@ use strum::{EnumIter, IntoEnumIterator};
 
 mod large;
 
-type MonsterId = isize;
+pub type MonsterId = isize;
 
 const REFS_FIELD: &str = "msg/references/RefEnvironment.json";
 

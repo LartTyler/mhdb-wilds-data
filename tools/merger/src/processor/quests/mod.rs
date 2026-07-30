@@ -1,8 +1,10 @@
 mod rewards;
+mod unlocks;
 
 use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
 use crate::processor::items::ItemId;
+use crate::processor::quests::unlocks::UnlockCondition;
 use crate::processor::{
     FileObjects, GameId, Guid, LanguageMap, PopulateStrings, Processor, RankPoints, ReadFile,
     Result, WriteFile, Zenny,
@@ -30,7 +32,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
     let mut quests = FileObjects::with_capacity(files.len());
 
     for file in files {
-        log::trace!(">> Loading quest data from {file:?}");
+        log::trace!("Loading quest data from {file:?}");
 
         let data = QuestData::read_file(&file)?;
         let mut quest = Quest::from(&data);
@@ -40,23 +42,23 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
         };
 
         let strings_path = config.data_path(format!("msg/missions/Mission{id}.json"));
-        log::trace!(">> Loading strings for {id} from {strings_path:?}");
+        log::trace!("Loading strings for {id} from {strings_path:?}");
 
         let strings = Msg::read_file(strings_path)?;
 
-        log::trace!(">> Populating title for {:?}", data.strings.title_guid);
+        log::trace!("Populating title for {:?}", data.strings.title_guid);
         strings.populate(&data.strings.title_guid, &mut quest.title);
         placeholders.apply(&mut quest.title);
 
         log::trace!(
-            ">> Populating client_name for {:?}",
+            "Populating client_name for {:?}",
             data.strings.client_name_guid
         );
         strings.populate(&data.strings.client_name_guid, &mut quest.client_name);
         placeholders.apply(&mut quest.client_name);
 
         log::trace!(
-            ">> Populating description for {:?}",
+            "Populating description for {:?}",
             data.strings.description_guid
         );
         strings.populate(&data.strings.description_guid, &mut quest.description);
@@ -65,7 +67,10 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
         quests.add(quest);
     }
 
-    let mut quests = rewards::add_rewards(config, quests)?.take_items();
+    let quests = rewards::add_rewards(config, quests)?;
+    let quests = unlocks::add_unlock_conditions(config, quests)?;
+
+    let mut quests = quests.take_items();
     quests.sort_by_key(|v| v.game_id);
 
     quests.write_file(config.merged_path("Quests.json"))
@@ -86,6 +91,7 @@ struct Quest {
     time_limit: u8,
     lives: u8,
     rewards: Rewards,
+    unlock_condition: Option<UnlockCondition>,
 }
 
 impl GameId for Quest {
@@ -109,6 +115,7 @@ impl From<&QuestData> for Quest {
             time_limit: value.time_limit,
             lives: value.lives,
             rewards: Rewards::new(value.reward_zenny, value.reward_hr_points),
+            unlock_condition: None,
         }
     }
 }
@@ -207,16 +214,16 @@ fn load_placeholders(config: &Config, placeholders: &Placeholders) -> Result<Pla
 
     for path in REF_PATHS {
         let path = config.data_path(path);
-        log::trace!(">> Loading file {path:?}");
+        log::trace!("Loading file {path:?}");
 
         extend.add_file(path)?;
     }
 
     for glob in REF_GLOBS {
-        log::trace!(">> Loading files from glob '{glob}'");
+        log::trace!("Loading files from glob '{glob}'");
         extend.add_glob(&config.io.output, glob)?;
     }
 
-    log::debug!(">> Loaded {} files", extend.size());
+    log::debug!("Loaded {} files", extend.size());
     Ok(extend.done())
 }
