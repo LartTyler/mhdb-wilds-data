@@ -22,6 +22,8 @@ pub type QuestLevel = u8;
 
 const QUEST_DATA_GLOB: &str = "user/missions/data/Ms*_QuestData.json";
 
+pub const OUTPUT: &str = "Quests.json";
+
 pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     should_run!(filters, Processor::Quests);
 
@@ -72,11 +74,11 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Res
     let mut quests = quests.take_items();
     quests.sort_by_key(|v| v.game_id);
 
-    quests.write_file(config.merged_path("Quests.json"))
+    quests.write_file(config.merged_path(OUTPUT))
 }
 
-#[derive(Debug, Serialize)]
-struct Quest {
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Quest {
     game_id: QuestId,
     kind: QuestKind,
     icon: IconKind,
@@ -106,8 +108,8 @@ impl From<&QuestData> for Quest {
     fn from(value: &QuestData) -> Self {
         Self {
             game_id: value.id,
-            kind: value.kind,
-            icon: value.icon,
+            kind: value.kind.into(),
+            icon: value.icon.into(),
             title: LanguageMap::new(),
             description: LanguageMap::new(),
             client_name: LanguageMap::new(),
@@ -126,9 +128,9 @@ struct QuestData {
     #[serde(rename = "_MissionId")]
     id: QuestId,
     #[serde(rename = "_QuestType")]
-    kind: QuestKind,
+    kind: QuestKindCode,
     #[serde(rename = "_IconType")]
-    icon: IconKind,
+    icon: IconKindCode,
     #[serde(rename = "_QuestLv")]
     level: QuestLevel,
     #[serde(rename = "_OrderCondition")]
@@ -145,9 +147,8 @@ struct QuestData {
     strings: Strings,
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+#[derive(Debug, Deserialize, Serialize, Copy, Clone)]
 #[serde(rename_all = "kebab-case")]
-#[repr(u8)]
 enum QuestKind {
     Hunt,
     Kill,
@@ -159,21 +160,68 @@ enum QuestKind {
     Repel,
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
+impl From<QuestKindCode> for QuestKind {
+    fn from(value: QuestKindCode) -> Self {
+        match value {
+            QuestKindCode::Hunt => Self::Hunt,
+            QuestKindCode::Kill => Self::Kill,
+            QuestKindCode::Capture => Self::Capture,
+            QuestKindCode::Collect => Self::Collect,
+            QuestKindCode::Transport => Self::Transport,
+            QuestKindCode::Arena => Self::Arena,
+            QuestKindCode::BossRush => Self::BossRush,
+            QuestKindCode::Repel => Self::Repel,
+        }
+    }
+}
+
+#[derive(Debug, Deserialize_repr, Copy, Clone)]
+#[repr(u8)]
+enum QuestKindCode {
+    Hunt,
+    Kill,
+    Capture,
+    Collect,
+    Transport,
+    Arena,
+    BossRush,
+    Repel,
+}
+
+#[derive(Debug, Deserialize, Serialize, Copy, Clone)]
 #[serde(rename_all = "kebab-case")]
-#[repr(isize)]
 enum IconKind {
+    None,
+    Quest,
+    GuildMark,
+    QuestionMark,
+}
+
+impl From<IconKindCode> for IconKind {
+    fn from(value: IconKindCode) -> Self {
+        match value {
+            IconKindCode::None => Self::None,
+            IconKindCode::Quest => Self::Quest,
+            IconKindCode::GuildMark => Self::GuildMark,
+            IconKindCode::QuestionMark => Self::QuestionMark,
+        }
+    }
+}
+
+#[derive(Debug, Deserialize_repr, Copy, Clone)]
+#[repr(isize)]
+enum IconKindCode {
     None = -1,
     Quest = 1927315328,
     GuildMark = -1963020160,
-    QuestionMArk = 878423616,
+    QuestionMark = 878423616,
 }
 
 #[derive(Debug, Deserialize, Serialize, Clone)]
 struct Conditions {
-    #[serde(rename(deserialize = "_MaxPlayerNum"))]
+    #[serde(alias = "_MaxPlayerNum")]
     max_players: u8,
-    #[serde(rename(deserialize = "_OrderHR"))]
+    #[serde(alias = "_OrderHR")]
     required_rank: u8,
 }
 
@@ -208,7 +256,7 @@ const REF_PATHS: &[&str] = &[
 
 const REF_GLOBS: &[&str] = &["msg/missions/Mission*.json"];
 
-fn load_placeholders(config: &Config, placeholders: &Placeholders) -> Result<Placeholders> {
+pub fn load_placeholders(config: &Config, placeholders: &Placeholders) -> Result<Placeholders> {
     log::debug!("Loading extra placeholders...");
 
     let mut extend = placeholders.extend();

@@ -63,7 +63,7 @@ pub fn add_rewards(config: &Config, mut quests: FileObjects<Quest>) -> Result<Fi
     Ok(quests)
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Deserialize)]
 pub struct Rewards {
     zenny: Zenny,
     rank_points: RankPoints,
@@ -80,7 +80,7 @@ impl Rewards {
     }
 }
 
-#[derive(Debug, Serialize, Clone)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 struct ItemReward {
     item_id: ItemId,
     amount: u8,

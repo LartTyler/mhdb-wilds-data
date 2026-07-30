@@ -21,6 +21,7 @@ mod armor;
 mod charms;
 mod context;
 mod items;
+mod journal;
 mod locations;
 mod monsters;
 mod quests;
@@ -58,6 +59,7 @@ pub enum Processor {
     Locations,
     WeaponSeries,
     Quests,
+    Journal,
 }
 
 impl Processor {
@@ -229,6 +231,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
         "Merging quest files..." => quests::process(config, filters, &context)?,
+        "Merging journal files..." => journal::process(config, filters, &context)?,
     }
 
     Ok(())

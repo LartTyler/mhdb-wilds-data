@@ -48,7 +48,7 @@ pub fn add_unlock_conditions(
     Ok(quests)
 }
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Deserialize)]
 #[serde(rename_all = "kebab-case", tag = "kind")]
 pub enum UnlockCondition {
     Quest { quest_id: QuestId },
