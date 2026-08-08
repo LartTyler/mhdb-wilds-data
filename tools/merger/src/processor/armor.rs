@@ -1,4 +1,4 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::{
     to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
     WriteFile,

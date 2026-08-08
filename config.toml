@@ -3,11 +3,10 @@ msg = "tools/REMSG_Converter/REMSG_Converter.exe"
 rsz_layouts = "rszmhwilds.json"
 
 [io]
+output = "output/"
 data = [
     "data/natives",
 ]
-
-output = "output/"
 
 [user]
 input_prefix = "STM/GameDesign"
@@ -116,6 +115,26 @@ files = [
     "Facility/SmallWorkshopRefineData.user.3",
 ]
 
+[[user.targets]]
+output_prefix = "missions/"
+files = [
+    "Mission/_UserData/MissionActivityData.user.3",
+    "Mission/_UserData/QuestOpenData.user.3",
+    "Mission/_UserData/_Reward/CommonRewardData.user.3",
+    "Mission/_UserData/_Reward/QuestRewardSetting.user.3",
+]
+
+[[user.targets.transform]]
+match = "MissionActivityData.user.3$"
+rsz = [0]
+
+[[user.targets]]
+output_prefix = "missions/data"
+files = [
+    "Mission/Mission????*/Ms*Data.user.3",
+    "Mission/Mission????*/_Quest/Ms*QuestData.user.3"
+]
+
 [msg]
 input_prefix = "STM/GameDesign/Text"
 
@@ -151,8 +170,20 @@ files = [
     "Excel_Action/MusicSkillDataText_Wp05.msg.23",
     "Excel_Data/EnemyText.msg.23",
     "Excel_Data/EnemySpeciesName.msg.23",
-    "Reference/RefEnvironment.msg.23",
     "Excel_Data/Gimmick.msg.23",
     "Excel_Data/EnemyReportMeasureFreeInfoText.msg.23",
     "Excel_Data/EnemyPartsTypeName.msg.23",
+    "Excel_Data/NpcName.msg.23",
+]
+
+[[msg.targets]]
+output_prefix = "references/"
+files = [
+    "Reference/*.msg.23",
+]
+
+[[msg.targets]]
+output_prefix = "missions/"
+files = [
+    "Mission/Mission*.msg.23",
 ]

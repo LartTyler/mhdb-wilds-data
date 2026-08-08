@@ -42,6 +42,14 @@ impl Config {
         let raw = io::read_to_string(file)?;
         Ok(toml::from_str(&raw)?)
     }
+
+    pub fn data_path<P: AsRef<Path>>(&self, target: P) -> PathBuf {
+        self.io.output.join(target)
+    }
+
+    pub fn merged_path<P: AsRef<Path>>(&self, target: P) -> PathBuf {
+        self.io.output.join("merged").join(target)
+    }
 }
 
 #[derive(Debug, Deserialize)]

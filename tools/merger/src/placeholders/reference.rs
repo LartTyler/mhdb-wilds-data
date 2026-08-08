@@ -1,37 +1,33 @@
-use crate::placeholders::{ApplyContext, ApplyPlaceholder};
+use crate::placeholders::{Apply, Context, Kind, Node};
 
 #[derive(Debug)]
-pub struct Reference {
-    pub value: String,
+pub(super) struct Reference<'a> {
+    node: &'a Node<'a>,
 }
 
-impl Reference {
-    pub fn new(value: String) -> Self {
-        Self { value }
-    }
+impl<'a> Reference<'a> {
+    pub const ID: &'static str = "REF";
 
-    pub fn key(&self) -> &str {
-        let Some(start) = self.value.find(' ') else {
-            panic!(
-                "Reference does not match the expected pattern: '{}'",
-                self.value
-            );
-        };
-
-        &self.value[start + 1..self.value.len() - 1]
+    pub fn new(node: &'a Node<'a>) -> Self {
+        Self { node }
     }
 }
 
-impl ApplyPlaceholder for Reference {
-    fn apply(&self, value: &str, context: &ApplyContext<'_>) -> String {
-        let key = self.key();
+impl Apply for Reference<'_> {
+    fn apply(&self, value: &str, context: &Context) -> String {
+        let key = self.node.value();
+        log::trace!("Applying REF {key} to '{value}'");
+
         let Some(replace) = context.find_reference(key) else {
-            panic!(
-                "Could not find reference entry for '{key}' in language {:?}",
-                context.language
-            );
+            panic!("Could not find REF entry for '{key}' in '{value}'");
         };
 
-        value.replace(&self.value, replace)
+        value.replace(self.node.matched, replace)
+    }
+}
+
+impl<'a> From<Reference<'a>> for Kind<'a> {
+    fn from(value: Reference<'a>) -> Self {
+        Kind::Reference(value)
     }
 }
