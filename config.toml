@@ -187,3 +187,17 @@ output_prefix = "missions/"
 files = [
     "Mission/Mission*.msg.23",
 ]
+
+[merger.missions]
+ref_paths = [
+    "msg/NpcName.json",
+    "msg/EnemyText.json",
+    "msg/Gimmick.json",
+    "msg/Item.json",
+    "msg/missions/Mission.json",
+    "msg/EnemySpeciesName.json",
+]
+
+ref_globs = [
+    "msg/missions/Mission*.json",
+]

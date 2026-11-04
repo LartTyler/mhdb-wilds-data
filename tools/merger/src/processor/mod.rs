@@ -21,10 +21,9 @@ mod armor;
 mod charms;
 mod context;
 mod items;
-mod journal;
 mod locations;
+mod missions;
 mod monsters;
-mod quests;
 mod skills;
 mod weapons;
 
@@ -58,8 +57,7 @@ pub enum Processor {
     Monsters,
     Locations,
     WeaponSeries,
-    Quests,
-    Journal,
+    Missions,
 }
 
 impl Processor {
@@ -230,8 +228,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging weapon files..." => weapons::process(config, filters)?,
         "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
-        "Merging quest files..." => quests::process(config, filters, &context)?,
-        "Merging journal files..." => journal::process(config, filters, &context)?,
+        "Merging mission files..." => missions::process(config, filters, &context)?,
     }
 
     Ok(())
@@ -242,13 +239,25 @@ pub type Result<T = ()> = std::result::Result<T, Error>;
 #[derive(Debug, thiserror::Error)]
 pub enum Error {
     #[error("io: {0}")]
-    Io(#[from] std::io::Error),
+    Io(
+        #[from]
+        #[source]
+        std::io::Error,
+    ),
 
     #[error("parse: {0}")]
-    Parse(#[from] serde_json::Error),
+    Parse(
+        #[from]
+        #[source]
+        serde_json::Error,
+    ),
 
     #[error("glob: {0}")]
-    Glob(#[from] wax::GlobError),
+    Glob(
+        #[from]
+        #[source]
+        wax::GlobError,
+    ),
 
     #[error("{0}")]
     Generic(&'static str),
@@ -421,7 +430,7 @@ impl From<&Language> for LanguageCode {
     }
 }
 
-trait PopulateStrings {
+pub trait PopulateStrings {
     fn populate(&self, guid: &str, strings: &mut LanguageMap);
     fn populate_by_name(&self, name: &str, strings: &mut LanguageMap);
 }
@@ -577,6 +586,14 @@ pub enum HunterRank {
     Low,
     High,
 }
+
+pub type HunterRankValue = u8;
+pub type HunterRankPoints = u32;
+
+pub type MasterRankValue = u8;
+pub type MasterRankPoints = u32;
+
+pub type GuildPoints = u16;
 
 #[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
 #[serde(rename_all = "kebab-case")]

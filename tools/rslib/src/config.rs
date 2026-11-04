@@ -10,6 +10,7 @@ pub struct Config {
     pub io: Io,
     pub user: Files,
     pub msg: Files,
+    pub merger: Merger,
 }
 
 impl Config {
@@ -116,6 +117,17 @@ impl Transform {
     pub fn matches<P: AsRef<str>>(&self, path: P) -> bool {
         self.pattern.is_match(path.as_ref())
     }
+}
+
+#[derive(Debug, Deserialize, Default)]
+pub struct Merger {
+    pub missions: MergerMissions,
+}
+
+#[derive(Debug, Deserialize, Default)]
+pub struct MergerMissions {
+    pub ref_paths: Vec<PathBuf>,
+    pub ref_globs: Vec<String>,
 }
 
 #[derive(Debug, thiserror::Error)]

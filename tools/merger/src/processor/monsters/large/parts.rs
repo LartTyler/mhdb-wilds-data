@@ -7,8 +7,8 @@ use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
-use std::collections::hash_map::Entry;
 use std::collections::HashMap;
+use std::collections::hash_map::Entry;
 
 const DATA_PREFIX: &str = "user/monsters/parts";
 const DATA_SUFFIX: &str = "_Param_Parts.json";

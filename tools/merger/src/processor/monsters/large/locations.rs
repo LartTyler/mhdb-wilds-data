@@ -1,7 +1,7 @@
-use crate::processor::locations::{Stage, OUTPUT};
-use crate::processor::monsters::large::RunContext;
-use crate::processor::monsters::MonsterId;
 use crate::processor::ReadFile;
+use crate::processor::locations::{OUTPUT, Stage};
+use crate::processor::monsters::MonsterId;
+use crate::processor::monsters::large::RunContext;
 use rslib::config::Config;
 use serde::Deserialize;
 

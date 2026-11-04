@@ -6,7 +6,7 @@ use crate::processor::monsters::large::parts::Part;
 use crate::processor::monsters::large::rewards::Reward;
 use crate::processor::monsters::large::size::Size;
 use crate::processor::monsters::{
-    CommonData, MonsterId, SpeciesKind, MONSTER_DATA, MONSTER_STRINGS, REFS_FIELD,
+    CommonData, MONSTER_DATA, MONSTER_STRINGS, MonsterId, REFS_FIELD, SpeciesKind,
 };
 use crate::processor::{LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
 use crate::serde::ordered_map;

@@ -1,8 +1,8 @@
 use crate::processor::items::ItemId;
-use crate::processor::monsters::large::parts::PartKind;
 use crate::processor::monsters::large::RunContext;
+use crate::processor::monsters::large::parts::PartKind;
 use crate::processor::{HunterRank, ReadFile};
-use anyhow::{anyhow, Context};
+use anyhow::{Context, anyhow};
 use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;

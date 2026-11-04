@@ -4,7 +4,8 @@ use crate::placeholders::escape::Escape;
 use crate::placeholders::pronouns::Pronouns;
 use crate::placeholders::reference::Reference;
 use crate::placeholders::remove::Remove;
-use crate::processor::{Language, LanguageMap, ReadFile, Result};
+use crate::processor::{Language, LanguageMap, PopulateStrings, ReadFile, Result};
+use anyhow::Context as AnyhowContext;
 use rslib::config::Config;
 use rslib::formats::msg::{LanguageCode, Msg};
 use std::ops::Deref;
@@ -124,6 +125,17 @@ impl Placeholders {
 
         None
     }
+
+    pub fn find_and_apply(&self, guid: &str, strings: &mut LanguageMap) -> anyhow::Result<()> {
+        let msg = self
+            .find_by_guid(guid)
+            .with_context(|| format!("Could not find Msg record with GUID {guid}"))?;
+
+        msg.populate(guid, strings);
+        self.apply(strings);
+
+        Ok(())
+    }
 }
 
 pub struct ExtendPlaceholders {
@@ -148,13 +160,49 @@ impl ExtendPlaceholders {
         self
     }
 
-    pub fn add_file<P: AsRef<Path>>(&mut self, path: P) -> Result<&mut Self> {
+    pub fn add_files_in<B, P>(&mut self, base: B, paths: &[P]) -> anyhow::Result<&mut Self>
+    where
+        B: AsRef<Path>,
+        P: AsRef<Path>,
+    {
+        for path in paths {
+            self.add_file(base.as_ref().join(path))?;
+        }
+
+        Ok(self)
+    }
+
+    pub fn add_file<P: AsRef<Path>>(&mut self, path: P) -> anyhow::Result<&mut Self> {
+        log::trace!("Extending with {:?}", path.as_ref());
+
         self.add(Msg::read_file(path)?);
         Ok(self)
     }
 
-    pub fn add_glob<P: AsRef<Path>>(&mut self, base: P, glob: &str) -> Result<&mut Self> {
-        let files = glob::expand(base, glob)?;
+    pub fn add_globs<P: AsRef<Path>, G: AsRef<str>>(
+        &mut self,
+        base: P,
+        globs: &[G],
+    ) -> anyhow::Result<&mut Self> {
+        for glob in globs {
+            self.add_glob(&base, glob)?;
+        }
+
+        Ok(self)
+    }
+
+    pub fn add_glob<P: AsRef<Path>, G: AsRef<str>>(
+        &mut self,
+        base: P,
+        glob: G,
+    ) -> anyhow::Result<&mut Self> {
+        log::trace!(
+            "Extending with files in {:?} matching glob {}",
+            base.as_ref(),
+            glob.as_ref()
+        );
+
+        let files = glob::expand(base, glob.as_ref())?;
 
         for file in files {
             self.add_file(file)?;
