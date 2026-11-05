@@ -1,4 +1,6 @@
-use crate::processor::missions::{ExtraMission, MainStoryMission, MissionId, MissionKind, SideStoryMission};
+use crate::processor::missions::{
+    ExtraMission, MainStoryMission, MissionId, MissionKind, SideStoryMission,
+};
 use crate::processor::{Guid, ReadFile};
 use crate::serde::zero_or_negative_is_none;
 use anyhow::Context;
@@ -59,7 +61,10 @@ impl ActivityData {
 pub struct Chapter {
     #[serde(rename(deserialize = "_ParentChapterId"))]
     pub major: ChapterId,
-    #[serde(rename(deserialize = "_ChildChapterId"), deserialize_with = "zero_or_negative_is_none")]
+    #[serde(
+        rename(deserialize = "_ChildChapterId"),
+        deserialize_with = "zero_or_negative_is_none"
+    )]
     pub minor: Option<ChapterId>,
 }
 
@@ -75,9 +80,9 @@ impl ActivityMission {
     pub fn is_empty(&self) -> bool {
         self.objectives.is_empty()
             || self
-            .objectives
-            .iter()
-            .all(ActivityMissionObjective::is_empty)
+                .objectives
+                .iter()
+                .all(ActivityMissionObjective::is_empty)
     }
 }
 
