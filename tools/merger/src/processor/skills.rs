@@ -1,7 +1,7 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::armor::{Bonus, BonusRank};
 use crate::processor::{
-    armor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile, armor,
 };
 use crate::serde::is_default;
 use crate::serde::ordered_map;

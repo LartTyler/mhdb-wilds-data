@@ -1,6 +1,6 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile, to_ingame_rarity,
 };
 use crate::serde::ordered_map;
 use crate::should_run;

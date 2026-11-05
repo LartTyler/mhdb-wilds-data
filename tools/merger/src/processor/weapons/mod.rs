@@ -1,14 +1,14 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::weapons::series::SeriesId;
 use crate::processor::{
-    create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
-    ReadFile, Result, WriteFile,
+    IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    create_id_map, to_ingame_rarity, values_until_first_zero,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
-use serde::{de, Deserialize, Deserializer, Serialize};
+use serde::{Deserialize, Deserializer, Serialize, de};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 use std::path::PathBuf;

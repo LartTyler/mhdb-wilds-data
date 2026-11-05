@@ -415,9 +415,9 @@ dependencies = [
 
 [[package]]
 name = "rsz"
-version = "0.2.1"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ed4785545e6b5a5678f0bedbe3b3f8ef6a3c7c70ad2769131242e41867cbeb4a"
+checksum = "7136dee16248f14cb55dc890d15c0280e9733e9262a26a9ece7c17d3ca9e2946"
 dependencies = [
  "half",
  "log",

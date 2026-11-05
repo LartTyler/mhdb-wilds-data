@@ -1,6 +1,6 @@
 use crate::is_weapon;
-use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use crate::processor::Processor;
+use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use serde::{Deserialize, Serialize};
 
 pub(super) fn definition() -> ProcessorDefinition {

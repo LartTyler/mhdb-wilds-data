@@ -4,8 +4,8 @@ use crate::processor::weapons::{
     WeaponKindCode,
 };
 use crate::processor::{
-    values_until_first_zero, LanguageMap, LookupMap, PopulateStrings, Processor, ReadFile, Result,
-    WriteFile,
+    LanguageMap, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    values_until_first_zero,
 };
 use crate::serde::ordered_map;
 use rayon::iter::IntoParallelRefIterator;

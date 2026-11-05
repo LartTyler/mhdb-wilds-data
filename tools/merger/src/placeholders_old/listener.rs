@@ -1,6 +1,7 @@
-use crate::placeholders::{ApplyContext, ApplyPlaceholder};
+use crate::placeholders_old::{ApplyContext, ApplyPlaceholder};
 use unicode_segmentation::UnicodeSegmentation;
 
+#[derive(Debug)]
 pub struct Listener {
     pub value: String,
     option_indexes: Vec<(usize, usize)>,
