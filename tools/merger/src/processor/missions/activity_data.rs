@@ -1,6 +1,4 @@
-use crate::processor::missions::{
-    ExtraMission, MainStoryMission, MissionId, MissionKind, SideStoryMission,
-};
+use crate::processor::missions::MissionId;
 use crate::processor::{Guid, ReadFile};
 use crate::serde::zero_or_negative_is_none;
 use anyhow::Context;
@@ -38,16 +36,6 @@ pub struct ActivityData {
 }
 
 impl ActivityData {
-    pub fn mission_kind(&self) -> MissionKind {
-        if self.side_mission {
-            MissionKind::Side(SideStoryMission)
-        } else if self.extra_mission {
-            MissionKind::Extra(ExtraMission)
-        } else {
-            MissionKind::Main(MainStoryMission)
-        }
-    }
-
     pub fn mission_id(&self) -> MissionId {
         self.missions[0].mission_id
     }

@@ -2,6 +2,160 @@
   {
     "game_id": 0,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "少女を追う",
+          "en": "Follow the girl",
+          "fr": "Rattraper la fillette",
+          "it": "Segui la bambina",
+          "de": "Folge dem Mädchen.",
+          "es": "Sigue a la niña",
+          "ru": "Следуйте за девочкой",
+          "pl": "Podążaj za dziewczynką",
+          "pt-BR": "Siga a garota",
+          "ko": "소녀를 쫓아가기",
+          "zh-Hant": "追上少女",
+          "zh-Hans": "追上女孩",
+          "ar": "تتبع الفتاة",
+          "th": "ตามเด็กหญิงไป",
+          "es-419": "Sigue a la niña"
+        }
+      },
+      {
+        "label": {
+          "ja": "モンスターを怯ませる",
+          "en": "Stagger the monster",
+          "fr": "Étourdir le monstre",
+          "it": "Fai sussultare il mostro",
+          "de": "Bring das Monster zum Taumeln.",
+          "es": "Desequilibra al monstruo",
+          "ru": "Выбейте монстра из равновесия",
+          "pl": "Wytrąć potwora z równowagi",
+          "pt-BR": "Desequilibre o monstro",
+          "ko": "몬스터를 움찔하게 만들기",
+          "zh-Hant": "使魔物膽怯",
+          "zh-Hans": "使怪物畏缩",
+          "ar": "صعق الوحش",
+          "th": "ทำให้มอนสเตอร์ชะงัก",
+          "es-419": "Haz que el monstruo se tambalee"
+        }
+      },
+      {
+        "label": {
+          "ja": "群れを振り切る",
+          "en": "Shake off the monsters",
+          "fr": "Se débarrasser des monstres",
+          "it": "Liberati dei mostri",
+          "de": "Schüttle die Monster ab.",
+          "es": "Quítate a los monstruos de encima",
+          "ru": "Оторвитесь от монстров",
+          "pl": "Odpędź potwory",
+          "pt-BR": "Livre-se dos monstros",
+          "ko": "무리를 따돌리기",
+          "zh-Hant": "甩開魔物群",
+          "zh-Hans": "甩开怪物群",
+          "ar": "التخلص من الوحوش",
+          "th": "ทิ้งห่างฝูงมอนสเตอร์",
+          "es-419": "Quítate a los monstruos de encima"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "セクレトに乗る",
+          "en": "Mount the Seikret",
+          "fr": "Monter sur le Seikret",
+          "it": "Sali sul Seikret",
+          "de": "Steige auf den Saikrii.",
+          "es": "Monta sobre el Seikret",
+          "ru": "Сядьте на сейкрета",
+          "pl": "Wejdź na Seikreta",
+          "pt-BR": "Monte no Seikret",
+          "ko": "세크레트에 올라타기",
+          "zh-Hant": "騎到鷺鷹龍上",
+          "zh-Hans": "骑乘鹭鹰龙",
+          "ar": "امتطاء سيكريت",
+          "th": "ขี่เซย์เคร็ท",
+          "es-419": "Monta el Seikret"
+        }
+      },
+      {
+        "label": {
+          "ja": "兄のにおいを辿る",
+          "en": "Follow the brother's scent",
+          "fr": "Retrouver le frère de la petite",
+          "it": "Segui l'odore del fratello",
+          "de": "Folge Y’sais Fährte.",
+          "es": "Sigue el olor del hermano de la chica",
+          "ru": "Идите на запах брата девочки",
+          "pl": "Podążaj za zapachem brata",
+          "pt-BR": "Siga o rastro do irmão",
+          "ko": "오빠의 냄새를 쫓아가기",
+          "zh-Hant": "追蹤少女兄長的氣味",
+          "zh-Hans": "追踪女孩兄长的气味",
+          "ar": "تتبع رائحة الأخ",
+          "th": "ตามกลิ่นของพี่ชายไป",
+          "es-419": "Sigue el rastro del hermano"
+        }
+      },
+      {
+        "label": {
+          "ja": "チャタカブラの討伐",
+          "en": "Slay the Chatacabra",
+          "fr": "Éliminer le Chatacabra",
+          "it": "Abbatti il Chatacabra",
+          "de": "Erlege den Chatacabra.",
+          "es": "Abate al Chatacabra",
+          "ru": "Победите чатакабру",
+          "pl": "Zgładź Chatacabrę",
+          "pt-BR": "Abata o Chatacabra",
+          "ko": "차타카브라 토벌",
+          "zh-Hant": "討伐纏蛙",
+          "zh-Hans": "讨伐缠蛙",
+          "ar": "ذبح تشاتاكابرا",
+          "th": "สังหารชาตาคาบรา",
+          "es-419": "Abate al Chatacabra"
+        }
+      },
+      {
+        "label": {
+          "ja": "２人の様子を見に行く",
+          "en": "Check on the others",
+          "fr": "Aller voir les autres",
+          "it": "Controlla come stanno gli altri",
+          "de": "Sieh nach Alma und Y’sai.",
+          "es": "Ve a ver a los demás",
+          "ru": "Узнайте, как дела у остальных",
+          "pl": "Sprawdź, co z resztą",
+          "pt-BR": "Veja como estão os outros",
+          "ko": "두 사람을 살피러 가기",
+          "zh-Hant": "去看兩人的狀況",
+          "zh-Hans": "查看两人的状况",
+          "ar": "تفقد حال الآخرين",
+          "th": "ตรวจดูคนอื่นๆ",
+          "es-419": "Ve a ver a los demás"
+        }
+      }
+    ],
     "title": {
       "ja": "砂原を駆ける者",
       "en": "Desert Trotters",
@@ -83,6 +237,27 @@
   {
     "game_id": 1,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      }
+    ],
     "title": {
       "ja": "始まり",
       "en": "The Beginning",
@@ -128,6 +303,331 @@
   {
     "game_id": 2,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "採れたてのハチミツを集める",
+          "en": "Gather honey for Provisions",
+          "fr": "Récolter du miel",
+          "it": "Raccogli del miele per le scorte",
+          "de": "Sammle Honig für den Versorgungsleiter.",
+          "es": "Recoge miel para las provisiones",
+          "ru": "Соберите мёд для интенданта",
+          "pl": "Zbierz miód i zrób zapasy",
+          "pt-BR": "Colete mel para Provisões",
+          "ko": "갓 딴 벌꿀 모으기",
+          "zh-Hant": "收集鮮採蜂蜜",
+          "zh-Hans": "采集新鲜蜂蜜",
+          "ar": "جمع العسل للمؤن",
+          "th": "เก็บน้ำผึ้งมาเป็นเสบียง",
+          "es-419": "Recolecta miel para abastecerte"
+        }
+      },
+      {
+        "label": {
+          "ja": "イサイについていく",
+          "en": "Follow Y'sai",
+          "fr": "Suivre Y'sai",
+          "it": "Segui Y'sai",
+          "de": "Folge Y’sai.",
+          "es": "Sigue a Y'sai",
+          "ru": "Следуйте за И’саем",
+          "pl": "Podążaj za Y'saiem",
+          "pt-BR": "Siga Y'sai",
+          "ko": "이사이 따라가기",
+          "zh-Hant": "跟隨伊賽",
+          "zh-Hans": "跟随伊塞",
+          "ar": "اتباع إيساي",
+          "th": "ตามอิไซไป",
+          "es-419": "Sigue a Y'sai"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルマについていく",
+          "en": "Follow Alma",
+          "fr": "Suivre Alma",
+          "it": "Segui Alma",
+          "de": "Folge Alma.",
+          "es": "Sigue a Alma",
+          "ru": "Следуйте за Альмой",
+          "pl": "Podążaj za Almą",
+          "pt-BR": "Siga Alma",
+          "ko": "알마 따라가기",
+          "zh-Hant": "跟隨阿爾瑪",
+          "zh-Hans": "跟随阿尔玛",
+          "ar": "اتباع ألما",
+          "th": "ตามอัลมาไป",
+          "es-419": "Sigue a Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "ブブラチカを討伐する",
+          "en": "Slay the Bulaqchi",
+          "fr": "Éliminer les Bulaqchi",
+          "it": "Abbatti i Bulaqchi",
+          "de": "Erlege die Bulaqchi.",
+          "es": "Abate: Bulaqchi",
+          "ru": "Булакчи: уничтожьте монстров",
+          "pl": "Zgładź: Bulaqchi",
+          "pt-BR": "Abata os Bulaqchi",
+          "ko": "브브라치카 토벌하기",
+          "zh-Hant": "討伐血刺蟲",
+          "zh-Hans": "讨伐血盗虫",
+          "ar": "ذبح بولاقشي",
+          "th": "สังหารบูลัคชี",
+          "es-419": "Abate a: Bulaqchi"
+        }
+      },
+      {
+        "label": {
+          "ja": "ベースキャンプに戻る",
+          "en": "Return to Base Camp",
+          "fr": "Retourner au camp de base",
+          "it": "Torna al campo base",
+          "de": "Kehre zum Basislager zurück.",
+          "es": "Vuelve al campamento base",
+          "ru": "Вернитесь в базовый лагерь",
+          "pl": "Wróć do obozu",
+          "pt-BR": "Retorne ao Acampamento",
+          "ko": "베이스캠프로 돌아가기",
+          "zh-Hant": "返回大本營",
+          "zh-Hans": "返回大本营",
+          "ar": "العودة إلى معسكر القاعدة",
+          "th": "กลับไปยังแคมป์หลัก",
+          "es-419": "Volver al campamento base"
+        }
+      },
+      {
+        "label": {
+          "ja": "物資補給係 ジャックと話す",
+          "en": "Talk to Jack the Provisions Manager",
+          "fr": "Parler à Jack, le responsable des stocks",
+          "it": "Parla con l'addetto alle scorte Jack",
+          "de": "Sprich mit Jack, dem Versorgungsleiter.",
+          "es": "Habla con Jack, el gestor de recursos",
+          "ru": "Поговорите с интендантом Джеком",
+          "pl": "Porozmawiaj z szefem zaopatrzenia Jackiem",
+          "pt-BR": "Fale com Jack, o Gestor de Provisões",
+          "ko": "물자보급 담당 잭과 대화하기",
+          "zh-Hant": "與補給物資負責人傑克交談",
+          "zh-Hans": "与补给物资负责人 杰克对话",
+          "ar": "التحدث إلى جاك مدير المؤن",
+          "th": "พูดคุยกับแจ็ค ผู้จัดการเสบียงของใช้",
+          "es-419": "Habla con Jack, encargado de provisiones"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジェマと話す",
+          "en": "Talk to Gemma",
+          "fr": "Parler à Gemma",
+          "it": "Parla con Gemma",
+          "de": "Sprich mit Gemma.",
+          "es": "Habla con Gemma",
+          "ru": "Поговорите с Джеммой",
+          "pl": "Porozmawiaj z Gemmą",
+          "pt-BR": "Fale com Gemma",
+          "ko": "젬마와 대화하기",
+          "zh-Hant": "與潔瑪交談",
+          "zh-Hans": "与杰玛对话",
+          "ar": "التحدث إلى جيما",
+          "th": "พูดคุยกับเจมมา",
+          "es-419": "Habla con Gemma"
+        }
+      },
+      {
+        "label": {
+          "ja": "準備を整えてアルマと話す",
+          "en": "Finish your preparations and talk to Alma",
+          "fr": "Se préparer et parler à Alma",
+          "it": "Concludi i preparativi e parla con Alma",
+          "de": "Bereite dich vor und sprich mit Alma.",
+          "es": "Termina de prepararte y habla con Alma",
+          "ru": "Подготовьтесь и поговорите с Альмой",
+          "pl": "Zakończ przygotowania i porozmawiaj z Almą",
+          "pt-BR": "Termine os preparativos e fale com Alma",
+          "ko": "준비를 마치고 알마와 대화하기",
+          "zh-Hant": "做好準備後與阿爾瑪交談",
+          "zh-Hans": "做好准备后与阿尔玛对话",
+          "ar": "الانتهاء من الاستعدادات والتحدث إلى ألما",
+          "th": "เตรียมการให้เสร็จแล้วพูดคุยกับอัลมา",
+          "es-419": "Termina tus preparativos y habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "救難信号が上がった場所に向かう",
+          "en": "Head towards the SOS Flare",
+          "fr": "Se diriger vers la fusée de détresse",
+          "it": "Dirigiti verso il razzo SOS",
+          "de": "Begib dich Richtung Not-Leuchtzeichen.",
+          "es": "Ve hacia la bengala de auxilio",
+          "ru": "Отправляйтесь к месту подачи сигнала SOS",
+          "pl": "Udaj się w stronę flary alarmowej",
+          "pt-BR": "Vá até o Sinalizador SOS",
+          "ko": "구조신호가 발신된 곳으로 가기",
+          "zh-Hant": "前往發出救難信號的地點",
+          "zh-Hans": "前往发出救难信号的地点",
+          "ar": "التوجه نحو إشارة الاستغاثة",
+          "th": "มุ่งหน้าไปทางพลุไฟ SOS",
+          "es-419": "Ve hacia la bengala de auxilio"
+        }
+      },
+      {
+        "label": {
+          "ja": "ケマトリスを狩猟する",
+          "en": "Hunt the Quematrice",
+          "fr": "Chasser le Quematrice",
+          "it": "Dai la caccia al Quematrice",
+          "de": "Erjage den Quematrice.",
+          "es": "Caza al Quematrice",
+          "ru": "Победите кематриса",
+          "pl": "Upoluj Chematrice’a",
+          "pt-BR": "Cace o Quematrice",
+          "ko": "케마트리스 사냥하기",
+          "zh-Hant": "狩獵炎尾龍",
+          "zh-Hans": "狩猎炎尾龙",
+          "ar": "صيد كيماتريس",
+          "th": "ล่าเคมาทริซ",
+          "es-419": "Caza al Quematrice"
+        }
+      },
+      {
+        "label": {
+          "ja": "生物調査員 フェルディナントと話す",
+          "en": "Talk to Ferdinand the Researcher",
+          "fr": "Parler à Ferdinand, le chercheur",
+          "it": "Parla con Ferdinand il ricercatore",
+          "de": "Sprich mit Ferdinand, dem Forscher.",
+          "es": "Habla con Ferdinand, el investigador",
+          "ru": "Поговорите с исследователем Фердинандом",
+          "pl": "Porozmawiaj z badaczem Ferdinandem",
+          "pt-BR": "Fale com Ferdinand, o Pesquisador",
+          "ko": "생물 조사원 페르디난트와 대화하기",
+          "zh-Hant": "與生物調查員費迪南交談",
+          "zh-Hans": "与生物调查员 费迪南对话",
+          "ar": "التحدث إلى فرديناند الباحث",
+          "th": "พูดคุยกับนักวิจัยเฟอร์ดินานด์",
+          "es-419": "Habla con Ferdinand, el investigador"
+        }
+      },
+      {
+        "label": {
+          "ja": "食料配給係 トムと話す",
+          "en": "Talk to Tom at the Ingredient Center",
+          "fr": "Parler à Tom au Centre des ingrédients",
+          "it": "Parla con Pa al Centro ingredienti",
+          "de": "Sprich mit Tom von der Zutatenzentrale.",
+          "es": "Habla con Tom en el centro de ingredientes",
+          "ru": "Поговорите с По в центре ингредиентов",
+          "pl": "Porozmawiaj z Tomem w centrum składników",
+          "pt-BR": "Fale com Tom na Central de Ingredientes",
+          "ko": "식량배급 담당 톰과 대화하기",
+          "zh-Hant": "與食物補給負責人托姆交談",
+          "zh-Hans": "与食物配给负责人 托姆对话",
+          "ar": "التحدث إلى توم في مركز المكونات",
+          "th": "พูดคุยกับทอมที่ศูนย์วัตถุดิบทำอาหาร",
+          "es-419": "Habla con Tom en el centro de ingredientes"
+        }
+      },
+      {
+        "label": {
+          "ja": "イサイと話す",
+          "en": "Talk to Y'sai",
+          "fr": "Parler à Y'sai",
+          "it": "Parla con Y'sai",
+          "de": "Sprich mit Y’sai.",
+          "es": "Habla con Y'sai",
+          "ru": "Поговорите с И’саем",
+          "pl": "Porozmawiaj z Y'saiem",
+          "pt-BR": "Fale com Y'sai",
+          "ko": "이사이와 대화하기",
+          "zh-Hant": "與伊賽交談",
+          "zh-Hans": "与伊塞对话",
+          "ar": "التحدث إلى إيساي",
+          "th": "พูดคุยกับอิไซ",
+          "es-419": "Habla con Y'sai"
+        }
+      },
+      {
+        "label": {
+          "ja": "イサイについていく",
+          "en": "Follow Y'sai",
+          "fr": "Suivre Y'sai",
+          "it": "Segui Y'sai",
+          "de": "Folge Y’sai.",
+          "es": "Sigue a Y'sai",
+          "ru": "Следуйте за И’саем",
+          "pl": "Podążaj za Y'saiem",
+          "pt-BR": "Siga Y'sai",
+          "ko": "이사이 따라가기",
+          "zh-Hant": "跟隨伊賽",
+          "zh-Hans": "跟随伊塞",
+          "ar": "اتباع إيساي",
+          "th": "ตามอิไซไป",
+          "es-419": "Sigue a Y'sai"
+        }
+      },
+      {
+        "label": {
+          "ja": "族長 エラと話す",
+          "en": "Talk to Elder Ela",
+          "fr": "Parler à Ela, l'Ancienne",
+          "it": "Parla con l'Anziana Ela",
+          "de": "Sprich mit der Ältesten Ela.",
+          "es": "Habla con la anciana Ela",
+          "ru": "Поговорите со старейшиной Элой",
+          "pl": "Porozmawiaj ze Starszą Elą",
+          "pt-BR": "Fale com a Anciã Ella",
+          "ko": "족장 엘라와 대화하기",
+          "zh-Hant": "與族長艾拉交談",
+          "zh-Hans": "与埃拉族长对话",
+          "ar": "التحدث إلى الزعيمة إيلا",
+          "th": "พูดคุยกับผู้อาวุโสเอลา",
+          "es-419": "Habla con la anciana Ela"
+        }
+      },
+      {
+        "label": {
+          "ja": "火の番と話す",
+          "en": "Talk to the woman tending the fire",
+          "fr": "Parler à la femme qui s'occupe du feu",
+          "it": "Parla con la donna presso la fiamma",
+          "de": "Sprich mit der Frau, die Feuer macht.",
+          "es": "Habla con la mujer que atiende el fuego",
+          "ru": "Поговорите с женщиной у огня",
+          "pl": "Porozmawiaj z kobietą rozpalającą ogień",
+          "pt-BR": "Fale com a mulher cuidando do fogo",
+          "ko": "불꽃 문지기와 대화하기",
+          "zh-Hant": "與守火人交談",
+          "zh-Hans": "与守火人对话",
+          "ar": "التحدث إلى حارسة اللهب",
+          "th": "พูดคุยกับหญิงสาวที่อยู่ข้างกองไฟ",
+          "es-419": "Habla con la mujer atendiendo el fuego"
+        }
+      },
+      {
+        "label": {
+          "ja": "イサイと話す",
+          "en": "Talk to Y'sai",
+          "fr": "Parler à Y'sai",
+          "it": "Parla con Y'sai",
+          "de": "Sprich mit Y’sai.",
+          "es": "Habla con Y'sai",
+          "ru": "Поговорите с И’саем",
+          "pl": "Porozmawiaj z Y'saiem",
+          "pt-BR": "Fale com Y'sai",
+          "ko": "이사이와 대화하기",
+          "zh-Hant": "與伊賽交談",
+          "zh-Hans": "与伊塞对话",
+          "ar": "التحدث إلى إيساي",
+          "th": "พูดคุยกับอิไซ",
+          "es-419": "Habla con Y'sai"
+        }
+      }
+    ],
     "title": {
       "ja": "風音と共に生きる村",
       "en": "Village of Whispering Winds",
@@ -173,6 +673,27 @@
   {
     "game_id": 3,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "森につづく場所に向かう",
+          "en": "Head toward the forest",
+          "fr": "Se diriger vers la forêt",
+          "it": "Dirigiti verso la foresta",
+          "de": "Begib dich zum Wald.",
+          "es": "Ve hacia el bosque",
+          "ru": "Отправляйтесь в лес",
+          "pl": "Udaj się w stronę lasu",
+          "pt-BR": "Vá para a floresta",
+          "ko": "숲으로 이어진 곳으로 가기",
+          "zh-Hant": "前往通往森林的地點",
+          "zh-Hans": "前往通向森林之地",
+          "ar": "التوجه نحو الغابة",
+          "th": "มุ่งหน้าสู่ป่า",
+          "es-419": "Ve hacia el bosque"
+        }
+      }
+    ],
     "title": {
       "ja": "森へ",
       "en": "To the Forest",
@@ -218,6 +739,217 @@
   {
     "game_id": 4,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "森を目指す",
+          "en": "Head toward the forest",
+          "fr": "Se diriger vers la forêt",
+          "it": "Dirigiti verso la foresta",
+          "de": "Begib dich zum Wald.",
+          "es": "Ve hacia el bosque",
+          "ru": "Отправляйтесь в лес",
+          "pl": "Udaj się w stronę lasu",
+          "pt-BR": "Vá para a floresta",
+          "ko": "숲으로 가기",
+          "zh-Hant": "往森林前進",
+          "zh-Hans": "前往森林",
+          "ar": "التوجه نحو الغابة",
+          "th": "มุ่งหน้าสู่ป่า",
+          "es-419": "Ve hacia el bosque"
+        }
+      },
+      {
+        "label": {
+          "ja": "エリックと話す",
+          "en": "Talk to Erik",
+          "fr": "Parler à Erik",
+          "it": "Parla con Erik",
+          "de": "Sprich mit Erik.",
+          "es": "Habla con Erik",
+          "ru": "Поговорите с Эриком",
+          "pl": "Porozmawiaj z Erikiem",
+          "pt-BR": "Fale com Erik",
+          "ko": "에릭과 대화하기",
+          "zh-Hant": "與艾力克交談",
+          "zh-Hans": "与艾瑞克对话",
+          "ar": "التحدث إلى إريك",
+          "th": "พูดคุยกับเอริค",
+          "es-419": "Habla con Erik"
+        }
+      },
+      {
+        "label": {
+          "ja": "建設予定地に向かう",
+          "en": "Head to the campsite",
+          "fr": "Se rendre à l'emplacement prévu du camp",
+          "it": "Raggiungi il luogo per l'accampamento",
+          "de": "Begib dich zum Feldlagerplatz.",
+          "es": "Ve al campamento",
+          "ru": "Доберитесь до лагеря",
+          "pl": "Udaj się do obozu",
+          "pt-BR": "Vá para o acampamento",
+          "ko": "건설 예정지로 가기",
+          "zh-Hant": "前往搭營候選地點",
+          "zh-Hans": "前往设营备选地",
+          "ar": "التوجه إلى موقع المعسكر",
+          "th": "มุ่งหน้าสู่จุดตั้งแคมป์",
+          "es-419": "Ve al campamento"
+        }
+      },
+      {
+        "label": {
+          "ja": "ドシャグマの痕跡を追う",
+          "en": "Follow the Doshaguma traces",
+          "fr": "Suivre les traces de Doshaguma",
+          "it": "Segui le tracce di: Doshaguma",
+          "de": "Folge den Spuren: Doshaguma.",
+          "es": "Sigue los rastros de: Doshaguma",
+          "ru": "Дошагума: идите по следам",
+          "pl": "Podążaj śladami: Doshaguma",
+          "pt-BR": "Siga os rastros de Doshaguma",
+          "ko": "도샤구마의 흔적 따라가기",
+          "zh-Hant": "追蹤闢獸的痕跡",
+          "zh-Hans": "追踪辟兽的痕迹",
+          "ar": "تتبع آثار دوشاغوما",
+          "th": "ไปตามร่องรอยของโดชากุมา",
+          "es-419": "Sigue los rastros de: Doshaguma"
+        }
+      },
+      {
+        "label": {
+          "ja": "ラバラ・バリナを狩猟する",
+          "en": "Hunt the Lala Barina",
+          "fr": "Chasser la Lala Barina",
+          "it": "Dai la caccia al Lala Barina",
+          "de": "Erjage die Lala Barina.",
+          "es": "Caza a la Lala Barina",
+          "ru": "Победите лалу барину",
+          "pl": "Upoluj Lala Barinę",
+          "pt-BR": "Cace a Lala Barina",
+          "ko": "라바라 바리나 사냥하기",
+          "zh-Hant": "狩獵刺花蜘蛛",
+          "zh-Hans": "狩猎刺花蜘蛛",
+          "ar": "صيد لالا بارينا",
+          "th": "ล่าลาลา บารินา",
+          "es-419": "Caza a la Lala Barina"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジェマと話す",
+          "en": "Talk to Gemma",
+          "fr": "Parler à Gemma",
+          "it": "Parla con Gemma",
+          "de": "Sprich mit Gemma.",
+          "es": "Habla con Gemma",
+          "ru": "Поговорите с Джеммой",
+          "pl": "Porozmawiaj z Gemmą",
+          "pt-BR": "Fale com Gemma",
+          "ko": "젬마와 대화하기",
+          "zh-Hant": "與潔瑪交談",
+          "zh-Hans": "与杰玛对话",
+          "ar": "التحدث إلى جيما",
+          "th": "พูดคุยกับเจมมา",
+          "es-419": "Habla con Gemma"
+        }
+      },
+      {
+        "label": {
+          "ja": "簡易キャンプに向かう",
+          "en": "Head to the Pop-up Camp",
+          "fr": "Aller au camp provisoire",
+          "it": "Raggiungi l'accampamento mobile",
+          "de": "Begib dich zum Feldlager.",
+          "es": "Ve al campamento temporal",
+          "ru": "Доберитесь до временного лагеря",
+          "pl": "Udaj się do przenośnego obozu",
+          "pt-BR": "Vá para a Instatenda",
+          "ko": "간이 캠프로 가기",
+          "zh-Hant": "前往簡易營地",
+          "zh-Hans": "前往简易营地",
+          "ar": "التوجه إلى المعسكر المؤقت",
+          "th": "มุ่งหน้าสู่แคมป์พกพา",
+          "es-419": "Ve al campamento temporal"
+        }
+      },
+      {
+        "label": {
+          "ja": "獣人族についていく",
+          "en": "Go with the Lynians",
+          "fr": "Suivre les Lyniens",
+          "it": "Segui i Lynian",
+          "de": "Folge den Lynianern.",
+          "es": "Ve con los lynian",
+          "ru": "Идите с линианцами",
+          "pl": "Idź z lynianami",
+          "pt-BR": "Acompanhe os Lynianos",
+          "ko": "수인족 따라가기",
+          "zh-Hant": "跟隨獸人族",
+          "zh-Hans": "跟随兽人族",
+          "ar": "اتبع اللينيان",
+          "th": "ไปกับชาวลินเนียน",
+          "es-419": "Ve con los lynians"
+        }
+      },
+      {
+        "label": {
+          "ja": "獣人族の交渉人と話す",
+          "en": "Talk to the Lynian Negotiator",
+          "fr": "Parler à la négociatrice des Lyniens",
+          "it": "Parla con la mediatrice Lynian",
+          "de": "Sprich mit der Lynianer-Vermittlerin.",
+          "es": "Habla con la negociadora lynian",
+          "ru": "Поговорите с переговорщицей линианцев",
+          "pl": "Porozmawiaj z lyniańskim negocjatorem",
+          "pt-BR": "Fale com a Negociante Lyniana",
+          "ko": "수인족 교섭인과 대화하기",
+          "zh-Hant": "與獸人族的交涉代表交談",
+          "zh-Hans": "与兽人族的交涉代表对话",
+          "ar": "التحدث إلى باحث اللينيان",
+          "th": "พูดคุยกับนักเจรจาชาวลินเนียน",
+          "es-419": "Habla con el negociador lynian"
+        }
+      },
+      {
+        "label": {
+          "ja": "ババコンガを探しにいく",
+          "en": "Search for the Congalala",
+          "fr": "Chercher le Congalala",
+          "it": "Cerca il Congalala",
+          "de": "Suche nach dem Congalala.",
+          "es": "Busca al Congalala",
+          "ru": "Найдите конгалалу",
+          "pl": "Poszukaj Kongalali",
+          "pt-BR": "Procure pelo Congalala",
+          "ko": "바바콩가 찾으러 가기",
+          "zh-Hant": "尋找桃毛獸王",
+          "zh-Hans": "寻找桃毛兽王",
+          "ar": "البحث عن كونغالالا",
+          "th": "ค้นหาคองกาลาลา",
+          "es-419": "Busca al Congalala"
+        }
+      },
+      {
+        "label": {
+          "ja": "ババコンガを狩猟する",
+          "en": "Hunt the Congalala",
+          "fr": "Chasser le Congalala",
+          "it": "Dai la caccia al Congalala",
+          "de": "Erjage den Congalala.",
+          "es": "Caza al Congalala",
+          "ru": "Победите конгалалу",
+          "pl": "Upoluj Kongalalę",
+          "pt-BR": "Cace o Congalala",
+          "ko": "바바콩가 사냥하기",
+          "zh-Hant": "狩獵桃毛獸王",
+          "zh-Hans": "狩猎桃毛兽王",
+          "ar": "صيد كونغالالا",
+          "th": "ล่าคองกาลาลา",
+          "es-419": "Caza al Congalala"
+        }
+      }
+    ],
     "title": {
       "ja": "森の生態調査",
       "en": "Forest Findings",
@@ -278,6 +1010,27 @@
   {
     "game_id": 5,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      }
+    ],
     "title": {
       "ja": "調査の続行",
       "en": "The Investigation Continues",
@@ -323,6 +1076,141 @@
   {
     "game_id": 6,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "オアシスに向かう",
+          "en": "Head to the oasis",
+          "fr": "Aller à l'oasis",
+          "it": "Raggiungi l'oasi",
+          "de": "Begib dich zur Oase.",
+          "es": "Ve al oasis",
+          "ru": "Отправляйтесь в оазис",
+          "pl": "Udaj się do oazy",
+          "pt-BR": "Vá para o oásis",
+          "ko": "오아시스로 가기",
+          "zh-Hant": "前往綠洲",
+          "zh-Hans": "前往绿洲",
+          "ar": "التوجه إلى الواحة",
+          "th": "มุ่งหน้าสู่โอเอซิส",
+          "es-419": "Ve al oasis"
+        }
+      },
+      {
+        "label": {
+          "ja": "バーラハーラの群れから逃げる",
+          "en": "Escape from the Balahara",
+          "fr": "Échapper aux Balahara",
+          "it": "Fuggi dal Balahara",
+          "de": "Entkomme den Balahara.",
+          "es": "Huye de los Balahara",
+          "ru": "Оторвитесь от стаи балахар",
+          "pl": "Ucieknij przed stadem Balahar",
+          "pt-BR": "Fuja do Balahara",
+          "ko": "발라하라 무리를 따돌리기",
+          "zh-Hant": "逃離沙海龍群體",
+          "zh-Hans": "逃离沙海龙群",
+          "ar": "الهروب من بالاهارا",
+          "th": "หนีจากบาลาฮารา",
+          "es-419": "Huye de los Balahara"
+        }
+      },
+      {
+        "label": {
+          "ja": "バーラハーラの狩猟",
+          "en": "Hunt the Balahara",
+          "fr": "Chasser le Balahara",
+          "it": "Dai la caccia al Balahara",
+          "de": "Erjage den Balahara.",
+          "es": "Caza al Balahara",
+          "ru": "Победите балахар",
+          "pl": "Upoluj Balaharę",
+          "pt-BR": "Cace o Balahara",
+          "ko": "발라하라 사냥",
+          "zh-Hant": "狩獵沙海龍",
+          "zh-Hans": "狩猎沙海龙",
+          "ar": "صيد بالاهارا",
+          "th": "ล่าบาลาฮารา",
+          "es-419": "Caza al Balahara"
+        }
+      },
+      {
+        "label": {
+          "ja": "群れを追う",
+          "en": "Follow the pack",
+          "fr": "Suivre la meute",
+          "it": "Segui il branco",
+          "de": "Folge dem Rudel.",
+          "es": "Sigue a la manada",
+          "ru": "Следуйте за стаей",
+          "pl": "Podążaj za stadem",
+          "pt-BR": "Siga o bando",
+          "ko": "무리 쫓아가기",
+          "zh-Hant": "追上魔物群",
+          "zh-Hans": "追赶怪物群",
+          "ar": "اتباع القطيع",
+          "th": "ตามฝูงไป",
+          "es-419": "Sigue a la manada"
+        }
+      },
+      {
+        "label": {
+          "ja": "ドシャグマ（ボス個体）の注意を惹く",
+          "en": "Get the Alpha Doshaguma's attention",
+          "fr": "Attirer l'attention du chef des Doshaguma",
+          "it": "Attira l'attenzione del Doshaguma alfa",
+          "de": "Mach den Alpha auf dich aufmerksam.",
+          "es": "Llama la atención del Doshaguma Alfa",
+          "ru": "Привлеките внимание вожака дошагум",
+          "pl": "Przyciągnij uwagę Doshagumy alfa",
+          "pt-BR": "Chame a atenção do Doshaguma Alfa",
+          "ko": "도샤구마(보스)의 시선 끌기",
+          "zh-Hant": "吸引闢獸（頭領）的注意",
+          "zh-Hans": "吸引辟兽（首领）的注意",
+          "ar": "جذب انتباه قائد وحوش دوشاغوما",
+          "th": "ดึงความสนใจของอัลฟา โดชากุมา",
+          "es-419": "Llama la atención del Doshaguma Alfa"
+        }
+      },
+      {
+        "label": {
+          "ja": "ドシャグマ（ボス個体）の狩猟",
+          "en": "Hunt the Alpha Doshaguma",
+          "fr": "Chasser le chef des Doshaguma",
+          "it": "Dai la caccia al Doshaguma alfa",
+          "de": "Erjage den Alpha-Doshaguma.",
+          "es": "Caza al Doshaguma Alfa",
+          "ru": "Победите вожака дошагум",
+          "pl": "Upoluj Doshagumę alfa",
+          "pt-BR": "Cace o Doshaguma Alfa",
+          "ko": "도샤구마(보스) 사냥",
+          "zh-Hant": "狩獵闢獸（頭領）",
+          "zh-Hans": "狩猎辟兽（首领）",
+          "ar": "صيد قائد وحوش دوشاغوما",
+          "th": "ล่าอัลฟา โดชากุมา",
+          "es-419": "Caza al Doshaguma Alfa"
+        }
+      },
+      {
+        "label": {
+          "ja": "風音の村 クナファに戻る",
+          "en": "Return to Kunafa",
+          "fr": "Retourner à Kunafa",
+          "it": "Torna a Kunafa",
+          "de": "Kehre nach Kunafa zurück.",
+          "es": "Vuelve a Kunafa",
+          "ru": "Возвращайтесь в Кунафу",
+          "pl": "Wróć do Kunafy",
+          "pt-BR": "Retorne para Kunafa",
+          "ko": "바람 소리 마을 쿠나파에 돌아가기",
+          "zh-Hant": "返回風音之村庫納法",
+          "zh-Hans": "返回风音村库纳法",
+          "ar": "العودة إلى كُنافة",
+          "th": "กลับไปที่คูนาฟา",
+          "es-419": "Vuelve a Kunafa"
+        }
+      }
+    ],
     "title": {
       "ja": "ハンターの矜持",
       "en": "A Hunter's Pride",
@@ -383,6 +1271,27 @@
   {
     "game_id": 7,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "砂原のベースキャンプでナタと話す",
+          "en": "Talk to Nata in the Plains Base Camp",
+          "fr": "Parler à Nata au camp de base des Plaines",
+          "it": "Parla con Nata al campo base delle Piane",
+          "de": "Sprich im Basislager in der Ebene mit Nata.",
+          "es": "Habla con Nata en el campamento base de los Llanos",
+          "ru": "Поговорите с Натой в лагере на Равнинах",
+          "pl": "Porozmawiaj z Natą w obozie gł. na Równinach",
+          "pt-BR": "Fale com Nata no Acamp. das Planícies",
+          "ko": "모래 평원의 베이스캠프에서 나타와 대화하기",
+          "zh-Hant": "前往沙原的大本營與拿塔交談",
+          "zh-Hans": "前往沙原的大本营与纳塔对话",
+          "ar": "التحدث إلى ناتا بمعسكر قاعدة السهول",
+          "th": "พูดคุยกับนาตาในแคมป์หลักในทุ่ง",
+          "es-419": "Habla con Nata en el campamento base de los Llanos"
+        }
+      }
+    ],
     "title": {
       "ja": "孤独を追って",
       "en": "Pursuit of Solitude",
@@ -428,6 +1337,65 @@
   {
     "game_id": 8,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "緋の森の奥に向かう",
+          "en": "Head to the depths of the Scarlet Forest",
+          "fr": "Aller au cœur de la Forêt écarlate",
+          "it": "Vai nel profondo della Foresta cremisi",
+          "de": "Begib dich in die Tiefen des Karminwalds.",
+          "es": "Ve hacia el interior del Bosque Escarlata",
+          "ru": "Отправляйтесь в чащу Багряного леса",
+          "pl": "Udaj się w głąb Szkarłatnego Lasu",
+          "pt-BR": "Vá para as profundezas da Floresta Escarlate",
+          "ko": "주홍빛 숲 깊은 곳으로 가기",
+          "zh-Hant": "前往緋紅森林深處",
+          "zh-Hans": "前往绯红森林深处",
+          "ar": "التوجه إلى أعماق الغابة القرمزية",
+          "th": "มุ่งหน้าสู่ส่วนลึกของป่าโลหิต",
+          "es-419": "Ve hacia el interior del Bosque Escarlata"
+        }
+      },
+      {
+        "label": {
+          "ja": "ウズ・トゥナを撃退する",
+          "en": "Repel the Uth Duna",
+          "fr": "Repousser l'Uth Duna",
+          "it": "Respingi l'Uth Duna",
+          "de": "Wehre den Uth Duna ab.",
+          "es": "Ahuyenta al Uth Duna",
+          "ru": "Прогоните ут дуну",
+          "pl": "Odeprzyj Uth Dunę",
+          "pt-BR": "Afugente o Uth Duna",
+          "ko": "우드 투나 격퇴하기",
+          "zh-Hant": "擊退波衣龍",
+          "zh-Hans": "击退波衣龙",
+          "ar": "دحض أوث دونا",
+          "th": "ขับไล่อุธ ดูนา",
+          "es-419": "Repele al Uth Duna"
+        }
+      },
+      {
+        "label": {
+          "ja": "オリヴィアに話しかける",
+          "en": "Talk to Olivia",
+          "fr": "Parler à Olivia",
+          "it": "Parla con Olivia",
+          "de": "Sprich mit Olivia.",
+          "es": "Habla con Olivia",
+          "ru": "Поговорите с Оливией",
+          "pl": "Porozmawiaj z Olivią",
+          "pt-BR": "Fale com Olivia",
+          "ko": "올리비아에게 말 걸기",
+          "zh-Hant": "與奧莉維亞交談",
+          "zh-Hans": "与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا",
+          "th": "พูดคุยกับโอลิเวีย",
+          "es-419": "Habla con Olivia"
+        }
+      }
+    ],
     "title": {
       "ja": "土砂降りの向こう側",
       "en": "Beyond the Deluge",
@@ -504,6 +1472,46 @@
   {
     "game_id": 9,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "準備を整え、アルマに話しかける",
+          "en": "Finish your preparations and talk to Alma",
+          "fr": "Se préparer et parler à Alma",
+          "it": "Concludi i preparativi e parla con Alma",
+          "de": "Bereite dich vor und sprich mit Alma.",
+          "es": "Termina de prepararte y habla con Alma",
+          "ru": "Подготовьтесь и поговорите с Альмой",
+          "pl": "Zakończ przygotowania i porozmawiaj z Almą",
+          "pt-BR": "Termine os preparativos e fale com Alma",
+          "ko": "준비를 마치고 알마에게 말 걸기",
+          "zh-Hant": "做好準備後與阿爾瑪交談",
+          "zh-Hans": "做好准备后与阿尔玛对话",
+          "ar": "الانتهاء من الاستعدادات والتحدث إلى ألما",
+          "th": "เตรียมการให้เสร็จแล้วพูดคุยกับอัลมา",
+          "es-419": "Termina tus preparativos y habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "モリバーたちの元へ向かう",
+          "en": "Go to the Wudwuds",
+          "fr": "Aller voir les Wudwuds",
+          "it": "Raggiungi i Wudwud",
+          "de": "Geh zu den Wudwuds.",
+          "es": "Ve con los Wudwuds",
+          "ru": "Отправляйтесь к вудвудам",
+          "pl": "Idź do Leśniaków",
+          "pt-BR": "Vá até os Wudwuds",
+          "ko": "모리바들이 있는 곳으로 가기",
+          "zh-Hant": "前往莫利巴的聚居地",
+          "zh-Hans": "前往森狸人聚居地",
+          "ar": "الذهاب إلى الـ(وودوود)",
+          "th": "ไปหาวุดวุด",
+          "es-419": "Ve con los Wudwuds"
+        }
+      }
+    ],
     "title": {
       "ja": "浮かび上がった影",
       "en": "A Looming Shadow",
@@ -549,6 +1557,103 @@
   {
     "game_id": 10,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "火窯の里 アズズに向かう",
+          "en": "Head to Azuz, the Everforge",
+          "fr": "Aller à Azuz",
+          "it": "Raggiungi Azuz, la Forgeterna",
+          "de": "Begib dich nach Azuz.",
+          "es": "Ve a Azuz, la Forja Eterna",
+          "ru": "Отправляйтесь в Азуз, Вечную Кузницу",
+          "pl": "Udaj się do Azuz, Wiecznej Kuźni",
+          "pt-BR": "Vá para Azuz, a Forjeterna",
+          "ko": "불가마 마을 아즈즈에 가기",
+          "zh-Hant": "前往火窯之村阿茲茲",
+          "zh-Hans": "前往火窑村阿孜兹",
+          "ar": "التوجه إلى آزوز، الورشة العظمى",
+          "th": "มุ่งหน้าสู่อาซุส เตาหลอมนิรันดร์",
+          "es-419": "Ve a Azuz, la Forja Eterna"
+        }
+      },
+      {
+        "label": {
+          "ja": "ヤブランと話す",
+          "en": "Talk to Yabran",
+          "fr": "Parler à Yabran",
+          "it": "Parla con Yabran",
+          "de": "Sprich mit Yabran.",
+          "es": "Habla con Yabran",
+          "ru": "Поговорите с Ябраном",
+          "pl": "Porozmawiaj z Yabranem",
+          "pt-BR": "Fale com Yabran",
+          "ko": "야브란과 대화하기",
+          "zh-Hant": "與油老爺交談",
+          "zh-Hans": "与油老对话",
+          "ar": "التحدث إلى يبران",
+          "th": "พูดคุยกับยาบรัน",
+          "es-419": "Habla con Yabran"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "マキを探しに行く",
+          "en": "Search for Maki",
+          "fr": "Chercher Maki",
+          "it": "Trova Maki",
+          "de": "Suche nach Maki.",
+          "es": "Busca a Maki",
+          "ru": "Найдите Маки",
+          "pl": "Poszukaj Maki",
+          "pt-BR": "Procure por Maki",
+          "ko": "마키 찾으러 가기",
+          "zh-Hant": "尋找瑪奇",
+          "zh-Hans": "寻找玛奇",
+          "ar": "البحث عن ماكي",
+          "th": "ตามหามากิ",
+          "es-419": "Busca a Maki"
+        }
+      },
+      {
+        "label": {
+          "ja": "ププロポルを狩猟する",
+          "en": "Hunt the Rompopolo",
+          "fr": "Chasser le Rompopolo",
+          "it": "Dai la caccia al Rompopolo",
+          "de": "Erjage den Rompopolo.",
+          "es": "Caza al Rompopolo",
+          "ru": "Победите ромпополо",
+          "pl": "Upoluj Rompopola",
+          "pt-BR": "Cace o Rompopolo",
+          "ko": "푸푸로포루 사냥하기",
+          "zh-Hant": "狩獵沼噴龍",
+          "zh-Hans": "狩猎沼喷龙",
+          "ar": "صيد رومبوبولو",
+          "th": "ล่ารอมโปโปโล",
+          "es-419": "Caza al Rompopolo"
+        }
+      }
+    ],
     "title": {
       "ja": "熱き心の行き先に",
       "en": "Toward Fervent Fields",
@@ -594,6 +1699,27 @@
   {
     "game_id": 11,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      }
+    ],
     "title": {
       "ja": "予期せぬ砂嵐",
       "en": "An Unforeseen Storm",
@@ -639,6 +1765,46 @@
   {
     "game_id": 12,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "風吹き山に向かう",
+          "en": "Head to the Wind's Gasp",
+          "fr": "Aller au Souffle du vent",
+          "it": "Raggiungi il Respiro del vento",
+          "de": "Begib dich zur Röchelzinne.",
+          "es": "Ve al Suspiro del Viento",
+          "ru": "Отправляйтесь к горе Дух Ветра",
+          "pl": "Udaj się do Tchnienia Wiatru",
+          "pt-BR": "Vá para o Suspiro do Vento",
+          "ko": "바람 부는 산으로 가기",
+          "zh-Hant": "前往風拂山",
+          "zh-Hans": "前往风来山",
+          "ar": "التوجه إلى شهيق الرياح",
+          "th": "มุ่งหน้าสู่ภูผาลมสะอื้น",
+          "es-419": "Ve al Suspiro del Viento"
+        }
+      },
+      {
+        "label": {
+          "ja": "レ・ダウを討伐する",
+          "en": "Slay the Rey Dau",
+          "fr": "Éliminer le Rey Dau",
+          "it": "Abbatti il Rey Dau",
+          "de": "Erlege den Rey Dau.",
+          "es": "Abate al Rey Dau",
+          "ru": "Уничтожьте рей дау",
+          "pl": "Zgładź Rey Dau",
+          "pt-BR": "Abata o Rey Dau",
+          "ko": "레 다우 토벌하기",
+          "zh-Hant": "討伐煌雷龍",
+          "zh-Hans": "讨伐煌雷龙",
+          "ar": "ذبح راي داو",
+          "th": "สังหารเรย์ ดาว",
+          "es-419": "Abate al Rey Dau"
+        }
+      }
+    ],
     "title": {
       "ja": "向かい合わせの武器と武器",
       "en": "The Eye of the Storm",
@@ -720,6 +1886,27 @@
   {
     "game_id": 13,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "火窯の里 アズズでヴェルナーと話す",
+          "en": "Talk to Werner in Azuz",
+          "fr": "Parler à Werner à Azuz",
+          "it": "Parla con Werner ad Azuz",
+          "de": "Sprich in Azuz mit Werner.",
+          "es": "Habla con Werner en Azuz",
+          "ru": "Поговорите с Вернером в Азузе",
+          "pl": "Porozmawiaj z Wernerem w Azuz",
+          "pt-BR": "Fale com Werner em Azuz",
+          "ko": "불가마 마을 아즈즈에서 베르너와 대화하기",
+          "zh-Hant": "前往火窯之村阿茲茲與維爾納交談",
+          "zh-Hans": "前往火窑村阿孜兹与沃纳对话",
+          "ar": "التحدث إلى فيرنر في آزوز",
+          "th": "พูดคุยกับเวอร์เนอร์ในอาซุส",
+          "es-419": "Habla con Werner en Azuz"
+        }
+      }
+    ],
     "title": {
       "ja": "孤独が向かう場所",
       "en": "A Desolate Destination",
@@ -765,6 +1952,179 @@
   {
     "game_id": 14,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "サテツについていく",
+          "en": "Follow Satesh",
+          "fr": "Suivre Satesh",
+          "it": "Segui Satesh",
+          "de": "Folge Satesh.",
+          "es": "Sigue a Satesh",
+          "ru": "Следуйте за Сатешем",
+          "pl": "Podążaj za Sateshem",
+          "pt-BR": "Siga Satesh",
+          "ko": "사테츠를 따라가기",
+          "zh-Hant": "跟隨鐵薩",
+          "zh-Hans": "跟随沙铁斯",
+          "ar": "اتباع ساتيش",
+          "th": "ตามซาเทชไป",
+          "es-419": "Sigue a Satesh"
+        }
+      },
+      {
+        "label": {
+          "ja": "セクレトに乗る",
+          "en": "Mount your Seikret",
+          "fr": "Monter sur le Seikret",
+          "it": "Sali sul Seikret",
+          "de": "Steige auf deinen Saikrii.",
+          "es": "Monta en tu Seikret",
+          "ru": "Сядьте на сейкрета",
+          "pl": "Dosiądź Seikreta",
+          "pt-BR": "Monte no seu Seikret",
+          "ko": "세크레트에 올라타기",
+          "zh-Hant": "騎到鷺鷹龍上",
+          "zh-Hans": "骑乘鹭鹰龙",
+          "ar": "امتطاء سيكريت",
+          "th": "ขี่เซย์เคร็ท",
+          "es-419": "Monta tu Seikret"
+        }
+      },
+      {
+        "label": {
+          "ja": "壁の上を目指す",
+          "en": "Head to the top of the wall",
+          "fr": "Atteindre le sommet",
+          "it": "Raggiungi la parte superiore",
+          "de": "Erreiche die Oberseite der Mauer.",
+          "es": "Sube a lo alto de la muralla",
+          "ru": "Отправляйтесь к вершине стены",
+          "pl": "Udaj się na szczyt muru",
+          "pt-BR": "Vá para o topo da muralha",
+          "ko": "벽 위로 가기",
+          "zh-Hant": "往崖壁上方前進",
+          "zh-Hans": "向崖壁上方前进",
+          "ar": "التوجه إلى قمة الجدار",
+          "th": "มุ่งหน้าสู่ด้านบนสุดของกำแพง",
+          "es-419": "Sube encima de la muralla"
+        }
+      },
+      {
+        "label": {
+          "ja": "ネルスキュラを狩猟する",
+          "en": "Hunt the Nerscylla",
+          "fr": "Chasser la Nerscylla",
+          "it": "Dai la caccia al Nerscylla",
+          "de": "Erjage die Nerscylla.",
+          "es": "Caza al Nerscylla",
+          "ru": "Победите нерскиллу",
+          "pl": "Upoluj Nerscyllę",
+          "pt-BR": "Cace a Nerscylla",
+          "ko": "네르스큐라 사냥하기",
+          "zh-Hant": "狩獵影蜘蛛",
+          "zh-Hans": "狩猎影蜘蛛",
+          "ar": "صيد نيرسكيلا",
+          "th": "ล่าเนอร์ซิลลา",
+          "es-419": "Caza al Nerscylla"
+        }
+      },
+      {
+        "label": {
+          "ja": "ルロウに話しかける",
+          "en": "Talk to Rove",
+          "fr": "Parler à Ronin",
+          "it": "Parla con l'Errante",
+          "de": "Sprich mit Rokko.",
+          "es": "Habla con Rante",
+          "ru": "Поговорите со Странником",
+          "pl": "Porozmawiaj z Włóczykotem",
+          "pt-BR": "Fale com Vagante",
+          "ko": "나그네에게 말 걸기",
+          "zh-Hant": "與柳浪交談",
+          "zh-Hans": "与柳浪对话",
+          "ar": "التحدث إلى روف",
+          "th": "พูดคุยกับโรฟ",
+          "es-419": "Habla con Rante"
+        }
+      },
+      {
+        "label": {
+          "ja": "上層を目指す",
+          "en": "Head higher",
+          "fr": "Aller plus haut",
+          "it": "Vai verso l'alto",
+          "de": "Begib dich höher hinauf.",
+          "es": "Sube más arriba",
+          "ru": "Поднимитесь выше",
+          "pl": "Idź wyżej",
+          "pt-BR": "Vá para o alto",
+          "ko": "상층부로 가기",
+          "zh-Hant": "往上層前進",
+          "zh-Hans": "向上层前进",
+          "ar": "الصعود إلى الأعلى",
+          "th": "มุ่งหน้าไปให้สูงขึ้น",
+          "es-419": "Sube más arriba"
+        }
+      },
+      {
+        "label": {
+          "ja": "鳥の隊メンバーと話す",
+          "en": "Talk to the other Avis Unit members",
+          "fr": "Parler aux autres membres de l'unité Avis",
+          "it": "Parla con altri membri dell'unità Avis",
+          "de": "Sprich mit den anderen Avis-Mitgliedern.",
+          "es": "Habla con el resto de miembros de la unidad Avis",
+          "ru": "Поговорите с участниками отряда «Авис»",
+          "pl": "Porozmawiaj z członkami Jednostki Avis",
+          "pt-BR": "Fale com os membros da Unidade Avis",
+          "ko": "새 부대 멤버와 대화하기",
+          "zh-Hant": "與飛鳥隊隊員交談",
+          "zh-Hans": "与鸟之队队员对话",
+          "ar": "التحدث إلى أعضاء وحدة أفيس الآخرين",
+          "th": "พูดคุยกับสมาชิกหน่วยเอวิสคนอื่น",
+          "es-419": "Habla con miembros de la unidad Avis"
+        }
+      },
+      {
+        "label": {
+          "ja": "座って休む",
+          "en": "Sit and rest",
+          "fr": "S'asseoir et se reposer",
+          "it": "Siediti e riposa",
+          "de": "Setz dich und ruh dich aus.",
+          "es": "Siéntate y descansa",
+          "ru": "Сядьте и отдохните",
+          "pl": "Usiądź i odpocznij",
+          "pt-BR": "Sente e descanse",
+          "ko": "앉아서 쉬기",
+          "zh-Hant": "坐下休息",
+          "zh-Hans": "坐下休息",
+          "ar": "الجلوس والاسترخاء",
+          "th": "นั่งพัก",
+          "es-419": "Siéntate y descansa"
+        }
+      },
+      {
+        "label": {
+          "ja": "ヒラバミを狩猟する",
+          "en": "Hunt the Hirabami",
+          "fr": "Chasser un Hirabami",
+          "it": "Dai la caccia all'Hirabami",
+          "de": "Erjage einen Hirabami.",
+          "es": "Caza a un Hirabami",
+          "ru": "Победите хирабами",
+          "pl": "Upoluj Hirabami",
+          "pt-BR": "Cace um Hirabami",
+          "ko": "히라바미 사냥하기",
+          "zh-Hant": "狩獵風鋏龍",
+          "zh-Hans": "狩猎风铗龙",
+          "ar": "صيد هيرابامي",
+          "th": "ล่าฮิราบามิ",
+          "es-419": "Caza al Hirabami"
+        }
+      }
+    ],
     "title": {
       "ja": "遠く故郷を離れては",
       "en": "Hopes of Home",
@@ -825,6 +2185,27 @@
   {
     "game_id": 15,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "火窯の里 アズズでヴェルナーをさがす",
+          "en": "Search for Werner in Azuz",
+          "fr": "Chercher Werner à Azuz",
+          "it": "Cerca Werner ad Azuz",
+          "de": "Suche in Azuz nach Werner.",
+          "es": "Busca a Werner en Azuz",
+          "ru": "Найдите в Азузе Вернера",
+          "pl": "Znajdź Wernera w Azuz",
+          "pt-BR": "Procure por Werner em Azuz",
+          "ko": "불가마 마을 아즈즈에서 베르너 찾기",
+          "zh-Hant": "前往火窯之村阿茲茲尋找維爾納",
+          "zh-Hans": "前往火窑村阿孜兹寻找沃纳",
+          "ar": "البحث عن فيرنر في آزوز",
+          "th": "ตามหาเวอร์เนอร์ในอาซุส",
+          "es-419": "Busca a Werner en Azuz"
+        }
+      }
+    ],
     "title": {
       "ja": "不穏の幕開け",
       "en": "A Disquieting Dawn",
@@ -870,6 +2251,84 @@
   {
     "game_id": 16,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アジャラカンを撃退する",
+          "en": "Repel the Ajarakan",
+          "fr": "Repousser les Ajarakan",
+          "it": "Respingi l'Ajarakan",
+          "de": "Wehre die Ajarakan ab.",
+          "es": "Ahuyenta al Ajarakan",
+          "ru": "Прогоните ажараканов",
+          "pl": "Odeprzyj Ajarakana",
+          "pt-BR": "Afugente o Ajarakan",
+          "ko": "아자라칸 격퇴하기",
+          "zh-Hant": "擊退赫猿獸",
+          "zh-Hans": "击退赫猿兽",
+          "ar": "دحض أجاراكان",
+          "th": "ขับไล่อาจาราคาน",
+          "es-419": "Repele a los Ajarakan"
+        }
+      },
+      {
+        "label": {
+          "ja": "アジャラカンを狩猟する",
+          "en": "Hunt the Ajarakan",
+          "fr": "Chasser l'Ajarakan",
+          "it": "Dai la caccia all'Ajarakan",
+          "de": "Erjage den Ajarakan.",
+          "es": "Caza al Ajarakan",
+          "ru": "Победите ажаракана",
+          "pl": "Upoluj Ajarakana",
+          "pt-BR": "Cace o Ajarakan",
+          "ko": "아자라칸 사냥하기",
+          "zh-Hant": "狩獵赫猿獸",
+          "zh-Hans": "狩猎赫猿兽",
+          "ar": "صيد أجاراكان",
+          "th": "ล่าอาจาราคาน",
+          "es-419": "Caza a los Ajarakan"
+        }
+      },
+      {
+        "label": {
+          "ja": "油涌き谷下層で ヌ・エグドラを探す",
+          "en": "Search the Basin's lower stratum",
+          "fr": "Fouiller la strate inférieure du Bassin",
+          "it": "Perlustra lo strato inferiore del Bacino",
+          "de": "Durchsuche die untere Ebene des Beckens.",
+          "es": "Busca en el estrato inferior de la Cuenca",
+          "ru": "Найдите Чёрное Пламя на нижнем ярусе",
+          "pl": "Przeszukaj niższą warstwę",
+          "pt-BR": "Procure no nível inferior da Bacia",
+          "ko": "기름 솟는 계곡 하층에서 누 이그드라 찾기",
+          "zh-Hant": "前往湧油山谷下層尋找獄焰鱆",
+          "zh-Hans": "前往涌油谷下层寻找狱焰蛸",
+          "ar": "البحث في الطبقة السفلية للحوض",
+          "th": "สำรวจชั้นล่างของแอ่ง",
+          "es-419": "Busca en el estrato inferior de la Cuenca"
+        }
+      },
+      {
+        "label": {
+          "ja": "ヌ・エグドラを狩猟する",
+          "en": "Hunt: Nu Udra",
+          "fr": "Chasser : Nu Udra",
+          "it": "Dai la caccia a: Nu Udra",
+          "de": "Erjage: Nu Udra.",
+          "es": "Caza al Nu Udra",
+          "ru": "Ну удра: поохотиться на монстра",
+          "pl": "Upoluj: Nu Udra",
+          "pt-BR": "Cace: Nu Udra",
+          "ko": "누 이그드라 사냥하기",
+          "zh-Hant": "狩獵獄焰鱆",
+          "zh-Hans": "狩猎狱焰蛸",
+          "ar": "صيد: نو أودرا",
+          "th": "ล่า: นู อูดรา",
+          "es-419": "Caza a: Nu Udra"
+        }
+      }
+    ],
     "title": {
       "ja": "古から来た炎",
       "en": "Long-forgotten Flame",
@@ -930,6 +2389,27 @@
   {
     "game_id": 17,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "隔ての砂原でロッソと話す",
+          "en": "Talk to Rosso in the Windward Plains",
+          "fr": "Parler à Rosso dans les Plaines venteuses",
+          "it": "Parla con Rosso nelle Piane ventose",
+          "de": "Sprich in der Windebene mit Rosso.",
+          "es": "Habla con Rosso en los Llanos Barlovento",
+          "ru": "Поговорите с Россо на Наветренных равнинах",
+          "pl": "Porozmawiaj z Rosso na Nawiet. Równinach",
+          "pt-BR": "Fale com Rosso nas Planícies Zéfiras",
+          "ko": "경계의 모래 평원에서 로쏘와 대화하기",
+          "zh-Hant": "前往天塹沙原與羅素交談",
+          "zh-Hans": "前往天堑沙原与罗索对话",
+          "ar": "التحدث إلى روسو بسهول ويندوارد",
+          "th": "คุยกับรอสโซในทุ่งสายลมหวน",
+          "es-419": "Habla con Rosso en los Llanos Ventosos"
+        }
+      }
+    ],
     "title": {
       "ja": "炎がくれたもの",
       "en": "Born from the Flame",
@@ -975,6 +2455,179 @@
   {
     "game_id": 18,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ナタについていく",
+          "en": "Follow Nata",
+          "fr": "Suivre Nata",
+          "it": "Segui Nata",
+          "de": "Folge Nata.",
+          "es": "Sigue a Nata",
+          "ru": "Следуйте за Натой",
+          "pl": "Podążaj za Natą",
+          "pt-BR": "Siga Nata",
+          "ko": "나타 따라가기",
+          "zh-Hant": "跟隨拿塔",
+          "zh-Hans": "跟随纳塔",
+          "ar": "اتباع ناتا",
+          "th": "ตามนาตาไป",
+          "es-419": "Sigue a Nata"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜ドシャグマを討伐する",
+          "en": "Slay the Guardian Doshaguma",
+          "fr": "Éliminer : Doshaguma Gardien",
+          "it": "Abbatti il Doshaguma guardiano",
+          "de": "Erlege den Wächter-Doshaguma.",
+          "es": "Abate: Doshaguma Guardián",
+          "ru": "Дошагума-страж: уничтожьте монстра",
+          "pl": "Zgładź: Doshaguma Strażnik",
+          "pt-BR": "Abata o Doshaguma Guardião",
+          "ko": "수호룡 도샤구마 토벌하기",
+          "zh-Hant": "討伐護闢獸",
+          "zh-Hans": "讨伐护辟兽",
+          "ar": "ذبح دوشاغوما حارس",
+          "th": "สังหารการ์เดียนโดชากุมา",
+          "es-419": "Abate a: Doshaguma Guardián"
+        }
+      },
+      {
+        "label": {
+          "ja": "ナタと話す",
+          "en": "Talk to Nata",
+          "fr": "Parler à Nata",
+          "it": "Parla con Nata",
+          "de": "Sprich mit Nata.",
+          "es": "Habla con Nata",
+          "ru": "Поговорите с Натой",
+          "pl": "Porozmawiaj z Natą",
+          "pt-BR": "Fale com Nata",
+          "ko": "나타와 대화하기",
+          "zh-Hant": "與拿塔交談",
+          "zh-Hans": "与纳塔对话",
+          "ar": "التحدث إلى ناتا",
+          "th": "พูดคุยกับนาตา",
+          "es-419": "Habla con Nata"
+        }
+      },
+      {
+        "label": {
+          "ja": "ナタについていく",
+          "en": "Follow Nata",
+          "fr": "Suivre Nata",
+          "it": "Segui Nata",
+          "de": "Folge Nata.",
+          "es": "Sigue a Nata",
+          "ru": "Следуйте за Натой",
+          "pl": "Podążaj za Natą",
+          "pt-BR": "Siga Nata",
+          "ko": "나타 따라가기",
+          "zh-Hant": "跟隨拿塔",
+          "zh-Hans": "跟随纳塔",
+          "ar": "اتباع ناتا",
+          "th": "ตามนาตาไป",
+          "es-419": "Sigue a Nata"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜リオレウスを討伐する",
+          "en": "Slay the Guardian Rathalos",
+          "fr": "Éliminer : Rathalos Gardien",
+          "it": "Abbatti il Rathalos guardiano",
+          "de": "Erlege den Wächter-Rathalos.",
+          "es": "Abate: Rathalos Guardián",
+          "ru": "Раталос-страж: уничтожьте монстра",
+          "pl": "Zgładź: Rathalos Strażnik",
+          "pt-BR": "Abata o Rathalos Guardião",
+          "ko": "수호룡 리오레우스 토벌하기",
+          "zh-Hant": "討伐護火龍",
+          "zh-Hans": "讨伐护火龙",
+          "ar": "ذبح راثالوس حارس",
+          "th": "สังหารการ์เดียนราธาลอส",
+          "es-419": "Abate a: Rathalos Guardián"
+        }
+      },
+      {
+        "label": {
+          "ja": "タシンについていく",
+          "en": "Follow Tasheen",
+          "fr": "Suivre Tasheen",
+          "it": "Segui Tasheen",
+          "de": "Folge Tasheen.",
+          "es": "Sigue a Tasheen",
+          "ru": "Следуйте за Ташином",
+          "pl": "Podążaj za Tasheenem",
+          "pt-BR": "Siga Tasheen",
+          "ko": "타신 따라가기",
+          "zh-Hant": "跟隨塔辛",
+          "zh-Hans": "跟随塔辛",
+          "ar": "اتباع تاشين",
+          "th": "ตามทาชีนไป",
+          "es-419": "Sigue a Tasheen"
+        }
+      },
+      {
+        "label": {
+          "ja": "タシンと話す",
+          "en": "Talk to Tasheen",
+          "fr": "Parler à Tasheen",
+          "it": "Parla con Tasheen",
+          "de": "Sprich mit Tasheen.",
+          "es": "Habla con Tasheen",
+          "ru": "Поговорите с Ташином",
+          "pl": "Porozmawiaj z Tasheenem",
+          "pt-BR": "Fale com Tasheen",
+          "ko": "타신과 대화하기",
+          "zh-Hant": "與塔辛交談",
+          "zh-Hans": "与塔辛对话",
+          "ar": "التحدّث إلى تاشين",
+          "th": "พูดคุยกับทาชีน",
+          "es-419": "Habla con Tasheen"
+        }
+      },
+      {
+        "label": {
+          "ja": "タシンについていく",
+          "en": "Follow Tasheen",
+          "fr": "Suivre Tasheen",
+          "it": "Segui Tasheen",
+          "de": "Folge Tasheen.",
+          "es": "Sigue a Tasheen",
+          "ru": "Следуйте за Ташином",
+          "pl": "Podążaj za Tasheenem",
+          "pt-BR": "Siga Tasheen",
+          "ko": "타신 따라가기",
+          "zh-Hant": "跟隨塔辛",
+          "zh-Hans": "跟随塔辛",
+          "ar": "اتباع تاشين",
+          "th": "ตามทาชีนไป",
+          "es-419": "Sigue a Tasheen"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜アルシュベルドを撃退する",
+          "en": "Repel the Guardian Arkveld",
+          "fr": "Repousser l'Arkveld Gardien",
+          "it": "Respingi l'Arkveld guardiano",
+          "de": "Wehre den Wächter-Arkveld ab.",
+          "es": "Ahuyenta al Arkveld Guardián",
+          "ru": "Прогоните арквельда-стража",
+          "pl": "Odeprzyj Arkvelda Strażnika",
+          "pt-BR": "Afugente o Arkveld Guardião",
+          "ko": "수호룡 알슈베르도 격퇴하기",
+          "zh-Hant": "擊退護鎖刃龍",
+          "zh-Hans": "击退护锁刃龙",
+          "ar": "دحض آركفيلد حارس",
+          "th": "ขับไล่การ์เดียนอาร์คเวลด์",
+          "es-419": "Repele al Arkveld Guardián"
+        }
+      }
+    ],
     "title": {
       "ja": "守り続けた者達",
       "en": "The Faithful Keepers",
@@ -1035,6 +2688,27 @@
   {
     "game_id": 19,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "氷霧の断崖でオリヴィアと話す",
+          "en": "Talk to Olivia in the Iceshard Cliffs",
+          "fr": "Parler à Olivia aux Falaises de glace",
+          "it": "Parla con Olivia nelle Scogliere ghiaccioaguzzo",
+          "de": "Sprich in den Klippen mit Olivia.",
+          "es": "Habla con Olivia en los Acantilados del Témpano",
+          "ru": "Поговорите с Оливией на Ледяных утёсах",
+          "pl": "Porozmawiaj z Olivią na Lodowcowych Klifach",
+          "pt-BR": "Fale com Olivia nas Escarpas Frígidas",
+          "ko": "빙무의 절벽에서 올리비아와 대화하기",
+          "zh-Hant": "前往冰霧斷崖與奧莉維亞交談",
+          "zh-Hans": "前往冰雾断崖与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا بمنحدرات الشظايا الجليدية",
+          "th": "พูดคุยกับโอลิเวียในผาคมน้ำแข็ง",
+          "es-419": "Habla con Olivia en los Acantilados Espinahelada"
+        }
+      }
+    ],
     "title": {
       "ja": "不撓不屈",
       "en": "Indomitable Spirit",
@@ -1080,6 +2754,65 @@
   {
     "game_id": 20,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ルロウに話を聞く",
+          "en": "Listen to Rove",
+          "fr": "Aller voir Ronin",
+          "it": "Ascolta l'Errante",
+          "de": "Hör dir an, was Rokko zu sagen hat.",
+          "es": "Escucha a Rante",
+          "ru": "Выслушайте Странника",
+          "pl": "Wysłuchaj Włóczykota",
+          "pt-BR": "Escute o Vagante",
+          "ko": "나그네에게 이야기 듣기",
+          "zh-Hant": "向柳浪了解情況",
+          "zh-Hans": "向柳浪了解情况",
+          "ar": "الاستماع لروف",
+          "th": "ฟังโรฟ",
+          "es-419": "Escucha a Rante"
+        }
+      },
+      {
+        "label": {
+          "ja": "スージャへの道を進む",
+          "en": "Continue toward Suja",
+          "fr": "Continuer en direction de Suja",
+          "it": "Continua verso Suja",
+          "de": "Setze deine Reise nach Suja fort.",
+          "es": "Continúa hacia Suja",
+          "ru": "Продолжайте путь в Судджу",
+          "pl": "Kontynuuj w stronę Suji",
+          "pt-BR": "Continue em direção à Suja",
+          "ko": "스자로 향하는 길로 나아가기",
+          "zh-Hant": "往蘇加前進",
+          "zh-Hans": "前往酥加",
+          "ar": "مواصلة الطريق نحو سوجا",
+          "th": "มุ่งหน้าต่อไปทางซูจา",
+          "es-419": "Continúa hacia Suja"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジン・ダハドを撃退する",
+          "en": "Repel the Jin Dahaad",
+          "fr": "Repousser le Jin Dahaad",
+          "it": "Respingi il Jin Dahaad",
+          "de": "Wehre den Jin Dahaad ab.",
+          "es": "Ahuyenta al Jin Dahaad",
+          "ru": "Прогоните джина дахаада",
+          "pl": "Odeprzyj Jin Dahaada",
+          "pt-BR": "Afugente o Jin Dahaad",
+          "ko": "진 다하드 격퇴하기",
+          "zh-Hant": "擊退凍峰龍",
+          "zh-Hans": "击退冻峰龙",
+          "ar": "دحض جين دهاد",
+          "th": "ขับไล่จิน ดาฮาด",
+          "es-419": "Repele al Jin Dahaad"
+        }
+      }
+    ],
     "title": {
       "ja": "凍峰に入らずんば",
       "en": "Nothing Frozen, Nothing Gained",
@@ -1161,6 +2894,84 @@
   {
     "game_id": 21,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "耳の方を探す",
+          "en": "Search for the Allhearken",
+          "fr": "Chercher l'Oreille-de-tous",
+          "it": "Cerca Colei che sente tutto",
+          "de": "Finde die Allhörende.",
+          "es": "Busca a la Suma Oyente",
+          "ru": "Найдите Всеслышащую",
+          "pl": "Poszukaj Wszechsłuchaczki",
+          "pt-BR": "Procure pela Audiente",
+          "ko": "긴 귀를 가진 분 찾기",
+          "zh-Hant": "尋找長耳智者",
+          "zh-Hans": "寻找长耳智者",
+          "ar": "البحث عن الصاغية",
+          "th": "ตามหาผู้สดับฟ้าดิน",
+          "es-419": "Busca a la omnioyente"
+        }
+      },
+      {
+        "label": {
+          "ja": "マカ錬金 ビオと話す",
+          "en": "Talk to Vio the Melder",
+          "fr": "Parler à Vio, l'alchimiste",
+          "it": "Parla con Vio l'alchimista",
+          "de": "Sprich mit der Verschmelzerin Vio.",
+          "es": "Habla con Vio, la fusionadora",
+          "ru": "Поговорите с Вио Плавильщицей",
+          "pl": "Porozmawiaj z tyglową Vio",
+          "pt-BR": "Fale com Vio, a Fundidora",
+          "ko": "마카 연금 비오와 대화하기",
+          "zh-Hant": "與負責神秘鍊金的畢歐交談",
+          "zh-Hans": "与负责神秘炼金的比欧对话",
+          "ar": "التحدث إلى فيو مسؤولة الدمج",
+          "th": "พูดคุยกับวิโอ ช่างหลอมรวม",
+          "es-419": "Habla con Vio, la fusionadora"
+        }
+      },
+      {
+        "label": {
+          "ja": "食事の場に向かう",
+          "en": "Go to dinner",
+          "fr": "Participer au repas",
+          "it": "Vai a mangiare",
+          "de": "Iss mit der Allhörenden.",
+          "es": "Ve a cenar",
+          "ru": "Примите участие в трапезе",
+          "pl": "Udaj się na posiłek",
+          "pt-BR": "Vá comer",
+          "ko": "식당으로 가기",
+          "zh-Hant": "前往用餐區",
+          "zh-Hans": "前往用餐地点",
+          "ar": "التوجه لتناول الطعام",
+          "th": "ไปรับประทานอาหารเย็น",
+          "es-419": "Ve a comer"
+        }
+      },
+      {
+        "label": {
+          "ja": "耳の方と話す",
+          "en": "Talk to the Allhearken",
+          "fr": "Parler à l'Oreille-de-tous",
+          "it": "Parla con Colei che sente tutto",
+          "de": "Sprich mit der Allhörenden.",
+          "es": "Habla con la Suma Oyente",
+          "ru": "Поговорите со Всеслышащей",
+          "pl": "Porozmawiaj z Wszechsłuchaczką",
+          "pt-BR": "Fale com a Audiente",
+          "ko": "긴 귀를 가진 분과 대화하기",
+          "zh-Hant": "與長耳智者交談",
+          "zh-Hans": "与长耳智者对话",
+          "ar": "التحدث إلى الصاغية",
+          "th": "พูดคุยกับผู้สดับฟ้าดิน",
+          "es-419": "Habla con la omnioyente"
+        }
+      }
+    ],
     "title": {
       "ja": "黄昏の橋",
       "en": "Through the Dusk",
@@ -1206,6 +3017,27 @@
   {
     "game_id": 22,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "タシンと話す",
+          "en": "Talk to Tasheen",
+          "fr": "Parler à Tasheen",
+          "it": "Parla con Tasheen",
+          "de": "Sprich mit Tasheen.",
+          "es": "Habla con Tasheen",
+          "ru": "Поговорите с Ташином",
+          "pl": "Porozmawiaj z Tasheenem",
+          "pt-BR": "Fale com Tasheen",
+          "ko": "타신과 대화하기",
+          "zh-Hant": "與塔辛交談",
+          "zh-Hans": "与塔辛对话",
+          "ar": "التحدّث إلى تاشين",
+          "th": "พูดคุยกับทาชีน",
+          "es-419": "Habla con Tasheen"
+        }
+      }
+    ],
     "title": {
       "ja": "道",
       "en": "A Path Forward",
@@ -1251,6 +3083,84 @@
   {
     "game_id": 23,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "キャンプ設営地に向かう",
+          "en": "Head to the campsite",
+          "fr": "Trouver un emplacement pour un camp",
+          "it": "Raggiungi l'accampamento",
+          "de": "Begib dich zum Lagerplatz.",
+          "es": "Ve al campamento",
+          "ru": "Следуйте в лагерь",
+          "pl": "Udaj się do obozu",
+          "pt-BR": "Vá para o acampamento",
+          "ko": "캠프 설치 장소로 가기",
+          "zh-Hant": "前往設營候選地點",
+          "zh-Hans": "前往设营地",
+          "ar": "التوجه إلى موقع المعسكر",
+          "th": "มุ่งหน้าสู่จุดตั้งแคมป์",
+          "es-419": "Ve al campamento"
+        }
+      },
+      {
+        "label": {
+          "ja": "調査に出発する",
+          "en": "Set out to investigate",
+          "fr": "Partir enquêter",
+          "it": "Inizia a indagare",
+          "de": "Begib dich auf Untersuchung.",
+          "es": "Sal a investigar",
+          "ru": "Проведите исследование",
+          "pl": "Wyrusz w celu zbadania sprawy",
+          "pt-BR": "Vá investigar",
+          "ko": "조사하러 출발하기",
+          "zh-Hant": "出發調查",
+          "zh-Hans": "出发进行调查",
+          "ar": "الانطلاق للاستقصاء",
+          "th": "ออกเดินทางเพื่อสืบหาข้อมูล",
+          "es-419": "Ve a investigar"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜オドガロン亜種を討伐する",
+          "en": "Slay the Guardian Ebony Odogaron",
+          "fr": "Éliminer l'Odogaron désastre Gardien",
+          "it": "Abbatti l'Odogaron d'ebano guardiano",
+          "de": "Erlege den Wächter-Vulkan-Odogaron.",
+          "es": "Abate al Odogaron Ébano Guardián",
+          "ru": "Уничтожьте эбенового одогарона-стража",
+          "pl": "Zgładź Hebanowego Odogarona Strażnika",
+          "pt-BR": "Abata o Odogaron Negro Guardião",
+          "ko": "수호룡 오도가론 아종 토벌하기",
+          "zh-Hant": "討伐護兇爪龍",
+          "zh-Hans": "讨伐护凶爪龙",
+          "ar": "ذبح أودوغارون أسمر حارس",
+          "th": "สังหารการ์เดียนเอโบนีโอโดการอน",
+          "es-419": "Abate al Odogaron Ébano Guardián"
+        }
+      },
+      {
+        "label": {
+          "ja": "シーウーを狩猟する",
+          "en": "Hunt the Xu Wu",
+          "fr": "Chasser le Xu Wu",
+          "it": "Dai la caccia al Xu Wu",
+          "de": "Erjage den Xu Wu.",
+          "es": "Caza al Xu Wu",
+          "ru": "Победите сю ву",
+          "pl": "Upoluj Xu Wu",
+          "pt-BR": "Cace o Xu Wu",
+          "ko": "시이우 사냥하기",
+          "zh-Hant": "狩獵暗器鱆",
+          "zh-Hans": "狩猎暗器蛸",
+          "ar": "صيد شو وو",
+          "th": "ล่าซือวู",
+          "es-419": "Caza al Xu Wu"
+        }
+      }
+    ],
     "title": {
       "ja": "めぐる命",
       "en": "Full Circle",
@@ -1311,6 +3221,27 @@
   {
     "game_id": 24,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ナタと話す",
+          "en": "Talk to Nata",
+          "fr": "Parler à Nata",
+          "it": "Parla con Nata",
+          "de": "Sprich mit Nata.",
+          "es": "Habla con Nata",
+          "ru": "Поговорите с Натой",
+          "pl": "Porozmawiaj z Natą",
+          "pt-BR": "Fale com Nata",
+          "ko": "나타와 대화하기",
+          "zh-Hant": "與拿塔交談",
+          "zh-Hans": "与纳塔对话",
+          "ar": "التحدث إلى ناتا",
+          "th": "พูดคุยกับนาตา",
+          "es-419": "Habla con Nata"
+        }
+      }
+    ],
     "title": {
       "ja": "夜明け",
       "en": "Dawn Breaks",
@@ -1356,6 +3287,46 @@
   {
     "game_id": 25,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "竜廟の下層に向かう",
+          "en": "Head to the lower stratum of Wyvern's Rest",
+          "fr": "Aller tout en bas du Sanctuaire des wyvernes",
+          "it": "Vai nel profondo del Riposo dei wyvern",
+          "de": "Begib dich in die untere Ebene.",
+          "es": "Ve al estrato inferior del Descanso del Wyvern",
+          "ru": "Спуститесь на нижний уровень Покоя виверны",
+          "pl": "Udaj się do niższej warstwy Spoczynku Wiwern",
+          "pt-BR": "Vá ao nível inferior do Repouso das Serpes",
+          "ko": "용묘 하층으로 가기",
+          "zh-Hant": "前往龍廟下層",
+          "zh-Hans": "前往龙庙下层",
+          "ar": "التوجه إلى الطبقة السفلية لمكان راحة وايفرن",
+          "th": "มุ่งหน้าไปยังชั้นล่างของที่พำนักของไวเวิร์น",
+          "es-419": "Ve al estrato inferior del Descanso del Wyvern"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜アルシュベルドを討伐する",
+          "en": "Slay the Guardian Arkveld",
+          "fr": "Éliminer l'Arkveld Gardien",
+          "it": "Abbatti l'Arkveld guardiano",
+          "de": "Erlege den Wächter-Arkveld.",
+          "es": "Abate al Arkveld Guardián",
+          "ru": "Уничтожьте арквельда-стража",
+          "pl": "Zgładź Arkvelda Strażnika",
+          "pt-BR": "Abata o Arkveld Guardião",
+          "ko": "수호룡 알슈베르도 토벌하기",
+          "zh-Hant": "討伐護鎖刃龍",
+          "zh-Hans": "讨伐护锁刃龙",
+          "ar": "ذبح آركفيلد حارس",
+          "th": "สังหารการ์เดียนอาร์คเวลด์",
+          "es-419": "Abate al Arkveld Guardián"
+        }
+      }
+    ],
     "title": {
       "ja": "夢に求めた楽土なり",
       "en": "Broken Chains",
@@ -1437,6 +3408,27 @@
   {
     "game_id": 26,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ナタと話す",
+          "en": "Talk to Nata",
+          "fr": "Parler à Nata",
+          "it": "Parla con Nata",
+          "de": "Sprich mit Nata.",
+          "es": "Habla con Nata",
+          "ru": "Поговорите с Натой",
+          "pl": "Porozmawiaj z Natą",
+          "pt-BR": "Fale com Nata",
+          "ko": "나타와 대화하기",
+          "zh-Hant": "與拿塔交談",
+          "zh-Hans": "与纳塔对话",
+          "ar": "التحدث إلى ناتا",
+          "th": "พูดคุยกับนาตา",
+          "es-419": "Habla con Nata"
+        }
+      }
+    ],
     "title": {
       "ja": "君が見た世界",
       "en": "Visions of Hope",
@@ -1482,6 +3474,27 @@
   {
     "game_id": 27,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ゾ・シアを討伐する",
+          "en": "Slay Zoh Shia",
+          "fr": "Éliminer le Zoh Shia",
+          "it": "Abbatti Zoh Shia",
+          "de": "Erlege den Zoh Shia.",
+          "es": "Abate a Zoh Shia",
+          "ru": "Уничтожьте Зо Шиа",
+          "pl": "Zgładź Zoh Shia",
+          "pt-BR": "Abata o Zoh Shia",
+          "ko": "조 시아 토벌하기",
+          "zh-Hant": "討伐白熾龍",
+          "zh-Hans": "讨伐白炽龙",
+          "ar": "ذبح زو شيا",
+          "th": "สังหารโซห์ ชิอา",
+          "es-419": "Abatir a Zoh Shia"
+        }
+      }
+    ],
     "title": {
       "ja": "モンスターハンター",
       "en": "Monster Hunter",
@@ -1547,6 +3560,27 @@
   {
     "game_id": 28,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "オリヴィアと話す",
+          "en": "Talk to Olivia",
+          "fr": "Parler à Olivia",
+          "it": "Parla con Olivia",
+          "de": "Sprich mit Olivia.",
+          "es": "Habla con Olivia",
+          "ru": "Поговорите с Оливией",
+          "pl": "Porozmawiaj z Olivią",
+          "pt-BR": "Fale com Olivia",
+          "ko": "올리비아와 대화하기",
+          "zh-Hant": "與奧莉維亞交談",
+          "zh-Hans": "与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا",
+          "th": "พูดคุยกับโอลิเวีย",
+          "es-419": "Habla con Olivia"
+        }
+      }
+    ],
     "title": {
       "ja": "西からの訪れ人",
       "en": "A Visitor from the West",
@@ -1628,6 +3662,84 @@
   {
     "game_id": 29,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "緋の森を観察して回る",
+          "en": "Survey the Scarlet Forest",
+          "fr": "Enquêter dans la Forêt écarlate",
+          "it": "Ispeziona la Foresta cremisi",
+          "de": "Erkunde den Karminwald.",
+          "es": "Investiga el Bosque Escarlata",
+          "ru": "Исследуйте Багряный лес",
+          "pl": "Zbadaj Szkarłatny Las",
+          "pt-BR": "Vasculhe a Floresta Escarlate",
+          "ko": "주홍빛 숲을 관찰하기",
+          "zh-Hant": "在緋紅森林四處觀察",
+          "zh-Hans": "在绯红森林中四处观察",
+          "ar": "استطلاع ميداني في الغابة القرمزية",
+          "th": "สำรวจป่าโลหิต",
+          "es-419": "Inspecciona el Bosque Escarlata"
+        }
+      },
+      {
+        "label": {
+          "ja": "木の上から森を観察する",
+          "en": "View the forest from atop a tree",
+          "fr": "Observer la forêt du haut d'un arbre",
+          "it": "Guarda la foresta dalla cima di un albero",
+          "de": "Begib dich auf die Spitze eines Baumes.",
+          "es": "Observa el bosque desde la copa de un árbol",
+          "ru": "Осмотрите лес с верхушки дерева",
+          "pl": "Zobacz las ze szczytu drzewa",
+          "pt-BR": "Veja a floresta do topo de uma árvore",
+          "ko": "나무 위에서 숲 관찰하기",
+          "zh-Hant": "從樹上觀察森林",
+          "zh-Hans": "从树上观察森林",
+          "ar": "معاينة الغابة من فوق شجرة",
+          "th": "ดูป่าจากยอดต้นไม้",
+          "es-419": "Observa el bosque desde la copa de un árbol"
+        }
+      },
+      {
+        "label": {
+          "ja": "イャンクックを一頭捕獲する",
+          "en": "Capture a Yian Kut-Ku",
+          "fr": "Capturer un Yian Kut-Ku",
+          "it": "Cattura un Yian Kut-Ku",
+          "de": "Fange einen Yian Kut-Ku.",
+          "es": "Captura un Yian Kut-Ku",
+          "ru": "Поймайте йан-кут-ку",
+          "pl": "Złap Yian Kut-Ku",
+          "pt-BR": "Capture um Yian Kut-Ku",
+          "ko": "얀쿡크 한 마리 포획하기",
+          "zh-Hant": "捕獲一隻怪鳥",
+          "zh-Hans": "捕获一只怪鸟",
+          "ar": "أسر يان كوت-كو",
+          "th": "จับยีอานคุท-คู",
+          "es-419": "Captura un Yian Kut-Ku"
+        }
+      }
+    ],
     "title": {
       "ja": "新たなる生態系",
       "en": "New Ecosystems",
@@ -1688,6 +3800,27 @@
   {
     "game_id": 30,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "各地を調査しながらHRを上げる",
+          "en": "Investigate the regions and raise your HR",
+          "fr": "Explorer chaque région et monter le RC",
+          "it": "Indaga sulle regioni e aumenta il tuo GC",
+          "de": "Erkunde die Regionen und erhöhe deinen JR.",
+          "es": "Investiga las regiones y aumenta tu RC",
+          "ru": "Повысьте ранг, изучая регионы",
+          "pl": "Badaj regiony i podnieś swoją RŁ",
+          "pt-BR": "Investigue as regiões e aumente seu RC",
+          "ko": "각지를 조사하며 HR 올리기",
+          "zh-Hant": "調查各地並提升獵人等級",
+          "zh-Hans": "调查各地并提高猎人等级",
+          "ar": "استقصاء المناطق ورفع رتبة الصياد",
+          "th": "ออกสำรวจภูมิภาคต่างๆ และเพิ่ม HR ของคุณ",
+          "es-419": "Investiga las regiones y aumenta tu RC"
+        }
+      }
+    ],
     "title": {
       "ja": "移ろいを追って",
       "en": "Chasing Change",
@@ -1733,6 +3866,27 @@
   {
     "game_id": 31,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "交わりの峰 スージャでファビウスと話す",
+          "en": "Talk to Fabius in Suja",
+          "fr": "Parler à Fabius à Suja",
+          "it": "Parla con Fabius a Suja",
+          "de": "Sprich in Suja mit Fabius.",
+          "es": "Habla con Fabius en Suja",
+          "ru": "Поговорите с Фабиусом в Суддже",
+          "pl": "Porozmawiaj z Fabiusem w Suji",
+          "pt-BR": "Fale com Fabius em Suja",
+          "ko": "교류의 봉우리 스자에서 파비우스와 대화하기",
+          "zh-Hant": "前往交匯之峰蘇加與法比烏斯交談",
+          "zh-Hans": "前往酥加与法比乌斯对话",
+          "ar": "التحدث إلى فابيوس في سوجا",
+          "th": "พูดคุยกับฟาเบียสในซูจา",
+          "es-419": "Habla con Fabius en Suja"
+        }
+      }
+    ],
     "title": {
       "ja": "交わり",
       "en": "Rendezvous",
@@ -1814,6 +3968,65 @@
   {
     "game_id": 32,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "交わりの峰 スージャでファビウスと話す",
+          "en": "Talk to Fabius in Suja",
+          "fr": "Parler à Fabius à Suja",
+          "it": "Parla con Fabius a Suja",
+          "de": "Sprich in Suja mit Fabius.",
+          "es": "Habla con Fabius en Suja",
+          "ru": "Поговорите с Фабиусом в Суддже",
+          "pl": "Porozmawiaj z Fabiusem w Suji",
+          "pt-BR": "Fale com Fabius em Suja",
+          "ko": "교류의 봉우리 스자에서 파비우스와 대화하기",
+          "zh-Hant": "前往交匯之峰蘇加與法比烏斯交談",
+          "zh-Hans": "前往酥加与法比乌斯对话",
+          "ar": "التحدث إلى فابيوس في سوجا",
+          "th": "พูดคุยกับฟาเบียสในซูจา",
+          "es-419": "Habla con Fabius en Suja"
+        }
+      },
+      {
+        "label": {
+          "ja": "竜谷の跡地の奥に向かう",
+          "en": "Head to the depths of the Wounded Hollow",
+          "fr": "S'enfoncer dans le Vallon meurtri",
+          "it": "Addentrati nella Valle trafitta",
+          "de": "Begib dich in die Tiefen des Klauenrisses.",
+          "es": "Ve a las profundidades del Hoyo de los heridos",
+          "ru": "Продвигайтесь вглубь Изувеченной лощины",
+          "pl": "Udaj się w głąb Doliny Ran",
+          "pt-BR": "Vá para as profundezas do Vão Ferido",
+          "ko": "용곡의 터 깊은 곳으로 가기",
+          "zh-Hant": "前往龍谷遺址深處",
+          "zh-Hans": "前往龙谷遗址深处",
+          "ar": "التوجه إلى أعماق الوادي الجريح",
+          "th": "มุ่งหน้าสู่ส่วนลึกของหุบเขาร้าวราน",
+          "es-419": "Adéntrate en el Valle Lacerado"
+        }
+      },
+      {
+        "label": {
+          "ja": "狂竜化ネルスキュラを狩猟する",
+          "en": "Hunt the Frenzied Nerscylla",
+          "fr": "Chasser la Nerscylla en furie",
+          "it": "Dai la caccia al Nerscylla frenetico",
+          "de": "Erjage die rasende Nerscylla.",
+          "es": "Caza al Nerscylla colérico",
+          "ru": "Победите бешеную нерскиллу",
+          "pl": "Upoluj oszalałego Nerscyllę",
+          "pt-BR": "Cace a Nerscylla Colérica",
+          "ko": "광룡화 네르스큐라 사냥하기",
+          "zh-Hant": "狩獵狂龍化影蜘蛛",
+          "zh-Hans": "狩猎狂龙化影蜘蛛",
+          "ar": "صيد نيرسكيلا مسعور",
+          "th": "ล่าเนอร์ซิลลาบ้าคลั่ง",
+          "es-419": "Caza al Nerscylla colérico"
+        }
+      }
+    ],
     "title": {
       "ja": "竜谷に潜む影",
       "en": "Lurking Shadows",
@@ -1874,6 +4087,27 @@
   {
     "game_id": 33,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "各地を調査しながらHRを上げる",
+          "en": "Investigate the regions and raise your HR",
+          "fr": "Explorer chaque région et monter le RC",
+          "it": "Indaga sulle regioni e aumenta il tuo GC",
+          "de": "Erkunde die Regionen und erhöhe deinen JR.",
+          "es": "Investiga las regiones y aumenta tu RC",
+          "ru": "Повысьте ранг, изучая регионы",
+          "pl": "Badaj regiony i podnieś swoją RŁ",
+          "pt-BR": "Investigue as regiões e aumente seu RC",
+          "ko": "각지를 조사하며 HR 올리기",
+          "zh-Hant": "調查各地並提升獵人等級",
+          "zh-Hans": "调查各地并提高猎人等级",
+          "ar": "استقصاء المناطق ورفع رتبة الصياد",
+          "th": "ออกสำรวจภูมิภาคต่างๆ และเพิ่ม HR ของคุณ",
+          "es-419": "Investiga las regiones y aumenta tu RC"
+        }
+      }
+    ],
     "title": {
       "ja": "歴巡の途",
       "en": "Touring History",
@@ -1919,6 +4153,27 @@
   {
     "game_id": 34,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "竜都の跡形でオリヴィアと話す",
+          "en": "Talk to Olivia at the Ruins of Wyveria",
+          "fr": "Parler à Olivia aux Ruines de Wyveria",
+          "it": "Parla con Olivia nelle Rovine di Wyveria",
+          "de": "Sprich in Wyveria mit Olivia.",
+          "es": "Habla con Olivia en las Ruinas de Wyveria",
+          "ru": "Поговорите с Оливией в руинах Виверии",
+          "pl": "Porozmawiaj z Olivią w Ruinach Wiwerii",
+          "pt-BR": "Fale com Olivia nas Ruínas de Serperia",
+          "ko": "용도의 폐허에서 올리비아와 대화하기",
+          "zh-Hant": "前往龍都遺跡與奧莉維亞交談",
+          "zh-Hans": "前往龙都遗迹与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا في أطلال وايفيريا",
+          "th": "พูดคุยกับโอลิเวียที่ซากนครไววีเรีย",
+          "es-419": "Habla con Olivia en las Ruinas de Wyveria"
+        }
+      }
+    ],
     "title": {
       "ja": "竜廟へ",
       "en": "To Wyvern's Rest",
@@ -2004,6 +4259,103 @@
   {
     "game_id": 35,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "竜都の跡形でオリヴィアと話す",
+          "en": "Talk to Olivia at the Ruins of Wyveria",
+          "fr": "Parler à Olivia aux Ruines de Wyveria",
+          "it": "Parla con Olivia nelle Rovine di Wyveria",
+          "de": "Sprich in Wyveria mit Olivia.",
+          "es": "Habla con Olivia en las Ruinas de Wyveria",
+          "ru": "Поговорите с Оливией в руинах Виверии",
+          "pl": "Porozmawiaj z Olivią w Ruinach Wiwerii",
+          "pt-BR": "Fale com Olivia nas Ruínas de Serperia",
+          "ko": "용도의 폐허에서 올리비아와 대화하기",
+          "zh-Hant": "前往龍都遺跡與奧莉維亞交談",
+          "zh-Hans": "前往龙都遗迹与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا في أطلال وايفيريا",
+          "th": "พูดคุยกับโอลิเวียที่ซากนครไววีเรีย",
+          "es-419": "Habla con Olivia en las Ruinas de Wyveria"
+        }
+      },
+      {
+        "label": {
+          "ja": "ラバラ・バリナ（歴戦の個体）の痕跡を追う",
+          "en": "Follow the Tempered Lala Barina traces",
+          "fr": "Suivre les traces de Lala Barina alpha",
+          "it": "Segui le tracce di: Lala Barina temprato",
+          "de": "Folge den Spuren: Gehärtete Lala Barina.",
+          "es": "Sigue los rastros de: Lala Barina curtida",
+          "ru": "Закалённая лала барина: идите по следам",
+          "pl": "Podążaj śladami: Zahartowany Lala Barina",
+          "pt-BR": "Siga os rastros da Lala Barina Aguerrida",
+          "ko": "라바라 바리나(역전의 개체)의 흔적 따라가기",
+          "zh-Hant": "追蹤刺花蜘蛛（歷戰個體）的痕跡",
+          "zh-Hans": "追踪刺花蜘蛛（历战个体）的痕迹",
+          "ar": "تتبع آثار لالا بارينا غاضب",
+          "th": "ไปตามร่องรอยของลาลา บารินาสุดแกร่ง",
+          "es-419": "Sigue los rastros de: Lala Barina curtida"
+        }
+      },
+      {
+        "label": {
+          "ja": "痕跡を調べる",
+          "en": "Examine the traces",
+          "fr": "Examiner les traces",
+          "it": "Esamina le tracce",
+          "de": "Untersuche die Spuren.",
+          "es": "Examina los rastros",
+          "ru": "Изучите следы",
+          "pl": "Zbadaj tropy",
+          "pt-BR": "Examine os rastros",
+          "ko": "흔적 조사하기",
+          "zh-Hant": "調查痕跡",
+          "zh-Hans": "调查痕迹",
+          "ar": "فحص الآثار",
+          "th": "สำรวจร่องรอย",
+          "es-419": "Examina los rastros"
+        }
+      },
+      {
+        "label": {
+          "ja": "ラバラ・バリナ（歴戦の個体）を狩猟する",
+          "en": "Hunt the Tempered Lala Barina",
+          "fr": "Chasser : Lala Barina alpha",
+          "it": "Dai la caccia al Lala Barina temprato",
+          "de": "Erjage die Gehärtete Lala Barina.",
+          "es": "Caza: Lala Barina curtida",
+          "ru": "Закалённая лала барина: победите монстра",
+          "pl": "Upoluj: Zahartowany Lala Barina",
+          "pt-BR": "Cace a Lala Barina Aguerrida",
+          "ko": "라바라 바리나(역전의 개체) 사냥하기",
+          "zh-Hant": "狩獵刺花蜘蛛（歷戰個體）",
+          "zh-Hans": "狩猎刺花蜘蛛（历战个体）",
+          "ar": "اصطياد لالا بارينا غاضب",
+          "th": "ล่าลาลา บารินาสุดแกร่ง",
+          "es-419": "Caza a la Lala Barina curtida"
+        }
+      },
+      {
+        "label": {
+          "ja": "護竜アンジャナフ亜種を狩猟する",
+          "en": "Hunt the Guardian Fulgur Anjanath",
+          "fr": "Chasser l'Anjanath tonnerre Gardien",
+          "it": "Dai la caccia all'Anjanath tonante guardiano",
+          "de": "Erjage den Wächter-Fulgur-Anjanath.",
+          "es": "Caza al Anjanath Fulgúreo Guardián",
+          "ru": "Победите громового аньяната-стража",
+          "pl": "Upoluj Piorunowego Anjanatha Strażnika",
+          "pt-BR": "Cace o Anjanath Fulgurante Guardião",
+          "ko": "수호룡 안쟈나프 아종 사냥하기",
+          "zh-Hant": "狩獵護雷顎龍",
+          "zh-Hans": "狩猎护雷颚龙",
+          "ar": "صيد أنجاناث الرعدي الحارس",
+          "th": "ล่าการ์เดียนฟูลเกอร์อันจานาธ",
+          "es-419": "Caza al Anjanath Fulgúreo Guardián"
+        }
+      }
+    ],
     "title": {
       "ja": "眠れる竜と薔薇の棘",
       "en": "Wyvern Sparks and Rose Thorns",
@@ -2089,6 +4441,27 @@
   {
     "game_id": 36,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "しばらくミッションやクエストをこなす",
+          "en": "Complete more missions and quests",
+          "fr": "Compléter plus de missions et de quêtes",
+          "it": "Completa altre missioni e incarichi",
+          "de": "Schließe weitere Missionen und Quests ab.",
+          "es": "Completa más misiones y tareas",
+          "ru": "Завершите больше заданий и поручений",
+          "pl": "Ukończ więcej misji i zadań",
+          "pt-BR": "Conclua mais campanhas e missões",
+          "ko": "한동안 미션이나 퀘스트를 완료하기",
+          "zh-Hant": "完成更多使命和任務",
+          "zh-Hans": "完成更多使命和任务",
+          "ar": "إكمال المزيد من المهام الاستكشافية والمهام",
+          "th": "ทำภารกิจและเควสต์ให้เสร็จเพิ่มอีก",
+          "es-419": "Completa más misiones y tareas"
+        }
+      }
+    ],
     "title": {
       "ja": "兆候",
       "en": "Premonitions",
@@ -2134,6 +4507,65 @@
   {
     "game_id": 37,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "竜都の跡形でオリヴィアと話す",
+          "en": "Talk to Olivia at the Ruins of Wyveria",
+          "fr": "Parler à Olivia aux Ruines de Wyveria",
+          "it": "Parla con Olivia nelle Rovine di Wyveria",
+          "de": "Sprich in Wyveria mit Olivia.",
+          "es": "Habla con Olivia en las Ruinas de Wyveria",
+          "ru": "Поговорите с Оливией в руинах Виверии",
+          "pl": "Porozmawiaj z Olivią przy Ruinach Wiwerii",
+          "pt-BR": "Fale com Olivia nas Ruínas de Serperia",
+          "ko": "용도의 폐허에서 올리비아와 대화하기",
+          "zh-Hant": "前往龍都遺跡與奧莉維亞交談",
+          "zh-Hans": "前往龙都遗迹与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا في أطلال وايفيريا",
+          "th": "พูดคุยกับโอลิเวียที่ซากนครไววีเรีย",
+          "es-419": "Habla con Olivia en las Ruinas de Wyveria"
+        }
+      },
+      {
+        "label": {
+          "ja": "しばらくミッションやクエストをこなす",
+          "en": "Complete more missions and quests",
+          "fr": "Compléter plus de missions et de quêtes",
+          "it": "Completa altre missioni e incarichi",
+          "de": "Schließe weitere Missionen und Quests ab.",
+          "es": "Completa más misiones y tareas",
+          "ru": "Завершите больше заданий и поручений",
+          "pl": "Ukończ więcej misji i zadań",
+          "pt-BR": "Conclua mais campanhas e missões",
+          "ko": "한동안 미션이나 퀘스트를 완료하기",
+          "zh-Hant": "完成更多使命和任務",
+          "zh-Hans": "完成更多使命和任务",
+          "ar": "إكمال المزيد من المهام الاستكشافية والمهام",
+          "th": "ทำภารกิจและเควสต์ให้เสร็จเพิ่มอีก",
+          "es-419": "Completa más misiones y tareas"
+        }
+      },
+      {
+        "label": {
+          "ja": "油涌き谷でナタと話す",
+          "en": "Talk to Nata at the Oilwell Basin",
+          "fr": "Parler à Nata au Bassin pétrolier",
+          "it": "Parla con Nata al Bacino petrolifero",
+          "de": "Sprich im Ölquellbecken mit Nata.",
+          "es": "Habla con Nata en la Cuenca Oleosa",
+          "ru": "Поговорите с Натой в Нефтяной низине",
+          "pl": "Porozmawiaj z Natą w Kotlinie Oleju",
+          "pt-BR": "Fale com Nata na Bacia Oleídea",
+          "ko": "기름 솟는 계곡에서 나타와 대화하기",
+          "zh-Hant": "前往湧油山谷與拿塔交談",
+          "zh-Hans": "前往涌油谷与纳塔对话",
+          "ar": "التحدث إلى ناتا في حوض آبار النفط",
+          "th": "พูดคุยกับนาตาที่แอ่งบ่อน้ำมัน",
+          "es-419": "Habla con Nata en la Cuenca Oleosa"
+        }
+      }
+    ],
     "title": {
       "ja": "変化のさきがけ",
       "en": "Omens",
@@ -2179,6 +4611,46 @@
   {
     "game_id": 38,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジン・ダハドを討伐する",
+          "en": "Slay the Jin Dahaad",
+          "fr": "Éliminer le Jin Dahaad",
+          "it": "Abbatti il Jin Dahaad",
+          "de": "Erlege den Jin Dahaad.",
+          "es": "Abate al Jin Dahaad",
+          "ru": "Уничтожьте джина дахаада",
+          "pl": "Zgładź Jin Dahaada",
+          "pt-BR": "Abata Jin Dahaad",
+          "ko": "진 다하드 토벌하기",
+          "zh-Hant": "討伐凍峰龍",
+          "zh-Hans": "讨伐冻峰龙",
+          "ar": "ذبح جين دهاد",
+          "th": "สังหารจิน ดาฮาด",
+          "es-419": "Abate al Jin Dahaad"
+        }
+      }
+    ],
     "title": {
       "ja": "凍峰颶風",
       "en": "Storm-cold Vortex",
@@ -2239,6 +4711,27 @@
   {
     "game_id": 39,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "竜都の跡形でオリヴィアと話す",
+          "en": "Talk to Olivia at the Ruins of Wyveria",
+          "fr": "Parler à Olivia aux Ruines de Wyveria",
+          "it": "Parla con Olivia nelle Rovine di Wyveria",
+          "de": "Sprich in Wyveria mit Olivia.",
+          "es": "Habla con Olivia en las Ruinas de Wyveria",
+          "ru": "Поговорите с Оливией в руинах Виверии",
+          "pl": "Porozmawiaj z Olivią przy Ruinach Wiwerii",
+          "pt-BR": "Fale com Olivia nas Ruínas de Serperia",
+          "ko": "용도의 폐허에서 올리비아와 대화하기",
+          "zh-Hant": "前往龍都遺跡與奧莉維亞交談",
+          "zh-Hans": "前往龙都遗迹与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا في أطلال وايفيريا",
+          "th": "พูดคุยกับโอลิเวียที่ซากนครไววีเรีย",
+          "es-419": "Habla con Olivia en las Ruinas de Wyveria"
+        }
+      }
+    ],
     "title": {
       "ja": "奔流",
       "en": "A Torrent of Energy",
@@ -2305,6 +4798,255 @@
   {
     "game_id": 40,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "隔ての砂原のベースキャンプへ向かう",
+          "en": "Head to the Windward Plains Base Camp",
+          "fr": "Aller au camp de base des Plaines venteuses",
+          "it": "Vai al campo base - Piane ventose",
+          "de": "Begib dich zum Basislager in der Ebene.",
+          "es": "Ve al campamento base de los Llanos Barlovento",
+          "ru": "Следуйте в базовый лагерь на Наветр. равнинах",
+          "pl": "Udaj się do obozu gł. Nawietrznych Równin",
+          "pt-BR": "Vá ao Acampamento das Planícies Zéfiras",
+          "ko": "경계의 모래 평원 베이스캠프로 가기",
+          "zh-Hant": "前往天塹沙原的大本營",
+          "zh-Hans": "前往天堑沙原的大本营",
+          "ar": "التوجه إلى معسكر القاعدة بسهول ويندوارد",
+          "th": "มุ่งหน้าสู่แคมป์หลักที่ทุ่งสายลมหวน",
+          "es-419": "Ve al camp. base de los Llanos Ventosos"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "クナファ村へ向かう",
+          "en": "Head to Kunafa",
+          "fr": "Aller à Kunafa",
+          "it": "Dirigiti a Kunafa",
+          "de": "Begib dich nach Kunafa.",
+          "es": "Ve a Kunafa",
+          "ru": "Следуйте в Кунафу",
+          "pl": "Udaj się do Kunafy",
+          "pt-BR": "Vá para Kunafa",
+          "ko": "쿠나파 마을로 가기",
+          "zh-Hant": "前往庫納法村",
+          "zh-Hans": "前往库纳法村",
+          "ar": "التوجه إلى كُنافة",
+          "th": "มุ่งหน้าสู่คูนาฟา",
+          "es-419": "Ve a Kunafa"
+        }
+      },
+      {
+        "label": {
+          "ja": "レ・ダウを討伐する",
+          "en": "Slay the Rey Dau",
+          "fr": "Éliminer le Rey Dau",
+          "it": "Abbatti il Rey Dau",
+          "de": "Erlege den Rey Dau.",
+          "es": "Abate al Rey Dau",
+          "ru": "Уничтожьте рей дау",
+          "pl": "Zgładź Rey Dau",
+          "pt-BR": "Abata o Rey Dau",
+          "ko": "레 다우 토벌하기",
+          "zh-Hant": "討伐煌雷龍",
+          "zh-Hans": "讨伐煌雷龙",
+          "ar": "ذبح راي داو",
+          "th": "สังหารเรย์ ดาว",
+          "es-419": "Abate al Rey Dau"
+        }
+      },
+      {
+        "label": {
+          "ja": "緋の森のベースキャンプへ向かう",
+          "en": "Head to the Scarlet Forest Base Camp",
+          "fr": "Aller au camp de base de la Forêt écarlate",
+          "it": "Vai al campo base - Foresta cremisi",
+          "de": "Begib dich zum Basislager im Wald.",
+          "es": "Ve al campamento base del Bosque Escarlata",
+          "ru": "Следуйте в базовый лагерь в Багряном лесу",
+          "pl": "Udaj się do obozu gł. Szkarłatnego Lasu",
+          "pt-BR": "Vá ao Acampamento na Floresta Escarlate",
+          "ko": "주홍빛 숲 베이스캠프로 가기",
+          "zh-Hant": "前往緋紅森林的大本營",
+          "zh-Hans": "前往绯红森林的大本营",
+          "ar": "التوجه إلى معسكر القاعدة بالغابة القرمزية",
+          "th": "มุ่งหน้าสู่แคมป์หลักที่ป่าโลหิต",
+          "es-419": "Ve al camp. base del Bosque Escarlata"
+        }
+      },
+      {
+        "label": {
+          "ja": "シャマトサカと話す",
+          "en": "Talk to Sassafrill",
+          "fr": "Parler à Bofroufrou",
+          "it": "Parla con Sassafrill",
+          "de": "Sprich mit Fänschi.",
+          "es": "Habla con Sassafrill",
+          "ru": "Поговорите с Саснорюшей",
+          "pl": "Porozmawiaj ze Sroczką",
+          "pt-BR": "Fale com Sassafrill",
+          "ko": "깜찍볏과 대화하기",
+          "zh-Hant": "與冠夏瑪交談",
+          "zh-Hans": "与冠夏玛对话",
+          "ar": "التحدث إلى ساسافريل",
+          "th": "พูดคุยกับซัสซาฟริล",
+          "es-419": "Habla con Sassafrill"
+        }
+      },
+      {
+        "label": {
+          "ja": "ウズ・トゥナを討伐する",
+          "en": "Slay the Uth Duna",
+          "fr": "Éliminer l'Uth Duna",
+          "it": "Abbatti l'Uth Duna",
+          "de": "Erlege den Uth Duna.",
+          "es": "Abate al Uth Duna",
+          "ru": "Уничтожьте ут дуну",
+          "pl": "Upoluj Uth Dunę",
+          "pt-BR": "Abata o Uth Duna",
+          "ko": "우드 투나 토벌하기",
+          "zh-Hant": "討伐波衣龍",
+          "zh-Hans": "讨伐波衣龙",
+          "ar": "ذبح أوث دونا",
+          "th": "สังหารอุธ ดูนา",
+          "es-419": "Abate al Uth Duna"
+        }
+      },
+      {
+        "label": {
+          "ja": "油涌き谷のベースキャンプへ向かう",
+          "en": "Head to the Oilwell Basin Base Camp",
+          "fr": "Aller au camp de base du Bassin pétrolier",
+          "it": "Raggiungi il campo base nel Bacino petrolifero",
+          "de": "Begib dich zum Basislager im Becken.",
+          "es": "Ve al campamento base de la Cuenca Oleosa",
+          "ru": "Следуйте в базовый лагерь в Нефтяной низине",
+          "pl": "Udaj się do obozu głównego Kotliny Oleju",
+          "pt-BR": "Vá ao Acampamento na Bacia Oleídea",
+          "ko": "기름 솟는 계곡 베이스캠프로 가기",
+          "zh-Hant": "前往湧油山谷的大本營",
+          "zh-Hans": "前往涌油谷的大本营",
+          "ar": "التوجه إلى معسكر القاعدة بحوض آبار النفط",
+          "th": "มุ่งหน้าสู่แคมป์หลักที่แอ่งบ่อน้ำมัน",
+          "es-419": "Ve al camp. base de la Cuenca Oleosa"
+        }
+      },
+      {
+        "label": {
+          "ja": "マキと話す",
+          "en": "Talk to Maki",
+          "fr": "Parler à Maki",
+          "it": "Parla con Maki",
+          "de": "Sprich mit Maki.",
+          "es": "Habla con Maki",
+          "ru": "Поговорите с Маки",
+          "pl": "Porozmawiaj z Maki",
+          "pt-BR": "Fale com Maki",
+          "ko": "마키와 대화하기",
+          "zh-Hant": "與瑪奇交談",
+          "zh-Hans": "与玛奇对话",
+          "ar": "التحدث إلى ماكي",
+          "th": "พูดคุยกับมากิ",
+          "es-419": "Habla con Maki"
+        }
+      },
+      {
+        "label": {
+          "ja": "ヌ・エグドラを討伐する",
+          "en": "Slay the Nu Udra",
+          "fr": "Éliminer le Nu Udra",
+          "it": "Abbatti il Nu Udra",
+          "de": "Erlege den Nu Udra.",
+          "es": "Abate al Nu Udra",
+          "ru": "Уничтожьте ну удру",
+          "pl": "Zabij Nu Udrę",
+          "pt-BR": "Abata o Nu Udra",
+          "ko": "누 이그드라 토벌하기",
+          "zh-Hant": "討伐獄焰鱆",
+          "zh-Hans": "讨伐狱焰蛸",
+          "ar": "ذبح نو أودرا",
+          "th": "สังหารนู อูดรา",
+          "es-419": "Abate al Nu Udra"
+        }
+      },
+      {
+        "label": {
+          "ja": "氷霧の断崖でファビウスと話す",
+          "en": "Talk to Fabius in the Iceshard Cliffs",
+          "fr": "Parler à Fabius aux Falaises de glace",
+          "it": "Parla con Fabius nelle Scogliere ghiaccioaguzzo",
+          "de": "Sprich in den Eissplitterklippen mit Fabius.",
+          "es": "Habla con Fabius en los Acantilados del Témpano",
+          "ru": "Поговорите с Фабиусом на Ледяных утёсах",
+          "pl": "Porozmawiaj z Fabiusem na Klifach",
+          "pt-BR": "Fale com Fabius nas Escarpas Frígidas",
+          "ko": "빙무의 절벽에서 파비우스와 대화하기",
+          "zh-Hant": "前往冰霧斷崖與法比烏斯交談",
+          "zh-Hans": "前往冰雾断崖与法比乌斯对话",
+          "ar": "التحدث إلى فابيوس بمنحدرات الشظايا الجليدية",
+          "th": "พูดคุยกับฟาเบียสในผาคมน้ำแข็ง",
+          "es-419": "Habla con Fabius en Acant. Espinahelada"
+        }
+      },
+      {
+        "label": {
+          "ja": "ゴア・マガラを討伐する",
+          "en": "Slay the Gore Magala",
+          "fr": "Éliminer le Gore Magala",
+          "it": "Abbatti il Gore Magala",
+          "de": "Erlege den Gore Magala.",
+          "es": "Abate al Gore Magala",
+          "ru": "Уничтожьте кровавую магалу",
+          "pl": "Zgładź Gore Magalę",
+          "pt-BR": "Abata o Gore Magala",
+          "ko": "고어 마가라 토벌하기",
+          "zh-Hant": "討伐黑蝕龍",
+          "zh-Hans": "讨伐黑蚀龙",
+          "ar": "ذبح جور ماجالا",
+          "th": "สังหารกอร์ มากาลา",
+          "es-419": "Abate al Gore Magala"
+        }
+      },
+      {
+        "label": {
+          "ja": "狂竜化ドドブランゴを討伐する",
+          "en": "Slay the Frenzied Blangonga",
+          "fr": "Éliminer le Blangonga en furie",
+          "it": "Abbatti il Blagonga frenetico",
+          "de": "Erlege den rasenden Blangonga.",
+          "es": "Abate al Blangonga colérico",
+          "ru": "Уничтожьте бешеного блангонгу",
+          "pl": "Upoluj oszalałego Blangongę",
+          "pt-BR": "Cace o Blangonga Colérico",
+          "ko": "광룡화 도도블랑고 토벌하기",
+          "zh-Hant": "討伐狂龍化雪獅子王",
+          "zh-Hans": "讨伐狂龙化雪狮子王",
+          "ar": "ذبح بلانجونجا مسعور",
+          "th": "สังหารบลังกองกาบ้าคลั่ง",
+          "es-419": "Abate al Blangonga colérico"
+        }
+      }
+    ],
     "title": {
       "ja": "狂界",
       "en": "A World Turned Upside Down",
@@ -2365,6 +5107,27 @@
   {
     "game_id": 41,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "各地を調査しながらHRを上げる",
+          "en": "Investigate the regions and raise your HR",
+          "fr": "Explorer chaque région et monter le RC",
+          "it": "Indaga sulle regioni e aumenta il tuo GC",
+          "de": "Erkunde die Regionen und erhöhe deinen JR.",
+          "es": "Investiga las regiones y aumenta tu RC",
+          "ru": "Повысьте ранг, изучая регионы",
+          "pl": "Badaj regiony i podnieś swoją RŁ",
+          "pt-BR": "Investigue as regiões e aumente seu RC",
+          "ko": "각지를 조사하며 HR 올리기",
+          "zh-Hant": "調查各地並提升獵人等級",
+          "zh-Hans": "调查各地并提高猎人等级",
+          "ar": "استقصاء المناطق ورفع رتبة الصياد",
+          "th": "ออกสำรวจภูมิภาคต่างๆ และเพิ่ม HR ของคุณ",
+          "es-419": "Investiga las regiones y aumenta tu RC"
+        }
+      }
+    ],
     "title": {
       "ja": "雨過天晴",
       "en": "A Break in the Clouds",
@@ -2410,6 +5173,27 @@
   {
     "game_id": 42,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "隔ての砂原でナタと話す",
+          "en": "Talk to Nata in the Windward Plains",
+          "fr": "Parler à Nata dans les Plaines venteuses",
+          "it": "Parla con Nata nelle Piane ventose",
+          "de": "Sprich in der Windebene mit Nata.",
+          "es": "Habla con Nata en los Llanos Barlovento",
+          "ru": "Поговорите с Натой на Наветренных равнинах",
+          "pl": "Porozmawiaj z Natą na Nawietrznych Równinach",
+          "pt-BR": "Fale com Nata nas Planícies Zéfiras",
+          "ko": "경계의 모래 평원에서 나타와 대화하기",
+          "zh-Hant": "前往天塹沙原與拿塔交談",
+          "zh-Hans": "前往天堑沙原与纳塔对话",
+          "ar": "التحدث إلى ناتا بسهول ويندوارد",
+          "th": "พูดคุยกับนาตาในทุ่งสายลมหวน",
+          "es-419": "Habla con Nata en los Llanos Ventosos"
+        }
+      }
+    ],
     "title": {
       "ja": "繋がり",
       "en": "Links in a Chain",
@@ -2475,6 +5259,65 @@
   {
     "game_id": 43,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "隔ての砂原でナタと話す",
+          "en": "Talk to Nata in the Windward Plains",
+          "fr": "Parler à Nata dans les Plaines venteuses",
+          "it": "Parla con Nata nelle Piane ventose",
+          "de": "Sprich in der Windebene mit Nata.",
+          "es": "Habla con Nata en los Llanos Barlovento",
+          "ru": "Поговорите с Натой на Наветренных равнинах",
+          "pl": "Porozmawiaj z Natą na Nawietrznych Równinach",
+          "pt-BR": "Fale com Nata nas Planícies Zéfiras",
+          "ko": "경계의 모래 평원에서 나타와 대화하기",
+          "zh-Hant": "前往天塹沙原與拿塔交談",
+          "zh-Hans": "前往天堑沙原与纳塔对话",
+          "ar": "التحدث إلى ناتا بسهول ويندوارد",
+          "th": "พูดคุยกับนาตาในทุ่งสายลมหวน",
+          "es-419": "Habla con Nata en los Llanos Ventosos"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルシュベルドの調査を行う",
+          "en": "Investigate Arkveld",
+          "fr": "Enquêter sur l'Arkveld",
+          "it": "Indaga sull'Arkveld",
+          "de": "Untersuche den Arkveld.",
+          "es": "Investiga al Arkveld",
+          "ru": "Отыщите арквельда",
+          "pl": "Zbadaj Arkvelda",
+          "pt-BR": "Investigue Arkveld",
+          "ko": "알슈베르도 조사하기",
+          "zh-Hant": "調查鎖刃龍",
+          "zh-Hans": "调查锁刃龙",
+          "ar": "استقصاء أمر آركفيلد",
+          "th": "ตรวจสอบอาร์คเวลด์",
+          "es-419": "Investiga al Arkveld"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルシュベルドを討伐する",
+          "en": "Slay Arkveld",
+          "fr": "Éliminer l'Arkveld",
+          "it": "Abbatti l'Arkveld",
+          "de": "Erlege den Arkveld.",
+          "es": "Abate al Arkveld",
+          "ru": "Уничтожьте арквельда",
+          "pl": "Zgładź Arkvelda",
+          "pt-BR": "Abata o Arkveld",
+          "ko": "알슈베르도 토벌하기",
+          "zh-Hant": "討伐鎖刃龍",
+          "zh-Hans": "讨伐锁刃龙",
+          "ar": "ذبح آركفيلد",
+          "th": "สังหารอาร์คเวลด์",
+          "es-419": "Abate al Arkveld"
+        }
+      }
+    ],
     "title": {
       "ja": "行先",
       "en": "What Lies Ahead",
@@ -2540,6 +5383,46 @@
   {
     "game_id": 44,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "回復ミツムシを捕獲する",
+          "en": "Capture a Vigorwasp",
+          "fr": "Capturer une vitaguêpe",
+          "it": "Cattura una vigorvespa",
+          "de": "Fange eine Vitalitätswespe.",
+          "es": "Captura una melífera vitae",
+          "ru": "Поймайте исцеляющую осу",
+          "pl": "Złap wigorosę",
+          "pt-BR": "Capture uma Vigorespa",
+          "ko": "회복 꿀벌레 포획하기",
+          "zh-Hant": "捕獲回復蜜蟲",
+          "zh-Hans": "捕获回复蜜虫",
+          "ar": "أسر نحلة الحيوية",
+          "th": "จับแตนฟื้นพลัง",
+          "es-419": "Captura una melífera vitae"
+        }
+      },
+      {
+        "label": {
+          "ja": "オトモアイルーに報告する",
+          "en": "Report to your Palico",
+          "fr": "Parler à votre Palico au camp de base",
+          "it": "Fai rapporto al compagno Felyne",
+          "de": "Sprich im Basislager mit deinem Palico.",
+          "es": "Informa a tu camarada Felyne",
+          "ru": "Вернитесь к палико",
+          "pl": "Zgłoś się do koleżkota w obozie głównym",
+          "pt-BR": "Fale com seu Amigato no Acampamento",
+          "ko": "동반자 아이루에게 보고하기",
+          "zh-Hant": "向隨從艾路報告",
+          "zh-Hans": "向随从艾露猫报告",
+          "ar": "إبلاغ الباليكو",
+          "th": "รายงานพาลิโกของคุณ",
+          "es-419": "Informa a tu camarada"
+        }
+      }
+    ],
     "title": {
       "ja": "きっちり回復サポート",
       "en": "Healing Help",
@@ -2593,6 +5476,46 @@
   {
     "game_id": 45,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "閃光羽虫を捕獲する",
+          "en": "Capture some Flashflies",
+          "fr": "Capturer des flashinsectes",
+          "it": "Cattura degli insetti abbaglio",
+          "de": "Fange ein paar Blitzfliegen.",
+          "es": "Captura algunas noctilucas",
+          "ru": "Наловите светляков",
+          "pl": "Złap trochę much błyskówek",
+          "pt-BR": "Capture alguns Mosclarões",
+          "ko": "섬광 날개벌레 포획하기",
+          "zh-Hant": "捕獲閃光翅蟲",
+          "zh-Hans": "捕获闪光翅虫",
+          "ar": "أسر بعض الذباب الوامض",
+          "th": "จับหิ่งห้อยแสง",
+          "es-419": "Captura algunas noctilucas"
+        }
+      },
+      {
+        "label": {
+          "ja": "オトモアイルーに報告する",
+          "en": "Report to your Palico",
+          "fr": "Parler à votre Palico au camp de base",
+          "it": "Fai rapporto al compagno Felyne",
+          "de": "Sprich im Basislager mit deinem Palico.",
+          "es": "Informa a tu camarada Felyne",
+          "ru": "Вернитесь к палико",
+          "pl": "Zgłoś się do koleżkota w obozie głównym",
+          "pt-BR": "Fale com seu Amigato no Acampamento",
+          "ko": "동반자 아이루에게 보고하기",
+          "zh-Hant": "向隨從艾路報告",
+          "zh-Hans": "向随从艾露猫报告",
+          "ar": "إبلاغ الباليكو",
+          "th": "รายงานพาลิโกของคุณ",
+          "es-419": "Informa a tu camarada"
+        }
+      }
+    ],
     "title": {
       "ja": "ばっちり閃光サポート",
       "en": "Flash Course",
@@ -2646,6 +5569,46 @@
   {
     "game_id": 46,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "大回復ミツムシを捕獲する",
+          "en": "Capture a Giant Vigorwasp",
+          "fr": "Capturer une grande vitaguêpe",
+          "it": "Cattura una vigorvespa gigante",
+          "de": "Fange eine Riesige Vitalitätswespe.",
+          "es": "Captura una melífera vitae gigante",
+          "ru": "Поймайте гигантскую исцеляющую осу",
+          "pl": "Złap ogromną wigorosę",
+          "pt-BR": "Capture uma Vigorespa Gigante",
+          "ko": "대회복 꿀벌레 포획하기",
+          "zh-Hant": "捕獲大回復蜜蟲",
+          "zh-Hans": "捕获大回复蜜虫",
+          "ar": "أسر نحلة الحيوية العملاقة",
+          "th": "จับแตนยักษ์ฟื้นพลัง",
+          "es-419": "Captura una melífera vitae gigante"
+        }
+      },
+      {
+        "label": {
+          "ja": "オトモアイルーに報告する",
+          "en": "Report to your Palico",
+          "fr": "Parler à votre Palico au camp de base",
+          "it": "Fai rapporto al compagno Felyne",
+          "de": "Sprich im Basislager mit deinem Palico.",
+          "es": "Informa a tu camarada Felyne",
+          "ru": "Вернитесь к палико",
+          "pl": "Zgłoś się do koleżkota w obozie głównym",
+          "pt-BR": "Fale com seu Amigato no Acampamento",
+          "ko": "동반자 아이루에게 보고하기",
+          "zh-Hant": "向隨從艾路報告",
+          "zh-Hans": "向随从艾露猫报告",
+          "ar": "إبلاغ الباليكو",
+          "th": "รายงานพาลิโกของคุณ",
+          "es-419": "Informa a tu camarada"
+        }
+      }
+    ],
     "title": {
       "ja": "とっておきド根性サポート",
       "en": "A Gutsy Move",
@@ -2704,6 +5667,46 @@
   {
     "game_id": 47,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول  المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "オトモアイルーに報告する",
+          "en": "Report to your Palico",
+          "fr": "Parler à votre Palico au camp de base",
+          "it": "Fai rapporto al compagno Felyne",
+          "de": "Sprich im Basislager mit deinem Palico.",
+          "es": "Informa a tu camarada Felyne",
+          "ru": "Вернитесь к палико",
+          "pl": "Zgłoś się do koleżkota w obozie głównym",
+          "pt-BR": "Fale com seu Amigato no Acampamento",
+          "ko": "동반자 아이루에게 보고하기",
+          "zh-Hant": "向隨從艾路報告",
+          "zh-Hans": "向随从艾露猫报告",
+          "ar": "إبلاغ الباليكو",
+          "th": "รายงานพาลิโกของคุณ",
+          "es-419": "Informa a tu camarada"
+        }
+      }
+    ],
     "title": {
       "ja": "ネコ式火竜艇出撃！",
       "en": "Rath-from-Above, Go!",
@@ -2772,6 +5775,46 @@
   {
     "game_id": 48,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول  المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "オトモアイルーに報告する",
+          "en": "Report to your Palico",
+          "fr": "Parler à votre Palico au camp de base",
+          "it": "Fai rapporto al compagno Felyne",
+          "de": "Sprich im Basislager mit deinem Palico.",
+          "es": "Informa a tu camarada Felyne",
+          "ru": "Вернитесь к палико",
+          "pl": "Zgłoś się do koleżkota w obozie głównym",
+          "pt-BR": "Fale com seu Amigato no Acampamento",
+          "ko": "동반자 아이루에게 보고하기",
+          "zh-Hant": "向隨從艾路報告",
+          "zh-Hans": "向随从艾露猫报告",
+          "ar": "إبلاغ الباليكو",
+          "th": "รายงานพาลิโกของคุณ",
+          "es-419": "Informa a tu camarada"
+        }
+      }
+    ],
     "title": {
       "ja": "ちゃっかりぶんどりサポート！",
       "en": "Purrfect Plundering",
@@ -2840,6 +5883,46 @@
   {
     "game_id": 49,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "釣りを1回成功させる",
+          "en": "Catch a fish",
+          "fr": "Pêcher un poisson",
+          "it": "Cattura 1 pesce",
+          "de": "Fange einen Fisch.",
+          "es": "Pesca un pez",
+          "ru": "Поймайте рыбу",
+          "pl": "Złap rybę",
+          "pt-BR": "Pesque um peixe",
+          "ko": "낚시 1회 성공하기",
+          "zh-Hant": "成功釣魚1次",
+          "zh-Hans": "完成1次垂钓",
+          "ar": "صيد سمكة",
+          "th": "จับปลา",
+          "es-419": "Captura un pez"
+        }
+      },
+      {
+        "label": {
+          "ja": "カーニャに報告する",
+          "en": "Report to Kanya",
+          "fr": "Parler à Kanya",
+          "it": "Fai rapporto a Kanya",
+          "de": "Sprich mit Kanya.",
+          "es": "Habla con Kanya",
+          "ru": "Вернитесь к Канье",
+          "pl": "Zgłoś się do Kanyi",
+          "pt-BR": "Fale com Kanya",
+          "ko": "카냐에게 보고하기",
+          "zh-Hant": "向卡妮亞報告",
+          "zh-Hans": "向卡妮亚报告",
+          "ar": "إبلاغ كانيا",
+          "th": "รายงานคาเนีย",
+          "es-419": "Informa a Kanya"
+        }
+      }
+    ],
     "title": {
       "ja": "釣り、それは人生",
       "en": "Fishing: Life, in Microcosm",
@@ -2898,6 +5981,46 @@
   {
     "game_id": 50,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "黄金魚を釣る",
+          "en": "Catch a Goldenfish",
+          "fr": "Pêcher un poisson d'or",
+          "it": "Cattura 1 Pesce dorato",
+          "de": "Fange einen Goldenfisch.",
+          "es": "Pesca un pez dorado",
+          "ru": "Поймайте золотую рыбку",
+          "pl": "Złap złotą rybkę",
+          "pt-BR": "Pesque um Peixe-dourado",
+          "ko": "황금어 낚기",
+          "zh-Hant": "釣到黃金魚",
+          "zh-Hans": "钓到黄金鱼",
+          "ar": "صيد سمكة ذهبية",
+          "th": "จับปลาทอง",
+          "es-419": "Captura un pez dorado"
+        }
+      },
+      {
+        "label": {
+          "ja": "カーニャに報告する",
+          "en": "Report to Kanya",
+          "fr": "Parler à Kanya",
+          "it": "Fai rapporto a Kanya",
+          "de": "Sprich mit Kanya.",
+          "es": "Habla con Kanya",
+          "ru": "Вернитесь к Канье",
+          "pl": "Zgłoś się do Kanyi",
+          "pt-BR": "Fale com Kanya",
+          "ko": "카냐에게 보고하기",
+          "zh-Hant": "向卡妮亞報告",
+          "zh-Hans": "向卡妮亚报告",
+          "ar": "إبلاغ كانيا",
+          "th": "รายงานคาเนีย",
+          "es-419": "Informa a Kanya"
+        }
+      }
+    ],
     "title": {
       "ja": "狙うは黄金魚",
       "en": "Seeking the Goldenfish",
@@ -2956,6 +6079,46 @@
   {
     "game_id": 51,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "コモチアミアを釣る",
+          "en": "Catch a Gravid Bowfin",
+          "fr": "Pêcher une amie gravide",
+          "it": "Pesca un'amia gravida",
+          "de": "Fange einen Trächtigen Schlammfisch.",
+          "es": "Pesca una amia preñada",
+          "ru": "Поймайте икряного лукопёра",
+          "pl": "Złap: Amia brzemienna",
+          "pt-BR": "Pesque uma Amia Grávida",
+          "ko": "알배기 아미아 낚기",
+          "zh-Hant": "釣到帶卵弓鰭魚",
+          "zh-Hans": "钓到带卵弓鳍鱼",
+          "ar": "صيد بافين حُبلَى",
+          "th": "จับปลาโบว์ฟินอุ้มไข่",
+          "es-419": "Pesca una amia preñada"
+        }
+      },
+      {
+        "label": {
+          "ja": "カーニャに報告する",
+          "en": "Report to Kanya",
+          "fr": "Parler à Kanya",
+          "it": "Fai rapporto a Kanya",
+          "de": "Sprich mit Kanya.",
+          "es": "Habla con Kanya",
+          "ru": "Вернитесь к Канье",
+          "pl": "Zgłoś się do Kanyi",
+          "pt-BR": "Fale com Kanya",
+          "ko": "카냐에게 보고하기",
+          "zh-Hant": "向卡妮亞報告",
+          "zh-Hans": "向卡妮亚报告",
+          "ar": "إبلاغ كانيا",
+          "th": "รายงานคาเนีย",
+          "es-419": "Informa a Kanya"
+        }
+      }
+    ],
     "title": {
       "ja": "美味探求も釣りの楽しみ",
       "en": "Fishing for Flavor",
@@ -3014,6 +6177,46 @@
   {
     "game_id": 52,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "大物釣りを１回成功させる",
+          "en": "Catch a whopper",
+          "fr": "Pêcher un gros spécimen",
+          "it": "Cattura 1 pesce-mastodonte",
+          "de": "Fange einen Dicken Brocken.",
+          "es": "Pesca un pescadón",
+          "ru": "Поймайте голиафа",
+          "pl": "Złap kolosa",
+          "pt-BR": "Pesque um Grandalhão",
+          "ko": "대물 낚시 1회 성공하기",
+          "zh-Hant": "成功釣到大魚1次",
+          "zh-Hans": "成功钓到1次大鱼",
+          "ar": "صيد (ووبر)",
+          "th": "จับปลาตัวเป้ง",
+          "es-419": "Captura un pez enorme"
+        }
+      },
+      {
+        "label": {
+          "ja": "カーニャに報告する",
+          "en": "Report to Kanya",
+          "fr": "Parler à Kanya",
+          "it": "Fai rapporto a Kanya",
+          "de": "Sprich mit Kanya.",
+          "es": "Habla con Kanya",
+          "ru": "Вернитесь к Канье",
+          "pl": "Zgłoś się do Kanyi",
+          "pt-BR": "Fale com Kanya",
+          "ko": "카냐에게 보고하기",
+          "zh-Hant": "向卡妮亞報告",
+          "zh-Hans": "向卡妮亚报告",
+          "ar": "إبلاغ كانيا",
+          "th": "รายงานคาเนีย",
+          "es-419": "Informa a Kanya"
+        }
+      }
+    ],
     "title": {
       "ja": "狙え、ビッグワン！",
       "en": "The Catch of a Lifetime!",
@@ -3072,6 +6275,46 @@
   {
     "game_id": 53,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "グランドエスカナイトを釣る",
+          "en": "Catch a Grand Escunite",
+          "fr": "Pêcher une grande escunite",
+          "it": "Cattura 1 Grande escanito",
+          "de": "Fange einen Großen Wapponiten.",
+          "es": "Captura un gran escanita",
+          "ru": "Поймайте большого эсканита",
+          "pl": "Złap: Eskanit wielki",
+          "pt-BR": "Pesque um Grande Escunita",
+          "ko": "그랜드 에스카나이트 낚기",
+          "zh-Hant": "釣到瑰麗盾牌石螺",
+          "zh-Hans": "钓到瑰丽盾章菊螺",
+          "ar": "صيد إسكونيت كبير",
+          "th": "จับเอสคูไนท์ยักษ์",
+          "es-419": "Captura un Gran escanita"
+        }
+      },
+      {
+        "label": {
+          "ja": "カーニャに報告する",
+          "en": "Report to Kanya",
+          "fr": "Parler à Kanya",
+          "it": "Fai rapporto a Kanya",
+          "de": "Sprich mit Kanya.",
+          "es": "Habla con Kanya",
+          "ru": "Вернитесь к Канье",
+          "pl": "Zgłoś się do Kanyi",
+          "pt-BR": "Fale com Kanya",
+          "ko": "카냐에게 보고하기",
+          "zh-Hant": "向卡妮亞報告",
+          "zh-Hans": "向卡妮亚报告",
+          "ar": "إبلاغ كانيا",
+          "th": "รายงานคาเนีย",
+          "es-419": "Informa a Kanya"
+        }
+      }
+    ],
     "title": {
       "ja": "神秘なる輝きを求めて",
       "en": "Razzle Dazzle",
@@ -3140,6 +6383,46 @@
   {
     "game_id": 54,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アシアトノコシを捕獲する",
+          "en": "Capture a Tracktail Lizard",
+          "fr": "Capturer un lézard markoda",
+          "it": "Cattura una lucertola tracciacoda",
+          "de": "Fange eine Spurenschwanzechse.",
+          "es": "Captura un lagarto colahuella",
+          "ru": "Поймайте хвостоследку",
+          "pl": "Złap jaszczurkę śladową",
+          "pt-BR": "Capture um Lagarto Caudarrastro",
+          "ko": "발자국남기미 포획하기",
+          "zh-Hant": "捕獲足跡蜥蜴",
+          "zh-Hans": "捕获足迹蜥蜴",
+          "ar": "أسر سحلية ذيل المسار",
+          "th": "จับกิ้งก่ารอยทาง",
+          "es-419": "Captura un lagarto colarastro"
+        }
+      },
+      {
+        "label": {
+          "ja": "ダリルに報告する",
+          "en": "Report to Dareel",
+          "fr": "Parler à Dareel",
+          "it": "Fai rapporto a Dareel",
+          "de": "Sprich mit Dareel.",
+          "es": "Habla con Dareel",
+          "ru": "Вернитесь к Дарилу",
+          "pl": "Zgłoś się do: Dareel",
+          "pt-BR": "Fale com Dareel",
+          "ko": "다릴에게 보고하기",
+          "zh-Hant": "向達里爾報告",
+          "zh-Hans": "向达里尔报告",
+          "ar": "إبلاغ داريل",
+          "th": "รายงานดารีล",
+          "es-419": "Informa a Dareel"
+        }
+      }
+    ],
     "title": {
       "ja": "ダリルの研究レポート",
       "en": "Dareel's Research Report",
@@ -3193,6 +6476,46 @@
   {
     "game_id": 55,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "オメカシプテルスを捕獲する",
+          "en": "Capture a Dapperwing",
+          "fr": "Capturer une bellaile",
+          "it": "Cattura un Alaelegante",
+          "de": "Fange einen Zierflügler.",
+          "es": "Captura un dignialado",
+          "ru": "Поймайте пёстрокрыла",
+          "pl": "Złap galantoskrzydłego",
+          "pt-BR": "Capture um Charmasa",
+          "ko": "멋쟁이 프테루스 포획하기",
+          "zh-Hant": "捕獲端麗翼鳥",
+          "zh-Hans": "捕获端丽翼鸟",
+          "ar": "أسر الجناح المرجاني",
+          "th": "จับนกขนแต้ม",
+          "es-419": "Captura un dignialado"
+        }
+      },
+      {
+        "label": {
+          "ja": "サミンに報告する",
+          "en": "Report to Samin",
+          "fr": "Parler à Samin",
+          "it": "Fai rapporto a Samin",
+          "de": "Sprich mit Samin.",
+          "es": "Habla con Samin",
+          "ru": "Вернитесь к Самину",
+          "pl": "Zgłoś się do: Samin",
+          "pt-BR": "Fale com Samin",
+          "ko": "사민에게 보고하기",
+          "zh-Hant": "向薩民報告",
+          "zh-Hans": "向萨明报告",
+          "ar": "إبلاغ سامين",
+          "th": "รายงานซามิน",
+          "es-419": "Informa a Samin"
+        }
+      }
+    ],
     "title": {
       "ja": "サミンの研究レポート",
       "en": "Samin's Research Report",
@@ -3251,6 +6574,46 @@
   {
     "game_id": 56,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ホムラエリトカゲを捕獲する",
+          "en": "Capture an Ember Rufflizard",
+          "fr": "Capturer un gonflézard incandescent",
+          "it": "Cattura una giorgiertola ignea",
+          "de": "Fange eine Glühkragenechse.",
+          "es": "Captura un lagartizo ámbar",
+          "ru": "Поймайте янтарную варанку",
+          "pl": "Złap: Kryzojaszczur węglikowy",
+          "pt-BR": "Capture um Sacolagarto Brasa",
+          "ko": "불꽃 도마뱀 포획하기",
+          "zh-Hant": "捕獲火焰傘蜥",
+          "zh-Hans": "捕获火焰领蜥",
+          "ar": "أسر سحلية اللهب",
+          "th": "จับกิ้งก่าแผงคอเพลิง",
+          "es-419": "Captura un lagartizo ígneo"
+        }
+      },
+      {
+        "label": {
+          "ja": "ダリルに報告する",
+          "en": "Report to Dareel",
+          "fr": "Parler à Dareel",
+          "it": "Fai rapporto a Dareel",
+          "de": "Sprich mit Dareel.",
+          "es": "Habla con Dareel",
+          "ru": "Вернитесь к Дарилу",
+          "pl": "Zgłoś się do: Dareel",
+          "pt-BR": "Fale com Dareel",
+          "ko": "다릴에게 보고하기",
+          "zh-Hant": "向達里爾報告",
+          "zh-Hans": "向达里尔报告",
+          "ar": "إبلاغ داريل",
+          "th": "รายงานดารีล",
+          "es-419": "Informa a Dareel"
+        }
+      }
+    ],
     "title": {
       "ja": "続・ダリルの研究レポート",
       "en": "Dareel's Research Report (Cont.)",
@@ -3309,6 +6672,46 @@
   {
     "game_id": 57,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ユキダマコガネを捕獲する",
+          "en": "Capture a Rime Beetle",
+          "fr": "Capturer un scarabée des neiges",
+          "it": "Cattura uno scaraghiaccio",
+          "de": "Fange einen Reifkäfer.",
+          "es": "Captura un escarabajo nival",
+          "ru": "Поймайте снегожука",
+          "pl": "Złap: Żuk szronowy",
+          "pt-BR": "Capture um Besouro-geada",
+          "ko": "눈뭉치풍뎅이 포획하기",
+          "zh-Hant": "捕獲雪球蟲",
+          "zh-Hans": "捕获雪球虫",
+          "ar": "أسر خنفساء الصقيع",
+          "th": "จับด้วงน้ำแข็ง",
+          "es-419": "Captura un escaralado"
+        }
+      },
+      {
+        "label": {
+          "ja": "サミンに報告する",
+          "en": "Report to Samin",
+          "fr": "Parler à Samin",
+          "it": "Fai rapporto a Samin",
+          "de": "Sprich mit Samin.",
+          "es": "Habla con Samin",
+          "ru": "Вернитесь к Самину",
+          "pl": "Zgłoś się do: Samin",
+          "pt-BR": "Fale com Samin",
+          "ko": "사민에게 보고하기",
+          "zh-Hant": "向薩民報告",
+          "zh-Hans": "向萨明报告",
+          "ar": "إبلاغ سامين",
+          "th": "รายงานซามิน",
+          "es-419": "Informa a Samin"
+        }
+      }
+    ],
     "title": {
       "ja": "続・サミンの研究レポート",
       "en": "Samin's Research Report (Cont.)",
@@ -3367,6 +6770,46 @@
   {
     "game_id": 58,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ギョムドンを捕獲する",
+          "en": "Capture a Gillopod",
+          "fr": "Capturer une glalimace",
+          "it": "Cattura 1 Gillopode",
+          "de": "Fange eine Megawattschnecke.",
+          "es": "Captura un tojinópodo",
+          "ru": "Поймайте пухлобрюха",
+          "pl": "Złap: Skrzelopłetwy",
+          "pt-BR": "Capture Elmofápode",
+          "ko": "교무돈 포획하기",
+          "zh-Hant": "捕獲虛無咚",
+          "zh-Hans": "捕获大虚无动",
+          "ar": "أسر غيلوبود",
+          "th": "จับกิลโลพอด",
+          "es-419": "Captura un Calmobicho"
+        }
+      },
+      {
+        "label": {
+          "ja": "ダリルに報告する",
+          "en": "Report to Dareel",
+          "fr": "Parler à Dareel",
+          "it": "Fai rapporto a Dareel",
+          "de": "Sprich mit Dareel.",
+          "es": "Habla con Dareel",
+          "ru": "Вернитесь к Дарилу",
+          "pl": "Zgłoś się do: Dareel",
+          "pt-BR": "Fale com Dareel",
+          "ko": "다릴에게 보고하기",
+          "zh-Hant": "向達里爾報告",
+          "zh-Hans": "向达里尔报告",
+          "ar": "إبلاغ داريل",
+          "th": "รายงานดารีล",
+          "es-419": "Informa a Dareel"
+        }
+      }
+    ],
     "title": {
       "ja": "ダリルの希少研究レポート",
       "en": "Dareel's Special Research Report",
@@ -3425,6 +6868,46 @@
   {
     "game_id": 59,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "スナノリュウセイを捕獲する",
+          "en": "Capture a Sandstar",
+          "fr": "Capturer une étoile des sables",
+          "it": "Cattura 1 Cometa delle dune",
+          "de": "Fange ein Sandwusel.",
+          "es": "Captura un arena fugaz",
+          "ru": "Поймайте звезду-песчанку",
+          "pl": "Złap: Piasgwiazda",
+          "pt-BR": "Capture um Estrelareia",
+          "ko": "사막별똥별 포획하기",
+          "zh-Hant": "捕獲沙之流星",
+          "zh-Hans": "捕获沙野流星",
+          "ar": "أسر شهاب رملي",
+          "th": "จับดาวทะเลทราย",
+          "es-419": "Captura un Meteoro arenoso"
+        }
+      },
+      {
+        "label": {
+          "ja": "サミンに報告する",
+          "en": "Report to Samin",
+          "fr": "Parler à Samin",
+          "it": "Fai rapporto a Samin",
+          "de": "Sprich mit Samin.",
+          "es": "Habla con Samin",
+          "ru": "Вернитесь к Самину",
+          "pl": "Zgłoś się do: Samin",
+          "pt-BR": "Fale com Samin",
+          "ko": "사민에게 보고하기",
+          "zh-Hant": "向薩民報告",
+          "zh-Hans": "向萨明报告",
+          "ar": "إبلاغ سامين",
+          "th": "รายงานซามิน",
+          "es-419": "Informa a Samin"
+        }
+      }
+    ],
     "title": {
       "ja": "サミンの希少研究レポート",
       "en": "Samin's Special Research Report",
@@ -3483,6 +6966,46 @@
   {
     "game_id": 60,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "チャタカブラから「纏蛙の上皮」を入手する",
+          "en": "Obtain Chatacabra Hide+ from Chatacabra",
+          "fr": "Obtenir \"Peau Chatacabra +\"",
+          "it": "Ottieni Chatacabra: pelle+ (da Chatacabra)",
+          "de": "Besorge Chatacabra-Haut+.",
+          "es": "Consigue piel de Chatacabra+ de Chatacabra",
+          "ru": "Получите шкуру чатакабры+, победив чатакабру",
+          "pl": "Zdobądź skórę Chatacabry+ z Chatacabry",
+          "pt-BR": "Obtenha Couro de Chatacabra+",
+          "ko": "차타카브라에게서 전와의 가죽+ 획득하기",
+          "zh-Hant": "從纏蛙取得纏蛙的上皮",
+          "zh-Hans": "从缠蛙身上获得“缠蛙的上等皮”",
+          "ar": "الحصول على جلد تشاتاكابرا+ من تشاتاكابرا",
+          "th": "เก็บหนังชาตาคาบรา+ จากชาตาคาบรา",
+          "es-419": "Obtén piel de Chatacabra+ de Chatacabra"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジェマに纏蛙の上皮を納品する",
+          "en": "Deliver the Chatacabra Hide+ to Gemma",
+          "fr": "Livrer \"Peau Chatacabra +\" à Gemma",
+          "it": "Consegna la pelle Chatacabra+ a Gemma",
+          "de": "Liefere Gemma die Chatacabra-Haut+.",
+          "es": "Entrégale la piel de Chatacabra+ a Gemma",
+          "ru": "Доставьте Джемме шкуру чатакабры+",
+          "pl": "Dostarcz Gemmie skórę Chatacabry+",
+          "pt-BR": "Entregue o Couro de Chatacabra+ para Gemma",
+          "ko": "젬마에게 전와의 가죽+ 납품하기",
+          "zh-Hant": "向潔瑪繳納纏蛙的上皮",
+          "zh-Hans": "向杰玛交纳缠蛙的上等皮",
+          "ar": "تسليم جلد تشاتاكابرا+ إلى جيما",
+          "th": "ส่งหนังชาตาคาบรา+ ให้เจมมา",
+          "es-419": "Entrega la piel de Chatacabra+ a Gemma"
+        }
+      }
+    ],
     "title": {
       "ja": "その素材、上質につき",
       "en": "High-Quality Materials",
@@ -3536,6 +7059,46 @@
   {
     "game_id": 61,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "隔ての砂原でゲリョスを狩猟する",
+          "en": "Hunt a Gypceros in the Windward Plains",
+          "fr": "Chasser un Gypceros des Plaines venteuses",
+          "it": "Caccia 1 Gypceros presso: Piane ventose",
+          "de": "Erjage einen Gypceros (Windebene).",
+          "es": "Caza un Gypceros en Llanos Barlovento",
+          "ru": "Поохотьтесь на гипцероса на Наветр. равнинах",
+          "pl": "Upoluj Gypceros w Nawietrzne Równiny",
+          "pt-BR": "Cace um Gypceros em Planícies Zéfiras",
+          "ko": "경계의 모래 평원에서 게리오스 사냥하기",
+          "zh-Hant": "於天塹沙原狩獵毒怪鳥",
+          "zh-Hans": "在天堑沙原中狩猎毒怪鸟",
+          "ar": "صيد جيبسيروس في سهول ويندوارد",
+          "th": "ล่าจิปเซรอสในทุ่งสายลมหวน",
+          "es-419": "Caza un Gypceros en la Llanos Ventosos"
+        }
+      },
+      {
+        "label": {
+          "ja": "ザトーに報告する",
+          "en": "Report to Zatoh",
+          "fr": "Parler à Zatoh",
+          "it": "Fai rapporto a Zatoh",
+          "de": "Sprich mit Zatoh.",
+          "es": "Habla con Zatoh",
+          "ru": "Вернитесь к Затто",
+          "pl": "Zgłoś się do: Zatoh",
+          "pt-BR": "Fale com Zatoh",
+          "ko": "자토에게 보고하기",
+          "zh-Hant": "向扎托報告",
+          "zh-Hans": "向扎托报告",
+          "ar": "إبلاغ زاتو",
+          "th": "รายงานซาโทห์",
+          "es-419": "Informa a Zatoh"
+        }
+      }
+    ],
     "title": {
       "ja": "毒怪鳥にご用心",
       "en": "Beware the Gypceros",
@@ -3594,6 +7157,46 @@
   {
     "game_id": 62,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول  المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジェマに報告する",
+          "en": "Report to Gemma",
+          "fr": "Parler à Gemma",
+          "it": "Fai rapporto a Gemma",
+          "de": "Sprich mit Gemma.",
+          "es": "Habla con Gemma",
+          "ru": "Вернитесь к Джемме",
+          "pl": "Zgłoś się do: Gemma",
+          "pt-BR": "Fale com Gemma",
+          "ko": "젬마에게 보고하기",
+          "zh-Hant": "向潔瑪報告",
+          "zh-Hans": "向杰玛报告",
+          "ar": "إبلاغ جيما",
+          "th": "รายงานเจมมา",
+          "es-419": "Informa a Gemma"
+        }
+      }
+    ],
     "title": {
       "ja": "加工屋印の特注品",
       "en": "Smithy's Seal of Quality",
@@ -3667,6 +7270,46 @@
   {
     "game_id": 63,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ババコンガから「極彩色の剛毛」を入手する",
+          "en": "Obtain Vibrant Pelt+ from Congalala",
+          "fr": "Obtenir \"Fourrure chatoyante +\" de Congalala",
+          "it": "Ottieni Pelle vibrante+ (da Congalala)",
+          "de": "Erhalte Leuchtender Pelz+ von Congalala.",
+          "es": "Consigue piel vibrante+ de Congalala",
+          "ru": "Получите яркую шкуру+, победив конгалалу",
+          "pl": "Zdobądź kolorową skórę+ z Kongalali",
+          "pt-BR": "Obter Pelica Vibrante+ de um Congalala",
+          "ko": "바바콩가에게서 극채색 억센털 획득하기",
+          "zh-Hant": "從桃毛獸王取得極彩色的剛毛",
+          "zh-Hans": "从桃毛兽王身上获得极彩色的刚毛",
+          "ar": "الحصول على فرو حيوي+ من (كونغالالا)",
+          "th": "เก็บหนังสีสด+ จากคองกาลาลา",
+          "es-419": "Obtén piel vibrante+ de Congalala"
+        }
+      },
+      {
+        "label": {
+          "ja": "モモムックリに極彩色の剛毛を納品する",
+          "en": "Deliver the Vibrant Pelt+ to Plumpeach",
+          "fr": "Livrer \"Fourrure chatoyante +\" à Patapêche",
+          "it": "Consegna l'oggetto Pelle vibrante+ a Susipesca",
+          "de": "Liefere Leuchtender Pelz+ bei Pflirsich ab.",
+          "es": "Entrega piel vibrante+ a Nectarina",
+          "ru": "Доставьте яркую шкуру+ Персливе",
+          "pl": "Dostarcz Kolorowa skóra+ do Puszynka",
+          "pt-BR": "Entregue Pelica Vibrante+ para Pesseguinho",
+          "ko": "복슬복숭에게 극채색 억센털 납품하기",
+          "zh-Hant": "向桃圓繳納極彩色的剛毛",
+          "zh-Hans": "向桃圆交纳极彩色的刚毛",
+          "ar": "تسليم فرو حيوي+ إلى بلام بيتش",
+          "th": "ส่งหนังสีสด+ ให้พลัมพีช",
+          "es-419": "Entrega Piel vibrante+ a Nectarina"
+        }
+      }
+    ],
     "title": {
       "ja": "取引しようよ。ふさふさ。",
       "en": "Make Fluffy Dealings",
@@ -3725,6 +7368,46 @@
   {
     "game_id": 64,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "油涌き谷で上位のププロポルを狩猟する",
+          "en": "Hunt a Rompopolo in the Oilwell Basin",
+          "fr": "Chasser un Rompopolo du Bassin pétrolier",
+          "it": "Caccia un Rompopolo nel Bacino petrolifero",
+          "de": "Erjage einen Rompopolo (Ölquellbecken).",
+          "es": "Caza un Rompopolo en la Cuenca Oleosa",
+          "ru": "Поохотьтесь на ромпополо в Нефтяной низине",
+          "pl": "Upoluj Rompopolo w Kotlinie Oleju",
+          "pt-BR": "Cace um Rompopolo na Bacia Oleídea",
+          "ko": "기름 솟는 계곡에서 상위 푸푸로포루 사냥하기",
+          "zh-Hant": "於湧油山谷狩獵進階沼噴龍",
+          "zh-Hans": "在涌油谷中狩猎上位沼喷龙",
+          "ar": "صيد رومبوبولو في حوض آبار النفط",
+          "th": "ล่ารอมโปโปโลในแอ่งบ่อน้ำมัน",
+          "es-419": "Caza un Rompopolo en la Cuenca Oleosa"
+        }
+      },
+      {
+        "label": {
+          "ja": "アイダに報告する",
+          "en": "Report to Aida",
+          "fr": "Parler à Aida",
+          "it": "Fai rapporto a Aida",
+          "de": "Sprich mit Aida.",
+          "es": "Habla con Aida",
+          "ru": "Вернитесь к Аиде",
+          "pl": "Zgłoś się do: Aida",
+          "pt-BR": "Fale com Aida",
+          "ko": "아이다에게 보고하기",
+          "zh-Hant": "向阿伊達報告",
+          "zh-Hans": "向阿伊达报告",
+          "ar": "إبلاغ آيدا",
+          "th": "รายงานไอดา",
+          "es-419": "Informa a Aida"
+        }
+      }
+    ],
     "title": {
       "ja": "アイダの憂慮",
       "en": "Aida's Apprehensions",
@@ -3783,6 +7466,46 @@
   {
     "game_id": 65,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ルロウに報告する",
+          "en": "Report to Rove",
+          "fr": "Parler à Ronin",
+          "it": "Fai rapporto all'Errante",
+          "de": "Melde dich bei Rokko.",
+          "es": "Informa a Rante",
+          "ru": "Вернитесь к Страннику",
+          "pl": "Zgłoś się do Włóczykota",
+          "pt-BR": "Fale com Vagante",
+          "ko": "나그네에게 보고하기",
+          "zh-Hant": "向柳浪報告",
+          "zh-Hans": "向柳浪报告",
+          "ar": "إبلاغ روف",
+          "th": "รายงานโรฟ",
+          "es-419": "Informa a Rante"
+        }
+      }
+    ],
     "title": {
       "ja": "異端の存在",
       "en": "Aberrant Atrocity",
@@ -3856,6 +7579,46 @@
   {
     "game_id": 66,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "コーディに報告する",
+          "en": "Report to Cobb",
+          "fr": "Parler à Cobb",
+          "it": "Fai rapporto a Cobb",
+          "de": "Sprich mit Cobb.",
+          "es": "Habla con Cobb",
+          "ru": "Вернитесь к Коббу",
+          "pl": "Zgłoś się do: Cobb",
+          "pt-BR": "Fale com Cobb",
+          "ko": "코디에게 보고하기",
+          "zh-Hant": "向柯迪報告",
+          "zh-Hans": "向柯迪报告",
+          "ar": "إبلاغ كوب",
+          "th": "รายงานคอบบ์",
+          "es-419": "Informa a Cobb"
+        }
+      }
+    ],
     "title": {
       "ja": "竜谷の安全確保",
       "en": "Secure Wounded Hollow",
@@ -3938,6 +7701,46 @@
   {
     "game_id": 67,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "イサイに報告する",
+          "en": "Report to Y'sai",
+          "fr": "Parler à Y'sai",
+          "it": "Fai rapporto a Y'sai",
+          "de": "Sprich mit Y’sai.",
+          "es": "Habla con Y'sai",
+          "ru": "Вернитесь к И'саю",
+          "pl": "Zgłoś się do: Y'sai",
+          "pt-BR": "Fale com Y'sai",
+          "ko": "이사이에게 보고하기",
+          "zh-Hant": "向伊賽報告",
+          "zh-Hans": "向伊塞报告",
+          "ar": "إبلاغ إيساي",
+          "th": "รายงานอิไซ",
+          "es-419": "Informa a Y'sai"
+        }
+      }
+    ],
     "title": {
       "ja": "歴戦の沙海竜",
       "en": "A Leviathan's Temper",
@@ -4011,6 +7814,46 @@
   {
     "game_id": 68,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "緋の森で上位のドシャグマを捕獲する",
+          "en": "Capture a Doshaguma in the Scarlet Forest",
+          "fr": "Capturer un Doshaguma de la Forêt écarlate",
+          "it": "Cattura un Doshaguma nella Foresta cremisi",
+          "de": "Fange einen Doshaguma (Karminwald).",
+          "es": "Captura un Doshaguma en el Bosque Escarlata",
+          "ru": "Поймайте дошагуму в Багряном лесу",
+          "pl": "Złap Doshagumę w Szkarłatnym Lesie",
+          "pt-BR": "Capture um Doshaguma na Floresta Escarlate",
+          "ko": "주홍빛 숲에서 상위 도샤구마 포획하기",
+          "zh-Hant": "於緋紅森林捕獲進階闢獸",
+          "zh-Hans": "在绯红森林中捕获上位辟兽",
+          "ar": "أسر دوشاغوما في الغابة القرمزية",
+          "th": "จับโดชากุมาในป่าโลหิต",
+          "es-419": "Captura un Doshaguma en Bosque Escarlata"
+        }
+      },
+      {
+        "label": {
+          "ja": "エリックに報告する",
+          "en": "Report to Erik",
+          "fr": "Parler à Erik",
+          "it": "Fai rapporto a Erik",
+          "de": "Sprich mit Erik.",
+          "es": "Habla con Erik",
+          "ru": "Вернитесь к Эрику",
+          "pl": "Zgłoś się do: Erik",
+          "pt-BR": "Fale com Erik",
+          "ko": "에릭에게 보고하기",
+          "zh-Hant": "向艾力克報告",
+          "zh-Hans": "向艾瑞克报告",
+          "ar": "إبلاغ إريك",
+          "th": "รายงานเอริค",
+          "es-419": "Informa a Erik"
+        }
+      }
+    ],
     "title": {
       "ja": "森の闢獣",
       "en": "Forest Doshaguma",
@@ -4069,6 +7912,46 @@
   {
     "game_id": 69,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ドガードに報告する",
+          "en": "Report to Dogard",
+          "fr": "Parler à Dogard",
+          "it": "Fai rapporto a Dogard",
+          "de": "Sprich mit Dogard.",
+          "es": "Habla con Dogard",
+          "ru": "Вернитесь к Догарду",
+          "pl": "Zgłoś się do: Dogard",
+          "pt-BR": "Fale com Dogard",
+          "ko": "도가드에게 보고하기",
+          "zh-Hant": "向多格德報告",
+          "zh-Hans": "向多格德报告",
+          "ar": "إبلاغ دوغارد",
+          "th": "รายงานโดการ์ด",
+          "es-419": "Informa a Dogard"
+        }
+      }
+    ],
     "title": {
       "ja": "管理不行き届きにはご用心",
       "en": "Succulent Scraps",
@@ -4142,6 +8025,46 @@
   {
     "game_id": 70,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "アルマに報告する",
+          "en": "Report to Alma",
+          "fr": "Parler à Alma",
+          "it": "Fai rapporto a Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Вернитесь к Альме",
+          "pl": "Zgłoś się do: Alma",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마에게 보고하기",
+          "zh-Hant": "向阿爾瑪報告",
+          "zh-Hans": "向阿尔玛报告",
+          "ar": "إبلاغ ألما",
+          "th": "รายงานอัลมา",
+          "es-419": "Informa a Alma"
+        }
+      }
+    ],
     "title": {
       "ja": "守るべきもの",
       "en": "What We Protect",
@@ -4215,6 +8138,46 @@
   {
     "game_id": 71,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ヴェルナーに報告する",
+          "en": "Report to Werner",
+          "fr": "Parler à Werner",
+          "it": "Fai rapporto a Werner",
+          "de": "Sprich mit Werner.",
+          "es": "Habla con Werner",
+          "ru": "Вернитесь к Вернеру",
+          "pl": "Zgłoś się do: Werner",
+          "pt-BR": "Fale com Werner",
+          "ko": "베르너에게 보고하기",
+          "zh-Hant": "向維爾納報告",
+          "zh-Hans": "向沃纳报告",
+          "ar": "إبلاغ فيرنر",
+          "th": "รายงานเวอร์เนอร์",
+          "es-419": "Informa a Werner"
+        }
+      }
+    ],
     "title": {
       "ja": "ヴェルナーの実証実験",
       "en": "Werner's Test Run",
@@ -4288,6 +8251,46 @@
   {
     "game_id": 72,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "タシンに報告する",
+          "en": "Report to Tasheen",
+          "fr": "Parler à Tasheen",
+          "it": "Fai rapporto a Tasheen",
+          "de": "Sprich mit Tasheen.",
+          "es": "Habla con Tasheen",
+          "ru": "Вернитесь к Ташину",
+          "pl": "Zgłoś się do: Tasheen",
+          "pt-BR": "Fale com Tasheen",
+          "ko": "타신에게 보고하기",
+          "zh-Hant": "向塔辛報告",
+          "zh-Hans": "向塔辛报告",
+          "ar": "إبلاغ تاشين",
+          "th": "รายงานทาชีน",
+          "es-419": "Informa a Tasheen"
+        }
+      }
+    ],
     "title": {
       "ja": "“適応”のかたち",
       "en": "Astonishing Adaptability",
@@ -4361,6 +8364,46 @@
   {
     "game_id": 73,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "レックスに報告する",
+          "en": "Report to Rex",
+          "fr": "Parler à Rex",
+          "it": "Fai rapporto a Rex",
+          "de": "Sprich mit Rex.",
+          "es": "Habla con Rex",
+          "ru": "Вернитесь к Рексу",
+          "pl": "Zgłoś się do: Rex",
+          "pt-BR": "Fale com Rex",
+          "ko": "렉스에게 보고하기",
+          "zh-Hant": "向雷克斯報告",
+          "zh-Hans": "向莱克斯报告",
+          "ar": "إبلاغ ريكس",
+          "th": "รายงานเรกซ์",
+          "es-419": "Informa a Rex"
+        }
+      }
+    ],
     "title": {
       "ja": "門衛として",
       "en": "As Gatekeeper",
@@ -4443,6 +8486,46 @@
   {
     "game_id": 74,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ムタバに報告する",
+          "en": "Report to Murtabak",
+          "fr": "Parler à Murtabak",
+          "it": "Fai rapporto a Murtabak",
+          "de": "Sprich mit Murtabak.",
+          "es": "Habla con Murtabak",
+          "ru": "Вернитесь к Муртабаку",
+          "pl": "Zgłoś się do: Murtabak",
+          "pt-BR": "Fale com Murtabak",
+          "ko": "무타바에게 보고하기",
+          "zh-Hant": "向穆塔巴報告",
+          "zh-Hans": "向穆塔帕报告",
+          "ar": "إبلاغ مورتاباك",
+          "th": "รายงานมูร์ตาบัก",
+          "es-419": "Informa a Murtabak"
+        }
+      }
+    ],
     "title": {
       "ja": "諍いの果てに",
       "en": "Continuing Conflict",
@@ -4520,6 +8603,46 @@
   {
     "game_id": 75,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "モモムックリに報告する",
+          "en": "Report to Plumpeach",
+          "fr": "Parler à Patapêche",
+          "it": "Fai rapporto a Susipesca",
+          "de": "Sprich mit Pflirsich.",
+          "es": "Habla con Nectarina",
+          "ru": "Вернитесь к Персливе",
+          "pl": "Zgłoś się do: Puszynka",
+          "pt-BR": "Fale com Pesseguinho",
+          "ko": "복슬복숭에게 보고하기",
+          "zh-Hant": "向桃圓報告",
+          "zh-Hans": "向桃圆报告",
+          "ar": "إبلاغ بلام بيتش",
+          "th": "รายงานพลัมพีช",
+          "es-419": "Informa a Nectarina"
+        }
+      }
+    ],
     "title": {
       "ja": "毛並みが悪くなる。嫌いです。",
       "en": "Fur Damagings Are Dislikeworthy",
@@ -4597,6 +8720,46 @@
   {
     "game_id": 76,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "サバルに報告する",
+          "en": "Report to Sabar",
+          "fr": "Parler à Sabar",
+          "it": "Fai rapporto a Sabar",
+          "de": "Sprich mit Sabar.",
+          "es": "Habla con Sabar",
+          "ru": "Вернитесь к Сабару",
+          "pl": "Zgłoś się do: Sabal",
+          "pt-BR": "Fale com Sabar",
+          "ko": "사바르에게 보고하기",
+          "zh-Hant": "向薩巴爾報告",
+          "zh-Hans": "向萨巴尔报告",
+          "ar": "إبلاغ سابار",
+          "th": "รายงานซาบาร์",
+          "es-419": "Informa a Sabar"
+        }
+      }
+    ],
     "title": {
       "ja": "厄介な妨害者たち",
       "en": "Troublemakers",
@@ -4674,6 +8837,46 @@
   {
     "game_id": 77,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "アパルに報告する",
+          "en": "Report to Apar",
+          "fr": "Parler à Apar",
+          "it": "Fai rapporto a Apar",
+          "de": "Sprich mit Apar.",
+          "es": "Habla con Apar",
+          "ru": "Вернитесь к Апар",
+          "pl": "Zgłoś się do Apar",
+          "pt-BR": "Fale com Apar",
+          "ko": "아파르에게 보고하기",
+          "zh-Hant": "向阿帕爾報告",
+          "zh-Hans": "向阿帕尔报告",
+          "ar": "إبلاغ أبار",
+          "th": "รายงานอาพาร์",
+          "es-419": "Informa a Apar"
+        }
+      }
+    ],
     "title": {
       "ja": "断崖に木霊して",
       "en": "Echoing from the Cliffs",
@@ -4751,6 +8954,46 @@
   {
     "game_id": 78,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "同名のフリークエストを受注する",
+          "en": "Accept the Optional Quest",
+          "fr": "Accepter la quête libre",
+          "it": "Accetta la missione facoltativa",
+          "de": "Nimm die Optionale Quest an.",
+          "es": "Acepta la misión opcional",
+          "ru": "Примите это доп. поручение",
+          "pl": "Przyjmij zadanie opcjonalne",
+          "pt-BR": "Aceite a Missão Opcional",
+          "ko": "같은 명칭의 자유 퀘스트 수주하기",
+          "zh-Hant": "承接同名的自由任務",
+          "zh-Hans": "承接同名的自由任务",
+          "ar": "قبول المَهمة الاختيارية",
+          "th": "ตอบรับเควสต์เสริม",
+          "es-419": "Acepta la misión opcional"
+        }
+      },
+      {
+        "label": {
+          "ja": "ライシャに報告する",
+          "en": "Report to Rysher",
+          "fr": "Parler à Rysher",
+          "it": "Fai rapporto a Rysher",
+          "de": "Sprich mit Rysher.",
+          "es": "Habla con Rysher",
+          "ru": "Вернитесь к Ришеру",
+          "pl": "Zgłoś się do: Rysher",
+          "pt-BR": "Fale com Rysher",
+          "ko": "라이샤에게 보고하기",
+          "zh-Hant": "向萊夏報告",
+          "zh-Hans": "向莱夏报告",
+          "ar": "إبلاغ ريشر",
+          "th": "รายงานไรเชอร์",
+          "es-419": "Informa a Rysher"
+        }
+      }
+    ],
     "title": {
       "ja": "生存競争の果てに",
       "en": "The Struggle to Survive",
@@ -4828,6 +9071,65 @@
   {
     "game_id": 79,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ギルドの仲間と話す",
+          "en": "Talk to your Guildmates",
+          "fr": "Parler aux membres de la Guilde",
+          "it": "Parla con i colleghi della Gilda",
+          "de": "Sprich mit deinen Gildenkollegen.",
+          "es": "Habla con tus compañeros del gremio",
+          "ru": "Поговорите с товарищами по Гильдии",
+          "pl": "Porozmawiaj z przyjaciółmi z Gildii",
+          "pt-BR": "Fale com os membros da sua Guilda",
+          "ko": "길드 동료와 대화하기",
+          "zh-Hant": "與公會的夥伴交談",
+          "zh-Hans": "与公会同伴对话",
+          "ar": "التحدث إلى زملائك في الرابطة",
+          "th": "พูดคุยกับเพื่อนร่วมกิลด์ของคุณ",
+          "es-419": "Habla con los compañeros del gremio"
+        }
+      },
+      {
+        "label": {
+          "ja": "調査隊本部テントに入る",
+          "en": "Enter the Expedition Command tent",
+          "fr": "Entrer dans la tente de commandement",
+          "it": "Entra nella tenda di comando spedizione",
+          "de": "Betritt das Kommandozelt.",
+          "es": "Entra en la tienda de mando",
+          "ru": "Войдите в палатку штаба экспедиции",
+          "pl": "Wejdź do namiotu dowodzenia ekspedycją",
+          "pt-BR": "Entre na tenda de Comando da Expedição",
+          "ko": "조사대 본부 텐트에 들어가기",
+          "zh-Hant": "進入調查隊總部的帳篷",
+          "zh-Hans": "进入调查队总部帐篷",
+          "ar": "الدخول إلى خيمة قيادة البعثات",
+          "th": "เข้าเต็นท์สั่งการทีมสำรวจ",
+          "es-419": "Entra en la tienda de comando de la expedición"
+        }
+      },
+      {
+        "label": {
+          "ja": "マイテントに入る",
+          "en": "Enter your tent",
+          "fr": "Entrer dans votre tente",
+          "it": "Entra nella tua tenda",
+          "de": "Betritt dein Zelt.",
+          "es": "Entra en tu tienda",
+          "ru": "Войдите в свою палатку",
+          "pl": "Wejdź do swojego namiotu",
+          "pt-BR": "Entre na sua tenda",
+          "ko": "마이 텐트에 들어가기",
+          "zh-Hant": "進入個人帳篷",
+          "zh-Hans": "进入个人帐篷",
+          "ar": "الدخول إلى خيمتكَ",
+          "th": "เข้าเต็นท์ของคุณ",
+          "es-419": "Entra en tu tienda"
+        }
+      }
+    ],
     "title": {
       "ja": "ベースキャンプにて",
       "en": "Back to Camp",
@@ -4873,6 +9175,27 @@
   {
     "game_id": 80,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "しばらくミッションやクエストをこなす",
+          "en": "Complete more missions and quests",
+          "fr": "Compléter plus de missions et de quêtes",
+          "it": "Completa altre missioni e incarichi",
+          "de": "Schließe weitere Missionen und Quests ab.",
+          "es": "Completa más misiones y tareas",
+          "ru": "Завершите больше заданий и поручений",
+          "pl": "Ukończ więcej misji i zadań",
+          "pt-BR": "Conclua mais campanhas e missões",
+          "ko": "한동안 미션이나 퀘스트를 완료하기",
+          "zh-Hant": "完成更多使命和任務",
+          "zh-Hans": "完成更多使命和任务",
+          "ar": "إكمال المزيد من المهام الاستكشافية والمهام",
+          "th": "ทำภารกิจและเควสต์ให้เสร็จเพิ่มอีก",
+          "es-419": "Completa más misiones y tareas"
+        }
+      }
+    ],
     "title": {
       "ja": "歪みの源",
       "en": "The Root Cause",
@@ -4939,6 +9262,27 @@
   {
     "game_id": 81,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "緋の森でカーニャと話す",
+          "en": "Talk to Kanya in the Scarlet Forest",
+          "fr": "Parler à Kanya dans la Forêt écarlate",
+          "it": "Parla con Kanya nella Foresta cremisi",
+          "de": "Sprich im Karminwald mit Kanya.",
+          "es": "Habla con Kanya en el Bosque Escarlata",
+          "ru": "Поговорите с Каньей в Багряном лесу",
+          "pl": "Porozmawiaj z Kanyą w Szkarłatnym Lesie",
+          "pt-BR": "Fale com Kanya na Floresta Escarlate",
+          "ko": "주홍빛 숲에서 카냐와 대화하기",
+          "zh-Hant": "前往緋紅森林與卡妮亞交談",
+          "zh-Hans": "前往绯红森林与卡妮亚对话",
+          "ar": "التحدث إلى كانيا في الغابة القرمزية",
+          "th": "พูดคุยกับคาเนียในป่าโลหิต",
+          "es-419": "Habla con Kanya en el Bosque Escarlata"
+        }
+      }
+    ],
     "title": {
       "ja": "ささやく森",
       "en": "The Whispering Forest",
@@ -5020,6 +9364,27 @@
   {
     "game_id": 82,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "交わりの峰 スージャでヴェルナーと話す",
+          "en": "Talk to Werner in Suja",
+          "fr": "Parler à Werner à Suja",
+          "it": "Parla con Werner a Suja",
+          "de": "Sprich in Suja mit Werner.",
+          "es": "Habla con Werner en Suja",
+          "ru": "Поговорите с Вернером в Суддже",
+          "pl": "Porozmawiaj z Wernerem w Sui",
+          "pt-BR": "Fale com Werner em Suja",
+          "ko": "교류의 봉우리 스자에서 베르너와 대화하기",
+          "zh-Hant": "前往交匯之峰蘇加與維爾納交談",
+          "zh-Hans": "前往交汇之峰酥加与沃纳对话",
+          "ar": "التحدث إلى فيرنر في سوجا",
+          "th": "พูดคุยกับเวอร์เนอร์ในซูจา",
+          "es-419": "Habla con Werner en Suja"
+        }
+      }
+    ],
     "title": {
       "ja": "希なる招喚",
       "en": "An Unexpected Summons",
@@ -5096,6 +9461,141 @@
   {
     "game_id": 83,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "眼鏡の行方を知るモリバーを探す",
+          "en": "Find a Wudwud who's seen Alma's glasses",
+          "fr": "Trouver un Wudwud qui a vu les lunettes d'Alma",
+          "it": "Trova un Wudwud che abbia visto gli occhiali",
+          "de": "Finde einen Wudwud, der Almas Brille sah.",
+          "es": "Busca a un Wudwud que haya visto las gafas",
+          "ru": "Найдите вудвуда, который видел очки",
+          "pl": "Znajdź Leśniaka, który widział okulary Almy",
+          "pt-BR": "Ache um Wudwud que viu os óculos da Alma",
+          "ko": "안경의 행방을 알고 있을 모리바 찾기",
+          "zh-Hant": "尋找知道眼鏡下落的莫利巴",
+          "zh-Hans": "寻找知道眼镜下落的森狸人",
+          "ar": "العثور على وودوود رأى نظارة ألما",
+          "th": "ตามหาวุดวุดที่เห็นแว่นตาของอัลมา",
+          "es-419": "Busca a un Wudwud que haya visto las gafas"
+        }
+      },
+      {
+        "label": {
+          "ja": "下流で眼鏡の行方を知るモリバーを探す",
+          "en": "Search downriver for the glasses",
+          "fr": "Chercher en aval de la rivière",
+          "it": "Cerca gli occhiali a valle",
+          "de": "Suche am unteren Flusslauf nach der Brille.",
+          "es": "Busca las gafas río abajo",
+          "ru": "Поищите очки в низовье реки",
+          "pl": "Poszukaj okularów w dole rzeki",
+          "pt-BR": "Procure pelos óculos rio abaixo",
+          "ko": "하류에서 안경의 행방을 알고 있을 모리바 찾기",
+          "zh-Hant": "前往河的下游尋找知道眼鏡下落的莫利巴",
+          "zh-Hans": "去河的下游寻找知道眼镜下落的森狸人",
+          "ar": "البحث عن النظارة باتجاه مجرى النهر",
+          "th": "ค้นหาแว่นตาที่ปลายน้ำ",
+          "es-419": "Busca las gafas río abajo"
+        }
+      },
+      {
+        "label": {
+          "ja": "モリバーのアジトへ向かう",
+          "en": "Head to the Wudwud Hideout",
+          "fr": "Se rendre au repaire des Wudwuds",
+          "it": "Recati presso il nascondiglio dei Wudwud",
+          "de": "Begib dich zum Versteck der Wudwuds.",
+          "es": "Dirígete al escondite Wudwud",
+          "ru": "Отправляйтесь в убежище вудвудов",
+          "pl": "Udaj się do Kryjówki Leśniaków",
+          "pt-BR": "Vá para o Esconderijo Wudwud",
+          "ko": "모리바의 아지트로 가기",
+          "zh-Hant": "前往莫利巴之家",
+          "zh-Hans": "前往森狸人之家",
+          "ar": "التوجه إلى مخبأ الوودوود",
+          "th": "มุ่งหน้าสู่แหล่งกบดานของวุดวุด",
+          "es-419": "Ve al Escondite Wudwud"
+        }
+      },
+      {
+        "label": {
+          "ja": "入り口のモリバーに話しかける",
+          "en": "Speak with the Wudwud by the entrance",
+          "fr": "Parler au Wudwud près de l'entrée",
+          "it": "Parla con il Wudwud all'ingresso",
+          "de": "Sprich mit dem Wudwud am Eingang.",
+          "es": "Habla con el Wudwud de la entrada",
+          "ru": "Поговорите с вудвудом у входа",
+          "pl": "Porozmawiaj z Leśniakiem przy wejściu",
+          "pt-BR": "Fale com o Wudwud na entrada",
+          "ko": "입구에 있는 모리바에게 말 걸기",
+          "zh-Hant": "與入口的莫利巴交談",
+          "zh-Hans": "与入口处的森狸人对话",
+          "ar": "التحدث مع الوودوود عند المدخل",
+          "th": "พูดคุยกับวุดวุดที่อยู่ตรงทางเข้า",
+          "es-419": "Habla con el Wudwud de la entrada"
+        }
+      },
+      {
+        "label": {
+          "ja": "宴に参加してモリバーたちから聞き込みをする",
+          "en": "Get info from the feasting Wudwuds",
+          "fr": "Parler aux Wudwuds qui festoient",
+          "it": "Ottieni informazioni dai Wudwud in festa",
+          "de": "Sammle Infos von den feiernden Wudwuds.",
+          "es": "Consigue información en el festín Wudwud",
+          "ru": "Получите сведения от пирующих вудвудов",
+          "pl": "Uzyskaj inf. od ucztujących Leśniaków",
+          "pt-BR": "Colete informações dos Wudwuds festeiros",
+          "ko": "연회에 참가해서 모리바들에게 정보 얻기",
+          "zh-Hant": "向參加宴會的莫利巴打聽消息",
+          "zh-Hans": "向参加宴会的森狸人打听消息",
+          "ar": "الحصول على معلومات من الوودوود المحتفلين",
+          "th": "หาข้อมูลจากวุดวุดที่มัวแต่กิน",
+          "es-419": "Habla con los Wudwuds de fiesta"
+        }
+      },
+      {
+        "label": {
+          "ja": "アジト内で寝ているガメネッコを探して話す",
+          "en": "Search for the sleeping Ayejack",
+          "fr": "Réveiller Filoupe",
+          "it": "Cerca Ayejack, che sta dormendo",
+          "de": "Suche nach dem schlafenden Wilbrill.",
+          "es": "Busca al tal Cleptafa dormido",
+          "ru": "Найдите спящего Глазокрада",
+          "pl": "Poszukaj śpiącego Patrzałka",
+          "pt-BR": "Procure pelo Oculiante adormecido",
+          "ko": "아지트 내부에서 잠든 슬쩍이를 찾아 대화하기",
+          "zh-Hant": "尋找在莫利巴之家的小鏡鏡並與他交談",
+          "zh-Hans": "找到在森狸人之家睡觉的小睛睛并与之对话",
+          "ar": "البحث عن آيجاك النائم",
+          "th": "ค้นหาอายแจ็คที่นอนอยู่",
+          "es-419": "Busca a Ayejack mientras duerme"
+        }
+      },
+      {
+        "label": {
+          "ja": "ガメネッコにイーストハニーを納品する",
+          "en": "Deliver Eastern Honey to Ayejack",
+          "fr": "Donner du miel oriental à Filoupe",
+          "it": "Consegna il miele dell'est ad Ayejack",
+          "de": "Bring Wilbrill Ostlandhonig.",
+          "es": "Dale la miel del este a Cleptafa",
+          "ru": "Принесите Глазокраду восточный мёд",
+          "pl": "Dostarcz Miód ze wschodu Patrzałkowi",
+          "pt-BR": "Entregue Mel Oriental para Oculiante",
+          "ko": "슬쩍이에게 이스트 허니 납품하기",
+          "zh-Hant": "向小鏡鏡繳納東方蜂蜜",
+          "zh-Hans": "向小睛睛交纳东部蜂蜜",
+          "ar": "توصيل العسل الشرقي إلى آيجاك",
+          "th": "ส่งมอบน้ำผึ้งตะวันออกให้อายแจ็ค",
+          "es-419": "Entrega miel oriental a Ayejack"
+        }
+      }
+    ],
     "title": {
       "ja": "その眼鏡は彼女の情熱",
       "en": "The Apple of Her Eye",
@@ -5154,6 +9654,46 @@
   {
     "game_id": 85,
     "kind": "main",
+    "tasks": [
+      {
+        "label": {
+          "ja": "アルマと話す",
+          "en": "Talk to Alma",
+          "fr": "Parler à Alma",
+          "it": "Parla con Alma",
+          "de": "Sprich mit Alma.",
+          "es": "Habla con Alma",
+          "ru": "Поговорите с Альмой",
+          "pl": "Porozmawiaj z Almą",
+          "pt-BR": "Fale com Alma",
+          "ko": "알마와 대화하기",
+          "zh-Hant": "與阿爾瑪交談",
+          "zh-Hans": "与阿尔玛对话",
+          "ar": "التحدث إلى ألما",
+          "th": "พูดคุยกับอัลมา",
+          "es-419": "Habla con Alma"
+        }
+      },
+      {
+        "label": {
+          "ja": "ゾ・シアの討伐",
+          "en": "Slay the Zoh Shia",
+          "fr": "Éliminer le Zoh Shia",
+          "it": "Abbatti lo Zoh Shia",
+          "de": "Erlege den Zoh Shia.",
+          "es": "Abate al Zoh Shia",
+          "ru": "Уничтожьте Зо Шиа",
+          "pl": "Zgładź Zoh Shia",
+          "pt-BR": "Abata o Zoh Shia",
+          "ko": "조 시아 토벌",
+          "zh-Hant": "討伐白熾龍",
+          "zh-Hans": "讨伐白炽龙",
+          "ar": "ذبح زو شيا",
+          "th": "สังหารโซห์ ชิอา",
+          "es-419": "Abate al Zoh Shia"
+        }
+      }
+    ],
     "title": {
       "ja": "萌芽の産声",
       "en": "A First Cry",
@@ -5214,6 +9754,46 @@
   {
     "game_id": 86,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "釣り場へ向かう",
+          "en": "Head to the fishing spot",
+          "fr": "Se rendre au coin de pêche",
+          "it": "Raggiungi il punto di pesca",
+          "de": "Begib dich zur Angelstelle.",
+          "es": "Dirígete al punto de pesca",
+          "ru": "Отправляйтесь к рыбному месту",
+          "pl": "Udaj się do łowiska",
+          "pt-BR": "Vá para o local de pesca",
+          "ko": "낚시터로 가기",
+          "zh-Hant": "前往釣場",
+          "zh-Hans": "前往钓场",
+          "ar": "الذهاب إلى منطقة الصيد",
+          "th": "มุ่งหน้าสู่จุดตกปลา",
+          "es-419": "Ve a la zona de pesca"
+        }
+      },
+      {
+        "label": {
+          "ja": "タマミツネを狩猟する",
+          "en": "Hunt the Mizutsune",
+          "fr": "Chasser le Mizutsune",
+          "it": "Caccia il Mizutsune",
+          "de": "Erjage den Mizutsune.",
+          "es": "Caza al Mizutsune",
+          "ru": "Победите мидзуцунэ",
+          "pl": "Upoluj Mizutsune",
+          "pt-BR": "Cace o Mizutsune",
+          "ko": "타마미츠네 사냥하기",
+          "zh-Hant": "狩獵泡狐龍",
+          "zh-Hans": "狩猎泡狐龙",
+          "ar": "صيد ميزوتسوني",
+          "th": "ล่ามิซึสึเนะ",
+          "es-419": "Caza al Mizutsune"
+        }
+      }
+    ],
     "title": {
       "ja": "玉藻よし森は釣れども飽かぬ",
       "en": "Spirit in the Moonlight",
@@ -5274,6 +9854,122 @@
   {
     "game_id": 87,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "油涌き谷の上層を調査する",
+          "en": "Investigate the upper stratum",
+          "fr": "Enquêter dans la strate supérieure",
+          "it": "Indaga sullo strato superiore",
+          "de": "Untersuche die obere Ebene.",
+          "es": "Investiga el estrato superior",
+          "ru": "Исследуйте верхний ярус",
+          "pl": "Zbadaj górną warstwę",
+          "pt-BR": "Investigue o estrato superior",
+          "ko": "기름 솟는 계곡 상층 조사하기",
+          "zh-Hant": "調查湧油山谷的上層",
+          "zh-Hans": "调查涌油谷上层",
+          "ar": "استقصاء الطبقة العليا",
+          "th": "ตรวจสอบชั้นบน",
+          "es-419": "Investiga el estrato superior"
+        }
+      },
+      {
+        "label": {
+          "ja": "油涌き谷の中層を調査する",
+          "en": "Investigate the middle stratum",
+          "fr": "Enquêter dans la strate intermédiaire",
+          "it": "Indaga sullo strato centrale",
+          "de": "Untersuche die mittlere Ebene.",
+          "es": "Investiga el estrato medio",
+          "ru": "Исследуйте центральный ярус",
+          "pl": "Zbadaj środkową warstwę",
+          "pt-BR": "Investigue o estrato médio",
+          "ko": "기름 솟는 계곡 중층 조사하기",
+          "zh-Hant": "調查湧油山谷的中層",
+          "zh-Hans": "调查涌油谷中层",
+          "ar": "استقصاء الطبقة الوسطى",
+          "th": "ตรวจสอบชั้นกลาง",
+          "es-419": "Investiga el estrato medio"
+        }
+      },
+      {
+        "label": {
+          "ja": "アズズで マキと話す",
+          "en": "Talk to Maki in Azuz",
+          "fr": "Parler à Maki à Azuz",
+          "it": "Parla con Maki ad Azuz",
+          "de": "Sprich in Azuz mit Maki.",
+          "es": "Habla con Maki en Azuz",
+          "ru": "Поговорите с Маки в Азузе",
+          "pl": "Porozmawiaj z Maki w Azuz",
+          "pt-BR": "Fale com Maki em Azuz",
+          "ko": "아즈즈에서 마키와 대화하기",
+          "zh-Hant": "前往阿茲茲與瑪奇交談",
+          "zh-Hans": "前往阿孜兹与玛奇对话",
+          "ar": "التحدث إلى ماكي في آزوز",
+          "th": "พูดคุยกับมากิในอาซุส",
+          "es-419": "Habla con Maki en Azuz"
+        }
+      },
+      {
+        "label": {
+          "ja": "最下層で歴戦の個体を倒した者を探す",
+          "en": "Search the lowest part of the Subterrane",
+          "fr": "Aller tout en bas de la strate inférieure",
+          "it": "Perlustra la parte inferiore del Sottosuolo",
+          "de": "Suche im untersten Teil des Unterlands.",
+          "es": "Busca en la parte más profunda de la Infracapa",
+          "ru": "Обыщите самую нижнюю часть Подземья",
+          "pl": "Przeszukaj najniższą część Podziemi",
+          "pt-BR": "Procure na parte mais baixa do Subterreno",
+          "ko": "최하층에서 역전의 개체를 쓰러뜨린 자 찾기",
+          "zh-Hant": "前往湧油山谷最下層尋找打倒歷戰個體的人",
+          "zh-Hans": "前往最下层寻找打倒历战个体之人",
+          "ar": "البحث في أعمق جزء من باطن الأرض",
+          "th": "ค้นหาที่ส่วนล่างสุดของใต้พิภพ",
+          "es-419": "Busca en la parte más baja del Subterráneo"
+        }
+      },
+      {
+        "label": {
+          "ja": "闘技大会クエストをクリアする",
+          "en": "Complete the Arena Quest",
+          "fr": "Compléter la Quête Arène",
+          "it": "Completa la missione arena",
+          "de": "Schließe die Arenaquest ab.",
+          "es": "Completa la misión de la Arena",
+          "ru": "Завершите поручение на арене",
+          "pl": "Ukończ zadanie na Arenie",
+          "pt-BR": "Conclua a Missão de Arena",
+          "ko": "격투대회 퀘스트를 클리어하기",
+          "zh-Hant": "完成鬥技大會任務",
+          "zh-Hans": "完成斗技大会任务",
+          "ar": "إكمال مَهمة الحلبة",
+          "th": "ทำเควสต์ลานประลองให้สำเร็จ",
+          "es-419": "Completa la misión de la Arena"
+        }
+      },
+      {
+        "label": {
+          "ja": "油涌き谷で豪鬼と話す",
+          "en": "Talk to Akuma in the Oilwell Basin",
+          "fr": "Parler à Akuma au Bassin pétrolier",
+          "it": "Parla con Akuma al Bacino petrolifero",
+          "de": "Sprich im Ölquellbecken mit Akuma.",
+          "es": "Habla con Akuma en la Cuenca Oleosa",
+          "ru": "Поговорите с Akuma в Нефтяной низине",
+          "pl": "Porozmawiaj z Akumą w Kotlinie Oleju",
+          "pt-BR": "Fale com Akuma na Bacia Oleídea",
+          "ko": "기름 솟는 계곡에서 고우키와 대화하기",
+          "zh-Hant": "前往湧油山谷與豪鬼交談",
+          "zh-Hans": "前往涌油谷与豪鬼对话",
+          "ar": "التحدث إلى Akuma في حوض آبار النفط",
+          "th": "พูดคุยกับอาคุมะในแอ่งบ่อน้ำมัน",
+          "es-419": "Habla con Akuma en la Cuenca Oleosa"
+        }
+      }
+    ],
     "title": {
       "ja": "強さの頂き、その先へ",
       "en": "Ultimate Strength",
@@ -5352,6 +10048,27 @@
   {
     "game_id": 88,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "緋の森でエリックと話す",
+          "en": "Talk to Erik in the Scarlet Forest",
+          "fr": "Parler à Erik dans la Forêt écarlate",
+          "it": "Parla con Erik nella Foresta cremisi",
+          "de": "Sprich im Karminwald mit Erik.",
+          "es": "Habla con Erik en el Bosque Escarlata",
+          "ru": "Поговорите с Эриком в Багряном лесу",
+          "pl": "Porozmawiaj z Erikiem w Szkarłatnym Lesie",
+          "pt-BR": "Fale com Erik na Floresta Escarlate",
+          "ko": "주홍빛 숲에서 에릭과 대화하기",
+          "zh-Hant": "前往緋紅森林與艾力克交談",
+          "zh-Hans": "前往绯红森林与艾瑞克对话",
+          "ar": "التحدث إلى إريك في الغابة القرمزية",
+          "th": "พูดคุยกับเอริคในป่าโลหิต",
+          "es-419": "Habla con Erik en el Bosque Escarlata"
+        }
+      }
+    ],
     "title": {
       "ja": "エリックの秘かな願い",
       "en": "Erik's Secret Request",
@@ -5433,6 +10150,122 @@
   {
     "game_id": 89,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "エリックについていく",
+          "en": "Follow Erik",
+          "fr": "Suivre Erik",
+          "it": "Segui Erik",
+          "de": "Folge Erik.",
+          "es": "Sigue a Erik",
+          "ru": "Следуйте за Эриком",
+          "pl": "Podążaj za Erikiem",
+          "pt-BR": "Siga Erik",
+          "ko": "에릭 따라가기",
+          "zh-Hant": "跟隨艾力克",
+          "zh-Hans": "跟随艾瑞克",
+          "ar": "اتباع إريك",
+          "th": "ตามเอริคไป",
+          "es-419": "Sigue a Erik"
+        }
+      },
+      {
+        "label": {
+          "ja": "リオレウスの痕跡を調べる",
+          "en": "Examine the Rathalos traces",
+          "fr": "Examiner les traces de Rathalos",
+          "it": "Esamina le tracce di Rathalos",
+          "de": "Untersuche die Rathalos-Spuren.",
+          "es": "Examina los rastros de Rathalos",
+          "ru": "Изучите следы раталоса",
+          "pl": "Zbadaj ślady Rathalosa",
+          "pt-BR": "Examine os rastros de Rathalos",
+          "ko": "리오레우스 흔적 조사하기",
+          "zh-Hant": "調查火龍的痕跡",
+          "zh-Hans": "调查火龙的痕迹",
+          "ar": "فحص آثار راثالوس",
+          "th": "สำรวจร่องรอยของราธาลอส",
+          "es-419": "Examina los rastros de Rathalos"
+        }
+      },
+      {
+        "label": {
+          "ja": "リオレウスの痕跡を辿る",
+          "en": "Follow the Rathalos traces",
+          "fr": "Suivre les traces de Rathalos",
+          "it": "Segui le tracce di Rathalos",
+          "de": "Folge den Rathalos-Spuren.",
+          "es": "Sigue los rastros de Rathalos",
+          "ru": "Идите по следам раталоса",
+          "pl": "Podążaj śladami Rathalosa",
+          "pt-BR": "Siga os rastros de Rathalos",
+          "ko": "리오레우스 흔적 따라가기",
+          "zh-Hant": "追尋火龍的痕跡",
+          "zh-Hans": "追寻火龙的痕迹",
+          "ar": "تتبع آثار راثالوس",
+          "th": "ไปตามร่องรอยของราธาลอส",
+          "es-419": "Sigue los rastros de Rathalos"
+        }
+      },
+      {
+        "label": {
+          "ja": "付近の痕跡を調べる",
+          "en": "Examine the nearby traces",
+          "fr": "Examiner les traces à proximité",
+          "it": "Esamina le tracce nei dintorni",
+          "de": "Untersuche die Spuren in der Nähe.",
+          "es": "Examina los rastros cercanos",
+          "ru": "Изучите следы вокруг",
+          "pl": "Zbadaj ślady w okolicy",
+          "pt-BR": "Examine os rastros próximos",
+          "ko": "근처 흔적 조사하기",
+          "zh-Hant": "調查附近的痕跡",
+          "zh-Hans": "调查附近的痕迹",
+          "ar": "فحص الآثار القريبة",
+          "th": "สำรวจร่องรอยใกล้เคียง",
+          "es-419": "Examina los rastros cercanos"
+        }
+      },
+      {
+        "label": {
+          "ja": "感電したダルトドンを調べる",
+          "en": "Examine the Electrocuted Dalthydon",
+          "fr": "Examiner le Dalthydon électrocuté",
+          "it": "Esamina il Dalthydon folgorato",
+          "de": "Untersuche den zitternden Dalthydon.",
+          "es": "Examina al Dalthydon electrocutado",
+          "ru": "Изучите поражённого током дальтидона",
+          "pl": "Zbadaj porażonego prądem Dalthydona",
+          "pt-BR": "Examine o Dalthydon eletrocutado",
+          "ko": "감전된 달루토돈 조사하기",
+          "zh-Hant": "調查觸電的盾突龍",
+          "zh-Hans": "调查触电的盾突龙",
+          "ar": "فحص الدالثيدون المصعوق بالكهرباء",
+          "th": "สำรวจดาลไธดอนที่ถูกช็อต",
+          "es-419": "Examina el Dalthydon electrocutado"
+        }
+      },
+      {
+        "label": {
+          "ja": "ラギアクルスの捕獲",
+          "en": "Capture the Lagiacrus",
+          "fr": "Capturer le Lagiacrus",
+          "it": "Cattura il Lagiacrus",
+          "de": "Fange den Lagiacrus.",
+          "es": "Captura al Lagiacrus",
+          "ru": "Поймайте лагиакруса",
+          "pl": "Złap Lagiacrusa",
+          "pt-BR": "Capture o Lagiacrus",
+          "ko": "라기아크루스 포획",
+          "zh-Hant": "捕獲海龍",
+          "zh-Hans": "捕获海龙",
+          "ar": "أسر لاغياكروس",
+          "th": "จับลาเกียครุส",
+          "es-419": "Captura al Lagiacrus"
+        }
+      }
+    ],
     "title": {
       "ja": "蒼海共震",
       "en": "Trembling Blue Currents",
@@ -5493,6 +10326,27 @@
   {
     "game_id": 90,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "クナファ村でネブと話す",
+          "en": "Talk to Neby in Kunafa",
+          "fr": "Parler à Neby à Kunafa",
+          "it": "Parla con Neby a Kunafa",
+          "de": "Sprich mit Neby.",
+          "es": "Habla con Neby en Kunafa",
+          "ru": "Поговорите с Нэби в Кунафе",
+          "pl": "Porozmawiaj z Neby w Kunafie",
+          "pt-BR": "Fale com Neby em Kunafa",
+          "ko": "쿠나파 마을에서 네브와 대화하기",
+          "zh-Hant": "前往庫納法村與妮布交談",
+          "zh-Hans": "前往库纳法村与奈布对话",
+          "ar": "التحدث إلى نيبي في كُنافة",
+          "th": "พูดคุยกับเนบีในคูนาฟา",
+          "es-419": "Habla con Neby en Kunafa"
+        }
+      }
+    ],
     "title": {
       "ja": "クナファ村の気になる噂",
       "en": "Kunafa's Curious Quandary",
@@ -5569,6 +10423,46 @@
   {
     "game_id": 91,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "セルレギオスを追う",
+          "en": "Follow the Seregios",
+          "fr": "Suivre le Seregios",
+          "it": "Segui il Seregios",
+          "de": "Folge dem Seregios.",
+          "es": "Sigue al Seregios",
+          "ru": "Следуйте за серегиосом",
+          "pl": "Podążaj za Seregiosem",
+          "pt-BR": "Siga o Seregios",
+          "ko": "셀레기오스 쫓아가기",
+          "zh-Hant": "追上千刃龍",
+          "zh-Hans": "追上千刃龙",
+          "ar": "مطاردة سيرجيوس",
+          "th": "ตามเซเรกิออสไป",
+          "es-419": "Sigue al Seregios"
+        }
+      },
+      {
+        "label": {
+          "ja": "セルレギオスの討伐",
+          "en": "Slay the Seregios",
+          "fr": "Éliminer : Seregios",
+          "it": "Abbatti il Seregios",
+          "de": "Erlege: Seregios.",
+          "es": "Abate a: Seregios",
+          "ru": "Уничтожьте серегиоса",
+          "pl": "Zgładź: Seregios",
+          "pt-BR": "Abata o Seregios",
+          "ko": "셀레기오스 토벌",
+          "zh-Hant": "討伐千刃龍",
+          "zh-Hans": "讨伐千刃龙",
+          "ar": "ذبح سيرجيوس",
+          "th": "สังหารเซเรกิออส",
+          "es-419": "Abate al Seregios"
+        }
+      }
+    ],
     "title": {
       "ja": "晴れの日、時々砂嵐",
       "en": "Clear with a Chance of Sandstorm",
@@ -5629,6 +10523,46 @@
   {
     "game_id": 92,
     "kind": "side",
+    "tasks": [
+      {
+        "label": {
+          "ja": "マイテントで指定の重ね着に着替える",
+          "en": "Change layered armor in your tent",
+          "fr": "Changer d'armure spéciale dans la tente",
+          "it": "Cambia stile armatura nella tua tenda",
+          "de": "Wechsle in deinem Zelt die Dekorrüstung.",
+          "es": "Ponte la armadura superpuesta en la tienda",
+          "ru": "Смените многослойные доспехи в палатке",
+          "pl": "Zmień pancerz warstwowy w swoim namiocie",
+          "pt-BR": "Mude de Armadura em Camadas na Tenda",
+          "ko": "마이 텐트에서 지정된 덧입는 장비로 갈아입기",
+          "zh-Hant": "在個人帳篷換上指定的外觀裝備",
+          "zh-Hans": "在个人帐篷中换上指定的外观装备",
+          "ar": "تغيير الدرع المتعدد الطبقات في خيمتكَ",
+          "th": "เปลี่ยนเกราะสวมทับในเต็นท์",
+          "es-419": "Cambia la armadura superpuesta en la tienda"
+        }
+      },
+      {
+        "label": {
+          "ja": "隔ての砂原でジェマに報告する",
+          "en": "Report to Gemma in the Windward Plains",
+          "fr": "Parler à Gemma dans les Plaines venteuses",
+          "it": "Fai rapporto a Gemma nelle Piane ventose",
+          "de": "Sprich mit Gemma (Windebene).",
+          "es": "Habla con Gemma en los Llanos Barlovento",
+          "ru": "Поговорите с Джеммой на Наветренных равнинах",
+          "pl": "Zgłoś się do Gemmy na Nawiet. Równinach",
+          "pt-BR": "Fale com Gemma nas Planícies Zéfiras",
+          "ko": "경계의 모래 평원에서 젬마에게 보고하기",
+          "zh-Hant": "前往天塹沙原向潔瑪報告",
+          "zh-Hans": "前往天堑沙原向杰玛报告",
+          "ar": "إبلاغ جيما في سهول (ويندوارد)",
+          "th": "รายงานเจมมาในทุ่งสายลมหวน",
+          "es-419": "Informa a Gemma en los Llanos Ventosos"
+        }
+      }
+    ],
     "title": {
       "ja": "思いは扉を開けて",
       "en": "New Fashion, Old Feelings",
@@ -5687,6 +10621,27 @@
   {
     "game_id": 93,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "氷霧の断崖でルロウと話す",
+          "en": "Talk to Rove at the Iceshard Cliffs",
+          "fr": "Parler à Ronin aux Falaises de glace",
+          "it": "Parla con l'Errante alle Scogliere",
+          "de": "Sprich in den Klippen mit Rokko.",
+          "es": "Habla con Rante en los Acantilados del Témpano",
+          "ru": "Поговорите со Странником на Ледяных утёсах",
+          "pl": "Pogadaj z Włóczykotem na Klifach",
+          "pt-BR": "Fale com Vagante nas Escarpas Frígidas",
+          "ko": "빙무의 절벽에서 나그네와 대화하기",
+          "zh-Hant": "前往冰霧斷崖與柳浪交談",
+          "zh-Hans": "前往冰雾断崖与柳浪对话",
+          "ar": "التحدث إلى روف بمنحدرات الشظايا الجليدية",
+          "th": "พูดคุยกับโรฟในผาคมน้ำแข็ง",
+          "es-419": "Habla con Rante en los Acantilados Espinahelada"
+        }
+      }
+    ],
     "title": {
       "ja": "もの云う遺物の言うことは",
       "en": "The Artifact's Words",
@@ -5763,6 +10718,84 @@
   {
     "game_id": 94,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "氷霧の断崖の異変を調査する",
+          "en": "Investigate the Cliffs for anomalies",
+          "fr": "Chercher des anomalies aux Falaises",
+          "it": "Indaga sulle anomalie delle Scogliere",
+          "de": "Untersuche die Klippen auf Anomalien.",
+          "es": "Busca anomalías por los Acantilados",
+          "ru": "Поищите на Утёсах аномалии",
+          "pl": "Zbadaj Klify pod kątem anomalii",
+          "pt-BR": "Investigue anomalias nas Escarpas",
+          "ko": "빙무의 절벽의 이변 조사하기",
+          "zh-Hant": "調查冰霧斷崖的異變",
+          "zh-Hans": "调查冰雾断崖的异常状况",
+          "ar": "استقصاء المنحدرات لرصد الظواهر الغريبة",
+          "th": "ตรวจสอบเพื่อหาความผิดปกติที่ผา",
+          "es-419": "Investiga los acantilados en busca de anomalías"
+        }
+      },
+      {
+        "label": {
+          "ja": "未知の生物を討伐する",
+          "en": "Slay the Unknown Creatures",
+          "fr": "Éliminer les créatures inconnues",
+          "it": "Abbatti le creature sconosciute",
+          "de": "Erlege die unbekannten Kreaturen.",
+          "es": "Abate a las criaturas desconocidas",
+          "ru": "Уничтожьте неизвестных существ",
+          "pl": "Zgładź nieznane stworzenia",
+          "pt-BR": "Abata as criaturas desconhecidas",
+          "ko": "미지의 생물 토벌하기",
+          "zh-Hant": "討伐不明生物",
+          "zh-Hans": "讨伐不明生物",
+          "ar": "ذبح المخلوقات المجهولة",
+          "th": "สังหารสิ่งมีชีวิตที่ไม่รู้จัก",
+          "es-419": "Abate a las criaturas desconocidas"
+        }
+      },
+      {
+        "label": {
+          "ja": "新たな生物の元へ向かう",
+          "en": "Head towards the New Creature",
+          "fr": "Se diriger vers la nouvelle créature",
+          "it": "Dirigiti verso la nuova creatura",
+          "de": "Begib dich zur neuen Kreatur.",
+          "es": "Ve hacia la nueva criatura",
+          "ru": "Направляйтесь к новому существу",
+          "pl": "Kieruj się w stronę nowego stworzenia",
+          "pt-BR": "Vá até à nova criatura",
+          "ko": "새로운 생물이 있는 곳으로 가기",
+          "zh-Hant": "前往新生物所在地",
+          "zh-Hans": "前往新生物所在地",
+          "ar": "التوجه نحو المخلوق الجديد",
+          "th": "มุ่งหน้าไปหาสิ่งมีชีวิตชนิดใหม่",
+          "es-419": "Ve hacia la nueva criatura"
+        }
+      },
+      {
+        "label": {
+          "ja": "ネルスキュラ[???]の討伐",
+          "en": "Slay the Nerscylla[???]",
+          "fr": "Éliminer : Nerscylla[???]",
+          "it": "Abbatti: Nerscylla[???]",
+          "de": "Erlege: Nerscylla[???].",
+          "es": "Abate a: Nerscylla[???]",
+          "ru": "Нерскилла[???]: уничтожить",
+          "pl": "Zgładź: Nerscylla[???]",
+          "pt-BR": "Abata a Nerscylla[???]",
+          "ko": "네르스큐라[???] 토벌",
+          "zh-Hant": "討伐影蜘蛛[???]",
+          "zh-Hans": "讨伐影蜘蛛[???]",
+          "ar": "ذبح نيرسكيلا[???]",
+          "th": "สังหารเนอร์ซิลลา[???]",
+          "es-419": "Abate a Nerscylla[???]"
+        }
+      }
+    ],
     "title": {
       "ja": "侵攻の烽火",
       "en": "The Beacon of Invasion",
@@ -5823,6 +10856,27 @@
   {
     "game_id": 95,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "オメガと話す",
+          "en": "Talk to Omega",
+          "fr": "Parler à Oméga",
+          "it": "Parla con Omega",
+          "de": "Sprich mit Omega.",
+          "es": "Habla con Omega",
+          "ru": "Поговорите с Омегой",
+          "pl": "Porozmawiaj z Omegą",
+          "pt-BR": "Fale com Omega",
+          "ko": "오메가와 대화하기",
+          "zh-Hant": "與歐米茄交談",
+          "zh-Hans": "与欧米茄对话",
+          "ar": "التحدث إلى أوميغا",
+          "th": "พูดคุยกับโอเมกา",
+          "es-419": "Habla con Omega"
+        }
+      }
+    ],
     "title": {
       "ja": "危機の凍峰へ",
       "en": "A Peak Predicament",
@@ -5904,6 +10958,27 @@
   {
     "game_id": 96,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "オメガ・プラネテスの討伐",
+          "en": "Slay the Omega Planetes",
+          "fr": "Éliminer : Oméga Planetikos",
+          "it": "Abbatti Omega Planetes",
+          "de": "Erlege Omega Planetes.",
+          "es": "Abate a Omega Planetes",
+          "ru": "Уничтожьте Омегу-Планетеса",
+          "pl": "Zgładź: Omega Planetes",
+          "pt-BR": "Abata Omega Planetes",
+          "ko": "오메가 플라네테스 토벌",
+          "zh-Hant": "討伐遊星歐米茄",
+          "zh-Hans": "讨伐游星欧米茄",
+          "ar": "ذبح أوميغا بلانيتيس",
+          "th": "สังหารโอเมกา แพลนเนตส์",
+          "es-419": "Abate a Omega Planetes"
+        }
+      }
+    ],
     "title": {
       "ja": "星惑いの侵攻者",
       "en": "Invader from the Stars",
@@ -5964,6 +11039,46 @@
   {
     "game_id": 97,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "油涌き谷でオリヴィアと話す",
+          "en": "Talk to Olivia in the Oilwell Basin",
+          "fr": "Parler à Olivia au Bassin pétrolier",
+          "it": "Parla con Olivia al Bacino petrolifero",
+          "de": "Sprich noch mal mit Olivia.",
+          "es": "Habla con Olivia en la Cuenca Oleosa",
+          "ru": "Поговорите с Оливией в Нефтяной низине",
+          "pl": "Porozmawiaj z Olivią w Kotlinie Oleju",
+          "pt-BR": "Fale com Olivia na Bacia Oleídea",
+          "ko": "기름 솟는 계곡에서 올리비아와 대화하기",
+          "zh-Hant": "前往湧油山谷與奧莉維亞交談",
+          "zh-Hans": "前往涌油谷与奥利维娅对话",
+          "ar": "التحدث إلى أوليفيا في حوض آبار النفط",
+          "th": "พูดคุยกับโอลิเวียในแอ่งบ่อน้ำมัน",
+          "es-419": "Habla con Olivia una vez más"
+        }
+      },
+      {
+        "label": {
+          "ja": "ジェマたちと話す",
+          "en": "Talk to Gemma",
+          "fr": "Parler à Gemma",
+          "it": "Parla con Gemma",
+          "de": "Sprich mit Gemma.",
+          "es": "Habla con Gemma",
+          "ru": "Поговорите с Джеммой",
+          "pl": "Porozmawiaj z Gemmą",
+          "pt-BR": "Fale com Gemma",
+          "ko": "젬마 및 다른 사람과 대화하기",
+          "zh-Hant": "與潔瑪等人交談",
+          "zh-Hans": "与杰玛等人对话",
+          "ar": "التحدث إلى جيما",
+          "th": "พูดคุยกับเจมมา",
+          "es-419": "Habla con Gemma"
+        }
+      }
+    ],
     "title": {
       "ja": "古史の眠る地",
       "en": "An Ancient Resting Place",
@@ -6025,6 +11140,27 @@
   {
     "game_id": 98,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "昇降機前でヴェルナーと話す",
+          "en": "Talk to Werner in front of the lift",
+          "fr": "Parler à Werner devant l'ascenseur",
+          "it": "Parla con Werner all'ascensore",
+          "de": "Sprich vor dem Aufzug mit Werner.",
+          "es": "Habla con Werner delante del ascensor",
+          "ru": "Поговорите с Вернером перед подъёмником",
+          "pl": "Porozmawiaj z Wernerem przed windą",
+          "pt-BR": "Fale com Werner no elevador",
+          "ko": "승강기 앞에서 베르너와 대화하기",
+          "zh-Hant": "前往升降機前與維爾納交談",
+          "zh-Hans": "前往升降机前与沃纳对话",
+          "ar": "التحدث إلى فيرنر أمام المصعد",
+          "th": "พูดคุยกับเวอร์เนอร์ที่หน้าลิฟต์",
+          "es-419": "Habla con Werner frente al ascensor"
+        }
+      }
+    ],
     "title": {
       "ja": "目覚めさせるもの",
       "en": "Awakening the Past",
@@ -6106,6 +11242,46 @@
   {
     "game_id": 99,
     "kind": "extra",
+    "tasks": [
+      {
+        "label": {
+          "ja": "ファビウスと話す",
+          "en": "Talk to Fabius",
+          "fr": "Parler à Fabius",
+          "it": "Parla con Fabius",
+          "de": "Sprich mit Fabius.",
+          "es": "Habla con Fabius",
+          "ru": "Поговорите с Фабиусом",
+          "pl": "Porozmawiaj z Fabiusem",
+          "pt-BR": "Fale com Fabius",
+          "ko": "파비우스와 대화하기",
+          "zh-Hant": "與法比烏斯交談",
+          "zh-Hans": "与法比乌斯对话",
+          "ar": "التحدث إلى فابيوس",
+          "th": "พูดคุยกับฟาเบียส",
+          "es-419": "Habla con Fabius"
+        }
+      },
+      {
+        "label": {
+          "ja": "ゴグマジオスを討伐する",
+          "en": "Slay Gogmazios",
+          "fr": "Éliminer le Gogmazios",
+          "it": "Abbatti il Gogmazios",
+          "de": "Erlege den Gogmazios.",
+          "es": "Abate al Gogmazios",
+          "ru": "Победите гогмазиоса",
+          "pl": "Zgładź Gogmaziosa",
+          "pt-BR": "Abata Gogmazios",
+          "ko": "고그마지오스 토벌하기",
+          "zh-Hant": "討伐巨戟龍",
+          "zh-Hans": "讨伐巨戟龙",
+          "ar": "ذبح غوغمازيوس",
+          "th": "สังหารก็อกมาซิออส",
+          "es-419": "Abate al Gogmazios"
+        }
+      }
+    ],
     "title": {
       "ja": "亡霊は明日の戦禍を顧みぬ",
       "en": "Ghosts Pay No Heed to Tomorrow",

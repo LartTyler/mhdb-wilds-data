@@ -179,16 +179,18 @@ impl MissionRewardData {
 
 impl From<&MissionRewardData> for Rewards {
     fn from(value: &MissionRewardData) -> Self {
+        let mut items: Vec<ItemReward> = value.item_ids.iter()
+            .zip(&value.item_amounts)
+            .map(From::from)
+            .collect();
+
+        items.sort_by_key(|v| v.item_id);
+
         Self {
             zenny: value.zenny,
             hunter_rank_points: value.hunter_rank_points,
             guild_points: value.guild_points,
-            items: value
-                .item_ids
-                .iter()
-                .zip(&value.item_amounts)
-                .map(From::from)
-                .collect(),
+            items,
         }
     }
 }

@@ -56,9 +56,31 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         }
 
         let rewards = reward_tables.get_mission(data.mission_id());
+
+        let mut tasks: Vec<Task> = Vec::new();
+
+        for mission in data.missions {
+            for objective in mission.objectives {
+                for task_data in objective.tasks {
+                    let mut task = Task::default();
+                    placeholders.find_and_apply(&task_data.text_guid, &mut task.label)?;
+
+                    tasks.push(task);
+                }
+            }
+        }
+
+        let mission_kind = if data.side_mission {
+            MissionKind::Side(SideStoryMission { tasks })
+        } else if data.extra_mission {
+            MissionKind::Extra(ExtraMission { tasks })
+        } else {
+            MissionKind::Main(MainStoryMission { tasks })
+        };
+
         let mut mission = Mission {
             game_id: data.id,
-            kind: data.mission_kind(),
+            kind: mission_kind,
             title: LanguageMap::new(),
             description: LanguageMap::new(),
             chapter: data.chapter,
@@ -132,13 +154,19 @@ enum MissionKind {
 }
 
 #[derive(Debug, Serialize)]
-struct MainStoryMission;
+struct MainStoryMission {
+    tasks: Vec<Task>,
+}
 
 #[derive(Debug, Serialize)]
-struct SideStoryMission;
+struct SideStoryMission {
+    tasks: Vec<Task>,
+}
 
 #[derive(Debug, Serialize)]
-struct ExtraMission;
+struct ExtraMission {
+    tasks: Vec<Task>,
+}
 
 #[derive(Debug, Serialize)]
 struct OptionalMission {
@@ -156,6 +184,12 @@ struct AssignmentMission {
     level: QuestLevel,
     icon: IconKind,
     time_limit: TimeLimitMinutes,
+}
+
+#[derive(Debug, Default, Serialize)]
+struct Task {
+    #[serde(serialize_with = "ordered_map")]
+    label: LanguageMap,
 }
 
 #[derive(Debug, Serialize)]
