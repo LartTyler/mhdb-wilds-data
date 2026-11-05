@@ -33,9 +33,9 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
 
     let mut missions: Vec<Mission> = Vec::new();
 
-    // Initial pass handles main and side missions. Any QuestData files belonging to one of these
-    // missions needs to be created as a standalone assignment (in addition to defining relevant
-    // quest info for the mission itself).
+    // Initial pass handles main, side, and extra missions. Any QuestData files belonging to one of
+    // these missions needs to be created as a standalone assignment (in addition to defining
+    // relevant quest info for the mission itself).
     for (index, data) in data.into_iter().enumerate() {
         if data.is_ignored() {
             log::trace!(
@@ -121,12 +121,6 @@ struct Mission {
     rewards: Option<Rewards>,
 }
 
-impl Mission {
-    fn needs_common_rewards(&self) -> bool {
-        self.kind.needs_common_rewards()
-    }
-}
-
 #[derive(Debug, Serialize)]
 #[serde(rename_all = "kebab-case", tag = "kind")]
 enum MissionKind {
@@ -135,12 +129,6 @@ enum MissionKind {
     Extra(ExtraMission),
     Optional(OptionalMission),
     Assignment(AssignmentMission),
-}
-
-impl MissionKind {
-    fn needs_common_rewards(&self) -> bool {
-        !matches!(self, Self::Main(_) | Self::Side(_) | Self::Extra(_))
-    }
 }
 
 #[derive(Debug, Serialize)]
