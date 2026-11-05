@@ -19,8 +19,17 @@ pub struct MissionFile {
     pub enemy_list: Vec<EnemyReference>,
     #[serde(rename = "_QuestData")]
     pub quest_data_path: Option<PathBuf>,
-    #[serde(rename = "_WhileClearObjectiveMissionID", deserialize_with = "zero_is_none")]
-    pub source_mission_id: Option<MissionId>,
+
+    /// Naming this property has been a pain. When this property is set to a non-zero value,
+    /// it holds the ID of a different mission that uses this mission's quest object as its
+    /// own. Basically, if a mission doesn't have a QuestData file, we have to search through
+    /// all files to see if any of them have this property set to that mission's ID. If there is
+    /// one, then that mission should read from the referenced mission's QuestData file instead.
+    #[serde(
+        rename = "_WhileClearObjectiveMissionID",
+        deserialize_with = "zero_is_none"
+    )]
+    pub referenced_mission_id: Option<MissionId>,
 }
 
 impl MissionFile {

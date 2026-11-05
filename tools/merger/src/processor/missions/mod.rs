@@ -69,15 +69,15 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         placeholders.find_and_apply(&data.description_guid, &mut mission.description)?;
 
         let quest = files.quest.as_ref().or_else(|| {
-            for other in mission_files.values() {
-                if let Some(id) = other.mission.source_mission_id
+            mission_files.values().find_map(|v| {
+                if let Some(id) = v.mission.referenced_mission_id
                     && id == files.mission.id
                 {
-                    return other.quest.as_ref();
+                    v.quest.as_ref()
+                } else {
+                    None
                 }
-            }
-
-            None
+            })
         });
 
         if let Some(quest) = quest {
