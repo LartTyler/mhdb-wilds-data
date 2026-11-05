@@ -81,19 +81,9 @@
       "guild_points": 487,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -106,9 +96,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -195,19 +195,14 @@
       "guild_points": 45,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -220,9 +215,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -309,19 +309,9 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -329,14 +319,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -423,19 +423,9 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -443,14 +433,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -537,26 +537,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 490,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -565,6 +545,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -651,26 +651,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 490,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -679,6 +659,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -769,31 +769,6 @@
       "guild_points": 507,
       "items": [
         {
-          "item_id": 659,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 665,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 608,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -802,6 +777,31 @@
           "item_id": 598,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -892,31 +892,6 @@
       "guild_points": 507,
       "items": [
         {
-          "item_id": 659,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 665,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 608,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -925,6 +900,31 @@
           "item_id": 598,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 659,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -1011,26 +1011,6 @@
       "guild_points": 165,
       "items": [
         {
-          "item_id": 657,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -1039,6 +1019,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 657,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -1125,19 +1125,19 @@
       "guild_points": 27,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -1150,9 +1150,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -1239,26 +1239,6 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 665,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 608,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -1267,6 +1247,26 @@
           "item_id": 439,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 25
         }
       ]
     }
@@ -1353,19 +1353,9 @@
       "guild_points": 237,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -1378,12 +1368,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -1472,19 +1472,9 @@
       "guild_points": 237,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -1497,12 +1487,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -1591,19 +1591,9 @@
       "guild_points": 50,
       "items": [
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
         },
         {
           "item_id": 54,
@@ -1621,9 +1611,19 @@
           "chance": 13
         },
         {
-          "item_id": 28,
-          "amount": 2,
-          "chance": 13
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -1710,19 +1710,19 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -1735,9 +1735,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -1824,19 +1824,14 @@
       "guild_points": 45,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -1849,9 +1844,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -1943,6 +1943,16 @@
           "chance": 15
         },
         {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 619,
           "amount": 1,
           "chance": 15
@@ -1956,16 +1966,6 @@
           "item_id": 664,
           "amount": 1,
           "chance": 23
-        },
-        {
-          "item_id": 607,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
-          "amount": 1,
-          "chance": 10
         }
       ]
     }
@@ -2052,21 +2052,6 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 656,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 158,
           "amount": 1,
           "chance": 15
@@ -2075,6 +2060,21 @@
           "item_id": 596,
           "amount": 2,
           "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -2165,19 +2165,9 @@
       "guild_points": 759,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -2200,9 +2190,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -2293,19 +2293,9 @@
       "guild_points": 759,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -2328,9 +2318,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -2417,12 +2417,12 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 26,
-          "amount": 2,
-          "chance": 22
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
         },
         {
-          "item_id": 67,
+          "item_id": 26,
           "amount": 2,
           "chance": 22
         },
@@ -2437,9 +2437,9 @@
           "chance": 22
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 12
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
         }
       ]
     }
@@ -2526,12 +2526,12 @@
       "guild_points": 180,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 596,
           "amount": 1,
           "chance": 25
         },
@@ -2541,14 +2541,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 596,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -2635,19 +2635,9 @@
       "guild_points": 42,
       "items": [
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
         },
         {
           "item_id": 54,
@@ -2665,9 +2655,19 @@
           "chance": 13
         },
         {
-          "item_id": 28,
-          "amount": 2,
-          "chance": 13
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -2754,14 +2754,14 @@
       "guild_points": 198,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 418,
           "amount": 1,
           "chance": 40
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 30
         },
         {
           "item_id": 619,
@@ -2769,9 +2769,9 @@
           "chance": 15
         },
         {
-          "item_id": 156,
+          "item_id": 624,
           "amount": 1,
-          "chance": 15
+          "chance": 30
         }
       ]
     }
@@ -2858,14 +2858,14 @@
       "guild_points": 198,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 418,
           "amount": 1,
           "chance": 40
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 30
         },
         {
           "item_id": 619,
@@ -2873,9 +2873,9 @@
           "chance": 15
         },
         {
-          "item_id": 156,
+          "item_id": 624,
           "amount": 1,
-          "chance": 15
+          "chance": 30
         }
       ]
     }
@@ -2962,21 +2962,6 @@
       "guild_points": 360,
       "items": [
         {
-          "item_id": 656,
-          "amount": 2,
-          "chance": 24
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 2,
-          "chance": 13
-        },
-        {
           "item_id": 158,
           "amount": 2,
           "chance": 13
@@ -2985,6 +2970,21 @@
           "item_id": 600,
           "amount": 2,
           "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 656,
+          "amount": 2,
+          "chance": 24
         }
       ]
     }
@@ -3071,21 +3071,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -3094,6 +3079,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -3180,21 +3180,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -3203,6 +3188,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -3293,12 +3293,12 @@
       "guild_points": 462,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 600,
           "amount": 1,
           "chance": 25
         },
@@ -3308,14 +3308,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 600,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -3406,12 +3406,12 @@
       "guild_points": 462,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 600,
           "amount": 1,
           "chance": 25
         },
@@ -3421,14 +3421,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 600,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -3520,14 +3520,9 @@
           "chance": 15
         },
         {
-          "item_id": 619,
+          "item_id": 439,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "chance": 10
         },
         {
           "item_id": 454,
@@ -3540,9 +3535,14 @@
           "chance": 15
         },
         {
-          "item_id": 439,
+          "item_id": 619,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -3629,21 +3629,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -3652,6 +3637,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -3738,19 +3738,19 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -3763,9 +3763,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -3857,6 +3857,16 @@
           "chance": 15
         },
         {
+          "item_id": 439,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 607,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 619,
           "amount": 1,
           "chance": 15
@@ -3870,16 +3880,6 @@
           "item_id": 664,
           "amount": 1,
           "chance": 23
-        },
-        {
-          "item_id": 607,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
-          "amount": 1,
-          "chance": 10
         }
       ]
     }
@@ -3966,12 +3966,17 @@
       "guild_points": 195,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 490,
           "amount": 1,
           "chance": 20
         },
         {
-          "item_id": 624,
+          "item_id": 606,
           "amount": 1,
           "chance": 25
         },
@@ -3981,12 +3986,7 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 606,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
         }
@@ -4075,6 +4075,16 @@
       "guild_points": 264,
       "items": [
         {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
           "item_id": 455,
           "amount": 1,
           "chance": 25
@@ -4085,24 +4095,14 @@
           "chance": 10
         },
         {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
           "item_id": 620,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 157,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
+          "item_id": 624,
           "amount": 2,
-          "chance": 15
+          "chance": 20
         }
       ]
     }
@@ -4194,14 +4194,9 @@
           "chance": 15
         },
         {
-          "item_id": 619,
+          "item_id": 439,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "chance": 10
         },
         {
           "item_id": 454,
@@ -4214,9 +4209,14 @@
           "chance": 15
         },
         {
-          "item_id": 439,
+          "item_id": 619,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -4303,19 +4303,14 @@
       "guild_points": 37,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -4328,9 +4323,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -4417,19 +4417,19 @@
       "guild_points": 30,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -4442,9 +4442,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -4531,19 +4531,14 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -4556,9 +4551,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -4645,19 +4645,9 @@
       "guild_points": 45,
       "items": [
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
         },
         {
           "item_id": 54,
@@ -4675,9 +4665,19 @@
           "chance": 13
         },
         {
-          "item_id": 28,
-          "amount": 2,
-          "chance": 13
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -4764,12 +4764,17 @@
       "guild_points": 234,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 490,
           "amount": 1,
           "chance": 20
         },
         {
-          "item_id": 624,
+          "item_id": 606,
           "amount": 1,
           "chance": 25
         },
@@ -4779,12 +4784,7 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 606,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
         }
@@ -4873,12 +4873,17 @@
       "guild_points": 234,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 490,
           "amount": 1,
           "chance": 20
         },
         {
-          "item_id": 624,
+          "item_id": 606,
           "amount": 1,
           "chance": 25
         },
@@ -4888,12 +4893,7 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 606,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
         }
@@ -4982,19 +4982,19 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -5007,9 +5007,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -5096,6 +5096,16 @@
       "guild_points": 264,
       "items": [
         {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
           "item_id": 455,
           "amount": 1,
           "chance": 25
@@ -5106,24 +5116,14 @@
           "chance": 10
         },
         {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
           "item_id": 620,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 157,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
+          "item_id": 624,
           "amount": 2,
-          "chance": 15
+          "chance": 20
         }
       ]
     }
@@ -5210,6 +5210,16 @@
       "guild_points": 264,
       "items": [
         {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
           "item_id": 455,
           "amount": 1,
           "chance": 25
@@ -5220,24 +5230,14 @@
           "chance": 10
         },
         {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
           "item_id": 620,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 157,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
+          "item_id": 624,
           "amount": 2,
-          "chance": 15
+          "chance": 20
         }
       ]
     }
@@ -5324,14 +5324,19 @@
       "guild_points": 165,
       "items": [
         {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
           "item_id": 535,
           "amount": 1,
           "chance": 20
         },
         {
-          "item_id": 624,
+          "item_id": 602,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
           "item_id": 619,
@@ -5339,14 +5344,9 @@
           "chance": 15
         },
         {
-          "item_id": 156,
+          "item_id": 624,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 602,
-          "amount": 1,
-          "chance": 15
+          "chance": 20
         },
         {
           "item_id": 655,
@@ -5438,19 +5438,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 490,
-          "amount": 2,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
+          "item_id": 56,
           "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -5458,14 +5448,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
-          "amount": 1,
-          "chance": 10
+          "item_id": 490,
+          "amount": 2,
+          "chance": 30
         },
         {
           "item_id": 589,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
         }
       ]
     }
@@ -5552,19 +5552,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 490,
-          "amount": 2,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
+          "item_id": 56,
           "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -5572,14 +5562,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
-          "amount": 1,
-          "chance": 10
+          "item_id": 490,
+          "amount": 2,
+          "chance": 30
         },
         {
           "item_id": 589,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
         }
       ]
     }
@@ -5666,21 +5666,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -5689,6 +5674,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -5775,19 +5775,14 @@
       "guild_points": 45,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -5800,9 +5795,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -5894,14 +5894,9 @@
           "chance": 15
         },
         {
-          "item_id": 619,
+          "item_id": 439,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "chance": 10
         },
         {
           "item_id": 454,
@@ -5914,9 +5909,14 @@
           "chance": 15
         },
         {
-          "item_id": 439,
+          "item_id": 619,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -6003,19 +6003,14 @@
       "guild_points": 32,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -6028,9 +6023,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -6117,19 +6117,14 @@
       "guild_points": 37,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -6142,9 +6137,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -6235,19 +6235,9 @@
       "guild_points": 660,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -6270,9 +6260,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -6363,19 +6363,9 @@
       "guild_points": 660,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -6398,9 +6388,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -6491,19 +6491,9 @@
       "guild_points": 544,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -6511,14 +6501,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -6609,19 +6609,9 @@
       "guild_points": 544,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -6629,14 +6619,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -6723,12 +6723,12 @@
       "guild_points": 210,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 594,
           "amount": 1,
           "chance": 25
         },
@@ -6738,14 +6738,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 594,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -18172,16 +18172,6 @@
       "guild_points": 1002,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -18200,6 +18190,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -18286,16 +18286,6 @@
       "guild_points": 1025,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -18314,6 +18304,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -18400,16 +18400,6 @@
       "guild_points": 1065,
       "items": [
         {
-          "item_id": 822,
-          "amount": 5,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -18428,6 +18418,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -18514,14 +18514,19 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 738,
+          "item_id": 158,
           "amount": 1,
-          "chance": 10
+          "chance": 15
         },
         {
           "item_id": 490,
           "amount": 3,
           "chance": 18
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
         },
         {
           "item_id": 625,
@@ -18534,14 +18539,9 @@
           "chance": 7
         },
         {
-          "item_id": 621,
+          "item_id": 738,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 158,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 739,
@@ -18633,14 +18633,19 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 738,
+          "item_id": 158,
           "amount": 1,
-          "chance": 10
+          "chance": 15
         },
         {
           "item_id": 490,
           "amount": 3,
           "chance": 18
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
         },
         {
           "item_id": 625,
@@ -18653,14 +18658,9 @@
           "chance": 7
         },
         {
-          "item_id": 621,
+          "item_id": 738,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 158,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 739,
@@ -18752,19 +18752,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -18777,9 +18767,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -18866,19 +18866,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -18891,9 +18881,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -18980,19 +18980,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -19005,9 +18995,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -19094,19 +19094,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -19119,9 +19109,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -19208,19 +19208,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -19233,9 +19223,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -19322,16 +19322,6 @@
       "guild_points": 1025,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -19350,6 +19340,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -19444,6 +19444,21 @@
       "guild_points": 3000,
       "items": [
         {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
           "item_id": 669,
           "amount": 10,
           "chance": 1
@@ -19457,21 +19472,6 @@
           "item_id": 822,
           "amount": 5,
           "chance": 36
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 14
-        },
-        {
-          "item_id": 621,
-          "amount": 5,
-          "chance": 10
-        },
-        {
-          "item_id": 158,
-          "amount": 5,
-          "chance": 10
         }
       ]
     }
@@ -19558,19 +19558,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -19578,14 +19568,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -19672,19 +19672,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -19692,14 +19682,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -19786,14 +19786,19 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 738,
+          "item_id": 158,
           "amount": 1,
-          "chance": 10
+          "chance": 15
         },
         {
           "item_id": 490,
           "amount": 3,
           "chance": 18
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 15
         },
         {
           "item_id": 625,
@@ -19806,14 +19811,9 @@
           "chance": 7
         },
         {
-          "item_id": 621,
+          "item_id": 738,
           "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 158,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 739,
@@ -19905,6 +19905,26 @@
       "guild_points": 291,
       "items": [
         {
+          "item_id": 126,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 176,
+          "amount": 1,
+          "chance": 28
+        },
+        {
+          "item_id": 227,
+          "amount": 1,
+          "chance": 12
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 22
+        },
+        {
           "item_id": 781,
           "amount": 1,
           "chance": 3
@@ -19913,26 +19933,6 @@
           "item_id": 807,
           "amount": 1,
           "chance": 14
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 176,
-          "amount": 1,
-          "chance": 28
-        },
-        {
-          "item_id": 126,
-          "amount": 3,
-          "chance": 21
-        },
-        {
-          "item_id": 227,
-          "amount": 1,
-          "chance": 12
         }
       ]
     }
@@ -20019,16 +20019,6 @@
       "guild_points": 1025,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -20047,6 +20037,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -20133,16 +20133,6 @@
       "guild_points": 1025,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -20161,6 +20151,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -20247,26 +20247,6 @@
       "guild_points": 630,
       "items": [
         {
-          "item_id": 608,
-          "amount": 3,
-          "chance": 3
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 9
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 19
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 23
-        },
-        {
           "item_id": 158,
           "amount": 1,
           "chance": 23
@@ -20275,6 +20255,26 @@
           "item_id": 479,
           "amount": 1,
           "chance": 23
+        },
+        {
+          "item_id": 608,
+          "amount": 3,
+          "chance": 3
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 19
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 9
         }
       ]
     }
@@ -20361,26 +20361,6 @@
       "guild_points": 630,
       "items": [
         {
-          "item_id": 608,
-          "amount": 3,
-          "chance": 3
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 9
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 19
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 23
-        },
-        {
           "item_id": 158,
           "amount": 1,
           "chance": 23
@@ -20389,6 +20369,26 @@
           "item_id": 479,
           "amount": 1,
           "chance": 23
+        },
+        {
+          "item_id": 608,
+          "amount": 3,
+          "chance": 3
+        },
+        {
+          "item_id": 621,
+          "amount": 1,
+          "chance": 23
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 19
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 9
         }
       ]
     }
@@ -20475,6 +20475,16 @@
       "guild_points": 855,
       "items": [
         {
+          "item_id": 479,
+          "amount": 3,
+          "chance": 24
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 17
+        },
+        {
           "item_id": 756,
           "amount": 3,
           "chance": 10
@@ -20493,16 +20503,6 @@
           "item_id": 822,
           "amount": 1,
           "chance": 26
-        },
-        {
-          "item_id": 479,
-          "amount": 3,
-          "chance": 24
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 17
         }
       ]
     }
@@ -20589,6 +20589,16 @@
       "guild_points": 855,
       "items": [
         {
+          "item_id": 479,
+          "amount": 3,
+          "chance": 24
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 17
+        },
+        {
           "item_id": 756,
           "amount": 3,
           "chance": 10
@@ -20607,16 +20617,6 @@
           "item_id": 822,
           "amount": 1,
           "chance": 26
-        },
-        {
-          "item_id": 479,
-          "amount": 3,
-          "chance": 24
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 17
         }
       ]
     }
@@ -20703,16 +20703,6 @@
       "guild_points": 1013,
       "items": [
         {
-          "item_id": 822,
-          "amount": 4,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -20731,6 +20721,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 4,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -20817,14 +20817,9 @@
       "guild_points": 693,
       "items": [
         {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 13
-        },
-        {
-          "item_id": 625,
-          "amount": 3,
-          "chance": 21
+          "item_id": 158,
+          "amount": 2,
+          "chance": 23
         },
         {
           "item_id": 621,
@@ -20832,9 +20827,14 @@
           "chance": 23
         },
         {
-          "item_id": 158,
-          "amount": 2,
-          "chance": 23
+          "item_id": 625,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 13
         },
         {
           "item_id": 668,
@@ -20934,6 +20934,21 @@
       "guild_points": 3000,
       "items": [
         {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
           "item_id": 669,
           "amount": 10,
           "chance": 1
@@ -20947,21 +20962,6 @@
           "item_id": 822,
           "amount": 5,
           "chance": 36
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 14
-        },
-        {
-          "item_id": 621,
-          "amount": 5,
-          "chance": 10
-        },
-        {
-          "item_id": 158,
-          "amount": 5,
-          "chance": 10
         }
       ]
     }
@@ -21048,19 +21048,9 @@
       "guild_points": 356,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -21073,9 +21063,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -21162,16 +21162,6 @@
       "guild_points": 990,
       "items": [
         {
-          "item_id": 822,
-          "amount": 3,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -21190,6 +21180,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 3,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -21276,19 +21276,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -21296,14 +21286,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -21390,14 +21390,9 @@
       "guild_points": 693,
       "items": [
         {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 13
-        },
-        {
-          "item_id": 625,
-          "amount": 3,
-          "chance": 21
+          "item_id": 158,
+          "amount": 2,
+          "chance": 23
         },
         {
           "item_id": 621,
@@ -21405,9 +21400,14 @@
           "chance": 23
         },
         {
-          "item_id": 158,
-          "amount": 2,
-          "chance": 23
+          "item_id": 625,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 13
         },
         {
           "item_id": 668,
@@ -21499,14 +21499,9 @@
       "guild_points": 693,
       "items": [
         {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 13
-        },
-        {
-          "item_id": 625,
-          "amount": 3,
-          "chance": 21
+          "item_id": 158,
+          "amount": 2,
+          "chance": 23
         },
         {
           "item_id": 621,
@@ -21514,9 +21509,14 @@
           "chance": 23
         },
         {
-          "item_id": 158,
-          "amount": 2,
-          "chance": 23
+          "item_id": 625,
+          "amount": 3,
+          "chance": 21
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 13
         },
         {
           "item_id": 668,
@@ -21608,16 +21608,6 @@
       "guild_points": 1013,
       "items": [
         {
-          "item_id": 822,
-          "amount": 4,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -21636,6 +21626,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 4,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -21730,6 +21730,21 @@
       "guild_points": 3000,
       "items": [
         {
+          "item_id": 158,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 621,
+          "amount": 5,
+          "chance": 10
+        },
+        {
+          "item_id": 654,
+          "amount": 1,
+          "chance": 14
+        },
+        {
           "item_id": 669,
           "amount": 10,
           "chance": 1
@@ -21743,21 +21758,6 @@
           "item_id": 822,
           "amount": 5,
           "chance": 36
-        },
-        {
-          "item_id": 654,
-          "amount": 1,
-          "chance": 14
-        },
-        {
-          "item_id": 621,
-          "amount": 5,
-          "chance": 10
-        },
-        {
-          "item_id": 158,
-          "amount": 5,
-          "chance": 10
         }
       ]
     }
@@ -21844,16 +21844,6 @@
       "guild_points": 1025,
       "items": [
         {
-          "item_id": 822,
-          "amount": 5,
-          "chance": 1
-        },
-        {
-          "item_id": 822,
-          "amount": 1,
-          "chance": 17
-        },
-        {
           "item_id": 625,
           "amount": 1,
           "chance": 35
@@ -21872,6 +21862,16 @@
           "item_id": 661,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 822,
+          "amount": 5,
+          "chance": 1
+        },
+        {
+          "item_id": 822,
+          "amount": 1,
+          "chance": 17
         }
       ]
     }
@@ -21958,19 +21958,14 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -21983,9 +21978,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -22072,19 +22072,19 @@
       "guild_points": 35,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -22097,9 +22097,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -22186,19 +22186,19 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -22211,9 +22211,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -22304,19 +22304,9 @@
       "guild_points": 783,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -22339,9 +22329,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -22432,19 +22432,9 @@
       "guild_points": 783,
       "items": [
         {
-          "item_id": 660,
+          "item_id": 62,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -22467,9 +22457,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 660,
+          "amount": 1,
+          "chance": 10
         }
       ]
     }
@@ -22556,21 +22556,6 @@
       "guild_points": 360,
       "items": [
         {
-          "item_id": 656,
-          "amount": 2,
-          "chance": 24
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 621,
-          "amount": 2,
-          "chance": 13
-        },
-        {
           "item_id": 158,
           "amount": 2,
           "chance": 13
@@ -22579,6 +22564,21 @@
           "item_id": 600,
           "amount": 2,
           "chance": 20
+        },
+        {
+          "item_id": 621,
+          "amount": 2,
+          "chance": 13
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 656,
+          "amount": 2,
+          "chance": 24
         }
       ]
     }
@@ -22665,19 +22665,14 @@
       "guild_points": 45,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -22690,9 +22685,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -22779,19 +22779,9 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -22804,9 +22794,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -22893,19 +22893,9 @@
       "guild_points": 231,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -22913,14 +22903,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -23007,26 +23007,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 657,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -23035,6 +23015,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 657,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -23121,19 +23121,19 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -23146,9 +23146,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -23235,19 +23235,14 @@
       "guild_points": 27,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -23260,9 +23255,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -23349,6 +23349,16 @@
       "guild_points": 264,
       "items": [
         {
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 439,
+          "amount": 2,
+          "chance": 15
+        },
+        {
           "item_id": 455,
           "amount": 1,
           "chance": 25
@@ -23359,24 +23369,14 @@
           "chance": 10
         },
         {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
           "item_id": 620,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 157,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 439,
+          "item_id": 624,
           "amount": 2,
-          "chance": 15
+          "chance": 20
         }
       ]
     }
@@ -23463,26 +23463,6 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 665,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 608,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -23491,6 +23471,26 @@
           "item_id": 439,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 25
         }
       ]
     }
@@ -23577,26 +23577,6 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 665,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 608,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -23605,6 +23585,26 @@
           "item_id": 439,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 608,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 665,
+          "amount": 1,
+          "chance": 25
         }
       ]
     }
@@ -23691,12 +23691,12 @@
       "guild_points": 165,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 602,
           "amount": 1,
           "chance": 25
         },
@@ -23706,14 +23706,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 602,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -23800,16 +23800,6 @@
       "guild_points": 75,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 156,
           "amount": 1,
           "chance": 15
@@ -23820,14 +23810,24 @@
           "chance": 15
         },
         {
-          "item_id": 664,
+          "item_id": 607,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 619,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 607,
+          "item_id": 623,
           "amount": 1,
-          "chance": 18
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 15
         }
       ]
     }
@@ -23918,19 +23918,9 @@
       "guild_points": 456,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -23943,12 +23933,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -24041,19 +24041,9 @@
       "guild_points": 456,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -24066,12 +24056,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -24160,12 +24160,12 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 26,
-          "amount": 2,
-          "chance": 22
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
         },
         {
-          "item_id": 67,
+          "item_id": 26,
           "amount": 2,
           "chance": 22
         },
@@ -24180,9 +24180,9 @@
           "chance": 22
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 12
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
         }
       ]
     }
@@ -24269,21 +24269,6 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
-          "amount": 2,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -24297,6 +24282,21 @@
           "item_id": 606,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 2,
+          "chance": 10
         }
       ]
     }
@@ -24383,21 +24383,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -24406,6 +24391,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -24492,12 +24492,17 @@
       "guild_points": 342,
       "items": [
         {
-          "item_id": 570,
+          "item_id": 158,
           "amount": 1,
-          "chance": 25
+          "chance": 10
         },
         {
-          "item_id": 625,
+          "item_id": 418,
+          "amount": 2,
+          "chance": 14
+        },
+        {
+          "item_id": 570,
           "amount": 1,
           "chance": 25
         },
@@ -24507,14 +24512,9 @@
           "chance": 10
         },
         {
-          "item_id": 158,
+          "item_id": 625,
           "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 418,
-          "amount": 2,
-          "chance": 14
+          "chance": 25
         },
         {
           "item_id": 656,
@@ -24606,21 +24606,6 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -24629,6 +24614,21 @@
           "item_id": 594,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -24715,12 +24715,12 @@
       "guild_points": 195,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 600,
           "amount": 1,
           "chance": 25
         },
@@ -24730,14 +24730,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 600,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -24824,19 +24824,9 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 490,
-          "amount": 3,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
+          "item_id": 62,
           "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -24844,14 +24834,24 @@
           "chance": 15
         },
         {
+          "item_id": 490,
+          "amount": 3,
+          "chance": 31
+        },
+        {
           "item_id": 579,
           "amount": 1,
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
         }
       ]
     }
@@ -24938,16 +24938,6 @@
       "guild_points": 50,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 156,
           "amount": 1,
           "chance": 15
@@ -24958,14 +24948,24 @@
           "chance": 15
         },
         {
-          "item_id": 664,
+          "item_id": 607,
+          "amount": 1,
+          "chance": 18
+        },
+        {
+          "item_id": 619,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 607,
+          "item_id": 623,
           "amount": 1,
-          "chance": 18
+          "chance": 22
+        },
+        {
+          "item_id": 664,
+          "amount": 1,
+          "chance": 15
         }
       ]
     }
@@ -25052,19 +25052,9 @@
       "guild_points": 487,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -25077,9 +25067,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -25166,19 +25166,9 @@
       "guild_points": 487,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -25191,9 +25181,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -25280,21 +25280,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -25303,6 +25288,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -25389,19 +25389,9 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -25409,14 +25399,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -25503,19 +25503,19 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -25528,9 +25528,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -25617,12 +25617,12 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 26,
-          "amount": 2,
-          "chance": 22
+          "item_id": 13,
+          "amount": 1,
+          "chance": 12
         },
         {
-          "item_id": 67,
+          "item_id": 26,
           "amount": 2,
           "chance": 22
         },
@@ -25637,9 +25637,9 @@
           "chance": 22
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 12
+          "item_id": 67,
+          "amount": 2,
+          "chance": 22
         }
       ]
     }
@@ -25726,12 +25726,12 @@
       "guild_points": 165,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 594,
           "amount": 1,
           "chance": 25
         },
@@ -25741,14 +25741,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 594,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -25835,12 +25835,12 @@
       "guild_points": 165,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 594,
           "amount": 1,
           "chance": 25
         },
@@ -25850,14 +25850,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 594,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -25944,19 +25944,14 @@
       "guild_points": 32,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -25969,9 +25964,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -26058,19 +26058,9 @@
       "guild_points": 324,
       "items": [
         {
-          "item_id": 656,
+          "item_id": 62,
           "amount": 1,
-          "chance": 31
-        },
-        {
-          "item_id": 625,
-          "amount": 1,
-          "chance": 25
-        },
-        {
-          "item_id": 621,
-          "amount": 1,
-          "chance": 15
+          "chance": 7
         },
         {
           "item_id": 158,
@@ -26083,9 +26073,19 @@
           "chance": 7
         },
         {
-          "item_id": 62,
+          "item_id": 621,
           "amount": 1,
-          "chance": 7
+          "chance": 15
+        },
+        {
+          "item_id": 625,
+          "amount": 1,
+          "chance": 25
+        },
+        {
+          "item_id": 656,
+          "amount": 1,
+          "chance": 31
         }
       ]
     }
@@ -26172,19 +26172,9 @@
       "guild_points": 247,
       "items": [
         {
-          "item_id": 658,
+          "item_id": 56,
           "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -26192,14 +26182,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
           "amount": 1,
-          "chance": 10
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 658,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -26286,26 +26286,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 655,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -26314,6 +26294,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 30
         }
       ]
     }
@@ -26400,12 +26400,12 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 594,
           "amount": 1,
           "chance": 25
         },
@@ -26415,14 +26415,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 594,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -26509,12 +26509,12 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 655,
+          "item_id": 156,
           "amount": 1,
-          "chance": 20
+          "chance": 15
         },
         {
-          "item_id": 624,
+          "item_id": 594,
           "amount": 1,
           "chance": 25
         },
@@ -26524,14 +26524,14 @@
           "chance": 15
         },
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 594,
+          "item_id": 624,
           "amount": 1,
           "chance": 25
+        },
+        {
+          "item_id": 655,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -26618,19 +26618,9 @@
       "guild_points": 5,
       "items": [
         {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 22
+          "item_id": 28,
+          "amount": 2,
+          "chance": 13
         },
         {
           "item_id": 54,
@@ -26648,9 +26638,19 @@
           "chance": 13
         },
         {
-          "item_id": 28,
-          "amount": 2,
-          "chance": 13
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -26737,21 +26737,6 @@
       "guild_points": 25,
       "items": [
         {
-          "item_id": 623,
-          "amount": 1,
-          "chance": 40
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 10
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 10
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 20
@@ -26760,6 +26745,21 @@
           "item_id": 59,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 10
+        },
+        {
+          "item_id": 623,
+          "amount": 1,
+          "chance": 40
         }
       ]
     }
@@ -26846,21 +26846,6 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
-          "amount": 2,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -26874,6 +26859,21 @@
           "item_id": 606,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 2,
+          "chance": 10
         }
       ]
     }
@@ -26960,21 +26960,6 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 655,
-          "amount": 2,
-          "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 157,
           "amount": 1,
           "chance": 15
@@ -26988,6 +26973,21 @@
           "item_id": 606,
           "amount": 1,
           "chance": 20
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
+        },
+        {
+          "item_id": 655,
+          "amount": 2,
+          "chance": 10
         }
       ]
     }
@@ -27074,7 +27074,12 @@
       "guild_points": 264,
       "items": [
         {
-          "item_id": 665,
+          "item_id": 157,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 598,
           "amount": 1,
           "chance": 20
         },
@@ -27084,22 +27089,17 @@
           "chance": 10
         },
         {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
           "item_id": 620,
           "amount": 1,
           "chance": 15
         },
         {
-          "item_id": 157,
-          "amount": 1,
-          "chance": 15
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
         },
         {
-          "item_id": 598,
+          "item_id": 665,
           "amount": 1,
           "chance": 20
         }
@@ -27188,19 +27188,14 @@
       "guild_points": 32,
       "items": [
         {
-          "item_id": 622,
-          "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
-        },
-        {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 2,
+          "chance": 14
         },
         {
           "item_id": 54,
@@ -27213,9 +27208,14 @@
           "chance": 17
         },
         {
-          "item_id": 28,
+          "item_id": 67,
           "amount": 2,
-          "chance": 14
+          "chance": 15
+        },
+        {
+          "item_id": 622,
+          "amount": 1,
+          "chance": 22
         }
       ]
     }
@@ -27306,19 +27306,9 @@
       "guild_points": 521,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -27331,12 +27321,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -27429,19 +27429,9 @@
       "guild_points": 521,
       "items": [
         {
-          "item_id": 659,
+          "item_id": 56,
           "amount": 1,
           "chance": 10
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 25
-        },
-        {
-          "item_id": 620,
-          "amount": 1,
-          "chance": 15
         },
         {
           "item_id": 157,
@@ -27454,12 +27444,22 @@
           "chance": 15
         },
         {
-          "item_id": 56,
+          "item_id": 589,
           "amount": 1,
           "chance": 10
         },
         {
-          "item_id": 589,
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 25
+        },
+        {
+          "item_id": 659,
           "amount": 1,
           "chance": 10
         }
@@ -27548,26 +27548,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 490,
-          "amount": 1,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 1,
-          "chance": 20
-        },
-        {
-          "item_id": 619,
-          "amount": 1,
-          "chance": 15
-        },
-        {
-          "item_id": 156,
-          "amount": 1,
-          "chance": 15
-        },
-        {
           "item_id": 55,
           "amount": 1,
           "chance": 10
@@ -27576,6 +27556,26 @@
           "item_id": 59,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 156,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 490,
+          "amount": 1,
+          "chance": 30
+        },
+        {
+          "item_id": 619,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 1,
+          "chance": 20
         }
       ]
     }
@@ -27662,19 +27662,19 @@
       "guild_points": 30,
       "items": [
         {
-          "item_id": 28,
+          "item_id": 13,
           "amount": 1,
-          "chance": 22
-        },
-        {
-          "item_id": 67,
-          "amount": 2,
-          "chance": 15
+          "chance": 14
         },
         {
           "item_id": 26,
           "amount": 2,
           "chance": 15
+        },
+        {
+          "item_id": 28,
+          "amount": 1,
+          "chance": 22
         },
         {
           "item_id": 53,
@@ -27687,9 +27687,9 @@
           "chance": 17
         },
         {
-          "item_id": 13,
-          "amount": 1,
-          "chance": 14
+          "item_id": 67,
+          "amount": 2,
+          "chance": 15
         }
       ]
     }
@@ -27776,19 +27776,9 @@
       "guild_points": 280,
       "items": [
         {
-          "item_id": 490,
-          "amount": 2,
-          "chance": 30
-        },
-        {
-          "item_id": 624,
-          "amount": 2,
-          "chance": 20
-        },
-        {
-          "item_id": 620,
+          "item_id": 56,
           "amount": 1,
-          "chance": 15
+          "chance": 10
         },
         {
           "item_id": 157,
@@ -27796,14 +27786,24 @@
           "chance": 15
         },
         {
-          "item_id": 56,
-          "amount": 1,
-          "chance": 10
+          "item_id": 490,
+          "amount": 2,
+          "chance": 30
         },
         {
           "item_id": 589,
           "amount": 1,
           "chance": 10
+        },
+        {
+          "item_id": 620,
+          "amount": 1,
+          "chance": 15
+        },
+        {
+          "item_id": 624,
+          "amount": 2,
+          "chance": 20
         }
       ]
     }

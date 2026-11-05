@@ -33,6 +33,10 @@ pub(super) fn load_reward_tables(config: &Config) -> anyhow::Result<RewardTables
         table.items.push(data);
     }
 
+    for table in &mut reward_tables.items {
+        table.items.sort_by_key(|v| v.item_id);
+    }
+
     let data: Vec<MissionRewardData> = Vec::read_file(config.data_path(MISSION_REWARD_DATA))?;
     let mut mission_data: HashMap<MissionId, MissionRewardData> = HashMap::new();
 
@@ -47,8 +51,6 @@ pub(super) fn load_reward_tables(config: &Config) -> anyhow::Result<RewardTables
             mission_data.insert(data.mission_id, data);
         }
     }
-
-    // let mission_data = data.into_iter().map(|v| (v.mission_id, v)).collect();
 
     let data: Vec<QuestRewardData> = Vec::read_file(config.data_path(QUEST_REWARD_DATA))?;
     let quest_data = data.into_iter().map(|v| (v.mission_id, v)).collect();
