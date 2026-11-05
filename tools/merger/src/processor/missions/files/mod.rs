@@ -1,6 +1,6 @@
 use crate::processor::missions::files::mission_data::MissionFile;
 use crate::processor::missions::files::quest_data::QuestFile;
-use crate::processor::missions::{MissionFileId, MissionId};
+use crate::processor::missions::{MissionFileId, MissionId, Rewards};
 use anyhow::Context;
 use rslib::config::Config;
 use std::collections::{HashMap, HashSet};
@@ -63,6 +63,14 @@ impl MissionFiles {
 
     pub fn is_ignored(&self) -> bool {
         self.mission.is_ignored()
+    }
+
+    pub fn rewards(&self) -> Rewards {
+        if let Some(quest) = &self.quest {
+            From::from(&quest.rewards)
+        } else {
+            Rewards::default()
+        }
     }
 }
 

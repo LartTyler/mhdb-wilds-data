@@ -5,8 +5,9 @@ use crate::processor::missions::files::MissionFiles;
 use crate::processor::missions::files::quest_data::{
     IconKind, QuestKind, QuestLevel, Requirements, TimeLimitMinutes,
 };
+use crate::processor::missions::rewards::ItemReward;
 use crate::processor::monsters::MonsterId;
-use crate::processor::{LanguageMap, Processor, WriteFile};
+use crate::processor::{GuildPoints, HunterRankPoints, LanguageMap, Processor, WriteFile, Zenny};
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
@@ -14,6 +15,7 @@ use serde::Serialize;
 
 mod activity_data;
 mod files;
+mod rewards;
 
 pub type MissionId = isize;
 pub type MissionFileId = String;
@@ -27,6 +29,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
 
     let mission_files = MissionFiles::load_all(config)?;
     let data = activity_data::load(config)?;
+    let reward_tables = rewards::load_reward_tables(config)?;
 
     let mut missions: Vec<Mission> = Vec::new();
 
@@ -52,14 +55,16 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             continue;
         }
 
+        let rewards = reward_tables.get_mission(data.mission_id());
         let mut mission = Mission {
-            id: data.mission_id(),
+            game_id: data.id,
             kind: data.mission_kind(),
             title: LanguageMap::new(),
             description: LanguageMap::new(),
             chapter: data.chapter,
             sort: index,
             objective: None,
+            rewards,
         };
 
         // Some missions store their translations all over the place. Since we have to load all
@@ -93,7 +98,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         missions.push(mission);
     }
 
-    missions.sort_by_key(|v| v.id);
+    missions.sort_by_key(|v| v.game_id);
     missions.write_file(config.io.output.join(OUTPUT))?;
 
     Ok(())
@@ -103,7 +108,7 @@ type SortValue = usize;
 
 #[derive(Debug, Serialize)]
 struct Mission {
-    id: MissionId,
+    game_id: MissionId,
     #[serde(flatten)]
     kind: MissionKind,
     #[serde(serialize_with = "ordered_map")]
@@ -113,6 +118,13 @@ struct Mission {
     chapter: Option<Chapter>,
     sort: SortValue,
     objective: Option<Objective>,
+    rewards: Option<Rewards>,
+}
+
+impl Mission {
+    fn needs_common_rewards(&self) -> bool {
+        self.kind.needs_common_rewards()
+    }
 }
 
 #[derive(Debug, Serialize)]
@@ -123,6 +135,12 @@ enum MissionKind {
     Extra(ExtraMission),
     Optional(OptionalMission),
     Assignment(AssignmentMission),
+}
+
+impl MissionKind {
+    fn needs_common_rewards(&self) -> bool {
+        !matches!(self, Self::Main(_) | Self::Side(_) | Self::Extra(_))
+    }
 }
 
 #[derive(Debug, Serialize)]
@@ -169,6 +187,32 @@ enum ObjectiveTarget {
 struct MonsterTarget {
     monster_id: MonsterId,
     count: usize,
+}
+
+#[derive(Debug, Serialize, Default)]
+struct Rewards {
+    zenny: Zenny,
+    hunter_rank_points: HunterRankPoints,
+    guild_points: GuildPoints,
+    items: Vec<ItemReward>,
+}
+
+impl Rewards {
+    fn is_empty(&self) -> bool {
+        self.zenny == 0
+            && self.hunter_rank_points == 0
+            && self.guild_points == 0
+            && self.items.is_empty()
+    }
+
+    fn into_option(self) -> Option<Self> {
+        if self.is_empty() { None } else { Some(self) }
+    }
+
+    fn with_items(mut self, items: Vec<ItemReward>) -> Self {
+        self.items = items;
+        self
+    }
 }
 
 fn load_placeholders(config: &Config, placeholders: &Placeholders) -> anyhow::Result<Placeholders> {

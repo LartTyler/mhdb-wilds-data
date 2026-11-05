@@ -122,6 +122,7 @@ pub trait GameId {
     fn get_game_id(&self) -> Self::Id;
 }
 
+#[derive(Debug)]
 pub struct FileObjects<V: GameId> {
     items: Vec<V>,
     lookup: LookupMap<V::Id>,

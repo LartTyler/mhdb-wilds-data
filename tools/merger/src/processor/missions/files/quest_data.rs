@@ -1,5 +1,5 @@
 use crate::processor::locations::StageId;
-use crate::processor::missions::{MissionFileId, MissionId, MonsterTarget, ObjectiveTarget};
+use crate::processor::missions::{MissionFileId, MissionId, MonsterTarget, ObjectiveTarget, Rewards};
 use crate::processor::monsters::MonsterId;
 use crate::processor::{
     Guid, GuildPoints, HunterRankPoints, HunterRankValue, MasterRankValue, Zenny,
@@ -29,7 +29,7 @@ pub struct QuestFile {
     #[serde(rename = "_TimeLimit")]
     pub time_limit_minutes: TimeLimitMinutes,
     #[serde(flatten)]
-    pub rewards: Rewards,
+    pub rewards: QuestRewards,
     #[serde(rename = "_IsSettingSupply")]
     pub has_supply: bool,
     #[serde(rename = "_SupplyID")]
@@ -111,15 +111,26 @@ pub struct Requirements {
 }
 
 #[derive(Debug, Deserialize, Serialize)]
-pub struct Rewards {
+pub struct QuestRewards {
     #[serde(rename(deserialize = "_RemMoney"))]
-    zenny: Zenny,
+    pub zenny: Zenny,
     #[serde(rename(deserialize = "_HRPoint"))]
-    hunter_rank_points: HunterRankPoints,
+    pub hunter_rank_points: HunterRankPoints,
 
     // TODO I have no idea if this is right, but I can't think of what else "AddPoint" could mean.
     #[serde(rename(deserialize = "_AddPoint"))]
-    guild_points: GuildPoints,
+    pub guild_points: GuildPoints,
+}
+
+impl From<&QuestRewards> for Rewards {
+    fn from(value: &QuestRewards) -> Self {
+        Self {
+            zenny: value.zenny,
+            hunter_rank_points: value.hunter_rank_points,
+            guild_points: value.guild_points,
+            items: Vec::new(),
+        }
+    }
 }
 
 #[derive(Debug, Deserialize)]

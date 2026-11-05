@@ -65,8 +65,21 @@ where
     }
 }
 
-pub trait Zero {
-    fn is_zero(&self) -> bool;
+pub fn until_first_zero<'de, D, T>(deserializer: D) -> Result<Vec<T>, D::Error>
+where
+    D: Deserializer<'de>,
+    T: Zero + Deserialize<'de>,
+{
+    let value: Vec<T> = Vec::deserialize(deserializer)?;
+    Ok(value.into_iter().take_while(|v| !v.is_zero()).collect())
+}
+
+pub trait Zero: Sized + PartialEq {
+    fn zero() -> Self;
+
+    fn is_zero(&self) -> bool {
+        *self == Self::zero()
+    }
 }
 
 macro_rules! impl_zero {
@@ -75,7 +88,7 @@ macro_rules! impl_zero {
     ) => {
         $(
             impl Zero for $ty {
-                fn is_zero(&self) -> bool { *self == 0 }
+                fn zero() -> Self { 0 }
             }
         )*
     };
@@ -91,18 +104,11 @@ pub trait Negative {
     fn is_negative(&self) -> bool;
 }
 
-macro_rules! impl_negative {
-    (
-        $( $ty:ident $(,)? )+
-    ) => {
-        $(
-            impl Negative for $ty {
-                fn is_negative(&self) -> bool { *self < 0 }
-            }
-        )*
-    };
-}
-
-impl_negative! {
-    i8,
+impl<T> Negative for T
+where
+    T: Zero + PartialOrd,
+{
+    fn is_negative(&self) -> bool {
+        *self < Self::zero()
+    }
 }

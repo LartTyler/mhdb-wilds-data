@@ -122,6 +122,7 @@ files = [
     "Mission/_UserData/QuestOpenData.user.3",
     "Mission/_UserData/_Reward/CommonRewardData.user.3",
     "Mission/_UserData/_Reward/QuestRewardSetting.user.3",
+    "Mission/_UserData/_Reward/MissionRewardData.user.3",
 ]
 
 [[user.targets.transform]]

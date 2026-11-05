@@ -13,7 +13,7 @@ pub fn load(config: &Config) -> anyhow::Result<Vec<ActivityData>> {
     Vec::read_file(config.io.output.join(DATA_PATH)).context("Could not load activity data")
 }
 
-pub type MissionIdSerial = u16;
+pub type MissionIdSerial = MissionId;
 pub type ChapterId = i8;
 
 #[derive(Debug, Deserialize)]
@@ -80,9 +80,9 @@ impl ActivityMission {
     pub fn is_empty(&self) -> bool {
         self.objectives.is_empty()
             || self
-                .objectives
-                .iter()
-                .all(ActivityMissionObjective::is_empty)
+            .objectives
+            .iter()
+            .all(ActivityMissionObjective::is_empty)
     }
 }
 
