@@ -1,5 +1,7 @@
 use crate::processor::locations::StageId;
-use crate::processor::missions::{MissionFileId, MissionId, MonsterTarget, ObjectiveTarget, Rewards};
+use crate::processor::missions::{
+    MissionFileId, MissionId, MonsterTarget, ObjectiveTarget, Rewards,
+};
 use crate::processor::monsters::MonsterId;
 use crate::processor::{
     Guid, GuildPoints, HunterRankPoints, HunterRankValue, MasterRankValue, Zenny,
@@ -40,7 +42,7 @@ pub struct QuestFile {
     #[serde(rename = "_Stage")]
     pub stage_id: StageId,
     #[serde(rename = "_QuestMsg")]
-    text: TextBlock,
+    pub text: TextBlock,
     #[serde(rename = "_ClearCondition")]
     clear_condition: ClearCondition,
 }
@@ -139,11 +141,11 @@ impl From<&QuestRewards> for Rewards {
 #[derive(Debug, Deserialize)]
 pub struct TextBlock {
     #[serde(rename = "_TitleMsg")]
-    title: Guid,
+    pub title: Guid,
     #[serde(rename = "_ClientNameMsg")]
-    client_name: Guid,
+    pub client_name: Guid,
     #[serde(rename = "_DetailMsg")]
-    details: Guid,
+    pub description: Guid,
 }
 
 #[derive(Debug, Deserialize)]
@@ -159,18 +161,18 @@ struct ClearCondition {
 #[repr(u8)]
 enum ConditionKind {
     Hunt = 1,
-    #[serde(alias = 6)]
     Kill,
     Capture,
     BreakPart,
     Weaken,
+    KillSmallMonster,
     Collect,
 }
 
 impl ConditionKind {
     fn is_monster_target(&self) -> bool {
         use ConditionKind::*;
-        matches!(self, Hunt | Kill | Capture | BreakPart | Weaken)
+        matches!(self, Hunt | Kill | KillSmallMonster | Capture | BreakPart | Weaken)
     }
 }
 

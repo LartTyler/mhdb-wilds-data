@@ -68,9 +68,9 @@ impl ActivityMission {
     pub fn is_empty(&self) -> bool {
         self.objectives.is_empty()
             || self
-            .objectives
-            .iter()
-            .all(ActivityMissionObjective::is_empty)
+                .objectives
+                .iter()
+                .all(ActivityMissionObjective::is_empty)
     }
 }
 

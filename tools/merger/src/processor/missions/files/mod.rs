@@ -65,6 +65,8 @@ impl MissionFiles {
         self.mission.is_ignored()
     }
 
+    pub fn can_have_assignment(&self) -> bool { self.mission.can_have_assignment() }
+
     pub fn rewards(&self) -> Rewards {
         if let Some(quest) = &self.quest {
             From::from(&quest.rewards)

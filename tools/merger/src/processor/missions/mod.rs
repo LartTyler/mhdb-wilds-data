@@ -1,9 +1,12 @@
 use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
-use crate::processor::missions::activity_data::Chapter;
+use crate::processor::missions::activity_data::{ActivityData, Chapter};
 use crate::processor::missions::files::MissionFiles;
-use crate::processor::missions::files::quest_data::{IconKind, QuestKind, QuestLevel, QuestLives, Requirements, TimeLimitMinutes};
+use crate::processor::missions::files::quest_data::{
+    IconKind, QuestKind, QuestLevel, QuestLives, Requirements, TimeLimitMinutes,
+};
 use crate::processor::missions::rewards::ItemReward;
+use crate::processor::missions::sort_data::SortData;
 use crate::processor::monsters::MonsterId;
 use crate::processor::{GuildPoints, HunterRankPoints, LanguageMap, Processor, WriteFile, Zenny};
 use crate::serde::ordered_map;
@@ -14,6 +17,7 @@ use serde::Serialize;
 mod activity_data;
 mod files;
 mod rewards;
+mod sort_data;
 
 pub type MissionId = isize;
 pub type MissionFileId = String;
@@ -30,6 +34,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
     let reward_tables = rewards::load_reward_tables(config)?;
 
     let mut missions: Vec<Mission> = Vec::new();
+    let mut assignment_queue: Vec<SortData> = Vec::new();
 
     // Initial pass handles main, side, and extra missions. Any QuestData files belonging to one of
     // these missions needs to be created as a standalone assignment (in addition to defining
@@ -43,23 +48,24 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             continue;
         }
 
-        let Some(files) = mission_files.get(&data.mission_id()) else {
-            log::warn!("Skipping {}, no mission files found", data.mission_id());
+        let mission_id = data.mission_id();
+        let Some(files) = mission_files.get(&mission_id) else {
+            log::warn!("Skipping {}, no mission files found", mission_id);
             continue;
         };
 
         if files.is_ignored() {
-            log::trace!("Skipping {}, mission is marked ignored", data.mission_id());
+            log::trace!("Skipping {}, mission is marked ignored", mission_id);
             continue;
         }
 
-        let rewards = reward_tables.get_mission(data.mission_id());
+        let rewards = reward_tables.get_mission(mission_id);
 
         let mut tasks: Vec<Task> = Vec::new();
 
-        for mission in data.missions {
-            for objective in mission.objectives {
-                for task_data in objective.tasks {
+        for mission in &data.missions {
+            for objective in &mission.objectives {
+                for task_data in &objective.tasks {
                     let mut task = Task::default();
                     placeholders.find_and_apply(&task_data.text_guid, &mut task.label)?;
 
@@ -68,17 +74,10 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             }
         }
 
-        let mission_kind = if data.side_mission {
-            MissionKind::Side(SideStoryMission { tasks })
-        } else if data.extra_mission {
-            MissionKind::Extra(ExtraMission { tasks })
-        } else {
-            MissionKind::Main(MainStoryMission { tasks })
-        };
-
+        let activity = ActivityMission::new(tasks).for_activity(&data);
         let mut mission = Mission {
             game_id: data.id,
-            kind: mission_kind,
+            kind: activity,
             title: LanguageMap::new(),
             description: LanguageMap::new(),
             chapter: data.chapter,
@@ -93,30 +92,89 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         placeholders.find_and_apply(&data.title_guid, &mut mission.title)?;
         placeholders.find_and_apply(&data.description_guid, &mut mission.description)?;
 
-        let quest = files.quest.as_ref().or_else(|| {
-            mission_files.values().find_map(|v| {
-                if let Some(id) = v.mission.referenced_mission_id
-                    && id == files.mission.id
-                {
-                    v.quest.as_ref()
+        let quest = if let Some(quest) = files.quest.as_ref() {
+            Some((quest, mission_id))
+        } else {
+            log::trace!("Searching referenced IDs in mission files for {mission_id}'s quest file.");
+
+            mission_files.values().find_map(|other_files| {
+                let ref_id = other_files.mission.referenced_mission_id?;
+
+                if ref_id == mission_id {
+                    let other_mission_id = other_files.mission.id;
+                    log::trace!("Found! {mission_id} is referenced by {}", other_mission_id);
+
+                    other_files.quest.as_ref().map(|quest| (quest, other_mission_id))
                 } else {
                     None
                 }
             })
-        });
+        };
 
-        if let Some(quest) = quest {
+        if let Some((quest, quest_mission_id)) = quest {
             let objective = Objective {
                 kind: quest.kind,
                 requirements: quest.requirements.clone(),
                 target: quest.objective_target(),
-                time_limit_minutes: quest.time_limit_minutes,
-                lives: quest.lives,
-                level: quest.level,
             };
 
             mission.objective = Some(objective);
+
+            assignment_queue.push(SortData {
+                mission_id: quest_mission_id,
+                order: index,
+            });
         }
+
+        missions.push(mission);
+    }
+
+    let mut other_missions = sort_data::load(config)?;
+    other_missions.append(&mut assignment_queue);
+
+    for SortData { mission_id, order } in other_missions {
+        let Some(files) = mission_files.get(&mission_id) else {
+            log::warn!("Skipping {mission_id}, no mission files found");
+            continue;
+        };
+
+        let Some(quest) = files.quest.as_ref() else {
+            log::warn!("Skipping {mission_id}, no quest data found");
+            continue;
+        };
+
+        let mut quest_mission = QuestMission {
+            client_name: LanguageMap::new(),
+            lives: quest.lives,
+            time_limit_minutes: quest.time_limit_minutes,
+            icon: quest.icon,
+            level: quest.level,
+        };
+
+        placeholders.find_and_apply(&quest.text.client_name, &mut quest_mission.client_name)?;
+
+        let mut mission = Mission {
+            game_id: mission_id,
+            kind: quest_mission.for_quest(files),
+            sort: order,
+            title: LanguageMap::new(),
+            description: LanguageMap::new(),
+            chapter: None,
+            rewards: Some(Rewards {
+                zenny: quest.rewards.zenny,
+                hunter_rank_points: quest.rewards.hunter_rank_points,
+                guild_points: quest.rewards.guild_points,
+                items: reward_tables.get_quest_items(mission_id),
+            }),
+            objective: Some(Objective {
+                kind: quest.kind,
+                target: quest.objective_target(),
+                requirements: quest.requirements.clone(),
+            }),
+        };
+
+        placeholders.find_and_apply(&quest.text.title, &mut mission.title)?;
+        placeholders.find_and_apply(&quest.text.description, &mut mission.description)?;
 
         missions.push(mission);
     }
@@ -144,47 +202,74 @@ struct Mission {
     rewards: Option<Rewards>,
 }
 
+impl Mission {
+    fn assignment(game_id: MissionId, kind: MissionKind) -> Self {
+        Self {
+            game_id,
+            kind,
+            title: LanguageMap::new(),
+            description: LanguageMap::new(),
+            chapter: None,
+            sort: 0,
+            objective: None,
+            rewards: None,
+        }
+    }
+}
+
 #[derive(Debug, Serialize)]
 #[serde(rename_all = "kebab-case", tag = "kind")]
 enum MissionKind {
-    Main(MainStoryMission),
-    Side(SideStoryMission),
-    Extra(ExtraMission),
-    Optional(OptionalMission),
-    Assignment(AssignmentMission),
+    Main(ActivityMission),
+    Side(ActivityMission),
+    Extra(ActivityMission),
+    Optional(QuestMission),
+    Assignment(QuestMission),
 }
 
 #[derive(Debug, Serialize)]
-struct MainStoryMission {
+struct ActivityMission {
     tasks: Vec<Task>,
 }
 
-#[derive(Debug, Serialize)]
-struct SideStoryMission {
-    tasks: Vec<Task>,
+impl ActivityMission {
+    fn new(tasks: Vec<Task>) -> Self {
+        Self { tasks }
+    }
+
+    fn for_activity(self, data: &ActivityData) -> MissionKind {
+        let kind = if data.extra_mission {
+            MissionKind::Extra
+        } else if data.side_mission {
+            MissionKind::Side
+        } else {
+            MissionKind::Main
+        };
+
+        kind(self)
+    }
 }
 
 #[derive(Debug, Serialize)]
-struct ExtraMission {
-    tasks: Vec<Task>,
-}
-
-#[derive(Debug, Serialize)]
-struct OptionalMission {
+struct QuestMission {
     #[serde(serialize_with = "ordered_map")]
     client_name: LanguageMap,
     level: QuestLevel,
     icon: IconKind,
-    time_limit: TimeLimitMinutes,
+    time_limit_minutes: TimeLimitMinutes,
+    lives: QuestLives,
 }
 
-#[derive(Debug, Serialize)]
-struct AssignmentMission {
-    #[serde(serialize_with = "ordered_map")]
-    client_name: LanguageMap,
-    level: QuestLevel,
-    icon: IconKind,
-    time_limit: TimeLimitMinutes,
+impl QuestMission {
+    fn for_quest(self, files: &MissionFiles) -> MissionKind {
+        let kind = if files.mission.can_have_assignment() {
+            MissionKind::Assignment
+        } else {
+            MissionKind::Optional
+        };
+
+        kind(self)
+    }
 }
 
 #[derive(Debug, Default, Serialize)]
@@ -197,9 +282,6 @@ struct Task {
 struct Objective {
     kind: QuestKind,
     requirements: Requirements,
-    time_limit_minutes: TimeLimitMinutes,
-    level: QuestLevel,
-    lives: QuestLives,
     target: ObjectiveTarget,
 }
 

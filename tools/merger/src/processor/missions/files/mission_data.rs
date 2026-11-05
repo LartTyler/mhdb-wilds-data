@@ -44,6 +44,8 @@ impl MissionFile {
     pub fn is_ignored(&self) -> bool {
         self.kind.is_ignored()
     }
+
+    pub fn can_have_assignment(&self) -> bool { self.kind.can_have_assignment() }
 }
 
 #[derive(Debug, Deserialize)]
@@ -78,5 +80,9 @@ impl MissionKindCode {
             self,
             Self::Tutorial | Self::Tournament | Self::Instant | Self::Keep
         )
+    }
+
+    pub fn can_have_assignment(&self) -> bool {
+        matches!(self, Self::MainStory | Self::SideStory)
     }
 }
