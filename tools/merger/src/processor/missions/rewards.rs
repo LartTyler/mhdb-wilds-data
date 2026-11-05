@@ -131,12 +131,6 @@ impl From<(&ItemId, &u8)> for ItemReward {
     }
 }
 
-#[derive(Debug)]
-enum RewardData {
-    Mission(MissionRewardData),
-    Quest(QuestRewardData),
-}
-
 #[derive(Debug, Deserialize)]
 struct MissionRewardData {
     #[serde(rename = "_MissonId")]
@@ -197,22 +191,10 @@ impl From<&MissionRewardData> for Rewards {
     }
 }
 
-impl From<MissionRewardData> for RewardData {
-    fn from(value: MissionRewardData) -> Self {
-        Self::Mission(value)
-    }
-}
-
 #[derive(Debug, Deserialize)]
 struct QuestRewardData {
     #[serde(rename = "_missionID")]
     mission_id: MissionId,
     #[serde(rename = "_commonRewardTableId")]
     table_id: RewardTableId,
-}
-
-impl From<QuestRewardData> for RewardData {
-    fn from(value: QuestRewardData) -> Self {
-        Self::Quest(value)
-    }
 }
