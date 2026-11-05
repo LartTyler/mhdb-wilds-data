@@ -2,9 +2,7 @@ use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
 use crate::processor::missions::activity_data::Chapter;
 use crate::processor::missions::files::MissionFiles;
-use crate::processor::missions::files::quest_data::{
-    IconKind, QuestKind, QuestLevel, Requirements, TimeLimitMinutes,
-};
+use crate::processor::missions::files::quest_data::{IconKind, QuestKind, QuestLevel, QuestLives, Requirements, TimeLimitMinutes};
 use crate::processor::missions::rewards::ItemReward;
 use crate::processor::monsters::MonsterId;
 use crate::processor::{GuildPoints, HunterRankPoints, LanguageMap, Processor, WriteFile, Zenny};
@@ -112,6 +110,9 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
                 kind: quest.kind,
                 requirements: quest.requirements.clone(),
                 target: quest.objective_target(),
+                time_limit_minutes: quest.time_limit_minutes,
+                lives: quest.lives,
+                level: quest.level,
             };
 
             mission.objective = Some(objective);
@@ -196,6 +197,9 @@ struct Task {
 struct Objective {
     kind: QuestKind,
     requirements: Requirements,
+    time_limit_minutes: TimeLimitMinutes,
+    level: QuestLevel,
+    lives: QuestLives,
     target: ObjectiveTarget,
 }
 

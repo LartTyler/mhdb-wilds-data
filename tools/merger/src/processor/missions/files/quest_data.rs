@@ -11,6 +11,7 @@ use std::fs::File;
 use std::path::Path;
 
 pub type QuestLevel = u8;
+pub type QuestLives = u8;
 pub type TimeLimitMinutes = u8;
 pub type SupplyId = isize;
 
@@ -28,6 +29,8 @@ pub struct QuestFile {
     pub requirements: Requirements,
     #[serde(rename = "_TimeLimit")]
     pub time_limit_minutes: TimeLimitMinutes,
+    #[serde(rename = "_QuestLife")]
+    pub lives: QuestLives,
     #[serde(flatten)]
     pub rewards: QuestRewards,
     #[serde(rename = "_IsSettingSupply")]

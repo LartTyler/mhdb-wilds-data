@@ -201,6 +201,9 @@
         "max_players": 4,
         "hunter_rank": 1
       },
+      "time_limit_minutes": 50,
+      "level": 1,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -217,7 +220,7 @@
       "guild_points": 10,
       "items": [
         {
-          "item_id": 85,
+          "item_id": 5,
           "amount": 3,
           "chance": 100
         },
@@ -227,7 +230,7 @@
           "chance": 100
         },
         {
-          "item_id": 5,
+          "item_id": 85,
           "amount": 3,
           "chance": 100
         }
@@ -995,6 +998,9 @@
         "max_players": 4,
         "hunter_rank": 2
       },
+      "time_limit_minutes": 50,
+      "level": 1,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -1256,6 +1262,9 @@
         "max_players": 4,
         "hunter_rank": 2
       },
+      "time_limit_minutes": 50,
+      "level": 1,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -1441,6 +1450,9 @@
         "max_players": 4,
         "hunter_rank": 3
       },
+      "time_limit_minutes": 50,
+      "level": 2,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -1850,6 +1862,9 @@
         "max_players": 4,
         "hunter_rank": 3
       },
+      "time_limit_minutes": 50,
+      "level": 2,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -1866,11 +1881,6 @@
       "guild_points": 20,
       "items": [
         {
-          "item_id": 213,
-          "amount": 3,
-          "chance": 100
-        },
-        {
           "item_id": 13,
           "amount": 10,
           "chance": 100
@@ -1878,6 +1888,11 @@
         {
           "item_id": 127,
           "amount": 10,
+          "chance": 100
+        },
+        {
+          "item_id": 213,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -2170,6 +2185,9 @@
         "max_players": 4,
         "hunter_rank": 4
       },
+      "time_limit_minutes": 50,
+      "level": 2,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -2374,6 +2392,9 @@
         "max_players": 4,
         "hunter_rank": 4
       },
+      "time_limit_minutes": 50,
+      "level": 2,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -2673,6 +2694,9 @@
         "max_players": 4,
         "hunter_rank": 5
       },
+      "time_limit_minutes": 50,
+      "level": 3,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -2858,6 +2882,9 @@
         "max_players": 4,
         "hunter_rank": 5
       },
+      "time_limit_minutes": 50,
+      "level": 3,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -2874,8 +2901,8 @@
       "guild_points": 30,
       "items": [
         {
-          "item_id": 623,
-          "amount": 5,
+          "item_id": 3,
+          "amount": 10,
           "chance": 100
         },
         {
@@ -2884,8 +2911,8 @@
           "chance": 100
         },
         {
-          "item_id": 3,
-          "amount": 10,
+          "item_id": 623,
+          "amount": 5,
           "chance": 100
         }
       ]
@@ -3206,6 +3233,9 @@
         "max_players": 4,
         "hunter_rank": 6
       },
+      "time_limit_minutes": 50,
+      "level": 3,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3372,6 +3402,9 @@
         "max_players": 4,
         "hunter_rank": 6
       },
+      "time_limit_minutes": 50,
+      "level": 3,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3388,8 +3421,8 @@
       "guild_points": 40,
       "items": [
         {
-          "item_id": 219,
-          "amount": 3,
+          "item_id": 3,
+          "amount": 20,
           "chance": 100
         },
         {
@@ -3398,8 +3431,8 @@
           "chance": 100
         },
         {
-          "item_id": 3,
-          "amount": 20,
+          "item_id": 219,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -3540,6 +3573,9 @@
         "max_players": 4,
         "hunter_rank": 7
       },
+      "time_limit_minutes": 50,
+      "level": 3,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3626,6 +3662,9 @@
         "max_players": 4,
         "hunter_rank": 8
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3642,8 +3681,8 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 223,
-          "amount": 3,
+          "item_id": 20,
+          "amount": 5,
           "chance": 100
         },
         {
@@ -3652,8 +3691,8 @@
           "chance": 100
         },
         {
-          "item_id": 20,
-          "amount": 5,
+          "item_id": 223,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -3785,6 +3824,9 @@
         "max_players": 4,
         "hunter_rank": 8
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3932,6 +3974,9 @@
         "max_players": 4,
         "hunter_rank": 15
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -3948,8 +3993,8 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 418,
-          "amount": 3,
+          "item_id": 12,
+          "amount": 30,
           "chance": 100
         },
         {
@@ -3958,8 +4003,8 @@
           "chance": 100
         },
         {
-          "item_id": 12,
-          "amount": 30,
+          "item_id": 418,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -4072,6 +4117,9 @@
         "max_players": 4,
         "hunter_rank": 15
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -4219,6 +4267,9 @@
         "max_players": 4,
         "hunter_rank": 20
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -4239,6 +4290,11 @@
       "guild_points": 200,
       "items": [
         {
+          "item_id": 3,
+          "amount": 20,
+          "chance": 100
+        },
+        {
           "item_id": 159,
           "amount": 3,
           "chance": 100
@@ -4246,11 +4302,6 @@
         {
           "item_id": 439,
           "amount": 5,
-          "chance": 100
-        },
-        {
-          "item_id": 3,
-          "amount": 20,
           "chance": 100
         }
       ]
@@ -4401,6 +4452,9 @@
         "max_players": 4,
         "hunter_rank": 20
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -4421,6 +4475,11 @@
       "guild_points": 200,
       "items": [
         {
+          "item_id": 3,
+          "amount": 20,
+          "chance": 100
+        },
+        {
           "item_id": 159,
           "amount": 3,
           "chance": 100
@@ -4428,11 +4487,6 @@
         {
           "item_id": 439,
           "amount": 5,
-          "chance": 100
-        },
-        {
-          "item_id": 3,
-          "amount": 20,
           "chance": 100
         }
       ]
@@ -4696,6 +4750,9 @@
         "max_players": 4,
         "hunter_rank": 30
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -4778,8 +4835,8 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 579,
-          "amount": 1,
+          "item_id": 3,
+          "amount": 30,
           "chance": 100
         },
         {
@@ -4788,8 +4845,8 @@
           "chance": 100
         },
         {
-          "item_id": 3,
-          "amount": 30,
+          "item_id": 579,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -5092,6 +5149,9 @@
         "max_players": 4,
         "hunter_rank": 30
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -5239,6 +5299,9 @@
         "max_players": 4,
         "hunter_rank": 40
       },
+      "time_limit_minutes": 50,
+      "level": 7,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -5363,6 +5426,9 @@
         "max_players": 4,
         "hunter_rank": 40
       },
+      "time_limit_minutes": 50,
+      "level": 7,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -5652,13 +5718,13 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 6,
-          "amount": 3,
+          "item_id": 5,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 5,
-          "amount": 5,
+          "item_id": 6,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -5749,6 +5815,9 @@
         "max_players": 2,
         "hunter_rank": 9
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -5857,6 +5926,9 @@
         "max_players": 2,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -5966,12 +6038,12 @@
       "guild_points": 20,
       "items": [
         {
-          "item_id": 272,
+          "item_id": 28,
           "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
+          "item_id": 272,
           "amount": 5,
           "chance": 100
         }
@@ -6064,13 +6136,13 @@
       "guild_points": 50,
       "items": [
         {
-          "item_id": 271,
-          "amount": 3,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 271,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -6162,13 +6234,13 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 226,
-          "amount": 3,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 226,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -6260,12 +6332,12 @@
       "guild_points": 200,
       "items": [
         {
-          "item_id": 640,
+          "item_id": 28,
           "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
+          "item_id": 640,
           "amount": 5,
           "chance": 100
         }
@@ -6363,11 +6435,6 @@
           "chance": 100
         },
         {
-          "item_id": 640,
-          "amount": 3,
-          "chance": 100
-        },
-        {
           "item_id": 271,
           "amount": 2,
           "chance": 100
@@ -6375,6 +6442,11 @@
         {
           "item_id": 272,
           "amount": 5,
+          "chance": 100
+        },
+        {
+          "item_id": 640,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -6559,13 +6631,13 @@
       "guild_points": 50,
       "items": [
         {
-          "item_id": 67,
-          "amount": 10,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 67,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -6657,13 +6729,13 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 126,
-          "amount": 10,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 126,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -6755,13 +6827,13 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 66,
-          "amount": 10,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 66,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -6853,13 +6925,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 125,
-          "amount": 10,
+          "item_id": 28,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 5,
+          "item_id": 125,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -6951,13 +7023,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 223,
-          "amount": 5,
+          "item_id": 28,
+          "amount": 10,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 10,
+          "item_id": 223,
+          "amount": 5,
           "chance": 100
         }
       ]
@@ -7142,13 +7214,13 @@
       "guild_points": 100,
       "items": [
         {
-          "item_id": 214,
-          "amount": 1,
+          "item_id": 56,
+          "amount": 3,
           "chance": 100
         },
         {
-          "item_id": 56,
-          "amount": 3,
+          "item_id": 214,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -7239,6 +7311,9 @@
         "max_players": 4,
         "hunter_rank": 9
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -7548,6 +7623,9 @@
         "max_players": 4,
         "hunter_rank": 16
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -7661,6 +7739,9 @@
         "max_players": 4,
         "hunter_rank": 16
       },
+      "time_limit_minutes": 50,
+      "level": 4,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -7681,11 +7762,6 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 624,
-          "amount": 8,
-          "chance": 100
-        },
-        {
           "item_id": 177,
           "amount": 5,
           "chance": 100
@@ -7693,6 +7769,11 @@
         {
           "item_id": 227,
           "amount": 3,
+          "chance": 100
+        },
+        {
+          "item_id": 624,
+          "amount": 8,
           "chance": 100
         }
       ]
@@ -7783,6 +7864,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -7994,6 +8078,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8107,6 +8194,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8123,13 +8213,13 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 474,
-          "amount": 10,
+          "item_id": 253,
+          "amount": 1,
           "chance": 100
         },
         {
-          "item_id": 253,
-          "amount": 1,
+          "item_id": 474,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -8220,6 +8310,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8236,13 +8329,13 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 197,
-          "amount": 10,
+          "item_id": 176,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 176,
-          "amount": 5,
+          "item_id": 197,
+          "amount": 10,
           "chance": 100
         }
       ]
@@ -8333,6 +8426,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8349,13 +8445,13 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 222,
-          "amount": 1,
+          "item_id": 178,
+          "amount": 10,
           "chance": 100
         },
         {
-          "item_id": 178,
-          "amount": 10,
+          "item_id": 222,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -8446,6 +8542,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8466,17 +8565,17 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 625,
-          "amount": 3,
-          "chance": 100
-        },
-        {
           "item_id": 173,
           "amount": 5,
           "chance": 100
         },
         {
           "item_id": 225,
+          "amount": 3,
+          "chance": 100
+        },
+        {
+          "item_id": 625,
           "amount": 3,
           "chance": 100
         }
@@ -8568,6 +8667,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8588,13 +8690,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 214,
-          "amount": 3,
+          "item_id": 32,
+          "amount": 20,
           "chance": 100
         },
         {
-          "item_id": 32,
-          "amount": 20,
+          "item_id": 214,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -8685,6 +8787,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8705,13 +8810,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 216,
-          "amount": 3,
+          "item_id": 28,
+          "amount": 30,
           "chance": 100
         },
         {
-          "item_id": 28,
-          "amount": 30,
+          "item_id": 216,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -8802,6 +8907,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8822,13 +8930,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 218,
-          "amount": 3,
+          "item_id": 129,
+          "amount": 10,
           "chance": 100
         },
         {
-          "item_id": 129,
-          "amount": 10,
+          "item_id": 218,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -8919,6 +9027,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -8939,13 +9050,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 220,
-          "amount": 3,
+          "item_id": 6,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 6,
-          "amount": 5,
+          "item_id": 220,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -9036,6 +9147,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -9056,13 +9170,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 222,
-          "amount": 3,
+          "item_id": 178,
+          "amount": 10,
           "chance": 100
         },
         {
-          "item_id": 178,
-          "amount": 10,
+          "item_id": 222,
+          "amount": 3,
           "chance": 100
         }
       ]
@@ -9242,8 +9356,8 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 579,
-          "amount": 1,
+          "item_id": 3,
+          "amount": 30,
           "chance": 100
         },
         {
@@ -9252,8 +9366,8 @@
           "chance": 100
         },
         {
-          "item_id": 3,
-          "amount": 30,
+          "item_id": 579,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -9328,6 +9442,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -9344,8 +9461,8 @@
       "guild_points": 150,
       "items": [
         {
-          "item_id": 685,
-          "amount": 5,
+          "item_id": 226,
+          "amount": 10,
           "chance": 100
         },
         {
@@ -9354,8 +9471,8 @@
           "chance": 100
         },
         {
-          "item_id": 226,
-          "amount": 10,
+          "item_id": 685,
+          "amount": 5,
           "chance": 100
         }
       ]
@@ -9430,6 +9547,9 @@
         "max_players": 4,
         "hunter_rank": 50
       },
+      "time_limit_minutes": 50,
+      "level": 8,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -9639,13 +9759,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 650,
-          "amount": 1,
+          "item_id": 12,
+          "amount": 10,
           "chance": 100
         },
         {
-          "item_id": 12,
-          "amount": 10,
+          "item_id": 650,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -9739,6 +9859,9 @@
         "max_players": 4,
         "hunter_rank": 50
       },
+      "time_limit_minutes": 50,
+      "level": 8,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -9839,6 +9962,9 @@
         "max_players": 4,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10012,6 +10138,9 @@
         "max_players": 1,
         "hunter_rank": 21
       },
+      "time_limit_minutes": 50,
+      "level": 5,
+      "lives": 9,
       "target": {
         "kind": "monster",
         "values": [
@@ -10114,6 +10243,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10311,6 +10443,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10392,6 +10527,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10508,6 +10646,9 @@
         "max_players": 4,
         "hunter_rank": 31
       },
+      "time_limit_minutes": 50,
+      "level": 6,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10687,6 +10828,9 @@
         "max_players": 4,
         "hunter_rank": 41
       },
+      "time_limit_minutes": 50,
+      "level": 7,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10841,6 +10985,9 @@
         "max_players": 4,
         "hunter_rank": 41
       },
+      "time_limit_minutes": 50,
+      "level": 7,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10922,6 +11069,9 @@
         "max_players": 4,
         "hunter_rank": 41
       },
+      "time_limit_minutes": 50,
+      "level": 8,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -10938,6 +11088,11 @@
       "guild_points": 500,
       "items": [
         {
+          "item_id": 579,
+          "amount": 1,
+          "chance": 100
+        },
+        {
           "item_id": 654,
           "amount": 3,
           "chance": 100
@@ -10945,11 +11100,6 @@
         {
           "item_id": 669,
           "amount": 5,
-          "chance": 100
-        },
-        {
-          "item_id": 579,
-          "amount": 1,
           "chance": 100
         }
       ]
@@ -11024,6 +11174,9 @@
         "max_players": 4,
         "hunter_rank": 41
       },
+      "time_limit_minutes": 50,
+      "level": 8,
+      "lives": 3,
       "target": {
         "kind": "monster",
         "values": [
@@ -11125,13 +11278,13 @@
       "guild_points": 300,
       "items": [
         {
-          "item_id": 654,
-          "amount": 1,
+          "item_id": 178,
+          "amount": 5,
           "chance": 100
         },
         {
-          "item_id": 178,
-          "amount": 5,
+          "item_id": 654,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -11206,6 +11359,9 @@
         "max_players": 4,
         "hunter_rank": 100
       },
+      "time_limit_minutes": 50,
+      "level": 9,
+      "lives": 5,
       "target": {
         "kind": "monster",
         "values": [
@@ -11222,11 +11378,6 @@
       "guild_points": 1000,
       "items": [
         {
-          "item_id": 809,
-          "amount": 1,
-          "chance": 100
-        },
-        {
           "item_id": 218,
           "amount": 3,
           "chance": 100
@@ -11234,6 +11385,11 @@
         {
           "item_id": 669,
           "amount": 10,
+          "chance": 100
+        },
+        {
+          "item_id": 809,
+          "amount": 1,
           "chance": 100
         }
       ]
@@ -11327,6 +11483,9 @@
         "max_players": 4,
         "hunter_rank": 100
       },
+      "time_limit_minutes": 50,
+      "level": 9,
+      "lives": 5,
       "target": {
         "kind": "monster",
         "values": [
