@@ -23066,7 +23066,7 @@
     },
     "rarity": 8,
     "set_bonus": {
-      "skill_id": 5590,
+      "skill_id": -1432692352,
       "ranks": [
         {
           "pieces": 2,
@@ -23086,7 +23086,7 @@
         }
       ]
     },
-    "set_bonus_id": 5590,
+    "set_bonus_id": -1432692352,
     "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
