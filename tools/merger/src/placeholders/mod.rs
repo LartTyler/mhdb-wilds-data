@@ -30,6 +30,26 @@ enum Kind<'a> {
     Escape(Escape<'a>),
 }
 
+impl<'a> From<&'a Node<'a>> for Kind<'a> {
+    fn from(value: &'a Node<'a>) -> Self {
+        match value.id() {
+            Reference::ID => Reference::new(value).into(),
+            Pronouns::ID_LISTENER | Pronouns::ID_SPEAKER => Pronouns::new(value).into(),
+            Enemy::ID_NORMAL => Enemy::normal(value).into(),
+            Enemy::ID_KANJI => Enemy::kanji(value).into(),
+            Escape::ID => Escape::new(value).into(),
+            Remove::BOLD
+            | Remove::BOLD_END
+            | Remove::COLOR
+            | Remove::COLOR_END
+            | Remove::SIZE
+            | Remove::SIZE_END
+            | Remove::ICON => Remove::new(value).into(),
+            other => panic!("Unrecognized placeholder '{other}' in '{}'", value.matched),
+        }
+    }
+}
+
 impl Apply for Kind<'_> {
     fn apply(&self, value: &str, context: &Context) -> String {
         use Kind::*;
@@ -79,61 +99,42 @@ impl Placeholders {
     }
 
     pub fn apply(&self, values: &mut LanguageMap) {
-        let mut needs_next_pass = false;
-
         for (language, value) in values.iter_mut() {
             let context = Context::new(&self.strings, *language);
-            let (escapes, nodes): (Vec<_>, Vec<_>) = Node::extract(value)
-                .into_iter()
-                .partition(|v| v.is_escape());
 
-            // Some placeholders (usually REFs) can replace with a value that also contains
-            // placeholders. To handle this, we recursively call `apply()`. However, since escape
-            // sequences are also handled as placeholders, if we replace them on a pass that also
-            // processes other placeholders we can end up double processing things. Instead, we
-            // allow the recursion to continue without touching escapes until there are no other
-            // nodes remaining to process.
-            let nodes = if nodes.is_empty() {
-                log::trace!("No more non-escape sequences, processing any escapes now");
-                needs_next_pass = false;
+            loop {
+                let (escapes, nodes): (Vec<_>, Vec<_>) = Node::extract(value)
+                    .into_iter()
+                    .partition(|v| v.is_escape());
 
-                escapes
-            } else {
-                log::trace!("Found non-escape nodes, escape sequences will not be processed");
-                needs_next_pass = true;
+                log::trace!(
+                    "Found {} escape(s) and {} node(s) for {value}",
+                    escapes.len(),
+                    nodes.len()
+                );
 
-                nodes
-            };
-
-            log::trace!("Found {} node(s) for '{}'", nodes.len(), value);
-
-            let new_value = nodes.into_iter().fold(value.to_owned(), |value, node| {
-                log::trace!(">> Processing node {}", node.matched);
-
-                let placeholder: Kind = match node.id() {
-                    Reference::ID => Reference::new(&node).into(),
-                    Pronouns::ID_LISTENER | Pronouns::ID_SPEAKER => Pronouns::new(&node).into(),
-                    Enemy::ID_NORMAL => Enemy::normal(&node).into(),
-                    Enemy::ID_KANJI => Enemy::kanji(&node).into(),
-                    Escape::ID => Escape::new(&node).into(),
-                    Remove::BOLD
-                    | Remove::BOLD_END
-                    | Remove::COLOR
-                    | Remove::COLOR_END
-                    | Remove::SIZE
-                    | Remove::SIZE_END
-                    | Remove::ICON => Remove::new(&node).into(),
-                    other => panic!("Unrecognized placeholder '{other}' in '{}'", value),
+                // Escapes need to be processed last, since they can resolve to a value that could
+                // incorrectly be detected as a placeholder (e.g. the "<biep>" at the beginning of
+                // the German description for Invader from the Stars.
+                let (nodes, terminate_loop) = if nodes.is_empty() {
+                    log::trace!("No nodes remaining, processing escapes now.");
+                    (escapes, true)
+                } else {
+                    log::trace!("Non-escape nodes exist, not processing escapes");
+                    (nodes, false)
                 };
 
-                placeholder.apply(&value, &context)
-            });
+                *value = nodes.into_iter().fold(value.to_owned(), |value, node| {
+                    log::trace!(">> Processing node '{}'", node.matched);
 
-            *value = new_value;
-        }
+                    let placeholder = Kind::from(&node);
+                    placeholder.apply(&value, &context)
+                });
 
-        if needs_next_pass {
-            self.apply(values);
+                if terminate_loop {
+                    break;
+                }
+            }
         }
     }
 

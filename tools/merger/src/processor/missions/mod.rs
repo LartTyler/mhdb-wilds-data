@@ -1,5 +1,6 @@
 use crate::placeholders::Placeholders;
 use crate::processor::context::Context;
+use crate::processor::locations::StageId;
 use crate::processor::missions::activity_data::{ActivityData, Chapter};
 use crate::processor::missions::files::MissionFiles;
 use crate::processor::missions::files::quest_data::{
@@ -116,6 +117,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
                 kind: quest.kind,
                 requirements: quest.requirements.clone(),
                 target: quest.objective_target(),
+                location: quest.stage_id,
             };
 
             mission.objective = Some(objective);
@@ -170,6 +172,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
                 kind: quest.kind,
                 target: quest.objective_target(),
                 requirements: quest.requirements.clone(),
+                location: quest.stage_id,
             }),
         };
 
@@ -283,6 +286,7 @@ struct Objective {
     kind: QuestKind,
     requirements: Requirements,
     target: ObjectiveTarget,
+    location: StageId,
 }
 
 #[derive(Debug, Serialize)]
