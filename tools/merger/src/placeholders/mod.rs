@@ -79,9 +79,32 @@ impl Placeholders {
     }
 
     pub fn apply(&self, values: &mut LanguageMap) {
-        for (language, value) in values {
+        let mut needs_next_pass = false;
+
+        for (language, value) in values.iter_mut() {
             let context = Context::new(&self.strings, *language);
-            let nodes = Node::extract(value);
+            let (escapes, nodes): (Vec<_>, Vec<_>) = Node::extract(value)
+                .into_iter()
+                .partition(|v| v.is_escape());
+
+            // Some placeholders (usually REFs) can replace with a value that also contains
+            // placeholders. To handle this, we recursively call `apply()`. However, since escape
+            // sequences are also handled as placeholders, if we replace them on a pass that also
+            // processes other placeholders we can end up double processing things. Instead, we
+            // allow the recursion to continue without touching escapes until there are no other
+            // nodes remaining to process.
+            let nodes = if nodes.is_empty() {
+                log::trace!("No more non-escape sequences, processing any escapes now");
+                needs_next_pass = false;
+
+                escapes
+            } else {
+                log::trace!("Found non-escape nodes, escape sequences will not be processed");
+                needs_next_pass = true;
+
+                nodes
+            };
+
             log::trace!("Found {} node(s) for '{}'", nodes.len(), value);
 
             let new_value = nodes.into_iter().fold(value.to_owned(), |value, node| {
@@ -107,6 +130,10 @@ impl Placeholders {
             });
 
             *value = new_value;
+        }
+
+        if needs_next_pass {
+            self.apply(values);
         }
     }
 

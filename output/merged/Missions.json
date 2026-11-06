@@ -3,7 +3,7 @@
     "game_id": -2086928384,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -12,9 +12,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -53,7 +53,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -493,7 +493,7 @@
       "zh-Hant": "工匠特製品",
       "zh-Hans": "杰玛的特制品",
       "ar": "ختم جودة ورشة الحدادة",
-      "th": "ตรารับรองคุณภาพ<SIZE 0.1> </SIZE>จากช่างตีเหล็ก",
+      "th": "ตรารับรองคุณภาพ จากช่างตีเหล็ก",
       "es-419": "Sello de calidad de la forja"
     },
     "description": {
@@ -607,7 +607,7 @@
       "zh-Hant": "工匠特製品",
       "zh-Hans": "杰玛的特制品",
       "ar": "ختم جودة ورشة الحدادة",
-      "th": "ตรารับรองคุณภาพ<SIZE 0.1> </SIZE>จากช่างตีเหล็ก",
+      "th": "ตรารับรองคุณภาพ จากช่างตีเหล็ก",
       "es-419": "Sello de calidad de la forja"
     },
     "description": {
@@ -933,7 +933,7 @@
     "game_id": -2024247424,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -942,9 +942,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -983,7 +983,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -1047,7 +1047,7 @@
     "game_id": -1901117312,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -1056,9 +1056,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -1097,7 +1097,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -1161,7 +1161,7 @@
     "game_id": -1814310144,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -1170,9 +1170,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -1211,7 +1211,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -1309,7 +1309,7 @@
       "zh-Hant": "歷戰沙海龍",
       "zh-Hans": "历战沙海龙",
       "ar": "غضب ليفياثان",
-      "th": "ความแข็งแกร่ง<SIZE 0.1> </SIZE>ของเลวีอาธาน",
+      "th": "ความแข็งแกร่ง ของเลวีอาธาน",
       "es-419": "El temperamento de un leviatán"
     },
     "description": {
@@ -1428,7 +1428,7 @@
       "zh-Hant": "歷戰沙海龍",
       "zh-Hans": "历战沙海龙",
       "ar": "غضب ليفياثان",
-      "th": "ความแข็งแกร่ง<SIZE 0.1> </SIZE>ของเลวีอาธาน",
+      "th": "ความแข็งแกร่ง ของเลวีอาธาน",
       "es-419": "El temperamento de un leviatán"
     },
     "description": {
@@ -1632,7 +1632,7 @@
     "game_id": -1769025280,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -1641,9 +1641,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -1682,7 +1682,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -1860,7 +1860,7 @@
     "game_id": -1743284736,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -1869,9 +1869,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -1910,7 +1910,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -1974,7 +1974,7 @@
     "game_id": -1575534720,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -1983,9 +1983,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -2024,7 +2024,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -2448,7 +2448,7 @@
     "game_id": -1530933888,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -2457,9 +2457,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -2498,7 +2498,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -2557,7 +2557,7 @@
     "game_id": -1523812608,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -2566,9 +2566,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -2607,7 +2607,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -2884,7 +2884,7 @@
     "game_id": -1445256960,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -2893,9 +2893,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -2934,7 +2934,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -2993,7 +2993,7 @@
     "game_id": -1435237760,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3002,9 +3002,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3043,7 +3043,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3102,7 +3102,7 @@
     "game_id": -1296053120,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3111,9 +3111,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3152,7 +3152,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3245,7 +3245,7 @@
       "zh-Hant": "確保龍谷安全",
       "zh-Hans": "确保龙谷的安全",
       "ar": "تأمين الوادي الجريح",
-      "th": "ทำให้หุบเขาร้าว<SIZE 0.1> </SIZE>รานปลอดภัย",
+      "th": "ทำให้หุบเขาร้าว รานปลอดภัย",
       "es-419": "Protege el Valle Lacerado"
     },
     "description": {
@@ -3358,7 +3358,7 @@
       "zh-Hant": "確保龍谷安全",
       "zh-Hans": "确保龙谷的安全",
       "ar": "تأمين الوادي الجريح",
-      "th": "ทำให้หุบเขาร้าว<SIZE 0.1> </SIZE>รานปลอดภัย",
+      "th": "ทำให้หุบเขาร้าว รานปลอดภัย",
       "es-419": "Protege el Valle Lacerado"
     },
     "description": {
@@ -3437,7 +3437,7 @@
     "game_id": -1274135168,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3446,9 +3446,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3487,7 +3487,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3551,7 +3551,7 @@
     "game_id": -1236452992,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3560,9 +3560,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3601,7 +3601,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3660,7 +3660,7 @@
     "game_id": -1227355008,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3669,9 +3669,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3710,7 +3710,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3888,7 +3888,7 @@
     "game_id": -1172227456,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -3897,9 +3897,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -3938,7 +3938,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -3997,7 +3997,7 @@
     "game_id": -1144391296,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -4006,9 +4006,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -4047,7 +4047,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -4225,7 +4225,7 @@
     "game_id": -1022850752,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -4234,9 +4234,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -4275,7 +4275,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -4453,7 +4453,7 @@
     "game_id": -785248576,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -4462,9 +4462,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -4503,7 +4503,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -4567,7 +4567,7 @@
     "game_id": -724585792,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -4576,9 +4576,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -4617,7 +4617,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -4904,7 +4904,7 @@
     "game_id": -709058048,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -4913,9 +4913,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -4954,7 +4954,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -5052,7 +5052,7 @@
       "zh-Hant": "機靈掠奪支援",
       "zh-Hans": "机灵的掠夺支援",
       "ar": "النهب المثالي!",
-      "th": "แผนจารกรรมสุดปัง<SIZE 0.1> </SIZE>ฉบับเหมียว",
+      "th": "แผนจารกรรมสุดปัง ฉบับเหมียว",
       "es-419": "Saqueo minino"
     },
     "description": {
@@ -5166,7 +5166,7 @@
       "zh-Hant": "機靈掠奪支援",
       "zh-Hans": "机灵的掠夺支援",
       "ar": "النهب المثالي!",
-      "th": "แผนจารกรรมสุดปัง<SIZE 0.1> </SIZE>ฉบับเหมียว",
+      "th": "แผนจารกรรมสุดปัง ฉบับเหมียว",
       "es-419": "Saqueo minino"
     },
     "description": {
@@ -5246,7 +5246,7 @@
     "game_id": -620493696,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -5255,9 +5255,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -5296,7 +5296,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -5394,7 +5394,7 @@
       "zh-Hant": "適應的方式",
       "zh-Hans": "适应的方式",
       "ar": "قابلية تكيف مذهلة",
-      "th": "การปรับตัวเหนือ<SIZE 0.1> </SIZE>ความคาดหมาย",
+      "th": "การปรับตัวเหนือ ความคาดหมาย",
       "es-419": "Adaptabilidad asombrosa"
     },
     "description": {
@@ -5508,7 +5508,7 @@
       "zh-Hant": "適應的方式",
       "zh-Hans": "适应的方式",
       "ar": "قابلية تكيف مذهلة",
-      "th": "การปรับตัวเหนือ<SIZE 0.1> </SIZE>ความคาดหมาย",
+      "th": "การปรับตัวเหนือ ความคาดหมาย",
       "es-419": "Adaptabilidad asombrosa"
     },
     "description": {
@@ -5588,7 +5588,7 @@
     "game_id": -518608096,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -5597,9 +5597,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -5638,7 +5638,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -5697,7 +5697,7 @@
     "game_id": -339019968,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -5706,9 +5706,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -5747,7 +5747,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -5811,7 +5811,7 @@
     "game_id": -334076928,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -5820,9 +5820,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -5861,7 +5861,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -6645,7 +6645,7 @@
     "game_id": -98190384,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -6654,9 +6654,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -6695,7 +6695,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -11995,7 +11995,7 @@
         "values": [
           {
             "monster_id": 746996864,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -12119,7 +12119,7 @@
         "values": [
           {
             "monster_id": 746996864,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -17678,7 +17678,7 @@
         "values": [
           {
             "monster_id": 21849,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -17780,7 +17780,7 @@
         "values": [
           {
             "monster_id": 21849,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -21037,7 +21037,7 @@
         "values": [
           {
             "monster_id": -1083842944,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -21248,7 +21248,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -21265,7 +21265,7 @@
         "values": [
           {
             "monster_id": 32634,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -21379,7 +21379,7 @@
         "values": [
           {
             "monster_id": 21849,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -21488,7 +21488,7 @@
         "values": [
           {
             "monster_id": 21849,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -21880,7 +21880,7 @@
     "game_id": 76238256,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -21889,9 +21889,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -21930,7 +21930,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -21994,7 +21994,7 @@
     "game_id": 158732608,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22003,9 +22003,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22044,7 +22044,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -22108,7 +22108,7 @@
     "game_id": 160832544,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22117,9 +22117,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22158,7 +22158,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -22587,7 +22587,7 @@
     "game_id": 275854528,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22596,9 +22596,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22637,7 +22637,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -22701,7 +22701,7 @@
     "game_id": 336208512,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22710,9 +22710,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22751,7 +22751,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -22815,7 +22815,7 @@
     "game_id": 345568000,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22824,9 +22824,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22865,7 +22865,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -22929,7 +22929,7 @@
     "game_id": 436521024,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -22938,9 +22938,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -22979,7 +22979,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -23157,7 +23157,7 @@
     "game_id": 581006272,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -23166,9 +23166,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -23207,7 +23207,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -23271,7 +23271,7 @@
     "game_id": 628951872,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -23280,9 +23280,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -23321,7 +23321,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -23419,7 +23419,7 @@
       "zh-Hant": "維爾納的實地實驗",
       "zh-Hans": "沃纳的实地测试",
       "ar": "اختبار فيرنر التجريبي",
-      "th": "การทดสอบของ<SIZE 0.1> </SIZE>เวอร์เนอร์",
+      "th": "การทดสอบของ เวอร์เนอร์",
       "es-419": "La prueba de Werner"
     },
     "description": {
@@ -23533,7 +23533,7 @@
       "zh-Hant": "維爾納的實地實驗",
       "zh-Hans": "沃纳的实地测试",
       "ar": "اختبار فيرنر التجريبي",
-      "th": "การทดสอบของ<SIZE 0.1> </SIZE>เวอร์เนอร์",
+      "th": "การทดสอบของ เวอร์เนอร์",
       "es-419": "La prueba de Werner"
     },
     "description": {
@@ -23613,7 +23613,7 @@
     "game_id": 832386624,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -23622,9 +23622,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -23663,7 +23663,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24082,7 +24082,7 @@
     "game_id": 879832384,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24091,9 +24091,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24132,7 +24132,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24191,7 +24191,7 @@
     "game_id": 941651968,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24200,9 +24200,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24241,7 +24241,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24305,7 +24305,7 @@
     "game_id": 958619904,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24314,9 +24314,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24355,7 +24355,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24414,7 +24414,7 @@
     "game_id": 1059375680,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24423,9 +24423,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24464,7 +24464,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24528,7 +24528,7 @@
     "game_id": 1068763008,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24537,9 +24537,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24578,7 +24578,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24637,7 +24637,7 @@
     "game_id": 1187187072,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24646,9 +24646,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24687,7 +24687,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -24746,7 +24746,7 @@
     "game_id": 1213891968,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -24755,9 +24755,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -24796,7 +24796,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -25041,7 +25041,7 @@
         "values": [
           {
             "monster_id": 746996864,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -25155,7 +25155,7 @@
         "values": [
           {
             "monster_id": 746996864,
-            "count": 0
+            "count": 1
           }
         ]
       }
@@ -25202,7 +25202,7 @@
     "game_id": 1436491008,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -25211,9 +25211,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -25252,7 +25252,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -25311,7 +25311,7 @@
     "game_id": 1512317312,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -25320,9 +25320,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -25361,7 +25361,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -25425,7 +25425,7 @@
     "game_id": 1553912192,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -25434,9 +25434,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -25475,7 +25475,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -25539,7 +25539,7 @@
     "game_id": 1562235264,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -25548,9 +25548,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -25589,7 +25589,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -25866,7 +25866,7 @@
     "game_id": 1717405568,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -25875,9 +25875,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -25916,7 +25916,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -26094,7 +26094,7 @@
     "game_id": 1854465152,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -26103,9 +26103,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -26144,7 +26144,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -26208,7 +26208,7 @@
     "game_id": 1886268160,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -26217,9 +26217,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -26258,7 +26258,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -26356,7 +26356,7 @@
       "zh-Hant": "貓式火龍艇出擊！",
       "zh-Hans": "猫式火龙艇出击！",
       "ar": "راث الطائر، هيا!",
-      "th": "ความพิโรธจาก<SIZE 0.1> </SIZE>ฟากฟ้า ลุยเลย!",
+      "th": "ความพิโรธจาก ฟากฟ้า ลุยเลย!",
       "es-419": "¡Vamos, avión Rath!"
     },
     "description": {
@@ -26465,7 +26465,7 @@
       "zh-Hant": "貓式火龍艇出擊！",
       "zh-Hans": "猫式火龙艇出击！",
       "ar": "راث الطائر، هيا!",
-      "th": "ความพิโรธจาก<SIZE 0.1> </SIZE>ฟากฟ้า ลุยเลย!",
+      "th": "ความพิโรธจาก ฟากฟ้า ลุยเลย!",
       "es-419": "¡Vamos, avión Rath!"
     },
     "description": {
@@ -26540,7 +26540,7 @@
     "game_id": 1931427584,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -26549,9 +26549,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -26590,7 +26590,7 @@
       "ko": "금지된 땅 조사대원이 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحوش صغيرة. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็ก โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -26659,7 +26659,7 @@
     "game_id": 1959282048,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -26668,9 +26668,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -26709,7 +26709,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 소형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大小型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力小型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش صغير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดเล็กที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de monstruos pequeños y formidables.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -26996,7 +26996,7 @@
     "game_id": 1970012672,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -27005,9 +27005,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -27046,7 +27046,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -27110,7 +27110,7 @@
     "game_id": 1971345152,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -27119,9 +27119,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -27160,7 +27160,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -27470,7 +27470,7 @@
     "game_id": 2064802048,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -27479,9 +27479,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -27520,7 +27520,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -27584,7 +27584,7 @@
     "game_id": 2131637248,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -27593,9 +27593,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -27634,7 +27634,7 @@
       "ko": "금지된 땅 조사대원이 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ โปรดตรวจสอบรายละเอียดคำขอ\r\nก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un monstruo enorme.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },
@@ -27698,7 +27698,7 @@
     "game_id": 2145654912,
     "kind": "optional",
     "client_name": {
-      "ja": "鳥の隊　<REF NpcName_NN_86>",
+      "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
       "it": "Alma (unità Avis)",
@@ -27707,9 +27707,9 @@
       "ru": "Альма (отряд «Авис»)",
       "pl": "Alma (Jednostka Avis)",
       "pt-BR": "Alma (Unidade Avis)",
-      "ko": "새 부대 <REF NpcName_NN_86>",
-      "zh-Hant": "飛鳥隊　<REF NpcName_NN_86>",
-      "zh-Hans": "鸟之队　<REF NpcName_NN_86>",
+      "ko": "새 부대 알마",
+      "zh-Hant": "飛鳥隊　阿爾瑪",
+      "zh-Hans": "鸟之队　阿尔玛",
       "ar": "ألما (وحدة أفيس)",
       "th": "อัลมา (หน่วยเอวิส)",
       "es-419": "Alma (unidad Avis)"
@@ -27748,7 +27748,7 @@
       "ko": "금지된 땅 조사대원이 더 강력한 대형 몬스터 발견 정보를\r\n공유했습니다. 각 조사대원은 의뢰 내용을 확인하신 후\r\n조사에 임해 주세요.",
       "zh-Hant": "封禁之地調查隊的成員分享了強大大型魔物的目擊情報，\r\n請各位調查隊成員在確認任務內容後，開始著手調查。",
       "zh-Hans": "封禁之地调查队队员分享了强力大型怪物的目击情报。\r\n请各调查队在确认委托内容后，开始着手调查。",
-      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل <LSNR \"انطلاقكَ\" \"انطلاقكِ\"> للاستقصاء.",
+      "ar": "أبلغ محققٌ يستقصي الأراضي المحظورة\r\nعن رصد وحش كبير قوي للغاية. يُرجى التحقق\r\nمن تفاصيل الطلب قبل انطلاقكَ للاستقصاء.",
       "th": "หน่วยสืบสวนที่เข้าไปลาดตระเวนในแดนต้องห้ามรายงานว่า\r\nพบเห็นมอนสเตอร์ขนาดใหญ่ที่น่ากลัว โปรดตรวจสอบ\r\nรายละเอียดคำขอก่อนออกไปสืบหาเบาะแส",
       "es-419": "Un investigador que estudiaba las Tierras Prohibidas\r\ninformó el avistamiento de un enorme y formidable monstruo.\r\nConsulta los detalles del pedido antes de partir a investigar."
     },

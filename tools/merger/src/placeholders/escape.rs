@@ -15,6 +15,7 @@ impl<'a> Escape<'a> {
 
 impl<'a> Apply for Escape<'a> {
     fn apply(&self, value: &str, _context: &Context) -> String {
+        log::trace!("Replacing escape sequence '{}' in '{value}'", self.node.matched);
         value.replace(self.node.matched, self.node.value())
     }
 }
