@@ -1,4 +1,4 @@
-use crate::placeholders_old::{ApplyContext, Placeholder};
+use crate::processor::context::Context;
 use crate::processor::{
     IconColor, IdMap, LanguageMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
     to_ingame_rarity,
@@ -16,7 +16,7 @@ const STRINGS: &str = "msg/Accessory.json";
 
 const OUTPUT: &str = "merged/Accessory.json";
 
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     should_run!(filters, Processor::Accessories);
 
     let data: Vec<AccessoryData> = Vec::read_file(config.io.output.join(DATA))?;
@@ -34,7 +34,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         strings.populate(&data.name_guid, &mut accessory.names);
 
         strings.populate(&data.description_guid, &mut accessory.descriptions);
-        Placeholder::process(&mut accessory.descriptions, &ApplyContext::empty());
+        context.placeholders.apply(&mut accessory.descriptions);
 
         for (id, level) in data.skill_ids.iter().zip(data.skill_levels) {
             if *id != 0 {

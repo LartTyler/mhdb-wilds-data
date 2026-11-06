@@ -10169,7 +10169,7 @@
           "ko": "장수호랑나비의 머리 방어구.\r\n질감은 푹신푹신하지만\r\n충격을 잘 흡수한다.",
           "zh-Hant": "大角鳳蝶的頭部防具。質感膨鬆\r\n柔軟，卻能吸收衝擊力，是優秀\r\n的防具。",
           "zh-Hans": "大角凤蝶的头部防具。虽然质感膨\r\n松柔软，却是个能吸收冲击力的优\r\n秀防具。",
-          "ar": "درع مبهر مصنوع من أجزاء\r\nالحشرة. وزنه الخفيف ولونه\r\nدليل على مكانة صاحبه. ",
+          "ar": "درع مبهر مصنوع من أجزاء\r\nالحشرة. وزنه الخفيف ولونه\r\nدليل على مكانة صاحبه.",
           "th": "เกราะแวววับที่สร้างจากชิ้นส่วนแมลง\r\nน้ำหนักที่เบาและสีสันโดดเด่นบ่ง\r\nบอกถึงความมีระดับของผู้สวมใส่",
           "es-419": "Armadura deslumbrante hecha de\r\npartes de insecto. Puede\r\nsentirse ligera, pero tiene una\r\nalta absorción de impactos."
         },
@@ -20977,7 +20977,7 @@
           "es-419": "Traje Omega α"
         },
         "descriptions": {
-          "ja": "己を高め続けた、とある自律兵器の\r\n到達点を模した胴防具。纏いし者は\r\n新たな強敵の渇望を求め続ける。\r\n",
+          "ja": "己を高め続けた、とある自律兵器の\r\n到達点を模した胴防具。纏いし者は\r\n新たな強敵の渇望を求め続ける。",
           "en": "Chest armor fashioned after the\r\napex of autonomous weaponry.\r\nNo worthy opponent has been\r\nfound.",
           "fr": "Inspiré des meilleures\r\narmes autonomes.\r\nAucun adversaire n'a pu\r\ns'en montrer digne.",
           "it": "Protezione per il torace\r\nispirata all'arma autonoma\r\nper eccellenza. Non ha eguali.",
@@ -21950,7 +21950,7 @@
     },
     "rarity": 8,
     "set_bonus": {
-      "skill_id": 5590,
+      "skill_id": -555494336,
       "ranks": [
         {
           "pieces": 2,
@@ -21970,7 +21970,7 @@
         }
       ]
     },
-    "set_bonus_id": 5590,
+    "set_bonus_id": -555494336,
     "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
@@ -23066,7 +23066,7 @@
     },
     "rarity": 8,
     "set_bonus": {
-      "skill_id": -1432692352,
+      "skill_id": 5590,
       "ranks": [
         {
           "pieces": 2,
@@ -23086,7 +23086,7 @@
         }
       ]
     },
-    "set_bonus_id": -1432692352,
+    "set_bonus_id": 5590,
     "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
@@ -50751,19 +50751,19 @@
         },
         "descriptions": {
           "ja": "アズズの里で使われている胴防具。\r\n補強のため、エプロンに縫い付け\r\nられた大きなコインは、熟練の証。",
-          "en": "Chest armor worn in the village of\r\nthe Everforge. Large medallions\r\ndenoting mastery are sewn on\r\nas reinforcement. ",
+          "en": "Chest armor worn in the village of\r\nthe Everforge. Large medallions\r\ndenoting mastery are sewn on\r\nas reinforcement.",
           "fr": "Tablier porté au village d'Azuz.\r\nIl est renforcé par d'imposants\r\nmédaillons symboles de savoir-faire.",
           "it": "Protezione per torace usata nel\r\nvillaggio della Forgeterna. I\r\ngrandi medaglioni rinforzanti\r\nne denotano la maestria.",
           "de": "Ein Brustschutz, wie er in Azuz\r\ngetragen wird. Die aufgenähten\r\nMetallplättchen symbolisieren\r\nÜberlegenheit.",
           "es": "Peto utilizado en la aldea de\r\nForja Eterna. Lleva cosidos unos\r\ngrandes medallones como refuerzo\r\ny como muestra de maestría.",
-          "ru": "Нагрудник из деревни Вечной\r\nКузницы. Для дополнительной\r\nзащиты обшит крупными, мастерски\r\nизготовленными бляхами. ",
+          "ru": "Нагрудник из деревни Вечной\r\nКузницы. Для дополнительной\r\nзащиты обшит крупными, мастерски\r\nизготовленными бляхами.",
           "pl": "Napierśnik noszony w Wiecznej\r\nKuźni. Potężne medaliony\r\nsymbolizujące mistrzostwo, zostały\r\nnaszyte jako wzmocnienie.",
-          "pt-BR": "Proteção de torso usada na aldeia\r\nda Forjeterna. Grandes medalhões\r\ndenotando maestria são costurados\r\ncomo reforço. ",
+          "pt-BR": "Proteção de torso usada na aldeia\r\nda Forjeterna. Grandes medalhões\r\ndenotando maestria são costurados\r\ncomo reforço.",
           "ko": "아즈즈 마을에서 사용되는\r\n몸통 방어구. 보강을 위해\r\n앞치마에 바느질 된\r\n커다란 코인은 숙련의 증표.",
           "zh-Hant": "阿茲茲村所使用的身體防具。為了\r\n提高強度，在圍裙上縫上了大硬幣，\r\n證明工匠技藝高超。",
           "zh-Hans": "阿孜兹村使用的身体防具。围裙上\r\n缝有硕大的硬币以提高强度，证明\r\n制作者十分有经验。",
           "ar": "درع صدر يُرتدى في قرية الورشة العظمى.\r\nتُخيط فوقها الميداليات الكبيرة\r\nالتي تشير إلى الإتقان كتعزيز للدروع.",
-          "th": "เกราะลำตัวที่สวมใส่กันในหมู่บ้านเตา\r\nหลอมนิรันดร์ เสริมความแข็งแรงด้วย\r\nการเย็บติดเหรียญตราขนาดใหญ่ที่\r\nแสดงถึงความชำนาญ ",
+          "th": "เกราะลำตัวที่สวมใส่กันในหมู่บ้านเตา\r\nหลอมนิรันดร์ เสริมความแข็งแรงด้วย\r\nการเย็บติดเหรียญตราขนาดใหญ่ที่\r\nแสดงถึงความชำนาญ",
           "es-419": "Mandil de la Forja Eterna con\r\nmedallones que denotan maestría\r\ncosidos como refuerzo."
         },
         "defense": {

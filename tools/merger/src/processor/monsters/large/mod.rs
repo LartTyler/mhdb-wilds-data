@@ -1,4 +1,3 @@
-use crate::placeholders_old::{ApplyContext, Placeholder};
 use crate::processor::locations::StageId;
 use crate::processor::monsters::large::effectives::{Resistance, SpecialKind, Weakness};
 use crate::processor::monsters::large::identifiers::{IdentifierMap, Identifiers};
@@ -8,9 +7,9 @@ use crate::processor::monsters::large::size::Size;
 use crate::processor::monsters::{
     CommonData, MONSTER_DATA, MONSTER_STRINGS, MonsterId, REFS_FIELD, SpeciesKind,
 };
-use crate::processor::{LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
+use crate::processor::{Context, LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
 use crate::serde::ordered_map;
-use anyhow::Context;
+use anyhow::Context as AnyhowContext;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
 use serde::Serialize;
@@ -51,9 +50,8 @@ impl RunContext {
     }
 }
 
-pub(super) fn process(config: &Config) -> anyhow::Result<()> {
-    let field_refs = Msg::read_file(config.io.output.join(REFS_FIELD))?;
-    let placeholders = ApplyContext::new(vec![&field_refs]);
+pub(super) fn process(config: &Config, Context { placeholders }: &Context) -> anyhow::Result<()> {
+    let placeholders = placeholders.append(vec![Msg::read_file(config.data_path(REFS_FIELD))?]);
 
     let data: Vec<CommonData> = Vec::read_file(config.io.output.join(MONSTER_DATA))?;
     let strings = Msg::read_file(config.io.output.join(MONSTER_STRINGS))?;
@@ -75,13 +73,13 @@ pub(super) fn process(config: &Config) -> anyhow::Result<()> {
         }
 
         strings.populate(&data.description_guid, &mut monster.descriptions);
-        Placeholder::process(&mut monster.descriptions, &placeholders);
+        placeholders.apply(&mut monster.descriptions);
 
         strings.populate(&data.features_guid, &mut monster.features);
-        Placeholder::process(&mut monster.features, &placeholders);
+        placeholders.apply(&mut monster.features);
 
         strings.populate(&data.tips_guid, &mut monster.tips);
-        Placeholder::process(&mut monster.tips, &placeholders);
+        placeholders.apply(&mut monster.tips);
 
         for variant in VariantKind::iter() {
             let mut names = LanguageMap::new();

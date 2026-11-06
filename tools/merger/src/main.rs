@@ -5,7 +5,6 @@ use rslib::config::Config;
 mod cli;
 mod glob;
 mod placeholders;
-mod placeholders_old;
 mod processor;
 mod serde;
 

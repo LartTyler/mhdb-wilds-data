@@ -21,7 +21,7 @@ const GIMMICK_TEXT_DATA: &str = "user/GimmickTextData.json";
 
 const CAMP_PATH_PREFIX: &str = "user/locations/camps";
 
-const STAGE_STRINGS: &str = "msg/RefEnvironment.json";
+const STAGE_STRINGS: &str = "msg/references/RefEnvironment.json";
 const GIMMICK_STRINGS: &str = "msg/Gimmick.json";
 
 pub const OUTPUT: &str = "merged/Stage.json";

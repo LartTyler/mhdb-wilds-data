@@ -1,4 +1,4 @@
-use crate::placeholders_old::{ApplyContext, Placeholder};
+use crate::processor::context::Context;
 use crate::processor::{
     IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
     to_ingame_rarity,
@@ -24,7 +24,7 @@ pub const OUTPUT: &str = "merged/Armor.json";
 pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";
 
 /// Armor set and group bonuses are added by the [skills::process()] function.
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     should_run!(filters, Processor::Armor);
 
     let data: Vec<SeriesData> = Vec::read_file(config.io.output.join(SERIES_DATA))?;
@@ -97,7 +97,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         strings.populate(&data.name_guid, &mut armor.names);
 
         strings.populate(&data.description_guid, &mut armor.descriptions);
-        Placeholder::process(&mut armor.descriptions, &ApplyContext::empty());
+        context.placeholders.apply(&mut armor.descriptions);
 
         for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
             if id != 0 {

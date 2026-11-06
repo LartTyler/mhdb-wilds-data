@@ -220,14 +220,14 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     let context = Context::new(placeholders);
 
     sections! {
-        "Merging accessory files..." => accessories::process(config, filters)?,
-        "Merging item files..." => items::process(config, filters)?,
+        "Merging accessory files..." => accessories::process(config, filters, &context)?,
+        "Merging item files..." => items::process(config, filters, &context)?,
         "Merging charm files..." => charms::process(config, filters)?,
-        "Merging amulet files..." => amulets::process(config, filters)?,
-        "Merging armor files..." => armor::process(config, filters)?,
-        "Merging skill files..." => skills::process(config, filters)?,
-        "Merging weapon files..." => weapons::process(config, filters)?,
-        "Merging monster files..." => monsters::process(config, filters)?,
+        "Merging amulet files..." => amulets::process(config, filters, &context)?,
+        "Merging armor files..." => armor::process(config, filters, &context)?,
+        "Merging skill files..." => skills::process(config, filters, &context)?,
+        "Merging weapon files..." => weapons::process(config, filters, &context)?,
+        "Merging monster files..." => monsters::process(config, filters, &context)?,
         "Merging location files..." => locations::process(config, filters)?,
         "Merging mission files..." => missions::process(config, filters, &context)?,
     }

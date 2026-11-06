@@ -1,4 +1,5 @@
 use super::{LanguageMap, PopulateStrings, Processor, ReadFile, WriteFile};
+use crate::processor::context::Context;
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
@@ -20,7 +21,7 @@ const SPECIES_STRINGS: &str = "msg/EnemySpeciesName.json";
 
 const SPECIES_OUTPUT: &str = "merged/Species.json";
 
-pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
+pub(in crate::processor) fn process(config: &Config, filters: &[Processor], context: &Context) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
     let species_strings = Msg::read_file(config.io.output.join(SPECIES_STRINGS))?;
@@ -45,7 +46,7 @@ pub(in crate::processor) fn process(config: &Config, filters: &[Processor]) -> a
     species.sort_by_key(|v| v.kind);
     species.write_file(config.io.output.join(SPECIES_OUTPUT))?;
 
-    large::process(config)?;
+    large::process(config, context)?;
 
     Ok(())
 }
