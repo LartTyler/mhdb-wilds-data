@@ -64,7 +64,10 @@ impl QuestFile {
                 .iter()
                 .map(|v| MonsterTarget {
                     monster_id: v.target_id,
-                    count: v.target_value,
+
+                    // Some files have a kill count of zero, despite the mission having a target.
+                    // It's hacky, but I'm just going to make the minimum value one.
+                    count: v.target_value.max(1),
                 })
                 .collect();
 
