@@ -1,11 +1,11 @@
 use crate::processor::missions::files::mission_data::MissionFile;
 use crate::processor::missions::files::quest_data::QuestFile;
-use crate::processor::missions::{MissionFileId, MissionId, Rewards};
+use crate::processor::missions::{MissionFileId, MissionId};
 use anyhow::Context;
 use rslib::config::Config;
 use std::collections::{HashMap, HashSet};
 use std::fs;
-use std::path::{Path, PathBuf};
+use std::path::Path;
 
 pub mod mission_data;
 pub mod quest_data;
@@ -13,7 +13,6 @@ pub mod quest_data;
 const MISSIONS_DIR: &str = "user/missions/data";
 
 pub struct MissionFiles {
-    pub file_id: String,
     pub mission: MissionFile,
     pub quest: Option<QuestFile>,
 }
@@ -28,7 +27,6 @@ impl MissionFiles {
         };
 
         Ok(Self {
-            file_id,
             mission,
             quest,
         })
@@ -57,22 +55,8 @@ impl MissionFiles {
         Ok(result)
     }
 
-    pub fn strings_path(&self) -> PathBuf {
-        PathBuf::from(format!("msg/missions/Mission{}.json", self.file_id))
-    }
-
     pub fn is_ignored(&self) -> bool {
         self.mission.is_ignored()
-    }
-
-    pub fn can_have_assignment(&self) -> bool { self.mission.can_have_assignment() }
-
-    pub fn rewards(&self) -> Rewards {
-        if let Some(quest) = &self.quest {
-            From::from(&quest.rewards)
-        } else {
-            Rewards::default()
-        }
     }
 }
 

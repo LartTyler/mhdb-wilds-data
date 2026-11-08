@@ -3,9 +3,7 @@ use crate::processor::missions::{
     MissionFileId, MissionId, MonsterTarget, ObjectiveTarget, Rewards,
 };
 use crate::processor::monsters::MonsterId;
-use crate::processor::{
-    Guid, GuildPoints, HunterRankPoints, HunterRankValue, MasterRankValue, Zenny,
-};
+use crate::processor::{Guid, GuildPoints, HunterRankPoints, HunterRankValue, Zenny};
 use crate::serde::zero_is_none;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
@@ -110,12 +108,6 @@ pub struct Requirements {
     pub max_players: MaxPlayerCount,
     #[serde(rename(deserialize = "_OrderHR"), deserialize_with = "zero_is_none")]
     pub hunter_rank: Option<HunterRankValue>,
-    #[serde(
-        rename(deserialize = "_OrderMR"),
-        deserialize_with = "zero_is_none",
-        skip_serializing
-    )]
-    pub master_rank: Option<MasterRankValue>,
 }
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -175,7 +167,10 @@ enum ConditionKind {
 impl ConditionKind {
     fn is_monster_target(&self) -> bool {
         use ConditionKind::*;
-        matches!(self, Hunt | Kill | KillSmallMonster | Capture | BreakPart | Weaken)
+        matches!(
+            self,
+            Hunt | Kill | KillSmallMonster | Capture | BreakPart | Weaken
+        )
     }
 }
 

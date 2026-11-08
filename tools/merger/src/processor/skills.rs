@@ -1,4 +1,3 @@
-use crate::processor::armor::{Bonus, BonusRank};
 use crate::processor::context::Context;
 use crate::processor::{
     LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile, armor,
@@ -120,29 +119,6 @@ pub fn process(config: &Config, filters: &[Processor], Context { placeholders }:
             if bonus_slot.is_none() {
                 *bonus_slot = Some(skill.game_id);
             }
-
-            // TODO Deprecated
-            // region Deprecated: To be removed after 2026-05-01
-            let deprecated_bonus = match skill.kind {
-                SkillKind::Group => &mut data.group_bonus,
-                SkillKind::Set => &mut data.set_bonus,
-                _ => continue,
-            };
-
-            let deprecated_bonus = deprecated_bonus.get_or_insert_with(|| Bonus {
-                skill_id: id,
-                ranks: Vec::new(),
-            });
-
-            for rank in &skill.ranks {
-                deprecated_bonus.ranks.push(BonusRank {
-                    pieces: rank.set_pieces_required,
-                    skill_level: rank.level,
-                });
-            }
-
-            deprecated_bonus.ranks.sort_by_key(|v| v.pieces);
-            // endregion
         }
     }
 

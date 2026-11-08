@@ -66,20 +66,16 @@ pub struct ActivityMission {
 
 impl ActivityMission {
     pub fn is_empty(&self) -> bool {
-        self.objectives.is_empty()
-            || self
+        self.objectives.is_empty() ||
+            self
                 .objectives
                 .iter()
                 .all(ActivityMissionObjective::is_empty)
     }
 }
 
-pub type ObjectiveId = u8;
-
 #[derive(Debug, Deserialize)]
 pub struct ActivityMissionObjective {
-    #[serde(rename = "_MissionObjectiveID")]
-    pub id: ObjectiveId,
     #[serde(rename = "_AchievedObjectiveList")]
     pub tasks: Vec<MissionObjectiveTask>,
 }
@@ -89,8 +85,6 @@ impl ActivityMissionObjective {
         self.tasks.is_empty()
     }
 }
-
-pub type TaskId = u8;
 
 #[derive(Debug, Deserialize)]
 pub struct MissionObjectiveTask {

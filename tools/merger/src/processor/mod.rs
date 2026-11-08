@@ -28,7 +28,6 @@ mod skills;
 mod weapons;
 
 pub type Zenny = usize;
-pub type RankPoints = u16;
 
 #[derive(Debug, Deserialize, ValueEnum, Copy, Clone, Ord, PartialOrd, Eq, PartialEq)]
 #[serde(rename_all = "lowercase")]
@@ -136,17 +135,6 @@ impl<V: GameId> FileObjects<V> {
         }
     }
 
-    pub fn with_capacity(capacity: usize) -> Self {
-        Self {
-            items: Vec::with_capacity(capacity),
-            lookup: LookupMap::with_capacity(capacity),
-        }
-    }
-
-    pub fn size(&self) -> usize {
-        self.items.len()
-    }
-
     pub fn add(&mut self, item: V) {
         self.lookup.insert(item.get_game_id(), self.items.len());
         self.items.push(item);
@@ -174,14 +162,6 @@ impl<V: GameId> FileObjects<V> {
     {
         let index = self.lookup.get(id.borrow())?;
         self.items.get_mut(*index)
-    }
-
-    pub fn items_mut(&mut self) -> &mut [V] {
-        self.items.as_mut()
-    }
-
-    pub fn take_items(self) -> Vec<V> {
-        self.items
     }
 }
 
@@ -259,9 +239,6 @@ pub enum Error {
         #[source]
         wax::GlobError,
     ),
-
-    #[error("{0}")]
-    Generic(&'static str),
 }
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
@@ -590,9 +567,6 @@ pub enum HunterRank {
 
 pub type HunterRankValue = u8;
 pub type HunterRankPoints = u32;
-
-pub type MasterRankValue = u8;
-pub type MasterRankPoints = u32;
 
 pub type GuildPoints = u16;
 

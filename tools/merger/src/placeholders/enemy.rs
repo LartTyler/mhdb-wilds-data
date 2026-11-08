@@ -14,7 +14,6 @@ enum Mode {
     Alpha,
     Frenzied,
     Tempered,
-    ArchTempered,
 }
 
 impl Mode {
@@ -27,7 +26,6 @@ impl Mode {
             Alpha => "EnemyText_EXTRA_NAME_",
             Frenzied => "EnemyText_FRENZY_NAME_",
             Tempered => "EnemyText_LEGENDARY_NAME_",
-            ArchTempered => "EnemyText_LEGENDARY_KING_NAME_",
         }
     }
 }

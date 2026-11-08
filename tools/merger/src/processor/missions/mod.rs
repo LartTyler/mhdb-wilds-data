@@ -205,21 +205,6 @@ struct Mission {
     rewards: Option<Rewards>,
 }
 
-impl Mission {
-    fn assignment(game_id: MissionId, kind: MissionKind) -> Self {
-        Self {
-            game_id,
-            kind,
-            title: LanguageMap::new(),
-            description: LanguageMap::new(),
-            chapter: None,
-            sort: 0,
-            objective: None,
-            rewards: None,
-        }
-    }
-}
-
 #[derive(Debug, Serialize)]
 #[serde(rename_all = "kebab-case", tag = "kind")]
 enum MissionKind {
@@ -319,11 +304,6 @@ impl Rewards {
 
     fn into_option(self) -> Option<Self> {
         if self.is_empty() { None } else { Some(self) }
-    }
-
-    fn with_items(mut self, items: Vec<ItemReward>) -> Self {
-        self.items = items;
-        self
     }
 }
 

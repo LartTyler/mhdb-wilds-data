@@ -1,5 +1,3 @@
-use crate::processor::Guid;
-use crate::processor::locations::StageId;
 use crate::processor::missions::{MissionFileId, MissionId};
 use crate::serde::zero_is_none;
 use serde::Deserialize;
@@ -13,10 +11,6 @@ pub struct MissionFile {
     pub id: MissionId,
     #[serde(rename = "_MissionTypeSerial")]
     pub kind: MissionKindCode,
-    #[serde(rename = "_SetLGuideMsgData")]
-    pub title: TitleBlock,
-    #[serde(rename = "_EmSetDataList")]
-    pub enemy_list: Vec<EnemyReference>,
     #[serde(rename = "_QuestData")]
     pub quest_data_path: Option<PathBuf>,
 
@@ -46,20 +40,6 @@ impl MissionFile {
     }
 
     pub fn can_have_assignment(&self) -> bool { self.kind.can_have_assignment() }
-}
-
-#[derive(Debug, Deserialize)]
-pub struct TitleBlock {
-    #[serde(rename = "SetMsgID")]
-    pub guid: Guid,
-}
-
-#[derive(Debug, Deserialize)]
-pub struct EnemyReference {
-    #[serde(rename = "_Stage")]
-    pub stage_id: StageId,
-    #[serde(rename = "_EmSet_BossZako")]
-    pub engine_file_path: Option<PathBuf>,
 }
 
 #[derive(Debug, Deserialize_repr, Copy, Clone)]

@@ -184,10 +184,11 @@ impl From<&HuntingHornData> for HuntingHorn {
     }
 }
 
-#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone, Hash, Eq, PartialEq)]
+#[derive(Debug, Deserialize_repr, Serialize, Copy, Clone, Hash, Eq, PartialEq, Default)]
 #[serde(rename_all(serialize = "lowercase"))]
 #[repr(u8)]
 enum Note {
+    #[default]
     None = 0,
     Purple = 1,
     Red = 2,
@@ -202,12 +203,6 @@ enum Note {
 impl Note {
     fn is_present(&self) -> bool {
         !matches!(self, Self::None)
-    }
-}
-
-impl Default for Note {
-    fn default() -> Self {
-        Self::None
     }
 }
 
