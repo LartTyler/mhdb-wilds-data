@@ -1,3 +1,5 @@
+use crate::placeholders::Placeholders;
+use crate::processor::context::Context;
 use clap::ValueEnum;
 use console::Style;
 use rslib::config::Config;
@@ -5,6 +7,7 @@ use rslib::formats::msg::{LanguageCode, Msg};
 use serde::de::DeserializeOwned;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
+use std::borrow::Borrow;
 use std::collections::HashMap;
 use std::fmt::Display;
 use std::fs;
@@ -16,11 +19,15 @@ mod accessories;
 mod amulets;
 mod armor;
 mod charms;
+mod context;
 mod items;
 mod locations;
+mod missions;
 mod monsters;
 mod skills;
 mod weapons;
+
+pub type Zenny = usize;
 
 #[derive(Debug, Deserialize, ValueEnum, Copy, Clone, Ord, PartialOrd, Eq, PartialEq)]
 #[serde(rename_all = "lowercase")]
@@ -49,6 +56,7 @@ pub enum Processor {
     Monsters,
     Locations,
     WeaponSeries,
+    Missions,
 }
 
 impl Processor {
@@ -108,6 +116,55 @@ type IdMap = HashMap<isize, u8>;
 /// during processing.
 type LookupMap<K = isize> = HashMap<K, usize>;
 
+pub trait GameId {
+    type Id: Hash + Eq;
+    fn get_game_id(&self) -> Self::Id;
+}
+
+#[derive(Debug)]
+pub struct FileObjects<V: GameId> {
+    items: Vec<V>,
+    lookup: LookupMap<V::Id>,
+}
+
+impl<V: GameId> FileObjects<V> {
+    pub fn new() -> Self {
+        Self {
+            items: Vec::new(),
+            lookup: LookupMap::new(),
+        }
+    }
+
+    pub fn add(&mut self, item: V) {
+        self.lookup.insert(item.get_game_id(), self.items.len());
+        self.items.push(item);
+    }
+
+    pub fn add_fetch_mut(&mut self, item: V) -> &mut V {
+        let id = item.get_game_id();
+        self.add(item);
+
+        self.get_mut(id)
+            .expect("Item was just inserted, it must exist")
+    }
+
+    pub fn get<Id>(&self, id: Id) -> Option<&V>
+    where
+        Id: Borrow<V::Id>,
+    {
+        let index = self.lookup.get(id.borrow())?;
+        self.items.get(*index)
+    }
+
+    pub fn get_mut<Id>(&mut self, id: Id) -> Option<&mut V>
+    where
+        Id: Borrow<V::Id>,
+    {
+        let index = self.lookup.get(id.borrow())?;
+        self.items.get_mut(*index)
+    }
+}
+
 macro_rules! _replace_expr {
     ($_t:tt $sub:expr) => {
         $sub
@@ -127,7 +184,7 @@ macro_rules! sections {
         let count = _count!($( $msg )*);
 
         let mut header_fn = move |message: &str| {
-            println!("{} {message}", style.apply_to(format!("[{position}/{count}]")));
+            println!("{} {message}", style.apply_to(format!("[{position:2}/{count}]")));
             position += 1;
         };
 
@@ -139,16 +196,20 @@ macro_rules! sections {
 }
 
 pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
+    let placeholders = Placeholders::with_default_strings(config)?;
+    let context = Context::new(placeholders);
+
     sections! {
-        "Merging accessory files..." => accessories::process(config, filters)?,
-        "Merging item files..." => items::process(config, filters)?,
+        "Merging accessory files..." => accessories::process(config, filters, &context)?,
+        "Merging item files..." => items::process(config, filters, &context)?,
         "Merging charm files..." => charms::process(config, filters)?,
-        "Merging amulet files..." => amulets::process(config, filters)?,
-        "Merging armor files..." => armor::process(config, filters)?,
-        "Merging skill files..." => skills::process(config, filters)?,
-        "Merging weapon files..." => weapons::process(config, filters)?,
-        "Merging monster files..." => monsters::process(config, filters)?,
+        "Merging amulet files..." => amulets::process(config, filters, &context)?,
+        "Merging armor files..." => armor::process(config, filters, &context)?,
+        "Merging skill files..." => skills::process(config, filters, &context)?,
+        "Merging weapon files..." => weapons::process(config, filters, &context)?,
+        "Merging monster files..." => monsters::process(config, filters, &context)?,
         "Merging location files..." => locations::process(config, filters)?,
+        "Merging mission files..." => missions::process(config, filters, &context)?,
     }
 
     Ok(())
@@ -159,10 +220,25 @@ pub type Result<T = ()> = std::result::Result<T, Error>;
 #[derive(Debug, thiserror::Error)]
 pub enum Error {
     #[error("io: {0}")]
-    Io(#[from] std::io::Error),
+    Io(
+        #[from]
+        #[source]
+        std::io::Error,
+    ),
 
     #[error("parse: {0}")]
-    Parse(#[from] serde_json::Error),
+    Parse(
+        #[from]
+        #[source]
+        serde_json::Error,
+    ),
+
+    #[error("glob: {0}")]
+    Glob(
+        #[from]
+        #[source]
+        wax::GlobError,
+    ),
 }
 
 /// Language list from https://github.com/dtlnor/RE_MSG/blob/main/LanguagesEnum.md
@@ -332,7 +408,7 @@ impl From<&Language> for LanguageCode {
     }
 }
 
-trait PopulateStrings {
+pub trait PopulateStrings {
     fn populate(&self, guid: &str, strings: &mut LanguageMap);
     fn populate_by_name(&self, name: &str, strings: &mut LanguageMap);
 }
@@ -341,7 +417,7 @@ impl PopulateStrings for Msg {
     fn populate(&self, guid: &str, strings: &mut LanguageMap) {
         for (index, lang) in self.languages.iter().enumerate() {
             if let Some(value) = self.get(guid, index) {
-                strings.insert(lang.into(), value.to_owned());
+                strings.insert(lang.into(), value.trim_end().to_owned());
             }
         }
     }
@@ -349,13 +425,13 @@ impl PopulateStrings for Msg {
     fn populate_by_name(&self, name: &str, strings: &mut LanguageMap) {
         for (index, lang) in self.languages.iter().enumerate() {
             if let Some(value) = self.get_by_name(name, index) {
-                strings.insert(lang.into(), value.to_owned());
+                strings.insert(lang.into(), value.trim_end().to_owned());
             }
         }
     }
 }
 
-trait ReadFile {
+pub trait ReadFile {
     fn read_file<P: AsRef<Path>>(path: P) -> Result<Self>
     where
         Self: Sized;
@@ -382,10 +458,8 @@ where
     fn write_file<P: AsRef<Path>>(&self, path: P) -> Result {
         let parent = path.as_ref().parent();
 
-        if let Some(parent) = parent {
-            if !parent.exists() {
-                fs::create_dir_all(parent)?;
-            }
+        if let Some(parent) = parent.filter(|v| v.exists()) {
+            fs::create_dir_all(parent)?;
         }
 
         fs::write(path, serde_json::to_string_pretty(self)?)?;
@@ -490,6 +564,11 @@ pub enum HunterRank {
     Low,
     High,
 }
+
+pub type HunterRankValue = u8;
+pub type HunterRankPoints = u32;
+
+pub type GuildPoints = u16;
 
 #[derive(Debug, Deserialize_repr, Serialize, Copy, Clone)]
 #[serde(rename_all = "kebab-case")]

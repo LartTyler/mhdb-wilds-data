@@ -1,6 +1,6 @@
 use crate::is_weapon;
-use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use crate::processor::Processor;
+use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 

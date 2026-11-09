@@ -1,7 +1,6 @@
-use crate::placeholders::{ApplyContext, Placeholder};
-use crate::processor::armor::{Bonus, BonusRank};
+use crate::processor::context::Context;
 use crate::processor::{
-    armor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile, armor,
 };
 use crate::serde::is_default;
 use crate::serde::ordered_map;
@@ -20,7 +19,7 @@ const RANK_STRINGS: &str = "msg/Skill.json";
 
 const OUTPUT: &str = "merged/Skill.json";
 
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], Context { placeholders }: &Context) -> Result {
     should_run!(filters, Processor::Skill);
 
     let data: Vec<SkillData> = Vec::read_file(config.io.output.join(SKILL_DATA))?;
@@ -30,8 +29,6 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
 
     let mut merged: Vec<Skill> = Vec::with_capacity(data.len());
     let mut lookup = LookupMap::with_capacity(data.len());
-
-    let placeholder_context = ApplyContext::empty();
 
     for data in data {
         progress.inc(1);
@@ -46,7 +43,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         }
 
         strings.populate(&data.description_guid, &mut skill.descriptions);
-        Placeholder::process(&mut skill.descriptions, &placeholder_context);
+        placeholders.apply(&mut skill.descriptions);
 
         lookup.insert(skill.game_id, merged.len());
         merged.push(skill);
@@ -73,7 +70,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         strings.populate(&data.name_guid, &mut rank.names);
 
         strings.populate(&data.description_guid, &mut rank.descriptions);
-        Placeholder::process(&mut rank.descriptions, &placeholder_context);
+        placeholders.apply(&mut rank.descriptions);
 
         skill.ranks.push(rank);
     }
@@ -122,29 +119,6 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
             if bonus_slot.is_none() {
                 *bonus_slot = Some(skill.game_id);
             }
-
-            // TODO Deprecated
-            // region Deprecated: To be removed after 2026-05-01
-            let deprecated_bonus = match skill.kind {
-                SkillKind::Group => &mut data.group_bonus,
-                SkillKind::Set => &mut data.set_bonus,
-                _ => continue,
-            };
-
-            let deprecated_bonus = deprecated_bonus.get_or_insert_with(|| Bonus {
-                skill_id: id,
-                ranks: Vec::new(),
-            });
-
-            for rank in &skill.ranks {
-                deprecated_bonus.ranks.push(BonusRank {
-                    pieces: rank.set_pieces_required,
-                    skill_level: rank.level,
-                });
-            }
-
-            deprecated_bonus.ranks.sort_by_key(|v| v.pieces);
-            // endregion
         }
     }
 
