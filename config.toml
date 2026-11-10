@@ -62,6 +62,7 @@ files = [
     "Enemy/CommonData/Data/EmCommonRandomSize.user.3",
     "Common/Enemy/EnemyData.user.3",
     "Common/Enemy/EnemyReportBossData.user.3",
+    "Common/Enemy/EnemyReportZakoData.user.3",
     "Enemy/CommonData/Data/EmParamBadCondition2.user.3",
     "Enemy/CommonData/Data/EmParamBadConditionPreset.user.3",
     "Common/Enemy/EnemyReportMeasureFreeInfoData.user.3",

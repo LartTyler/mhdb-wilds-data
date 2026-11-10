@@ -2,7 +2,7 @@ use crate::processor::locations::StageId;
 use crate::processor::missions::{
     MissionFileId, MissionId, MonsterTarget, ObjectiveTarget, Rewards,
 };
-use crate::processor::monsters::MonsterId;
+use crate::processor::monsters_old::MonsterId;
 use crate::processor::{Guid, GuildPoints, HunterRankPoints, HunterRankValue, Zenny};
 use crate::serde::zero_is_none;
 use serde::{Deserialize, Serialize};

@@ -1,7 +1,7 @@
 use crate::add_condition;
-use crate::processor::monsters::MonsterId;
-use crate::processor::monsters::large::RunContext;
-use crate::processor::monsters::large::parts::Multipliers;
+use crate::processor::monsters_old::MonsterId;
+use crate::processor::monsters_old::large::RunContext;
+use crate::processor::monsters_old::large::parts::Multipliers;
 use crate::processor::weapons::{Element, Status};
 use crate::processor::{Guid, LanguageMap, PopulateStrings, ReadFile};
 use crate::serde::optional_ordered_map;

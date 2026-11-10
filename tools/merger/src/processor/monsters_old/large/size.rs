@@ -1,6 +1,6 @@
 use crate::processor::ReadFile;
-use crate::processor::monsters::MonsterId;
-use crate::processor::monsters::large::RunContext;
+use crate::processor::monsters_old::MonsterId;
+use crate::processor::monsters_old::large::RunContext;
 use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 

@@ -13,7 +13,7 @@ const QUEST_REWARD_DATA: &str = "user/missions/QuestRewardSetting.json";
 pub(super) fn load_reward_tables(config: &Config) -> anyhow::Result<RewardTables> {
     log::debug!("Loading reward tables");
 
-    let mut reward_tables = FileObjects::new();
+    let mut reward_tables = FileObjects::default();
     let data: Vec<ItemReward> = Vec::read_file(config.data_path(COMMON_TABLE_DATA))?;
 
     for data in data {
@@ -85,7 +85,7 @@ impl RewardTables {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Default)]
 struct RewardTable {
     id: RewardTableId,
     items: Vec<ItemReward>,

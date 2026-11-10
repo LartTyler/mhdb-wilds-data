@@ -1,4 +1,4 @@
-use crate::processor::monsters::large::RunContext;
+use crate::processor::monsters_old::large::RunContext;
 use crate::processor::weapons::insect_glaive::KinsectEssenceKind;
 use crate::processor::{LanguageMap, PopulateStrings, ReadFile, WriteFile};
 use crate::serde::ordered_map;

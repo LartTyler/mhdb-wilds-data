@@ -1,10 +1,10 @@
 use crate::processor::locations::StageId;
-use crate::processor::monsters::large::effectives::{Resistance, SpecialKind, Weakness};
-use crate::processor::monsters::large::identifiers::{IdentifierMap, Identifiers};
-use crate::processor::monsters::large::parts::Part;
-use crate::processor::monsters::large::rewards::Reward;
-use crate::processor::monsters::large::size::Size;
-use crate::processor::monsters::{
+use crate::processor::monsters_old::large::effectives::{Resistance, SpecialKind, Weakness};
+use crate::processor::monsters_old::large::identifiers::{IdentifierMap, Identifiers};
+use crate::processor::monsters_old::large::parts::Part;
+use crate::processor::monsters_old::large::rewards::Reward;
+use crate::processor::monsters_old::large::size::Size;
+use crate::processor::monsters_old::{
     CommonData, MONSTER_DATA, MONSTER_STRINGS, MonsterId, REFS_FIELD, SpeciesKind,
 };
 use crate::processor::{Context, LanguageMap, Lookup, LookupMap, PopulateStrings, ReadFile, WriteFile};
