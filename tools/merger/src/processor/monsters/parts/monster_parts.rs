@@ -1,15 +1,15 @@
 use crate::processor::monsters::id::Identifiers;
-use crate::processor::monsters::parts::PartKind;
+use crate::processor::monsters::parts::{PartKind, break_rewards};
 use crate::processor::monsters::{Health, Monster};
 use crate::processor::weapons::insect_glaive::KinsectEssenceKind;
-use crate::processor::{FileObjects, Guid, Percentage, PercentageConversion, ReadFile};
+use crate::processor::{FileObjects, Guid, Multiplier, Percentage, PercentageConversion, ReadFile};
 use anyhow::Context;
 use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 
-const PARTS_DIR: &str = "user/monsters/parts";
+pub const PARTS_DIR: &str = "user/monsters/parts";
 
 pub(super) fn process(
     config: &Config,
@@ -19,7 +19,14 @@ pub(super) fn process(
     let base_path = config.data_path(PARTS_DIR);
 
     for monster in monsters.items_mut() {
-        let path = base_path.join(ids.parts_file(monster.game_id)?);
+        log::trace!("Processing {}", monster.game_id);
+
+        let file = match monster.context.file_pack.monster_parts_file() {
+            Some(v) => v,
+            _ => &ids.parts_file(monster.game_id)?,
+        };
+
+        let path = base_path.join(file);
         let data = PartsData::read_file(path)?;
 
         monster.base_health = data.base_health;
@@ -63,23 +70,10 @@ pub(super) fn process(
             part.context.break_guids.push(data.guid);
         }
 
-        let path = base_path.join(ids.part_break_rewards_file(monster.game_id)?);
-        let data: Vec<BreakRewardData> = Vec::read_file(path)?;
-
-        for data in data {
-            for target in data.targets {
-                let part = monster.parts.iter_mut()
-                    .find(|v| v.context.break_guids.contains(&target.guid))
-                    .with_context(|| {
-                        format!("Could not find part with break GUID {:?}", target.guid)
-                    })?;
-
-                part.context.break_reward_indices.push(data.index);
-            }
-        }
+        break_rewards::process(ids, &base_path, monster)?;
     }
 
-    todo!()
+    Ok(())
 }
 
 pub type BreakIndex = i16;
@@ -123,7 +117,7 @@ impl From<PartData> for MonsterPart {
 pub struct MonsterPartContext {
     guid: Guid,
     meat_guid: Guid,
-    break_guids: Vec<Guid>,
+    pub break_guids: Vec<Guid>,
     pub break_reward_indices: Vec<BreakIndex>,
 }
 
@@ -137,7 +131,7 @@ struct PartsData {
     multipliers: Vec<MultiplierData>,
     #[serde(rename = "_PartsBreakArray")]
     breakables: Vec<BreakData>,
-    #[serde(rename = "_MultiPartsData")]
+    #[serde(rename = "_MultiPartsArray")]
     linked_parts: Vec<LinkedPartsData>,
 }
 
@@ -155,11 +149,9 @@ struct PartData {
     health: Vec<PartHealth>,
     #[serde(rename = "_RodExtract")]
     kinsect_essence: KinsectEssenceKind,
-    #[serde(rename = "_IsEnabledPartsVital")]
+    #[serde(rename = "_IsEnablePartsVital")]
     has_health: bool,
 }
-
-type Multiplier = f32;
 
 #[derive(Debug, Serialize, Default, Clone)]
 pub struct Multipliers {
@@ -237,18 +229,4 @@ struct LinkedPartsData {
     guid: Guid,
     #[serde(rename = "_LinkPartsGuids")]
     targets: Vec<Guid>,
-}
-
-#[derive(Debug, Deserialize)]
-struct BreakRewardData {
-    #[serde(rename = "RewardTableIndex")]
-    index: BreakIndex,
-    #[serde(rename = "PartsBreakData")]
-    targets: Vec<BreakRewardTarget>,
-}
-
-#[derive(Debug, Deserialize)]
-struct BreakRewardTarget {
-    #[serde(rename = "_BreakParts")]
-    guid: Guid,
 }

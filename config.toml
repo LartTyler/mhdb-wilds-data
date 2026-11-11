@@ -79,10 +79,17 @@ match = "EnemyWeakAttrData.user.3"
 rsz = [0]
 
 [[user.targets]]
+output_prefix = "monsters/packs"
+files = [
+    "Enemy/Em*/*/Data/Em*_ParamPack.user.3",
+]
+
+[[user.targets]]
 output_prefix = "monsters/parts"
 files = [
     "Enemy/Em*/*/Data/Em*_Param_Parts.user.3",
     "Enemy/Em*/*/Data/Em*_Param_PartsBreakReward.user.3",
+    "Enemy/Em*/*/Data/Em*_Param_PartsEffect.user.3",
 ]
 
 [[user.targets]]

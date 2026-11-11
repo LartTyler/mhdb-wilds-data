@@ -1,8 +1,7 @@
+use crate::processor::monsters::id::Identifiers;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::species::SpeciesKind;
-use crate::processor::monsters::{
-    Monster, MonsterId, MonsterKind, SmallMonster, Variant, VariantKind,
-};
+use crate::processor::monsters::{Monster, MonsterContext, MonsterId, MonsterKind, SmallMonster, Variant, VariantKind};
 use crate::processor::{FileObjects, Guid, LanguageMap, PopulateStrings, ReadFile};
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
@@ -12,7 +11,7 @@ use strum::IntoEnumIterator;
 const STRINGS: &str = "msg/EnemyText.json";
 const DATA: &str = "user/monsters/EnemyData.json";
 
-pub fn load(config: &Config) -> anyhow::Result<FileObjects<Monster>> {
+pub fn load(config: &Config, ids: &Identifiers) -> anyhow::Result<FileObjects<Monster>> {
     let strings = Msg::read_file(config.data_path(STRINGS))?;
 
     let data: Vec<CommonData> = Vec::read_file(config.data_path(DATA))?;
@@ -52,8 +51,13 @@ pub fn load(config: &Config) -> anyhow::Result<FileObjects<Monster>> {
             base_health: 0,
             parts: Vec::new(),
             rewards: Vec::new(),
+            locations: Vec::new(),
+            context: MonsterContext {
+                file_pack: ids.load_file_pack(config, data.monster_id)?,
+            },
         };
 
+        strings.populate(&data.names.normal, &mut monster.name);
         strings.populate(&data.description, &mut monster.description);
         strings.populate(&data.features, &mut monster.features);
 
@@ -79,8 +83,6 @@ pub(super) struct CommonData {
     pub tips: Guid,
     #[serde(rename = "_BossIconType")]
     large_icon: u8,
-    #[serde(rename = "_ZakoIconType")]
-    small_icon: u8,
 }
 
 impl CommonData {

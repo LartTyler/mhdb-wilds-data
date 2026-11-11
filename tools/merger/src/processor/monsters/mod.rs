@@ -1,6 +1,7 @@
-use crate::processor::context::Context;
+use crate::processor::locations::StageId;
 use crate::processor::monsters::common_data::CommonData;
 use crate::processor::monsters::effectives::{Resistance, Weakness};
+use crate::processor::monsters::files::FilePack;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::parts::monster_parts::MonsterPart;
 use crate::processor::monsters::rewards::Reward;
@@ -19,33 +20,27 @@ mod species;
 mod effectives;
 mod parts;
 mod rewards;
+mod locations;
+mod files;
 
 const OUTPUT: &str = "user/monsters/Monsters.json";
 
 pub type MonsterId = isize;
 
-pub(super) fn process(
-    config: &Config,
-    filters: &[Processor],
-    context: &Context,
-) -> anyhow::Result<()> {
+pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
     species::process(config)?;
 
     let ids = id::load(config)?;
-    let mut monsters = common_data::load(config)?;
+    let mut monsters = common_data::load(config, &ids)?;
 
     parts::process(config, &mut monsters, &ids)?;
     rewards::process(config, &mut monsters, &ids)?;
     effectives::process(config, &mut monsters)?;
+    locations::process(config, &mut monsters)?;
 
-    for monster in monsters.items_mut() {
-        match monster.kind {
-            MonsterKind::Large(_) => large::process(config, &ids, monster)?,
-            MonsterKind::Small(_) => unimplemented!(),
-        }
-    }
+    large::process(config, &mut monsters)?;
 
     let monsters = monsters.into_items().sorted_by_game_id();
     monsters.write_file(config.merged_path(OUTPUT))?;
@@ -71,6 +66,9 @@ struct Monster {
     pub base_health: Health,
     pub parts: Vec<MonsterPart>,
     pub rewards: Vec<Reward>,
+    pub locations: Vec<StageId>,
+    #[serde(skip)]
+    pub context: MonsterContext,
 }
 
 impl GameId for Monster {
@@ -79,6 +77,11 @@ impl GameId for Monster {
     fn get_game_id(&self) -> Self::Id {
         self.game_id
     }
+}
+
+#[derive(Debug)]
+struct MonsterContext {
+    file_pack: FilePack,
 }
 
 #[derive(Debug, Serialize)]

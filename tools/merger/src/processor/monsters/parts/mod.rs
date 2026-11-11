@@ -7,6 +7,7 @@ use serde_repr::Deserialize_repr;
 
 mod names;
 pub mod monster_parts;
+mod break_rewards;
 
 pub fn process(
     config: &Config,

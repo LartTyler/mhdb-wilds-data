@@ -20,6 +20,8 @@ pub(super) fn process(
     let path = config.data_path(DATA_DIR);
 
     for monster in monsters.items_mut() {
+        log::trace!("Processing {}", monster.game_id);
+
         let path = path.join(ids.reward_file(monster.game_id)?);
         let data: Vec<RewardData> = Vec::read_file(path)?;
 

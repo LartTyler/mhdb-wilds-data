@@ -233,7 +233,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging armor files..." => armor::process(config, filters, &context)?,
         "Merging skill files..." => skills::process(config, filters, &context)?,
         "Merging weapon files..." => weapons::process(config, filters, &context)?,
-        "Merging monster files..." => monsters::process(config, filters, &context)?,
+        "Merging monster files..." => monsters::process(config, filters)?,
         "Merging location files..." => locations::process(config, filters)?,
         "Merging mission files..." => missions::process(config, filters, &context)?,
     }
@@ -633,3 +633,5 @@ impl PercentageConversion for Percentage {
         *self as f32 / 100.0
     }
 }
+
+pub type Multiplier = f32;

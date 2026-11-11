@@ -1,15 +1,15 @@
-use crate::processor::LanguageMap;
-use crate::processor::monsters::id::Identifiers;
+use crate::processor::monsters::large::size::MonsterSize;
 use crate::processor::monsters::{Monster, MonsterKind, Variant};
+use crate::processor::{FileObjects, LanguageMap};
 use crate::serde::ordered_map;
 use rslib::config::Config;
 use serde::Serialize;
 
-pub fn process(
-    config: &Config,
-    ids: &Identifiers,
-    monster: &mut Monster,
-) -> anyhow::Result<()> {
+mod size;
+
+pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::Result<()> {
+    size::process(config, monsters)?;
+
     Ok(())
 }
 
@@ -18,6 +18,7 @@ pub struct LargeMonster {
     pub variants: Vec<Variant>,
     #[serde(serialize_with = "ordered_map")]
     pub tips: LanguageMap,
+    pub size: MonsterSize,
 }
 
 impl From<LargeMonster> for MonsterKind {

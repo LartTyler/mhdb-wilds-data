@@ -152,6 +152,8 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     Ok(())
 }
 
+pub type StageBitmask = u32;
+
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Stage {
     pub game_id: StageId,
@@ -159,7 +161,7 @@ pub struct Stage {
     pub names: LanguageMap,
     pub areas: u16,
     pub camps: Vec<Camp>,
-    pub bitmask_value: u32,
+    pub bitmask_value: StageBitmask,
 }
 
 impl From<&StageIdData> for Stage {
@@ -185,7 +187,7 @@ struct StageIdData {
 }
 
 impl StageIdData {
-    fn bitmask(&self) -> u32 {
+    fn bitmask(&self) -> StageBitmask {
         1 << (self.value + 1)
     }
 

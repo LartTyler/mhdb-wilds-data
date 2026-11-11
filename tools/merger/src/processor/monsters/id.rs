@@ -1,19 +1,27 @@
 use crate::processor::ReadFile;
-use crate::processor::monsters::MonsterId;
+use crate::processor::monsters::files::FilePack;
+use crate::processor::monsters::{MonsterId, files};
 use anyhow::Context;
 use rslib::config::Config;
-use serde::{Deserialize, Deserializer, de};
-use serde_with::__private__::Unexpected;
+use serde::{Deserialize, Deserializer, de, de::Unexpected};
 use std::collections::HashMap;
 use std::path::PathBuf;
 
 const DATA: &str = "user/monsters/EmID.json";
 
+const IGNORED_ENUM_NAMES: &[&str] = &["INVALID", "MAX"];
+
 pub fn load(config: &Config) -> anyhow::Result<Identifiers> {
     let data: Vec<Identifier> = Vec::read_file(config.data_path(DATA))?;
     let identifiers: PathSegmentMap = data
         .into_iter()
-        .map(|data| (data.id, data.path_segment))
+        .filter_map(|data| {
+            if IGNORED_ENUM_NAMES.contains(&data.path_segment.as_str()) {
+                None
+            } else {
+                Some((data.id, data.path_segment))
+            }
+        })
         .collect();
 
     Ok(identifiers.into())
@@ -32,6 +40,12 @@ where
     D: Deserializer<'de>,
 {
     let value = String::deserialize(deserializer)?;
+
+    // Skip processing ignored enums, we'll filter them out after parsing is done.
+    if IGNORED_ENUM_NAMES.contains(&value.as_str()) {
+        return Ok(value);
+    }
+
     let malformed_emid_error = || -> Result<_, _> {
         Err(de::Error::invalid_value(
             Unexpected::Other(&format!("malformed EmID name '{value}'")),
@@ -60,20 +74,26 @@ impl From<PathSegmentMap> for Identifiers {
 }
 
 impl Identifiers {
+    pub fn load_file_pack(&self, config: &Config, monster_id: MonsterId) -> anyhow::Result<FilePack> {
+        files::load(config, self.path_segment(monster_id)?)
+    }
+
     pub fn path_segment(&self, monster_id: MonsterId) -> anyhow::Result<&String> {
         self.values
             .get(&monster_id)
             .with_context(|| format!("Could not find identifier for {monster_id}"))
     }
 
-    pub fn parts_file(&self, monster_id: MonsterId) -> anyhow::Result<PathBuf> {
+    pub fn parts_file(&self, monster_id: MonsterId) -> anyhow::Result<String> {
         let segment = self.path_segment(monster_id)?;
-        Ok(PathBuf::from(format!("Em{segment}_Param_Parts.json")))
+        Ok(format!("Em{segment}_Param_Parts.json"))
     }
 
     pub fn part_break_rewards_file(&self, monster_id: MonsterId) -> anyhow::Result<PathBuf> {
         let segment = self.path_segment(monster_id)?;
-        Ok(PathBuf::from(format!("Em{segment}_Param_PartsBreakReward.json")))
+        Ok(PathBuf::from(format!(
+            "Em{segment}_Param_PartsBreakReward.json"
+        )))
     }
 
     pub fn reward_file(&self, monster_id: MonsterId) -> anyhow::Result<PathBuf> {
