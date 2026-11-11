@@ -19,7 +19,7 @@
       "th": "ลำตัว",
       "es-419": "Cuerpo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -207,7 +207,7 @@
       "th": "เยื่ออ่อน",
       "es-419": "Membrana"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -230,7 +230,7 @@
       "th": "ลำคอ",
       "es-419": "Cuello"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -253,7 +253,7 @@
       "th": "ม่านคลุม: หาง (กลาง)",
       "es-419": "Velo: Cola (centro)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -276,7 +276,7 @@
       "th": "ใบมีดลูกโซ่ขวา",
       "es-419": "Hoja cadena der."
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -299,7 +299,7 @@
       "th": "ลำตัวส่วนบน",
       "es-419": "Parte superior"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -322,7 +322,7 @@
       "th": "เกราะน้ำแข็งใหญ่ (เปิด)",
       "es-419": "Placa hielo gde. (expuesta)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -345,7 +345,7 @@
       "th": "อก",
       "es-419": "Pecho"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -368,7 +368,7 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -391,7 +391,7 @@
       "th": "เหล็กใน",
       "es-419": "Aguijón"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -414,7 +414,7 @@
       "th": "ขนเสียงสะท้อน",
       "es-419": "Pluma sónica"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -437,7 +437,7 @@
       "th": "ปาก",
       "es-419": "Boca"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -460,7 +460,7 @@
       "th": "หนวด",
       "es-419": "Antena"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -483,7 +483,7 @@
       "th": "บั้นท้าย",
       "es-419": "Parte trasera"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -506,7 +506,7 @@
       "th": "เกราะน้ำแข็งส่วนหาง",
       "es-419": "Placa hielo cola"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -529,7 +529,7 @@
       "th": "ขาหน้าซ้าย",
       "es-419": "Pata delantera izq."
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -552,7 +552,7 @@
       "th": "ม่านคลุม: ลำตัวส่วนกลาง (ซ้าย)",
       "es-419": "Velo: Torso (izq.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -575,7 +575,7 @@
       "th": "จมูก",
       "es-419": "Nariz"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -598,7 +598,7 @@
       "th": "ลิ้น",
       "es-419": "Lengua"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -621,7 +621,7 @@
       "th": "ม่านคลุม: ขาหน้า (ซ้าย)",
       "es-419": "Velo: Pata delantera (izq.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -644,7 +644,7 @@
       "th": "ม่านคลุม",
       "es-419": "Velo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -667,7 +667,7 @@
       "th": "ปีกซ้าย",
       "es-419": "Ala izquierda"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -690,7 +690,7 @@
       "th": "กรงเล็บ",
       "es-419": "Garras"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -713,7 +713,7 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -736,7 +736,7 @@
       "th": "ขาขวา",
       "es-419": "Pata derecha"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -759,7 +759,7 @@
       "th": "ม่านคลุม: หัว (ขวา)",
       "es-419": "Velo: Cabeza (der.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -782,7 +782,7 @@
       "th": "ม่านคลุม: ขาหน้า (ขวา)",
       "es-419": "Velo: Pata delantera (der.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -805,7 +805,7 @@
       "th": "ขาข้างขวา (หน้า/หลัง)",
       "es-419": "Pata der. (del./tras.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -828,7 +828,7 @@
       "th": "เยื่ออ่อน (ชั้นน้ำมัน)",
       "es-419": "Membrana (capa oleosa)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -851,7 +851,7 @@
       "th": "ครีบหลัง",
       "es-419": "Aleta dorsal"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -874,7 +874,7 @@
       "th": "ขนหาง",
       "es-419": "Pelo de la cola"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -897,7 +897,7 @@
       "th": "แขนปีกขวา (คริสตัล)",
       "es-419": "Brazo ala der. (crist.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -920,7 +920,7 @@
       "th": "แขนปีกซ้าย (คริสตัล)",
       "es-419": "Brazo ala izq. (crist.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -943,7 +943,7 @@
       "th": "หนามพิษ II",
       "es-419": "Púa venenosa II"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -966,7 +966,7 @@
       "th": "หัว (คริสตัล)",
       "es-419": "Cabeza (cristalizada)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -989,7 +989,7 @@
       "th": "เขี้ยว I",
       "es-419": "Colmillo I"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1012,7 +1012,7 @@
       "th": "วัตถุดิบก็อกมา",
       "es-419": "Material de Gogma"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1035,7 +1035,7 @@
       "th": "วัตถุดิบก็อก (อก)",
       "es-419": "Mat. de Gog. (pecho)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1058,7 +1058,7 @@
       "th": "หัว (ชั้นน้ำมัน)",
       "es-419": "Cabeza (capa oleosa)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1081,7 +1081,7 @@
       "th": "ขาหน้าข้างขวา (เสริมพลัง)",
       "es-419": "Pata delantera der. (reforzada)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1104,7 +1104,7 @@
       "th": "หาง V",
       "es-419": "Cola V"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1127,7 +1127,7 @@
       "th": "แขน (ชั้นน้ำมัน)",
       "es-419": "Brazo (capa oleosa)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1150,7 +1150,7 @@
       "th": "นอ",
       "es-419": "Cuerno de hocico"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1173,7 +1173,7 @@
       "th": "แขนปีก",
       "es-419": "Brazo ala"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1196,7 +1196,7 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1219,7 +1219,7 @@
       "th": "ท้อง II",
       "es-419": "Barriga II"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1242,7 +1242,7 @@
       "th": "วัตถุดิบก็อก (หัว)",
       "es-419": "Mat. de Gog. (cabeza)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1265,7 +1265,7 @@
       "th": "เขา",
       "es-419": "Cuerno"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1288,7 +1288,7 @@
       "th": "หาง III",
       "es-419": "Cola III"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1311,7 +1311,7 @@
       "th": "หนวด",
       "es-419": "Brazo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1334,7 +1334,7 @@
       "th": "แขนปีกขวา (ดำ)",
       "es-419": "B. ala der. (caído)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1357,7 +1357,7 @@
       "th": "ก้ามหนีบ",
       "es-419": "Tenaza"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1380,7 +1380,7 @@
       "th": "วัตถุดิบก็อก (แขนปีกขวา)",
       "es-419": "Mat. de Gog. (brazo ala der.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1403,7 +1403,7 @@
       "th": "ขา",
       "es-419": "Patas"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1426,7 +1426,7 @@
       "th": "วัตถุดิบก็อก (หลัง)",
       "es-419": "Mat. de Gog. (espalda)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1449,7 +1449,7 @@
       "th": "หัว (ดำ)",
       "es-419": "Cabeza (caída)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1472,7 +1472,7 @@
       "th": "ลำตัวส่วนกลาง (ชั้นน้ำมัน)",
       "es-419": "Torso (capa oleosa)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1495,7 +1495,7 @@
       "th": "หัว II",
       "es-419": "Cabeza II"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1518,7 +1518,7 @@
       "th": "แหล่งพลังงานที่หลัง",
       "es-419": "Unidad de poder trasera"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1541,7 +1541,7 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1564,7 +1564,7 @@
       "th": "วัตถุดิบก็อก (แขนปีกซ้าย)",
       "es-419": "Mat. de Gog. (brazo ala izq.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1587,7 +1587,7 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1610,7 +1610,7 @@
       "th": "ขา",
       "es-419": "Pata"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1633,7 +1633,7 @@
       "th": "ขนแข็ง",
       "es-419": "Pelo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1656,7 +1656,7 @@
       "th": "แขนปีก (คริสตัล)",
       "es-419": "Brazo ala (crist.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1679,7 +1679,7 @@
       "th": "ปีกใบมีดลูกโซ่",
       "es-419": "Hojas cadena"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1702,7 +1702,7 @@
       "th": "แขนปีกข้างซ้าย (ดำ)",
       "es-419": "B. ala izq. (caído)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1725,7 +1725,7 @@
       "th": "เขี้ยว",
       "es-419": "Colmillo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1748,7 +1748,7 @@
       "th": "หัว I",
       "es-419": "Cabeza I"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1771,7 +1771,7 @@
       "th": "วัตถุดิบก็อก (หาง)",
       "es-419": "Mat. de Gog. (cola)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1794,14 +1794,14 @@
       "th": "ขาหน้าข้างซ้าย (เสริมพลัง)",
       "es-419": "Pata delantera izq. (reforzada)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
     "id": 28141,
     "part": "hide",
     "name": {},
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1824,7 +1824,7 @@
       "th": "เขี้ยว II",
       "es-419": "Colmillo II"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1847,7 +1847,7 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1870,7 +1870,7 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1893,7 +1893,7 @@
       "th": "ปีก",
       "es-419": "Alas"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1916,7 +1916,7 @@
       "th": "เขาอาบสารอัมพาต",
       "es-419": "Cuerno paralizante"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1939,7 +1939,7 @@
       "th": "ม่านคลุม: หาง (ขวา)",
       "es-419": "Velo: Cola (der.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1962,7 +1962,7 @@
       "th": "หลัง",
       "es-419": "Espalda"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -1985,7 +1985,7 @@
       "th": "กรงเล็บขวา",
       "es-419": "Garra derecha"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2008,7 +2008,7 @@
       "th": "ขาซ้าย (หน้า/หลัง)",
       "es-419": "Pata izq. (del./tras.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2031,14 +2031,14 @@
       "th": "ขาหลังซ้าย",
       "es-419": "Pata trasera izquierda"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
     "id": 486590176,
     "part": "invalid",
     "name": {},
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2061,7 +2061,7 @@
       "th": "หนวด",
       "es-419": "Tentáculo"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2084,7 +2084,7 @@
       "th": "เยื่อหุ้ม",
       "es-419": "Manto"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2107,7 +2107,7 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2130,7 +2130,7 @@
       "th": "ขาหลังขวา",
       "es-419": "Pata trasera derecha"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2153,7 +2153,7 @@
       "th": "เขาเลื่อย",
       "es-419": "Cuerno dentado"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2176,7 +2176,7 @@
       "th": "ปีกขวา",
       "es-419": "Ala derecha"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2199,7 +2199,7 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2222,7 +2222,7 @@
       "th": "ขาซ้าย",
       "es-419": "Pata izquierda"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2245,7 +2245,7 @@
       "th": "ใบมีดลูกโซ่ซ้าย",
       "es-419": "Hoja cadena izq."
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2268,7 +2268,7 @@
       "th": "เยื่อหุ้มส่วนล่าง",
       "es-419": "Manto inferior"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2291,7 +2291,7 @@
       "th": "เกราะน้ำแข็งส่วนสะโพก",
       "es-419": "Placa hielo abdominal"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2314,7 +2314,7 @@
       "th": "กลีบ",
       "es-419": "Pétalos"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2337,7 +2337,7 @@
       "th": "เกราะน้ำแข็งใหญ่ (ปิด)",
       "es-419": "Placa hielo gde. (oculta)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2470,7 +2470,7 @@
       "th": "ลำตัวส่วนกลาง",
       "es-419": "Torso"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2493,7 +2493,7 @@
       "th": "เกราะน้ำแข็งส่วนกะโหลก",
       "es-419": "Placa hielo craneal"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2516,7 +2516,7 @@
       "th": "ขาหลัง",
       "es-419": "Pata trasera"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2539,7 +2539,7 @@
       "th": "ลำตัวส่วนกลาง",
       "es-419": "Torso"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2562,7 +2562,7 @@
       "th": "ท้อง",
       "es-419": "Barriga"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2585,7 +2585,7 @@
       "th": "ม่านคลุม: หาง (ซ้าย)",
       "es-419": "Velo: Cola (izq.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2608,7 +2608,7 @@
       "th": "ม่านคลุม: หัว (ซ้าย)",
       "es-419": "Velo: Cabeza (izq.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2631,7 +2631,7 @@
       "th": "ทั้งลำตัว",
       "es-419": "Cuerpo entero"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2654,7 +2654,7 @@
       "th": "กรงเล็บซ้าย",
       "es-419": "Garra izquierda"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2677,7 +2677,7 @@
       "th": "ขาหน้า",
       "es-419": "Pata delantera"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2700,7 +2700,7 @@
       "th": "ปลายหาง",
       "es-419": "Punta de la cola"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2723,7 +2723,7 @@
       "th": "ม่านคลุม: ลำตัวส่วนกลาง (ขวา)",
       "es-419": "Velo: Torso (der.)"
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {
@@ -2746,7 +2746,7 @@
       "th": "ขาหน้าขวา",
       "es-419": "Pata delantera der."
     },
-    "description": {},
+    "description": null,
     "rotten_name": null
   },
   {

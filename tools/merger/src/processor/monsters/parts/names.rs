@@ -20,12 +20,18 @@ pub fn process(config: &Config) -> anyhow::Result<()> {
             id: data.kind as PartId,
             kind: data.kind,
             name: LanguageMap::new(),
-            description: LanguageMap::new(),
+            description: None,
             rotten_name: None,
         };
 
         strings.populate(&data.name_guid, &mut part.name);
-        strings.populate(&data.description_guid, &mut part.description);
+
+        let mut description = LanguageMap::new();
+        strings.populate(&data.description_guid, &mut description);
+
+        if !description.is_empty() {
+            part.description = Some(description);
+        }
 
         if !data.rotten_name_guid.is_empty() {
             let mut rotten_names = LanguageMap::new();
@@ -52,8 +58,8 @@ pub struct Part {
     kind: PartKind,
     #[serde(serialize_with = "ordered_map")]
     name: LanguageMap,
-    #[serde(serialize_with = "ordered_map")]
-    description: LanguageMap,
+    #[serde(serialize_with = "optional_ordered_map")]
+    description: Option<LanguageMap>,
     #[serde(serialize_with = "optional_ordered_map")]
     rotten_name: Option<LanguageMap>,
 }
