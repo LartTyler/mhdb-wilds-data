@@ -1,5 +1,5 @@
 use crate::processor::ReadFile;
-use crate::processor::monsters::files::FilePack;
+use crate::processor::monsters::files::Packs;
 use crate::processor::monsters::{MonsterId, files};
 use anyhow::Context;
 use rslib::config::Config;
@@ -74,7 +74,7 @@ impl From<PathSegmentMap> for Identifiers {
 }
 
 impl Identifiers {
-    pub fn load_file_pack(&self, config: &Config, monster_id: MonsterId) -> anyhow::Result<FilePack> {
+    pub fn load_file_packs(&self, config: &Config, monster_id: MonsterId) -> anyhow::Result<Packs> {
         files::load(config, self.path_segment(monster_id)?)
     }
 
@@ -84,16 +84,9 @@ impl Identifiers {
             .with_context(|| format!("Could not find identifier for {monster_id}"))
     }
 
-    pub fn parts_file(&self, monster_id: MonsterId) -> anyhow::Result<String> {
+    pub fn part_break_rewards_file(&self, monster_id: MonsterId) -> anyhow::Result<String> {
         let segment = self.path_segment(monster_id)?;
-        Ok(format!("Em{segment}_Param_Parts.json"))
-    }
-
-    pub fn part_break_rewards_file(&self, monster_id: MonsterId) -> anyhow::Result<PathBuf> {
-        let segment = self.path_segment(monster_id)?;
-        Ok(PathBuf::from(format!(
-            "Em{segment}_Param_PartsBreakReward.json"
-        )))
+        Ok(format!("Em{segment}_Param_PartsBreakReward.json"))
     }
 
     pub fn reward_file(&self, monster_id: MonsterId) -> anyhow::Result<PathBuf> {

@@ -32,6 +32,16 @@ pub(super) fn process(
                 state = data.kind;
             }
 
+            if state == RewardKind::Unknown4 {
+                log::trace!(
+                    "Ignore reward record {} for {}, got Unknown4",
+                    data.id,
+                    monster.game_id
+                );
+
+                continue;
+            }
+
             let source: RewardSource = match state {
                 RewardKind::BrokenPart => {
                     let part = monster
@@ -110,8 +120,10 @@ enum RewardSource {
     TemperedWoundDestroyed,
     CarveCrystallized,
     BrokenFragment,
+    Fishing,
 }
 
+/// From enums file: EnemyReward.RewardType_Fixed
 #[derive(Debug, Deserialize_repr, Copy, Clone, Eq, PartialEq)]
 #[repr(isize)]
 enum RewardKind {
@@ -128,6 +140,9 @@ enum RewardKind {
     CarveRottenSevered = -2122632576,
     TemperedWoundDestroyed = -1024798784,
     CarveCrystallized = 906321792,
+    Fishing = -468628128,
+    /// I think this is junk data, I'm going to ignore it for now.
+    Unknown4 = 4,
 }
 
 impl RewardKind {
@@ -152,7 +167,8 @@ impl TryFrom<RewardKind> for RewardSource {
             RewardKind::TemperedWoundDestroyed => Self::TemperedWoundDestroyed,
             RewardKind::CarveCrystallized => Self::CarveCrystallized,
             RewardKind::BrokenFragment => Self::BrokenFragment,
-            RewardKind::Inherit | RewardKind::BrokenPart => {
+            RewardKind::Fishing => Self::Fishing,
+            _ => {
                 return Err(anyhow!(
                     "Could not convert {value:?} directly into a reward source"
                 ));
@@ -163,8 +179,12 @@ impl TryFrom<RewardKind> for RewardSource {
     }
 }
 
+type RewardDataId = u16;
+
 #[derive(Debug, Deserialize)]
 struct RewardData {
+    #[serde(rename = "_dataId")]
+    id: RewardDataId,
     #[serde(rename = "_rewardType")]
     kind: RewardKind,
     #[serde(rename = "_partsIndex")]

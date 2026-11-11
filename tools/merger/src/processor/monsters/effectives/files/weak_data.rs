@@ -19,7 +19,7 @@ pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::
         data.populate(&mut monster.weaknesses);
     }
 
-    todo!()
+    Ok(())
 }
 
 #[derive(Debug, Deserialize)]

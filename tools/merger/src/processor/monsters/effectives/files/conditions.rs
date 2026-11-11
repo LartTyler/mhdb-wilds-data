@@ -20,10 +20,7 @@ pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::
 
     for data in data {
         let Some(monster) = monsters.get_mut(data.monster_id) else {
-            log::debug!(
-                "Skipping conditions for {}, monster not found",
-                data.monster_id
-            );
+            log::debug!("Skipping conditions for {}, monster not found", data.monster_id);
             continue;
         };
 

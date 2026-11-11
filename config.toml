@@ -81,7 +81,7 @@ rsz = [0]
 [[user.targets]]
 output_prefix = "monsters/packs"
 files = [
-    "Enemy/Em*/*/Data/Em*_ParamPack.user.3",
+    "Enemy/Resident/Em*_Resident.user.3",
 ]
 
 [[user.targets]]

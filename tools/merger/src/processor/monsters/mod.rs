@@ -1,7 +1,7 @@
 use crate::processor::locations::StageId;
 use crate::processor::monsters::common_data::CommonData;
 use crate::processor::monsters::effectives::{Resistance, Weakness};
-use crate::processor::monsters::files::FilePack;
+use crate::processor::monsters::files::Packs;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::parts::monster_parts::MonsterPart;
 use crate::processor::monsters::rewards::Reward;
@@ -23,7 +23,7 @@ mod rewards;
 mod locations;
 mod files;
 
-const OUTPUT: &str = "user/monsters/Monsters.json";
+const OUTPUT: &str = "Monsters.json";
 
 pub type MonsterId = isize;
 
@@ -53,6 +53,7 @@ type Health = u16;
 #[derive(Debug, Serialize)]
 struct Monster {
     pub game_id: MonsterId,
+    #[serde(flatten)]
     pub kind: MonsterKind,
     pub species: SpeciesKind,
     #[serde(serialize_with = "ordered_map")]
@@ -61,12 +62,14 @@ struct Monster {
     pub description: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
     pub features: LanguageMap,
-    pub weaknesses: Vec<Weakness>,
-    pub resistances: Vec<Resistance>,
     pub base_health: Health,
     pub parts: Vec<MonsterPart>,
     pub rewards: Vec<Reward>,
     pub locations: Vec<StageId>,
+    #[serde(skip_serializing_if = "Vec::is_empty")]
+    pub weaknesses: Vec<Weakness>,
+    #[serde(skip_serializing_if = "Vec::is_empty")]
+    pub resistances: Vec<Resistance>,
     #[serde(skip)]
     pub context: MonsterContext,
 }
@@ -81,7 +84,7 @@ impl GameId for Monster {
 
 #[derive(Debug)]
 struct MonsterContext {
-    file_pack: FilePack,
+    packs: Packs,
 }
 
 #[derive(Debug, Serialize)]

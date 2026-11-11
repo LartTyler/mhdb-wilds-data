@@ -21,12 +21,7 @@ pub(super) fn process(
     for monster in monsters.items_mut() {
         log::trace!("Processing {}", monster.game_id);
 
-        let file = match monster.context.file_pack.monster_parts_file() {
-            Some(v) => v,
-            _ => &ids.parts_file(monster.game_id)?,
-        };
-
-        let path = base_path.join(file);
+        let path = base_path.join(monster.context.packs.monster_parts_file());
         let data = PartsData::read_file(path)?;
 
         monster.base_health = data.base_health;

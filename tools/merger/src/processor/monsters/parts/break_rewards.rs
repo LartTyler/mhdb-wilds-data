@@ -11,7 +11,12 @@ pub fn process(
     base_path: &Path,
     monster: &mut Monster,
 ) -> anyhow::Result<()> {
-    let path = base_path.join(ids.part_break_rewards_file(monster.game_id)?);
+    let file = match monster.context.packs.monster_break_rewards_file() {
+        Some(v) => v,
+        _ => &ids.part_break_rewards_file(monster.game_id)?,
+    };
+
+    let path = base_path.join(file);
 
     // Not all monsters will have break rewards.
     if !path.exists() {

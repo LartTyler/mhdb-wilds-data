@@ -53,7 +53,7 @@ pub fn load(config: &Config, ids: &Identifiers) -> anyhow::Result<FileObjects<Mo
             rewards: Vec::new(),
             locations: Vec::new(),
             context: MonsterContext {
-                file_pack: ids.load_file_pack(config, data.monster_id)?,
+                packs: ids.load_file_packs(config, data.monster_id)?,
             },
         };
 

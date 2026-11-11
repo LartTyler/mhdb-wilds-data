@@ -24,7 +24,7 @@ const CAMP_PATH_PREFIX: &str = "user/locations/camps";
 const STAGE_STRINGS: &str = "msg/references/RefEnvironment.json";
 const GIMMICK_STRINGS: &str = "msg/Gimmick.json";
 
-pub const OUTPUT: &str = "merged/Stage.json";
+pub const OUTPUT: &str = "Stage.json";
 
 pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Locations);
@@ -147,7 +147,7 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     stages.sort_by_key(|v| v.game_id);
-    stages.write_file(config.io.output.join(OUTPUT))?;
+    stages.write_file(config.merged_path(OUTPUT))?;
 
     Ok(())
 }
