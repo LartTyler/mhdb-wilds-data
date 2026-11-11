@@ -23,7 +23,6 @@ mod context;
 mod items;
 mod locations;
 mod missions;
-mod monsters_old;
 mod skills;
 mod weapons;
 mod monsters;
