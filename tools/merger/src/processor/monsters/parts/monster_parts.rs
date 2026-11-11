@@ -75,6 +75,7 @@ pub type BreakIndex = i16;
 
 #[derive(Debug, Serialize)]
 pub struct MonsterPart {
+    #[serde(flatten)]
     pub kind: PartKind,
     base_health: Option<Health>,
     kinsect_essence: KinsectEssenceKind,

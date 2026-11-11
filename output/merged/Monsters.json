@@ -84,9 +84,7 @@
     "base_health": 9000,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -102,9 +100,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -120,9 +116,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -138,9 +132,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing-arm-wear"
-        },
+        "part": "right-wing-arm-wear",
         "base_health": 28,
         "kinsect_essence": "white",
         "multipliers": {
@@ -156,9 +148,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-arm-wear"
-        },
+        "part": "left-wing-arm-wear",
         "base_health": 28,
         "kinsect_essence": "white",
         "multipliers": {
@@ -174,9 +164,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head-wear"
-        },
+        "part": "head-wear",
         "base_health": 55,
         "kinsect_essence": "red",
         "multipliers": {
@@ -192,9 +180,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-arm-hide"
-        },
+        "part": "left-wing-arm-hide",
         "base_health": 550,
         "kinsect_essence": "white",
         "multipliers": {
@@ -210,9 +196,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing-arm-hide"
-        },
+        "part": "right-wing-arm-hide",
         "base_health": 550,
         "kinsect_essence": "white",
         "multipliers": {
@@ -228,9 +212,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-arm"
-        },
+        "part": "left-wing-arm",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -246,9 +228,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head-hide"
-        },
+        "part": "head-hide",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -264,9 +244,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing-arm"
-        },
+        "part": "right-wing-arm",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -282,9 +260,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -300,9 +276,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -318,9 +292,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -336,9 +308,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -354,9 +324,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -980,9 +948,7 @@
     "base_health": 5800,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -998,9 +964,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1016,9 +980,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail-hair"
-        },
+        "part": "tail-hair",
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -1034,9 +996,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1052,9 +1012,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1070,9 +1028,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -1088,9 +1044,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -1650,9 +1604,7 @@
     "base_health": 120,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 30,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1668,9 +1620,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1839,9 +1789,7 @@
     "base_health": 5000,
     "parts": [
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 260,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1857,9 +1805,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 700,
         "kinsect_essence": "red",
         "multipliers": {
@@ -1875,9 +1821,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1893,9 +1837,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1911,9 +1853,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1929,9 +1869,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1947,9 +1885,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 260,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1965,9 +1901,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -1983,9 +1917,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 260,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -2001,9 +1933,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 200,
         "kinsect_essence": "green",
         "multipliers": {
@@ -2648,9 +2578,7 @@
     "base_health": 4000,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2666,9 +2594,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -2684,9 +2610,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-nail"
-        },
+        "part": "right-nail",
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -2702,9 +2626,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2720,9 +2642,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2738,9 +2658,7 @@
         }
       },
       {
-        "kind": {
-          "part": "petal"
-        },
+        "part": "petal",
         "base_health": 200,
         "kinsect_essence": "green",
         "multipliers": {
@@ -2756,9 +2674,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -2774,9 +2690,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-nail"
-        },
+        "part": "left-nail",
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -2792,9 +2706,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -2810,9 +2722,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -3395,9 +3305,7 @@
     "base_health": 5000,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3413,9 +3321,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -3431,9 +3337,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3449,9 +3353,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3467,9 +3369,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -3485,9 +3385,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -3503,9 +3401,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4074,9 +3970,7 @@
     "base_health": 4400,
     "parts": [
       {
-        "kind": {
-          "part": "poisonous-thorn"
-        },
+        "part": "poisonous-thorn",
         "base_health": 300,
         "kinsect_essence": "green",
         "multipliers": {
@@ -4092,9 +3986,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4110,9 +4002,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -4128,9 +4018,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -4146,9 +4034,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -4164,9 +4050,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-nail"
-        },
+        "part": "right-nail",
         "base_health": 100,
         "kinsect_essence": "red",
         "multipliers": {
@@ -4182,9 +4066,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4200,9 +4082,7 @@
         }
       },
       {
-        "kind": {
-          "part": "mantle"
-        },
+        "part": "mantle",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -4218,9 +4098,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4236,9 +4114,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -4254,9 +4130,7 @@
         }
       },
       {
-        "kind": {
-          "part": "stomach"
-        },
+        "part": "stomach",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -4272,9 +4146,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-nail"
-        },
+        "part": "left-nail",
         "base_health": 50,
         "kinsect_essence": "red",
         "multipliers": {
@@ -4290,9 +4162,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4815,9 +4685,7 @@
     "base_health": 80,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "white",
         "multipliers": {
@@ -4833,9 +4701,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 15,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5012,9 +4878,7 @@
     "base_health": 5600,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5030,9 +4894,7 @@
         }
       },
       {
-        "kind": {
-          "part": "chest"
-        },
+        "part": "chest",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5048,9 +4910,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 850,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5066,9 +4926,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5084,9 +4942,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5102,9 +4958,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5120,9 +4974,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5138,9 +4990,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5156,9 +5006,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5174,9 +5022,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5192,9 +5038,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -5210,9 +5054,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": 450,
         "kinsect_essence": "green",
         "multipliers": {
@@ -5228,9 +5070,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5246,9 +5086,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hind-legs"
-        },
+        "part": "hind-legs",
         "base_health": 550,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5264,9 +5102,7 @@
         }
       },
       {
-        "kind": {
-          "part": "front-legs"
-        },
+        "part": "front-legs",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5282,9 +5118,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5758,9 +5592,7 @@
     "base_health": 5100,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5776,9 +5608,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-legs"
-        },
+        "part": "left-wing-legs",
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5794,9 +5624,7 @@
         }
       },
       {
-        "kind": {
-          "part": "antennae"
-        },
+        "part": "antennae",
         "base_health": 200,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5812,9 +5640,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5830,9 +5656,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 100,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5848,9 +5672,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5866,9 +5688,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5884,9 +5704,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5902,9 +5720,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 100,
         "kinsect_essence": "white",
         "multipliers": {
@@ -5920,9 +5736,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing-legs"
-        },
+        "part": "right-wing-legs",
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -5938,9 +5752,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5956,9 +5768,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -5974,9 +5784,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6414,9 +6222,7 @@
     "base_health": 120,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 25,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6432,9 +6238,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -6688,9 +6492,7 @@
     "base_health": 5500,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6706,9 +6508,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6724,9 +6524,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 450,
         "kinsect_essence": "red",
         "multipliers": {
@@ -6742,9 +6540,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6760,9 +6556,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6778,9 +6572,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6796,9 +6588,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -6814,9 +6604,7 @@
         }
       },
       {
-        "kind": {
-          "part": "stomach"
-        },
+        "part": "stomach",
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -6832,9 +6620,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -7371,9 +7157,7 @@
     "base_health": 5200,
     "parts": [
       {
-        "kind": {
-          "part": "right-wing-blade"
-        },
+        "part": "right-wing-blade",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7389,9 +7173,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7407,9 +7189,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7425,9 +7205,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7443,9 +7221,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7461,9 +7237,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7479,9 +7253,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7497,9 +7269,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-blade"
-        },
+        "part": "left-wing-blade",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7515,9 +7285,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7533,9 +7301,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -7798,9 +7564,7 @@
     "base_health": 130,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 30,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7816,9 +7580,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -7940,9 +7702,7 @@
     "base_health": 110,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 25,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -7958,9 +7718,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -8186,9 +7944,7 @@
     "base_health": 4000,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8204,9 +7960,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -8222,9 +7976,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8240,9 +7992,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8258,9 +8008,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -8276,9 +8024,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8294,9 +8040,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 450,
         "kinsect_essence": "green",
         "multipliers": {
@@ -8909,9 +8653,7 @@
     "base_health": 4800,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -8927,9 +8669,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 360,
         "kinsect_essence": "red",
         "multipliers": {
@@ -8945,9 +8685,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail-hair"
-        },
+        "part": "tail-hair",
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -8963,9 +8701,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8981,9 +8717,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -8999,9 +8733,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -9017,9 +8749,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -9547,9 +9277,7 @@
     "base_health": 4400,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -9565,9 +9293,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9583,9 +9309,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -9601,9 +9325,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9619,9 +9341,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9637,9 +9357,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 500,
         "kinsect_essence": "green",
         "multipliers": {
@@ -9655,9 +9373,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -9673,9 +9389,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10272,9 +9986,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 20,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10290,9 +10002,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 10,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10414,9 +10124,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "green",
         "multipliers": {
@@ -10432,9 +10140,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 50,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10450,9 +10156,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 1,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10545,9 +10249,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 20,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10563,9 +10265,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 10,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10733,9 +10433,7 @@
     "base_health": 5500,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 350,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10751,9 +10449,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10769,9 +10465,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 350,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10787,9 +10481,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10805,9 +10497,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10823,9 +10513,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -10841,9 +10529,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -10859,9 +10545,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -10877,9 +10561,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 200,
         "kinsect_essence": "green",
         "multipliers": {
@@ -11370,9 +11052,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11388,9 +11068,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 440,
         "kinsect_essence": "red",
         "multipliers": {
@@ -11406,9 +11084,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -11424,9 +11100,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11442,9 +11116,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 350,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -11460,9 +11132,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -11478,9 +11148,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 440,
         "kinsect_essence": "green",
         "multipliers": {
@@ -11962,9 +11630,7 @@
     "base_health": 4000,
     "parts": [
       {
-        "kind": {
-          "part": "ass"
-        },
+        "part": "ass",
         "base_health": 100,
         "kinsect_essence": "green",
         "multipliers": {
@@ -11980,9 +11646,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 750,
         "kinsect_essence": "white",
         "multipliers": {
@@ -11998,9 +11662,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tongue"
-        },
+        "part": "tongue",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12016,9 +11678,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 280,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12034,9 +11694,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 120,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12052,9 +11710,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 120,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12070,9 +11726,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 140,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12088,9 +11742,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 750,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12524,9 +12176,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 30,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12542,9 +12192,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12770,9 +12418,7 @@
     "base_health": 10000,
     "parts": [
       {
-        "kind": {
-          "part": "chest"
-        },
+        "part": "chest",
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -12788,9 +12434,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-legs"
-        },
+        "part": "left-wing-legs",
         "base_health": 1250,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12806,9 +12450,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12824,9 +12466,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12842,9 +12482,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12860,9 +12498,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12878,9 +12514,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12896,9 +12530,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12914,9 +12546,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12932,9 +12562,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 150,
         "kinsect_essence": "red",
         "multipliers": {
@@ -12950,9 +12578,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -12968,9 +12594,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -12986,9 +12610,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13004,9 +12626,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing-legs"
-        },
+        "part": "right-wing-legs",
         "base_health": 1250,
         "kinsect_essence": "red",
         "multipliers": {
@@ -13022,9 +12642,7 @@
         }
       },
       {
-        "kind": {
-          "part": "stomach"
-        },
+        "part": "stomach",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13040,9 +12658,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail-tip"
-        },
+        "part": "tail-tip",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13058,9 +12674,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13076,9 +12690,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13512,9 +13124,7 @@
     "base_health": 8,
     "parts": [
       {
-        "kind": {
-          "part": "full-body"
-        },
+        "part": "full-body",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -13670,9 +13280,7 @@
     "base_health": 7000,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13688,9 +13296,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -13706,9 +13312,7 @@
         }
       },
       {
-        "kind": {
-          "part": "periscope"
-        },
+        "part": "periscope",
         "base_health": 300,
         "kinsect_essence": "green",
         "multipliers": {
@@ -13724,9 +13328,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13742,9 +13344,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13760,9 +13360,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -13778,9 +13376,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -13796,9 +13392,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14148,9 +13742,7 @@
     "base_health": 5500,
     "parts": [
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 220,
         "kinsect_essence": "red",
         "multipliers": {
@@ -14166,9 +13758,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14184,9 +13774,7 @@
         }
       },
       {
-        "kind": {
-          "part": "dorsal-fin"
-        },
+        "part": "dorsal-fin",
         "base_health": 540,
         "kinsect_essence": "red",
         "multipliers": {
@@ -14202,9 +13790,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-nail"
-        },
+        "part": "right-nail",
         "base_health": 300,
         "kinsect_essence": null,
         "multipliers": {
@@ -14220,9 +13806,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 540,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14238,9 +13822,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 540,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14256,9 +13838,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14274,9 +13854,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -14292,9 +13870,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-nail"
-        },
+        "part": "left-nail",
         "base_health": 300,
         "kinsect_essence": null,
         "multipliers": {
@@ -14310,9 +13886,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 600,
         "kinsect_essence": "white",
         "multipliers": {
@@ -14769,9 +14343,7 @@
     "base_health": 80,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "red",
         "multipliers": {
@@ -14787,9 +14359,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 15,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15001,9 +14571,7 @@
     "base_health": 5000,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 210,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15019,9 +14587,7 @@
         }
       },
       {
-        "kind": {
-          "part": "nose"
-        },
+        "part": "nose",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15037,9 +14603,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15055,9 +14619,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 320,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15073,9 +14635,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15091,9 +14651,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15109,9 +14667,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15127,9 +14683,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 600,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15145,9 +14699,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15163,9 +14715,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 320,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15700,9 +15250,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15718,9 +15266,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -15736,9 +15282,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -15754,9 +15298,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15772,9 +15314,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -15790,9 +15330,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -15808,9 +15346,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -15826,9 +15362,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 600,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16342,9 +15876,7 @@
     "base_health": 80,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16360,9 +15892,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 15,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16470,9 +16000,7 @@
     "base_health": 80,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16488,9 +16016,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16681,9 +16207,7 @@
     "base_health": 3800,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16699,9 +16223,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16717,9 +16239,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 520,
         "kinsect_essence": "red",
         "multipliers": {
@@ -16735,9 +16255,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 220,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16753,9 +16271,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -16771,9 +16287,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 220,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16789,9 +16303,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -16807,9 +16319,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 340,
         "kinsect_essence": "green",
         "multipliers": {
@@ -17404,9 +16914,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17422,9 +16930,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 750,
         "kinsect_essence": "green",
         "multipliers": {
@@ -17440,9 +16946,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": 450,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17458,9 +16962,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17476,9 +16978,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -17494,9 +16994,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17512,9 +17010,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -17530,9 +17026,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 750,
         "kinsect_essence": "red",
         "multipliers": {
@@ -18102,9 +17596,7 @@
     "base_health": 8,
     "parts": [
       {
-        "kind": {
-          "part": "full-body"
-        },
+        "part": "full-body",
         "base_health": 1,
         "kinsect_essence": "green",
         "multipliers": {
@@ -18367,9 +17859,7 @@
     "base_health": 5200,
     "parts": [
       {
-        "kind": {
-          "part": "right-wing-blade"
-        },
+        "part": "right-wing-blade",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18385,9 +17875,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18403,9 +17891,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 800,
         "kinsect_essence": "red",
         "multipliers": {
@@ -18421,9 +17907,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18439,9 +17923,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -18457,9 +17939,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 500,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18475,9 +17955,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -18493,9 +17971,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing-blade"
-        },
+        "part": "left-wing-blade",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18511,9 +17987,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -18529,9 +18003,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 350,
         "kinsect_essence": "white",
         "multipliers": {
@@ -19016,9 +18488,7 @@
     "base_health": 5200,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19034,9 +18504,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19052,9 +18520,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": null,
         "multipliers": {
@@ -19070,9 +18536,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19088,9 +18552,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19106,9 +18568,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -19124,9 +18584,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -19142,9 +18600,7 @@
         }
       },
       {
-        "kind": {
-          "part": "stomach"
-        },
+        "part": "stomach",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19160,9 +18616,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail-tip"
-        },
+        "part": "tail-tip",
         "base_health": 240,
         "kinsect_essence": "green",
         "multipliers": {
@@ -19178,9 +18632,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 600,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19196,9 +18648,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -19792,9 +19242,7 @@
     "base_health": 120,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 20,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19810,9 +19258,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 20,
         "kinsect_essence": "red",
         "multipliers": {
@@ -19976,9 +19422,7 @@
     "base_health": 130,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 25,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -19994,9 +19438,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "red",
         "multipliers": {
@@ -20173,9 +19615,7 @@
     "base_health": 4200,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -20191,9 +19631,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 180,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20209,9 +19647,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 440,
         "kinsect_essence": "red",
         "multipliers": {
@@ -20227,9 +19663,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 220,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20245,9 +19679,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 180,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20263,9 +19695,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 220,
         "kinsect_essence": "white",
         "multipliers": {
@@ -20281,9 +19711,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 240,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20299,9 +19727,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 440,
         "kinsect_essence": "green",
         "multipliers": {
@@ -20820,9 +20246,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 25,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -20838,9 +20262,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 30,
         "kinsect_essence": "red",
         "multipliers": {
@@ -20856,9 +20278,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -21036,9 +20456,7 @@
     "base_health": 80,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21054,9 +20472,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 15,
         "kinsect_essence": "red",
         "multipliers": {
@@ -21213,9 +20629,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "right-front-arm"
-        },
+        "part": "right-front-arm",
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21231,9 +20645,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-arm"
-        },
+        "part": "left-hind-arm",
         "base_health": 180,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21249,9 +20661,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-side-arm"
-        },
+        "part": "left-side-arm",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21267,9 +20677,7 @@
         }
       },
       {
-        "kind": {
-          "part": "umbrella"
-        },
+        "part": "umbrella",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21285,9 +20693,7 @@
         }
       },
       {
-        "kind": {
-          "part": "mouth"
-        },
+        "part": "mouth",
         "base_health": 200,
         "kinsect_essence": "red",
         "multipliers": {
@@ -21303,9 +20709,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -21321,9 +20725,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tentacle"
-        },
+        "part": "tentacle",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21339,9 +20741,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-side-arm"
-        },
+        "part": "right-side-arm",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21357,9 +20757,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-arm"
-        },
+        "part": "left-front-arm",
         "base_health": 250,
         "kinsect_essence": "white",
         "multipliers": {
@@ -21375,9 +20773,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -21393,9 +20789,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-arm"
-        },
+        "part": "right-hind-arm",
         "base_health": 180,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22070,9 +21464,7 @@
     "base_health": 5000,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -22088,9 +21480,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22106,9 +21496,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -22124,9 +21512,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22142,9 +21528,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 400,
         "kinsect_essence": "white",
         "multipliers": {
@@ -22160,9 +21544,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22178,9 +21560,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22196,9 +21576,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": null,
         "kinsect_essence": "green",
         "multipliers": {
@@ -22833,9 +22211,7 @@
     "base_health": 10,
     "parts": [
       {
-        "kind": {
-          "part": "full-body"
-        },
+        "part": "full-body",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -22943,9 +22319,7 @@
     "base_health": 100,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 25,
         "kinsect_essence": "green",
         "multipliers": {
@@ -22961,9 +22335,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 25,
         "kinsect_essence": "green",
         "multipliers": {
@@ -23154,9 +22526,7 @@
     "base_health": 5500,
     "parts": [
       {
-        "kind": {
-          "part": "waterfilm-tail"
-        },
+        "part": "waterfilm-tail",
         "base_health": 130,
         "kinsect_essence": "green",
         "multipliers": {
@@ -23172,9 +22542,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23190,9 +22558,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-left-body"
-        },
+        "part": "waterfilm-left-body",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23208,9 +22574,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-left-front-leg"
-        },
+        "part": "waterfilm-left-front-leg",
         "base_health": 130,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23226,9 +22590,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 450,
         "kinsect_essence": "red",
         "multipliers": {
@@ -23244,9 +22606,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-right-head"
-        },
+        "part": "waterfilm-right-head",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23262,9 +22622,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-right-front-leg"
-        },
+        "part": "waterfilm-right-front-leg",
         "base_health": 130,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23280,9 +22638,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-right-tail"
-        },
+        "part": "waterfilm-right-tail",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23298,9 +22654,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 800,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23316,9 +22670,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 800,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23334,9 +22686,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 800,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23352,9 +22702,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-left-tail"
-        },
+        "part": "waterfilm-left-tail",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23370,9 +22718,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-left-head"
-        },
+        "part": "waterfilm-left-head",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23388,9 +22734,7 @@
         }
       },
       {
-        "kind": {
-          "part": "waterfilm-right-body"
-        },
+        "part": "waterfilm-right-body",
         "base_health": 130,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -23406,9 +22750,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 500,
         "kinsect_essence": "white",
         "multipliers": {
@@ -23424,9 +22766,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 270,
         "kinsect_essence": "green",
         "multipliers": {
@@ -24116,9 +23456,7 @@
     "base_health": 7400,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24134,9 +23472,7 @@
         }
       },
       {
-        "kind": {
-          "part": "frozen-bigcore-after"
-        },
+        "part": "frozen-bigcore-after",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24152,9 +23488,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24170,9 +23504,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 350,
         "kinsect_essence": "red",
         "multipliers": {
@@ -24188,9 +23520,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24206,9 +23536,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24224,9 +23552,7 @@
         }
       },
       {
-        "kind": {
-          "part": "frozen-core-waist"
-        },
+        "part": "frozen-core-waist",
         "base_health": 200,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24242,9 +23568,7 @@
         }
       },
       {
-        "kind": {
-          "part": "frozen-bigcore-before"
-        },
+        "part": "frozen-bigcore-before",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24260,9 +23584,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -24278,9 +23600,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -24296,9 +23616,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 400,
         "kinsect_essence": "green",
         "multipliers": {
@@ -25002,9 +24320,7 @@
     "base_health": 5250,
     "parts": [
       {
-        "kind": {
-          "part": "right-front-arm"
-        },
+        "part": "right-front-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25020,9 +24336,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-arm"
-        },
+        "part": "left-hind-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25038,9 +24352,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-side-arm"
-        },
+        "part": "left-side-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25056,9 +24368,7 @@
         }
       },
       {
-        "kind": {
-          "part": "umbrella"
-        },
+        "part": "umbrella",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25074,9 +24384,7 @@
         }
       },
       {
-        "kind": {
-          "part": "mouth"
-        },
+        "part": "mouth",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25092,9 +24400,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25110,9 +24416,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25128,9 +24432,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tentacle"
-        },
+        "part": "tentacle",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25146,9 +24448,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-side-arm"
-        },
+        "part": "right-side-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25164,9 +24464,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-arm"
-        },
+        "part": "left-front-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25182,9 +24480,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": null,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25200,9 +24496,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-arm"
-        },
+        "part": "right-hind-arm",
         "base_health": null,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25855,9 +25149,7 @@
     "base_health": 5000,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25873,9 +25165,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25891,9 +25181,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -25909,9 +25197,7 @@
         }
       },
       {
-        "kind": {
-          "part": "back"
-        },
+        "part": "back",
         "base_health": 210,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25927,9 +25213,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25945,9 +25229,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 240,
         "kinsect_essence": "white",
         "multipliers": {
@@ -25963,9 +25245,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 400,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25981,9 +25261,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail-tip"
-        },
+        "part": "tail-tip",
         "base_health": 210,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -25999,9 +25277,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 240,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26017,9 +25293,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 280,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -26705,9 +25979,7 @@
     "base_health": 150,
     "parts": [
       {
-        "kind": {
-          "part": "body"
-        },
+        "part": "body",
         "base_health": 15,
         "kinsect_essence": "green",
         "multipliers": {
@@ -26723,9 +25995,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 50,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26741,9 +26011,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": 1,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26897,9 +26165,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "neck"
-        },
+        "part": "neck",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26915,9 +26181,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-wing"
-        },
+        "part": "left-wing",
         "base_health": 520,
         "kinsect_essence": "white",
         "multipliers": {
@@ -26933,9 +26197,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 500,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26951,9 +26213,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-leg"
-        },
+        "part": "right-leg",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -26969,9 +26229,7 @@
         }
       },
       {
-        "kind": {
-          "part": "hide"
-        },
+        "part": "hide",
         "base_health": null,
         "kinsect_essence": "red",
         "multipliers": {
@@ -26987,9 +26245,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-wing"
-        },
+        "part": "right-wing",
         "base_health": 520,
         "kinsect_essence": "white",
         "multipliers": {
@@ -27005,9 +26261,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-leg"
-        },
+        "part": "left-leg",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -27023,9 +26277,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 300,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -27041,9 +26293,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 520,
         "kinsect_essence": "green",
         "multipliers": {
@@ -27545,9 +26795,7 @@
     "base_health": 4500,
     "parts": [
       {
-        "kind": {
-          "part": "left-front-leg"
-        },
+        "part": "left-front-leg",
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -27563,9 +26811,7 @@
         }
       },
       {
-        "kind": {
-          "part": "head"
-        },
+        "part": "head",
         "base_health": 400,
         "kinsect_essence": "red",
         "multipliers": {
@@ -27581,9 +26827,7 @@
         }
       },
       {
-        "kind": {
-          "part": "left-hind-leg"
-        },
+        "part": "left-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -27599,9 +26843,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-hind-leg"
-        },
+        "part": "right-hind-leg",
         "base_health": 300,
         "kinsect_essence": "white",
         "multipliers": {
@@ -27617,9 +26859,7 @@
         }
       },
       {
-        "kind": {
-          "part": "torso"
-        },
+        "part": "torso",
         "base_health": 200,
         "kinsect_essence": "orange",
         "multipliers": {
@@ -27635,9 +26875,7 @@
         }
       },
       {
-        "kind": {
-          "part": "right-front-leg"
-        },
+        "part": "right-front-leg",
         "base_health": 300,
         "kinsect_essence": "red",
         "multipliers": {
@@ -27653,9 +26891,7 @@
         }
       },
       {
-        "kind": {
-          "part": "tail"
-        },
+        "part": "tail",
         "base_health": 300,
         "kinsect_essence": "green",
         "multipliers": {
