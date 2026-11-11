@@ -9,4 +9,10 @@ impl Context {
     pub fn new(placeholders: Placeholders) -> Self {
         Self { placeholders }
     }
+
+    pub fn with_placeholders(&self, placeholders: Placeholders) -> Self {
+        Self {
+            placeholders,
+        }
+    }
 }

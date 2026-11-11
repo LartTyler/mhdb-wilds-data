@@ -232,7 +232,7 @@ pub fn all(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
         "Merging armor files..." => armor::process(config, filters, &context)?,
         "Merging skill files..." => skills::process(config, filters, &context)?,
         "Merging weapon files..." => weapons::process(config, filters, &context)?,
-        "Merging monster files..." => monsters::process(config, filters)?,
+        "Merging monster files..." => monsters::process(config, filters, &context)?,
         "Merging location files..." => locations::process(config, filters)?,
         "Merging mission files..." => missions::process(config, filters, &context)?,
     }

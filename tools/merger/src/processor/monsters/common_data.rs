@@ -1,3 +1,4 @@
+use crate::placeholders::Placeholders;
 use crate::processor::monsters::id::Identifiers;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::species::SpeciesKind;
@@ -11,7 +12,7 @@ use strum::IntoEnumIterator;
 const STRINGS: &str = "msg/EnemyText.json";
 const DATA: &str = "user/monsters/EnemyData.json";
 
-pub fn load(config: &Config, ids: &Identifiers) -> anyhow::Result<FileObjects<Monster>> {
+pub fn load(config: &Config, ids: &Identifiers, placeholders: &Placeholders) -> anyhow::Result<FileObjects<Monster>> {
     let strings = Msg::read_file(config.data_path(STRINGS))?;
 
     let data: Vec<CommonData> = Vec::read_file(config.data_path(DATA))?;
@@ -20,7 +21,9 @@ pub fn load(config: &Config, ids: &Identifiers) -> anyhow::Result<FileObjects<Mo
     for data in data.into_iter().filter(|v| v.species != SpeciesKind::None) {
         let kind: MonsterKind = if data.is_large() {
             let mut monster = LargeMonster::default();
+
             strings.populate(&data.tips, &mut monster.tips);
+            placeholders.apply(&mut monster.tips);
 
             for variant in VariantKind::iter() {
                 let mut name = LanguageMap::default();
@@ -58,8 +61,12 @@ pub fn load(config: &Config, ids: &Identifiers) -> anyhow::Result<FileObjects<Mo
         };
 
         strings.populate(&data.names.normal, &mut monster.name);
+
         strings.populate(&data.description, &mut monster.description);
+        placeholders.apply(&mut monster.description);
+
         strings.populate(&data.features, &mut monster.features);
+        placeholders.apply(&mut monster.features);
 
         monsters.add(monster);
     }

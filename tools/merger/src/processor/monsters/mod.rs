@@ -1,3 +1,5 @@
+use crate::processor::context::Context;
+use crate::processor::items::STRINGS as ITEM_STRINGS;
 use crate::processor::locations::StageId;
 use crate::processor::monsters::common_data::CommonData;
 use crate::processor::monsters::effectives::{Resistance, Weakness};
@@ -6,10 +8,11 @@ use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::parts::monster_parts::MonsterPart;
 use crate::processor::monsters::rewards::Reward;
 use crate::processor::monsters::species::SpeciesKind;
-use crate::processor::{GameId, Guid, LanguageMap, Processor, SortByGameId, WriteFile};
+use crate::processor::{GameId, Guid, LanguageMap, Processor, ReadFile, SortByGameId, WriteFile};
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
+use rslib::formats::msg::Msg;
 use serde::Serialize;
 use strum::EnumIter;
 
@@ -27,13 +30,17 @@ const OUTPUT: &str = "Monsters.json";
 
 pub type MonsterId = isize;
 
-pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
+pub(super) fn process(config: &Config, filters: &[Processor], context: &Context) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
+
+    let placeholders = context.placeholders.append(vec![
+        Msg::read_file(config.data_path(ITEM_STRINGS))?,
+    ]);
 
     species::process(config)?;
 
     let ids = id::load(config)?;
-    let mut monsters = common_data::load(config, &ids)?;
+    let mut monsters = common_data::load(config, &ids, &placeholders)?;
 
     parts::process(config, &mut monsters, &ids)?;
     rewards::process(config, &mut monsters, &ids)?;
