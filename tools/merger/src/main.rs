@@ -1,3 +1,5 @@
+extern crate core;
+
 use crate::cli::Cli;
 use clap::Parser;
 use rslib::config::Config;

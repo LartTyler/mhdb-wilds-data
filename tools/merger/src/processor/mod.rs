@@ -23,11 +23,12 @@ mod context;
 mod items;
 mod locations;
 mod missions;
-mod monsters;
 mod skills;
 mod weapons;
+mod monsters;
 
 pub type Zenny = usize;
+pub type Percentage = u8;
 
 #[derive(Debug, Deserialize, ValueEnum, Copy, Clone, Ord, PartialOrd, Eq, PartialEq)]
 #[serde(rename_all = "lowercase")]
@@ -117,21 +118,37 @@ type IdMap = HashMap<isize, u8>;
 type LookupMap<K = isize> = HashMap<K, usize>;
 
 pub trait GameId {
-    type Id: Hash + Eq;
+    type Id: Hash + Eq + Ord;
     fn get_game_id(&self) -> Self::Id;
 }
 
-#[derive(Debug)]
+pub trait SortByGameId {
+    fn sort_by_game_id(&mut self);
+    fn sorted_by_game_id(self) -> Self;
+}
+
+impl<T: GameId> SortByGameId for Vec<T> {
+    fn sort_by_game_id(&mut self) {
+        self.sort_by_key(|v| v.get_game_id());
+    }
+
+    fn sorted_by_game_id(mut self) -> Self {
+        self.sort_by_game_id();
+        self
+    }
+}
+
+#[derive(Debug, Default)]
 pub struct FileObjects<V: GameId> {
     items: Vec<V>,
     lookup: LookupMap<V::Id>,
 }
 
 impl<V: GameId> FileObjects<V> {
-    pub fn new() -> Self {
+    pub fn with_capacity(capacity: usize) -> Self {
         Self {
-            items: Vec::new(),
-            lookup: LookupMap::new(),
+            items: Vec::with_capacity(capacity),
+            lookup: LookupMap::with_capacity(capacity),
         }
     }
 
@@ -162,6 +179,14 @@ impl<V: GameId> FileObjects<V> {
     {
         let index = self.lookup.get(id.borrow())?;
         self.items.get_mut(*index)
+    }
+
+    pub fn items_mut(&mut self) -> &mut [V] {
+        self.items.as_mut()
+    }
+
+    pub fn into_items(self) -> Vec<V> {
+        self.items
     }
 }
 
@@ -545,7 +570,7 @@ fn create_id_map(ids: &[isize], values: &[u8]) -> IdMap {
         .collect()
 }
 
-#[derive(Debug, Deserialize, derive_more::Deref)]
+#[derive(Debug, Deserialize, derive_more::Deref, PartialEq, Eq, Hash)]
 #[repr(transparent)]
 #[serde(transparent)]
 struct Guid(String);
@@ -597,3 +622,15 @@ enum IconColor {
     Purple = 20,
     DarkPurple = 21,
 }
+
+pub trait PercentageConversion {
+    fn percent_as_f32(&self) -> f32;
+}
+
+impl PercentageConversion for Percentage {
+    fn percent_as_f32(&self) -> f32 {
+        *self as f32 / 100.0
+    }
+}
+
+pub type Multiplier = f32;

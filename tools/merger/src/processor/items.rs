@@ -21,7 +21,7 @@ const FOUNDRY_ORE_DATA: &str = "user/facilities/foundry/SmallWorkshopRefineData.
 const FOUNDRY_OUTPUTS_DATA: &[&str] = &[FOUNDRY_SPHERE_DATA, FOUNDRY_ORE_DATA];
 
 const RECIPES: &str = "user/ItemRecipe.json";
-const STRINGS: &str = "msg/Item.json";
+pub const STRINGS: &str = "msg/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 

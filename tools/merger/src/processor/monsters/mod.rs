@@ -1,115 +1,138 @@
-use super::{LanguageMap, PopulateStrings, Processor, ReadFile, WriteFile};
 use crate::processor::context::Context;
+use crate::processor::items::STRINGS as ITEM_STRINGS;
+use crate::processor::locations::StageId;
+use crate::processor::monsters::common_data::CommonData;
+use crate::processor::monsters::effectives::{Resistance, Weakness};
+use crate::processor::monsters::files::Packs;
+use crate::processor::monsters::large::LargeMonster;
+use crate::processor::monsters::parts::monster_parts::MonsterPart;
+use crate::processor::monsters::rewards::Reward;
+use crate::processor::monsters::species::SpeciesKind;
+use crate::processor::{GameId, Guid, LanguageMap, Processor, ReadFile, SortByGameId, WriteFile};
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
-use serde::{Deserialize, Serialize};
-use serde_repr::Deserialize_repr;
-use strum::{EnumIter, IntoEnumIterator};
+use serde::Serialize;
+use strum::EnumIter;
 
+mod common_data;
+mod id;
 mod large;
+mod species;
+mod effectives;
+mod parts;
+mod rewards;
+mod locations;
+mod files;
+
+const OUTPUT: &str = "Monsters.json";
 
 pub type MonsterId = isize;
 
-const REFS_FIELD: &str = "msg/references/RefEnvironment.json";
-
-const MONSTER_DATA: &str = "user/monsters/EnemyData.json";
-const MONSTER_STRINGS: &str = "msg/EnemyText.json";
-
-const SPECIES_STRINGS: &str = "msg/EnemySpeciesName.json";
-
-const SPECIES_OUTPUT: &str = "merged/Species.json";
-
-pub(in crate::processor) fn process(config: &Config, filters: &[Processor], context: &Context) -> anyhow::Result<()> {
+pub(super) fn process(config: &Config, filters: &[Processor], context: &Context) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
-    let species_strings = Msg::read_file(config.io.output.join(SPECIES_STRINGS))?;
-    let mut species: Vec<Species> = Vec::with_capacity(species_strings.entries.len());
+    let placeholders = context.placeholders.append(vec![
+        Msg::read_file(config.data_path(ITEM_STRINGS))?,
+    ]);
 
-    for kind in SpeciesKind::iter() {
-        if kind == SpeciesKind::None {
-            continue;
-        }
+    species::process(config)?;
 
-        let mut value = Species {
-            kind,
-            names: LanguageMap::new(),
-        };
+    let ids = id::load(config)?;
+    let mut monsters = common_data::load(config, &ids, &placeholders)?;
 
-        let name = String::from("EnemySpeciesName_") + &(kind as u8).to_string();
-        species_strings.populate_by_name(&name, &mut value.names);
+    parts::process(config, &mut monsters, &ids)?;
+    rewards::process(config, &mut monsters, &ids)?;
+    effectives::process(config, &mut monsters)?;
+    locations::process(config, &mut monsters)?;
 
-        species.push(value);
-    }
+    large::process(config, &mut monsters)?;
 
-    species.sort_by_key(|v| v.kind);
-    species.write_file(config.io.output.join(SPECIES_OUTPUT))?;
-
-    large::process(config, context)?;
+    let monsters = monsters.into_items().sorted_by_game_id();
+    monsters.write_file(config.merged_path(OUTPUT))?;
 
     Ok(())
 }
 
+type Health = u16;
+
 #[derive(Debug, Serialize)]
-struct Species {
-    kind: SpeciesKind,
+struct Monster {
+    pub game_id: MonsterId,
+    #[serde(flatten)]
+    pub kind: MonsterKind,
+    pub species: SpeciesKind,
     #[serde(serialize_with = "ordered_map")]
-    names: LanguageMap,
+    pub name: LanguageMap,
+    #[serde(serialize_with = "ordered_map")]
+    pub description: LanguageMap,
+    #[serde(serialize_with = "ordered_map")]
+    pub features: LanguageMap,
+    pub base_health: Health,
+    pub parts: Vec<MonsterPart>,
+    pub rewards: Vec<Reward>,
+    pub locations: Vec<StageId>,
+    #[serde(skip_serializing_if = "Vec::is_empty")]
+    pub weaknesses: Vec<Weakness>,
+    #[serde(skip_serializing_if = "Vec::is_empty")]
+    pub resistances: Vec<Resistance>,
+    #[serde(skip)]
+    pub context: MonsterContext,
 }
 
-#[derive(Debug, Deserialize)]
-struct CommonData {
-    #[serde(rename = "_enemyId")]
-    id: isize,
-    #[serde(rename = "_EnemyName")]
-    name_guid: String,
-    #[serde(rename = "_EnemyExtraName")]
-    alpha_name_guid: String,
-    #[serde(rename = "_EnemyFrenzyName")]
-    frenzied_name_guid: String,
-    #[serde(rename = "_EnemyLegendaryName")]
-    tempered_name_guid: String,
-    #[serde(rename = "_EnemyLegendaryKingName")]
-    archtempered_name_guid: String,
-    #[serde(rename = "_EnemyExp")]
-    description_guid: String,
-    #[serde(rename = "_EnemyFeatures")]
-    features_guid: String,
-    #[serde(rename = "_EnemyTips")]
-    tips_guid: String,
-    #[serde(rename = "_BossIconType")]
-    large_monster_icon: u8,
-    #[serde(rename = "_Species")]
-    species_kind: SpeciesKind,
+impl GameId for Monster {
+    type Id = MonsterId;
+
+    fn get_game_id(&self) -> Self::Id {
+        self.game_id
+    }
 }
 
-#[derive(
-    Debug, Deserialize_repr, Serialize, EnumIter, Copy, Clone, Ord, PartialOrd, Eq, PartialEq,
-)]
+#[derive(Debug)]
+struct MonsterContext {
+    packs: Packs,
+}
+
+#[derive(Debug, Serialize)]
+#[serde(rename_all = "kebab-case", tag = "kind")]
+enum MonsterKind {
+    Large(LargeMonster),
+    Small(SmallMonster),
+}
+
+#[derive(Debug, Serialize)]
+struct SmallMonster;
+
+impl From<SmallMonster> for MonsterKind {
+    fn from(value: SmallMonster) -> Self {
+        Self::Small(value)
+    }
+}
+
+#[derive(Debug, Serialize)]
+struct Variant {
+    kind: VariantKind,
+    #[serde(serialize_with = "ordered_map")]
+    name: LanguageMap,
+}
+
+#[derive(Debug, Serialize, EnumIter)]
 #[serde(rename_all = "kebab-case")]
-#[repr(u8)]
-enum SpeciesKind {
-    None = 0,
-    FlyingWyvern = 1,
-    Fish = 2,
-    Herbivore = 3,
-    Lynian = 4,
-    Neopteron = 5,
-    Carapaceon = 6,
-    FangedBeast = 7,
-    BirdWyvern = 8,
-    PiscineWyvern = 9,
-    Leviathan = 10,
-    BruteWyvern = 11,
-    FangedWyvern = 12,
-    Amphibian = 13,
-    Temnoceran = 14,
-    SnakeWyvern = 15,
-    ElderDragon = 16,
-    Cephalopod = 17,
-    Construct = 18,
-    Wingdrake = 19,
-    DemiElder = 20,
-    Machine = 21,
+enum VariantKind {
+    Alpha,
+    Frenzied,
+    Tempered,
+    ArchTempered,
+}
+
+impl VariantKind {
+    fn get_guid<'a>(&self, data: &'a CommonData) -> &'a Guid {
+        match *self {
+            Self::Alpha => &data.names.alpha,
+            Self::Frenzied => &data.names.frenzied,
+            Self::Tempered => &data.names.tempered,
+            Self::ArchTempered => &data.names.arch_tempered,
+        }
+    }
 }
