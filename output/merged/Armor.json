@@ -19,17 +19,7 @@
       "es-419": "Conga α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -371,17 +361,7 @@
       "es-419": "Quematrice"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -711,29 +691,7 @@
       "es-419": "Gore α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 722735744,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 722735744,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -1092,29 +1050,7 @@
       "es-419": "Blango β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": 741102208,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 741102208,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -1469,9 +1405,7 @@
       "es-419": "As del gremio α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -1817,17 +1751,7 @@
       "es-419": "Vespoid α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -2165,17 +2089,7 @@
       "es-419": "Hirabami"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -2510,9 +2424,7 @@
       "es-419": "Aleación α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -2847,29 +2759,7 @@
       "es-419": "Rathalos β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -3666104,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -3666104,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -3226,17 +3116,7 @@
       "es-419": "Chatacabra α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -3580,9 +3460,7 @@
       "es-419": "Hueso α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -3918,17 +3796,7 @@
       "es-419": "Vespoid"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -4254,29 +4122,7 @@
       "es-419": "Doshaguma"
     },
     "rarity": 2,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -4612,29 +4458,7 @@
       "es-419": "Seregios β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 30992,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 30992,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -4995,29 +4819,7 @@
       "es-419": "Rathalos Guardián β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -3666104,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -3666104,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -5374,17 +5176,7 @@
       "es-419": "Kunafa α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -5662,17 +5454,7 @@
       "es-419": "Rathian β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -6020,17 +5802,7 @@
       "es-419": "Comaqchi β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1685697920,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1685697920,
     "pieces": [
       {
@@ -6118,17 +5890,7 @@
       "es-419": "Seikret Guardián"
     },
     "rarity": 4,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -6216,17 +5978,7 @@
       "es-419": "Nerscylla β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1685697920,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1685697920,
     "pieces": [
       {
@@ -6575,17 +6327,7 @@
       "es-419": "Sild α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -6737,17 +6479,7 @@
       "es-419": "Conga β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -7092,9 +6824,7 @@
       "es-419": "Dober α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -7441,17 +7171,7 @@
       "es-419": "Gypceros α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -7795,17 +7515,7 @@
       "es-419": "Rathian α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -8144,29 +7854,7 @@
       "es-419": "Arkveld Guardián"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": -1432692352,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1432692352,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -8511,29 +8199,7 @@
       "es-419": "Dahaad α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": -215826112,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -215826112,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -8889,29 +8555,7 @@
       "es-419": "Uth Duna α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 2104075392,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 2104075392,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -9270,29 +8914,7 @@
       "es-419": "Rey Dau α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 539707072,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 539707072,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -9647,29 +9269,7 @@
       "es-419": "Rathalos Guardián α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -3666104,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -3666104,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -10027,17 +9627,7 @@
       "es-419": "Kranodath α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -10124,17 +9714,7 @@
       "es-419": "Mariposa α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -10169,7 +9749,7 @@
           "ko": "장수호랑나비의 머리 방어구.\r\n질감은 푹신푹신하지만\r\n충격을 잘 흡수한다.",
           "zh-Hant": "大角鳳蝶的頭部防具。質感膨鬆\r\n柔軟，卻能吸收衝擊力，是優秀\r\n的防具。",
           "zh-Hans": "大角凤蝶的头部防具。虽然质感膨\r\n松柔软，却是个能吸收冲击力的优\r\n秀防具。",
-          "ar": "درع مبهر مصنوع من أجزاء\r\nالحشرة. وزنه الخفيف ولونه\r\nدليل على مكانة صاحبه. ",
+          "ar": "درع مبهر مصنوع من أجزاء\r\nالحشرة. وزنه الخفيف ولونه\r\nدليل على مكانة صاحبه.",
           "th": "เกราะแวววับที่สร้างจากชิ้นส่วนแมลง\r\nน้ำหนักที่เบาและสีสันโดดเด่นบ่ง\r\nบอกถึงความมีระดับของผู้สวมใส่",
           "es-419": "Armadura deslumbrante hecha de\r\npartes de insecto. Puede\r\nsentirse ligera, pero tiene una\r\nalta absorción de impactos."
         },
@@ -10485,17 +10065,7 @@
       "es-419": "Kranodath"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -10581,29 +10151,7 @@
       "es-419": "Doshaguma Guardián"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -10945,17 +10493,7 @@
       "es-419": "Talioth α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -11042,17 +10580,7 @@
       "es-419": "Hirabami α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -11393,29 +10921,7 @@
       "es-419": "Uth Duna β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 2104075392,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 2104075392,
-    "group_bonus": {
-      "skill_id": 2107855744,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2107855744,
     "pieces": [
       {
@@ -11775,9 +11281,7 @@
       "es-419": "Lingotes α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -12121,29 +11625,7 @@
       "es-419": "Rey Dau"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": 539707072,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 539707072,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -12486,17 +11968,7 @@
       "es-419": "Balahara α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -12841,17 +12313,7 @@
       "es-419": "Gajau"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -12936,17 +12398,7 @@
       "es-419": "Melahoa α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -13290,17 +12742,7 @@
       "es-419": "Gypceros β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -13646,29 +13088,7 @@
       "es-419": "Xu Wu α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -1468066176,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1468066176,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -14022,17 +13442,7 @@
       "es-419": "Suja α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -14122,17 +13532,7 @@
       "es-419": "Quematrice β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -14479,17 +13879,7 @@
       "es-419": "Kut-Ku α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -14836,17 +14226,7 @@
       "es-419": "Lala Barina β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1685697920,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1685697920,
     "pieces": [
       {
@@ -15195,29 +14575,7 @@
       "es-419": "Arkveld α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -964369920,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -964369920,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -15573,17 +14931,7 @@
       "es-419": "Xu Wu"
     },
     "rarity": 4,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -15923,29 +15271,7 @@
       "es-419": "Gravios β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -418246240,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -418246240,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -16302,17 +15628,7 @@
       "es-419": "Mimiphyta α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -16402,17 +15718,7 @@
       "es-419": "Seikret Guardián β"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -16502,29 +15808,7 @@
       "es-419": "Rathalos Guardián"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": -3666104,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -3666104,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -16868,29 +16152,7 @@
       "es-419": "Gravios α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -418246240,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -418246240,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -17248,29 +16510,7 @@
       "es-419": "Uth Duna"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": 2104075392,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 2104075392,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -17613,17 +16853,7 @@
       "es-419": "Gajau α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -17714,29 +16944,7 @@
       "es-419": "Dahaad β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": -215826112,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -215826112,
-    "group_bonus": {
-      "skill_id": 2107855744,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2107855744,
     "pieces": [
       {
@@ -18094,17 +17302,7 @@
       "es-419": "Lala Barina"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -18434,9 +17632,7 @@
       "es-419": "Esperanza"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -18742,9 +17938,7 @@
       "es-419": "Cuero"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -19050,9 +18244,7 @@
       "es-419": "Malla"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -19358,9 +18550,7 @@
       "es-419": "Hueso"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -19676,9 +18866,7 @@
       "es-419": "Aleación"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -19999,9 +19187,7 @@
       "es-419": "Lingotes"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -20322,17 +19508,7 @@
       "es-419": "Talioth"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -20418,17 +19594,7 @@
       "es-419": "Bulaqchi"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -20513,17 +19679,7 @@
       "es-419": "Cosecha α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -20874,21 +20030,7 @@
       "es-419": "Traje Omega α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 31540,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 31540,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -20977,7 +20119,7 @@
           "es-419": "Traje Omega α"
         },
         "descriptions": {
-          "ja": "己を高め続けた、とある自律兵器の\r\n到達点を模した胴防具。纏いし者は\r\n新たな強敵の渇望を求め続ける。\r\n",
+          "ja": "己を高め続けた、とある自律兵器の\r\n到達点を模した胴防具。纏いし者は\r\n新たな強敵の渇望を求め続ける。",
           "en": "Chest armor fashioned after the\r\napex of autonomous weaponry.\r\nNo worthy opponent has been\r\nfound.",
           "fr": "Inspiré des meilleures\r\narmes autonomes.\r\nAucun adversaire n'a pu\r\ns'en montrer digne.",
           "it": "Protezione per il torace\r\nispirata all'arma autonoma\r\nper eccellenza. Non ha eguali.",
@@ -21242,9 +20384,7 @@
       "es-419": "Cola peludita"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 84
@@ -21269,9 +20409,7 @@
       "es-419": "Lentes de armazón medio α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -21360,9 +20498,7 @@
       "es-419": "Máscara calavérica α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -21452,9 +20588,7 @@
       "es-419": "Soldado feudal"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 61
@@ -21479,17 +20613,7 @@
       "es-419": "Pendientes de dedicación α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 2237,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2237,
     "pieces": [
       {
@@ -21579,17 +20703,7 @@
       "es-419": "Orión α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -21949,29 +21063,7 @@
       "es-419": "Gogmazios α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 5590,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
-    "set_bonus_id": 5590,
-    "group_bonus": null,
+    "set_bonus_id": -555494336,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -22335,29 +21427,7 @@
       "es-419": "Edad Celeste α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 16835,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 16835,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -22722,17 +21792,7 @@
       "es-419": "Akuma α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 4554,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 4554,
     "pieces": [
       {
@@ -23065,29 +22125,7 @@
       "es-419": "Gogmazios β"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -1432692352,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1432692352,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -23451,9 +22489,7 @@
       "es-419": "Parche de esgrimista"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 65
@@ -23478,17 +22514,7 @@
       "es-419": "Rompopomáscara α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -23577,17 +22603,7 @@
       "es-419": "Wudwud ansioso α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -23677,17 +22693,7 @@
       "es-419": "Cruz gremial α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 2237,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2237,
     "pieces": [
       {
@@ -24037,9 +23043,7 @@
       "es-419": "Parche de ojo sellado α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -24129,9 +23133,7 @@
       "es-419": "Lentes cuadrados α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -24222,9 +23224,7 @@
       "es-419": "Diadema fluorescente"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 68
@@ -24249,9 +23249,7 @@
       "es-419": "Cibermiau"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 80
@@ -24276,29 +23274,7 @@
       "es-419": "Afi α"
     },
     "rarity": 5,
-    "set_bonus": {
-      "skill_id": 8694,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 8694,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -24644,9 +23620,7 @@
       "es-419": "Chaqueta de Hawkheart α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -24736,9 +23710,7 @@
       "es-419": "Guantes de patita α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -24828,17 +23800,7 @@
       "es-419": "Gelidron α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -24999,9 +23961,7 @@
       "es-419": "Lentes redondos α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -25091,9 +24051,7 @@
       "es-419": "Orejas wyverianas"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 72
@@ -25118,9 +24076,7 @@
       "es-419": "Collar de álulas α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -25208,17 +24164,7 @@
       "es-419": "Pendiente de glotón α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 2237,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2237,
     "pieces": [
       {
@@ -25309,29 +24255,7 @@
       "es-419": "Mizutsune β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -403054144,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -403054144,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -25687,9 +24611,7 @@
       "es-419": "Cadena para cintura bendita α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -25779,29 +24701,7 @@
       "es-419": "Sororal α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 722735744,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 722735744,
-    "group_bonus": {
-      "skill_id": 2237,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2237,
     "pieces": [
       {
@@ -26157,29 +25057,7 @@
       "es-419": "Tormenta Sakura α"
     },
     "rarity": 5,
-    "set_bonus": {
-      "skill_id": -911441792,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -911441792,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -26525,29 +25403,7 @@
       "es-419": "Dahaad γ"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -215826112,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -215826112,
-    "group_bonus": {
-      "skill_id": 1484575872,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1484575872,
     "pieces": [
       {
@@ -26903,9 +25759,7 @@
       "es-419": "Lentes de estratega α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -26996,17 +25850,7 @@
       "es-419": "Amstrigiano α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -27094,29 +25938,7 @@
       "es-419": "Doshagumáscara α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -27207,17 +26029,7 @@
       "es-419": "Ayudante α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 2237,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2237,
     "pieces": [
       {
@@ -27574,9 +26386,7 @@
       "es-419": "Noble"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 67
@@ -27601,29 +26411,7 @@
       "es-419": "Nu Udra γ"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 1980404096,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 1980404096,
-    "group_bonus": {
-      "skill_id": 1484575872,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1484575872,
     "pieces": [
       {
@@ -27982,17 +26770,7 @@
       "es-419": "Flores α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -28347,9 +27125,7 @@
       "es-419": "Orejas peluditas"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 83
@@ -28374,29 +27150,7 @@
       "es-419": "Lagiacrus β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 16835,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 16835,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -28757,29 +27511,7 @@
       "es-419": "Espiritual β"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -555494336,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -555494336,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -29138,21 +27870,7 @@
       "es-419": "Armadura siniestra α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 24531,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 24531,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -29507,9 +28225,7 @@
       "es-419": "Caballero del gremio"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 60
@@ -29534,29 +28250,7 @@
       "es-419": "Arkveld γ"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -964369920,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -964369920,
-    "group_bonus": {
-      "skill_id": 1484575872,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1484575872,
     "pieces": [
       {
@@ -29917,9 +28611,7 @@
       "es-419": "Tejido sellado de dragón α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -30007,9 +28699,7 @@
       "es-419": "O.J.O. analítico α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -30099,17 +28789,7 @@
       "es-419": "Traje de gala α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -30467,9 +29147,7 @@
       "es-419": "Cosmoloide"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 91
@@ -30494,9 +29172,7 @@
       "es-419": "Lentes de gatito α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -30585,29 +29261,7 @@
       "es-419": "Caminante de Sueños α"
     },
     "rarity": 5,
-    "set_bonus": {
-      "skill_id": 11709,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 11709,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -30953,29 +29607,7 @@
       "es-419": "Uth Duna γ"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 2104075392,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 2104075392,
-    "group_bonus": {
-      "skill_id": 1484575872,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1484575872,
     "pieces": [
       {
@@ -31332,9 +29964,7 @@
       "es-419": "Lentes aviador α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -31426,9 +30056,7 @@
       "es-419": "Lentes oscuros α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -31518,29 +30146,7 @@
       "es-419": "Mizutsune α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -403054144,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -403054144,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -31896,9 +30502,7 @@
       "es-419": "Lentes adorables α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -31987,9 +30591,7 @@
       "es-419": "Visera espejada α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -32078,29 +30680,7 @@
       "es-419": "Espiritual α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -555494336,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -555494336,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -32457,29 +31037,7 @@
       "es-419": "Lagiacrus α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 16835,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 16835,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -32841,9 +31399,7 @@
       "es-419": "Peluca de cuernos oni"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [],
     "model_id": 64
@@ -32868,29 +31424,7 @@
       "es-419": "Ceremonial α"
     },
     "rarity": 5,
-    "set_bonus": {
-      "skill_id": 30815,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 30815,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -33240,17 +31774,7 @@
       "es-419": "Buceo α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 13941,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 13941,
     "pieces": [
       {
@@ -33604,9 +32128,7 @@
       "es-419": "Falso Felyne α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -33693,29 +32215,7 @@
       "es-419": "Rey Dau γ"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": 539707072,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 539707072,
-    "group_bonus": {
-      "skill_id": 1484575872,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1484575872,
     "pieces": [
       {
@@ -34069,9 +32569,7 @@
       "es-419": "Cubrecabeza exped. α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -34161,17 +32659,7 @@
       "es-419": "Lala Barina α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -34511,17 +32999,7 @@
       "es-419": "Balahara β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -34869,29 +33347,7 @@
       "es-419": "Doshaguma Guardián β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -35249,29 +33705,7 @@
       "es-419": "Ébano G. β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": 918165056,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 918165056,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -35627,29 +34061,7 @@
       "es-419": "Doshaguma β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -36010,17 +34422,7 @@
       "es-419": "Piragill β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -36108,29 +34510,7 @@
       "es-419": "Arkveld Guardián α"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -1432692352,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1432692352,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -36481,17 +34861,7 @@
       "es-419": "Seikret Guardián α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -36580,17 +34950,7 @@
       "es-419": "Chatacabra β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -36936,17 +35296,7 @@
       "es-419": "Piragill α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -37033,17 +35383,7 @@
       "es-419": "Quematrice α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -37389,9 +35729,7 @@
       "es-419": "Comisión α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -37732,29 +36070,7 @@
       "es-419": "Nu Udra β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 1980404096,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 1980404096,
-    "group_bonus": {
-      "skill_id": 2107855744,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2107855744,
     "pieces": [
       {
@@ -38113,17 +36429,7 @@
       "es-419": "Comaqchi"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -38208,29 +36514,7 @@
       "es-419": "Blango α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": 741102208,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 741102208,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -38585,17 +36869,7 @@
       "es-419": "Kut-Ku β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -38945,29 +37219,7 @@
       "es-419": "Doshaguma Guardián α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -39326,29 +37578,7 @@
       "es-419": "Rey Dau β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 539707072,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 539707072,
-    "group_bonus": {
-      "skill_id": 2107855744,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 2107855744,
     "pieces": [
       {
@@ -39707,29 +37937,7 @@
       "es-419": "Ébano G."
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": 918165056,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 918165056,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -40073,17 +38281,7 @@
       "es-419": "Megametal α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -40429,9 +38627,7 @@
       "es-419": "Esperanza α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -40764,17 +38960,7 @@
       "es-419": "Conga"
     },
     "rarity": 2,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -41104,17 +39290,7 @@
       "es-419": "Nerscylla"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -41446,17 +39622,7 @@
       "es-419": "Vespoid β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1685697920,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1685697920,
     "pieces": [
       {
@@ -41797,17 +39963,7 @@
       "es-419": "Bulaqchi β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1685697920,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1685697920,
     "pieces": [
       {
@@ -41895,17 +40051,7 @@
       "es-419": "Pestilente α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -42253,29 +40399,7 @@
       "es-419": "Doshaguma α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -62248528,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -62248528,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -42631,17 +40755,7 @@
       "es-419": "Batalla α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -42985,17 +41099,7 @@
       "es-419": "Rey escarabajo α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -43346,17 +41450,7 @@
       "es-419": "Hirabami β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -43702,29 +41796,7 @@
       "es-419": "Arkveld Guardián β"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -1432692352,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1432692352,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -44083,29 +42155,7 @@
       "es-419": "Nu Udra"
     },
     "rarity": 4,
-    "set_bonus": {
-      "skill_id": 1980404096,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 1980404096,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -44452,17 +42502,7 @@
       "es-419": "Rompopolo β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -44806,17 +42846,7 @@
       "es-419": "Nerscylla α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -45160,17 +43190,7 @@
       "es-419": "Talioth β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -45259,29 +43279,7 @@
       "es-419": "Seregios α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 30992,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 30992,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -45639,29 +43637,7 @@
       "es-419": "Nu Udra α"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 1980404096,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 1980404096,
-    "group_bonus": {
-      "skill_id": -1769550080,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1769550080,
     "pieces": [
       {
@@ -46019,17 +43995,7 @@
       "es-419": "Chatacabra"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -46359,17 +44325,7 @@
       "es-419": "Ajarakan"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -46703,17 +44659,7 @@
       "es-419": "Kranodath β"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -46801,17 +44747,7 @@
       "es-419": "Ajarakan β"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -47162,29 +45098,7 @@
       "es-419": "Guardián Fulgúreo α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -1768553344,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1768553344,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -47538,29 +45452,7 @@
       "es-419": "Ébano G. α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": 918165056,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 918165056,
-    "group_bonus": {
-      "skill_id": -1305836672,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1305836672,
     "pieces": [
       {
@@ -47911,17 +45803,7 @@
       "es-419": "Artiano α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -48270,29 +46152,7 @@
       "es-419": "Arkveld β"
     },
     "rarity": 8,
-    "set_bonus": {
-      "skill_id": -964369920,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -964369920,
-    "group_bonus": {
-      "skill_id": 583598144,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 583598144,
     "pieces": [
       {
@@ -48652,17 +46512,7 @@
       "es-419": "Balahara"
     },
     "rarity": 2,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -48992,17 +46842,7 @@
       "es-419": "Bulaqchi α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -49088,29 +46928,7 @@
       "es-419": "Guardián Fulgúreo β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -1768553344,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1768553344,
-    "group_bonus": {
-      "skill_id": -2041451904,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -2041451904,
     "pieces": [
       {
@@ -49466,17 +47284,7 @@
       "es-419": "Piragill"
     },
     "rarity": 1,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -49562,29 +47370,7 @@
       "es-419": "Rathalos α"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -3666104,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -3666104,
-    "group_bonus": {
-      "skill_id": 1487598336,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1487598336,
     "pieces": [
       {
@@ -49939,29 +47725,7 @@
       "es-419": "Xu Wu β"
     },
     "rarity": 6,
-    "set_bonus": {
-      "skill_id": -1468066176,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": -1468066176,
-    "group_bonus": {
-      "skill_id": 451472896,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 451472896,
     "pieces": [
       {
@@ -50320,9 +48084,7 @@
       "es-419": "Cuero α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -50655,17 +48417,7 @@
       "es-419": "Azuz α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1642078720,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1642078720,
     "pieces": [
       {
@@ -50751,19 +48503,19 @@
         },
         "descriptions": {
           "ja": "アズズの里で使われている胴防具。\r\n補強のため、エプロンに縫い付け\r\nられた大きなコインは、熟練の証。",
-          "en": "Chest armor worn in the village of\r\nthe Everforge. Large medallions\r\ndenoting mastery are sewn on\r\nas reinforcement. ",
+          "en": "Chest armor worn in the village of\r\nthe Everforge. Large medallions\r\ndenoting mastery are sewn on\r\nas reinforcement.",
           "fr": "Tablier porté au village d'Azuz.\r\nIl est renforcé par d'imposants\r\nmédaillons symboles de savoir-faire.",
           "it": "Protezione per torace usata nel\r\nvillaggio della Forgeterna. I\r\ngrandi medaglioni rinforzanti\r\nne denotano la maestria.",
           "de": "Ein Brustschutz, wie er in Azuz\r\ngetragen wird. Die aufgenähten\r\nMetallplättchen symbolisieren\r\nÜberlegenheit.",
           "es": "Peto utilizado en la aldea de\r\nForja Eterna. Lleva cosidos unos\r\ngrandes medallones como refuerzo\r\ny como muestra de maestría.",
-          "ru": "Нагрудник из деревни Вечной\r\nКузницы. Для дополнительной\r\nзащиты обшит крупными, мастерски\r\nизготовленными бляхами. ",
+          "ru": "Нагрудник из деревни Вечной\r\nКузницы. Для дополнительной\r\nзащиты обшит крупными, мастерски\r\nизготовленными бляхами.",
           "pl": "Napierśnik noszony w Wiecznej\r\nKuźni. Potężne medaliony\r\nsymbolizujące mistrzostwo, zostały\r\nnaszyte jako wzmocnienie.",
-          "pt-BR": "Proteção de torso usada na aldeia\r\nda Forjeterna. Grandes medalhões\r\ndenotando maestria são costurados\r\ncomo reforço. ",
+          "pt-BR": "Proteção de torso usada na aldeia\r\nda Forjeterna. Grandes medalhões\r\ndenotando maestria são costurados\r\ncomo reforço.",
           "ko": "아즈즈 마을에서 사용되는\r\n몸통 방어구. 보강을 위해\r\n앞치마에 바느질 된\r\n커다란 코인은 숙련의 증표.",
           "zh-Hant": "阿茲茲村所使用的身體防具。為了\r\n提高強度，在圍裙上縫上了大硬幣，\r\n證明工匠技藝高超。",
           "zh-Hans": "阿孜兹村使用的身体防具。围裙上\r\n缝有硕大的硬币以提高强度，证明\r\n制作者十分有经验。",
           "ar": "درع صدر يُرتدى في قرية الورشة العظمى.\r\nتُخيط فوقها الميداليات الكبيرة\r\nالتي تشير إلى الإتقان كتعزيز للدروع.",
-          "th": "เกราะลำตัวที่สวมใส่กันในหมู่บ้านเตา\r\nหลอมนิรันดร์ เสริมความแข็งแรงด้วย\r\nการเย็บติดเหรียญตราขนาดใหญ่ที่\r\nแสดงถึงความชำนาญ ",
+          "th": "เกราะลำตัวที่สวมใส่กันในหมู่บ้านเตา\r\nหลอมนิรันดร์ เสริมความแข็งแรงด้วย\r\nการเย็บติดเหรียญตราขนาดใหญ่ที่\r\nแสดงถึงความชำนาญ",
           "es-419": "Mandil de la Forja Eterna con\r\nmedallones que denotan maestría\r\ncosidos como refuerzo."
         },
         "defense": {
@@ -50880,9 +48632,7 @@
       "es-419": "Damasco α"
     },
     "rarity": 7,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -51230,17 +48980,7 @@
       "es-419": "Ajarakan α"
     },
     "rarity": 6,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1998066176,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1998066176,
     "pieces": [
       {
@@ -51588,29 +49328,7 @@
       "es-419": "Gore β"
     },
     "rarity": 7,
-    "set_bonus": {
-      "skill_id": 722735744,
-      "ranks": [
-        {
-          "pieces": 2,
-          "skill_level": 1
-        },
-        {
-          "pieces": 4,
-          "skill_level": 2
-        }
-      ]
-    },
     "set_bonus_id": 722735744,
-    "group_bonus": {
-      "skill_id": -1664678272,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1664678272,
     "pieces": [
       {
@@ -51970,9 +49688,7 @@
       "es-419": "Malla α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -52306,17 +50022,7 @@
       "es-419": "Rompopolo"
     },
     "rarity": 3,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {
@@ -52648,17 +50354,7 @@
       "es-419": "Comaqchi α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": 1968728576,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": 1968728576,
     "pieces": [
       {
@@ -52744,9 +50440,7 @@
       "es-419": "Rey dragón α"
     },
     "rarity": 8,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": null,
     "group_bonus_id": null,
     "pieces": [
       {
@@ -52832,17 +50526,7 @@
       "es-419": "Rompopolo α"
     },
     "rarity": 5,
-    "set_bonus": null,
     "set_bonus_id": null,
-    "group_bonus": {
-      "skill_id": -1648695680,
-      "ranks": [
-        {
-          "pieces": 3,
-          "skill_level": 1
-        }
-      ]
-    },
     "group_bonus_id": -1648695680,
     "pieces": [
       {

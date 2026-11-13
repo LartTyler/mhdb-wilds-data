@@ -1,14 +1,14 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::processor::context::Context;
 use crate::processor::weapons::series::SeriesId;
 use crate::processor::{
-    create_id_map, to_ingame_rarity, values_until_first_zero, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor,
-    ReadFile, Result, WriteFile,
+    IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    create_id_map, to_ingame_rarity, values_until_first_zero,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
-use serde::{de, Deserialize, Deserializer, Serialize};
+use serde::{Deserialize, Deserializer, Serialize, de};
 use serde_repr::Deserialize_repr;
 use std::collections::HashMap;
 use std::path::PathBuf;
@@ -29,28 +29,33 @@ mod series;
 mod switch_axe;
 mod sword_shield;
 
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     series::process(config, filters)?;
 
-    do_process(config, filters, bow::definition())?;
-    do_process(config, filters, charge_blade::definition())?;
-    do_process(config, filters, gunlance::definition())?;
-    do_process(config, filters, hammer::definition())?;
-    do_process(config, filters, heavy_bowgun::definition())?;
-    do_process(config, filters, lance::definition())?;
-    do_process(config, filters, light_bowgun::definition())?;
-    do_process(config, filters, great_sword::definition())?;
-    do_process(config, filters, insect_glaive::definition())?;
-    do_process(config, filters, sword_shield::definition())?;
-    do_process(config, filters, switch_axe::definition())?;
-    do_process(config, filters, long_sword::definition())?;
-    do_process(config, filters, dual_blades::definition())?;
-    do_process(config, filters, hunting_horn::definition())?;
+    do_process(config, filters, bow::definition(), context)?;
+    do_process(config, filters, charge_blade::definition(), context)?;
+    do_process(config, filters, gunlance::definition(), context)?;
+    do_process(config, filters, hammer::definition(), context)?;
+    do_process(config, filters, heavy_bowgun::definition(), context)?;
+    do_process(config, filters, lance::definition(), context)?;
+    do_process(config, filters, light_bowgun::definition(), context)?;
+    do_process(config, filters, great_sword::definition(), context)?;
+    do_process(config, filters, insect_glaive::definition(), context)?;
+    do_process(config, filters, sword_shield::definition(), context)?;
+    do_process(config, filters, switch_axe::definition(), context)?;
+    do_process(config, filters, long_sword::definition(), context)?;
+    do_process(config, filters, dual_blades::definition(), context)?;
+    do_process(config, filters, hunting_horn::definition(), context)?;
 
     Ok(())
 }
 
-fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefinition) -> Result {
+fn do_process(
+    config: &Config,
+    filters: &[Processor],
+    mut def: ProcessorDefinition,
+    Context { placeholders }: &Context,
+) -> Result {
     should_run!(filters, def.processor);
 
     let data: Vec<WeaponData> = Vec::read_file(config.io.output.join(def.data_path()))?;
@@ -69,7 +74,7 @@ fn do_process(config: &Config, filters: &[Processor], mut def: ProcessorDefiniti
         }
 
         strings.populate(&data.description_guid, &mut weapon.descriptions);
-        Placeholder::process(&mut weapon.descriptions, &ApplyContext::empty());
+        placeholders.apply(&mut weapon.descriptions);
 
         if data.attribute.is_present() {
             weapon.specials.push(Special {

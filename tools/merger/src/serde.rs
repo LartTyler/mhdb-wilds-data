@@ -1,4 +1,4 @@
-use serde::{Serialize, Serializer};
+use serde::{Deserialize, Deserializer, Serialize, Serializer};
 use std::collections::{BTreeMap, HashMap};
 
 pub fn ordered_map<S, K, V>(value: &HashMap<K, V>, serializer: S) -> Result<S::Ok, S::Error>
@@ -35,4 +35,80 @@ where
     T: Default + PartialEq,
 {
     *value == T::default()
+}
+
+pub fn zero_is_none<'de, D, T>(deserializer: D) -> Result<Option<T>, D::Error>
+where
+    D: Deserializer<'de>,
+    T: Zero + Deserialize<'de>,
+{
+    let value = T::deserialize(deserializer)?;
+
+    if value.is_zero() {
+        Ok(None)
+    } else {
+        Ok(Some(value))
+    }
+}
+
+pub fn zero_or_negative_is_none<'de, D, T>(deserializer: D) -> Result<Option<T>, D::Error>
+where
+    D: Deserializer<'de>,
+    T: Zero + Negative + Deserialize<'de>,
+{
+    let value = T::deserialize(deserializer)?;
+
+    if value.is_zero() || value.is_negative() {
+        Ok(None)
+    } else {
+        Ok(Some(value))
+    }
+}
+
+pub fn until_first_zero<'de, D, T>(deserializer: D) -> Result<Vec<T>, D::Error>
+where
+    D: Deserializer<'de>,
+    T: Zero + Deserialize<'de>,
+{
+    let value: Vec<T> = Vec::deserialize(deserializer)?;
+    Ok(value.into_iter().take_while(|v| !v.is_zero()).collect())
+}
+
+pub trait Zero: Sized + PartialEq {
+    fn zero() -> Self;
+
+    fn is_zero(&self) -> bool {
+        *self == Self::zero()
+    }
+}
+
+macro_rules! impl_zero {
+    (
+        $( $ty:ident $(,)? )+
+    ) => {
+        $(
+            impl Zero for $ty {
+                fn zero() -> Self { 0 }
+            }
+        )*
+    };
+}
+
+impl_zero! {
+    u8,
+    i8,
+    isize,
+}
+
+pub trait Negative {
+    fn is_negative(&self) -> bool;
+}
+
+impl<T> Negative for T
+where
+    T: Zero + PartialOrd,
+{
+    fn is_negative(&self) -> bool {
+        *self < Self::zero()
+    }
 }

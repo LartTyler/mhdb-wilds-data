@@ -1,7 +1,7 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::processor::context::Context;
 use crate::processor::{
-    to_ingame_rarity, IconColor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile,
-    Result, WriteFile,
+    IconColor, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
+    WriteFile, to_ingame_rarity,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
@@ -21,7 +21,7 @@ const FOUNDRY_ORE_DATA: &str = "user/facilities/foundry/SmallWorkshopRefineData.
 const FOUNDRY_OUTPUTS_DATA: &[&str] = &[FOUNDRY_SPHERE_DATA, FOUNDRY_ORE_DATA];
 
 const RECIPES: &str = "user/ItemRecipe.json";
-const STRINGS: &str = "msg/Item.json";
+pub const STRINGS: &str = "msg/Item.json";
 
 const OUTPUT: &str = "merged/Item.json";
 
@@ -30,7 +30,7 @@ const OUTPUT: &str = "merged/Item.json";
 // currently has equipped) and a duplicate "Screamer Pod" entry.
 const IGNORED_IDS: &[ItemId] = &[1, 278, 409];
 
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     should_run!(filters, Processor::Items);
 
     let data: Vec<ItemData> = Vec::read_file(config.io.output.join(DATA))?;
@@ -55,7 +55,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         }
 
         strings.populate(&data.description_guid, &mut item.descriptions);
-        Placeholder::process(&mut item.descriptions, &ApplyContext::empty());
+        context.placeholders.apply(&mut item.descriptions);
 
         lookup.insert(item.game_id, merged.len());
         merged.push(item);

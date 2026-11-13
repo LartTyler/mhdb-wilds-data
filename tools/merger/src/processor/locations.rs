@@ -21,10 +21,10 @@ const GIMMICK_TEXT_DATA: &str = "user/GimmickTextData.json";
 
 const CAMP_PATH_PREFIX: &str = "user/locations/camps";
 
-const STAGE_STRINGS: &str = "msg/RefEnvironment.json";
+const STAGE_STRINGS: &str = "msg/references/RefEnvironment.json";
 const GIMMICK_STRINGS: &str = "msg/Gimmick.json";
 
-pub const OUTPUT: &str = "merged/Stage.json";
+pub const OUTPUT: &str = "Stage.json";
 
 pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<()> {
     should_run!(filters, Processor::Locations);
@@ -147,10 +147,12 @@ pub(super) fn process(config: &Config, filters: &[Processor]) -> anyhow::Result<
     }
 
     stages.sort_by_key(|v| v.game_id);
-    stages.write_file(config.io.output.join(OUTPUT))?;
+    stages.write_file(config.merged_path(OUTPUT))?;
 
     Ok(())
 }
+
+pub type StageBitmask = u32;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Stage {
@@ -159,7 +161,7 @@ pub struct Stage {
     pub names: LanguageMap,
     pub areas: u16,
     pub camps: Vec<Camp>,
-    pub bitmask_value: u32,
+    pub bitmask_value: StageBitmask,
 }
 
 impl From<&StageIdData> for Stage {
@@ -185,7 +187,7 @@ struct StageIdData {
 }
 
 impl StageIdData {
-    fn bitmask(&self) -> u32 {
+    fn bitmask(&self) -> StageBitmask {
         1 << (self.value + 1)
     }
 
