@@ -2,7 +2,7 @@
   {
     "id": -2054210560,
     "part": "body",
-    "name": {
+    "names": {
       "ja": "体",
       "en": "Body",
       "fr": "Corps",
@@ -19,13 +19,13 @@
       "th": "ลำตัว",
       "es-419": "Cuerpo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1885998720,
     "part": "right-front-arm",
-    "name": {
+    "names": {
       "ja": "右第１腕",
       "en": "Front Right Arm",
       "fr": "Patte avant droite",
@@ -42,7 +42,7 @@
       "th": "หนวดหน้าขวา",
       "es-419": "Brazo frontal der."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -59,7 +59,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -80,7 +80,7 @@
   {
     "id": -1605643392,
     "part": "left-hind-arm",
-    "name": {
+    "names": {
       "ja": "左第３腕",
       "en": "Rear Left Arm",
       "fr": "Patte arrière gauche",
@@ -97,7 +97,7 @@
       "th": "หนวดหลังซ้าย",
       "es-419": "Brazo trasero izq."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -114,7 +114,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -135,7 +135,7 @@
   {
     "id": -1584832512,
     "part": "left-side-arm",
-    "name": {
+    "names": {
       "ja": "左第２腕",
       "en": "Middle Left Arm",
       "fr": "Patte milieu gauche",
@@ -152,7 +152,7 @@
       "th": "หนวดกลางซ้าย",
       "es-419": "Brazo medio izq."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -169,7 +169,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -190,7 +190,7 @@
   {
     "id": -1564619520,
     "part": "umbrella",
-    "name": {
+    "names": {
       "ja": "傘膜",
       "en": "Membrane",
       "fr": "Membrane",
@@ -207,13 +207,13 @@
       "th": "เยื่ออ่อน",
       "es-419": "Membrana"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1466497792,
     "part": "neck",
-    "name": {
+    "names": {
       "ja": "首",
       "en": "Neck",
       "fr": "Cou",
@@ -230,13 +230,13 @@
       "th": "ลำคอ",
       "es-419": "Cuello"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1410796160,
     "part": "waterfilm-tail",
-    "name": {
+    "names": {
       "ja": "水膜（尻尾）",
       "en": "Veil: Tail (Middle)",
       "fr": "Voile : queue (milieu)",
@@ -253,13 +253,13 @@
       "th": "ม่านคลุม: หาง (กลาง)",
       "es-419": "Velo: Cola (centro)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1392586368,
     "part": "right-wing-blade",
-    "name": {
+    "names": {
       "ja": "右鎖翼刃",
       "en": "Right Chainblade",
       "fr": "Chaîne-lame droite",
@@ -276,13 +276,13 @@
       "th": "ใบมีดลูกโซ่ขวา",
       "es-419": "Hoja cadena der."
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1382295680,
     "part": "upper-body",
-    "name": {
+    "names": {
       "ja": "上半身",
       "en": "Upper Body",
       "fr": "Haut du corps",
@@ -299,13 +299,13 @@
       "th": "ลำตัวส่วนบน",
       "es-419": "Parte superior"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1328528384,
     "part": "frozen-bigcore-after",
-    "name": {
+    "names": {
       "ja": "大凍成殻（露出後）",
       "en": "Lg. Iceplate (Exposed)",
       "fr": "Gde plaque gelée (visible)",
@@ -322,13 +322,13 @@
       "th": "เกราะน้ำแข็งใหญ่ (เปิด)",
       "es-419": "Placa hielo gde. (expuesta)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1314889600,
     "part": "chest",
-    "name": {
+    "names": {
       "ja": "胸",
       "en": "Chest",
       "fr": "Torse",
@@ -345,13 +345,13 @@
       "th": "อก",
       "es-419": "Pecho"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1235127936,
     "part": "left-wing-legs",
-    "name": {
+    "names": {
       "ja": "左翼脚",
       "en": "Left Wingarm",
       "fr": "Patte ailée gauche",
@@ -368,13 +368,13 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1222144512,
     "part": "poisonous-thorn",
-    "name": {
+    "names": {
       "ja": "毒トゲ",
       "en": "Stinger",
       "fr": "Dard",
@@ -391,13 +391,13 @@
       "th": "เหล็กใน",
       "es-419": "Aguijón"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1137775744,
     "part": "feather",
-    "name": {
+    "names": {
       "ja": "響羽",
       "en": "Echo Feather",
       "fr": "Plume d'écho",
@@ -414,13 +414,13 @@
       "th": "ขนเสียงสะท้อน",
       "es-419": "Pluma sónica"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -1110329472,
     "part": "mouth",
-    "name": {
+    "names": {
       "ja": "口",
       "en": "Mouth",
       "fr": "Bouche",
@@ -437,13 +437,13 @@
       "th": "ปาก",
       "es-419": "Boca"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -945112512,
     "part": "antennae",
-    "name": {
+    "names": {
       "ja": "触角",
       "en": "Antenna",
       "fr": "Antenne",
@@ -460,13 +460,13 @@
       "th": "หนวด",
       "es-419": "Antena"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -941150464,
     "part": "ass",
-    "name": {
+    "names": {
       "ja": "尻",
       "en": "Rear",
       "fr": "Arrière",
@@ -483,13 +483,13 @@
       "th": "บั้นท้าย",
       "es-419": "Parte trasera"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -912870400,
     "part": "frozen-core-tail",
-    "name": {
+    "names": {
       "ja": "凍成殻（尻尾）",
       "en": "Tail Iceplate",
       "fr": "Plaque gelée (queue)",
@@ -506,13 +506,13 @@
       "th": "เกราะน้ำแข็งส่วนหาง",
       "es-419": "Placa hielo cola"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -891913216,
     "part": "left-front-leg",
-    "name": {
+    "names": {
       "ja": "左前脚",
       "en": "Left Foreleg",
       "fr": "Patte avant gauche",
@@ -529,13 +529,13 @@
       "th": "ขาหน้าซ้าย",
       "es-419": "Pata delantera izq."
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -727805760,
     "part": "waterfilm-left-body",
-    "name": {
+    "names": {
       "ja": "水膜（左胴）",
       "en": "Veil: Torso (Left)",
       "fr": "Voile : tronc (gauche)",
@@ -552,13 +552,13 @@
       "th": "ม่านคลุม: ลำตัวส่วนกลาง (ซ้าย)",
       "es-419": "Velo: Torso (izq.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -643264000,
     "part": "nose",
-    "name": {
+    "names": {
       "ja": "鼻",
       "en": "Nose",
       "fr": "Nez",
@@ -575,13 +575,13 @@
       "th": "จมูก",
       "es-419": "Nariz"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -526417856,
     "part": "tongue",
-    "name": {
+    "names": {
       "ja": "舌",
       "en": "Tongue",
       "fr": "Langue",
@@ -598,13 +598,13 @@
       "th": "ลิ้น",
       "es-419": "Lengua"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -445884256,
     "part": "waterfilm-left-front-leg",
-    "name": {
+    "names": {
       "ja": "水膜（左前脚）",
       "en": "Veil: Foreleg (Left)",
       "fr": "Voile : patte avant (gauche)",
@@ -621,13 +621,13 @@
       "th": "ม่านคลุม: ขาหน้า (ซ้าย)",
       "es-419": "Velo: Pata delantera (izq.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -279541920,
     "part": "veil",
-    "name": {
+    "names": {
       "ja": "水膜",
       "en": "Veil",
       "fr": "Voile",
@@ -644,13 +644,13 @@
       "th": "ม่านคลุม",
       "es-419": "Velo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -240678336,
     "part": "left-wing",
-    "name": {
+    "names": {
       "ja": "左翼",
       "en": "Left Wing",
       "fr": "Aile gauche",
@@ -667,13 +667,13 @@
       "th": "ปีกซ้าย",
       "es-419": "Ala izquierda"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -226704768,
     "part": "nail",
-    "name": {
+    "names": {
       "ja": "爪",
       "en": "Claws",
       "fr": "Griffes",
@@ -690,13 +690,13 @@
       "th": "กรงเล็บ",
       "es-419": "Garras"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -212024896,
     "part": "head",
-    "name": {
+    "names": {
       "ja": "頭",
       "en": "Head",
       "fr": "Tête",
@@ -713,13 +713,13 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -142058256,
     "part": "right-leg",
-    "name": {
+    "names": {
       "ja": "右脚",
       "en": "Right Leg",
       "fr": "Patte droite",
@@ -736,13 +736,13 @@
       "th": "ขาขวา",
       "es-419": "Pata derecha"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -101670456,
     "part": "waterfilm-right-head",
-    "name": {
+    "names": {
       "ja": "水膜（右頭部）",
       "en": "Veil: Head (Right)",
       "fr": "Voile : tête (droite)",
@@ -759,13 +759,13 @@
       "th": "ม่านคลุม: หัว (ขวา)",
       "es-419": "Velo: Cabeza (der.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -15677196,
     "part": "waterfilm-right-front-leg",
-    "name": {
+    "names": {
       "ja": "水膜（右前脚）",
       "en": "Veil: Foreleg (Right)",
       "fr": "Voile : patte avant (droite)",
@@ -782,13 +782,13 @@
       "th": "ม่านคลุม: ขาหน้า (ขวา)",
       "es-419": "Velo: Pata delantera (der.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": -5591398,
     "part": "right-leg-front-and-rear",
-    "name": {
+    "names": {
       "ja": "右脚（前後）",
       "en": "Right Leg (Fore/Hind)",
       "fr": "Patte droite (avt/arr)",
@@ -805,13 +805,13 @@
       "th": "ขาข้างขวา (หน้า/หลัง)",
       "es-419": "Pata der. (del./tras.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1199,
     "part": "umbrella-oil",
-    "name": {
+    "names": {
       "ja": "傘膜（油膜纏い）",
       "en": "Membrane (Oilfilm)",
       "fr": "Membrane (pellicule)",
@@ -828,13 +828,13 @@
       "th": "เยื่ออ่อน (ชั้นน้ำมัน)",
       "es-419": "Membrana (capa oleosa)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1809,
     "part": "dorsal-fin",
-    "name": {
+    "names": {
       "ja": "背ビレ",
       "en": "Dorsal Fin",
       "fr": "Nageoire dorsale",
@@ -851,13 +851,13 @@
       "th": "ครีบหลัง",
       "es-419": "Aleta dorsal"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 2015,
     "part": "tail-hair",
-    "name": {
+    "names": {
       "ja": "尾毛",
       "en": "Tail Hair",
       "fr": "Poils de queue",
@@ -874,13 +874,13 @@
       "th": "ขนหาง",
       "es-419": "Pelo de la cola"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 2323,
     "part": "right-wing-arm-wear",
-    "name": {
+    "names": {
       "ja": "右翼腕（白纏晶）",
       "en": "R Wingarm (Crystallized)",
       "fr": "Patte ailée D (cristallisée)",
@@ -897,13 +897,13 @@
       "th": "แขนปีกขวา (คริสตัล)",
       "es-419": "Brazo ala der. (crist.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 2383,
     "part": "left-wing-arm-wear",
-    "name": {
+    "names": {
       "ja": "左翼腕（白纏晶）",
       "en": "L Wingarm (Crystallized)",
       "fr": "Patte ailée G (cristallisée)",
@@ -920,13 +920,13 @@
       "th": "แขนปีกซ้าย (คริสตัล)",
       "es-419": "Brazo ala izq. (crist.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 5823,
     "part": "poisonous-thorn-second",
-    "name": {
+    "names": {
       "ja": "毒トゲ(二段階目)",
       "en": "Poison Spike II",
       "fr": "Pointe venimeuse II",
@@ -943,13 +943,13 @@
       "th": "หนามพิษ II",
       "es-419": "Púa venenosa II"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 6538,
     "part": "head-wear",
-    "name": {
+    "names": {
       "ja": "頭（白纏晶）",
       "en": "Head (Crystallized)",
       "fr": "Tête (cristallisée)",
@@ -966,13 +966,13 @@
       "th": "หัว (คริสตัล)",
       "es-419": "Cabeza (cristalizada)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 6609,
     "part": "fang-first",
-    "name": {
+    "names": {
       "ja": "牙(一段階目)",
       "en": "Fang I",
       "fr": "Croc I",
@@ -989,13 +989,13 @@
       "th": "เขี้ยว I",
       "es-419": "Colmillo I"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 6654,
     "part": "equipment",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊",
       "en": "Gogma Material",
       "fr": "Matériau Gogma",
@@ -1012,13 +1012,13 @@
       "th": "วัตถุดิบก็อกมา",
       "es-419": "Material de Gogma"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 7334,
     "part": "equipment-chest",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(胸)",
       "en": "Gog. Mat. (Chest)",
       "fr": "Mat Gog (torse)",
@@ -1035,13 +1035,13 @@
       "th": "วัตถุดิบก็อก (อก)",
       "es-419": "Mat. de Gog. (pecho)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 8217,
     "part": "head-oil",
-    "name": {
+    "names": {
       "ja": "頭（油膜纏い）",
       "en": "Head (Oilfilm)",
       "fr": "Tête (pellicule)",
@@ -1058,13 +1058,13 @@
       "th": "หัว (ชั้นน้ำมัน)",
       "es-419": "Cabeza (capa oleosa)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 8246,
     "part": "right-front-legarmor",
-    "name": {
+    "names": {
       "ja": "右前脚(粘着纏い)",
       "en": "R Foreleg (Reinforced)",
       "fr": "Patte avant D (renforcée)",
@@ -1081,13 +1081,13 @@
       "th": "ขาหน้าข้างขวา (เสริมพลัง)",
       "es-419": "Pata delantera der. (reforzada)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 9871,
     "part": "tail-fifth",
-    "name": {
+    "names": {
       "ja": "尻尾(五段階目)",
       "en": "Tail V",
       "fr": "Queue V",
@@ -1104,13 +1104,13 @@
       "th": "หาง V",
       "es-419": "Cola V"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 10275,
     "part": "arm-oil",
-    "name": {
+    "names": {
       "ja": "腕（油膜纏い）",
       "en": "Arm (Oilfilm)",
       "fr": "Bras (pellicule)",
@@ -1127,13 +1127,13 @@
       "th": "แขน (ชั้นน้ำมัน)",
       "es-419": "Brazo (capa oleosa)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 10456,
     "part": "sharp-corners",
-    "name": {
+    "names": {
       "ja": "吻角",
       "en": "Snout Horn",
       "fr": "Corne de museau",
@@ -1150,13 +1150,13 @@
       "th": "นอ",
       "es-419": "Cuerno de hocico"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 10580,
     "part": "wing-arm",
-    "name": {
+    "names": {
       "ja": "翼腕",
       "en": "Wingarm",
       "fr": "Patte ailée",
@@ -1173,13 +1173,13 @@
       "th": "แขนปีก",
       "es-419": "Brazo ala"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 10831,
     "part": "left-wing-arm-hide",
-    "name": {
+    "names": {
       "ja": "左翼腕",
       "en": "Left Wingarm",
       "fr": "Patte ailée gauche",
@@ -1196,13 +1196,13 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 10869,
     "part": "stomach-second",
-    "name": {
+    "names": {
       "ja": "腹部(二段階目)",
       "en": "Belly II",
       "fr": "Ventre II",
@@ -1219,13 +1219,13 @@
       "th": "ท้อง II",
       "es-419": "Barriga II"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 11039,
     "part": "equipment-head",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(頭)",
       "en": "Gog. Mat. (Head)",
       "fr": "Mat Gog (tête)",
@@ -1242,13 +1242,13 @@
       "th": "วัตถุดิบก็อก (หัว)",
       "es-419": "Mat. de Gog. (cabeza)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 11138,
     "part": "corner",
-    "name": {
+    "names": {
       "ja": "角",
       "en": "Horn",
       "fr": "Corne",
@@ -1265,13 +1265,13 @@
       "th": "เขา",
       "es-419": "Cuerno"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 11977,
     "part": "tail-third",
-    "name": {
+    "names": {
       "ja": "尻尾(三段階目)",
       "en": "Tail III",
       "fr": "Queue III",
@@ -1288,13 +1288,13 @@
       "th": "หาง III",
       "es-419": "Cola III"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 12265,
     "part": "arm",
-    "name": {
+    "names": {
       "ja": "腕",
       "en": "Arm",
       "fr": "Patte",
@@ -1311,13 +1311,13 @@
       "th": "หนวด",
       "es-419": "Brazo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 15310,
     "part": "right-wing-arm-armor",
-    "name": {
+    "names": {
       "ja": "右翼腕(暴蝕化)",
       "en": "R Wingarm (Fallen)",
       "fr": "Patte ailée D (déchue)",
@@ -1334,13 +1334,13 @@
       "th": "แขนปีกขวา (ดำ)",
       "es-419": "B. ala der. (caído)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 15433,
     "part": "chelicerae",
-    "name": {
+    "names": {
       "ja": "鋏角",
       "en": "Pincer",
       "fr": "Pince",
@@ -1357,13 +1357,13 @@
       "th": "ก้ามหนีบ",
       "es-419": "Tenaza"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 15641,
     "part": "equipment-right",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(右翼脚)",
       "en": "Gog. Mat. (R. Wingarm)",
       "fr": "Mat Gog (patte ailée D)",
@@ -1380,13 +1380,13 @@
       "th": "วัตถุดิบก็อก (แขนปีกขวา)",
       "es-419": "Mat. de Gog. (brazo ala der.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 15859,
     "part": "both-leg",
-    "name": {
+    "names": {
       "ja": "両脚",
       "en": "Legs",
       "fr": "Pattes",
@@ -1403,13 +1403,13 @@
       "th": "ขา",
       "es-419": "Patas"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 16835,
     "part": "equipment-back",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(背中)",
       "en": "Gog. Mat. (Back)",
       "fr": "Mat Gog (dos)",
@@ -1426,13 +1426,13 @@
       "th": "วัตถุดิบก็อก (หลัง)",
       "es-419": "Mat. de Gog. (espalda)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 17094,
     "part": "head-armor",
-    "name": {
+    "names": {
       "ja": "頭(暴蝕化)",
       "en": "Head (Fallen)",
       "fr": "Tête (déchue)",
@@ -1449,13 +1449,13 @@
       "th": "หัว (ดำ)",
       "es-419": "Cabeza (caída)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 19946,
     "part": "torso-oil",
-    "name": {
+    "names": {
       "ja": "胴（油膜纏い）",
       "en": "Torso (Oilfilm)",
       "fr": "Torse (pellicule)",
@@ -1472,13 +1472,13 @@
       "th": "ลำตัวส่วนกลาง (ชั้นน้ำมัน)",
       "es-419": "Torso (capa oleosa)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 20534,
     "part": "head-second",
-    "name": {
+    "names": {
       "ja": "頭(二段階目)",
       "en": "Head II",
       "fr": "Tête II",
@@ -1495,13 +1495,13 @@
       "th": "หัว II",
       "es-419": "Cabeza II"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 20830,
     "part": "periscope",
-    "name": {
+    "names": {
       "ja": "背中ユニット",
       "en": "Rear Power Unit",
       "fr": "Unité arrière",
@@ -1518,13 +1518,13 @@
       "th": "แหล่งพลังงานที่หลัง",
       "es-419": "Unidad de poder trasera"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 21608,
     "part": "right-wing-arm-hide",
-    "name": {
+    "names": {
       "ja": "右翼腕",
       "en": "Right Wingarm",
       "fr": "Patte ailée droite",
@@ -1541,13 +1541,13 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 21841,
     "part": "equipment-left",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(左翼脚)",
       "en": "Gog. Mat. (L. Wingarm)",
       "fr": "Mat Gog (patte ailée G)",
@@ -1564,13 +1564,13 @@
       "th": "วัตถุดิบก็อก (แขนปีกซ้าย)",
       "es-419": "Mat. de Gog. (brazo ala izq.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 22650,
     "part": "left-wing-arm",
-    "name": {
+    "names": {
       "ja": "左翼腕",
       "en": "Left Wingarm",
       "fr": "Patte ailée gauche",
@@ -1587,13 +1587,13 @@
       "th": "แขนปีกซ้าย",
       "es-419": "Brazo ala izquierdo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 23097,
     "part": "leg",
-    "name": {
+    "names": {
       "ja": "脚",
       "en": "Leg",
       "fr": "Patte",
@@ -1610,13 +1610,13 @@
       "th": "ขา",
       "es-419": "Pata"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 23256,
     "part": "needle-hair",
-    "name": {
+    "names": {
       "ja": "針毛",
       "en": "Bristle",
       "fr": "Poils",
@@ -1633,13 +1633,13 @@
       "th": "ขนแข็ง",
       "es-419": "Pelo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 23560,
     "part": "wing-arm-wear",
-    "name": {
+    "names": {
       "ja": "翼腕（白纏晶）",
       "en": "Wingarm (Crystallized)",
       "fr": "Patte ailée (cristallisée)",
@@ -1656,13 +1656,13 @@
       "th": "แขนปีก (คริสตัล)",
       "es-419": "Brazo ala (crist.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 24658,
     "part": "both-wings-blade",
-    "name": {
+    "names": {
       "ja": "両鎖翼刃",
       "en": "Chainblades",
       "fr": "Chaînes-lames",
@@ -1679,13 +1679,13 @@
       "th": "ปีกใบมีดลูกโซ่",
       "es-419": "Hojas cadena"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 24769,
     "part": "left-wing-arm-armor",
-    "name": {
+    "names": {
       "ja": "左翼腕(暴蝕化)",
       "en": "L Wingarm (Fallen)",
       "fr": "Patte ailée G (déchue)",
@@ -1702,13 +1702,13 @@
       "th": "แขนปีกข้างซ้าย (ดำ)",
       "es-419": "B. ala izq. (caído)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 25689,
     "part": "fang",
-    "name": {
+    "names": {
       "ja": "牙",
       "en": "Fang",
       "fr": "Croc",
@@ -1725,13 +1725,13 @@
       "th": "เขี้ยว",
       "es-419": "Colmillo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 26403,
     "part": "head-first",
-    "name": {
+    "names": {
       "ja": "頭(一段階目)",
       "en": "Head I",
       "fr": "Tête I",
@@ -1748,13 +1748,13 @@
       "th": "หัว I",
       "es-419": "Cabeza I"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 26497,
     "part": "equipment-tail",
-    "name": {
+    "names": {
       "ja": "変異パーツ塊(尻尾)",
       "en": "Gog. Mat. (Tail)",
       "fr": "Mat Gog (queue)",
@@ -1771,13 +1771,13 @@
       "th": "วัตถุดิบก็อก (หาง)",
       "es-419": "Mat. de Gog. (cola)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 27651,
     "part": "left-front-legarmor",
-    "name": {
+    "names": {
       "ja": "左前脚(粘着纏い)",
       "en": "L Foreleg (Reinforced)",
       "fr": "Patte avant G (renforcée)",
@@ -1794,20 +1794,20 @@
       "th": "ขาหน้าข้างซ้าย (เสริมพลัง)",
       "es-419": "Pata delantera izq. (reforzada)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 28141,
     "part": "hide",
-    "name": {},
-    "description": null,
-    "rotten_name": null
+    "names": {},
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 29797,
     "part": "fang-second",
-    "name": {
+    "names": {
       "ja": "牙(二段階目)",
       "en": "Fang II",
       "fr": "Croc II",
@@ -1824,13 +1824,13 @@
       "th": "เขี้ยว II",
       "es-419": "Colmillo II"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 30311,
     "part": "head-hide",
-    "name": {
+    "names": {
       "ja": "頭",
       "en": "Head",
       "fr": "Tête",
@@ -1847,13 +1847,13 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 30763,
     "part": "right-wing-arm",
-    "name": {
+    "names": {
       "ja": "右翼腕",
       "en": "Right Wingarm",
       "fr": "Patte ailée droite",
@@ -1870,13 +1870,13 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 30838,
     "part": "both-wings",
-    "name": {
+    "names": {
       "ja": "両翼",
       "en": "Wings",
       "fr": "Ailes",
@@ -1893,13 +1893,13 @@
       "th": "ปีก",
       "es-419": "Alas"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 31285,
     "part": "paralysis-corners",
-    "name": {
+    "names": {
       "ja": "痺洞角",
       "en": "Paralytic Horn",
       "fr": "Corne paralysante",
@@ -1916,13 +1916,13 @@
       "th": "เขาอาบสารอัมพาต",
       "es-419": "Cuerno paralizante"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 31953,
     "part": "waterfilm-right-tail",
-    "name": {
+    "names": {
       "ja": "水膜（尻尾右部）",
       "en": "Veil: Tail (Right)",
       "fr": "Voile : queue (droite)",
@@ -1939,13 +1939,13 @@
       "th": "ม่านคลุม: หาง (ขวา)",
       "es-419": "Velo: Cola (der.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 18080514,
     "part": "back",
-    "name": {
+    "names": {
       "ja": "背中",
       "en": "Back",
       "fr": "Dos",
@@ -1962,13 +1962,13 @@
       "th": "หลัง",
       "es-419": "Espalda"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 63041352,
     "part": "right-nail",
-    "name": {
+    "names": {
       "ja": "右爪",
       "en": "Right Claw",
       "fr": "Griffe droite",
@@ -1985,13 +1985,13 @@
       "th": "กรงเล็บขวา",
       "es-419": "Garra derecha"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 102373496,
     "part": "left-leg-front-and-rear",
-    "name": {
+    "names": {
       "ja": "左脚（前後）",
       "en": "Left Leg (Fore/Hind)",
       "fr": "Patte gauche (avt/arr)",
@@ -2008,13 +2008,13 @@
       "th": "ขาซ้าย (หน้า/หลัง)",
       "es-419": "Pata izq. (del./tras.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 304214656,
     "part": "left-hind-leg",
-    "name": {
+    "names": {
       "ja": "左後脚",
       "en": "Left Hind Leg",
       "fr": "Patte arrière gauche",
@@ -2031,20 +2031,20 @@
       "th": "ขาหลังซ้าย",
       "es-419": "Pata trasera izquierda"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 486590176,
     "part": "invalid",
-    "name": {},
-    "description": null,
-    "rotten_name": null
+    "names": {},
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 499612832,
     "part": "tentacle",
-    "name": {
+    "names": {
       "ja": "触腕",
       "en": "Tentacle",
       "fr": "Tentacule",
@@ -2061,13 +2061,13 @@
       "th": "หนวด",
       "es-419": "Tentáculo"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 509608864,
     "part": "mantle",
-    "name": {
+    "names": {
       "ja": "外套膜",
       "en": "Mantle",
       "fr": "Manteau",
@@ -2084,13 +2084,13 @@
       "th": "เยื่อหุ้ม",
       "es-419": "Manto"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 517550944,
     "part": "head2",
-    "name": {
+    "names": {
       "ja": "頭部",
       "en": "Head",
       "fr": "Tête",
@@ -2107,13 +2107,13 @@
       "th": "หัว",
       "es-419": "Cabeza"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 591465408,
     "part": "right-hind-leg",
-    "name": {
+    "names": {
       "ja": "右後脚",
       "en": "Right Hind Leg",
       "fr": "Patte arrière droite",
@@ -2130,13 +2130,13 @@
       "th": "ขาหลังขวา",
       "es-419": "Pata trasera derecha"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 655333504,
     "part": "saw",
-    "name": {
+    "names": {
       "ja": "鋸角",
       "en": "Sawhorn",
       "fr": "Corne-scie",
@@ -2153,13 +2153,13 @@
       "th": "เขาเลื่อย",
       "es-419": "Cuerno dentado"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 665420480,
     "part": "right-wing",
-    "name": {
+    "names": {
       "ja": "右翼",
       "en": "Right Wing",
       "fr": "Aile droite",
@@ -2176,13 +2176,13 @@
       "th": "ปีกขวา",
       "es-419": "Ala derecha"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 702074176,
     "part": "right-wing-legs",
-    "name": {
+    "names": {
       "ja": "右翼脚",
       "en": "Right Wingarm",
       "fr": "Patte ailée droite",
@@ -2199,13 +2199,13 @@
       "th": "แขนปีกขวา",
       "es-419": "Brazo ala derecho"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 731472640,
     "part": "left-leg",
-    "name": {
+    "names": {
       "ja": "左脚",
       "en": "Left Leg",
       "fr": "Patte gauche",
@@ -2222,13 +2222,13 @@
       "th": "ขาซ้าย",
       "es-419": "Pata izquierda"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 767347712,
     "part": "left-wing-blade",
-    "name": {
+    "names": {
       "ja": "左鎖翼刃",
       "en": "Left Chainblade",
       "fr": "Chaîne-lame gauche",
@@ -2245,13 +2245,13 @@
       "th": "ใบมีดลูกโซ่ซ้าย",
       "es-419": "Hoja cadena izq."
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 789930048,
     "part": "mantle-under",
-    "name": {
+    "names": {
       "ja": "外套膜下部",
       "en": "Lower Mantle",
       "fr": "Manteau inférieur",
@@ -2268,13 +2268,13 @@
       "th": "เยื่อหุ้มส่วนล่าง",
       "es-419": "Manto inferior"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 876321664,
     "part": "frozen-core-waist",
-    "name": {
+    "names": {
       "ja": "凍成殻（腰部）",
       "en": "Abdominal Iceplate",
       "fr": "Plaque gelée (flancs)",
@@ -2291,13 +2291,13 @@
       "th": "เกราะน้ำแข็งส่วนสะโพก",
       "es-419": "Placa hielo abdominal"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1000875456,
     "part": "petal",
-    "name": {
+    "names": {
       "ja": "花弁状部",
       "en": "Petals",
       "fr": "Pétales",
@@ -2314,13 +2314,13 @@
       "th": "กลีบ",
       "es-419": "Pétalos"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1063213696,
     "part": "frozen-bigcore-before",
-    "name": {
+    "names": {
       "ja": "大凍成殻（露出前）",
       "en": "Lg. Iceplate (Hidden)",
       "fr": "Gde plaque gelée (cachée)",
@@ -2337,13 +2337,13 @@
       "th": "เกราะน้ำแข็งใหญ่ (ปิด)",
       "es-419": "Placa hielo gde. (oculta)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1154422144,
     "part": "right-side-arm",
-    "name": {
+    "names": {
       "ja": "右第２腕",
       "en": "Middle Right Arm",
       "fr": "Patte milieu droite",
@@ -2360,7 +2360,7 @@
       "th": "หนวดกลางขวา",
       "es-419": "Brazo medio der."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -2377,7 +2377,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -2398,7 +2398,7 @@
   {
     "id": 1177888256,
     "part": "left-front-arm",
-    "name": {
+    "names": {
       "ja": "左第１腕",
       "en": "Front Left Arm",
       "fr": "Patte avant gauche",
@@ -2415,7 +2415,7 @@
       "th": "หนวดหน้าซ้าย",
       "es-419": "Brazo frontal izq."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -2432,7 +2432,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -2453,7 +2453,7 @@
   {
     "id": 1210068992,
     "part": "torso",
-    "name": {
+    "names": {
       "ja": "胴",
       "en": "Torso",
       "fr": "Torse",
@@ -2470,13 +2470,13 @@
       "th": "ลำตัวส่วนกลาง",
       "es-419": "Torso"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1395139584,
     "part": "frozen-core-head",
-    "name": {
+    "names": {
       "ja": "凍成殻（頭部）",
       "en": "Cranial Iceplate",
       "fr": "Plaque gelée (tête)",
@@ -2493,13 +2493,13 @@
       "th": "เกราะน้ำแข็งส่วนกะโหลก",
       "es-419": "Placa hielo craneal"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1429619328,
     "part": "hind-legs",
-    "name": {
+    "names": {
       "ja": "後脚",
       "en": "Hind Leg",
       "fr": "Patte arrière",
@@ -2516,13 +2516,13 @@
       "th": "ขาหลัง",
       "es-419": "Pata trasera"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1481421312,
     "part": "trunk",
-    "name": {
+    "names": {
       "ja": "胴体",
       "en": "Torso",
       "fr": "Tronc",
@@ -2539,13 +2539,13 @@
       "th": "ลำตัวส่วนกลาง",
       "es-419": "Torso"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1603494400,
     "part": "stomach",
-    "name": {
+    "names": {
       "ja": "腹部",
       "en": "Belly",
       "fr": "Ventre",
@@ -2562,13 +2562,13 @@
       "th": "ท้อง",
       "es-419": "Barriga"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1725614208,
     "part": "waterfilm-left-tail",
-    "name": {
+    "names": {
       "ja": "水膜（尻尾左部）",
       "en": "Veil: Tail (Left)",
       "fr": "Voile : queue (gauche)",
@@ -2585,13 +2585,13 @@
       "th": "ม่านคลุม: หาง (ซ้าย)",
       "es-419": "Velo: Cola (izq.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1730846080,
     "part": "waterfilm-left-head",
-    "name": {
+    "names": {
       "ja": "水膜（左頭部）",
       "en": "Veil: Head (Left)",
       "fr": "Voile : tête (gauche)",
@@ -2608,13 +2608,13 @@
       "th": "ม่านคลุม: หัว (ซ้าย)",
       "es-419": "Velo: Cabeza (izq.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1733044864,
     "part": "full-body",
-    "name": {
+    "names": {
       "ja": "全身",
       "en": "Full Body",
       "fr": "Corps entier",
@@ -2631,13 +2631,13 @@
       "th": "ทั้งลำตัว",
       "es-419": "Cuerpo entero"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1750977664,
     "part": "left-nail",
-    "name": {
+    "names": {
       "ja": "左爪",
       "en": "Left Claw",
       "fr": "Griffe gauche",
@@ -2654,13 +2654,13 @@
       "th": "กรงเล็บซ้าย",
       "es-419": "Garra izquierda"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1777993216,
     "part": "front-legs",
-    "name": {
+    "names": {
       "ja": "前脚",
       "en": "Foreleg",
       "fr": "Patte avant",
@@ -2677,13 +2677,13 @@
       "th": "ขาหน้า",
       "es-419": "Pata delantera"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1886418560,
     "part": "tail-tip",
-    "name": {
+    "names": {
       "ja": "尻尾先端",
       "en": "Tail Tip",
       "fr": "Bout de la queue",
@@ -2700,13 +2700,13 @@
       "th": "ปลายหาง",
       "es-419": "Punta de la cola"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1917146240,
     "part": "waterfilm-right-body",
-    "name": {
+    "names": {
       "ja": "水膜（右胴）",
       "en": "Veil: Torso (Right)",
       "fr": "Voile : tronc (droit)",
@@ -2723,13 +2723,13 @@
       "th": "ม่านคลุม: ลำตัวส่วนกลาง (ขวา)",
       "es-419": "Velo: Torso (der.)"
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1920497920,
     "part": "right-front-leg",
-    "name": {
+    "names": {
       "ja": "右前脚",
       "en": "Right Foreleg",
       "fr": "Patte avant droite",
@@ -2746,13 +2746,13 @@
       "th": "ขาหน้าขวา",
       "es-419": "Pata delantera der."
     },
-    "description": null,
-    "rotten_name": null
+    "descriptions": null,
+    "rotten_names": null
   },
   {
     "id": 1925104512,
     "part": "right-hind-arm",
-    "name": {
+    "names": {
       "ja": "右第３腕",
       "en": "Rear Right Arm",
       "fr": "Patte arrière droite",
@@ -2769,7 +2769,7 @@
       "th": "หนวดหลังขวา",
       "es-419": "Brazo trasero der."
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの腕。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster limb. Can be carved for materials.",
       "fr": "Un membre de monstre. Peut être dépecé.",
@@ -2786,7 +2786,7 @@
       "th": "รยางค์ของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "Extremidad de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した腕",
       "en": "Rotten Limb",
       "fr": "Membre pourri",
@@ -2807,7 +2807,7 @@
   {
     "id": 2000370944,
     "part": "tail",
-    "name": {
+    "names": {
       "ja": "尻尾",
       "en": "Tail",
       "fr": "Queue",
@@ -2824,7 +2824,7 @@
       "th": "หาง",
       "es-419": "Cola"
     },
-    "description": {
+    "descriptions": {
       "ja": "モンスターの尻尾。\r\n剥ぎ取りを行うことができる。",
       "en": "A monster tail. Can be carved for materials.",
       "fr": "Une queue de monstre. Peut être dépecée.",
@@ -2841,7 +2841,7 @@
       "th": "หางของมอนสเตอร์ สามารถแล่เพื่อเก็บวัตถุดิบได้",
       "es-419": "La cola de un monstruo. Proporciona materiales."
     },
-    "rotten_name": {
+    "rotten_names": {
       "ja": "腐敗した尻尾",
       "en": "Rotten Tail",
       "fr": "Queue pourrie",

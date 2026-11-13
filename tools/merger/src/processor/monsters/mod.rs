@@ -64,9 +64,9 @@ struct Monster {
     pub kind: MonsterKind,
     pub species: SpeciesKind,
     #[serde(serialize_with = "ordered_map")]
-    pub name: LanguageMap,
+    pub names: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
-    pub description: LanguageMap,
+    pub descriptions: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
     pub features: LanguageMap,
     pub base_health: Health,

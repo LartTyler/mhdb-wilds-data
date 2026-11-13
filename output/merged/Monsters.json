@@ -30,7 +30,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "ゾ・シア",
       "en": "Zoh Shia",
       "fr": "Zoh Shia",
@@ -47,7 +47,7 @@
       "th": "โซห์ ชิอา",
       "es-419": "Zoh Shia"
     },
-    "description": {
+    "descriptions": {
       "ja": "竜都の「救い主」として造られた護竜。\r\n龍灯に寄生し、そこから膨大なエネルギーを\r\n取り込みながら眠りについていた。",
       "en": "A Guardian created to be Wyveria's savior.\r\nIt was feeding off the Dragontorch, drawing from\r\nthe vast stores of energy while it slumbered.",
       "fr": "Gardien qui avait été créé pour être le sauveur de Wyveria.\r\nIl se nourrissait de la Torche draconique, puisant dans ses\r\nvastes réserves d'énergie pendant son sommeil.",
@@ -894,7 +894,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜ドシャグマ",
       "en": "Guardian Doshaguma",
       "fr": "Doshaguma Gardien",
@@ -911,7 +911,7 @@
       "th": "การ์เดียนโดชากุมา",
       "es-419": "Doshaguma Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明によって、≪闢獣≫の力を宿し\r\n生み出された造竜種。極めて頑強な\r\n肉体を誇り、酸性の液体を吐き出す。",
       "en": "An artificial species created by an ancient\r\ncivilization with a Doshaguma's power. They boast\r\nan incredibly robust physique and can spew acid.",
       "fr": "Espèce artificielle créée par une ancienne\r\ncivilisation dotée du pouvoir d'un Doshaguma.\r\nTrès robuste et peut cracher de l'acide.",
@@ -1550,7 +1550,7 @@
     "game_id": -1691669248,
     "kind": "small",
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "ブランゴ",
       "en": "Blango",
       "fr": "Blango",
@@ -1567,7 +1567,7 @@
       "th": "บลังโก",
       "es-419": "Blango"
     },
-    "description": {
+    "descriptions": {
       "ja": "真っ白な毛並みをもつ牙獣。その多くは群れの\r\nリーダーであるドドブランゴに従い行動し、\r\n縄張り内へ近づくものを排除する。",
       "en": "Fanged beasts with snow-white pelts. Blango\r\ntravel in packs with a Blangonga at the head,\r\nworking together to eliminate intruders.",
       "fr": "Bêtes à crocs au pelage blanc comme neige.\r\nLes Blango voyagent en meute menée par un\r\nBlangonga et éliminent ensemble les intrus.",
@@ -1735,7 +1735,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "レ・ダウ",
       "en": "Rey Dau",
       "fr": "Rey Dau",
@@ -1752,7 +1752,7 @@
       "th": "เรย์ ดาว",
       "es-419": "Rey Dau"
     },
-    "description": {
+    "descriptions": {
       "ja": "隔ての砂原、その生態系の頂点に君臨する\r\n≪煌雷竜（こうらいりゅう）≫。雷をともなう\r\n砂嵐に適応し、帯電能力を活かし獲物を襲う。",
       "en": "The flying wyvern that reigns supreme over the\r\nWindward Plains' ecosystem. It is able to store,\r\namplify, and discharge the Sandtide's lightning.",
       "fr": "Wyverne volante qui règne sans partage sur les\r\nPlaines venteuses. Peut emmagasiner, amplifier\r\net libérer la foudre des tempêtes de sable.",
@@ -2524,7 +2524,7 @@
       "gold_multiplier": 1.23
     },
     "species": "temnoceran",
-    "name": {
+    "names": {
       "ja": "ラバラ・バリナ",
       "en": "Lala Barina",
       "fr": "Lala Barina",
@@ -2541,7 +2541,7 @@
       "th": "ลาลา บารินา",
       "es-419": "Lala Barina"
     },
-    "description": {
+    "descriptions": {
       "ja": "緋の森に生息する鋏角種。踊り子のような\r\n回転運動が特徴的。獲物や外敵に向けて\r\n飛ばすわた毛には、麻痺の効果がある。",
       "en": "Temnocerans native to the Scarlet Forest\r\nwith distinctive, pirouette-like movements.\r\nThe florets they release have a paralytic effect.",
       "fr": "Temnocerans virevoltants vivant dans la Forêt\r\nécarlate. Les fleurons qu'ils projettent ont un\r\neffet paralysant.",
@@ -3251,7 +3251,7 @@
       "gold_multiplier": 1.23
     },
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "ババコンガ",
       "en": "Congalala",
       "fr": "Congalala",
@@ -3268,7 +3268,7 @@
       "th": "คองกาลาลา",
       "es-419": "Congalala"
     },
-    "description": {
+    "descriptions": {
       "ja": "桃色の毛並みをもつ大型の牙獣。食べたキノコの\r\n特性に応じた多彩なブレスと、回復アイテムを\r\n使用不能にする「悪臭状態」に注意。",
       "en": "Large, pink fanged beasts. Beware their potent\r\nbreath, which changes based on their mushroom\r\ndiet, and stench, which disables recovery items.",
       "fr": "Grande bête à crocs rose. Attention à son souffle,\r\naux effets variant selon le champignon ingéré,\r\net à l'affliction puanteur, qui empêche tout soin.",
@@ -3916,7 +3916,7 @@
       "gold_multiplier": 1.23
     },
     "species": "temnoceran",
-    "name": {
+    "names": {
       "ja": "ネルスキュラ",
       "en": "Nerscylla",
       "fr": "Nerscylla",
@@ -3933,7 +3933,7 @@
       "th": "เนอร์ซิลลา",
       "es-419": "Nerscylla"
     },
-    "description": {
+    "descriptions": {
       "ja": "毒、睡眠、糸拘束など複数の状態異常を\r\n付与する鋏角種。巧みに獲物を追い詰め、\r\n大きく発達した鋏角を使い仕留める。",
       "en": "Temnocerans that afflict poison, sleep, and\r\nwebbing ailments—skillfully cornering prey,\r\nthen hunting it with their pincer-like jaws.",
       "fr": "Temnoceran utilisant ses toiles pour paralyser,\r\nempoisonner et endormir ses proies. Il les\r\ncoince puis les chasse avec sa mâchoire.",
@@ -4631,7 +4631,7 @@
     "game_id": -1302731776,
     "kind": "small",
     "species": "wingdrake",
-    "name": {
+    "names": {
       "ja": "バオノス",
       "en": "Baunos",
       "fr": "Baunos",
@@ -4648,7 +4648,7 @@
       "th": "บาวนอส",
       "es-419": "Baunos"
     },
-    "description": {
+    "descriptions": {
       "ja": "胸部を振動させることで音を発する翼竜。\r\nフックスリンガーによって\r\nスリンガー音爆弾を取得できる。",
       "en": "Winged wyverns that vibrate their thoraxes\r\nto create a deafening roar. You can nab screamer\r\npods from them using the Hook Slinger.",
       "fr": "Wyvernes ailées faisant vibrer leur thorax pour\r\ngénérer un rugissement. Utilisez la grappe-fronde\r\nsur eux pour obtenir des capsules sonores.",
@@ -4824,7 +4824,7 @@
       "gold_multiplier": 1.13
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ラギアクルス",
       "en": "Lagiacrus",
       "fr": "Lagiacrus",
@@ -4841,7 +4841,7 @@
       "th": "ลาเกียครุส",
       "es-419": "Lagiacrus"
     },
-    "description": {
+    "descriptions": {
       "ja": "海洋の食物連鎖の頂点に立ち、種を代表して\r\n≪海竜（かいりゅう）≫と呼ばれる。\r\n肥沃な環境に惹かれて緋の森の水域に現れた。",
       "en": "Leviathans that exist at the top of the aquatic food\r\nchain. They have appeared in the waters of the\r\nScarlet Forest, drawn in by its fertile environment.",
       "fr": "Léviathans au sommet de la chaîne alimentaire\r\naquatique. Il sont apparus dans les eaux de la Forêt\r\nécarlate, attirés par son environnement fertile.",
@@ -5538,7 +5538,7 @@
       "gold_multiplier": 1.17
     },
     "species": "demi-elder",
-    "name": {
+    "names": {
       "ja": "ゴア・マガラ",
       "en": "Gore Magala",
       "fr": "Gore Magala",
@@ -5555,7 +5555,7 @@
       "th": "กอร์ มากาลา",
       "es-419": "Gore Magala"
     },
-    "description": {
+    "descriptions": {
       "ja": "黒い外套のような翼膜に身を包む\r\n≪黒蝕竜（こくしょくりゅう）≫。眼をもたず\r\n散布した鱗粉で対象を感知し、襲いかかる。",
       "en": "Monsters draped in great wings like a black\r\novercoat. They have no eyes, so instead they\r\nuse a scattering of fine scales to locate prey.",
       "fr": "Monstres drapés dans de grandes ailes. Ils n'ont\r\npas d'yeux et dispersent une multitude de fines\r\nécailles à la place pour repérer leurs proies.",
@@ -6168,7 +6168,7 @@
     "game_id": -643207680,
     "kind": "small",
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜セクレト",
       "en": "Guardian Seikret",
       "fr": "Seikret Gardien",
@@ -6185,7 +6185,7 @@
       "th": "การ์เดียนเซย์เคร็ท",
       "es-419": "Seikret Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明により生み出された造竜種。\r\n小型の繭から孵化して群れをなす。攻撃性が\r\n強く、前脚の大きな鉤爪で外敵に襲いかかる。",
       "en": "Artificial wyverns created by an ancient\r\ncivilization. They hatch from small cocoons and\r\ntravel in packs, attacking with sharp claws.",
       "fr": "Wyverne artificielle créée par une ancienne\r\ncivilisation. Sort d'un cocon et se déplace en\r\nmeute. Attaque grâce à des griffes acérées.",
@@ -6438,7 +6438,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "グラビモス",
       "en": "Gravios",
       "fr": "Gravios",
@@ -6455,7 +6455,7 @@
       "th": "กราวิออส",
       "es-419": "Gravios"
     },
-    "description": {
+    "descriptions": {
       "ja": "油涌き谷に現れる大型の飛竜。\r\n強固に発達した外殻に覆われており、\r\n強力な熱線を放つ。",
       "en": "Large wyverns found in the Oilwell Basin.\r\nTheir highly developed carapaces repel\r\nattacks and emit powerful heat rays.",
       "fr": "Grandes wyvernes du Bassin pétrolier.\r\nProtégées par leur épaisse cuirasse, elles\r\ncrachent de puissants rayons thermiques.",
@@ -7103,7 +7103,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜アルシュベルド",
       "en": "Guardian Arkveld",
       "fr": "Arkveld Gardien",
@@ -7120,7 +7120,7 @@
       "th": "การ์เดียนอาร์คเวลด์",
       "es-419": "Arkveld Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明によって、≪鎖刃竜≫の力を宿し\r\n生み出された造竜種。その原種は既に滅びた\r\n種として知られている伝説的な存在。",
       "en": "An artificial species created by an ancient\r\ncivilization based on a presumed extinct,\r\nlegendary monster called Arkveld.",
       "fr": "Espèce artificielle créée par une ancienne\r\ncivilisation basée sur l'Arkveld, un monstre\r\nlégendaire qu'on pensait éteint.",
@@ -7510,7 +7510,7 @@
     "game_id": -199376720,
     "kind": "small",
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "コンガ",
       "en": "Conga",
       "fr": "Conga",
@@ -7527,7 +7527,7 @@
       "th": "คองกา",
       "es-419": "Conga"
     },
-    "description": {
+    "descriptions": {
       "ja": "桃色の毛並みをもつ牙獣。大規模な群れは\r\n形成せず、少数が集まって生活することが多い。\r\n温暖、湿潤な地域に多く生息する。",
       "en": "Fanged beasts with pink fur that prefer mild,\r\ndamp climates. Generally, they don't form large\r\npacks and only live together in small numbers.",
       "fr": "Bêtes à crocs à fourrure rose préférant les\r\nclimats doux et humides. Elles vivent en petit\r\nnombre sans former de meutes importantes.",
@@ -7648,7 +7648,7 @@
     "game_id": -37537660,
     "kind": "small",
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ピラギル",
       "en": "Piragill",
       "fr": "Piragill",
@@ -7665,7 +7665,7 @@
       "th": "พิรากิลล์",
       "es-419": "Piragill"
     },
-    "description": {
+    "descriptions": {
       "ja": "美しい鱗と、全身に鋭利な突起をもつ海竜種。\r\n主に緋の森の水辺に生息しており、極めて\r\n統制のとれた群れで行動している。",
       "en": "Leviathans with beautiful scales and blade-like\r\nprotrusions. They primarily inhabit the Scarlet\r\nForest, and hunt in highly organized packs.",
       "fr": "Léviathans aux belles écailles et aux saillies\r\nen forme de lames. Ils vivent dans la Forêt\r\nécarlate et chassent en meutes organisées.",
@@ -7890,7 +7890,7 @@
       "gold_multiplier": 1.23
     },
     "species": "brute-wyvern",
-    "name": {
+    "names": {
       "ja": "ケマトリス",
       "en": "Quematrice",
       "fr": "Quematrice",
@@ -7907,7 +7907,7 @@
       "th": "เคมาทริซ",
       "es-419": "Quematrice"
     },
-    "description": {
+    "descriptions": {
       "ja": "気化しやすい発火性の物質を撒いた後、\r\n尻尾で擦り発火させ、炎上させる獣竜種。\r\n他者が仕留めた獲物を奪い取る生態をもつ。",
       "en": "Brute wyverns that spread flammable vapor which\r\nthey then ignite with their tails. They subsist\r\non prey stolen from other predators.",
       "fr": "Wyvernes de terre répandant une vapeur inflammable\r\nqu'elles embrasent grâce à leur queue. Elles se\r\nnourrissent en volant les proies d'autres monstres.",
@@ -8599,7 +8599,7 @@
       "gold_multiplier": 1.23
     },
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "ドシャグマ",
       "en": "Doshaguma",
       "fr": "Doshaguma",
@@ -8616,7 +8616,7 @@
       "th": "โดชากุมา",
       "es-419": "Doshaguma"
     },
-    "description": {
+    "descriptions": {
       "ja": "強靭な体躯が特徴の≪闢獣（びゃくじゅう）≫。\r\n縄張り意識が強く、広い行動範囲と強い攻撃性を\r\nもつ。時折、大規模な群れも目撃されている。",
       "en": "Rugged, territorial fanged beasts that exhibit\r\nan aggressive disposition and inhabit a large\r\nrange. Sometimes observed in large packs.",
       "fr": "Bêtes à crocs territoriales agressives par nature et\r\naux habitats divers. Parfois observées en meute.",
@@ -9223,7 +9223,7 @@
       "gold_multiplier": 1.23
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "バーラハーラ",
       "en": "Balahara",
       "fr": "Balahara",
@@ -9240,7 +9240,7 @@
       "th": "บาลาฮารา",
       "es-419": "Balahara"
     },
-    "description": {
+    "descriptions": {
       "ja": "砂地に生息する海竜種。柔軟に曲がる\r\n身体で流砂を形成し、罠として利用する。\r\n砂に潜っている間は音爆弾が有効。",
       "en": "Desert-dwelling leviathans that use their supple,\r\nserpentine bodies to create quicksand traps. Weak\r\nagainst sonic bombs when they're submerged.",
       "fr": "Léviathans qui créent des gouffres de sable grâce\r\nà leur corps particulièrement souple. Sensibles\r\naux bombes soniques quand ils sont dans le sable.",
@@ -9932,7 +9932,7 @@
     "game_id": 17,
     "kind": "small",
     "species": "herbivore",
-    "name": {
+    "names": {
       "ja": "ケラトノス♂",
       "en": "Ceratonoth (Male)",
       "fr": "Ceratonoth (m)",
@@ -9949,7 +9949,7 @@
       "th": "เซราโทนอธ (ตัวผู้)",
       "es-419": "Ceratonoth (macho)"
     },
-    "description": {
+    "descriptions": {
       "ja": "背中にある発達した背角で落雷を受け止め\r\n地面へ逃がし、周囲の雌を雷から守る。\r\n雄を中心とした大規模な群れを形成する。",
       "en": "Male Ceratonoth. They use their large spikes\r\nto disperse lightning into the ground and\r\nprotect the females of their sizeable herds.",
       "fr": "Ceratonoth mâle. Ils utilisent les longues pointes\r\nsituées sur leur dos pour disperser la foudre dans\r\nle sol et protéger les femelles de leurs larges troupeaux.",
@@ -10070,7 +10070,7 @@
     "game_id": 18,
     "kind": "small",
     "species": "herbivore",
-    "name": {
+    "names": {
       "ja": "ダルトドン",
       "en": "Dalthydon",
       "fr": "Dalthydon",
@@ -10087,7 +10087,7 @@
       "th": "ดาลไธดอน",
       "es-419": "Dalthydon"
     },
-    "description": {
+    "descriptions": {
       "ja": "時期によって生息地を変える草食竜。\r\n身の危険を感じると、発達した頭殻を活かし\r\n群れで防御態勢を取り、反撃することもある。",
       "en": "Herbivores that move between habitats in response\r\nto environmental changes. When in danger, they\r\nuse their head plating to fight back.",
       "fr": "Herbivores qui migrent pour s'adapter aux\r\nchangements du climat. Ils utilisent leur plaque\r\ncrânienne pour se défendre contre les prédateurs.",
@@ -10211,7 +10211,7 @@
     "game_id": 19,
     "kind": "small",
     "species": "herbivore",
-    "name": {
+    "names": {
       "ja": "ケラトノス♀",
       "en": "Ceratonoth (Female)",
       "fr": "Ceratonoth (f)",
@@ -10228,7 +10228,7 @@
       "th": "เซราโทนอธ (ตัวเมีย)",
       "es-419": "Ceratonoth (hembra)"
     },
-    "description": {
+    "descriptions": {
       "ja": "ケラトノスの雌。厳しい環境の中における\r\n貴重な栄養源として、ほかのモンスターから\r\n狙われることも多い。",
       "en": "Female Ceratonoth. In a harsh climate where\r\nnourishment is difficult to come by, they\r\nare frequently targeted by predators.",
       "fr": "Ceratonoth femelle. Durant la période où\r\nle climat est le plus rude, elles sont souvent\r\nla cible de prédateurs en quête de nourriture.",
@@ -10379,7 +10379,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "セルレギオス",
       "en": "Seregios",
       "fr": "Seregios",
@@ -10396,7 +10396,7 @@
       "th": "เซเรกิออส",
       "es-419": "Seregios"
     },
-    "description": {
+    "descriptions": {
       "ja": "縄張り意識が非常に強い飛竜種。\r\n刃鱗と呼ばれる鋭い鱗に身を包むその姿から\r\n≪千刃竜（せんじんりゅう）≫と称される。",
       "en": "Fiercely territorial flying wyverns known\r\nfor the sharp, blade-like scales covering\r\ntheir bodies.",
       "fr": "Wyvernes volantes farouchement territoriales,\r\nconnues pour leurs écailles aussi tranchantes\r\nque des lames.",
@@ -10998,7 +10998,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "リオレイア",
       "en": "Rathian",
       "fr": "Rathian",
@@ -11015,7 +11015,7 @@
       "th": "ราเธียน",
       "es-419": "Rathian"
     },
-    "description": {
+    "descriptions": {
       "ja": "大地を駆ける優れた脚力と、猛毒をもつ尾が\r\n特徴の≪雌火竜（めすかりゅう）≫。\r\nそれらの特徴から、陸の女王とも呼ばれる。",
       "en": "The \"Queen of the Land,\" these female fire-\r\nbreathing wyverns are known for their powerful\r\nlegs and lethal, poison-secreting tails.",
       "fr": "La \"Reine de la terre\", une wyverne femelle\r\ncrachant du feu, connue pour ses pattes\r\npuissantes et sa queue au venin mortel.",
@@ -11576,7 +11576,7 @@
       "gold_multiplier": 1.23
     },
     "species": "amphibian",
-    "name": {
+    "names": {
       "ja": "チャタカブラ",
       "en": "Chatacabra",
       "fr": "Chatacabra",
@@ -11593,7 +11593,7 @@
       "th": "ชาตาคาบรา",
       "es-419": "Chatacabra"
     },
-    "description": {
+    "descriptions": {
       "ja": "粘着性の唾液によって前脚に鉱石等を付着させ、\r\n自身を強化する両生種。付着物を狙い破壊すれば\r\n攻撃のチャンスとなる。舌が弱点。",
       "en": "Amphibians that affix rocks to their forelimbs\r\nto power up attacks. Break this \"armor\" to create\r\nan attack opening. The tongue is most vulnerable.",
       "fr": "Amphibiens fixant des pierres à leurs pattes avant\r\npour gagner en force. Détruisez-les pour créer\r\nune ouverture. Leur langue est très vulnérable.",
@@ -12122,7 +12122,7 @@
     "game_id": 34,
     "kind": "small",
     "species": "bird-wyvern",
-    "name": {
+    "names": {
       "ja": "タリオス",
       "en": "Talioth",
       "fr": "Talioth",
@@ -12139,7 +12139,7 @@
       "th": "ทาลิออธ",
       "es-419": "Talioth"
     },
-    "description": {
+    "descriptions": {
       "ja": "群れで行動する肉食竜。縄張りに入った外敵や\r\n獲物を連携して囲い、強靭な顎で襲いかかる。\r\nこの習性は大型モンスターに対しても利用可能。",
       "en": "Carnivores that work together to attack\r\nintruders using their powerful jaws. A clever\r\nhunter can turn them against larger monsters.",
       "fr": "Carnivores chassant proies et intrus en meute avec\r\nleur mâchoire puissante. Un chasseur malin peut\r\nse servir d'eux pour attaquer des grands monstres.",
@@ -12364,7 +12364,7 @@
       "gold_multiplier": 1.23
     },
     "species": "elder-dragon",
-    "name": {
+    "names": {
       "ja": "ゴグマジオス",
       "en": "Gogmazios",
       "fr": "Gogmazios",
@@ -12381,7 +12381,7 @@
       "th": "ก็อกมาซิออส",
       "es-419": "Gogmazios"
     },
-    "description": {
+    "descriptions": {
       "ja": "全身を黒く粘性の高い液体が覆う、謎多き古龍。\r\n火窯の里アズズで発見された地下空間\r\nにて休眠している所を観測された。",
       "en": "A mysterious elder dragon covered head to\r\ntail in a viscous black liquid that was found\r\nhibernating in an expanse beneath Azuz.",
       "fr": "Un mystérieux dragon ancien entièrement\r\nrecouvert d'un liquide visqueux noir qui\r\nhibernait dans une étendue située sous Azuz.",
@@ -13070,7 +13070,7 @@
     "game_id": 20326,
     "kind": "small",
     "species": "machine",
-    "name": {
+    "names": {
       "ja": "オメガ・ミクロス",
       "en": "Omega Micros",
       "fr": "Oméga Micros",
@@ -13087,7 +13087,7 @@
       "th": "โอเมกา ไมโครส์",
       "es-419": "Omega Micros"
     },
-    "description": {
+    "descriptions": {
       "ja": "オメガ・プラネテスにより生成された小型機体。\r\n次々と対象に迫り、自ら爆発して攻撃を行う。\r\n音に対して敏感に反応する事が報告されている。",
       "en": "Small machines made by Omega Planetes. They\r\nhome in on targets, then self-destruct. Reports\r\nsuggest that they are quite sensitive to sound.",
       "fr": "Petites machines fabriquées par Oméga Planetikos.\r\nElles se dirigent vers les cibles puis s'autodétruisent.\r\nOn dit qu'elles sont particulièrement sensibles au son.",
@@ -13226,7 +13226,7 @@
       "gold_multiplier": 1.23
     },
     "species": "machine",
-    "name": {
+    "names": {
       "ja": "オメガ・プラネテス",
       "en": "Omega Planetes",
       "fr": "Oméga Planetikos",
@@ -13243,7 +13243,7 @@
       "th": "โอเมกา แพลนเนตส์",
       "es-419": "Omega Planetes"
     },
-    "description": {
+    "descriptions": {
       "ja": "侵攻すべき星と、より強い生命を求め\r\n次元の狭間を通して禁足地へと降り立った\r\nオメガフレームの１機。",
       "en": "An Omega frame that crossed the interdimensional\r\nrift. It descended on the Forbidden Lands to\r\nfind stronger lifeforms and planets to invade.",
       "fr": "Un châssis expérimental Oméga qui a traversé la fissure\r\ninterdimensionnelle et est arrivé dans les Terres interdites pour\r\ntrouver des formes de vie puissantes et des planètes à envahir.",
@@ -13688,7 +13688,7 @@
       "gold_multiplier": 1.23
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "タマミツネ",
       "en": "Mizutsune",
       "fr": "Mizutsune",
@@ -13705,7 +13705,7 @@
       "th": "มิซึสึเนะ",
       "es-419": "Mizutsune"
     },
-    "description": {
+    "descriptions": {
       "ja": "独自の進化を遂げ、特殊な分泌液と体毛をこすり\r\n合わせて作り出す泡を巧みに使う。その姿から\r\n≪泡狐竜（ほうこりゅう）≫と呼ばれている。",
       "en": "Specially evolved leviathans, Mizutsune\r\ncan secrete a peculiar foam that deftly\r\ncovers their foes in dangerous bubbles.",
       "fr": "Léviathans évolués, les Mizutsune peuvent\r\nsécréter une mousse étrange recouvrant\r\nleurs proies de bulles dangereuses.",
@@ -14289,7 +14289,7 @@
     "game_id": 71428824,
     "kind": "small",
     "species": "neopteron",
-    "name": {
+    "names": {
       "ja": "ブブラチカ",
       "en": "Bulaqchi",
       "fr": "Bulaqchi",
@@ -14306,7 +14306,7 @@
       "th": "บูลัคชี",
       "es-419": "Bulaqchi"
     },
-    "description": {
+    "descriptions": {
       "ja": "発達した口元の針で獲物の体液をすする甲虫種。\r\n群れで獲物を囲み、行動を制限し襲い掛かる。\r\n感覚器官が鋭敏なため、音爆弾が有効。",
       "en": "Neopterons that use swarming tactics to contain\r\nand subdue prey, then dissolve it from the inside.\r\nSonic bombs will disable their sensory organs.",
       "fr": "Neopteron attaquant en essaim pour dominer\r\npuis dissoudre une proie de l'intérieur. Les bombes\r\nsoniques neutralisent leurs organes sensoriels.",
@@ -14517,7 +14517,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜アンジャナフ亜種",
       "en": "Guardian Fulgur Anjanath",
       "fr": "Anjanath tonnerre Gardien",
@@ -14534,7 +14534,7 @@
       "th": "การ์เดียนฟูลเกอร์อันจานาธ",
       "es-419": "Anjanath Fulgúreo Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明によって、≪雷顎竜≫の力を宿し\r\n生み出された造竜種。その身に帯びた雷の\r\n放電と、強烈な噛みつき攻撃を繰り出す。",
       "en": "An artificial species created by an ancient\r\ncivilization with a Fulgur Anjanath's power. They\r\ncan discharge lightning and have a nasty bite.",
       "fr": "Espèce artificielle créée par une ancienne\r\ncivilisation dotée du pouvoir d'un Anjanath\r\ntonnerre. Lance des éclairs et mord.",
@@ -15196,7 +15196,7 @@
       "gold_multiplier": 1.13
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ヒラバミ",
       "en": "Hirabami",
       "fr": "Hirabami",
@@ -15213,7 +15213,7 @@
       "th": "ฮิราบามิ",
       "es-419": "Hirabami"
     },
-    "description": {
+    "descriptions": {
       "ja": "氷霧の断崖に生息する海竜種。尻尾に鋏状の\r\n尾爪を備え、首にある特殊な膜に風を受けて\r\n浮遊する独特な飛行生態をもつ。",
       "en": "Leviathans that inhabit the Iceshard Cliffs. They\r\nhave sharp, pincer-like tails and membranes on\r\ntheir necks that catch the wind to keep them aloft.",
       "fr": "Léviathans vivant dans les Falaises de glace.\r\nDotés d'une queue acérée et de membranes\r\nsur le cou qui leur permettent de voler.",
@@ -15822,7 +15822,7 @@
     "game_id": 236738432,
     "kind": "small",
     "species": "amphibian",
-    "name": {
+    "names": {
       "ja": "ゼレドロン",
       "en": "Gelidron",
       "fr": "Gelidron",
@@ -15839,7 +15839,7 @@
       "th": "เกลิดรอน",
       "es-419": "Gelidron"
     },
-    "description": {
+    "descriptions": {
       "ja": "遮熱効果のある粘液層をまとい、乾燥や熱など\r\n過酷な環境に適応した両生種。その可食部分は\r\n美味で肉食モンスターから狙われることが多い。",
       "en": "Amphibians that have adapted to their dry, hot\r\nhabitat by producing a protective slime. Their\r\ntasty flesh makes them a target of carnivores.",
       "fr": "Amphibiens adaptés à leur habitat chaud et sec\r\ngrâce à leur mucosité protectrice.\r\nLeur chair savoureuse attire les carnivores.",
@@ -15946,7 +15946,7 @@
     "game_id": 277782464,
     "kind": "small",
     "species": "bird-wyvern",
-    "name": {
+    "names": {
       "ja": "ポルケピナ",
       "en": "Porkeplume",
       "fr": "Porkeplume",
@@ -15963,7 +15963,7 @@
       "th": "พอร์เคอพลูม",
       "es-419": "Porkeplume"
     },
-    "description": {
+    "descriptions": {
       "ja": "頭部にトゲのような鋭い針毛をもつ鳥竜種。\r\nフックスリンガーを使うことで、傷つけに\r\n効果的なスリンガー弾を入手できる。",
       "en": "Bird wyverns with sharp bristles on their heads.\r\nObtain Slinger ammo that is effective at creating\r\nwounds by firing your Hook Slinger at them.",
       "fr": "Wyverne rapace à la tête ornée de piquants\r\nacérés. Frappez-les pour obtenir des munitions\r\nde fronde efficaces pour infliger des blessures.",
@@ -16153,7 +16153,7 @@
       "gold_multiplier": 1.23
     },
     "species": "bird-wyvern",
-    "name": {
+    "names": {
       "ja": "イャンクック",
       "en": "Yian Kut-Ku",
       "fr": "Yian Kut-Ku",
@@ -16170,7 +16170,7 @@
       "th": "ยีอานคุท-คู",
       "es-419": "Yian Kut-Ku"
     },
-    "description": {
+    "descriptions": {
       "ja": "大きな耳と、立派な顎が特徴の鳥竜種。\r\n憶病な性格だが外敵には果敢に立ち向かう。\r\n虫を好んで食べる姿が、たびたび目撃される。",
       "en": "Bird wyverns with impressive beaks, big ears,\r\nand an appetite for insects. Skittish by nature,\r\nthey will still put up a fight if threatened.",
       "fr": "Wyvernes rapaces insectivores au grand bec et\r\naux larges oreilles. De nature craintive, ils\r\nattaquent sans hésiter s'ils se sentent menacés.",
@@ -16860,7 +16860,7 @@
       "gold_multiplier": 1.23
     },
     "species": "brute-wyvern",
-    "name": {
+    "names": {
       "ja": "ププロポル",
       "en": "Rompopolo",
       "fr": "Rompopolo",
@@ -16877,7 +16877,7 @@
       "th": "รอมโปโปโล",
       "es-419": "Rompopolo"
     },
-    "description": {
+    "descriptions": {
       "ja": "油涌き谷を根城とする斑色の獣竜。\r\n舌先から毒性のガスを撒き散らし、尻尾の\r\n先端から地中にガスを注入して爆発させる。",
       "en": "Dappled brute wyverns that prowl Oilwell Basin.\r\nThe gas from their tongues is toxic, and the\r\ngas in their tails can detonate the earth.",
       "fr": "Wyvernes de terre du Bassin pétrolier.\r\nLeur langue produit un gaz toxique et le gaz de\r\nleur queue déclenche des explosions sous terre.",
@@ -17542,7 +17542,7 @@
     "game_id": 580794112,
     "kind": "small",
     "species": "neopteron",
-    "name": {
+    "names": {
       "ja": "ランゴスタ",
       "en": "Vespoid",
       "fr": "Vespoid",
@@ -17559,7 +17559,7 @@
       "th": "เวสปอยด์",
       "es-419": "Vespoid"
     },
-    "description": {
+    "descriptions": {
       "ja": "腹部に麻痺性の毒針をもつ甲虫種。\r\n繊細で壊れやすい体のため、スリンガーや\r\n毒で仕留めてからの素材剥ぎ取りが有効。",
       "en": "Neopterons with paralyzing poison stingers. They\r\nare quite fragile, so carefully take them down with\r\nyour Slinger or poison to safely carve materials.",
       "fr": "Neopterons dotés de dards paralysants.\r\nPour récupérer leurs matériaux fragiles,\r\nutilisez la fronde ou du poison.",
@@ -17805,7 +17805,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "アルシュベルド",
       "en": "Arkveld",
       "fr": "Arkveld",
@@ -17822,7 +17822,7 @@
       "th": "อาร์คเวลด์",
       "es-419": "Arkveld"
     },
-    "description": {
+    "descriptions": {
       "ja": "鎖のような形状の翼をもつ飛竜。\r\n翼の鎖刃は伸縮自在で、獲物を薙ぎ払うほか\r\n属性エネルギーの吸収にも活用される。",
       "en": "A wyvern with chain-like wings. The flexible\r\nchainblades on their wings are used to mow\r\ndown prey and absorb elemental energy.",
       "fr": "Wyverne aux ailes souples pourvues de lames\r\névoquant des chaînes, qui lui permettent de\r\nrenverser sa proie et d'absorber son énergie.",
@@ -18434,7 +18434,7 @@
       "gold_multiplier": 1.23
     },
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "アジャラカン",
       "en": "Ajarakan",
       "fr": "Ajarakan",
@@ -18451,7 +18451,7 @@
       "th": "อาจาราคาน",
       "es-419": "Ajarakan"
     },
-    "description": {
+    "descriptions": {
       "ja": "体に付着した金属をこすり合わせ、高温になり\r\n爆発を引き起こす牙獣種。火走りの時期には\r\n複数頭で行動する姿が目撃される。",
       "en": "Fanged beasts that adhere metal to their bodies\r\nand use friction to heat and cause explosions.\r\nThey move in groups during the Firespring.",
       "fr": "Bêtes à crocs qui se recouvrent de métal\r\net créent des explosions par friction. Se\r\ndéplacent en groupe pendant la coulée de feu.",
@@ -19188,7 +19188,7 @@
     "game_id": 827389184,
     "kind": "small",
     "species": "neopteron",
-    "name": {
+    "names": {
       "ja": "ネマラチカ",
       "en": "Comaqchi",
       "fr": "Comaqchi",
@@ -19205,7 +19205,7 @@
       "th": "โคมัคชี",
       "es-419": "Comaqchi"
     },
-    "description": {
+    "descriptions": {
       "ja": "発達した尻尾の針と前脚が特徴的な甲虫種。\r\n獲物を群れで囲み、尻尾の針から睡眠毒を\r\n注入し捕食する。",
       "en": "Neopterons with well-developed tail stingers\r\nand forelegs. They surround prey in colonies,\r\nusing their tails to inject a sleeping agent.",
       "fr": "Neopteron au dard et pattes avant développés.\r\nIls chassent en essaim et injectent à leur proie\r\nun agent qui endort avec leur queue.",
@@ -19368,7 +19368,7 @@
     "game_id": 1042601600,
     "kind": "small",
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ガジオス",
       "en": "Gajios",
       "fr": "Gajios",
@@ -19385,7 +19385,7 @@
       "th": "กาจิออส",
       "es-419": "Gajios"
     },
-    "description": {
+    "descriptions": {
       "ja": "水辺に生息する鼻先が特徴的な海竜種。\r\nフックスリンガーによって\r\nスリンガー裂傷弾を取得できる。",
       "en": "Leviathans with distinct snouts that live near\r\nwater. Obtain bleeding pods by firing your Hook\r\nSlinger at them.",
       "fr": "Léviathans au museau unique vivant au\r\nbord de l'eau. Utilisez la grappe-fronde\r\npour obtenir des capsules d'hémorragie.",
@@ -19561,7 +19561,7 @@
       "gold_multiplier": 1.23
     },
     "species": "bird-wyvern",
-    "name": {
+    "names": {
       "ja": "ゲリョス",
       "en": "Gypceros",
       "fr": "Gypceros",
@@ -19578,7 +19578,7 @@
       "th": "จิปเซรอส",
       "es-419": "Gypceros"
     },
-    "description": {
+    "descriptions": {
       "ja": "頭部のトサカが特徴的なモンスター。\r\nトサカを打ち合わせて発する閃光で外敵の\r\n目を眩ませ、吐き出す毒で弱らせる。",
       "en": "Monsters that use their prominent crest to stun\r\nfoes with disorienting flashes of light before\r\nfinishing them off with poisonous saliva.",
       "fr": "Monstres utilisant leur crête proéminente pour\r\nétourdir leurs ennemis avec des éclairs aveuglants\r\navant de les achever avec leur salive venimeuse.",
@@ -20192,7 +20192,7 @@
     "game_id": 1097544832,
     "kind": "small",
     "species": "bird-wyvern",
-    "name": {
+    "names": {
       "ja": "クラノダス",
       "en": "Kranodath",
       "fr": "Kranodath",
@@ -20209,7 +20209,7 @@
       "th": "คราโนดาธ",
       "es-419": "Kranodath"
     },
-    "description": {
+    "descriptions": {
       "ja": "油涌き谷を徘徊する小型の肉食竜。小規模な\r\n群れで行動して獲物を探し、捕食に際しては\r\n大型モンスターと敵対することもある。",
       "en": "Small carnivores that prowl Oilwell Basin,\r\nhunting in small packs. They have been known\r\nto engage larger monsters while feeding.",
       "fr": "Petits carnivores rôdant dans le Bassin pétrolier\r\net chassant en petites meutes. Ils s'en prennent\r\nparfois à de grands monstres.",
@@ -20402,7 +20402,7 @@
     "game_id": 1176986112,
     "kind": "small",
     "species": "wingdrake",
-    "name": {
+    "names": {
       "ja": "ハルプス",
       "en": "Harpios",
       "fr": "Harpios",
@@ -20419,7 +20419,7 @@
       "th": "ฮาปิออส",
       "es-419": "Harpios"
     },
-    "description": {
+    "descriptions": {
       "ja": "頭部に特徴的な鋭い角をもつ翼竜。\r\nフックスリンガーによって\r\nスリンガー貫通弾を取得できる。",
       "en": "Winged wyverns that are identifiable by the\r\nlong, sharp horn on their heads. Obtain piercing\r\npods by firing the Hook Slinger at them.",
       "fr": "Wyvernes ailées reconnaissables à leur longue\r\ncorne pointue. Utilisez la grappe-fronde\r\npour obtenir des capsules perforantes.",
@@ -20575,7 +20575,7 @@
       "gold_multiplier": 1.23
     },
     "species": "cephalopod",
-    "name": {
+    "names": {
       "ja": "シーウー",
       "en": "Xu Wu",
       "fr": "Xu Wu",
@@ -20592,7 +20592,7 @@
       "th": "ซือวู",
       "es-419": "Xu Wu"
     },
-    "description": {
+    "descriptions": {
       "ja": "竜都の跡形を根城に、護竜を捕食する頭足種。\r\nそのため、護竜とのモンスター同士の争いを\r\n引き起こすこともある。",
       "en": "Cephalopods that roam the Ruins of Wyveria and\r\nprey on Guardians. This often leads to conflicts\r\nbetween the two monsters.",
       "fr": "Céphalopode errant dans les Ruines de Wyveria\r\net qui s'attaque aux Gardiens. Cela conduit\r\nsouvent à des conflits entre les deux monstres.",
@@ -21410,7 +21410,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜リオレウス",
       "en": "Guardian Rathalos",
       "fr": "Rathalos Gardien",
@@ -21427,7 +21427,7 @@
       "th": "การ์เดียนราธาลอส",
       "es-419": "Rathalos Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明によって、≪火竜≫の力を宿し\r\n生み出された造竜種。エネルギー放出を\r\nともなう爪の攻撃が強力。",
       "en": "An artificial species created by an ancient\r\ncivilization with a Rathalos's power. Beware the\r\nenergy released by their powerful claw attacks.",
       "fr": "Espèce artificielle créée par une ancienne\r\ncivilisation, dotée des pouvoirs du Rathalos.\r\nAttention à la puissance de ses coups de griffes.",
@@ -22157,7 +22157,7 @@
     "game_id": 1412682112,
     "kind": "small",
     "species": "temnoceran",
-    "name": {
+    "names": {
       "ja": "ネルスキュラベビー",
       "en": "Nerscylla Hatchling",
       "fr": "Nerscylla (bébé)",
@@ -22174,7 +22174,7 @@
       "th": "ลูกเนอร์ซิลลา",
       "es-419": "Cría de Nerscylla"
     },
-    "description": {
+    "descriptions": {
       "ja": "孵化して間もないネルスキュラの幼体。\r\n食べ終えた獲物の体内、巣や物陰などで群体を\r\n成しており、刺激を受けると一斉に反応する。",
       "en": "Newly-hatched Nerscylla larvae. They form colonies\r\nin the bodies of devoured prey, nests, and other\r\nhidey-holes, and react as a group when provoked.",
       "fr": "Larves de Nerscylla fraîchement écloses. Vivent\r\ndans les corps de proies dévorées, les nids et\r\nautres cachettes et attaquent en groupe.",
@@ -22265,7 +22265,7 @@
     "game_id": 1460588672,
     "kind": "small",
     "species": "herbivore",
-    "name": {
+    "names": {
       "ja": "ラフマー",
       "en": "Rafma",
       "fr": "Rafma",
@@ -22282,7 +22282,7 @@
       "th": "ราฟมา",
       "es-419": "Rafma"
     },
-    "description": {
+    "descriptions": {
       "ja": "主として寒冷地で群れをなし、生息する草食獣。\r\n動植物の乏しい寒冷地では、貴重な栄養源として\r\nほかのモンスターから狙われる事が多い。",
       "en": "Herbivores that live in herds in cold areas.\r\nThey are targeted by predators as a source of\r\nsustenance where flora and fauna are scarce.",
       "fr": "Herbivores vivant en troupeau dans les régions\r\nfroides. Les prédateurs les attaquent pour se\r\nsustenter quand la faune et la flore sont rares.",
@@ -22472,7 +22472,7 @@
       "gold_multiplier": 1.13
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ウズ・トゥナ",
       "en": "Uth Duna",
       "fr": "Uth Duna",
@@ -22489,7 +22489,7 @@
       "th": "อุธ ดูนา",
       "es-419": "Uth Duna"
     },
-    "description": {
+    "descriptions": {
       "ja": "緋の森に君臨する≪波衣竜（はごろもりゅう）≫。\r\n水分をヴェール状に変化させて身を守りつつ、\r\n重い一撃で波を起こして押し流す。",
       "en": "The leviathan that reigns supreme over the\r\nScarlet Forest's ecosystem. Its protective veil\r\ncan also generate a wave to keep foes at bay.",
       "fr": "Le léviathan qui règne sur la Forêt écarlate.\r\nSon voile protecteur peut générer une\r\nvague repoussant les adversaires.",
@@ -23402,7 +23402,7 @@
       "gold_multiplier": 1.23
     },
     "species": "leviathan",
-    "name": {
+    "names": {
       "ja": "ジン・ダハド",
       "en": "Jin Dahaad",
       "fr": "Jin Dahaad",
@@ -23419,7 +23419,7 @@
       "th": "จิน ดาฮาด",
       "es-419": "Jin Dahaad"
     },
-    "description": {
+    "descriptions": {
       "ja": "氷霧の断崖、生態系の頂点に君臨する≪凍峰竜\r\n（とうほうりゅう）≫。巨大な体躯を誇り、\r\n冷却器官による気化熱で超低温を生み出す。",
       "en": "A leviathan that sits at the peak of the\r\nIceshard Cliffs' ecosystem. It generates cold\r\nair via cooling organs across its massive body.",
       "fr": "Léviathan trônant au sommet de l'écosystème des\r\nFalaises de glace. Génère de l'air froid grâce\r\nà des organes répartis sur son énorme corps.",
@@ -24266,7 +24266,7 @@
       "gold_multiplier": 1.13
     },
     "species": "cephalopod",
-    "name": {
+    "names": {
       "ja": "ヌ・エグドラ",
       "en": "Nu Udra",
       "fr": "Nu Udra",
@@ -24283,7 +24283,7 @@
       "th": "นู อูดรา",
       "es-419": "Nu Udra"
     },
-    "description": {
+    "descriptions": {
       "ja": "油涌き谷に君臨する≪獄焔蛸（ごくえんしょう）≫。\r\n煉獄の如き激しい炎を全身にまとい、複数の腕と\r\n燃え盛る油泥を駆使して獲物を追い詰める。",
       "en": "The cephalopod that reigns supreme over\r\nOilwell Basin's ecosystem. A vision of hell,\r\nit attacks with tentacles and ignited oilsilt.",
       "fr": "Le céphalopode qui règne sur le Bassin pétrolier.\r\nIl attaque avec ses tentacules et enflamme le\r\nlimon, une véritable vision d'horreur.",
@@ -25095,7 +25095,7 @@
       "gold_multiplier": 1.23
     },
     "species": "construct",
-    "name": {
+    "names": {
       "ja": "護竜オドガロン亜種",
       "en": "Guardian Ebony Odogaron",
       "fr": "Odogaron désastre Gardien",
@@ -25112,7 +25112,7 @@
       "th": "การ์เดียนเอโบนีโอโดการอน",
       "es-419": "Odogaron Ébano Guardián"
     },
-    "description": {
+    "descriptions": {
       "ja": "古代文明によって、≪兇爪竜≫の力を宿し\r\n生み出された造竜種。前脚から繰り出す\r\n鋭い爪による連続攻撃が脅威となる。",
       "en": "An artificial species created by an ancient\r\ncivilization with an Ebony Odogaron's power.\r\nThe flurries from their foreclaws pose a threat.",
       "fr": "Espèce artificielle créée par une ancienne\r\ncivilisation dotée du pouvoir d'un Odogaron\r\ndésastre. Attention aux griffes antérieures.",
@@ -25941,7 +25941,7 @@
     "game_id": 1909526144,
     "kind": "small",
     "species": "herbivore",
-    "name": {
+    "names": {
       "ja": "ダルトドン（家畜種）",
       "en": "Dalthydon (Livestock)",
       "fr": "Dalthydon (domestique)",
@@ -25958,7 +25958,7 @@
       "th": "ดาลไธดอน (ปศุสัตว์)",
       "es-419": "Dalthydon (doméstico)"
     },
-    "description": {
+    "descriptions": {
       "ja": "家畜として育てられている草食竜。\r\nその用途は幅広く、毛や乳などの利用に\r\n加えて荷を引く場合にも使われる。",
       "en": "Herbivores that are raised as livestock.\r\nIn addition to providing wool and milk, they\r\nare also used for physical labor.",
       "fr": "Herbivores élevés par les humains pour\r\nleur lait et leur laine. Ils ont aussi le rôle\r\nd'animal de trait ou de somme.",
@@ -26111,7 +26111,7 @@
       "gold_multiplier": 1.23
     },
     "species": "flying-wyvern",
-    "name": {
+    "names": {
       "ja": "リオレウス",
       "en": "Rathalos",
       "fr": "Rathalos",
@@ -26128,7 +26128,7 @@
       "th": "ราธาลอส",
       "es-419": "Rathalos"
     },
-    "description": {
+    "descriptions": {
       "ja": "天空の王者と呼称され、畏れられる飛竜。\r\n優れた飛行能力で上空から急降下し、\r\n毒をもつ強力な爪で襲いかかる。",
       "en": "Fearsome wyverns known as \"Kings of the Skies.\"\r\nArmed with powerful poison claws, they use their\r\naerial prowess to descend on prey from above.",
       "fr": "Forts de leurs griffes empoisonnées,\r\nles \"Rois des cieux\" n'ont pas leur\r\npareil pour attaquer depuis les airs.",
@@ -26741,7 +26741,7 @@
       "gold_multiplier": 1.23
     },
     "species": "fanged-beast",
-    "name": {
+    "names": {
       "ja": "ドドブランゴ",
       "en": "Blangonga",
       "fr": "Blangonga",
@@ -26758,7 +26758,7 @@
       "th": "บลังกองกา",
       "es-419": "Blangonga"
     },
-    "description": {
+    "descriptions": {
       "ja": "ブランゴを率いる大型の白き牙獣。\r\n縄張りを侵す者に対しては群れで攻撃を仕掛け、\r\n雪深い環境では特に多彩な立ち回りを見せる。",
       "en": "Large, white fanged beasts that rule over other\r\nBlango, attacking as a pack. They exhibit a\r\nrange of mobility, particularly in snowy climes.",
       "fr": "Bête à crocs blanche régnant sur les Blango et\r\nattaquant en meute. Elle fait preuve d'une grande\r\nmobilité, surtout dans les milieux enneigés.",

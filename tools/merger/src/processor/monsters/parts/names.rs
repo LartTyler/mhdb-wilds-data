@@ -19,25 +19,25 @@ pub fn process(config: &Config) -> anyhow::Result<()> {
         let mut part = Part {
             id: data.kind as PartId,
             kind: data.kind,
-            name: LanguageMap::new(),
-            description: None,
-            rotten_name: None,
+            names: LanguageMap::new(),
+            descriptions: None,
+            rotten_names: None,
         };
 
-        strings.populate(&data.name_guid, &mut part.name);
+        strings.populate(&data.name_guid, &mut part.names);
 
         let mut description = LanguageMap::new();
         strings.populate(&data.description_guid, &mut description);
 
         if !description.is_empty() {
-            part.description = Some(description);
+            part.descriptions = Some(description);
         }
 
         if !data.rotten_name_guid.is_empty() {
             let mut rotten_names = LanguageMap::new();
             strings.populate(&data.rotten_name_guid, &mut rotten_names);
 
-            part.rotten_name = Some(rotten_names);
+            part.rotten_names = Some(rotten_names);
         }
 
         parts.push(part);
@@ -57,11 +57,11 @@ pub struct Part {
     #[serde(flatten)]
     kind: PartKind,
     #[serde(serialize_with = "ordered_map")]
-    name: LanguageMap,
+    names: LanguageMap,
     #[serde(serialize_with = "optional_ordered_map")]
-    description: Option<LanguageMap>,
+    descriptions: Option<LanguageMap>,
     #[serde(serialize_with = "optional_ordered_map")]
-    rotten_name: Option<LanguageMap>,
+    rotten_names: Option<LanguageMap>,
 }
 
 #[derive(Debug, Deserialize)]

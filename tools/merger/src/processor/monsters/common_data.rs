@@ -46,8 +46,8 @@ pub fn load(config: &Config, ids: &Identifiers, placeholders: &Placeholders) -> 
             game_id: data.monster_id,
             kind,
             species: data.species,
-            name: LanguageMap::new(),
-            description: LanguageMap::new(),
+            names: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
             features: LanguageMap::new(),
             weaknesses: Vec::new(),
             resistances: Vec::new(),
@@ -60,10 +60,10 @@ pub fn load(config: &Config, ids: &Identifiers, placeholders: &Placeholders) -> 
             },
         };
 
-        strings.populate(&data.names.normal, &mut monster.name);
+        strings.populate(&data.names.normal, &mut monster.names);
 
-        strings.populate(&data.description, &mut monster.description);
-        placeholders.apply(&mut monster.description);
+        strings.populate(&data.description, &mut monster.descriptions);
+        placeholders.apply(&mut monster.descriptions);
 
         strings.populate(&data.features, &mut monster.features);
         placeholders.apply(&mut monster.features);

@@ -51,12 +51,6 @@ impl ResidentPack {
 #[repr(transparent)]
 pub struct FileReference(String);
 
-impl FileReference {
-    fn resolve<P: AsRef<Path>>(self, dir: P, config: &Config) -> PathBuf {
-        config.data_path(dir.as_ref().join(self.0))
-    }
-}
-
 impl<'de> Deserialize<'de> for FileReference {
     fn deserialize<D>(deserializer: D) -> Result<Self, D::Error>
     where
