@@ -2,7 +2,7 @@
   {
     "game_id": -2086928384,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -117,7 +117,7 @@
   {
     "game_id": -2085359872,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　エリック",
       "en": "Erik (Astrum Unit)",
       "fr": "Erik (unité Astrum)",
@@ -232,7 +232,7 @@
   {
     "game_id": -2081832320,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -347,7 +347,7 @@
   {
     "game_id": -2081832320,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -462,7 +462,7 @@
   {
     "game_id": -2057796864,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　ジェマ",
       "en": "Gemma (Avis Unit)",
       "fr": "Gemma (unité Avis)",
@@ -577,7 +577,7 @@
   {
     "game_id": -2057796864,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　ジェマ",
       "en": "Gemma (Avis Unit)",
       "fr": "Gemma (unité Avis)",
@@ -692,7 +692,7 @@
   {
     "game_id": -2047311488,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　オリヴィア",
       "en": "Olivia (Astrum Unit)",
       "fr": "Olivia (unité Astrum)",
@@ -816,7 +816,7 @@
   {
     "game_id": -2047311488,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　オリヴィア",
       "en": "Olivia (Astrum Unit)",
       "fr": "Olivia (unité Astrum)",
@@ -940,7 +940,7 @@
   {
     "game_id": -2024247424,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1055,7 +1055,7 @@
   {
     "game_id": -1901117312,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1170,7 +1170,7 @@
   {
     "game_id": -1814310144,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1285,7 +1285,7 @@
   {
     "game_id": -1808318208,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1405,7 +1405,7 @@
   {
     "game_id": -1808318208,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1525,7 +1525,7 @@
   {
     "game_id": -1780491904,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1645,7 +1645,7 @@
   {
     "game_id": -1769025280,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1760,7 +1760,7 @@
   {
     "game_id": -1747176448,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　オリヴィア",
       "en": "Olivia (Astrum Unit)",
       "fr": "Olivia (unité Astrum)",
@@ -1875,7 +1875,7 @@
   {
     "game_id": -1743284736,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -1990,7 +1990,7 @@
   {
     "game_id": -1575534720,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2100,7 +2100,7 @@
   {
     "game_id": -1570758272,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2229,7 +2229,7 @@
   {
     "game_id": -1570758272,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2358,7 +2358,7 @@
   {
     "game_id": -1560088960,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2468,7 +2468,7 @@
   {
     "game_id": -1530933888,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2578,7 +2578,7 @@
   {
     "game_id": -1523812608,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2698,7 +2698,7 @@
   {
     "game_id": -1497387264,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2803,7 +2803,7 @@
   {
     "game_id": -1497387264,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -2908,7 +2908,7 @@
   {
     "game_id": -1445256960,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3018,7 +3018,7 @@
   {
     "game_id": -1435237760,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3128,7 +3128,7 @@
   {
     "game_id": -1296053120,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3238,7 +3238,7 @@
   {
     "game_id": -1284148352,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "コーディ",
       "en": "Cobb",
       "fr": "Cobb",
@@ -3352,7 +3352,7 @@
   {
     "game_id": -1284148352,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "コーディ",
       "en": "Cobb",
       "fr": "Cobb",
@@ -3466,7 +3466,7 @@
   {
     "game_id": -1274135168,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3581,7 +3581,7 @@
   {
     "game_id": -1236452992,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3691,7 +3691,7 @@
   {
     "game_id": -1227355008,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3806,7 +3806,7 @@
   {
     "game_id": -1197594880,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -3921,7 +3921,7 @@
   {
     "game_id": -1172227456,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4031,7 +4031,7 @@
   {
     "game_id": -1144391296,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4146,7 +4146,7 @@
   {
     "game_id": -1051980800,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4261,7 +4261,7 @@
   {
     "game_id": -1022850752,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4376,7 +4376,7 @@
   {
     "game_id": -839564480,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4491,7 +4491,7 @@
   {
     "game_id": -785248576,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4606,7 +4606,7 @@
   {
     "game_id": -724585792,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4726,7 +4726,7 @@
   {
     "game_id": -715568704,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4836,7 +4836,7 @@
   {
     "game_id": -715568704,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -4946,7 +4946,7 @@
   {
     "game_id": -709058048,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5061,7 +5061,7 @@
   {
     "game_id": -663705792,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　オトモ",
       "en": "Palico (Avis Unit)",
       "fr": "Palico (unité Avis)",
@@ -5176,7 +5176,7 @@
   {
     "game_id": -663705792,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　オトモ",
       "en": "Palico (Avis Unit)",
       "fr": "Palico (unité Avis)",
@@ -5291,7 +5291,7 @@
   {
     "game_id": -620493696,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5406,7 +5406,7 @@
   {
     "game_id": -581873536,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5521,7 +5521,7 @@
   {
     "game_id": -581873536,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5636,7 +5636,7 @@
   {
     "game_id": -518608096,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5746,7 +5746,7 @@
   {
     "game_id": -339019968,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5861,7 +5861,7 @@
   {
     "game_id": -334076928,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -5976,7 +5976,7 @@
   {
     "game_id": -325310016,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊アルマ　代筆",
       "en": "Alma (On behalf of Rove)",
       "fr": "Alma (pour Ronin)",
@@ -6091,7 +6091,7 @@
   {
     "game_id": -270805888,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -6206,7 +6206,7 @@
   {
     "game_id": -140621936,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -6335,7 +6335,7 @@
   {
     "game_id": -140621936,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -6464,7 +6464,7 @@
   {
     "game_id": -108929360,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "レックス",
       "en": "Rex",
       "fr": "Rex",
@@ -6583,7 +6583,7 @@
   {
     "game_id": -108929360,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "レックス",
       "en": "Rex",
       "fr": "Rex",
@@ -6702,7 +6702,7 @@
   {
     "game_id": -98190384,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18205,7 +18205,7 @@
   {
     "game_id": 6748,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18320,7 +18320,7 @@
   {
     "game_id": 8998,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18435,7 +18435,7 @@
   {
     "game_id": 9281,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18550,7 +18550,7 @@
   {
     "game_id": 9340,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18670,7 +18670,7 @@
   {
     "game_id": 9340,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18790,7 +18790,7 @@
   {
     "game_id": 10021,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -18905,7 +18905,7 @@
   {
     "game_id": 10021,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19020,7 +19020,7 @@
   {
     "game_id": 11209,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19135,7 +19135,7 @@
   {
     "game_id": 12864,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　エリック",
       "en": "Erik (Astrum Unit)",
       "fr": "Erik (unité Astrum)",
@@ -19250,7 +19250,7 @@
   {
     "game_id": 12864,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　エリック",
       "en": "Erik (Astrum Unit)",
       "fr": "Erik (unité Astrum)",
@@ -19365,7 +19365,7 @@
   {
     "game_id": 13240,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19480,7 +19480,7 @@
   {
     "game_id": 13597,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19603,7 +19603,7 @@
   {
     "game_id": 14231,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19718,7 +19718,7 @@
   {
     "game_id": 14231,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19833,7 +19833,7 @@
   {
     "game_id": 14616,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -19953,7 +19953,7 @@
   {
     "game_id": 14710,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "豪鬼",
       "en": "Akuma",
       "fr": "Akuma",
@@ -20068,7 +20068,7 @@
   {
     "game_id": 16024,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -20183,7 +20183,7 @@
   {
     "game_id": 21241,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -20298,7 +20298,7 @@
   {
     "game_id": 21874,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　オリヴィア",
       "en": "Olivia (Astrum Unit)",
       "fr": "Olivia (unité Astrum)",
@@ -20413,7 +20413,7 @@
   {
     "game_id": 21874,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　オリヴィア",
       "en": "Olivia (Astrum Unit)",
       "fr": "Olivia (unité Astrum)",
@@ -20528,7 +20528,7 @@
   {
     "game_id": 22363,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "ファビウス",
       "en": "Fabius",
       "fr": "Fabius",
@@ -20643,7 +20643,7 @@
   {
     "game_id": 22363,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "ファビウス",
       "en": "Fabius",
       "fr": "Fabius",
@@ -20758,7 +20758,7 @@
   {
     "game_id": 24394,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -20873,7 +20873,7 @@
   {
     "game_id": 25302,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -20983,7 +20983,7 @@
   {
     "game_id": 27371,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21106,7 +21106,7 @@
   {
     "game_id": 27964,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21221,7 +21221,7 @@
   {
     "game_id": 28955,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21336,7 +21336,7 @@
   {
     "game_id": 29292,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21451,7 +21451,7 @@
   {
     "game_id": 29336,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "オメガとアルファ",
       "en": "Omega and Alpha",
       "fr": "Oméga et Alpha",
@@ -21561,7 +21561,7 @@
   {
     "game_id": 29336,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "オメガとアルファ",
       "en": "Omega and Alpha",
       "fr": "Oméga et Alpha",
@@ -21671,7 +21671,7 @@
   {
     "game_id": 31457,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21786,7 +21786,7 @@
   {
     "game_id": 31554,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -21909,7 +21909,7 @@
   {
     "game_id": 31852,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22024,7 +22024,7 @@
   {
     "game_id": 76238256,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22139,7 +22139,7 @@
   {
     "game_id": 158732608,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22254,7 +22254,7 @@
   {
     "game_id": 160832544,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22369,7 +22369,7 @@
   {
     "game_id": 207160128,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22498,7 +22498,7 @@
   {
     "game_id": 207160128,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22627,7 +22627,7 @@
   {
     "game_id": 226780816,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22737,7 +22737,7 @@
   {
     "game_id": 275854528,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22852,7 +22852,7 @@
   {
     "game_id": 336208512,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -22967,7 +22967,7 @@
   {
     "game_id": 345568000,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23082,7 +23082,7 @@
   {
     "game_id": 436521024,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23197,7 +23197,7 @@
   {
     "game_id": 551616896,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23312,7 +23312,7 @@
   {
     "game_id": 581006272,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23427,7 +23427,7 @@
   {
     "game_id": 628951872,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23542,7 +23542,7 @@
   {
     "game_id": 813885632,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　ヴェルナー",
       "en": "Werner (Astrum Unit)",
       "fr": "Werner (unité Astrum)",
@@ -23657,7 +23657,7 @@
   {
     "game_id": 813885632,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "星の隊　ヴェルナー",
       "en": "Werner (Astrum Unit)",
       "fr": "Werner (unité Astrum)",
@@ -23772,7 +23772,7 @@
   {
     "game_id": 832386624,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -23882,7 +23882,7 @@
   {
     "game_id": 857671872,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　ハンター",
       "en": "Hunter (Avis Unit)",
       "fr": "Chasseur (unité Avis)",
@@ -23997,7 +23997,7 @@
   {
     "game_id": 878504768,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24121,7 +24121,7 @@
   {
     "game_id": 878504768,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24245,7 +24245,7 @@
   {
     "game_id": 879832384,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24355,7 +24355,7 @@
   {
     "game_id": 941651968,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24470,7 +24470,7 @@
   {
     "game_id": 958619904,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24580,7 +24580,7 @@
   {
     "game_id": 1059375680,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24695,7 +24695,7 @@
   {
     "game_id": 1068763008,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24805,7 +24805,7 @@
   {
     "game_id": 1187187072,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -24915,7 +24915,7 @@
   {
     "game_id": 1213891968,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25030,7 +25030,7 @@
   {
     "game_id": 1339655296,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25145,7 +25145,7 @@
   {
     "game_id": 1396136064,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊ナタ　代筆",
       "en": "Nata (Avis Unit)",
       "fr": "Nata (unité Avis)",
@@ -25260,7 +25260,7 @@
   {
     "game_id": 1396136064,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊ナタ　代筆",
       "en": "Nata (Avis Unit)",
       "fr": "Nata (unité Avis)",
@@ -25375,7 +25375,7 @@
   {
     "game_id": 1436491008,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25485,7 +25485,7 @@
   {
     "game_id": 1512317312,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25600,7 +25600,7 @@
   {
     "game_id": 1553912192,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25715,7 +25715,7 @@
   {
     "game_id": 1562235264,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25825,7 +25825,7 @@
   {
     "game_id": 1702233856,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -25935,7 +25935,7 @@
   {
     "game_id": 1702233856,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26045,7 +26045,7 @@
   {
     "game_id": 1717405568,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26160,7 +26160,7 @@
   {
     "game_id": 1836281600,
     "kind": "assignment",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊アルマ　代筆",
       "en": "Alma (On behalf of Zatoh)",
       "fr": "Alma (pour Zatoh)",
@@ -26275,7 +26275,7 @@
   {
     "game_id": 1854465152,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26390,7 +26390,7 @@
   {
     "game_id": 1886268160,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26505,7 +26505,7 @@
   {
     "game_id": 1901227392,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　オトモ",
       "en": "Palico (Avis Unit)",
       "fr": "Palico (unité Avis)",
@@ -26615,7 +26615,7 @@
   {
     "game_id": 1901227392,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　オトモ",
       "en": "Palico (Avis Unit)",
       "fr": "Palico (unité Avis)",
@@ -26725,7 +26725,7 @@
   {
     "game_id": 1931427584,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26845,7 +26845,7 @@
   {
     "game_id": 1959282048,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -26955,7 +26955,7 @@
   {
     "game_id": 1961937792,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27070,7 +27070,7 @@
   {
     "game_id": 1961937792,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27185,7 +27185,7 @@
   {
     "game_id": 1970012672,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27300,7 +27300,7 @@
   {
     "game_id": 1971345152,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27415,7 +27415,7 @@
   {
     "game_id": 2050796160,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27539,7 +27539,7 @@
   {
     "game_id": 2050796160,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27663,7 +27663,7 @@
   {
     "game_id": 2064802048,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27778,7 +27778,7 @@
   {
     "game_id": 2131637248,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",
@@ -27893,7 +27893,7 @@
   {
     "game_id": 2145654912,
     "kind": "optional",
-    "client_name": {
+    "client_names": {
       "ja": "鳥の隊　アルマ",
       "en": "Alma (Avis Unit)",
       "fr": "Alma (unité Avis)",

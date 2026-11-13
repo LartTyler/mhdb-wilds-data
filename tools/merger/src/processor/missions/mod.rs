@@ -146,14 +146,14 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         };
 
         let mut quest_mission = QuestMission {
-            client_name: LanguageMap::new(),
+            client_names: LanguageMap::new(),
             lives: quest.lives,
             time_limit_minutes: quest.time_limit_minutes,
             icon: quest.icon,
             level: quest.level,
         };
 
-        placeholders.find_and_apply(&quest.text.client_name, &mut quest_mission.client_name)?;
+        placeholders.find_and_apply(&quest.text.client_name, &mut quest_mission.client_names)?;
 
         let mut mission = Mission {
             game_id: mission_id,
@@ -241,7 +241,7 @@ impl ActivityMission {
 #[derive(Debug, Serialize)]
 struct QuestMission {
     #[serde(serialize_with = "ordered_map")]
-    client_name: LanguageMap,
+    client_names: LanguageMap,
     level: QuestLevel,
     icon: IconKind,
     time_limit_minutes: TimeLimitMinutes,
