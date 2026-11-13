@@ -68,7 +68,7 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             for objective in &mission.objectives {
                 for task_data in &objective.tasks {
                     let mut task = Task::default();
-                    placeholders.find_and_apply(&task_data.text_guid, &mut task.label)?;
+                    placeholders.find_and_apply(&task_data.text_guid, &mut task.labels)?;
 
                     tasks.push(task);
                 }
@@ -79,8 +79,8 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         let mut mission = Mission {
             game_id: data.id,
             kind: activity,
-            title: LanguageMap::new(),
-            description: LanguageMap::new(),
+            titles: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
             chapter: data.chapter,
             sort: index,
             objective: None,
@@ -90,8 +90,8 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
         // Some missions store their translations all over the place. Since we have to load all
         // the mission translations into memory to support the (frankly asinine) REFs in mission
         // titles, we can use that to look up the relevant strings for each mission instead.
-        placeholders.find_and_apply(&data.title_guid, &mut mission.title)?;
-        placeholders.find_and_apply(&data.description_guid, &mut mission.description)?;
+        placeholders.find_and_apply(&data.title_guid, &mut mission.titles)?;
+        placeholders.find_and_apply(&data.description_guid, &mut mission.descriptions)?;
 
         let quest = if let Some(quest) = files.quest.as_ref() {
             Some((quest, mission_id))
@@ -159,8 +159,8 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             game_id: mission_id,
             kind: quest_mission.for_quest(files),
             sort: order,
-            title: LanguageMap::new(),
-            description: LanguageMap::new(),
+            titles: LanguageMap::new(),
+            descriptions: LanguageMap::new(),
             chapter: None,
             rewards: Some(Rewards {
                 zenny: quest.rewards.zenny,
@@ -176,8 +176,8 @@ pub fn process(config: &Config, filters: &[Processor], context: &Context) -> any
             }),
         };
 
-        placeholders.find_and_apply(&quest.text.title, &mut mission.title)?;
-        placeholders.find_and_apply(&quest.text.description, &mut mission.description)?;
+        placeholders.find_and_apply(&quest.text.title, &mut mission.titles)?;
+        placeholders.find_and_apply(&quest.text.description, &mut mission.descriptions)?;
 
         missions.push(mission);
     }
@@ -196,9 +196,9 @@ struct Mission {
     #[serde(flatten)]
     kind: MissionKind,
     #[serde(serialize_with = "ordered_map")]
-    title: LanguageMap,
+    titles: LanguageMap,
     #[serde(serialize_with = "ordered_map")]
-    description: LanguageMap,
+    descriptions: LanguageMap,
     chapter: Option<Chapter>,
     sort: SortValue,
     objective: Option<Objective>,
@@ -263,7 +263,7 @@ impl QuestMission {
 #[derive(Debug, Default, Serialize)]
 struct Task {
     #[serde(serialize_with = "ordered_map")]
-    label: LanguageMap,
+    labels: LanguageMap,
 }
 
 #[derive(Debug, Serialize)]
