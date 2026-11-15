@@ -2,7 +2,9 @@ use crate::placeholders::Placeholders;
 use crate::processor::monsters::id::Identifiers;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::species::SpeciesKind;
-use crate::processor::monsters::{Monster, MonsterContext, MonsterId, MonsterKind, SmallMonster, Variant, VariantKind};
+use crate::processor::monsters::{
+    Monster, MonsterContext, MonsterId, MonsterKind, SmallMonster, Variant, VariantKind,
+};
 use crate::processor::{FileObjects, Guid, LanguageMap, PopulateStrings, ReadFile};
 use rslib::config::Config;
 use rslib::formats::msg::Msg;
@@ -12,7 +14,11 @@ use strum::IntoEnumIterator;
 const STRINGS: &str = "msg/EnemyText.json";
 const DATA: &str = "user/monsters/EnemyData.json";
 
-pub fn load(config: &Config, ids: &Identifiers, placeholders: &Placeholders) -> anyhow::Result<FileObjects<Monster>> {
+pub fn load(
+    config: &Config,
+    ids: &Identifiers,
+    placeholders: &Placeholders,
+) -> anyhow::Result<FileObjects<Monster>> {
     let strings = Msg::read_file(config.data_path(STRINGS))?;
 
     let data: Vec<CommonData> = Vec::read_file(config.data_path(DATA))?;
@@ -26,13 +32,13 @@ pub fn load(config: &Config, ids: &Identifiers, placeholders: &Placeholders) -> 
             placeholders.apply(&mut monster.tips);
 
             for variant in VariantKind::iter() {
-                let mut name = LanguageMap::default();
-                strings.populate(variant.get_guid(&data), &mut name);
+                let mut names = LanguageMap::default();
+                strings.populate(variant.get_guid(&data), &mut names);
 
-                if !name.is_empty() {
+                if !names.is_empty() {
                     monster.variants.push(Variant {
                         kind: variant,
-                        name,
+                        names,
                     });
                 }
             }

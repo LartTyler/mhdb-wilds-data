@@ -848,7 +848,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "護竜ドシャグマ（歴戦の個体）",
           "en": "Tempered Guardian Doshaguma",
           "fr": "Doshaguma Gardien alpha",
@@ -1669,7 +1669,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "レ・ダウ（歴戦の個体）",
           "en": "Tempered Rey Dau",
           "fr": "Rey Dau alpha",
@@ -1689,7 +1689,7 @@
       },
       {
         "kind": "arch-tempered",
-        "name": {
+        "names": {
           "ja": "レ・ダウ（歴戦王）",
           "en": "Arch-tempered Rey Dau",
           "fr": "Rey Dau alpha suprême",
@@ -2478,7 +2478,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ラバラ・バリナ（歴戦の個体）",
           "en": "Tempered Lala Barina",
           "fr": "Lala Barina alpha",
@@ -3205,7 +3205,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ババコンガ（歴戦の個体）",
           "en": "Tempered Congalala",
           "fr": "Congalala alpha",
@@ -3830,7 +3830,7 @@
     "variants": [
       {
         "kind": "alpha",
-        "name": {
+        "names": {
           "ja": "ネルスキュラ・クローン",
           "en": "Nerscylla Clone",
           "fr": "Nerscylla (clone)",
@@ -3850,7 +3850,7 @@
       },
       {
         "kind": "frenzied",
-        "name": {
+        "names": {
           "ja": "狂竜化ネルスキュラ",
           "en": "Frenzied Nerscylla",
           "fr": "Nerscylla en furie",
@@ -3870,7 +3870,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ネルスキュラ（歴戦の個体）",
           "en": "Tempered Nerscylla",
           "fr": "Nerscylla alpha",
@@ -4778,7 +4778,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ラギアクルス（歴戦の個体）",
           "en": "Tempered Lagiacrus",
           "fr": "Lagiacrus alpha",
@@ -5492,7 +5492,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ゴア・マガラ（歴戦の個体）",
           "en": "Tempered Gore Magala",
           "fr": "Gore Magala alpha",
@@ -6392,7 +6392,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "グラビモス（歴戦の個体）",
           "en": "Tempered Gravios",
           "fr": "Gravios alpha",
@@ -7844,7 +7844,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ケマトリス（歴戦の個体）",
           "en": "Tempered Quematrice",
           "fr": "Quematrice alpha",
@@ -8533,7 +8533,7 @@
     "variants": [
       {
         "kind": "alpha",
-        "name": {
+        "names": {
           "ja": "ドシャグマ（ボス個体）",
           "en": "Alpha Doshaguma",
           "fr": "Doshaguma (chef)",
@@ -8553,7 +8553,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ドシャグマ（歴戦の個体）",
           "en": "Tempered Doshaguma",
           "fr": "Doshaguma alpha",
@@ -9177,7 +9177,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "バーラハーラ（歴戦の個体）",
           "en": "Tempered Balahara",
           "fr": "Balahara alpha",
@@ -10333,7 +10333,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "セルレギオス（歴戦の個体）",
           "en": "Tempered Seregios",
           "fr": "Seregios alpha",
@@ -10952,7 +10952,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "リオレイア（歴戦の個体）",
           "en": "Tempered Rathian",
           "fr": "Rathian alpha",
@@ -11530,7 +11530,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "チャタカブラ（歴戦の個体）",
           "en": "Tempered Chatacabra",
           "fr": "Chatacabra alpha",
@@ -12318,7 +12318,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ゴグマジオス（歴戦の個体）",
           "en": "Tempered Gogmazios",
           "fr": "Gogmazios alpha",
@@ -13180,7 +13180,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "オメガ・プラネテス",
           "en": "Omega Planetes",
           "fr": "Oméga Planetikos",
@@ -13642,7 +13642,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "タマミツネ（歴戦の個体）",
           "en": "Tempered Mizutsune",
           "fr": "Mizutsune alpha",
@@ -14471,7 +14471,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "護竜アンジャナフ亜種（歴戦の個体）",
           "en": "Tempered Guardian Fulgur Anjanath",
           "fr": "Anjanath tonnerre Gardien alpha",
@@ -15130,7 +15130,7 @@
     "variants": [
       {
         "kind": "frenzied",
-        "name": {
+        "names": {
           "ja": "狂竜化ヒラバミ",
           "en": "Frenzied Hirabami",
           "fr": "Hirabami en furie",
@@ -15150,7 +15150,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ヒラバミ（歴戦の個体）",
           "en": "Tempered Hirabami",
           "fr": "Hirabami alpha",
@@ -16087,7 +16087,7 @@
     "variants": [
       {
         "kind": "frenzied",
-        "name": {
+        "names": {
           "ja": "狂竜化イャンクック",
           "en": "Frenzied Yian Kut-Ku",
           "fr": "Yian Kut-Ku en furie",
@@ -16107,7 +16107,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "イャンクック（歴戦の個体）",
           "en": "Tempered Yian Kut-Ku",
           "fr": "Yian Kut-Ku alpha",
@@ -16814,7 +16814,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ププロポル（歴戦の個体）",
           "en": "Tempered Rompopolo",
           "fr": "Rompopolo alpha",
@@ -17739,7 +17739,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "アルシュベルド（歴戦の個体）",
           "en": "Tempered Arkveld",
           "fr": "Arkveld alpha",
@@ -17759,7 +17759,7 @@
       },
       {
         "kind": "arch-tempered",
-        "name": {
+        "names": {
           "ja": "アルシュベルド（歴戦王）",
           "en": "Arch-tempered Arkveld",
           "fr": "Arkveld alpha suprême",
@@ -18388,7 +18388,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "アジャラカン（歴戦の個体）",
           "en": "Tempered Ajarakan",
           "fr": "Ajarakan alpha",
@@ -19495,7 +19495,7 @@
     "variants": [
       {
         "kind": "frenzied",
-        "name": {
+        "names": {
           "ja": "狂竜化ゲリョス",
           "en": "Frenzied Gypceros",
           "fr": "Gypceros en furie",
@@ -19515,7 +19515,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ゲリョス（歴戦の個体）",
           "en": "Tempered Gypceros",
           "fr": "Gypceros alpha",
@@ -20529,7 +20529,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "シーウー（歴戦の個体）",
           "en": "Tempered Xu Wu",
           "fr": "Xu Wu alpha",
@@ -21364,7 +21364,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "護竜リオレウス（歴戦の個体）",
           "en": "Tempered Guardian Rathalos",
           "fr": "Rathalos Gardien alpha",
@@ -22406,7 +22406,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ウズ・トゥナ（歴戦の個体）",
           "en": "Tempered Uth Duna",
           "fr": "Uth Duna alpha",
@@ -22426,7 +22426,7 @@
       },
       {
         "kind": "arch-tempered",
-        "name": {
+        "names": {
           "ja": "ウズ・トゥナ（歴戦王）",
           "en": "Arch-tempered Uth Duna",
           "fr": "Uth Duna alpha suprême",
@@ -23336,7 +23336,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ジン・ダハド（歴戦の個体）",
           "en": "Tempered Jin Dahaad",
           "fr": "Jin Dahaad alpha",
@@ -23356,7 +23356,7 @@
       },
       {
         "kind": "arch-tempered",
-        "name": {
+        "names": {
           "ja": "ジン・ダハド（歴戦王）",
           "en": "Arch-tempered Jin Dahaad",
           "fr": "Jin Dahaad alpha suprême",
@@ -24200,7 +24200,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ヌ・エグドラ（歴戦の個体）",
           "en": "Tempered Nu Udra",
           "fr": "Nu Udra alpha",
@@ -24220,7 +24220,7 @@
       },
       {
         "kind": "arch-tempered",
-        "name": {
+        "names": {
           "ja": "ヌ・エグドラ（歴戦王）",
           "en": "Arch-tempered Nu Udra",
           "fr": "Nu Udra alpha suprême",
@@ -25049,7 +25049,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "護竜オドガロン亜種（歴戦の個体）",
           "en": "Tempered Guardian Ebony Odogaron",
           "fr": "Odogaron désastre Gardien alpha",
@@ -26065,7 +26065,7 @@
     "variants": [
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "リオレウス（歴戦の個体）",
           "en": "Tempered Rathalos",
           "fr": "Rathalos alpha",
@@ -26675,7 +26675,7 @@
     "variants": [
       {
         "kind": "frenzied",
-        "name": {
+        "names": {
           "ja": "狂竜化ドドブランゴ",
           "en": "Frenzied Blangonga",
           "fr": "Blangonga en furie",
@@ -26695,7 +26695,7 @@
       },
       {
         "kind": "tempered",
-        "name": {
+        "names": {
           "ja": "ドドブランゴ（歴戦の個体）",
           "en": "Tempered Blangonga",
           "fr": "Blangonga alpha",

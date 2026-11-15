@@ -17,25 +17,29 @@ use serde::Serialize;
 use strum::EnumIter;
 
 mod common_data;
+mod effectives;
+mod files;
 mod id;
 mod large;
-mod species;
-mod effectives;
+mod locations;
 mod parts;
 mod rewards;
-mod locations;
-mod files;
+mod species;
 
 const OUTPUT: &str = "Monsters.json";
 
 pub type MonsterId = isize;
 
-pub(super) fn process(config: &Config, filters: &[Processor], context: &Context) -> anyhow::Result<()> {
+pub(super) fn process(
+    config: &Config,
+    filters: &[Processor],
+    context: &Context,
+) -> anyhow::Result<()> {
     should_run!(filters, Processor::Monsters);
 
-    let placeholders = context.placeholders.append(vec![
-        Msg::read_file(config.data_path(ITEM_STRINGS))?,
-    ]);
+    let placeholders = context
+        .placeholders
+        .append(vec![Msg::read_file(config.data_path(ITEM_STRINGS))?]);
 
     species::process(config)?;
 
@@ -114,7 +118,7 @@ impl From<SmallMonster> for MonsterKind {
 struct Variant {
     kind: VariantKind,
     #[serde(serialize_with = "ordered_map")]
-    name: LanguageMap,
+    names: LanguageMap,
 }
 
 #[derive(Debug, Serialize, EnumIter)]
