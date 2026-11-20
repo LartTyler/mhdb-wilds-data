@@ -1,3 +1,4 @@
+use crate::processor::monsters::effectives::{Resistance, Weakness};
 use crate::processor::monsters::large::size::MonsterSize;
 use crate::processor::monsters::{Monster, MonsterKind, Variant};
 use crate::processor::{FileObjects, LanguageMap};
@@ -19,6 +20,8 @@ pub struct LargeMonster {
     #[serde(serialize_with = "ordered_map")]
     pub tips: LanguageMap,
     pub size: MonsterSize,
+    pub weaknesses: Vec<Weakness>,
+    pub resistances: Vec<Resistance>,
 }
 
 impl From<LargeMonster> for MonsterKind {

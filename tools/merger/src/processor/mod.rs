@@ -23,9 +23,9 @@ mod context;
 mod items;
 mod locations;
 mod missions;
+mod monsters;
 mod skills;
 mod weapons;
-mod monsters;
 
 pub type Zenny = usize;
 pub type Percentage = u8;

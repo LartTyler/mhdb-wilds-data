@@ -1,5 +1,5 @@
 use crate::processor::monsters::effectives::Weakness;
-use crate::processor::monsters::{Monster, MonsterId};
+use crate::processor::monsters::{FileObjectByMonsterKind, Monster, MonsterId};
 use crate::processor::weapons::Element;
 use crate::processor::{FileObjects, ReadFile};
 use rslib::config::Config;
@@ -11,8 +11,12 @@ pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::
     let data: Vec<WeakElementData> = Vec::read_file(config.data_path(DATA))?;
 
     for data in data {
-        let Some(monster) = monsters.get_mut(data.monster_id) else {
-            log::debug!("Skipping weakness data for {}, monster not found", data.monster_id);
+        let Some(monster) = monsters.get_large_mut(data.monster_id) else {
+            log::debug!(
+                "Skipping weakness data for {}, not a large monster",
+                data.monster_id
+            );
+
             continue;
         };
 

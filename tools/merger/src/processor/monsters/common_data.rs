@@ -55,8 +55,6 @@ pub fn load(
             names: LanguageMap::new(),
             descriptions: LanguageMap::new(),
             features: LanguageMap::new(),
-            weaknesses: Vec::new(),
-            resistances: Vec::new(),
             base_health: 0,
             parts: Vec::new(),
             rewards: Vec::new(),

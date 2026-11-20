@@ -1,5 +1,6 @@
-use crate::processor::monsters::effectives::{AttributeKind, EffectKind};
-use crate::processor::monsters::{Monster, MonsterId};
+use crate::processor::monsters::effectives::{AttributeKind, EffectKind, Resistance};
+use crate::processor::monsters::parts::monster_parts::Multipliers;
+use crate::processor::monsters::{FileObjectByMonsterKind, Monster, MonsterId, MonsterKind};
 use crate::processor::weapons::{Element, Status};
 use crate::processor::{FileObjects, Guid, LanguageMap, PopulateStrings, ReadFile};
 use macros::add_condition;
@@ -19,28 +20,32 @@ pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::
     let data: Vec<MonsterConditions> = Vec::read_file(config.data_path(CONDITIONS_DATA))?;
 
     for data in data {
-        let Some(monster) = monsters.get_mut(data.monster_id) else {
-            log::debug!("Skipping conditions for {}, monster not found", data.monster_id);
+        let Some(monster) = monsters.get_large_mut(data.monster_id) else {
+            log::debug!(
+                "Skipping conditions for {}, not a large monster",
+                data.monster_id
+            );
+
             continue;
         };
 
-        add_condition!(presets.paralyze, data.paralyze => monster, Status::Paralysis);
-        add_condition!(presets.poison, data.poison => monster, Status::Poison);
-        add_condition!(presets.sleep, data.sleep => monster, Status::Sleep);
-        add_condition!(presets.stun, data.stun => monster, Effect::Stun);
-        add_condition!(presets.flash, data.flash => monster, Effect::Flash);
-        add_condition!(presets.noise, data.noise => monster, Effect::Noise);
-        add_condition!(presets.blast, data.blast => monster, Status::Blastblight);
-        add_condition!(presets.exhaust, data.exhaust => monster, Effect::Exhaust);
+        add_condition!(data.monster_id, presets.paralyze, data.paralyze => monster, Status::Paralysis);
+        add_condition!(data.monster_id, presets.poison, data.poison => monster, Status::Poison);
+        add_condition!(data.monster_id, presets.sleep, data.sleep => monster, Status::Sleep);
+        add_condition!(data.monster_id, presets.stun, data.stun => monster, Effect::Stun);
+        add_condition!(data.monster_id, presets.flash, data.flash => monster, Effect::Flash);
+        add_condition!(data.monster_id, presets.noise, data.noise => monster, Effect::Noise);
+        add_condition!(data.monster_id, presets.blast, data.blast => monster, Status::Blastblight);
+        add_condition!(data.monster_id, presets.exhaust, data.exhaust => monster, Effect::Exhaust);
     }
 
     let data: Vec<ConditionText> = Vec::read_file(config.data_path(CONDITION_TEXT_DATA))?;
     let strings = Msg::read_file(config.data_path(CONDITION_TEXT_STRINGS))?;
 
     for data in data {
-        let Some(monster) = monsters.get_mut(data.monster_id) else {
+        let Some(monster) = monsters.get_large_mut(data.monster_id) else {
             log::debug!(
-                "Skipping condition text for {}, monster not found",
+                "Skipping condition text for {}, not a large monster",
                 data.monster_id
             );
             continue;
@@ -63,8 +68,21 @@ pub fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::
     }
 
     for monster in monsters.items_mut() {
-        monster.resistances.sort_by_key(|v| v.kind);
-        monster.weaknesses.sort_by_key(|v| v.kind);
+        let MonsterKind::Large(large) = &mut monster.kind else {
+            continue;
+        };
+
+        let immunities = monster
+            .parts
+            .iter()
+            .fold(Immunities::default(), |immunities, part| {
+                immunities.inspect(&part.multipliers)
+            });
+
+        large.resistances.extend(immunities.into_resistances());
+
+        large.resistances.sort_by_key(|v| v.kind);
+        large.weaknesses.sort_by_key(|v| v.kind);
     }
 
     Ok(())
@@ -200,13 +218,13 @@ impl From<WeaknessConditionKind> for AttributeKind {
 
 mod macros {
     macro_rules! add_condition {
-        ($presets:expr , $guid:expr => $monster:ident , $enum:ident :: $variant:ident) => {
+        ($monster_id:expr, $presets:expr , $guid:expr => $monster:ident , $enum:ident :: $variant:ident) => {
             if $guid.is_empty() {
                 add_condition!(@ $monster resist $enum::$variant);
             } else {
                 #[allow(unused)]
                 let Some(preset) = $presets.get(&$guid) else {
-                    panic!("Could not find entry for monster {}", $monster.game_id);
+                    panic!("Could not find entry for monster {}", $monster_id);
                 };
 
                 add_condition!(@ preset => $monster weak $enum::$variant);
@@ -231,4 +249,63 @@ mod macros {
     }
 
     pub(super) use add_condition;
+}
+
+#[derive(Debug)]
+struct Immunities {
+    fire: bool,
+    water: bool,
+    ice: bool,
+    thunder: bool,
+    dragon: bool,
+}
+
+impl Default for Immunities {
+    fn default() -> Self {
+        Self {
+            fire: true,
+            water: true,
+            ice: true,
+            thunder: true,
+            dragon: true,
+        }
+    }
+}
+
+impl Immunities {
+    fn inspect(self, multipliers: &Multipliers) -> Self {
+        Self {
+            fire: self.fire && multipliers.fire == 0.0,
+            water: self.water && multipliers.water == 0.0,
+            ice: self.ice && multipliers.ice == 0.0,
+            thunder: self.thunder && multipliers.thunder == 0.0,
+            dragon: self.dragon && multipliers.dragon == 0.0,
+        }
+    }
+
+    fn into_resistances(self) -> Vec<Resistance> {
+        let mut output = Vec::new();
+
+        if self.fire {
+            output.push(Element::Fire.into());
+        }
+
+        if self.water {
+            output.push(Element::Water.into());
+        }
+
+        if self.ice {
+            output.push(Element::Ice.into());
+        }
+
+        if self.thunder {
+            output.push(Element::Thunder.into());
+        }
+
+        if self.dragon {
+            output.push(Element::Dragon.into());
+        }
+
+        output
+    }
 }

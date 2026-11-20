@@ -2,13 +2,14 @@ use crate::processor::context::Context;
 use crate::processor::items::STRINGS as ITEM_STRINGS;
 use crate::processor::locations::StageId;
 use crate::processor::monsters::common_data::CommonData;
-use crate::processor::monsters::effectives::{Resistance, Weakness};
 use crate::processor::monsters::files::Packs;
 use crate::processor::monsters::large::LargeMonster;
 use crate::processor::monsters::parts::monster_parts::MonsterPart;
 use crate::processor::monsters::rewards::Reward;
 use crate::processor::monsters::species::SpeciesKind;
-use crate::processor::{GameId, Guid, LanguageMap, Processor, ReadFile, SortByGameId, WriteFile};
+use crate::processor::{
+    FileObjects, GameId, Guid, LanguageMap, Processor, ReadFile, SortByGameId, WriteFile,
+};
 use crate::serde::ordered_map;
 use crate::should_run;
 use rslib::config::Config;
@@ -77,10 +78,6 @@ struct Monster {
     pub parts: Vec<MonsterPart>,
     pub rewards: Vec<Reward>,
     pub locations: Vec<StageId>,
-    #[serde(skip_serializing_if = "Vec::is_empty")]
-    pub weaknesses: Vec<Weakness>,
-    #[serde(skip_serializing_if = "Vec::is_empty")]
-    pub resistances: Vec<Resistance>,
     #[serde(skip)]
     pub context: MonsterContext,
 }
@@ -137,6 +134,19 @@ impl VariantKind {
             Self::Frenzied => &data.names.frenzied,
             Self::Tempered => &data.names.tempered,
             Self::ArchTempered => &data.names.arch_tempered,
+        }
+    }
+}
+
+trait FileObjectByMonsterKind {
+    fn get_large_mut(&mut self, id: MonsterId) -> Option<&mut LargeMonster>;
+}
+
+impl FileObjectByMonsterKind for FileObjects<Monster> {
+    fn get_large_mut(&mut self, id: MonsterId) -> Option<&mut LargeMonster> {
+        match &mut self.get_mut(id)?.kind {
+            MonsterKind::Large(large) => Some(large),
+            _ => None,
         }
     }
 }

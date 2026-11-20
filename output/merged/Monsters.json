@@ -29,6 +29,58 @@
       "gold": 5687.026,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "construct",
     "names": {
       "ja": "ゾ・シア",
@@ -788,58 +840,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -893,6 +893,60 @@
       "gold": 1710.2781,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "construct",
     "names": {
       "ja": "護竜ドシャグマ",
@@ -1490,60 +1544,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -1734,6 +1734,66 @@
       "gold": 2530.215,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "レ・ダウ",
@@ -2414,62 +2474,6 @@
     ],
     "locations": [
       -1226157568
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "ice",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -2523,6 +2527,70 @@
       "gold": 859.4571,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "temnoceran",
     "names": {
       "ja": "ラバラ・バリナ",
@@ -3141,62 +3209,6 @@
     "locations": [
       -859829056,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -3250,6 +3262,62 @@
       "gold": 1292.9146,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "fanged-beast",
     "names": {
       "ja": "ババコンガ",
@@ -3766,62 +3834,6 @@
     "locations": [
       -859829056,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -3915,6 +3927,92 @@
       "gold": 900.3139,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": {
+          "ja": "外套膜の破壊後は、さらに効果的です。",
+          "en": "More effective once the mantle is broken.",
+          "fr": "Plus efficace une fois le manteau brisé.",
+          "it": "Più efficace se il mantello non è intatto.",
+          "de": "Effektiver nach Zerstören des Mantels.",
+          "es": "Más efectivo una vez destrozado el manto.",
+          "ru": "Эффективнее, если покров порван.",
+          "pl": "Większa efektywość po zniszczeniu opończy.",
+          "pt-BR": "Mais eficaz após quebrar o manto.",
+          "ko": "외투막을 파괴하면 더 효과적입니다.",
+          "zh-Hant": "破壞外套膜後更有效。",
+          "zh-Hans": "破坏外套膜后，效果更加明显。",
+          "ar": "أكثر فاعلية حين تتعطل العباءة.",
+          "th": "ได้ผลมากขึ้นเมื่อเยื่อหุ้มเสียหาย",
+          "es-419": "Surte un mejor efecto una vez roto el manto."
+        }
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "temnoceran",
     "names": {
       "ja": "ネルスキュラ",
@@ -4547,84 +4645,6 @@
       -1251081216,
       327401792,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": {
-          "ja": "外套膜の破壊後は、さらに効果的です。",
-          "en": "More effective once the mantle is broken.",
-          "fr": "Plus efficace une fois le manteau brisé.",
-          "it": "Più efficace se il mantello non è intatto.",
-          "de": "Effektiver nach Zerstören des Mantels.",
-          "es": "Más efectivo una vez destrozado el manto.",
-          "ru": "Эффективнее, если покров порван.",
-          "pl": "Większa efektywość po zniszczeniu opończy.",
-          "pt-BR": "Mais eficaz após quebrar o manto.",
-          "ko": "외투막을 파괴하면 더 효과적입니다.",
-          "zh-Hant": "破壞外套膜後更有效。",
-          "zh-Hans": "破坏外套膜后，效果更加明显。",
-          "ar": "أكثر فاعلية حين تتعطل العباءة.",
-          "th": "ได้ผลมากขึ้นเมื่อเยื่อหุ้มเสียหาย",
-          "es-419": "Surte un mejor efecto una vez roto el manto."
-        }
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -4823,6 +4843,70 @@
       "gold": 2865.0698,
       "gold_multiplier": 1.13
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "ラギアクルス",
@@ -5428,62 +5512,6 @@
     ],
     "locations": [
       -859829056
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -5537,6 +5565,70 @@
       "gold": 2066.103,
       "gold_multiplier": 1.17
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      }
+    ],
     "species": "demi-elder",
     "names": {
       "ja": "ゴア・マガラ",
@@ -6102,66 +6194,6 @@
     "locations": [
       327401792,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      }
     ]
   },
   {
@@ -6437,6 +6469,72 @@
       "gold": 2583.7136,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "グラビモス",
@@ -7008,14 +7106,39 @@
     "locations": [
       -1251081216,
       327401792
-    ],
+    ]
+  },
+  {
+    "game_id": -283654400,
+    "kind": "large",
+    "variants": [],
+    "tips": {
+      "ja": "左右の翼に備える伸縮自在の鎖刃を使った攻撃が\r\n特徴的。この鎖刃は護竜特有のエネルギー放出や\r\n吸収以外にも、吸収後のエネルギーを龍属性に\r\n変換した上で放出する能力を備えている。\r\nそれが竜乳結晶に当たることで起こる、同属性の\r\n爆発にも注意が必要。\r\n攻撃に伴い形成された結晶は、属性攻撃に反応し\r\n爆発するため、属性スリンガー弾なども有効だ。",
+      "en": "Guardian Arkveld use retractable chainblades\r\non their wings to attack. Not only are the\r\nblades used to absorb and release energy like\r\nother Guardians, but they can also convert\r\nthe energy to the dragon element and\r\ndischarge it, which will trigger an explosion\r\nof the same element if it comes into contact\r\nwith Wylkrystals. The crystals formed by\r\ntheir attacks will explode from elemental\r\ninterference, making Slinger ammo effective.",
+      "fr": "L'Arkveld Gardien attaque avec les lames\r\nrétractables évoquant des chaînes situées\r\nsur ses ailes. En plus d'absorber et de libérer\r\nde l'énergie, ces lames peuvent la convertir\r\nen énergie de type dragon, puis déclencher\r\nune explosion de cet élément si l'énergie\r\ntouche des cristaux de wylait. Les cristaux\r\nformés étant sensibles aux attaques\r\nélémentaires, des munitions de fronde\r\npeuvent être utiles pour les faire exploser.",
+      "it": "L'Arkveld guardiano usa delle lame\r\nretrattili sulle ali per attaccare.\r\nQueste assorbono e rilasciano energia come\r\nper gli altri guardiani, ma la convertono\r\nanche nell'elemento drago e causano\r\nesplosioni dell'elemento stesso se viene\r\nin contatto con un cristallo wylatte.\r\nLe munizioni per fionda hanno effetto\r\nperché i cristalli sono attivati da\r\ninterferenza elementale.",
+      "de": "Der Wächter-Arkveld nutzt ausfahrbare Ketten-\r\nklingen an den Flügeln für Angriffe. Mit ihnen\r\nkann er nicht nur Energie aufnehmen und\r\nabgeben, sondern sie auch in Drachenelement\r\numwandeln und abgeben, was bei Kontakt mit\r\nWiolkristallen eine Explosion dieses Elements\r\nauslöst. Die durch seine Angriffe geformten\r\nKristalle explodieren bei Elementeinwirkung,\r\nalso auch durch Schleudermunition.",
+      "es": "El Arkveld Guardián suele atacar con los\r\ncadenáculos retráctiles de sus alas, que no\r\nsolo absorben y liberan energía como otros\r\nGuardianes, sino que además la transforman\r\nen draco y la proyectan, lo que provoca una\r\nexplosión de dicho elemento al entrar en\r\ncontacto con petrowylact. Los cristales\r\nformados por sus ataques explotarán con\r\ncontacto elemental: tu munición de eslinga\r\npuede ser efectiva.",
+      "ru": "Арквельд-страж атакует цепными клинками,\r\nрасположенными на крыльях. С их помощью\r\nон не только поглощает и высвобождает\r\nэнергию подобно другим стражам, но\r\nи преобразует её в силу дракона. Контакт\r\nсилы дракона с кристаллами вивлока\r\nпровоцирует взрыв соответствующей стихии.\r\nКроме того, эти кристаллы можно взорвать\r\nи самостоятельно, пустив в них снаряд\r\nиз самострела.",
+      "pl": "Arkveld Strażnik do ataku wykorzystuje\r\nchowane ostrza łańcuchowe na skrzydłach.\r\nOstrza te służą nie tylko do pochłaniania\r\ni uwalniania energii jak u innych Strażników,\r\nale mogą również przekształcać energię\r\nw żywioł smoka i uwalniać ją, co powoduje\r\neksplozję tego żywiołu, jeśli wejdzie w kontakt\r\nz wylkryształami. Kryształy utworzone podczas\r\njego ataków eksplodują w skutek oddziaływania\r\nżywiołów, czyniąc amunicję do procy skuteczną.",
+      "pt-BR": "O Arkveld Guardião usa correlâminas retráteis\r\nem suas asas para atacar. Como em outros\r\nGuardiões, as lâminas são usadas para\r\nabsorver e liberar energia, mas também\r\nconverter a energia em elemento dragão e\r\ndescarregá-la, causando uma explosão do\r\nmesmo elemento se o ataque entrar em contato\r\ncom Cristais de Serpil. Os cristais criados por\r\nseus ataques explodem com a interferência\r\nelemental, tornando eficaz o uso da Atiradeira.",
+      "ko": "양 날개에 달린 신축성 좋은 사슬날을\r\n이용한 공격이 특징이다. 이 사슬날은\r\n수호룡 특유의 에너지 방출과 흡수에도\r\n사용하며, 흡수한 에너지를 용속성으로\r\n변환해 방출하기도 한다. 이 에너지가\r\n용유 결정에 닿으면 발생하는 같은 속성\r\n폭발에 주의가 필요하다. 공격에 따라\r\n형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어 탄 등이 효과적이다.",
+      "zh-Hant": "護鎖刃龍的特徵是會使用雙翼上能自由伸縮的鎖刃\r\n施展攻擊。鎖刃除了能用於釋放和吸收護龍特有的\r\n能量，有時還能將吸收的能量轉化成龍屬性並再次\r\n釋放。若能量擊中龍乳結晶，會引起同屬性爆炸，\r\n要多加小心。牠的攻擊形成的結晶會對屬性攻擊起\r\n反應並爆炸，因此屬性投射器彈等攻擊手段也很有\r\n效。",
+      "zh-Hans": "护锁刃龙的特点是会利用左右两翼上可自由伸缩\r\n的锁刃开展攻击。锁刃不仅能吸收和释放护龙特\r\n有的能量，还能将吸收的能量转化为龙属性并再\r\n次释出。转化后的能量如果命中龙乳结晶将会引\r\n起同属性的爆炸，需多加小心。它攻击形成的结\r\n晶也会对属性攻击起反应并爆炸，因此属性投射\r\n器弹药等攻击手段也会非常有效。",
+      "ar": "يستخدم وحش (آركفيلد) الحارس نصال سلاسل\r\nقابلة للطي على جناحيه للهجوم.\r\nالنصال لا تُستخدم لامتصاص الطاقة وإطلاقها فحسب\r\nمثل الوحوش الحارسة الأخرى، ولكن يمكنها أيضًا تحويل الطاقة إلى عنصر التنين\r\nوإطلاقها، ما يحفز انفجارًا للعنصر نفسه\r\nإذا اصطدم بـ (وايليبريستال).\r\nالبلورات المتشكلة من هجماتها ستنفجر من التدخل العنصري،\r\nما يجعل ذخيرة نبلة المعصم فعَّالة.",
+      "th": "การ์เดียนอาร์คเวลด์ใช้ใบมีดลูกโซ่แบบยืดหดได้\r\nบนปีกเป็นอาวุธโจมตี ใบมีดลูกโซ่นั้นนอกจากจะ\r\nสามารถดูดซับและปลดปล่อยพลังงานเช่นการ์เดียน\r\nอื่นๆ ได้แล้ว ยังสามารถแปลงพลังงานนั้นเป็นพลัง\r\nธาตุมังกรและปลดปล่อยออกมาได้ หากพลังนี้สัมผัส\r\nกับวิลค์คริสตัล จะทำให้วิลค์คริสตัลในบริเวณนั้น\r\nระเบิดเป็นธาตุมังกรด้วย นอกจากนี้ คริสตัลที่เกิดขึ้น\r\nในระหว่างการโจมตีของมันจะระเบิดเมื่อมีธาตุมา\r\nกระตุ้น กระสุนสลิงเกอร์จึงใช้งานได้ดีเป็นพิเศษ",
+      "es-419": "El Arkveld Guardián usa hojas cadena\r\nretráctiles en sus alas para atacar. No solo\r\nabsorben y liberan energía, como otros\r\nGuardianes, pueden convertir la energía al\r\nelemento draco y lanzar ataques, lo que\r\nprovocará una explosión del mismo elemento si\r\nentra en contacto con wylkristales. Los\r\ncristales que se forman con sus ataques\r\nexplotarán por interferencia elemental, por\r\nlo que la munición de eslinga será efectiva."
+    },
+    "size": {
+      "base": 1666.54,
+      "mini": 1499.886,
+      "mini_multiplier": 0.9,
+      "silver": 1916.521,
+      "silver_multiplier": 1.15,
+      "gold": 2049.8442,
+      "gold_multiplier": 1.23
+    },
     "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
       {
         "kind": "element",
         "element": "dragon",
@@ -7057,51 +7180,18 @@
         "effect": "stun",
         "level": 1,
         "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
       }
     ],
     "resistances": [
       {
         "kind": "effect",
         "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
       }
-    ]
-  },
-  {
-    "game_id": -283654400,
-    "kind": "large",
-    "variants": [],
-    "tips": {
-      "ja": "左右の翼に備える伸縮自在の鎖刃を使った攻撃が\r\n特徴的。この鎖刃は護竜特有のエネルギー放出や\r\n吸収以外にも、吸収後のエネルギーを龍属性に\r\n変換した上で放出する能力を備えている。\r\nそれが竜乳結晶に当たることで起こる、同属性の\r\n爆発にも注意が必要。\r\n攻撃に伴い形成された結晶は、属性攻撃に反応し\r\n爆発するため、属性スリンガー弾なども有効だ。",
-      "en": "Guardian Arkveld use retractable chainblades\r\non their wings to attack. Not only are the\r\nblades used to absorb and release energy like\r\nother Guardians, but they can also convert\r\nthe energy to the dragon element and\r\ndischarge it, which will trigger an explosion\r\nof the same element if it comes into contact\r\nwith Wylkrystals. The crystals formed by\r\ntheir attacks will explode from elemental\r\ninterference, making Slinger ammo effective.",
-      "fr": "L'Arkveld Gardien attaque avec les lames\r\nrétractables évoquant des chaînes situées\r\nsur ses ailes. En plus d'absorber et de libérer\r\nde l'énergie, ces lames peuvent la convertir\r\nen énergie de type dragon, puis déclencher\r\nune explosion de cet élément si l'énergie\r\ntouche des cristaux de wylait. Les cristaux\r\nformés étant sensibles aux attaques\r\nélémentaires, des munitions de fronde\r\npeuvent être utiles pour les faire exploser.",
-      "it": "L'Arkveld guardiano usa delle lame\r\nretrattili sulle ali per attaccare.\r\nQueste assorbono e rilasciano energia come\r\nper gli altri guardiani, ma la convertono\r\nanche nell'elemento drago e causano\r\nesplosioni dell'elemento stesso se viene\r\nin contatto con un cristallo wylatte.\r\nLe munizioni per fionda hanno effetto\r\nperché i cristalli sono attivati da\r\ninterferenza elementale.",
-      "de": "Der Wächter-Arkveld nutzt ausfahrbare Ketten-\r\nklingen an den Flügeln für Angriffe. Mit ihnen\r\nkann er nicht nur Energie aufnehmen und\r\nabgeben, sondern sie auch in Drachenelement\r\numwandeln und abgeben, was bei Kontakt mit\r\nWiolkristallen eine Explosion dieses Elements\r\nauslöst. Die durch seine Angriffe geformten\r\nKristalle explodieren bei Elementeinwirkung,\r\nalso auch durch Schleudermunition.",
-      "es": "El Arkveld Guardián suele atacar con los\r\ncadenáculos retráctiles de sus alas, que no\r\nsolo absorben y liberan energía como otros\r\nGuardianes, sino que además la transforman\r\nen draco y la proyectan, lo que provoca una\r\nexplosión de dicho elemento al entrar en\r\ncontacto con petrowylact. Los cristales\r\nformados por sus ataques explotarán con\r\ncontacto elemental: tu munición de eslinga\r\npuede ser efectiva.",
-      "ru": "Арквельд-страж атакует цепными клинками,\r\nрасположенными на крыльях. С их помощью\r\nон не только поглощает и высвобождает\r\nэнергию подобно другим стражам, но\r\nи преобразует её в силу дракона. Контакт\r\nсилы дракона с кристаллами вивлока\r\nпровоцирует взрыв соответствующей стихии.\r\nКроме того, эти кристаллы можно взорвать\r\nи самостоятельно, пустив в них снаряд\r\nиз самострела.",
-      "pl": "Arkveld Strażnik do ataku wykorzystuje\r\nchowane ostrza łańcuchowe na skrzydłach.\r\nOstrza te służą nie tylko do pochłaniania\r\ni uwalniania energii jak u innych Strażników,\r\nale mogą również przekształcać energię\r\nw żywioł smoka i uwalniać ją, co powoduje\r\neksplozję tego żywiołu, jeśli wejdzie w kontakt\r\nz wylkryształami. Kryształy utworzone podczas\r\njego ataków eksplodują w skutek oddziaływania\r\nżywiołów, czyniąc amunicję do procy skuteczną.",
-      "pt-BR": "O Arkveld Guardião usa correlâminas retráteis\r\nem suas asas para atacar. Como em outros\r\nGuardiões, as lâminas são usadas para\r\nabsorver e liberar energia, mas também\r\nconverter a energia em elemento dragão e\r\ndescarregá-la, causando uma explosão do\r\nmesmo elemento se o ataque entrar em contato\r\ncom Cristais de Serpil. Os cristais criados por\r\nseus ataques explodem com a interferência\r\nelemental, tornando eficaz o uso da Atiradeira.",
-      "ko": "양 날개에 달린 신축성 좋은 사슬날을\r\n이용한 공격이 특징이다. 이 사슬날은\r\n수호룡 특유의 에너지 방출과 흡수에도\r\n사용하며, 흡수한 에너지를 용속성으로\r\n변환해 방출하기도 한다. 이 에너지가\r\n용유 결정에 닿으면 발생하는 같은 속성\r\n폭발에 주의가 필요하다. 공격에 따라\r\n형성된 결정은 속성 공격에 반응해\r\n폭발하므로 속성 슬링어 탄 등이 효과적이다.",
-      "zh-Hant": "護鎖刃龍的特徵是會使用雙翼上能自由伸縮的鎖刃\r\n施展攻擊。鎖刃除了能用於釋放和吸收護龍特有的\r\n能量，有時還能將吸收的能量轉化成龍屬性並再次\r\n釋放。若能量擊中龍乳結晶，會引起同屬性爆炸，\r\n要多加小心。牠的攻擊形成的結晶會對屬性攻擊起\r\n反應並爆炸，因此屬性投射器彈等攻擊手段也很有\r\n效。",
-      "zh-Hans": "护锁刃龙的特点是会利用左右两翼上可自由伸缩\r\n的锁刃开展攻击。锁刃不仅能吸收和释放护龙特\r\n有的能量，还能将吸收的能量转化为龙属性并再\r\n次释出。转化后的能量如果命中龙乳结晶将会引\r\n起同属性的爆炸，需多加小心。它攻击形成的结\r\n晶也会对属性攻击起反应并爆炸，因此属性投射\r\n器弹药等攻击手段也会非常有效。",
-      "ar": "يستخدم وحش (آركفيلد) الحارس نصال سلاسل\r\nقابلة للطي على جناحيه للهجوم.\r\nالنصال لا تُستخدم لامتصاص الطاقة وإطلاقها فحسب\r\nمثل الوحوش الحارسة الأخرى، ولكن يمكنها أيضًا تحويل الطاقة إلى عنصر التنين\r\nوإطلاقها، ما يحفز انفجارًا للعنصر نفسه\r\nإذا اصطدم بـ (وايليبريستال).\r\nالبلورات المتشكلة من هجماتها ستنفجر من التدخل العنصري،\r\nما يجعل ذخيرة نبلة المعصم فعَّالة.",
-      "th": "การ์เดียนอาร์คเวลด์ใช้ใบมีดลูกโซ่แบบยืดหดได้\r\nบนปีกเป็นอาวุธโจมตี ใบมีดลูกโซ่นั้นนอกจากจะ\r\nสามารถดูดซับและปลดปล่อยพลังงานเช่นการ์เดียน\r\nอื่นๆ ได้แล้ว ยังสามารถแปลงพลังงานนั้นเป็นพลัง\r\nธาตุมังกรและปลดปล่อยออกมาได้ หากพลังนี้สัมผัส\r\nกับวิลค์คริสตัล จะทำให้วิลค์คริสตัลในบริเวณนั้น\r\nระเบิดเป็นธาตุมังกรด้วย นอกจากนี้ คริสตัลที่เกิดขึ้น\r\nในระหว่างการโจมตีของมันจะระเบิดเมื่อมีธาตุมา\r\nกระตุ้น กระสุนสลิงเกอร์จึงใช้งานได้ดีเป็นพิเศษ",
-      "es-419": "El Arkveld Guardián usa hojas cadena\r\nretráctiles en sus alas para atacar. No solo\r\nabsorben y liberan energía, como otros\r\nGuardianes, pueden convertir la energía al\r\nelemento draco y lanzar ataques, lo que\r\nprovocará una explosión del mismo elemento si\r\nentra en contacto con wylkristales. Los\r\ncristales que se forman con sus ataques\r\nexplotarán por interferencia elemental, por\r\nlo que la munición de eslinga será efectiva."
-    },
-    "size": {
-      "base": 1666.54,
-      "mini": 1499.886,
-      "mini_multiplier": 0.9,
-      "silver": 1916.521,
-      "silver_multiplier": 1.15,
-      "gold": 2049.8442,
-      "gold_multiplier": 1.23
-    },
+    ],
     "species": "construct",
     "names": {
       "ja": "護竜アルシュベルド",
@@ -7450,60 +7540,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -7889,6 +7925,66 @@
       "gold": 1530.323,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "brute-wyvern",
     "names": {
       "ja": "ケマトリス",
@@ -8469,62 +8565,6 @@
     "locations": [
       -1226157568,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -8598,6 +8638,62 @@
       "gold": 1710.2781,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "fanged-beast",
     "names": {
       "ja": "ドシャグマ",
@@ -9113,62 +9209,6 @@
       -1226157568,
       -859829056,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -9222,6 +9262,84 @@
       "gold": 2352.5176,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "noise",
+        "level": 1,
+        "condition": {
+          "ja": "地中に潜っている間のみ有効です。",
+          "en": "Effective only while burrowing.",
+          "fr": "Efficace seulement pendant qu'il creuse.",
+          "it": "Efficace solo se sottoterra.",
+          "de": "Nur im eingegrabenen Zustand effektiv.",
+          "es": "Efectivo solo al enterrarse.",
+          "ru": "Эффективно только при зарывании.",
+          "pl": "Efektywne jedynie podczas zagrzebywania.",
+          "pt-BR": "Eficaz apenas ao se enterrar.",
+          "ko": "땅속에 숨어 있을 때만 유효합니다.",
+          "zh-Hant": "僅在潛入地底時有效。",
+          "zh-Hans": "仅在潜入地下时有效。",
+          "ar": "فعّال في حالة الحفر فقط.",
+          "th": "ได้ผลเฉพาะตอนมุดดินเท่านั้น",
+          "es-419": "Surte efecto solo al excavar."
+        }
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "バーラハーラ",
@@ -9854,78 +9972,6 @@
     ],
     "locations": [
       -1226157568
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "noise",
-        "level": 1,
-        "condition": {
-          "ja": "地中に潜っている間のみ有効です。",
-          "en": "Effective only while burrowing.",
-          "fr": "Efficace seulement pendant qu'il creuse.",
-          "it": "Efficace solo se sottoterra.",
-          "de": "Nur im eingegrabenen Zustand effektiv.",
-          "es": "Efectivo solo al enterrarse.",
-          "ru": "Эффективно только при зарывании.",
-          "pl": "Efektywne jedynie podczas zagrzebywania.",
-          "pt-BR": "Eficaz apenas ao se enterrar.",
-          "ko": "땅속에 숨어 있을 때만 유효합니다.",
-          "zh-Hant": "僅在潛入地底時有效。",
-          "zh-Hans": "仅在潜入地下时有效。",
-          "ar": "فعّال في حالة الحفر فقط.",
-          "th": "ได้ผลเฉพาะตอนมุดดินเท่านั้น",
-          "es-419": "Surte efecto solo al excavar."
-        }
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
     ]
   },
   {
@@ -10378,6 +10424,66 @@
       "gold": 2128.2322,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "セルレギオス",
@@ -10888,62 +10994,6 @@
     "locations": [
       -1226157568,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -10997,6 +11047,66 @@
       "gold": 2157.8752,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "リオレイア",
@@ -11466,62 +11576,6 @@
       -1251081216,
       -1226157568,
       -859829056
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -11575,6 +11629,66 @@
       "gold": 612.909,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "amphibian",
     "names": {
       "ja": "チャタカブラ",
@@ -12060,62 +12174,6 @@
     ],
     "locations": [
       -1226157568
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -12363,6 +12421,54 @@
       "gold": 5979.3374,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "status",
+        "status": "paralysis"
+      },
+      {
+        "kind": "status",
+        "status": "poison"
+      },
+      {
+        "kind": "status",
+        "status": "sleep"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "elder-dragon",
     "names": {
       "ja": "ゴグマジオス",
@@ -13024,46 +13130,6 @@
     ],
     "locations": [
       -1251081216
-    ],
-    "weaknesses": [
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "status",
-        "status": "paralysis"
-      },
-      {
-        "kind": "status",
-        "status": "poison"
-      },
-      {
-        "kind": "status",
-        "status": "sleep"
-      },
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -13225,6 +13291,58 @@
       "gold": 1453.6877,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "status",
+        "status": "poison"
+      },
+      {
+        "kind": "status",
+        "status": "sleep"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "machine",
     "names": {
       "ja": "オメガ・プラネテス",
@@ -13586,54 +13704,6 @@
     ],
     "locations": [
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "status",
-        "status": "poison"
-      },
-      {
-        "kind": "status",
-        "status": "sleep"
-      },
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -13687,6 +13757,66 @@
       "gold": 2365.8237,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "タマミツネ",
@@ -14227,62 +14357,6 @@
     "locations": [
       -859829056,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -14516,6 +14590,64 @@
       "gold": 2025.1458,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "construct",
     "names": {
       "ja": "護竜アンジャナフ亜種",
@@ -15068,60 +15200,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "ice",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -15195,6 +15273,66 @@
       "gold": 1875.0536,
       "gold_multiplier": 1.13
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "ヒラバミ",
@@ -15760,62 +15898,6 @@
     "locations": [
       327401792,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -16152,6 +16234,79 @@
       "gold": 1223.2931,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "noise",
+        "level": 1,
+        "condition": {
+          "ja": "怒り時以外の状態で有効です。",
+          "en": "Effective against any state but enraged.",
+          "fr": "Efficace, sauf lorsqu'il est enragé.",
+          "it": "Efficace in tutti gli stati tranne infuriato.",
+          "de": "Effektiv gegen jeden Zustand außer wütend.",
+          "es": "Efectivo contra todo estado salvo enfurecido.",
+          "ru": "Эффективно, если монстр не разъярён.",
+          "pl": "Efektywne przeciwko wszystkim stanom\r\nz wyjątkiem rozwścieczenia.",
+          "pt-BR": "Eficaz contra qualquer estado, fora enfurecido.",
+          "ko": "분노 이외의 상태일 때 유효합니다.",
+          "zh-Hant": "僅在非憤怒狀態時有效。",
+          "zh-Hans": "仅在非愤怒状态时有效。",
+          "ar": "فعّال في أي حالة ماعدا حالة الغضب.",
+          "th": "ได้ผลกับทุกสถานะยกเว้นตอนโกรธจัด",
+          "es-419": "Eficaz contra cualquier estado menos enfurecido."
+        }
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [],
     "species": "bird-wyvern",
     "names": {
       "ja": "イャンクック",
@@ -16734,78 +16889,6 @@
     "locations": [
       -859829056,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "ice",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "noise",
-        "level": 1,
-        "condition": {
-          "ja": "怒り時以外の状態で有効です。",
-          "en": "Effective against any state but enraged.",
-          "fr": "Efficace, sauf lorsqu'il est enragé.",
-          "it": "Efficace in tutti gli stati tranne infuriato.",
-          "de": "Effektiv gegen jeden Zustand außer wütend.",
-          "es": "Efectivo contra todo estado salvo enfurecido.",
-          "ru": "Эффективно, если монстр не разъярён.",
-          "pl": "Efektywne przeciwko wszystkim stanom\r\nz wyjątkiem rozwścieczenia.",
-          "pt-BR": "Eficaz contra qualquer estado, fora enfurecido.",
-          "ko": "분노 이외의 상태일 때 유효합니다.",
-          "zh-Hant": "僅在非憤怒狀態時有效。",
-          "zh-Hans": "仅在非愤怒状态时有效。",
-          "ar": "فعّال في أي حالة ماعدا حالة الغضب.",
-          "th": "ได้ผลกับทุกสถานะยกเว้นตอนโกรธจัด",
-          "es-419": "Eficaz contra cualquier estado menos enfurecido."
-        }
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
     ]
   },
   {
@@ -16859,6 +16942,62 @@
       "gold": 1473.3186,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "brute-wyvern",
     "names": {
       "ja": "ププロポル",
@@ -17480,62 +17619,6 @@
     ],
     "locations": [
       -1251081216
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -17804,6 +17887,62 @@
       "gold": 2049.8442,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "アルシュベルド",
@@ -18324,62 +18463,6 @@
       -859829056,
       327401792,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -18433,6 +18516,66 @@
       "gold": 1432.1628,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "fanged-beast",
     "names": {
       "ja": "アジャラカン",
@@ -19126,62 +19269,6 @@
     "locations": [
       -1251081216,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -19560,6 +19647,64 @@
       "gold": 1185.8898,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "thunder"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      }
+    ],
     "species": "bird-wyvern",
     "names": {
       "ja": "ゲリョス",
@@ -20132,60 +20277,6 @@
       -1226157568,
       327401792,
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      }
     ]
   },
   {
@@ -20574,6 +20665,64 @@
       "gold": 1717.4509,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "ice",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      }
+    ],
     "species": "cephalopod",
     "names": {
       "ja": "シーウー",
@@ -21302,60 +21451,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "ice",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      }
     ]
   },
   {
@@ -21409,6 +21504,64 @@
       "gold": 2096.1907,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "construct",
     "names": {
       "ja": "護竜リオレウス",
@@ -22097,60 +22250,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -22471,6 +22570,66 @@
       "gold": 3366.6016,
       "gold_multiplier": 1.13
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "thunder",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "water"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "ウズ・トゥナ",
@@ -23272,62 +23431,6 @@
     ],
     "locations": [
       -859829056
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "thunder",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -23401,6 +23504,66 @@
       "gold": 5609.9,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "leviathan",
     "names": {
       "ja": "ジン・ダハド",
@@ -24136,62 +24299,6 @@
     ],
     "locations": [
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -24265,6 +24372,64 @@
       "gold": 2365.8809,
       "gold_multiplier": 1.13
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "flash"
+      }
+    ],
     "species": "cephalopod",
     "names": {
       "ja": "ヌ・エグドラ",
@@ -24987,60 +25152,6 @@
     ],
     "locations": [
       -1251081216
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "flash"
-      }
     ]
   },
   {
@@ -25094,6 +25205,60 @@
       "gold": 1708.1643,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "water",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 3,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "effect",
+        "effect": "noise"
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust"
+      }
+    ],
     "species": "construct",
     "names": {
       "ja": "護竜オドガロン亜種",
@@ -25881,60 +26046,6 @@
     ],
     "locations": [
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "water",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 3,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust"
-      }
     ]
   },
   {
@@ -26110,6 +26221,66 @@
       "gold": 2096.1907,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "dragon",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "fire"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "flying-wyvern",
     "names": {
       "ja": "リオレウス",
@@ -26611,62 +26782,6 @@
       -1251081216,
       -859829056,
       327401792
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "dragon",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   },
   {
@@ -26740,6 +26855,70 @@
       "gold": 1106.2266,
       "gold_multiplier": 1.23
     },
+    "weaknesses": [
+      {
+        "kind": "element",
+        "element": "fire",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "paralysis",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "poison",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "sleep",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "status",
+        "status": "blastblight",
+        "level": 2,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "flash",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "stun",
+        "level": 1,
+        "condition": null
+      },
+      {
+        "kind": "effect",
+        "effect": "exhaust",
+        "level": 1,
+        "condition": null
+      }
+    ],
+    "resistances": [
+      {
+        "kind": "element",
+        "element": "ice"
+      },
+      {
+        "kind": "element",
+        "element": "dragon"
+      },
+      {
+        "kind": "effect",
+        "effect": "noise"
+      }
+    ],
     "species": "fanged-beast",
     "names": {
       "ja": "ドドブランゴ",
@@ -27124,62 +27303,6 @@
     ],
     "locations": [
       1182228864
-    ],
-    "weaknesses": [
-      {
-        "kind": "element",
-        "element": "fire",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "paralysis",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "poison",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "sleep",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "status",
-        "status": "blastblight",
-        "level": 2,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "flash",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "stun",
-        "level": 1,
-        "condition": null
-      },
-      {
-        "kind": "effect",
-        "effect": "exhaust",
-        "level": 1,
-        "condition": null
-      }
-    ],
-    "resistances": [
-      {
-        "kind": "effect",
-        "effect": "noise"
-      }
     ]
   }
 ]
