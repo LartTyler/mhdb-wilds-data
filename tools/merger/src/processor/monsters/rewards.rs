@@ -32,6 +32,12 @@ pub(super) fn process(
                 state = data.kind;
             }
 
+            // This shows up once, it points to a duplicate item in the data files, and it's
+            // breaking parsing. I'm sure I'll come to regret this, but I'm ignoring it for now.
+            if data.kind == RewardKind::WhatTheFuck {
+                continue;
+            }
+
             if state == RewardKind::Unknown4 {
                 log::trace!(
                     "Ignore reward record {} for {}, got Unknown4",
@@ -120,7 +126,6 @@ enum RewardSource {
     TemperedWoundDestroyed,
     CarveCrystallized,
     BrokenFragment,
-    Fishing,
 }
 
 /// From enums file: EnemyReward.RewardType_Fixed
@@ -140,7 +145,9 @@ enum RewardKind {
     CarveRottenSevered = -2122632576,
     TemperedWoundDestroyed = -1024798784,
     CarveCrystallized = 906321792,
-    Fishing = -468628128,
+    /// I have no idea what this is. It only shows up once, and the item it points to is a duplicate
+    /// item in the data files. I'm ignoring it for now, but I'm sure I'll regret this eventually.
+    WhatTheFuck = -468628128,
     /// I think this is junk data, I'm going to ignore it for now.
     Unknown4 = 4,
 }
@@ -167,7 +174,6 @@ impl TryFrom<RewardKind> for RewardSource {
             RewardKind::TemperedWoundDestroyed => Self::TemperedWoundDestroyed,
             RewardKind::CarveCrystallized => Self::CarveCrystallized,
             RewardKind::BrokenFragment => Self::BrokenFragment,
-            RewardKind::Fishing => Self::Fishing,
             _ => {
                 return Err(anyhow!(
                     "Could not convert {value:?} directly into a reward source"

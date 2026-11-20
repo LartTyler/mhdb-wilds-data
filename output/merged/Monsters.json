@@ -4774,13 +4774,6 @@
         "chance": 100
       },
       {
-        "rank": "low",
-        "kind": "fishing",
-        "item_id": 278,
-        "amount": 3,
-        "chance": 100
-      },
-      {
         "rank": "high",
         "kind": "carve",
         "item_id": 492,
