@@ -1,7 +1,7 @@
 use crate::is_weapon;
+use crate::processor::Processor;
 use crate::processor::weapons::heavy_bowgun::{self, AmmoCapacityData, AmmoKind, AmmoLevelData};
 use crate::processor::weapons::{ProcessorDefinition, WeaponKindCode};
-use crate::processor::Processor;
 use serde::{Deserialize, Serialize};
 use serde_repr::Deserialize_repr;
 

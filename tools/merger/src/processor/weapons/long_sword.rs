@@ -2,7 +2,7 @@ use crate::is_weapon;
 use crate::processor::weapons::{
     HandicraftData, ProcessorDefinition, Sharpness, SharpnessData, WeaponKindCode,
 };
-use crate::processor::{values_until_first_zero, Processor};
+use crate::processor::{Processor, values_until_first_zero};
 use serde::{Deserialize, Serialize};
 
 pub(super) fn definition() -> ProcessorDefinition {

@@ -1,7 +1,7 @@
-use crate::placeholders::{ApplyContext, Placeholder};
+use crate::processor::context::Context;
 use crate::processor::{
-    to_ingame_rarity, IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result,
-    WriteFile,
+    IdMap, LanguageMap, Lookup, LookupMap, PopulateStrings, Processor, ReadFile, Result, WriteFile,
+    to_ingame_rarity,
 };
 use crate::serde::ordered_map;
 use crate::should_run;
@@ -24,7 +24,7 @@ pub const OUTPUT: &str = "merged/Armor.json";
 pub const UPGRADE_OUTPUT: &str = "merged/ArmorUpgrade.json";
 
 /// Armor set and group bonuses are added by the [skills::process()] function.
-pub fn process(config: &Config, filters: &[Processor]) -> Result {
+pub fn process(config: &Config, filters: &[Processor], context: &Context) -> Result {
     should_run!(filters, Processor::Armor);
 
     let data: Vec<SeriesData> = Vec::read_file(config.io.output.join(SERIES_DATA))?;
@@ -97,7 +97,7 @@ pub fn process(config: &Config, filters: &[Processor]) -> Result {
         strings.populate(&data.name_guid, &mut armor.names);
 
         strings.populate(&data.description_guid, &mut armor.descriptions);
-        Placeholder::process(&mut armor.descriptions, &ApplyContext::empty());
+        context.placeholders.apply(&mut armor.descriptions);
 
         for (id, level) in data.skill_ids.into_iter().zip(data.skill_levels) {
             if id != 0 {
@@ -171,17 +171,7 @@ pub struct Set {
     #[serde(serialize_with = "ordered_map")]
     names: LanguageMap,
     rarity: u8,
-    #[deprecated(
-        since = "1.41.2-wilds",
-        note = "Will be replaced by `set_bonus_id` on or after 2026-05-01"
-    )]
-    pub set_bonus: Option<Bonus>,
     pub set_bonus_id: Option<isize>,
-    #[deprecated(
-        since = "1.41.2-wilds",
-        note = "Will be replaced by `group_bonus_id` on or after 2026-05-01"
-    )]
-    pub group_bonus: Option<Bonus>,
     pub group_bonus_id: Option<isize>,
     pub pieces: Vec<Armor>,
     #[serde(skip)]
@@ -194,9 +184,7 @@ impl From<&SeriesData> for Set {
         Self {
             game_id: value.id,
             rarity: to_ingame_rarity(value.rarity),
-            set_bonus: None,
             set_bonus_id: None,
-            group_bonus: None,
             group_bonus_id: None,
             names: LanguageMap::new(),
             pieces: Vec::new(),
@@ -204,18 +192,6 @@ impl From<&SeriesData> for Set {
             model_id: value.model_id,
         }
     }
-}
-
-#[derive(Debug, Serialize, Deserialize, Clone)]
-pub struct Bonus {
-    pub skill_id: isize,
-    pub ranks: Vec<BonusRank>,
-}
-
-#[derive(Debug, Serialize, Deserialize, Clone)]
-pub struct BonusRank {
-    pub pieces: u8,
-    pub skill_level: u8,
 }
 
 #[derive(Debug, Serialize, Deserialize)]

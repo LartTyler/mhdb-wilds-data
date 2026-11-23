@@ -1,57 +1,60 @@
-use crate::processor::monsters::large::RunContext;
-use crate::processor::monsters::MonsterId;
-use crate::processor::ReadFile;
+use crate::processor::monsters::{Monster, MonsterId, MonsterKind};
+use crate::processor::{FileObjects, Multiplier, Percentage, PercentageConversion, ReadFile};
 use rslib::config::Config;
 use serde::{Deserialize, Serialize};
 
 const DATA: &str = "user/monsters/EmCommonSize.json";
 
-pub(super) fn process(config: &Config, context: &mut RunContext) -> anyhow::Result<()> {
-    let data: Vec<SizeData> = Vec::read_file(config.io.output.join(DATA))?;
+pub(super) fn process(config: &Config, monsters: &mut FileObjects<Monster>) -> anyhow::Result<()> {
+    let data: Vec<SizeData> = Vec::read_file(config.data_path(DATA))?;
 
     for data in data {
-        // Some unimplemented monsters appear to be included in the size file sometimes. We can just
-        // ignore entries with no data.
-        let Some(monster) = context.find_monster_mut(data.id) else {
+        let Some(monster) = monsters.get_mut(data.monster_id) else {
+            log::debug!("Skipping size data for {}, monster not found", data.monster_id);
             continue;
         };
 
-        monster.size = data.into();
+        match &mut monster.kind {
+            MonsterKind::Large(monster) => monster.size = data.into(),
+            _ => panic!("Tried to process {}, only large monsters have sizes???", data.monster_id),
+        }
     }
 
     Ok(())
 }
 
+type SizeValue = f32;
+
 #[derive(Debug, Serialize, Default)]
-pub(super) struct Size {
-    base: f32,
-    mini: f32,
-    mini_multiplier: f32,
-    silver: f32,
-    silver_multiplier: f32,
-    gold: f32,
-    gold_multiplier: f32,
+pub struct MonsterSize {
+    base: SizeValue,
+    mini: SizeValue,
+    mini_multiplier: Multiplier,
+    silver: SizeValue,
+    silver_multiplier: Multiplier,
+    gold: SizeValue,
+    gold_multiplier: Multiplier,
 }
 
 #[derive(Debug, Deserialize)]
 struct SizeData {
     #[serde(rename = "_EmId")]
-    id: MonsterId,
+    monster_id: MonsterId,
     #[serde(rename = "_BaseSize")]
-    base_size: f32,
+    base_size: SizeValue,
     #[serde(rename = "_CrownSize_Small")]
-    crown_mini: u8,
+    crown_mini: Percentage,
     #[serde(rename = "_CrownSize_Big")]
-    crown_silver: u8,
+    crown_silver: Percentage,
     #[serde(rename = "_CrownSize_King")]
-    crown_gold: u8,
+    crown_gold: Percentage,
 }
 
-impl From<SizeData> for Size {
+impl From<SizeData> for MonsterSize {
     fn from(value: SizeData) -> Self {
-        let mini_multiplier = percentage_to_multiplier(value.crown_mini);
-        let silver_multiplier = percentage_to_multiplier(value.crown_silver);
-        let gold_multiplier = percentage_to_multiplier(value.crown_gold);
+        let mini_multiplier = value.crown_mini.percent_as_f32();
+        let silver_multiplier = value.crown_silver.percent_as_f32();
+        let gold_multiplier = value.crown_gold.percent_as_f32();
 
         Self {
             base: value.base_size,
@@ -63,8 +66,4 @@ impl From<SizeData> for Size {
             gold_multiplier,
         }
     }
-}
-
-fn percentage_to_multiplier(value: u8) -> f32 {
-    value as f32 / 100.0
 }
